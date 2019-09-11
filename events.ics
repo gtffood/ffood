@@ -3498,6 +3498,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Digital Transformation in Energy: A New Way of Doing Business
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190909T193000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190909T203000
 UID:https://career.gatech.edu/employer-information-sessions
 DESCRIPTION:Only for majors: College of Business\, College of Computing\, 
  College of Engineering\n\nCome meet the Chevron Recruiting Team to learn m
@@ -3510,6 +3511,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Deloitte Consulting Lunch & Learn
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190913T113000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190913T123000
 UID:https://career.gatech.edu/employer-information-sessions
 DESCRIPTION:Only for majors: All Majors\n\nDeloitte Consulting is hosting 
  an informational Lunch & Learn session on Friday 9/13 from 11:30am â€
@@ -3522,6 +3524,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Deloitte Consulting - Market Trends
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190919T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190919T190000
 UID:https://career.gatech.edu/employer-information-sessions
 DESCRIPTION:Only for majors: All Majors\n\nDeloitte Consulting is hosting 
  an informational session on Marketplace Tech Trends on Thursday\, 9/19. Jo
@@ -3535,6 +3538,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Virginia Systems & Technology (VaST) Information Session
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190909T161500
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190909T171500
 UID:https://career.gatech.edu/employer-information-sessions
 DESCRIPTION:Only for majors: College of Computing\, Computational Engineer
  ing - BS Level\, Electrical & Computer Engineering - MS & Ph.D. Level\, El
@@ -3551,6 +3555,7 @@ BEGIN:VEVENT
 SUMMARY:Information Session - Medtronic Engineering Internships - Summer 2
  020
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190909T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190909T183000
 UID:https://career.gatech.edu/employer-information-sessions
 DESCRIPTION:Only for majors: College of Engineering\, Biomedical Engineeri
  ng - BS Level\, Electrical & Computer Engineering - MS & Ph.D. Level\, Ele
@@ -3569,6 +3574,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Maxim Engineering Career Paths Panel
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190917T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190917T190000
 UID:https://career.gatech.edu/employer-information-sessions
 DESCRIPTION:Only for majors: Electrical & Computer Engineering - MS & Ph.D
  . Level\, Electrical Engineering - BS Level\n\n"Headquartered in the heart
@@ -3594,6 +3600,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Deloitte Consulting Information Session
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190905T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190905T190000
 UID:https://career.gatech.edu/employer-information-sessions
 DESCRIPTION:Only for majors: All Majors\n\nDeloitte Consulting is hosting 
  an informational session for Georgia Tech students on Thursday\, 9/5 from 
@@ -3607,6 +3614,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Naval Nuclear Propulsion Program Info Session
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190910T163000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190910T173000
 UID:https://career.gatech.edu/employer-information-sessions
 DESCRIPTION:Only for majors: All Majors\n\nJoin us for pizza as members fr
  om the Naval Nuclear Propulsion Program discuss opportunities on ways to s
@@ -3617,6 +3625,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Schlumberger Info Session
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190909T171500
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190909T181500
 UID:https://career.gatech.edu/employer-information-sessions
 DESCRIPTION:Only for majors: Aerospace Engineering - All Levels\, Chemical
   & Biomolecular Engineering - BS Level\, Civil Engineering - All Levels\, 
@@ -3633,6 +3642,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Carnival Cruise Line's Information Session
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190909T190000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190909T200000
 UID:https://career.gatech.edu/employer-information-sessions
 DESCRIPTION:Only for majors: College of Business\, College of Computing\, 
  College of Engineering\, College of Sciences\n\nCarnival Cruise Line invit
@@ -3648,6 +3658,7 @@ BEGIN:VEVENT
 SUMMARY:Info Session with Chicago Trading Company: Your career at the inte
  rsection of finance and technology
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190911T190000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190911T200000
 UID:https://career.gatech.edu/employer-information-sessions
 DESCRIPTION:Only for majors: All Majors\n\nOn September 11th\, come learn 
  about Chicago Trading Company (CTC) from a diverse team of quantitative tr
@@ -4176,6 +4187,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Navigator (now Avaap) - Consulting Information Session
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190910T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190910T180000
 UID:https://careerdiscovery.gatech.edu/employer-information-sessions
 DESCRIPTION:Only for majors: Economics - All Levels\, Business Administrat
  ion (Management) - BS Level\, Mathematics - BS & MS Level\, Psychology - A
