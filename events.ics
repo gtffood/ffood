@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//GT calendar//
 BEGIN:VEVENT
 SUMMARY:Salesforce Tech Talk
-DTSTART;VALUE=DATE-TIME:20190826T183000
-DTEND;VALUE=DATE-TIME:20190826T200000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190826T183000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190826T200000
 UID:https://www.cc.gatech.edu/calendar/day/2019/08/26/15381
 DESCRIPTION:Tech Talk\nJoin Salesforce to learn more about their innovativ
  e technologies!\nYour trail starts here.\nAt Salesforce\, we're dedicated 
@@ -36,8 +36,8 @@ LOCATION:6:30pm – 8pm Klaus 1116 E&W.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Microsoft Innovation Fair
-DTSTART;VALUE=DATE-TIME:20190828T100000
-DTEND;VALUE=DATE-TIME:20190828T150000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190828T100000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190828T150000
 UID:https://www.cc.gatech.edu/calendar/day/2019/08/28/15358
 DESCRIPTION:Come meet Microsoft engineers and recruiters at our first annu
  al Microsoft Innovation Fair! This year's fair will feature a resume hand-
@@ -64,8 +64,8 @@ LOCATION:Klaus Advanced Computing Building\, Atrium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Salesforce Day in the Lobby
-DTSTART;VALUE=DATE-TIME:20190826T110000
-DTEND;VALUE=DATE-TIME:20190826T160000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190826T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190826T160000
 UID:https://www.cc.gatech.edu/calendar/day/2019/08/26/15348
 DESCRIPTION:Day in the Lobby\nBring your resume and come chat with recruit
  ers from Salesforce in the College of Computing commons anytime between 11
@@ -98,8 +98,8 @@ LOCATION:11am-4pm CCB commons
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Computational Media Alumni Panel
-DTSTART;VALUE=DATE-TIME:20190910T110000
-DTEND;VALUE=DATE-TIME:20190910T120000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190910T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190910T120000
 UID:https://www.cc.gatech.edu/calendar/day/2019/09/10/15339
 DESCRIPTION:Not sure how to explain your degree to employers? Learn from C
  M alum how they got started in their careers! Lunch provided.\n\nhttps://w
@@ -109,8 +109,8 @@ LOCATION:CCB 345
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Graduate Student Etiquette Dinner
-DTSTART;VALUE=DATE-TIME:20190911T180000
-DTEND;VALUE=DATE-TIME:20190911T200000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190911T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190911T200000
 UID:https://www.cc.gatech.edu/calendar/day/2019/09/11/15366
 DESCRIPTION:Etiquette is a system of rules and conventions that regulate s
  ocial and professional behavior. The whole point of the rules of etiquette
@@ -132,8 +132,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GVU Center Brown Bag: GVU Center Overview and Funded Research Proj
  ects
-DTSTART;VALUE=DATE-TIME:20190822T113000
-DTEND;VALUE=DATE-TIME:20190822T130000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190822T113000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190822T130000
 UID:https://www.cc.gatech.edu/calendar/day/2019/08/22/15338
 DESCRIPTION:Abstract:\nIn the first GVU Brown Bag Seminar of the academic 
  year\, Keith Edwards\, GVU Center Director and Professor of Interactive Co
@@ -162,8 +162,8 @@ LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:September Blender Bike Demo at the Community Market
-DTSTART;VALUE=DATE-TIME:20190918T100000
-DTEND;VALUE=DATE-TIME:20190918T140000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190918T100000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190918T140000
 UID:https://calendar.gatech.edu/event/624546
 DESCRIPTION:Free food\n\nJoin the Health Initiatives dietitians at the com
  munity market and make your own smoothie in a sustainable way on the blend
@@ -177,8 +177,8 @@ BEGIN:VEVENT
 SUMMARY:Basic Research Needs for Basic Research Needs for Microelectronics
   RFP: Georgia Tech Response Planning Meeting Microelectronics RFP: Georgia
   Tech Response Planning Meeting
-DTSTART;VALUE=DATE-TIME:20190912T120000
-DTEND;VALUE=DATE-TIME:20190912T170000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190912T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190912T170000
 UID:https://calendar.gatech.edu/event/624050
 DESCRIPTION:Basic Research Needs for Microelectronics RFP: Georgia Tech Re
  sponse Planning Meeting\nPlease join in a workshop on September12\, 12-5pm
@@ -217,8 +217,8 @@ LOCATION:Georgia Tech Manufacturing Institute\, Auditorium\, 813 Ferst Dr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vertically Integrated Projects (VIP) Fall 2019 Poster Session
-DTSTART;VALUE=DATE-TIME:20190820T160000
-DTEND;VALUE=DATE-TIME:20190820T170000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190820T160000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190820T170000
 UID:https://calendar.gatech.edu/event/623461
 DESCRIPTION:Free food\n\nDo you need research experience this semester? No
  t sure how to get connected to faculty-led research projects?\nPlease join
@@ -233,8 +233,8 @@ LOCATION:Atrium\, Klaus Advanced Computing Building
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:International Opportunities Open House
-DTSTART;VALUE=DATE-TIME:20190826T103000
-DTEND;VALUE=DATE-TIME:20190826T120000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190826T103000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190826T120000
 UID:https://calendar.gatech.edu/event/622061
 DESCRIPTION:Free food\n\nPlease come meet OIE advisors and learn about stu
  dy abroad opportunities\, Global Internships\, the International Plan\, sc
@@ -246,8 +246,8 @@ LOCATION:Student Center Peachtree Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Elusive End of the Periodic Table: Why Chase It?
-DTSTART;VALUE=DATE-TIME:20190912T183000
-DTEND;VALUE=DATE-TIME:20190912T193000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190912T183000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190912T193000
 UID:https://calendar.gatech.edu/event/621306
 DESCRIPTION:Free food\, freebies\n\nA Frontiers in Science Lecture to cele
  brate 2019\, the International Year of the Periodic Table\nFor more than h
@@ -294,8 +294,8 @@ LOCATION:Room 1128 (Suddath Room)\, Institute for Bioengineering and Biosc
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New Faculty Orientation Luncheon
-DTSTART;VALUE=DATE-TIME:20190904T113000
-DTEND;VALUE=DATE-TIME:20190904T130000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190904T113000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190904T130000
 UID:https://calendar.gatech.edu/event/622477
 DESCRIPTION:Free food\n\nAn informal luncheon where new faculty can learn 
  about GT Research Administration offices\, get helpful contact information
@@ -317,8 +317,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2019 Georgia Tech Institute for Electronics and Nanotechnology Mei
  ndl Lecture and User Day
-DTSTART;VALUE=DATE-TIME:20190906T090000
-DTEND;VALUE=DATE-TIME:20190906T160000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190906T090000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190906T160000
 UID:https://calendar.gatech.edu/event/624035
 DESCRIPTION:Free food\n\nFriday\, Sept. 6\, 2019\, 9 am – 4 pmMarcus Nan
  otechnology Building\, Georgia Tech\nEver wonder what the other people in 
@@ -350,8 +350,8 @@ LOCATION:Marcus Nanotechnology Building | 345 Ferst Drive | Atlanta GA | 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Energy Club 2019-20 Kickoff Meeting
-DTSTART;VALUE=DATE-TIME:20190827T183000
-DTEND;VALUE=DATE-TIME:20190827T193000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190827T183000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190827T193000
 UID:https://calendar.gatech.edu/event/624543
 DESCRIPTION:Join for our kick off meeting on August 27 at 6:30 pm in the S
  tudent Center Room 301. We'll walk through our goals for the club\, how yo
@@ -363,8 +363,8 @@ LOCATION:Room 301\, Student Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Greek Allies
-DTSTART;VALUE=DATE-TIME:20191107T173000
-DTEND;VALUE=DATE-TIME:20191107T210000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191107T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191107T210000
 UID:https://calendar.gatech.edu/event/624435
 DESCRIPTION:Greek Allies is Georgia Tech’s LGBTQIA ally training program
   for fraternity and sorority members. The interactive curriculum is modele
@@ -376,8 +376,8 @@ LOCATION:Register to receive location
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nano@Tech: Plate Mechanical Metamaterials and their Applications
-DTSTART;VALUE=DATE-TIME:20190910T120000
-DTEND;VALUE=DATE-TIME:20190910T130000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190910T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190910T130000
 UID:https://calendar.gatech.edu/event/622283
 DESCRIPTION:Free food\n\nIgor BargatinUniv. of Pennsylvania\, Mechanical E
  ngineering and Applied Mechanics\nAbstract: Recently\, we introduced the c
@@ -420,8 +420,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2019 Georgia Innovative Economic Development Internship Program Fi
  nal Presentations
-DTSTART;VALUE=DATE-TIME:20190905T120000
-DTEND;VALUE=DATE-TIME:20190905T130000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190905T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190905T130000
 UID:https://calendar.gatech.edu/event/624729
 DESCRIPTION:Three grad students will present economic Development opportun
  ities in data protection\, artificial intelligence\, and hi-tech entrepren
@@ -447,8 +447,8 @@ LOCATION:Hodges Room\, Centergy Building
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Society of Asian Scientists and Engineers Kickoff
-DTSTART;VALUE=DATE-TIME:20190827T190000
-DTEND;VALUE=DATE-TIME:20190827T200000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190827T190000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190827T200000
 UID:https://calendar.gatech.edu/event/624906
 DESCRIPTION:Come to our kickoff to learn more about membership in the Soci
  ety of Asian Scientists and Engineers! We will be having free food at the 
@@ -461,8 +461,8 @@ LOCATION:Room 209\, Instructional Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wreck Racing New/Prospective Members Info Session
-DTSTART;VALUE=DATE-TIME:20190829T190000
-DTEND;VALUE=DATE-TIME:20190829T210000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190829T190000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190829T210000
 UID:https://calendar.gatech.edu/event/624903
 DESCRIPTION:Free food\n\nWreck Racing is student-led competition team that
   builds vehicles to compete in the Grassroots Motorsports Magazine $2000 C
@@ -482,8 +482,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SCL Course: APICS Certified Supply Chain Professional (CSCP) Boot 
  Camp
-DTSTART;VALUE=DATE-TIME:20191021T130000
-DTEND;VALUE=DATE-TIME:20191021T170000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191021T130000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191021T170000
 UID:https://calendar.gatech.edu/event/616166
 DESCRIPTION:COURSE DESCRIPTION\nThis accelerated learning boot camp covers
   2.5 days of instructor lead facilitation and is designed to cover key lea
@@ -542,8 +542,8 @@ LOCATION:Georgia Tech Global Learning Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Global Internship Expo
-DTSTART;VALUE=DATE-TIME:20190919T100000
-DTEND;VALUE=DATE-TIME:20190919T130000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190919T100000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190919T130000
 UID:https://calendar.gatech.edu/event/621811
 DESCRIPTION:Free food\n\n\n\nhttps://calendar.gatech.edu/event/621811\nhtt
  ps://calendar.gatech.edu/event/listings/63
@@ -551,8 +551,8 @@ LOCATION:Student Center Ballroom
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:International Opportunities Open House
-DTSTART;VALUE=DATE-TIME:20190822T103000
-DTEND;VALUE=DATE-TIME:20190822T120000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190822T103000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190822T120000
 UID:https://calendar.gatech.edu/event/622060
 DESCRIPTION:Free food\n\nPlease come meet OIE advisors and learn about stu
  dy abroad opportunities\, Global Internships\, the International Plan\, sc
@@ -564,8 +564,8 @@ LOCATION:Student Center Peachtree Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sexual Harassment Awareness Brown Bag Lunch & Learn
-DTSTART;VALUE=DATE-TIME:20191016T113000
-DTEND;VALUE=DATE-TIME:20191016T130000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191016T113000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191016T130000
 UID:https://calendar.gatech.edu/event/624369
 DESCRIPTION:Free food\n\nBring your lunch and join a panel of Georgia Tech
   subject-matter experts as they discussion sexual harassment awareness at 
@@ -587,8 +587,8 @@ BEGIN:VEVENT
 SUMMARY:Nano@Tech: John Rogers\, Depts. of Materials Science and Engineeri
  ng\, Biomedical Engineering\, and Neurological Surgery\, Northwestern Univ
  .
-DTSTART;VALUE=DATE-TIME:20191022T120000
-DTEND;VALUE=DATE-TIME:20191022T130000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191022T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191022T130000
 UID:https://calendar.gatech.edu/event/622286
 DESCRIPTION:Free food\n\nAbstract: TBA\nBio: TBA\n\nhttps://calendar.gatec
  h.edu/event/622286\nhttps://calendar.gatech.edu/event/listings/66
@@ -597,8 +597,8 @@ LOCATION:Marcus Nanotechnology Building 1117-1118 | 345 Ferst Drive | Atla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chinese Student Welcome Party
-DTSTART;VALUE=DATE-TIME:20190823T180000
-DTEND;VALUE=DATE-TIME:20190823T220000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190823T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190823T220000
 UID:https://calendar.gatech.edu/event/623693
 DESCRIPTION:Free food\, freebies\n\nChinese Christian Fellowship hosts a w
  elcome party mainly for new Chinese students. Some team-building activitie
@@ -609,8 +609,8 @@ LOCATION:Festival Level\, Bill Moore Student Success Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:14th Annual Latino Welcome Celebration
-DTSTART;VALUE=DATE-TIME:20190822T110000
-DTEND;VALUE=DATE-TIME:20190822T130000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190822T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190822T130000
 UID:https://calendar.gatech.edu/event/623309
 DESCRIPTION:Free food\, freebies\n\nThe Latino Welcome Celebration will pr
  ovide incoming and current Hispanic/Latino students with an opportunity to
@@ -629,8 +629,8 @@ LOCATION:Student Center Ballroom
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wreck Camp Reunion Lunch
-DTSTART;VALUE=DATE-TIME:20190822T110000
-DTEND;VALUE=DATE-TIME:20190822T130000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190822T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190822T130000
 UID:https://calendar.gatech.edu/event/623978
 DESCRIPTION:Free food\n\nLunch\, socialization\, and games for Wreck Camp 
  2019 staff and campers! Come join to reconnect to the Wreck Camp community
@@ -642,8 +642,8 @@ LOCATION:Ferst Center Lobby
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fresh Check Day
-DTSTART;VALUE=DATE-TIME:20190913T110000
-DTEND;VALUE=DATE-TIME:20190913T130000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190913T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190913T130000
 UID:https://calendar.gatech.edu/event/624635
 DESCRIPTION:The Counseling Center and Health Initiatives are hosting a men
  tal health check-in with interactive booths\, free food\, prizes\, and mor
@@ -654,8 +654,8 @@ LOCATION:Tech Walkway
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Norfolk Southern Day in the Lobby
-DTSTART;VALUE=DATE-TIME:20190909T110000
-DTEND;VALUE=DATE-TIME:20190909T160000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190909T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190909T160000
 UID:https://calendar.gatech.edu/event/624958
 DESCRIPTION:Free food\, freebies\n\nDay in the Lobby\nBring your resume an
  d come chat with recruiters from Norfolk Southern in the College of Comput
@@ -684,8 +684,8 @@ LOCATION:11am-4pm CCB commons
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:IRIM Fall Research Symposium
-DTSTART;VALUE=DATE-TIME:20190821T093000
-DTEND;VALUE=DATE-TIME:20190821T160000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190821T093000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190821T160000
 UID:https://calendar.gatech.edu/event/623077
 DESCRIPTION:To beginthe fall semester with a lot of enthusiasm and opportu
  nitiesto learn more about the many areas of robotics research\, IRIM will 
@@ -717,8 +717,8 @@ LOCATION:Klaus Advanced Computing Building\, Rooms 1116 E&W
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Waterski and Wakeboard Club Meeting
-DTSTART;VALUE=DATE-TIME:20190827T190000
-DTEND;VALUE=DATE-TIME:20190827T200000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190827T190000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190827T200000
 UID:https://calendar.gatech.edu/event/624935
 DESCRIPTION:Free food\n\nTheWaterski and Wakeboard Club will discuss the s
  tatus of the club and possible future trips. It is a highly important meet
@@ -734,8 +734,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nano@Tech: Ben Yang - Electro-Optical Systems Lab\, Georgia Tech R
  esearch Institute
-DTSTART;VALUE=DATE-TIME:20191210T120000
-DTEND;VALUE=DATE-TIME:20191210T130000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191210T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191210T130000
 UID:https://calendar.gatech.edu/event/622289
 DESCRIPTION:Free food\n\nBenjamin YangResearch Engineer\, Electro-Optical 
  Systems Lab\; Georgia Tech Research Institute\nAbstract: TBA\nBio: Ben Yan
@@ -751,8 +751,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nano@Tech: Blair Brettmann\, School of Chemical and Biomolecular E
  ngineering\, Georgia Tech
-DTSTART;VALUE=DATE-TIME:20190924T120000
-DTEND;VALUE=DATE-TIME:20190924T130000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190924T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190924T130000
 UID:https://calendar.gatech.edu/event/622282
 DESCRIPTION:Free food\n\nAbstract: TBA\nBio: TBA\n\nhttps://calendar.gatec
  h.edu/event/622282\nhttps://calendar.gatech.edu/event/listings/66
@@ -762,8 +762,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Turning Sour\, Bloated\, and Out of Breath: Ocean Chemistry Under 
  Global Warming
-DTSTART;VALUE=DATE-TIME:20191031T193000
-DTEND;VALUE=DATE-TIME:20191031T203000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191031T193000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191031T203000
 UID:https://calendar.gatech.edu/event/622127
 DESCRIPTION:Free food\, freebies\n\nA Frontiers in Science Lecture to cele
  brate 2019\, the International Year of the Periodic Table\nIn 1997\, the J
@@ -816,8 +816,8 @@ LOCATION:TBD
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SCPC Presents: Avengers Endgame
-DTSTART;VALUE=DATE-TIME:20190822T190000
-DTEND;VALUE=DATE-TIME:20190822T220000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190822T190000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190822T220000
 UID:https://calendar.gatech.edu/event/624106
 DESCRIPTION:Free food\, freebies\n\nAfter Rec Fest\, gates open at 6 pm.Ch
  airs are not permitted so bring a blanket or towel.Free refeshments and gi
@@ -827,8 +827,8 @@ LOCATION:Roe Stamps Recreational Field
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SCL September 2019 Supply Chain Day
-DTSTART;VALUE=DATE-TIME:20190911T110000
-DTEND;VALUE=DATE-TIME:20190911T140000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190911T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190911T140000
 UID:https://calendar.gatech.edu/event/621629
 DESCRIPTION:Georgia Tech Supply Chain students\, please join us for first 
  Supply Chain Day of the fall semester! The 3-hour session will host supply
@@ -866,8 +866,8 @@ LOCATION:ISyE Main Bldg\, 2nd Floor Atrium and Executive Classroom 228
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fresh Check Day 2019
-DTSTART;VALUE=DATE-TIME:20190913T110000
-DTEND;VALUE=DATE-TIME:20190913T130000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190913T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190913T130000
 UID:https://calendar.gatech.edu/event/624105
 DESCRIPTION:Created by the Jordon Porco Foundation (JPF)\, Fresh Check Day
   is an event focused on uplifting mental health and well-being and advocat
@@ -882,8 +882,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SCL Course: APICS Certified in Logistics\, Transportation and Dist
  ribution (CLTD) Boot Camp
-DTSTART;VALUE=DATE-TIME:20191023T080000
-DTEND;VALUE=DATE-TIME:20191023T120000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191023T080000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191023T120000
 UID:https://calendar.gatech.edu/event/616168
 DESCRIPTION:COURSE DESCRIPTION\nThis accelerated learning boot camp covers
   2.5 days of instructor lead facilitation and is designed to cover key lea
@@ -948,8 +948,8 @@ LOCATION:Georgia Tech Global Learning Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CREATE-X Startup Launch Demo Day 2019
-DTSTART;VALUE=DATE-TIME:20190822T163000
-DTEND;VALUE=DATE-TIME:20190822T213000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190822T163000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190822T213000
 UID:https://calendar.gatech.edu/event/621912
 DESCRIPTION:Free food\n\nAfter weeks of interviewing hundreds of potential
   customers\, long nights of debates\, pivots and gallons of coffee– it a
@@ -968,8 +968,8 @@ LOCATION:The Fox Theatre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Implicit Bias Workshop
-DTSTART;VALUE=DATE-TIME:20190906T120000
-DTEND;VALUE=DATE-TIME:20190906T133000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190906T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190906T133000
 UID:https://calendar.gatech.edu/event/623186
 DESCRIPTION:Institute Diversity\, in collaboration with the Office of the 
  Vice Provost for Graduate Education and Faculty Development and Georgia Te
@@ -1005,8 +1005,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ivan Allen College ‘Rejuvenation Station’ - A Holiday Cookie B
  ar
-DTSTART;VALUE=DATE-TIME:20191120T140000
-DTEND;VALUE=DATE-TIME:20191120T153000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191120T140000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191120T153000
 UID:https://calendar.gatech.edu/event/624936
 DESCRIPTION:Free food\, freebies\n\nThe Ivan Allen College of Liberal Arts
   dean’s office invites our majors and graduate students\,facultyand staf
@@ -1026,8 +1026,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3M Tech Talk - Data Science & Software Development @ 3M Applicatio
  ns\, Challenges\, and Opportunities
-DTSTART;VALUE=DATE-TIME:20190829T183000
-DTEND;VALUE=DATE-TIME:20190829T200000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190829T183000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190829T200000
 UID:https://calendar.gatech.edu/event/624962
 DESCRIPTION:Free food\, freebies\n\nTech Talk: Data Science & Software Dev
  elopment @ 3M Applications\, Challenges\, and Opportunities\nJoin 3M in Kl
@@ -1046,8 +1046,8 @@ LOCATION:6:30pm-8pm Klaus 1116 West
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Petascale Computing Institute 2019
-DTSTART;VALUE=DATE-TIME:20190819T110000
-DTEND;VALUE=DATE-TIME:20190819T180000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190819T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190819T180000
 UID:https://calendar.gatech.edu/event/623177
 DESCRIPTION:Free food\n\nPACE is pleased to announce that we will be one o
  f the host sites for this year’sPetascale Computing Institute (PCI-2019)
@@ -1080,8 +1080,8 @@ LOCATION:EBB Krone – Children’s Healthcare of Atlanta Seminar Room (95
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bank of America Day in the Lobby
-DTSTART;VALUE=DATE-TIME:20190903T110000
-DTEND;VALUE=DATE-TIME:20190903T160000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190903T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190903T160000
 UID:https://calendar.gatech.edu/event/624709
 DESCRIPTION:Free food\, freebies\n\nBank of America Day in the Lobby\nBrin
  g your resume and come chat with recruiters from Bank of Americain the Col
@@ -1091,8 +1091,8 @@ LOCATION:11am-4pm College of Computing Commons
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NNSA Graduate Fellowship Program (NGFP) Info Session
-DTSTART;VALUE=DATE-TIME:20190829T110000
-DTEND;VALUE=DATE-TIME:20190829T120000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190829T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190829T120000
 UID:https://calendar.gatech.edu/event/610191
 DESCRIPTION:Free food\n\nMeet with Senior Staff Scientists and recruiters 
  from the Pacific Northwest National Laboratory that will be here to speak 
@@ -1115,8 +1115,8 @@ LOCATION:Habersham Building\, Room 136
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3M Day in the Lobby
-DTSTART;VALUE=DATE-TIME:20190829T110000
-DTEND;VALUE=DATE-TIME:20190829T160000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190829T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190829T160000
 UID:https://calendar.gatech.edu/event/624961
 DESCRIPTION:Free food\, freebies\n\nDay in the Lobby\nBring your resume an
  d come chat with recruiters from 3Min the College of Computing commons any
@@ -1135,8 +1135,8 @@ LOCATION:11am-4pm CCB commons
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Campus Movie Fest Information Session
-DTSTART;VALUE=DATE-TIME:20190903T170000
-DTEND;VALUE=DATE-TIME:20190903T190000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190903T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190903T190000
 UID:https://calendar.gatech.edu/event/625014
 DESCRIPTION:Free food\n\nFirst off\, we'll have FREE FOOD at the Info Sess
  ion so get hungry to learn more about Campus Movie Fest!\nThis optional ev
@@ -1158,8 +1158,8 @@ LOCATION:Ferst Center for the Arts Lobby
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NCR "Innovation Lab" Tech Talk
-DTSTART;VALUE=DATE-TIME:20190827T180000
-DTEND;VALUE=DATE-TIME:20190827T200000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190827T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190827T200000
 UID:https://calendar.gatech.edu/event/624703
 DESCRIPTION:Free food\, freebies\n\nTech-savvy-innovators. Challenge-seeke
  rs. Boundary-pushers. Agile-design thinkers.\nOur software engineering iNC
@@ -1180,8 +1180,8 @@ LOCATION:864 Spring Street NW Atlanta\, GA 30308
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2019 Hispanic Heritage Month Kickoff
-DTSTART;VALUE=DATE-TIME:20190916T110000
-DTEND;VALUE=DATE-TIME:20190916T130000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190916T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190916T130000
 UID:https://calendar.gatech.edu/event/624375
 DESCRIPTION:Free food\, freebies\n\nHispanic Heritage Month (HHM) events a
  t Georgia Tech celebrate and recognize the economic\, scientific\, cultura
@@ -1197,8 +1197,8 @@ LOCATION:Campanile (Rain location: Skiles Courtyard)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Institute Retirement Dinner
-DTSTART;VALUE=DATE-TIME:20191001T180000
-DTEND;VALUE=DATE-TIME:20191001T210000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191001T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191001T210000
 UID:https://calendar.gatech.edu/event/622902
 DESCRIPTION:The campus community is invited to support Georgia Tech's 2019
  fiscal yearretirees by attending this year's retirement dinner on Tuesday\
@@ -1212,8 +1212,8 @@ LOCATION:Historic Academy of Medicine
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New Women Faculty and Staff Welcome
-DTSTART;VALUE=DATE-TIME:20190917T150000
-DTEND;VALUE=DATE-TIME:20190917T170000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190917T150000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190917T170000
 UID:https://calendar.gatech.edu/event/624049
 DESCRIPTION:Free food\n\nJoin the Women’s Resource Center\, Women in Eng
  ineering\, and the Center for Women\, Science\, and Technology as we welco
@@ -1225,8 +1225,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nano@Tech: Sung-Jin Park - Coulter Department of Biomedical Engine
  ering\, Georgia Tech and Emory
-DTSTART;VALUE=DATE-TIME:20191126T120000
-DTEND;VALUE=DATE-TIME:20191126T130000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191126T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191126T130000
 UID:https://calendar.gatech.edu/event/622288
 DESCRIPTION:Free food\n\nSung Jin ParkAssistant Professor\, Coulter Depart
  ment of Biomedical Engineering\, Georgia Tech and Emory\nAbstract: TBA\nBi
@@ -1251,8 +1251,8 @@ LOCATION:Marcus Nanotechnology Building 1117-1118 | 345 Ferst Drive | Atla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Implicit Bias Workshop
-DTSTART;VALUE=DATE-TIME:20190829T120000
-DTEND;VALUE=DATE-TIME:20190829T133000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190829T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190829T133000
 UID:https://calendar.gatech.edu/event/623185
 DESCRIPTION:Institute Diversity\, in collaboration with the Office of the 
  Vice Provost for Graduate Education and Faculty Development and Georgia Te
@@ -1287,8 +1287,8 @@ LOCATION:Bill Moore Student Success Center: President's Suites C and D
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Scoops & Sets
-DTSTART;VALUE=DATE-TIME:20190906T170000
-DTEND;VALUE=DATE-TIME:20190906T190000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190906T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190906T190000
 UID:https://calendar.gatech.edu/event/624718
 DESCRIPTION:Free food\n\nJoin Omega Phi Alpha in the North Avenue Centenni
  al Room for some ice cream and small service projects! Just bring yourself
@@ -1303,8 +1303,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SCL IRC Seminar: Quantitative Methods in Health and Humanitarian S
  ystems
-DTSTART;VALUE=DATE-TIME:20190828T120000
-DTEND;VALUE=DATE-TIME:20190828T133000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190828T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190828T133000
 UID:https://calendar.gatech.edu/event/623653
 DESCRIPTION:The Supply Chain and Logistics Institute hosts a series of mon
  thly seminars open to interested faculty\, students and corporate partners
@@ -1335,8 +1335,8 @@ LOCATION:GTMI: 1st floor Auditorium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia & Sets
-DTSTART;VALUE=DATE-TIME:20190905T170000
-DTEND;VALUE=DATE-TIME:20190905T190000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190905T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190905T190000
 UID:https://calendar.gatech.edu/event/624717
 DESCRIPTION:Free food\n\nJoin Omega Phi Alpha in IC 211 for some trivia an
  d sweet treats! Just bring yourself (and a friend too\, if you want)!\nOme
@@ -1350,8 +1350,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nano@Tech: Sally Ng - School of Chemical & Biomolecular Engineerin
  g
-DTSTART;VALUE=DATE-TIME:20191112T120000
-DTEND;VALUE=DATE-TIME:20191112T130000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191112T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191112T130000
 UID:https://calendar.gatech.edu/event/622287
 DESCRIPTION:Free food\n\nNga Lee (Sally) NgAssociate Professor\, School of
   Chemical & Biomolecular Engineering\nAbstract: TBA\nBio: Dr. Ng is an Ass
@@ -1377,8 +1377,8 @@ LOCATION:Marcus Nanotechnology Building 1117-1118 | 345 Ferst Drive | Atla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Flavorful Fridays - Fruit-Full Fall
-DTSTART;VALUE=DATE-TIME:20191011T110000
-DTEND;VALUE=DATE-TIME:20191011T130000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191011T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191011T130000
 UID:https://calendar.gatech.edu/event/624883
 DESCRIPTION:Free food\, freebies\n\nExperiment with a new fruit-filled rec
  ipe to start your fall off right with Flavorful Fridays. This program occu
@@ -1389,8 +1389,8 @@ LOCATION:Student Center - Healthy Space
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Flavorful Fridays - Experiment with Breakfast
-DTSTART;VALUE=DATE-TIME:20190906T110000
-DTEND;VALUE=DATE-TIME:20190906T130000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190906T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190906T130000
 UID:https://calendar.gatech.edu/event/624881
 DESCRIPTION:Free food\, freebies\n\nExperiment with a new recipe to start 
  your day off right with Flavorful Fridays. This program occurs once a mont
@@ -1401,8 +1401,8 @@ LOCATION:Student Center - Healthy Space
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:November Blender Bike Demo at the Community Market
-DTSTART;VALUE=DATE-TIME:20191113T100000
-DTEND;VALUE=DATE-TIME:20191113T140000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191113T100000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191113T140000
 UID:https://calendar.gatech.edu/event/624548
 DESCRIPTION:Free food\n\nJoin the Health Initiatives dietitians at the com
  munity market and make your own smoothie in a sustainable way on the blend
@@ -1414,8 +1414,8 @@ LOCATION:Tech Walkway
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GA Smart Fall Workshop
-DTSTART;VALUE=DATE-TIME:20190905T083000
-DTEND;VALUE=DATE-TIME:20190905T131500
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190905T083000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190905T131500
 UID:https://calendar.gatech.edu/event/623183
 DESCRIPTION:For More Info and Registration\, Click Here!\nAre you interest
  ed in Smart Communities? Would you like to see how your city/county/commun
@@ -1452,8 +1452,8 @@ LOCATION:GTRI Conference Center\, 250 14th Street NW\, Atlanta\, GA 30332
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Implicit Bias Workshop
-DTSTART;VALUE=DATE-TIME:20190927T120000
-DTEND;VALUE=DATE-TIME:20190927T133000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190927T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190927T133000
 UID:https://calendar.gatech.edu/event/623189
 DESCRIPTION:Institute Diversity\, in collaboration with the Office of the 
  Vice Provost for Graduate Education and Faculty Development and Georgia Te
@@ -1488,8 +1488,8 @@ LOCATION:Bill Moore Student Success Center: President's Suites C&D
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Big Gay Brunch
-DTSTART;VALUE=DATE-TIME:20191007T110000
-DTEND;VALUE=DATE-TIME:20191007T123000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191007T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191007T123000
 UID:https://calendar.gatech.edu/event/624520
 DESCRIPTION:Free food\n\nJoin us during OUT Week for an awesome brunch ser
  ved by GT faculty and staff in order toincrease visibility of LGBTQIA empl
@@ -1504,8 +1504,8 @@ LOCATION:Peachtree Room\, Student Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:First-Year Women's Welcome
-DTSTART;VALUE=DATE-TIME:20190822T180000
-DTEND;VALUE=DATE-TIME:20190822T190000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190822T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190822T190000
 UID:https://calendar.gatech.edu/event/624046
 DESCRIPTION:Free food\n\nAll first-year undergraduate women are invited to
   come together in community to enjoy a delicious dessert reception with th
@@ -1516,8 +1516,8 @@ LOCATION:Smithgall (Flag) Building\, Room 117
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Student Veterans Luncheon
-DTSTART;VALUE=DATE-TIME:20190821T113000
-DTEND;VALUE=DATE-TIME:20190821T133000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190821T113000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190821T133000
 UID:https://calendar.gatech.edu/event/623991
 DESCRIPTION:The Student Veterans at Georgia Tech are having their annual l
  uncheon reception on Wednesday August 21\, 2019from 11:30am to 1:30pm on t
@@ -1528,8 +1528,8 @@ LOCATION:Clough Commons Rooftop Garden
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Research Administration Buzz
-DTSTART;VALUE=DATE-TIME:20190917T110000
-DTEND;VALUE=DATE-TIME:20190917T130000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190917T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190917T130000
 UID:https://calendar.gatech.edu/event/622478
 DESCRIPTION:Free food\n\nThe Research Administration Buzz is a town hall m
  eeting where those who provide research administrative support discuss cur
@@ -1554,8 +1554,8 @@ LOCATION:Research Administration Building - Seminar Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NCR Day in the Lobby
-DTSTART;VALUE=DATE-TIME:20190827T110000
-DTEND;VALUE=DATE-TIME:20190827T160000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190827T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190827T160000
 UID:https://calendar.gatech.edu/event/624687
 DESCRIPTION:Free food\, freebies\n\nDay in the Lobby\nBring your resume an
  d come chat with recruiters from NCR in the College of Computing commons a
@@ -1584,8 +1584,8 @@ LOCATION:11am-4pm CCB commons
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Geopolitics of the Rare and Not-So-Rare Elements
-DTSTART;VALUE=DATE-TIME:20191112T183000
-DTEND;VALUE=DATE-TIME:20191112T193000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191112T183000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191112T193000
 UID:https://calendar.gatech.edu/event/622132
 DESCRIPTION:Free food\, freebies\n\nA Frontiers in Science Lecture to cele
  brate 2019\, the International Year of the Periodic Table\nChemical elemen
@@ -1648,8 +1648,8 @@ LOCATION:TBD
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ECE Rush
-DTSTART;VALUE=DATE-TIME:20190827T143000
-DTEND;VALUE=DATE-TIME:20190827T170000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190827T143000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190827T170000
 UID:https://calendar.gatech.edu/event/623521
 DESCRIPTION:Free food\, freebies\n\nECE first-years\, transfer students\, 
  and undecided engineering majors: Learn how your imagination and ingenuity
@@ -1664,8 +1664,8 @@ LOCATION:Klaus Building Atrium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ADP Day in the Lobby
-DTSTART;VALUE=DATE-TIME:20190905T110000
-DTEND;VALUE=DATE-TIME:20190905T160000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190905T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190905T160000
 UID:https://calendar.gatech.edu/event/624746
 DESCRIPTION:Free food\, freebies\n\nDay in the Lobby\nBring your resume an
  d come chat with recruiters from ADPin the College of Computing commons an
@@ -1689,8 +1689,8 @@ LOCATION:College of Computing Commons
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Graduate Women’s Welcome
-DTSTART;VALUE=DATE-TIME:20190827T110000
-DTEND;VALUE=DATE-TIME:20190827T130000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190827T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190827T130000
 UID:https://calendar.gatech.edu/event/624603
 DESCRIPTION:Free food\n\nDrop by the Women's Resource Center to learn abou
  t our programs and services\, meet other graduate women\, and enjoy free d
@@ -1701,8 +1701,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Things New and Strange: A Southerner's Journey through the Smithso
  nian Collection by Dr. Wayne Clough
-DTSTART;VALUE=DATE-TIME:20190910T110000
-DTEND;VALUE=DATE-TIME:20190910T133000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190910T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190910T133000
 UID:https://calendar.gatech.edu/event/624024
 DESCRIPTION:From11am-12pm\, Dr. Wayne Clough\, former president of Georgia
   Tech and former Secretary of the Smithsonian\, will give a reading from a
@@ -1718,8 +1718,8 @@ LOCATION:Clough 205 (Clough Lounge)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2019 Postdoctoral Research Symposium
-DTSTART;VALUE=DATE-TIME:20190919T120000
-DTEND;VALUE=DATE-TIME:20190919T170000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190919T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190919T170000
 UID:https://calendar.gatech.edu/event/623308
 DESCRIPTION:Free food\n\n6th Annual Georgia TechPostdoctoral Research Symp
  osiumNoon to 5 p.m.\, Thursday\, September 19\, 2019Parker H. Petit Instit
@@ -1746,8 +1746,8 @@ LOCATION:Parker H. Petit Institute for Bioengineering and Bioscience build
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ready\, Set\, Engage! Edge Peer Mentoring Program Kick-off
-DTSTART;VALUE=DATE-TIME:20190919T173000
-DTEND;VALUE=DATE-TIME:20190919T193000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190919T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190919T193000
 UID:https://calendar.gatech.edu/event/624586
 DESCRIPTION:Free food\, freebies\n\nJoin us September 19 for the Edge peer
   mentoring program's 2019 kick-off! Register and learn more athttps://omed
@@ -1757,8 +1757,8 @@ LOCATION:Bill Moore Student Success Center President's Suites
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Central RA Office Hours - Coffee Break
-DTSTART;VALUE=DATE-TIME:20190910T090000
-DTEND;VALUE=DATE-TIME:20190910T103000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190910T090000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190910T103000
 UID:https://calendar.gatech.edu/event/622476
 DESCRIPTION:Free food\n\nPlease join us for an opportunity to get to know 
  representatives from each area of our Central Research Administration team
@@ -1781,8 +1781,8 @@ LOCATION:Ford ES&T Bldg\, Conf Rm L1120
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LGBTQIA Student Welcome Reception
-DTSTART;VALUE=DATE-TIME:20190828T180000
-DTEND;VALUE=DATE-TIME:20190828T193000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190828T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190828T193000
 UID:https://calendar.gatech.edu/event/624048
 DESCRIPTION:Free food\n\nThis is an opportunity to get to know your queer 
  peers while enjoying free food and drinks. Representatives from theLGBTQIA
@@ -1796,8 +1796,8 @@ LOCATION:Student Center - Peachtree Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:President's Graduation Celebration
-DTSTART;VALUE=DATE-TIME:20191213T110000
-DTEND;VALUE=DATE-TIME:20191213T130000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191213T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191213T130000
 UID:https://calendar.gatech.edu/event/623917
 DESCRIPTION:Free food\, freebies\n\nFall 2019graduates\, along with their 
  parents and friends\, are invited to share in the excitement of Commenceme
@@ -1813,8 +1813,8 @@ LOCATION:Student Center Ballroom
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wreck Camp Reunion Games Trial
-DTSTART;VALUE=DATE-TIME:20190908T150000
-DTEND;VALUE=DATE-TIME:20190908T170000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190908T150000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190908T170000
 UID:https://calendar.gatech.edu/event/623980
 DESCRIPTION:Free food\n\nCome joinus for the WreckCamp reunion games! We w
  ill re-enact some of the games from the Wreck Camp Games and socializing o
@@ -1826,8 +1826,8 @@ LOCATION:Tech Green
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nano@Tech: Seth Marder - GT-Chemistry and Biochemistry
-DTSTART;VALUE=DATE-TIME:20191008T120000
-DTEND;VALUE=DATE-TIME:20191008T130000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191008T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191008T130000
 UID:https://calendar.gatech.edu/event/622285
 DESCRIPTION:Free food\n\nSeth MarderRegents Professor\; Georgia Power Chai
  r of Energy EfficiencySchool of Chemistry & BiochemistryGeorgia Institute 
@@ -1872,8 +1872,8 @@ LOCATION:Pettit Microelectronics Building 102 A&B | 791 Atlantic Drive | A
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nano@Tech: System Scaling through Heterogeneous Integration
-DTSTART;VALUE=DATE-TIME:20190827T120000
-DTEND;VALUE=DATE-TIME:20190827T130000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190827T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190827T130000
 UID:https://calendar.gatech.edu/event/622284
 DESCRIPTION:Free food\n\nMadhavan SwaminathanJohn Pippin Chair in Microsys
  tems Packaging & ElectromagneticsSchool of Electrical and Computer Enginge
@@ -1913,8 +1913,8 @@ LOCATION:Marcus Nanotechnology Building 1117-1118 | 345 Ferst Drive | Atla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PayPal Experience Day - Showcase VR Campus Tour
-DTSTART;VALUE=DATE-TIME:20190904T133000
-DTEND;VALUE=DATE-TIME:20190904T160000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190904T133000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190904T160000
 UID:https://calendar.gatech.edu/event/624744
 DESCRIPTION:Free food\, freebies\n\nMeet engineers and recruiters from Pay
  Pal during their Experience Day to view a virtual reality tour of their ma
@@ -1924,8 +1924,8 @@ LOCATION:Klaus Advanced Computing Building Atrium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SCL IRC Seminar: Digital Transformation of Last-Mile Delivery
-DTSTART;VALUE=DATE-TIME:20191113T120000
-DTEND;VALUE=DATE-TIME:20191113T133000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191113T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191113T133000
 UID:https://calendar.gatech.edu/event/623639
 DESCRIPTION:The Supply Chain and Logistics Institute hosts a series of mon
  thly seminars open to interested faculty\, students and corporate partners
@@ -1954,8 +1954,8 @@ LOCATION:GTMI: 1st floor Auditorium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Implicit Bias Workshop
-DTSTART;VALUE=DATE-TIME:20190917T120000
-DTEND;VALUE=DATE-TIME:20190917T133000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190917T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190917T133000
 UID:https://calendar.gatech.edu/event/623187
 DESCRIPTION:Institute Diversity\, in collaboration with the Office of the 
  Vice Provost for Graduate Education and Faculty Development and Georgia Te
@@ -1990,8 +1990,8 @@ LOCATION:Student Center: Room 321
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Petit Institute Distinguished Lecture
-DTSTART;VALUE=DATE-TIME:20191022T110000
-DTEND;VALUE=DATE-TIME:20191022T130000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191022T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191022T130000
 UID:https://calendar.gatech.edu/event/615501
 DESCRIPTION:"Learning to Program Cellular Machines: Harnessing Cells to Tr
  eat Disease\, Build Tissues\, and Elucidate Design Principles"Wendell Lim\
@@ -2039,8 +2039,8 @@ LOCATION:Parker H. Petit Institute for Bioengineering and Bioscience\, Atr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Materials Informatics 101: Data Science Literacy
-DTSTART;VALUE=DATE-TIME:20190918T080000
-DTEND;VALUE=DATE-TIME:20190918T170000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190918T080000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190918T170000
 UID:https://calendar.gatech.edu/event/624410
 DESCRIPTION:Free food\n\nThis workshop\, co-developed by Citrine Informati
  csand the Institute for Materials at Georgia Tech\, seeks to provide basic
@@ -2062,8 +2062,8 @@ LOCATION:Georgia Tech Manufacturing Institute\, Auditorium and Atrium\, 81
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:S'mores & Sets
-DTSTART;VALUE=DATE-TIME:20190904T180000
-DTEND;VALUE=DATE-TIME:20190904T190000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190904T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190904T190000
 UID:https://calendar.gatech.edu/event/624716
 DESCRIPTION:Free food\n\nJoin Omega Phi Alpha by the CRC volleyball courts
   to roast some s'mores and sunset beach volleyball! Just bring yourself (a
@@ -2077,8 +2077,8 @@ LOCATION:CRC Volleyball Courts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Study Abroad Fair 2019
-DTSTART;VALUE=DATE-TIME:20191001T100000
-DTEND;VALUE=DATE-TIME:20191001T140000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191001T100000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191001T140000
 UID:https://calendar.gatech.edu/event/619467
 DESCRIPTION:Free food\, freebies\n\nJoin us any time from 10 - 2 in the st
  udent center ballroom to learn about all things study abroad: program type
@@ -2090,8 +2090,8 @@ LOCATION:Student Center Ballroom
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grocery Bingo Night at Tech Rec
-DTSTART;VALUE=DATE-TIME:20190823T200000
-DTEND;VALUE=DATE-TIME:20190823T220000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190823T200000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190823T220000
 UID:https://calendar.gatech.edu/event/624766
 DESCRIPTION:Free food\n\nNeed to get groceries from the store? There's no 
  need with Tech Rec's Grocery Bingo Night! Join us Friday\, August 23rd fro
@@ -2103,8 +2103,8 @@ LOCATION:Tech Rec\, Ground Floor of Student Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Undergraduate Research Ambassador Open House
-DTSTART;VALUE=DATE-TIME:20190827T170000
-DTEND;VALUE=DATE-TIME:20190827T180000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190827T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190827T180000
 UID:https://calendar.gatech.edu/event/609822
 DESCRIPTION:Free food\n\nCome meet Undergraduate Research Ambassadors and 
  learn about our undergraduate research opportunities\, how to get started 
@@ -2116,8 +2116,8 @@ LOCATION:Clough Undergraduate Learning Commons\, 2nd Floor\, Clough 205Q
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seminar - Song Ih Ahn
-DTSTART;VALUE=DATE-TIME:20190828T171500
-DTEND;VALUE=DATE-TIME:20190828T181500
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190828T171500
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190828T181500
 UID:https://www.bme.gatech.edu/bme/seminar-song-ih-ahn
 DESCRIPTION:PRESENTERSong Ih Ahn\nLOCATION/TIMEEBB CHOA Room / Wednesday\,
   August 28th\, 2019 from 1:15 - 2:15 PM*lunch provided*\nTITLEMicroenginee
@@ -2148,8 +2148,8 @@ LOCATION:Krone EBB\, CHOA room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Petit Institute Distinguished Lecture
-DTSTART;VALUE=DATE-TIME:20191022T150000
-DTEND;VALUE=DATE-TIME:20191022T170000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191022T150000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191022T170000
 UID:https://www.bme.gatech.edu/bme/petit-institute-distinguished-lecture
 DESCRIPTION:"Learning to Program Cellular Machines: Harnessing Cells to Tr
  eat Disease\, Build Tissues\, and Elucidate Design Principles"Wendell Lim\
@@ -2197,8 +2197,8 @@ LOCATION:Parker H. Petit Institute for Bioengineering and Bioscience\, Atr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Academic Job Search 101: Preparing your Application Packet
-DTSTART;VALUE=DATE-TIME:20190906T090000
-DTEND;VALUE=DATE-TIME:20190906T120000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190906T090000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190906T120000
 UID:https://calendar.gatech.edu/event/625098
 DESCRIPTION:Free food\n\nGraduate students and postdoctoral scholars going
   on the job market for faculty positions within the next year should atten
@@ -2213,8 +2213,8 @@ LOCATION:Student Center Piedmont Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ECE Career Fair Fall 2019 (Day 2 of 2)
-DTSTART;VALUE=DATE-TIME:20190919T100000
-DTEND;VALUE=DATE-TIME:20190919T160000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190919T100000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190919T160000
 UID:https://calendar.gatech.edu/event/625067
 DESCRIPTION:Free food\n\nTake advantage of this chance to meet with repres
  entatives from both local and national companies to discuss career opportu
@@ -2230,8 +2230,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lunch With the Author - John Lanier A Book Talk About Mid-Course C
  orrection: Revisited
-DTSTART;VALUE=DATE-TIME:20190919T110000
-DTEND;VALUE=DATE-TIME:20190919T120000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190919T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190919T120000
 UID:https://calendar.gatech.edu/event/625094
 DESCRIPTION:Free food\n\nJohn Lanier\, Executive Director of the Ray C. An
  derson Foundation and co-author ofMid-Course Correction Revisited\,will di
@@ -2248,8 +2248,8 @@ LOCATION:Scheller College of Business Room 311
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Academic Job Search 102: Academic interviewing and job talk
-DTSTART;VALUE=DATE-TIME:20191108T090000
-DTEND;VALUE=DATE-TIME:20191108T120000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191108T090000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191108T120000
 UID:https://calendar.gatech.edu/event/625103
 DESCRIPTION:Free food\n\nMost faculty positions are posted in the fall sem
  ester to start the following academic year. As such\, graduate students an
@@ -2270,8 +2270,8 @@ LOCATION:Student Success Center Suites C&D
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Transfer Student Association Back to School Kickoff
-DTSTART;VALUE=DATE-TIME:20190828T160000
-DTEND;VALUE=DATE-TIME:20190828T200000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190828T160000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190828T200000
 UID:https://calendar.gatech.edu/event/625080
 DESCRIPTION:Free food\n\nCome join the TSA to kickoff the new year!\nWe'll
   be discussing TSA's role on campus\, and how we can help you succeed as G
@@ -2287,8 +2287,8 @@ LOCATION:Room 117\, Smithgall Student Services (Flag) Building
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meditation and Pizza
-DTSTART;VALUE=DATE-TIME:20190905T130000
-DTEND;VALUE=DATE-TIME:20190905T140000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190905T130000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190905T140000
 UID:https://calendar.gatech.edu/event/625091
 DESCRIPTION:Free food\n\n\n\nhttps://calendar.gatech.edu/event/625091\nhtt
  ps://calendar.gatech.edu/event/listings/69\nhttps://calendar.gatech.edu/ev
@@ -2299,8 +2299,8 @@ LOCATION:Student Center Piedmont Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Teaching with Technology
-DTSTART;VALUE=DATE-TIME:20191025T103000
-DTEND;VALUE=DATE-TIME:20191025T120000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191025T103000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191025T120000
 UID:https://calendar.gatech.edu/event/625105
 DESCRIPTION:Free food\n\nThe fall teaching workshop series includes four w
  orkshops aimed at graduate students and postdoctoral scholars who are teac
@@ -2317,8 +2317,8 @@ LOCATION:Piedmont Room\, Student Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Writing Learning Outcomes
-DTSTART;VALUE=DATE-TIME:20191122T090000
-DTEND;VALUE=DATE-TIME:20191122T103000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191122T090000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191122T103000
 UID:https://calendar.gatech.edu/event/625106
 DESCRIPTION:Free food\n\nThe fall teaching workshop series includes four w
  orkshops aimed at graduate students and postdoctoral scholars who are teac
@@ -2333,8 +2333,8 @@ LOCATION:Student Center\, Room 319
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Scouts at GT Meeting with S'MORES!
-DTSTART;VALUE=DATE-TIME:20190828T190000
-DTEND;VALUE=DATE-TIME:20190828T200000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190828T190000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190828T200000
 UID:https://calendar.gatech.edu/event/625072
 DESCRIPTION:Free food\n\nWe will meet at the West Village Fire Pits to eat
   s'mores and discuss upcoming opportunities forsailing\, recruiting\, maki
@@ -2346,8 +2346,8 @@ LOCATION:West Village Fire Pits
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:How Learning Works
-DTSTART;VALUE=DATE-TIME:20191025T090000
-DTEND;VALUE=DATE-TIME:20191025T103000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191025T090000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191025T103000
 UID:https://calendar.gatech.edu/event/625104
 DESCRIPTION:Free food\n\nThe fall teaching workshop series includes four w
  orkshops aimed at graduate students and postdoctoral scholars who are teac
@@ -2362,8 +2362,8 @@ LOCATION:Piedmont Room\, Student Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Traditions Night
-DTSTART;VALUE=DATE-TIME:20190825T180000
-DTEND;VALUE=DATE-TIME:20190825T200000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190825T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190825T200000
 UID:https://calendar.gatech.edu/event/625050
 DESCRIPTION:Free food\, freebies\n\nRamblin' Reck Club is proud to present
   this year's Traditions Night at Bobby Dodd Stadium! EVERY member of the G
@@ -2381,8 +2381,8 @@ LOCATION:Callaway Plaza and Bobby Dodd Stadium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Measuring Learning
-DTSTART;VALUE=DATE-TIME:20191122T103000
-DTEND;VALUE=DATE-TIME:20191122T120000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191122T103000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191122T120000
 UID:https://calendar.gatech.edu/event/625107
 DESCRIPTION:Free food\n\nThe fall teaching workshop series includes four w
  orkshops aimed at graduate students and postdoctoral scholars who are teac
@@ -2397,8 +2397,8 @@ LOCATION:Student Center\, Room 319
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Student Veterans Luncheon
-DTSTART;VALUE=DATE-TIME:20190828T120000
-DTEND;VALUE=DATE-TIME:20190828T133000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190828T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190828T133000
 UID:https://calendar.gatech.edu/event/623991
 DESCRIPTION:The Student Veterans at Georgia Tech are having their annual l
  uncheon reception on Wednesday August 28\, 2019from Noon to 1:30pm on the 
@@ -2410,8 +2410,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Salesforce Tech Talk: The Forces Behind Salesforce: The Lightning 
  Platform\, the Formula Engine\,and Web App Defense
-DTSTART;VALUE=DATE-TIME:20190826T183000
-DTEND;VALUE=DATE-TIME:20190826T200000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190826T183000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190826T200000
 UID:https://calendar.gatech.edu/event/624685
 DESCRIPTION:Free food\, freebies\n\nTech Talk - The Forces Behind Salesfor
  ce: The Lightning Platform\, the Formula Engine\, and Web App Defense\nJoi
@@ -2453,8 +2453,8 @@ LOCATION:6:30pm – 8pm Klaus 1116 E&W.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CANCELLED - PayPal Experience Day - Showcase VR Campus Tour
-DTSTART;VALUE=DATE-TIME:20190904T133000
-DTEND;VALUE=DATE-TIME:20190904T160000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190904T133000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190904T160000
 UID:https://calendar.gatech.edu/event/624744
 DESCRIPTION:Free food\, freebies\n\nMeet engineers and recruiters from Pay
  Pal during their Experience Day to view a virtual reality tour of their ma
@@ -2465,8 +2465,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Technical Seminar on Atom Probe Tomography for 3D Atomic- Scale Ch
  aracterization and Biomaterials Analysis
-DTSTART;VALUE=DATE-TIME:20190911T120000
-DTEND;VALUE=DATE-TIME:20190911T130000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190911T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190911T130000
 UID:https://calendar.gatech.edu/event/625210
 DESCRIPTION:Free food\n\nAbstract: Atom Probe Tomography (APT) is the high
  est special resolution analytical characterization technique with high eff
@@ -2493,8 +2493,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GVU Center Brown Bag: Polo Chau "Towards Secure and Interpretable 
  AI..."
-DTSTART;VALUE=DATE-TIME:20190829T113000
-DTEND;VALUE=DATE-TIME:20190829T130000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190829T113000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190829T130000
 UID:https://calendar.gatech.edu/event/624956
 DESCRIPTION:Free food\n\nAbstract:\nWe have witnessed tremendous growth in
   Artificial Intelligence (AI) and machine learning (ML) recently. However\
@@ -2548,8 +2548,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web of Brilliance Hosts Mike Meyer of the Chattahoochee Riverkeepe
  r
-DTSTART;VALUE=DATE-TIME:20190829T110000
-DTEND;VALUE=DATE-TIME:20190829T120000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190829T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190829T120000
 UID:https://calendar.gatech.edu/event/625226
 DESCRIPTION:INTERLUDE WITH AN INTROVERT is a signature WoB series where we
   invite successfual individuals from all walks of life for an informal cha
@@ -2570,8 +2570,8 @@ LOCATION:Room 301\, Student Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NCR "Innovation Lab" Tech Talk
-DTSTART;VALUE=DATE-TIME:20190827T180000
-DTEND;VALUE=DATE-TIME:20190827T190000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190827T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190827T190000
 UID:https://calendar.gatech.edu/event/624703
 DESCRIPTION:Free food\, freebies\n\nTech-savvy-innovators. Challenge-seeke
  rs. Boundary-pushers. Agile-design thinkers.\nOur software engineering iNC
@@ -2592,8 +2592,8 @@ LOCATION:864 Spring Street NW Atlanta\, GA 30308
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mass Cytometry Seminar
-DTSTART;VALUE=DATE-TIME:20190917T110000
-DTEND;VALUE=DATE-TIME:20190917T130000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190917T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190917T130000
 UID:https://calendar.gatech.edu/event/625234
 DESCRIPTION:Schedule:11:00–12:00 pm Seminar12:00 pm Lunch will be served
  12:00–1:00 pm Step-right-up Q&A TableBring your questions and project id
@@ -2624,8 +2624,8 @@ LOCATION:Petit Biotechnology Building\, Room 1128 - Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Adulting: Cooking for Life
-DTSTART;VALUE=DATE-TIME:20191024T160000
-DTEND;VALUE=DATE-TIME:20191024T170000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191024T160000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191024T170000
 UID:https://calendar.gatech.edu/event/625181
 DESCRIPTION:Free food\n\nTheAdulting series introduces students to life sk
  ills that aren't taught in the classroom. Learn how to "adult" as particip
@@ -2645,8 +2645,8 @@ LOCATION:Student Center Room 301
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cracking Assignments Inside Out
-DTSTART;VALUE=DATE-TIME:20190919T000000
-DTEND;VALUE=DATE-TIME:20190920T000000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190919T000000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190920T000000
 UID:https://calendar.gatech.edu/event/625175
 DESCRIPTION:Free food\n\nHave you noticed that there is a constant chatter
   going on in your head? Have you considered most of the bugs (read problem
@@ -2664,8 +2664,8 @@ LOCATION:Student Center Room 332
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vietnamese Student Association Meeting
-DTSTART;VALUE=DATE-TIME:20190904T190000
-DTEND;VALUE=DATE-TIME:20190904T203000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190904T190000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190904T203000
 UID:https://calendar.gatech.edu/event/625302
 DESCRIPTION:Free food\n\nWelcome back\, everyone! Come join us as we kick 
  off the fall semester with an introduction to VSA and reveal our upcoming 
@@ -2679,8 +2679,8 @@ LOCATION:Room 1133\, Mason Building
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:International Student Meet and Greet
-DTSTART;VALUE=DATE-TIME:20190903T180000
-DTEND;VALUE=DATE-TIME:20190903T200000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190903T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190903T200000
 UID:https://calendar.gatech.edu/event/625269
 DESCRIPTION:Free food\n\nWelcome\, international students!\nJoin the Georg
  ia Tech International Ambassadors for an opportunity to make the world fee
@@ -2697,8 +2697,8 @@ LOCATION:Kessler Campanile
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stamps Health Services Ambassadors General Interest Meeting
-DTSTART;VALUE=DATE-TIME:20190903T200000
-DTEND;VALUE=DATE-TIME:20190903T210000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190903T200000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190903T210000
 UID:https://calendar.gatech.edu/event/625303
 DESCRIPTION:Free food\n\nThis event will provide information for new and r
  eturning SHS Ambassadors. After introducing the executive board\, explaini
@@ -2713,8 +2713,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brain-based Teaching: Using neuroscience to enhance student learni
  ng
-DTSTART;VALUE=DATE-TIME:20190919T113000
-DTEND;VALUE=DATE-TIME:20190919T130000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190919T113000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190919T130000
 UID:https://calendar.gatech.edu/event/625282
 DESCRIPTION:Please register to attend this upcoming teaching and learning 
  workshop!\nEngaging studentsin active learning is an important goal for an
@@ -2738,8 +2738,8 @@ LOCATION:Student Center\, Piedmont Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arts@Tech Faculty Lunch with Dr. Aaron Shackelford
-DTSTART;VALUE=DATE-TIME:20190912T110000
-DTEND;VALUE=DATE-TIME:20190912T120000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190912T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190912T120000
 UID:https://calendar.gatech.edu/event/625374
 DESCRIPTION:Free food\n\nFaculty members are invited to join the Office of
   the Arts for lunch on September 12 at 11am in the Ferst Center's Richards
@@ -2752,8 +2752,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Basic Research Needs for Microelectronics RFP: Georgia Tech Respon
  se Planning Meeting Microelectronics
-DTSTART;VALUE=DATE-TIME:20190912T120000
-DTEND;VALUE=DATE-TIME:20190912T170000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190912T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190912T170000
 UID:https://calendar.gatech.edu/event/624050
 DESCRIPTION:Please join in a workshop on September12\, 12-5pm in the Georg
  ia Tech Manufacturing InstituteAuditorium to discuss the call forDOE Energ
@@ -2791,8 +2791,8 @@ LOCATION:Georgia Tech Manufacturing Institute\, Auditorium\, 813 Ferst Dr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Materials Innovation  Lecture Series
-DTSTART;VALUE=DATE-TIME:20190925T110000
-DTEND;VALUE=DATE-TIME:20190925T120000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190925T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190925T120000
 UID:https://calendar.gatech.edu/event/624997
 DESCRIPTION:Free food\n\nOptimizing Metals Additive Manufacturing\nAaron P
  . Stebner\,Rowlinson Associate Professor of Mechanical Engineering and Mat
@@ -2841,8 +2841,8 @@ LOCATION:The George W. Woodruff School of Mechanical Engineering\, MRDC Bu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Invite Only - PayPal Experience Day - Showcase VR Campus Tour
-DTSTART;VALUE=DATE-TIME:20190904T133000
-DTEND;VALUE=DATE-TIME:20190904T160000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190904T133000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190904T160000
 UID:https://calendar.gatech.edu/event/624744
 DESCRIPTION:Free food\, freebies\n\nInvite Only -\nMeet engineers and recr
  uiters from PayPal during their Experience Day to view a virtual reality t
@@ -2852,8 +2852,8 @@ LOCATION:Klaus Advanced Computing Building Atrium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Career Event with Michael Laughter of C2D2
-DTSTART;VALUE=DATE-TIME:20190918T120000
-DTEND;VALUE=DATE-TIME:20190918T133000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190918T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190918T133000
 UID:https://calendar.gatech.edu/event/625357
 DESCRIPTION:Free food\n\nMichael Laughter of the Center for Career Discove
  ry and Development will speak with Ivan Allen College undergraduates and g
@@ -2871,8 +2871,8 @@ BEGIN:VEVENT
 SUMMARY:GVU Center Brown Bag: Richard DeMillo "Usability\, Privacy\, Cyber
  security and the Right to Vote: Why elections are not as simple as they se
  em"
-DTSTART;VALUE=DATE-TIME:20190905T113000
-DTEND;VALUE=DATE-TIME:20190905T130000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190905T113000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190905T130000
 UID:https://calendar.gatech.edu/event/625271
 DESCRIPTION:Free food\n\nAbstract:\nAll modern public elections in the Uni
  ted States use computers called voting machines to automate at least part 
@@ -2918,8 +2918,8 @@ LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OpenIDEO at Georgia Tech Info Session
-DTSTART;VALUE=DATE-TIME:20190829T183000
-DTEND;VALUE=DATE-TIME:20190829T193000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190829T183000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190829T193000
 UID:https://calendar.gatech.edu/event/625327
 DESCRIPTION:At OpenIDEO\, we build communities to drive collaboration\, in
  novation\, and impact around the world's toughest problems through launchi
@@ -2935,8 +2935,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nano@Tech: Applications of Molecular Dopants and Interface Modifie
  rs for Electronic and Opto-Electronic Applications
-DTSTART;VALUE=DATE-TIME:20191008T120000
-DTEND;VALUE=DATE-TIME:20191008T130000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191008T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191008T130000
 UID:https://calendar.gatech.edu/event/622285
 DESCRIPTION:Free food\n\nSeth MarderRegents Professor\; Georgia Power Chai
  r of Energy EfficiencySchool of Chemistry & BiochemistryGeorgia Institute 
@@ -2980,8 +2980,8 @@ LOCATION:Pettit Microelectronics Building 102 A&B | 791 Atlantic Drive | A
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GTSF Info Session: Allocations and Marketing
-DTSTART;VALUE=DATE-TIME:20190910T190000
-DTEND;VALUE=DATE-TIME:20190910T200000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190910T190000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190910T200000
 UID:https://calendar.gatech.edu/event/625390
 DESCRIPTION:Free food\n\nLearn more about the Georgia Tech Student Foundat
  ion and the leadership opportunities it offers.\n\nhttps://calendar.gatech
@@ -2992,8 +2992,8 @@ LOCATION:Alumni House
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ADP Day in the Lobby
-DTSTART;VALUE=DATE-TIME:20190905T100000
-DTEND;VALUE=DATE-TIME:20190905T150000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190905T100000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190905T150000
 UID:https://calendar.gatech.edu/event/624746
 DESCRIPTION:Free food\, freebies\n\nDay in the Lobby\nBring your resume an
  d come chat with recruiters from ADPin the College of Computing commons an
@@ -3017,8 +3017,8 @@ LOCATION:College of Computing Commons
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Plutonium Chemistry and the Battlefields of the Cold War
-DTSTART;VALUE=DATE-TIME:20191015T183000
-DTEND;VALUE=DATE-TIME:20191015T193000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191015T183000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191015T193000
 UID:https://calendar.gatech.edu/event/625283
 DESCRIPTION:Free food\, freebies\n\nA Frontiers in Science Lecture to cele
  brate 2019\, the International Year of the Periodic Table\nThe Cold War ri
@@ -3113,8 +3113,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SCL IRC Seminar: Collaboration in Supply Chains that use Shared In
  frastructure: the Case of a Coal Export Supply Chain
-DTSTART;VALUE=DATE-TIME:20190925T120000
-DTEND;VALUE=DATE-TIME:20190925T133000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190925T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190925T133000
 UID:https://calendar.gatech.edu/event/625371
 DESCRIPTION:The Supply Chain and Logistics Institute hosts a series of mon
  thly seminars open to interested faculty\, students and corporate partners
@@ -3151,8 +3151,8 @@ LOCATION:GTMI: 1st floor Auditorium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GameNight - CarbonSim
-DTSTART;VALUE=DATE-TIME:20190916T163000
-DTEND;VALUE=DATE-TIME:20190916T193000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190916T163000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190916T193000
 UID:https://calendar.gatech.edu/event/625413
 DESCRIPTION:Free food\n\nStudents & Faculty can try their hand managing a 
  firm's energy portfolio using the CarbonSim software. Students must regist
@@ -3164,8 +3164,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nano@Tech: Expansion of Electrospinnable Materials Beyond High Mol
  ecular Weight Polymers
-DTSTART;VALUE=DATE-TIME:20190924T120000
-DTEND;VALUE=DATE-TIME:20190924T130000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190924T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190924T130000
 UID:https://calendar.gatech.edu/event/622282
 DESCRIPTION:Free food\n\nProf. Blair Brettmann - School of Chemical and Bi
  omolecular Engineering\, School of Materials Science and Engineering\, Geo
@@ -3209,8 +3209,8 @@ LOCATION:Marcus Nanotechnology Building 1117-1118 | 345 Ferst Drive | Atla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HubSpot Web App Workshop
-DTSTART;VALUE=DATE-TIME:20190911T173000
-DTEND;VALUE=DATE-TIME:20190911T190000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190911T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190911T190000
 UID:https://www.cc.gatech.edu/calendar/day/2019/09/11/15421
 DESCRIPTION:Web App Workshop\nJoin HubSpot engineers for a Webb App Worksh
  op from 5:30pm-7pm in Klaus 1116 EW! Learn how to leverage modern\, open-s
@@ -3231,8 +3231,8 @@ LOCATION:5:30pm-7pm\, Klaus 1116EW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:State Farm Tech Talk
-DTSTART;VALUE=DATE-TIME:20190910T183000
-DTEND;VALUE=DATE-TIME:20190910T200000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190910T183000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190910T200000
 UID:https://calendar.gatech.edu/event/625368
 DESCRIPTION:Free food\, freebies\n\nTech Talk\nJoin State Farm to learn mo
  re about their innovative technologies!\nInternships\nA real work experien
@@ -3253,8 +3253,8 @@ LOCATION:6:30pm – 8pm Klaus 1116 E&W.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CREATE-X Startup Ideas
-DTSTART;VALUE=DATE-TIME:20190909T170000
-DTEND;VALUE=DATE-TIME:20190909T183000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190909T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190909T183000
 UID:https://calendar.gatech.edu/event/625552
 DESCRIPTION:Free food\n\nIf you're planning to apply to Startup Launch\, c
  ome share your ideas with members of the selection committee to gain insta
@@ -3268,8 +3268,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SLS Open House: Sustainable Cities Minor and Innovating for Social
   Impact Program
-DTSTART;VALUE=DATE-TIME:20191003T170000
-DTEND;VALUE=DATE-TIME:20191003T180000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191003T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191003T180000
 UID:https://calendar.gatech.edu/event/625499
 DESCRIPTION:Free food\n\nJoin SLS and our partners from the Institute for 
  Leadership and Entrepreneurship and the School of City and Regional Planni
@@ -3281,8 +3281,8 @@ LOCATION:Clough Lounge (Clough 205)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CREATE-X Startup Launch Alumni Panel
-DTSTART;VALUE=DATE-TIME:20190917T110000
-DTEND;VALUE=DATE-TIME:20190917T120000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190917T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190917T120000
 UID:https://calendar.gatech.edu/event/625558
 DESCRIPTION:Free food\n\nWhat better way to learn about startups than from
   the startups themselves? Past founders will discuss their launch experien
@@ -3296,8 +3296,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AGSC Tuesday Collaboratorium: Education for Sustainable Developmen
  t - Global and Cross-Cultural Perspectives and Best Practices
-DTSTART;VALUE=DATE-TIME:20190924T110000
-DTEND;VALUE=DATE-TIME:20190924T115000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190924T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190924T115000
 UID:https://calendar.gatech.edu/event/625431
 DESCRIPTION:Free food\n\nCollaboratorium with School of Modern Languages f
  aculty on on Education for Sustainable Development. Faculty will discuss g
@@ -3308,8 +3308,8 @@ LOCATION:AGSC\, 781 Marietta St. NW\, Suite 115\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kaiser Permanente Corporate 5K Run\, Walk & Roll
-DTSTART;VALUE=DATE-TIME:20190911T190000
-DTEND;VALUE=DATE-TIME:20190911T230000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190911T190000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190911T230000
 UID:https://calendar.gatech.edu/event/625443
 DESCRIPTION:Employees across the 26 institutions of the University System 
  of Georgia are invited to join the University System of Georgia team on We
@@ -3326,8 +3326,8 @@ LOCATION:Georgia World Congress Center\, 285 Andrew Young Intl Blvd NW\, A
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Norfolk Southern Tech Talk
-DTSTART;VALUE=DATE-TIME:20190909T183000
-DTEND;VALUE=DATE-TIME:20190909T200000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190909T183000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190909T200000
 UID:https://calendar.gatech.edu/event/625369
 DESCRIPTION:Free food\, freebies\n\nTech Talk\nJoin Norfolk Southern at 6:
  30pm in Klaus 1116 West to learn more about their innovative technologies!
@@ -3355,8 +3355,8 @@ LOCATION:6:30pm Klaus 1116 West
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Women of Earth - Pre-Premiere Documentary Screening and Discussion
-DTSTART;VALUE=DATE-TIME:20190918T180000
-DTEND;VALUE=DATE-TIME:20190918T200000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190918T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190918T200000
 UID:https://calendar.gatech.edu/event/625458
 DESCRIPTION:Free food\n\nA soul-searching journey to the roots of Brazil..
  .\nJoin us as we meet the keepers of ancient knowledge!\nPre-Premiere Docu
@@ -3377,8 +3377,8 @@ LOCATION:Georgia Tech Alumni House\, 190 North Ave. NW\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Global Climate Action Symposium: European Climate Diplomacy Week
-DTSTART;VALUE=DATE-TIME:20190927T090000
-DTEND;VALUE=DATE-TIME:20190927T180000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190927T090000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190927T180000
 UID:https://calendar.gatech.edu/event/625432
 DESCRIPTION:Free food\n\nGET INSPIRED by leaders in arts\, science\, busin
  ess\, and industry. LEND YOUR VOICE during interactive discussions. CELEBR
@@ -3397,8 +3397,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AGSC Tuesday Collaboratorium: Lunch with a Member of the Atlanta C
  onsular Corps
-DTSTART;VALUE=DATE-TIME:20191119T110000
-DTEND;VALUE=DATE-TIME:20191119T115000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191119T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191119T115000
 UID:https://calendar.gatech.edu/event/625430
 DESCRIPTION:Free food\n\nCollaboratorium and Lunch with a Member of the At
  lanta Consular Corps\n\nhttps://calendar.gatech.edu/event/625430\nhttps://
@@ -3408,8 +3408,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AGSC Tuesday Collaboratorium: Lunch with a Member of the Atlanta C
  onsular Corps
-DTSTART;VALUE=DATE-TIME:20191022T110000
-DTEND;VALUE=DATE-TIME:20191022T115000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191022T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191022T115000
 UID:https://calendar.gatech.edu/event/625429
 DESCRIPTION:Free food\n\nCollaboratorium and Lunch with a Member of the At
  lanta Consular Corps\n\nhttps://calendar.gatech.edu/event/625429\nhttps://
@@ -3418,8 +3418,8 @@ LOCATION:AGSC\, 781 Marietta St. NW\, Suite 115\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:State Farm Day in the Lobby
-DTSTART;VALUE=DATE-TIME:20190910T110000
-DTEND;VALUE=DATE-TIME:20190910T160000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190910T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190910T160000
 UID:https://calendar.gatech.edu/event/625367
 DESCRIPTION:Free food\, freebies\n\nDay in the Lobby\nBring your resume an
  d come chat with recruiters from State Farm in the College of Computing co
@@ -3441,8 +3441,8 @@ LOCATION:11am-4pm CCB commons
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Change Accelerator Info Session
-DTSTART;VALUE=DATE-TIME:20190905T160000
-DTEND;VALUE=DATE-TIME:20190905T180000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190905T160000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190905T180000
 UID:https://calendar.gatech.edu/event/625535
 DESCRIPTION:Free food\n\nThe Center for Deliberate Innovation is launching
   the newChangeAccelerator program. This programwill make the Deliberate In
@@ -3465,8 +3465,8 @@ LOCATION:Center for Deliberate Innovation (828 W Peachtree St NW #306\, At
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AGSC Meet-and-Greet
-DTSTART;VALUE=DATE-TIME:20191002T163000
-DTEND;VALUE=DATE-TIME:20191002T180000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191002T163000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191002T180000
 UID:https://calendar.gatech.edu/event/625428
 DESCRIPTION:Free food\n\nMeet-and-Greet reception for GeorgiaTech and GSU 
  faculty and students affiliated with the AtlantaGlobal Studies Center.\n\n
@@ -3476,8 +3476,8 @@ LOCATION:AGSC\, 781 Marietta St. NW\, Suite 115\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HubSpot Day in the Lobby
-DTSTART;VALUE=DATE-TIME:20190911T110000
-DTEND;VALUE=DATE-TIME:20190911T160000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190911T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190911T160000
 UID:https://calendar.gatech.edu/event/625570
 DESCRIPTION:Free food\, freebies\n\nDay in the Lobby\nBring your resume an
  d come chat with recruiters from HubSpot in the College of Computing commo
@@ -3497,7 +3497,7 @@ LOCATION:11am-4pm CCB commons
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Digital Transformation in Energy: A New Way of Doing Business
-DTSTART;VALUE=DATE-TIME:20190909T193000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190909T193000
 UID:https://career.gatech.edu/employer-information-sessions
 DESCRIPTION:Only for majors: College of Business\, College of Computing\, 
  College of Engineering\n\nCome meet the Chevron Recruiting Team to learn m
@@ -3509,7 +3509,7 @@ LOCATION:Bill Moore Student Success Center - President Suite A
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Deloitte Consulting Lunch & Learn
-DTSTART;VALUE=DATE-TIME:20190913T113000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190913T113000
 UID:https://career.gatech.edu/employer-information-sessions
 DESCRIPTION:Only for majors: All Majors\n\nDeloitte Consulting is hosting 
  an informational Lunch & Learn session on Friday 9/13 from 11:30am â€
@@ -3521,7 +3521,7 @@ LOCATION:STUDENT CENTER - ROOM 301
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Deloitte Consulting - Market Trends
-DTSTART;VALUE=DATE-TIME:20190919T180000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190919T180000
 UID:https://career.gatech.edu/employer-information-sessions
 DESCRIPTION:Only for majors: All Majors\n\nDeloitte Consulting is hosting 
  an informational session on Marketplace Tech Trends on Thursday\, 9/19. Jo
@@ -3534,7 +3534,7 @@ LOCATION:Student Center - Room 319
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Virginia Systems & Technology (VaST) Information Session
-DTSTART;VALUE=DATE-TIME:20190909T161500
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190909T161500
 UID:https://career.gatech.edu/employer-information-sessions
 DESCRIPTION:Only for majors: College of Computing\, Computational Engineer
  ing - BS Level\, Electrical & Computer Engineering - MS & Ph.D. Level\, El
@@ -3550,7 +3550,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Information Session - Medtronic Engineering Internships - Summer 2
  020
-DTSTART;VALUE=DATE-TIME:20190909T173000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190909T173000
 UID:https://career.gatech.edu/employer-information-sessions
 DESCRIPTION:Only for majors: College of Engineering\, Biomedical Engineeri
  ng - BS Level\, Electrical & Computer Engineering - MS & Ph.D. Level\, Ele
@@ -3568,7 +3568,7 @@ LOCATION:Bill Moore Student Success Center - President Suite  B & C
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Maxim Engineering Career Paths Panel
-DTSTART;VALUE=DATE-TIME:20190917T180000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190917T180000
 UID:https://career.gatech.edu/employer-information-sessions
 DESCRIPTION:Only for majors: Electrical & Computer Engineering - MS & Ph.D
  . Level\, Electrical Engineering - BS Level\n\n"Headquartered in the heart
@@ -3593,7 +3593,7 @@ LOCATION:Student Success Center - President Suite A
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Deloitte Consulting Information Session
-DTSTART;VALUE=DATE-TIME:20190905T180000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190905T180000
 UID:https://career.gatech.edu/employer-information-sessions
 DESCRIPTION:Only for majors: All Majors\n\nDeloitte Consulting is hosting 
  an informational session for Georgia Tech students on Thursday\, 9/5 from 
@@ -3606,7 +3606,7 @@ LOCATION:Bill Moore Student Success Center - President Suite A
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Naval Nuclear Propulsion Program Info Session
-DTSTART;VALUE=DATE-TIME:20190910T163000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190910T163000
 UID:https://career.gatech.edu/employer-information-sessions
 DESCRIPTION:Only for majors: All Majors\n\nJoin us for pizza as members fr
  om the Naval Nuclear Propulsion Program discuss opportunities on ways to s
@@ -3616,7 +3616,7 @@ LOCATION:Bill Moore Student Success Center - President Suite  B & C
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Schlumberger Info Session
-DTSTART;VALUE=DATE-TIME:20190909T171500
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190909T171500
 UID:https://career.gatech.edu/employer-information-sessions
 DESCRIPTION:Only for majors: Aerospace Engineering - All Levels\, Chemical
   & Biomolecular Engineering - BS Level\, Civil Engineering - All Levels\, 
@@ -3632,7 +3632,7 @@ LOCATION:Bill Moore Student Success Center - President Suite A
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Carnival Cruise Line's Information Session
-DTSTART;VALUE=DATE-TIME:20190909T190000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190909T190000
 UID:https://career.gatech.edu/employer-information-sessions
 DESCRIPTION:Only for majors: College of Business\, College of Computing\, 
  College of Engineering\, College of Sciences\n\nCarnival Cruise Line invit
@@ -3647,7 +3647,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Info Session with Chicago Trading Company: Your career at the inte
  rsection of finance and technology
-DTSTART;VALUE=DATE-TIME:20190911T190000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190911T190000
 UID:https://career.gatech.edu/employer-information-sessions
 DESCRIPTION:Only for majors: All Majors\n\nOn September 11th\, come learn 
  about Chicago Trading Company (CTC) from a diverse team of quantitative tr
@@ -3668,8 +3668,8 @@ LOCATION:Student Success Center - Press Room A
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mastercard Tech Talk: Big Data Insights with Mastercard
-DTSTART;VALUE=DATE-TIME:20190911T183000
-DTEND;VALUE=DATE-TIME:20190911T200000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190911T183000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190911T200000
 UID:https://www.cc.gatech.edu/calendar/day/2019/09/11/15427
 DESCRIPTION:Big Data Insights with Mastercard\nJoin Andrew Fedorchek (an E
  VP in Mastercard) and some recent college hires from the CoC for a free di
@@ -3713,8 +3713,8 @@ LOCATION:6:30pm Klaus 1447
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nerdy Bones Summit 2019
-DTSTART;VALUE=DATE-TIME:20191018T090000
-DTEND;VALUE=DATE-TIME:20191018T220000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191018T090000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191018T220000
 UID:https://www.cc.gatech.edu/calendar/day/2019/10/18/15425
 DESCRIPTION:Cisco and Georgia Tech's College of Computing are proud to spo
  nsor this year's Nerdy Bones summit! Nerdy Bones\, the student organizatio
@@ -3735,8 +3735,8 @@ LOCATION:Klaus 1116 e/w
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mastercard Day in the Lobby
-DTSTART;VALUE=DATE-TIME:20190912T110000
-DTEND;VALUE=DATE-TIME:20190912T160000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190912T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190912T160000
 UID:https://calendar.gatech.edu/event/625641
 DESCRIPTION:Free food\, freebies\n\nDay in the Lobby\nJoin engineers and r
  ecruiters from Mastercard in the College of Computing Commons from 11am-4p
@@ -3767,8 +3767,8 @@ LOCATION:11am-4pm CCB commons
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ivan Allen College Family Weekend Reception
-DTSTART;VALUE=DATE-TIME:20191004T153000
-DTEND;VALUE=DATE-TIME:20191004T170000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191004T153000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191004T170000
 UID:https://calendar.gatech.edu/event/622894
 DESCRIPTION:The Ivan Allen College of Liberal Arts Dean's Office and the C
  hairs of the School of Economics\; History and Sociology\; Literature\, Me
@@ -3781,8 +3781,8 @@ LOCATION:Savant Courtyard
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Artists' Talk: "Cut and Paste" Reception and Artists' Panel
-DTSTART;VALUE=DATE-TIME:20190906T180000
-DTEND;VALUE=DATE-TIME:20190906T200000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190906T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190906T200000
 UID:https://calendar.gatech.edu/event/624594
 DESCRIPTION:On Friday\, September 6\, the Robert C. Williams Museum of Pap
  ermaking hosts an artists’ talk on the Cut & Paste: Works of Paper exhib
@@ -3819,8 +3819,8 @@ LOCATION:Robert C. Williams Museum of Papermaking\, 500 10th St NW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CREATE-X Startup Launch Alumni Panel
-DTSTART;VALUE=DATE-TIME:20190918T110000
-DTEND;VALUE=DATE-TIME:20190918T120000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190918T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190918T120000
 UID:https://calendar.gatech.edu/event/625558
 DESCRIPTION:Free food\n\nWhat better way to learn about startups than from
   the startups themselves? Past founders will discuss their launch experien
@@ -3833,8 +3833,8 @@ LOCATION:Woody's - 850 N Curran St.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SCPC Presents: Crazy Rich Asians
-DTSTART;VALUE=DATE-TIME:20190913T203000
-DTEND;VALUE=DATE-TIME:20190913T223000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190913T203000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190913T223000
 UID:https://calendar.gatech.edu/event/625563
 DESCRIPTION:SCPC Presents a free showing of Crazy Rich Asians! Join us on 
  Friday\, September 13 at the Student Center Theater. Doors will open and f
@@ -3848,8 +3848,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GVU Center Brown Bag: Greg Maletic "Playdate: Creating a new handh
  eld video game console"
-DTSTART;VALUE=DATE-TIME:20190912T113000
-DTEND;VALUE=DATE-TIME:20190912T130000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190912T113000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190912T130000
 UID:https://calendar.gatech.edu/event/625634
 DESCRIPTION:Free food\n\nAbstract:\nPlaydate — a tiny\, yellow\, handhel
  d game console — made a bigger splash than its creators envisioned when 
@@ -3883,8 +3883,8 @@ LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Robotics Industry & Student Mixer
-DTSTART;VALUE=DATE-TIME:20190910T150000
-DTEND;VALUE=DATE-TIME:20190910T170000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190910T150000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190910T170000
 UID:https://calendar.gatech.edu/event/624429
 DESCRIPTION:The Institute for Robotics and IntelligentMachines will host i
  ts annual Industry & Student Mixer on Tuesday\, September 10\, 2019\, from
@@ -3920,8 +3920,8 @@ LOCATION:Klaus Advanced Computing Building\, Rooms 1116 East & West
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Science.Art.Wonder Info Session
-DTSTART;VALUE=DATE-TIME:20190916T163000
-DTEND;VALUE=DATE-TIME:20190916T173000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190916T163000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190916T173000
 UID:https://calendar.gatech.edu/event/625718
 DESCRIPTION:This is our info session where we will be going over what Scie
  nce.Art.Wonder is and our general timeline. This is a great opportunity to
@@ -3934,8 +3934,8 @@ LOCATION:Cypress Room\, Student Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ML@GT Fall Seminar: Chandrajit Bajaj\, University of Texas
-DTSTART;VALUE=DATE-TIME:20190918T121500
-DTEND;VALUE=DATE-TIME:20190918T131500
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190918T121500
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190918T131500
 UID:https://calendar.gatech.edu/event/622930
 DESCRIPTION:Free food\n\nThe Machine Learning Center at Georgia Tech invit
  es you to a seminar byChandrajit Bajaj from the University of Texas.\nTITL
@@ -3970,8 +3970,8 @@ LOCATION:Marcus Nanotechnology Building\, Rooms 1116-1118
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ECN Fall Social
-DTSTART;VALUE=DATE-TIME:20190925T130000
-DTEND;VALUE=DATE-TIME:20190925T150000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190925T130000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190925T150000
 UID:https://calendar.gatech.edu/event/624403
 DESCRIPTION:Join us to celebrate the start of the school year and expand y
  our professionalnetwork. Light refreshments will be served. RSVP for the e
@@ -3982,8 +3982,8 @@ LOCATION:Piedmont Room\, Student Center Commons
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Student Alumni Association Kickoff
-DTSTART;VALUE=DATE-TIME:20190905T090000
-DTEND;VALUE=DATE-TIME:20190905T150000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190905T090000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190905T150000
 UID:https://calendar.gatech.edu/event/625575
 DESCRIPTION:Free food\, freebies\n\nThe Student Alumni Association (SAA)\,
   invites you to stop by the Tech Green area on September 5th to join SAA o
@@ -4009,8 +4009,8 @@ LOCATION:Tech Green
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2020 InVenture Prize Kickoff
-DTSTART;VALUE=DATE-TIME:20190911T183000
-DTEND;VALUE=DATE-TIME:20190911T193000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190911T183000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190911T193000
 UID:https://calendar.gatech.edu/event/625618
 DESCRIPTION:Free food\n\nJoin us for this informativesession about the 202
  0InVenture Prize. Talk to past competitors and learn more about the worksh
@@ -4026,8 +4026,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Georgia Tech Supply Chain and Logistics Institute Celebrates the 5
  0th Anniversary of the Project Management Institute
-DTSTART;VALUE=DATE-TIME:20190909T120000
-DTEND;VALUE=DATE-TIME:20190909T133000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190909T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190909T133000
 UID:https://calendar.gatech.edu/event/624676
 DESCRIPTION:Did you know:\nThe Project Management Institute is the world's
   professional society for project management\, maintains robust body of kn
@@ -4071,8 +4071,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Impact Presents: "Gender Role Assumptions Impact Women's Financial
   Power Within Personal Relationships"
-DTSTART;VALUE=DATE-TIME:20191113T163000
-DTEND;VALUE=DATE-TIME:20191113T173000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191113T163000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191113T173000
 UID:https://calendar.gatech.edu/event/624444
 DESCRIPTION:“My job is to provide mission-critical advice in the face of
   irreducible uncertainty. I embrace that for every client\, and each one k
@@ -4118,8 +4118,8 @@ LOCATION:Scheller College of Business\, Room 200
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:APO Smash N' Cakes
-DTSTART;VALUE=DATE-TIME:20190911T170000
-DTEND;VALUE=DATE-TIME:20190911T183000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190911T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190911T183000
 UID:https://calendar.gatech.edu/event/625720
 DESCRIPTION:Free food\n\nService fraternity Alpha Phi Omega will be hostin
  g Smash N' Cakes\, an event in which we play Smash Bros and make pancakes.
@@ -4131,8 +4131,8 @@ LOCATION:Juniper Room\, Student Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Petit Entrepreneurship Academy Seminar Series
-DTSTART;VALUE=DATE-TIME:20190913T113000
-DTEND;VALUE=DATE-TIME:20190913T123000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190913T113000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190913T123000
 UID:https://calendar.gatech.edu/event/625378
 DESCRIPTION:Helping GT entrepreneurs learn how to fund and commercialize t
  heir technology"Networking for Entrepreneurs and How to Give an Effective 
@@ -4145,8 +4145,8 @@ LOCATION:Parker H. Petit Institute for Bioengineering and Bioscience\, Roo
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ideas to Serve (I2S) Info Session and Lunch
-DTSTART;VALUE=DATE-TIME:20191024T110000
-DTEND;VALUE=DATE-TIME:20191024T120000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191024T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191024T120000
 UID:https://calendar.gatech.edu/event/625693
 DESCRIPTION:Free food\n\nPlease join us on Thursday\, October 24\, 2019\, 
  from 11:00 am- 12:00 pm\, Room 101 of the Scheller College of Businessto l
@@ -4175,7 +4175,7 @@ LOCATION:Room 101\, Scheller College of Business
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Navigator (now Avaap) - Consulting Information Session
-DTSTART;VALUE=DATE-TIME:20190910T170000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190910T170000
 UID:https://careerdiscovery.gatech.edu/employer-information-sessions
 DESCRIPTION:Only for majors: Economics - All Levels\, Business Administrat
  ion (Management) - BS Level\, Mathematics - BS & MS Level\, Psychology - A
@@ -4195,8 +4195,8 @@ LOCATION:Bill Moore Student Success Center - President Suite A
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CANCELLED - Norfolk Southern Tech Talk
-DTSTART;VALUE=DATE-TIME:20190909T183000
-DTEND;VALUE=DATE-TIME:20190909T200000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190909T183000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190909T200000
 UID:https://calendar.gatech.edu/event/625369
 DESCRIPTION:Free food\, freebies\n\nCANCELLED - Tech Talk\nJoin Norfolk So
  uthern at 6:30pm in Klaus 1116 West to learn more about their innovative t
@@ -4224,8 +4224,8 @@ LOCATION:6:30pm Klaus 1116 West
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alternative Service Break (ASB) Advisor Info Session
-DTSTART;VALUE=DATE-TIME:20190909T121500
-DTEND;VALUE=DATE-TIME:20190909T124500
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190909T121500
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190909T124500
 UID:https://calendar.gatech.edu/event/625775
 DESCRIPTION:Want to learn more about what it means to be a professional st
  aff advisor for an ASB trip? Join us for our info session\, where we will 
@@ -4246,8 +4246,8 @@ LOCATION:Student Center 319
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fall 2019 Commencement Fair
-DTSTART;VALUE=DATE-TIME:20190924T100000
-DTEND;VALUE=DATE-TIME:20190924T150000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190924T100000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190924T150000
 UID:https://calendar.gatech.edu/event/625760
 DESCRIPTION:Free food\, freebies\n\nThe Commencement Fair is a one-stop sh
  op for graduating bachelor's\, master's and PhD students to complete their
@@ -4266,8 +4266,8 @@ LOCATION:Student Center Ballroom
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Volleyball vs. Syracuse
-DTSTART;VALUE=DATE-TIME:20190927T000000
-DTEND;VALUE=DATE-TIME:20190928T000000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190927T000000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190928T000000
 UID:https://calendar.gatech.edu/event/625170
 DESCRIPTION:Volleyball hosts Syracuse University at home.\nPromotions:\nIn
  ternational Food FairInternational NightLunch Box giveaway\n\nhttps://cale
@@ -4277,8 +4277,8 @@ LOCATION:O'Keefe Gymnasium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Norfolk Southern Day in the Lobby
-DTSTART;VALUE=DATE-TIME:20190909T120000
-DTEND;VALUE=DATE-TIME:20190909T160000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190909T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190909T160000
 UID:https://calendar.gatech.edu/event/624958
 DESCRIPTION:Free food\, freebies\n\nDay in the Lobby\nBring your resume an
  d come chat with recruiters from Norfolk Southern in the College of Comput
@@ -4308,8 +4308,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AGSC Tuesday Collaboratorium: Innovations in Research & Pedagogy -
   Global Languages\, Cultures\, and Technologies (GLACT)
-DTSTART;VALUE=DATE-TIME:20191112T110000
-DTEND;VALUE=DATE-TIME:20191112T115000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191112T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191112T115000
 UID:https://calendar.gatech.edu/event/625434
 DESCRIPTION:Free food\n\nCollaboratorium withGlobal Languages\, Cultures\,
   and Technologies(GLACT) Fellows who will discuss innovations in research 
@@ -4320,8 +4320,8 @@ LOCATION:AGSC\, 781 Marietta St. NW\, Suite 115\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlanta Global Studies Center (AGSC) Meet & Greet
-DTSTART;VALUE=DATE-TIME:20191002T163000
-DTEND;VALUE=DATE-TIME:20191002T180000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191002T163000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191002T180000
 UID:https://calendar.gatech.edu/event/625428
 DESCRIPTION:Free food\n\nJoin us at the AGSC Meet-and-Greet reception for 
  GeorgiaTech and GSU faculty and students.\nAll Georgia Tech and Georgia St
@@ -4350,8 +4350,8 @@ LOCATION:AGSC\, 781 Marietta St. NW\, Suite 115\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Clough Commons Art Crawl Submissions Due
-DTSTART;VALUE=DATE-TIME:20190927T000000
-DTEND;VALUE=DATE-TIME:20190928T000000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190927T000000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190928T000000
 UID:https://calendar.gatech.edu/event/625887
 DESCRIPTION:Calling all student artists: submissions for the fall 2019 Clo
  ugh Commons Art Crawl are open until Friday\, Sept. 27.\nThe theme for the
@@ -4379,8 +4379,8 @@ LOCATION:Clough Undergraduate Learning Commons
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Exponent PhD Seminar
-DTSTART;VALUE=DATE-TIME:20190912T110000
-DTEND;VALUE=DATE-TIME:20190912T120000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190912T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190912T120000
 UID:https://calendar.gatech.edu/event/625966
 DESCRIPTION:Free food\n\nExponent and IEEE PES @ GT will be holding an inf
  o and recruiting session for PhD Students on Thursday\, September 12th\, 1
@@ -4405,8 +4405,8 @@ LOCATION:S106\, Howey Physics Building
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Paper Airplane Workshop
-DTSTART;VALUE=DATE-TIME:20190912T183000
-DTEND;VALUE=DATE-TIME:20190912T200000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190912T183000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190912T200000
 UID:https://calendar.gatech.edu/event/625874
 DESCRIPTION:Free food\, freebies\n\nIs it a bird? Is it a plane? Or is it 
  something else? Join OpenIDEO in our exploration of community\, communicat
@@ -4419,8 +4419,8 @@ LOCATION:Design Bloc (Woodruff Residence Hall)\, 890 Curran St NW\, Atlant
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:State Farm Tech Talk: Intelligent Messaging w/AWS
-DTSTART;VALUE=DATE-TIME:20190910T183000
-DTEND;VALUE=DATE-TIME:20190910T200000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190910T183000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190910T200000
 UID:https://calendar.gatech.edu/event/625368
 DESCRIPTION:Free food\, freebies\n\nTech Talk\nJoin State Farm at 6:30pm i
  n CCB 17 to hear how they areusing AWS as they re-architect the way they c
@@ -4447,8 +4447,8 @@ LOCATION:6:30pm – 8pm CCB 17
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Energy Chat | Chevron
-DTSTART;VALUE=DATE-TIME:20190910T183000
-DTEND;VALUE=DATE-TIME:20190910T193000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190910T183000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190910T193000
 UID:https://calendar.gatech.edu/event/625967
 DESCRIPTION:Free food\n\nHosted by the Energy Club\nChevron is hosting a Y
  oung Professional Panel Discussion to share their experiences\, insights o
@@ -4462,8 +4462,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Planning Meeting: Georgia Tech's Response to the DOE Quantum EFRC 
  Call
-DTSTART;VALUE=DATE-TIME:20190916T130000
-DTEND;VALUE=DATE-TIME:20190916T143000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190916T130000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190916T143000
 UID:https://calendar.gatech.edu/event/625973
 DESCRIPTION:RSVP for this event\nPlease join us for a planning meeting on 
  the anticipated fall release of the DOE Energy Frontier Research Center (E
@@ -4497,8 +4497,8 @@ LOCATION:Georgia Tech Student Center\, 350 Ferst Drive Northwest  Room 301
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Art of the Ebola Response: Lessons Learned from the Field
-DTSTART;VALUE=DATE-TIME:20191010T163000
-DTEND;VALUE=DATE-TIME:20191010T180000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191010T163000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191010T180000
 UID:https://calendar.gatech.edu/event/625975
 DESCRIPTION:Free food\n\n\n\nhttps://calendar.gatech.edu/event/625975\nhtt
  ps://calendar.gatech.edu/event/listings/66\nhttps://calendar.gatech.edu/ev
@@ -4507,8 +4507,8 @@ LOCATION:Architecture (East)\, Room 123
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Energy Chat | Cree Wolfspeed
-DTSTART;VALUE=DATE-TIME:20190917T183000
-DTEND;VALUE=DATE-TIME:20190917T193000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190917T183000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190917T193000
 UID:https://calendar.gatech.edu/event/625968
 DESCRIPTION:Free food\n\nHosted by the Energy Club\nAdam Barkley\, Solutio
  ns Architect in the Power Electronics Systems R&D team at Wolfspeed\, will
@@ -4535,8 +4535,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Micro-Physiological System Seminar Series—Microfluidic and Inter
  national Research Collaboration
-DTSTART;VALUE=DATE-TIME:20190917T110000
-DTEND;VALUE=DATE-TIME:20190917T130000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190917T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190917T130000
 UID:https://calendar.gatech.edu/event/625815
 DESCRIPTION:Free food\n\nMicro-Physiological System Seminar Series—Micro
  fluidic and International Research Collaboration\nMicrofluidics & Internat
@@ -4610,8 +4610,8 @@ LOCATION:Krone Building | CHOA Conference Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leadership for Social Good Study Abroad Info Session
-DTSTART;VALUE=DATE-TIME:20190919T110000
-DTEND;VALUE=DATE-TIME:20190919T120000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190919T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190919T120000
 UID:https://calendar.gatech.edu/event/625766
 DESCRIPTION:Free food\n\nCome hear about theLeadership for Social Good Stu
  dy Abroad Program\, which offers students the opportunity to gain insight 
@@ -4636,8 +4636,8 @@ LOCATION:Scheller College of Business\, Room 101
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:First Generation to Attend College or Graduate School
-DTSTART;VALUE=DATE-TIME:20191003T110000
-DTEND;VALUE=DATE-TIME:20191003T120000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191003T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191003T120000
 UID:https://calendar.gatech.edu/event/625837
 DESCRIPTION:Free food\, freebies\n\nFirst Generation College & Graduate St
  udents are the first in their families to continue their education beyond 
@@ -4672,8 +4672,8 @@ LOCATION:Georgia Tech Library Crosland Tower\, Room 7130
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Taste Of Africa 2019
-DTSTART;VALUE=DATE-TIME:20191108T180000
-DTEND;VALUE=DATE-TIME:20191108T220000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191108T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191108T220000
 UID:https://calendar.gatech.edu/event/625959
 DESCRIPTION:Taste of Africa is a gala inundated with treasures of African 
  cultures. Treasures in the form of art\, food\, comedy\, dance and a host 
@@ -4694,8 +4694,8 @@ LOCATION:Ferst Center for the Arts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chocolate and Meditation
-DTSTART;VALUE=DATE-TIME:20190912T110000
-DTEND;VALUE=DATE-TIME:20190912T120000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190912T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190912T120000
 UID:https://calendar.gatech.edu/event/626003
 DESCRIPTION:Free food\n\nYou may have eaten chocolate before\, but have yo
  u experienced chocolate?\nSKY offers an interactive session on meditation.
@@ -4712,8 +4712,8 @@ LOCATION:Pine Room\, Student Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Law\, Justice\, and Religious Identity in America: A LAMP Event
-DTSTART;VALUE=DATE-TIME:20190926T123000
-DTEND;VALUE=DATE-TIME:20190926T170000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190926T123000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190926T170000
 UID:https://calendar.gatech.edu/event/625851
 DESCRIPTION:Free food\n\nJointhe Leadership and Multifaith Program (LAMP)o
  n September 26\, 2019\, from 12:30 to 5:00 PM\, for a seminar on Law\, Jus
