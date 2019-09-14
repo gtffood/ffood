@@ -4746,4 +4746,413 @@ DESCRIPTION:Free food\n\nJointhe Leadership and Multifaith Program (LAMP)o
 LOCATION:Georgia Tech Alumni House\, 190 North Ave. NW\, Atlanta\, GA 3031
  3
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capital One Technology Development Program Overview and Demo
+DTSTART;VALUE=DATE-TIME:20190916T183000
+DTEND;VALUE=DATE-TIME:20190916T200000
+UID:https://calendar.gatech.edu/event/626023
+DESCRIPTION:Free food\, freebies\n\nCome learn about the Technology Develo
+ pment Program at Capital One. Current TDP Associates will be on campus to 
+ talk through Life at Capital One and share demos on the projects that they
+  have been working on across their rotational programs.\nTechnology Develo
+ pment Program\nWe recruit for three technical roles within ourTechnology I
+ nternship Program:\nSoftware Engineer\nChart the digital frontier in one o
+ f our Mobile (Native)\, Web\, or API developmentsDevelop your skills in a 
+ variety of languages and frameworks including: Java/Spring\,JavaScript\, A
+ ngularJS\, Python\, Serverless\, Kubernetes\, Go\, Kotlin and Swift in the
+  cloud and on devices\nData Engineer\nBuild out our analytic capabilities 
+ using modern data technologiesDeploy robust data products and services\, a
+ s well as enable rich visualization\, data exploratory\, and machine learn
+ ing capabilitiesUse open-source technologies (Serverless\, Kubernetes\, Ha
+ doop/MapReduce\, Spark\, Kafka\, Go\, Python\, NoSQL databases\, etc.) and
+  deploy applications in the cloud (AWS\, GCP\, Azure)\nCyber Security Engi
+ neer\nSupport cyber security monitoring and response capabilities to thwar
+ t attacks on Capital OneDevelop your skills in a variety of areas includin
+ g security operations\, penetration testing\, malware analysis and buildin
+ g and supporting emerging security solutions emerging security solutions t
+ o protect and empower the Capital One workforce\nWe recruit for three tech
+ nical roles within ourTechnology Development Program:\nSoftware Engineer\n
+ Chart the digital frontier in one of our Mobile (Native)\, Web\, or API de
+ velopmentsDevelop your skills in a variety of languages and frameworks inc
+ luding: Java/Spring\,JavaScript\, AngularJS\, Python\, Serverless\, Kubern
+ etes\, Go\, Kotlin and Swift in the cloud and on devices\nData Engineer\nB
+ uild out our analytic capabilities using modern data technologiesDeploy ro
+ bust data products and services\, as well as enable rich visualization\, d
+ ata exploratory\, and machine learning capabilitiesUse open-source technol
+ ogies (Serverless\, Kubernetes\, Hadoop/MapReduce\, Spark\, Kafka\, Go\, P
+ ython\, NoSQL databases\, etc.) and deploy applications in the cloud (AWS\
+ , GCP\, Azure)\nCyber Security Engineer\nSupport cyber security monitoring
+  and response capabilities to thwart attacks on Capital OneDevelop your sk
+ ills in a variety of areas including security operations\, penetration tes
+ ting\, malware analysis and building and supporting emerging security solu
+ tions emerging security solutions to protect and empower the Capital One w
+ orkforce\nAbout Capital One\nAt Capital One\, we consider ourselves the ba
+ nk a technology company would build. We’re delivering best-in-class inno
+ vation so that our 65 million customers - and counting - can manage their 
+ finances with ease. Our reality and vision empower our engineers to use ar
+ tificial intelligence and machine learning to transform real-time data\, s
+ oftware\, and algorithms into financial clarity. That’s what sets us apa
+ rt - and we want you to join our journey.\nWe’re all-in on the cloud and
+  are a leader in the adoption of open source\, RESTful APIs\, microservice
+ s\, and containers. We build our own products and release them with a spee
+ d and agility that allows us to get new customer experiences to market qui
+ ckly.\n\nhttps://calendar.gatech.edu/event/626023\nhttps://calendar.gatech
+ .edu/event/listings/63
+LOCATION:6:30pm\, Klaus 1116EW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Facebook Virtual Crush Your Coding Interview Workshop
+DTSTART;VALUE=DATE-TIME:20190913T140000
+DTEND;VALUE=DATE-TIME:20190913T150000
+UID:https://calendar.gatech.edu/event/626075
+DESCRIPTION:Free food\, freebies\n\nJOIN US!\nClear your calendar - It's g
+ oing down on Friday\, September 13th at 2pm EST / 11 am PST! Facebook is h
+ osting a Global Watch Party on Facebook Live for Interns\, University Grad
+ s\, and future Software Engineers.\nThis Crush Your Coding Interview Works
+ hop will focus on how to be successful during a Technical Interview.\nRSVP
+ :https://fblivecoding.splashthat.com/\nLink to View:https://www.facebook.c
+ om/UniversityRecruitingatFacebook/\nOur engineers will cover:\n- How to wa
+ lk through an algorithm problem.\n- How to brainstorm solutions\n- How to 
+ discuss the problem with your interviewer\n- And how to write (and test) c
+ ode on a whiteboard.\n\nhttps://calendar.gatech.edu/event/626075\nhttps://
+ fblivecoding.splashthat.com/\nhttps://calendar.gatech.edu/event/listings/6
+ 3\nhttps://www.facebook.com/UniversityRecruitingatFacebook/
+LOCATION:None
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cisco Day in the Lobby
+DTSTART;VALUE=DATE-TIME:20190919T100000
+DTEND;VALUE=DATE-TIME:20190919T150000
+UID:https://calendar.gatech.edu/event/626121
+DESCRIPTION:Free food\, freebies\n\nJoin engineers and recruiters from Cis
+ co to learn about Summer 2020 intern and full-time opportunities!\nRSVP\nC
+ lick HERE to register for this event.\nOpen Opportunities\nSoftware Engine
+ er - Bachelors (Intern & Full-Time)\nHardware Engineer - Masters (Intern &
+  Full-Time)\nSearch CareerBuzz & Handshake for Cisco job opportunities & i
+ nternship postings!\n\nhttps://calendar.gatech.edu/event/626121\nhttps://c
+ alendar.gatech.edu/event/listings/63\nhttps://jobs.cisco.com/jobs/EventDet
+ ailNL?projectId=1269373
+LOCATION:10am-3pm\, CCB Commons
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OneTrust Day in the Lobby
+DTSTART;VALUE=DATE-TIME:20190918T110000
+DTEND;VALUE=DATE-TIME:20190918T160000
+UID:https://calendar.gatech.edu/event/626118
+DESCRIPTION:Free food\, freebies\n\nJoin recruiters and engineers from One
+ Trust from 11am-4pm in CCB Commons to learn about their open opportunities
+ !\nRecruiting for the following positions:\nOffered as full-time and Summe
+ r 2020 internships\nJava DeveloperUI DeveloperUX DesignerDevOps EngineerCl
+ oudOps EngineerProduct OwnerTechnical Implementation ConsultantImplementat
+ ion ConsultantApplication Support Engineer\nCareers at OneTrust\nJoin our 
+ fast-growing team of privacy\, security and third-party risk experts and b
+ e a part of one of the biggest issues and trends shaping our world today.\
+ nThe privacy world is changing: no longer can companies collect endless ab
+ out of data on people and use it however they please. Consumers are more p
+ rivacy-conscious than ever\, and new laws and regulations around the world
+  are putting greater control on business' use of personal data and more ch
+ oice back into how data is used into the hands of the people. At the same 
+ time\, businesses are adopting privacy-centric cultures and processes to n
+ ot only meet increasing consumer and regulatory demand\, but also because 
+ it's the right things to do.\nOneTrust was founded to help businesses meet
+  the privacy demand. Our team of nearly 1\,000 employees across the world 
+ are building the technology that is solving tomorrow's privacy problems to
+ day. Our software is used by 3\,000 customers of all sizes across 100 coun
+ tries. We believe in what we do\, we work fast and we support each other o
+ n our mission to build the best technology to solve privacy\, security and
+  third-party risk challenges.\n\nhttps://calendar.gatech.edu/event/626118\
+ nhttps://www.onetrust.com/careers/\nhttps://calendar.gatech.edu/event/list
+ ings/63
+LOCATION:11am-4pm CCB commons
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:German Day
+DTSTART;VALUE=DATE-TIME:20191010T160000
+DTEND;VALUE=DATE-TIME:20191010T183000
+UID:https://calendar.gatech.edu/event/626035
+DESCRIPTION:Free food\n\nPlease join the School of Modern Languages for ou
+ r Annual German Day Celebration! Festivities will include a panel on"Germa
+ n Studies in a Globalized World\,” a poster session\, and a networking r
+ eception.\nOctober 10th - 4:00-6:30 p.m.Location: Stephen C. Hall Building
+ \, Room 102\nOpen to students\, faculty\, and staff. No RSVP required.\nIn
+  collaboration with: Atlanta Global Studies Center\, The Halle Foundation\
+ , Georgia Department of Education\, Spurlock & Associates\, Inc.\, and Geo
+ rgia Tech Serve-Learn-Sustain.\n\nhttps://calendar.gatech.edu/event/626035
+LOCATION:Stephen C. Hall Building\, Room 102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kenneth Hyatt Distinguished Alumni Leadership Speaker Series
+DTSTART;VALUE=DATE-TIME:20191003T110000
+DTEND;VALUE=DATE-TIME:20191003T130000
+UID:https://calendar.gatech.edu/event/626062
+DESCRIPTION:Free food\n\n\n\nhttps://calendar.gatech.edu/event/626062\nhtt
+ ps://calendar.gatech.edu/event/listings/66
+LOCATION:Mason Building\, room 1133
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capital One Technical Mock Interview Prep Workshop
+DTSTART;VALUE=DATE-TIME:20190917T183000
+DTEND;VALUE=DATE-TIME:20190917T200000
+UID:https://calendar.gatech.edu/event/626027
+DESCRIPTION:Free food\, freebies\n\nCapital One will be on campus to help 
+ students prep for Tech Case Interviews! Please join Capital One Associates
+  for a prep session where they will walk through an example of a case and 
+ the best way to approach a case interview!\n\nhttps://calendar.gatech.edu/
+ event/626027\nhttps://calendar.gatech.edu/event/listings/63
+LOCATION:6:30pm\, Klaus 1447.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cisco Diversity Night: Tech Talk and Q&A
+DTSTART;VALUE=DATE-TIME:20190919T183000
+DTEND;VALUE=DATE-TIME:20190919T200000
+UID:https://calendar.gatech.edu/event/626123
+DESCRIPTION:Free food\, freebies\n\nCome hear from Cisco engineers at 6:30
+ pm in Klaus 1443!\nRSVP\nClick HERE to register for this event.\nOpen Oppo
+ rtunities:\nSoftware Engineer - Bachelors (Intern & Full-Time)\nHardware E
+ ngineer - Masters (Intern & Full-TIme)\nSearch CareerBuzz and Handshake fo
+ r Cisco job opportunities and internships!\n\nhttps://calendar.gatech.edu/
+ event/626123\nhttps://jobs.cisco.com/jobs/EventDetailNL?projectId=1269391\
+ nhttps://calendar.gatech.edu/event/listings/63
+LOCATION:6:30pm\, Klaus 1443
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chick-fil-A Day in the Lobby
+DTSTART;VALUE=DATE-TIME:20190917T110000
+DTEND;VALUE=DATE-TIME:20190917T160000
+UID:https://calendar.gatech.edu/event/626025
+DESCRIPTION:Free food\, freebies\n\nDay in the Lobby\nJoin engineers and r
+ ecruiters from Chick-fil-A in the College of Computing Commons from 11am-4
+ pm to network and learn about their open roles!\n\nhttps://calendar.gatech
+ .edu/event/626025\nhttps://calendar.gatech.edu/event/listings/63
+LOCATION:11am-4pm CCB commons
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chocolate and Meditation
+DTSTART;VALUE=DATE-TIME:20190912T180000
+DTEND;VALUE=DATE-TIME:20190912T190000
+UID:https://calendar.gatech.edu/event/626003
+DESCRIPTION:Free food\n\nYou may have eaten chocolate before\, but have yo
+ u experienced chocolate?\nSKY offers an interactive session on meditation.
+  The idea of this session is that meditation not only centers you\, but it
+  heightens your senses. Join us for this amazing session where we will gui
+ de you into a short\, relaxing meditation followed by delicious chocolate 
+ tasting giving you a tantalizing and refreshing experience.\nWhat can you 
+ expect in the session?\n1) Relaxation through the breath\n2) Insights into
+  the nature of mind and power of senses\n3) Guided meditation using chocol
+ ate\n4) Question & answer session\n\nhttps://calendar.gatech.edu/event/626
+ 003\nhttps://calendar.gatech.edu/event/listings/69\nhttps://gatech.campusl
+ abs.com/engage/organization/sky
+LOCATION:Pine Room\, Student Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chick-fil-A Presentation & Intern Panel: Work Full of Life
+DTSTART;VALUE=DATE-TIME:20190917T183000
+DTEND;VALUE=DATE-TIME:20190917T200000
+UID:https://calendar.gatech.edu/event/626026
+DESCRIPTION:Free food\, freebies\n\nJoin representatives from Chick-fil-A 
+ as they discuss Chick-fil-A values and culture! Current and former IT inte
+ rns will be present to share about their projects\, too!\n\nhttps://calend
+ ar.gatech.edu/event/626026\nhttps://calendar.gatech.edu/event/listings/63
+LOCATION:6:30pm\, CCB 16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OneTrust Tech Talk: Privacy and Technology Trade War
+DTSTART;VALUE=DATE-TIME:20190918T183000
+DTEND;VALUE=DATE-TIME:20190918T200000
+UID:https://calendar.gatech.edu/event/626119
+DESCRIPTION:Free food\, freebies\n\nJoin a Technical Consultant from OneTr
+ ust as they present on the "Privacy and Technology Trade War and how that 
+ has been impacting the world in terms of privacy and security breaches\, n
+ ew regulations being passed\, along with how our solution is applied.\nThe
+ y will also discuss the work environment at OneTrust and the different job
+  opportunities we have available where we will also be raffling off a bran
+ ded backpack filled with swag!\nRecruiting for the following positions:\nO
+ ffered as full-time and Summer 2020 internships\nJava DeveloperUI Develope
+ rUX DesignerDevOps EngineerCloudOps EngineerProduct OwnerTechnical Impleme
+ ntation ConsultantImplementation ConsultantApplication Support Engineer\n\
+ nhttps://calendar.gatech.edu/event/626119\nhttps://calendar.gatech.edu/eve
+ nt/listings/63
+LOCATION:CCB 16\, 6:30pm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capital One Day in the Lobby
+DTSTART;VALUE=DATE-TIME:20190916T110000
+DTEND;VALUE=DATE-TIME:20190916T160000
+UID:https://calendar.gatech.edu/event/626022
+DESCRIPTION:Free food\, freebies\n\nDay in the Lobby\nJoin engineers and r
+ ecruiters from Mastercard in the College of Computing Commons from 11am-4p
+ m to network and learn about their open roles!\nTechnology Development Pro
+ gram\nWe recruit for three technical roles within ourTechnology Internship
+  Program:\nSoftware Engineer\nChart the digital frontier in one of our Mob
+ ile (Native)\, Web\, or API developmentsDevelop your skills in a variety o
+ f languages and frameworks including: Java/Spring\,JavaScript\, AngularJS\
+ , Python\, Serverless\, Kubernetes\, Go\, Kotlin and Swift in the cloud an
+ d on devices\nData Engineer\nBuild out our analytic capabilities using mod
+ ern data technologiesDeploy robust data products and services\, as well as
+  enable rich visualization\, data exploratory\, and machine learning capab
+ ilitiesUse open-source technologies (Serverless\, Kubernetes\, Hadoop/MapR
+ educe\, Spark\, Kafka\, Go\, Python\, NoSQL databases\, etc.) and deploy a
+ pplications in the cloud (AWS\, GCP\, Azure)\nCyber Security Engineer\nSup
+ port cyber security monitoring and response capabilities to thwart attacks
+  on Capital OneDevelop your skills in a variety of areas including securit
+ y operations\, penetration testing\, malware analysis and building and sup
+ porting emerging security solutions emerging security solutions to protect
+  and empower the Capital One workforce\nWe recruit for three technical rol
+ es within ourTechnology Development Program:\nSoftware Engineer\nChart the
+  digital frontier in one of our Mobile (Native)\, Web\, or API development
+ sDevelop your skills in a variety of languages and frameworks including: J
+ ava/Spring\,JavaScript\, AngularJS\, Python\, Serverless\, Kubernetes\, Go
+ \, Kotlin and Swift in the cloud and on devices\nData Engineer\nBuild out 
+ our analytic capabilities using modern data technologiesDeploy robust data
+  products and services\, as well as enable rich visualization\, data explo
+ ratory\, and machine learning capabilitiesUse open-source technologies (Se
+ rverless\, Kubernetes\, Hadoop/MapReduce\, Spark\, Kafka\, Go\, Python\, N
+ oSQL databases\, etc.) and deploy applications in the cloud (AWS\, GCP\, A
+ zure)\nCyber Security Engineer\nSupport cyber security monitoring and resp
+ onse capabilities to thwart attacks on Capital OneDevelop your skills in a
+  variety of areas including security operations\, penetration testing\, ma
+ lware analysis and building and supporting emerging security solutions eme
+ rging security solutions to protect and empower the Capital One workforce\
+ nAbout Capital One\nAt Capital One\, we consider ourselves the bank a tech
+ nology company would build. We’re delivering best-in-class innovation so
+  that our 65 million customers - and counting - can manage their finances 
+ with ease. Our reality and vision empower our engineers to use artificial 
+ intelligence and machine learning to transform real-time data\, software\,
+  and algorithms into financial clarity. That’s what sets us apart - and 
+ we want you to join our journey.\nWe’re all-in on the cloud and are a le
+ ader in the adoption of open source\, RESTful APIs\, microservices\, and c
+ ontainers. We build our own products and release them with a speed and agi
+ lity that allows us to get new customer experiences to market quickly.\n\n
+ https://calendar.gatech.edu/event/626022\nhttps://calendar.gatech.edu/even
+ t/listings/63
+LOCATION:11am-4pm CCB commons
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fall Yoga Retreat - The Journey Home
+DTSTART;VALUE=DATE-TIME:20191012T190000
+DTEND;VALUE=DATE-TIME:20191012T220000
+UID:https://calendar.gatech.edu/event/626052
+DESCRIPTION:Join us on an adventurous retreat! Rejuvenate with yoga. Becom
+ e attuned to nature. Cultivate the sanctuary of body\, mind and soul! Our 
+ fall break road trip starts from downtown Atlanta and ends at the scenic S
+ eminole State Park. This southwest Georgia park is on beautiful Lake Semin
+ ole\, a 37\,500 acre reservoir. We will camp near the water that offers br
+ eathtaking views. Quick access to the lake offers an excellent venue for d
+ aily yoga lessons.A nature trail leads past gopher tortoise burrows and on
+ e of the largest long leaf pine forests. Come join our family and celebrat
+ e the awesome opportunity to:\nCamp under the stars\, Perform Ashtanga\, P
+ ranayama and Sound Meditation with the rising and setting sun.Swim in the 
+ calming waters of Seminole Lake!Experience Ayurvedic healing/massages from
+  experienced instructors.Deepen our understanding of intentionally tuning 
+ our consciousness and the mind.Read spiritually deep books in circles of c
+ ompassion.Sing and dance in the wilderness around bonfires into the night!
+ Interact with yoga experts and youth counselors on living a balanced life 
+ in a chaotic world.Share the deepest stories and our personal realizations
+  about life's greatest gifts\, and have the most awesome camping trips wit
+ h the most awesome people!!!\nPlease book your spot as soon as possible as
+  we only have 30 spots! Each ticket is $150/person and includes vehicle re
+ ntals\, gas\, transportation\, campsite reservations\, classes\, meals\, s
+ nacks\, sports\, and entertainment for 3 days. You just need to bring eati
+ ng utensils and camp supplies! More information is available in the Relate
+ d Links.\n\nhttps://calendar.gatech.edu/event/626052\nhttps://www.facebook
+ .com/events/444343729507460/\nhttps://calendar.gatech.edu/event/listings/6
+ 5\nhttps://gatech.campuslabs.com/engage/organization/bhakti-yoga-gt
+LOCATION:Seminole State Park\, 7870 State Park Road\, Donalsonville\, GA 3
+ 9845
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPaT Thursday Think Tank: Detecting and Measuring the Impact of Fo
+ od Insecurity at Georgia Tech
+DTSTART;VALUE=DATE-TIME:20191024T153000
+DTEND;VALUE=DATE-TIME:20191024T170000
+UID:https://calendar.gatech.edu/event/625746
+DESCRIPTION:In 2016\, Georgia Tech collected preliminary data through an o
+ nline survey of 771 students. The report found that 10% of Georgia Tech’
+ s students responded being in need of food assistance and that 16% priorit
+ ized working at their job over academics and extracurricular activities. G
+ eorgia Tech’s actions to fill this gap include openingKlemisKitchen in 2
+ 015\, an on-campus food pantry that provides leftover food from the dining
+  halls and Panera Bread as well as canned donations from other sources. Ho
+ wever\, in Spring 2019\, only 100 students have self-identified and enroll
+ ed in the program\; a far cry from the 10% of students estimated in the 20
+ 16 survey.\nTo ensure both the highest levels of health and academic perfo
+ rmance of all GT students\, we need to understand the effects of food inse
+ curity/security on health and academic performance\, identify effective me
+ thods of recognizing students who are food insecure\, and develop interven
+ tions to that will increase food security among those students who are foo
+ d insecure. The purpose of this preliminary study is to address the first 
+ two issues. Our specific aims are 1) to understand the impact of food secu
+ rity/insecurity on academic performance and 2) identify passive tools that
+  can predict profiles of food insecure students that are specific to stude
+ nts within a semester period.\nModerators:\nJon Sanford\, Professor\, Scho
+ ol of Industrial Design\; Director\, Center for Assistive Technology and E
+ nvironmental Access (CATEA)\nThomas Ploetz\, Associate Professor\, School 
+ of Interactive Computing\nMehrab Bin Morshed\,Ph.D. Student\, Human-Center
+ ed Computing\, Georgia Tech\nMahalia Hart\, Graduate Student\, Georgia Tec
+ h\n\nhttps://calendar.gatech.edu/event/625746\nhttps://calendar.gatech.edu
+ /event/listings/65
+LOCATION:IPaT@Centergy\, 75 5th Street NW Suite 600\, Atlanta\, GA 30308
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maxim Engineering Career Paths Panel
+DTSTART;VALUE=DATE-TIME:20190917T180000
+UID:https://career.gatech.edu/employer-information-sessions
+DESCRIPTION:Only for majors: Electrical & Computer Engineering - MS & Ph.D
+ . Level\, Electrical Engineering - BS Level\n\n"Headquartered in the heart
+  of Silicon Valley with over two billion dollars in sales and more than 7\
+ ,000 employees\, Maxim Integrated is a worldwide leader in designing\, man
+ ufacturing\, and selling high-performance semiconductor products. We inven
+ t highly integrated solutions that make technology seamless. We channel ou
+ r collective expertise to stretch the limits of technology\, understand ou
+ r customers' needs\, and help our customers get to market faster. We also 
+ know that it's our people who make us a great company so we reward bold th
+ inking\, teamwork\, personal growth\, and community involvement.We will be
+  hosting an Engineering Career Paths Panel. The panel will consist of vari
+ ous members of our technical staff from different business units and funct
+ ions. They will be sharing stories related to their backgrounds\, careers\
+ , and challenges/successes they have had during their time at Maxim. They 
+ will also be providing insight regarding what they are looking for in a ca
+ ndidate and how to succeed during recruiting season. Dinner will be provid
+ ed. We are looking forward to meeting you and helping you find a place wit
+ hin our diverse team.\n\nhttps://career.gatech.edu/employer-information-se
+ ssions
+LOCATION:Student Success Center - President Suite A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deloitte Consulting - Market Trends
+DTSTART;VALUE=DATE-TIME:20190919T180000
+UID:https://career.gatech.edu/employer-information-sessions
+DESCRIPTION:Only for majors: All Majors\n\nDeloitte Consulting is hosting 
+ an informational session on Marketplace Tech Trends on Thursday\, 9/19. Jo
+ in us to learn about emerging marketplace trends and Deloitteâ€™s lea
+ ding position in a transforming environment. There will be a Q&A panel and
+  opportunity to network with practitioners after the session. Dinner will 
+ be provided. Please join us in the Student Center Room 321.\n\nhttps://car
+ eer.gatech.edu/employer-information-sessions
+LOCATION:Student Center - Room 319
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hulu Information Session
+DTSTART;VALUE=DATE-TIME:20190919T130000
+UID:https://career.gatech.edu/employer-information-sessions
+DESCRIPTION:Only for majors: All Majors\n\nA time to connect with Recruite
+ rs from Hulu to learn more about the company\, the product\, and the inter
+ nship program. Food and swag will be provided!\n\nhttps://career.gatech.ed
+ u/employer-information-sessions
+LOCATION:Bill Moore Student Success Center - President Suite  B & C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Executive Advisory Board Dinner - Oct 24\,2019
+DTSTART;VALUE=DATE-TIME:20191024T220000
+DTEND;VALUE=DATE-TIME:20191025T000000
+UID:https://www.bme.gatech.edu/bme/executive-advisory-board-dinner-oct-242
+ 019
+DESCRIPTION:Executive Advisory Board Dinner\nWallace H. Coulter Department
+ External Advisory BoardDinner\nThursday\, October 24th6-8pmThe Renaissance
+ Hotel Rooftop866 W. Peachtree Street NWAtlanta\, GA 30308\nThe Renaissance
+  Hotel is located near Tech Square and is a five minute walk from the GTEC
+ H Hotel/Conference Center. Valet parking is available for a small fee.\n\n
+ https://www.bme.gatech.edu/bme/executive-advisory-board-dinner-oct-242019
+LOCATION:The Renaissance Hotel Rooftop
+END:VEVENT
 END:VCALENDAR
