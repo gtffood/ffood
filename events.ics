@@ -5723,4 +5723,94 @@ DESCRIPTION:College of Design ADVANCE\nPlease join us for the next meeting
  ech.edu/
 LOCATION:EDI\, 2nd floor classroom (#235)\, 760 Spring Street NW
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vietnamese Student Association's 10th Annual Moon Festival
+DTSTART;VALUE=DATE-TIME:20191017T180000
+DTEND;VALUE=DATE-TIME:20191017T210000
+UID:https://calendar.gatech.edu/event/626695
+DESCRIPTION:Free food\, freebies\n\nThe Georgia Tech Vietnamese Student As
+ sociation would like to invite you to our 10th annual Moon Festival!\nAdmi
+ ssion\, food\, and drinks are FREE for GT students and faculty with their 
+ Buzzcard. We will be serving many traditional Asian cuisines and will have
+  plenty of entertainment\, games\, and prizes!\n\nhttps://calendar.gatech.
+ edu/event/626695\nhttps://www.facebook.com/events/2686768154675789/\nhttps
+ ://calendar.gatech.edu/event/listings/69
+LOCATION:Tech Green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Google Networking Session and LGBTQ+ "Ask Me Anything" Panel
+DTSTART;VALUE=DATE-TIME:20191001T000000
+DTEND;VALUE=DATE-TIME:20191002T000000
+UID:https://calendar.gatech.edu/event/626676
+DESCRIPTION:Hosted by Pride Alliance and CS for Social Good\nWant to know 
+ what its like to be LGBTQ+ at Google? Or how to prepare yourself to transi
+ tion from Georgia Tech to the working world? Join us September 26th for ou
+ r Google Networking Session and "Ask Me Anything" Panel!\nBring your quest
+ ions and hear stories from Googlers (LGBTQ+ and Allies) about their experi
+ ences post-grad. Food will be provided!\nRSVP here!\n\nhttps://calendar.ga
+ tech.edu/event/626676\nhttps://calendar.gatech.edu/event/listings/63\nhttp
+ s://gatech.campuslabs.com/engage/organization/cs-social-good-at-georgia-te
+ ch\nhttps://calendar.gatech.edu/event/listings/69\nhttps://docs.google.com
+ /forms/d/e/1FAIpQLSfA0R9O3HtxTeEwQEBM9TF6B1uVB7efNaPGlqHEPj6pBGMIYg/viewfo
+ rm
+LOCATION:Room 2456\, Klaus Advanced Computing Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Salesforce Intern & New Grad Panel and Trivia Night
+DTSTART;VALUE=DATE-TIME:20190926T180000
+DTEND;VALUE=DATE-TIME:20190926T200000
+UID:https://calendar.gatech.edu/event/626585
+DESCRIPTION:Free food\, freebies\n\nCome ask questions and hear how our Su
+ mmer 2019 Interns and Georgia Tech New Grads are continuing to blaze trail
+ s at Salesforce - followed by fun trivia with prizes! And\, of course\, th
+ ere will be free food and Salesforce merch!\nRSVP\nClick here to RSVP!\n\n
+ https://calendar.gatech.edu/event/626585\nhttps://salesforce.recsolu.com/e
+ xternal/events/BM7HLlWlphwcKn6genxG_g\nhttps://calendar.gatech.edu/event/l
+ istings/63
+LOCATION:Klaus 1116EW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Georgia Tech Minor Fair & Showcase
+DTSTART;VALUE=DATE-TIME:20191003T110000
+DTEND;VALUE=DATE-TIME:20191003T130000
+UID:https://calendar.gatech.edu/event/626636
+DESCRIPTION:Free food\n\nChat with current students\, faculty and staff in
+  each of the minors and check out academic projects completed by students 
+ in their respective minors. By attending\, you'll be able to make better-i
+ nformed decisions about what academic minor programs you would like to pur
+ sue.There will be free King of Pops and fun raffles as well as an appearan
+ ce from Buzz!Check in will be in front of the Ferst Center for the Arts an
+ d on the 2nd floor of the Student Center.See you there!\n60+ minors will b
+ e present at the fair:Aerospace EngineeringArchitectureBiologyBiomedical E
+ ngineeringChemistry & BiochemistryChineseComputing & BusinessComputing & D
+ evicesComputing & Informational InternetworksComputing & IntelligenceCompu
+ ting & MediaComputing & PeopleComputing & Systems and ArchitectureComputin
+ g & TheoryComputational Data AnalysisEarth & Atmospheric SciencesEast Asia
+ n StudiesEngineering & BusinessFilm and Media StudiesFrenchGermanGlobal De
+ velopmentHealth & Medical SciencesHealth\, Medicine\, and SocietyHistoryIn
+ dustrial DesignInternational AffairsInternational Business\, Language\, an
+ d CultureJapaneseKoreanLaw\, Science\, and TechnologyLeadership StudiesLin
+ guisticsMathMiddle Eastern & North African StudiesMusic TechnologyNaval Sc
+ ienceNuclear & Radiological EngineeringPhilosophyPhysiologyPolitical Scien
+ cePublic PolicyRoboticsRussianScience FictionScience\, Technology\, and So
+ cietyScientific Engineering and ComputingSocial JusticeSociologySpanishSpo
+ rts\, Society\, and TechnologySustainable CitiesTechnology & BusinessWomen
+ \, Science\, & Technology& more!\n\nhttps://calendar.gatech.edu/event/6266
+ 36\nhttps://calendar.gatech.edu/event/listings/65
+LOCATION:Ferst Center for the Arts and the Student Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring Preview Party
+DTSTART;VALUE=DATE-TIME:20191008T110000
+DTEND;VALUE=DATE-TIME:20191008T120000
+UID:https://calendar.gatech.edu/event/611304
+DESCRIPTION:Free food\, freebies\n\nAll majors and minors in the School of
+  History and Sociology are invited to join us for the annual SPRING PREVIE
+ W PARTY\, to be held on Tuesday\, October 8thfrom 11:00 AM - 12:00 PM in r
+ oom 104 of the Old CE Building. Come and get a sneak peek of all the HSOC 
+ classes being offered in the spring\, mingle with faculty and students\, h
+ ave some lunch\, and participate in an awesome book raffle!\n\nhttps://cal
+ endar.gatech.edu/event/611304
+LOCATION:Old Civil Engineering Building\, room 104 (The "Mel")
+END:VEVENT
 END:VCALENDAR
