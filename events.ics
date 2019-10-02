@@ -5916,10 +5916,10 @@ DESCRIPTION:Free food\n\nFly through the sky on the Leadership Challenge C
  ber 17th from 5pm to 8pm*.*must arrive by 7:30pm to participate in the rop
  es course.Click here to pre-register: https://b.gatech.edu/2ng1c7O\n\nhttp
  s://calendar.gatech.edu/event/626735\nhttps://calendar.gatech.edu/event/li
- stings/65\nhttps://l.facebook.com/l.php?u=https%3A%2F%2Fb.gatech.edu%2F2ng
- 1c7O%3Ffbclid%3DIwAR2qekHV7d1ftFEoecuifoNPu8IZg7ID21c8QgGvY87_zlZBPgJYEXgF
- m8U&h=AT1h1_Sn3zuoh-cOc0UJ69BdNTMmTeHgRDb39z72pUffPkoxMjt_pWNQ9JQn8JMPw_oL
- 7IybcIZ2L1cpJxaZf9SXFxY9_4MlFRqP9mpTH6qb2e1FYSuFFcHqIwq-O-z20Q
+ stings/65\nhttps://l.facebook.com/l.php?u=https:%2F%2Fb.gatech.edu%2F2ng1c
+ 7O%3Ffbclid%3DIwAR2qekHV7d1ftFEoecuifoNPu8IZg7ID21c8QgGvY87_zlZBPgJYEXgFm8
+ U&h=AT1h1_Sn3zuoh-cOc0UJ69BdNTMmTeHgRDb39z72pUffPkoxMjt_pWNQ9JQn8JMPw_oL7I
+ ybcIZ2L1cpJxaZf9SXFxY9_4MlFRqP9mpTH6qb2e1FYSuFFcHqIwq-O-z20Q
 LOCATION:Leadership Challenge Course
 END:VEVENT
 BEGIN:VEVENT
@@ -5967,5 +5967,420 @@ DESCRIPTION:Join us for a live streaming of the BARDA Industry Day confere
  ded.\nRegister to attend\n\nhttps://www.bme.gatech.edu/bme/barda-industry-
  day-conference-live-stream\nhttps://barda_industryday.eventbrite.com
 LOCATION:Room 1103\, Whitaker Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AIG Technology Full Time and Summer Internship Information Session
+DTSTART;VALUE=DATE-TIME:20191002T173000
+UID:https://careerdiscovery.gatech.edu/employer-information-sessions
+DESCRIPTION:Only for majors: College of Computing\, College of Engineering
+ \, Computer Science - All Levels\, Computational Engineering - BS Level\n\
+ nPlease join AIG technology managers and analysts to learn about our Techn
+ ology Summer Internship and Full Time opportunities! Learn tips for applyi
+ ng\, preparing for interviews and how to make the most of your degree as a
+  member of the Technology program at AIG. The event will take place in Pre
+ sident's Suite D in the Bill Moore Student Success Center. Refreshments wi
+ ll be served.\n\nhttps://careerdiscovery.gatech.edu/employer-information-s
+ essions
+LOCATION:Bill Moore Student Success Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VMware Day in the Lobby
+DTSTART;VALUE=DATE-TIME:20190930T110000
+DTEND;VALUE=DATE-TIME:20190930T160000
+UID:https://calendar.gatech.edu/event/626848
+DESCRIPTION:Free food\, freebies\n\nJoin engineers and recruiters from VMw
+ are to learn about their open opportunities for Bachelor's\, Master's and 
+ PhD students!\nVMware Product Intern and New Graduate Opportunities:\nVMwa
+ re recognizes that today’s students are tomorrow’s trailblazers and we
+  value the opportunity to benefit from your fresh perspective. If you thri
+ ve in an open\, innovative\, technology-driven culture\, VMware could be t
+ he place for you! You will be exposed to a wide range of software platform
+  technologies that are utilized by customers all over the world.\nAbout VM
+ ware\nVMware is a global leader in cloud infrastructure and business mobil
+ ity. VMware accelerates customers’ digital transformation journey by ena
+ bling enterprises to master a software-defined approach to business and IT
+ . With VMware solutions\, organizations are building extraordinary experie
+ nces by mobilizing everything\, responding faster to opportunities with mo
+ dern data and apps hosted across hybrid clouds\, and safeguarding customer
+  trust with a defense-in-depth approach to cybersecurity. At the core of w
+ hat we do are our people who deeply value execution\, passion\, integrity\
+ , customers\, and community. Do you dare to do the stuff you’ve always d
+ reamed about? Dare to explore at http://careers.vmware.com.\nVMware offers
+  cutting-edge cloud infrastructure and security services to companies of a
+ ll shapes and sizes. Our world is all about technology\, and that world is
+  growing because the imagination\, ingenuity and talent of our teams knows
+  no bounds. We believe that creativity sparks innovation and inspires our 
+ employees to think of VMware differently and change the world around them.
+ \nAre you interested in working on one of the below teams?\nStorage Applic
+ ations\, Networking Security\, Cloud Platform\, Cloud Native\, Cloud Manag
+ ement Business Unit\, Cloud Foundation\, Office of the CTO\nJob Role and R
+ esponsibilities:\nAs an Intern or New Graduate at VMware\, you’ll create
+  innovative solutions and solve complex problems. You’ll take ownership 
+ of meaningful\, big-picture projects and springboard into an impactful car
+ eer. At VMware\, you will become immersed in all aspects of our innovative
+  and collaborative culture\, and ensure you get the full VMware experience
+ . You’ll interact with industry thought leaders at one of our world clas
+ s campuses and enjoy networking\, community service\, and career developme
+ nt events.\nRequired Skills:\n• Pursuing Bachelor’s\, Master’s or Ph
+ D in Computer Science or equivalent\n• Coursework (in some) of the follo
+ wing: Algorithms\, Data Structures\, Storage and\\or Operating Systems\, C
+ omputer Architecture\, Machine Learning\, Compilers\, Networking\, Distrib
+ uted Systems\, Analytics\, Web Development\n• Knowledge in one or more o
+ f the programming languages: C\, C++\, Java\, or Go programming\n• Knowl
+ edge in Python\, Perl\, shell\, or other scripting languages\n• Knowledg
+ e in Flex\, HCI\, wireframes\, mockups\n• Knowledge in CSS\, HTML\, XML\
+ , Flash\, JavaScript\n• School and/or industry projects involving signif
+ icant design and development\nPreferred Skills:\n• Experience developing
+  client-server or distributed\, multithreaded applications\n• Experience
+  developing user space and kernel modules\n• Exposure to SaaS or FaaS\, 
+ modeling/optimization techniques\n• Previous internship experience is a 
+ plus\n• Ability to work independently\n• Strong teamwork and communica
+ tion skills\n• Knowledge of availability/fault domains\n• Knowledge of
+  ML/heuristics analysis\n• Exposure to container technologies - containe
+ r orchestrators (Kubernetes\, Mesos\, Docker Swarm Mode) is a plus\n• Ex
+ perience with Cloud based services\, Microservices a Cloud Computing class
+  or similar experience\n• Knowledge of NoSQL technologies (e.g. Cassandr
+ a\, MongoDB\, Redis\, etc.) and/or search-based datastores and libraries (
+ Lucene\, Solr\, etc.\n• Willingness to contribute to open source project
+ s is a plus\n\nhttps://calendar.gatech.edu/event/626848\nhttp://careers.vm
+ ware.com\nhttps://calendar.gatech.edu/event/listings/63
+LOCATION:11am-4pm\, CCB Commons
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Betty Blocks No Code Atlanta
+DTSTART;VALUE=DATE-TIME:20191003T160000
+DTEND;VALUE=DATE-TIME:20191003T210000
+UID:https://calendar.gatech.edu/event/626873
+DESCRIPTION:Introducing No-Code: the Development Game Changer\nBetty Block
+ s No-Code Event\nMore information\nProgram4pm - Welcome with coffee & tea4
+ .30pm - Ultimate introduction to no-code5:00pm - Atlanta United FC custome
+ r case6:00pm - Catered dinner7:00pm - Platform demonstration8.00pm - Norto
+ n Rose Fulbright customer case9.00pm - Networking & drinks\n\nhttps://cale
+ ndar.gatech.edu/event/626873\nhttp://www.bettyblocks.com/no-code-event-usa
+ \nhttps://www.bettyblocks.com/no-code-event-usa\nhttps://calendar.gatech.e
+ du/event/listings/65
+LOCATION:Georgia Tech Student Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Avenue Review and Erato Write-a-Thon
+DTSTART;VALUE=DATE-TIME:20191024T180000
+DTEND;VALUE=DATE-TIME:20191024T210000
+UID:https://calendar.gatech.edu/event/626920
+DESCRIPTION:The North Avenue Review and Erato present the "Write-a-Thon\,"
+  an evening of brainstorming\, writing\, and networking with Tech's Creati
+ ve Writing community\, with snacks provided. The Write-a-Thon will be host
+ ed at Under the Couch from 6 - 9PM on November 13th\, and pieces created a
+ t the event could be published in the Erato\, Tech's arts magazine\, or th
+ e North Avenue Review\, Tech's free speech magazine. For more information\
+ , the event's hosts may be contacted via email at editor@northavereview.co
+ m.\n\nhttps://calendar.gatech.edu/event/626920\nhttps://calendar.gatech.ed
+ u/event/listings/69\nmailto:editor@northavereview.com\nhttps://calendar.ga
+ tech.edu/event/listings/62\nhttps://www.facebook.com/events/25532784113852
+ 27/
+LOCATION:Under the Couch\, Second Floor\, Student Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uber Tech Talk
+DTSTART;VALUE=DATE-TIME:20191001T183000
+DTEND;VALUE=DATE-TIME:20191001T200000
+UID:https://calendar.gatech.edu/event/626855
+DESCRIPTION:Free food\, freebies\n\nJoin engineers and recruiters from Ube
+ r to learn about the unique projects Uber is working on!\nOpen Opportuniti
+ es\nSoftware Engineer InternshipSoftware Engineer University GradData Scie
+ nce InternshipData Science University Grad\nApply Now!\nClick here to appl
+ y for their open opportunities.\n\nhttps://calendar.gatech.edu/event/62685
+ 5\nhttps://www.uber.com/us/en/careers/teams/university/\nhttps://calendar.
+ gatech.edu/event/listings/63
+LOCATION:6:30pm CCB16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lockheed Martin Day
+DTSTART;VALUE=DATE-TIME:20191002T100000
+DTEND;VALUE=DATE-TIME:20191002T160000
+UID:https://calendar.gatech.edu/event/626961
+DESCRIPTION:Free food\, freebies\n\nBring your resume - we're hiring! Meet
+  with Lockheed Martin engineers\, business & operations professionals and 
+ executives.\nExperience interactive displays and Virtual Reality!\nRSVP:ht
+ tps://www.lockheedmartinjobs.com/georgia-tech\n\nhttps://calendar.gatech.e
+ du/event/626961\nhttps://www.lockheedmartinjobs.com/georgia-tech\nhttps://
+ calendar.gatech.edu/event/listings/63
+LOCATION:Klaus Atrium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GVU Center Brown Bag: Lining Yao "Materialized AI: Robotic Morphin
+ g Matter"
+DTSTART;VALUE=DATE-TIME:20191003T113000
+DTEND;VALUE=DATE-TIME:20191003T130000
+UID:https://calendar.gatech.edu/event/626769
+DESCRIPTION:Free food\n\nAbstract:\nMorphing matter harnesses the programm
+ ability in material structures and compositions to achieve transformative 
+ behaviors and integrates sensing\, actuation\, and computation to create a
+ daptive and responsive material systems. These material systems can be lev
+ eraged to design soft robots\, self-assembling furniture\, adaptive fabric
+ s\, and self-folding foods. In this talk\, Lining presents the recent work
+ s in the Morphing Matter Lab\, Human-Computer Interaction Institute at Car
+ negie Mellon University and highlights several robotic morphing materials 
+ that weave advanced manufacturing with computational tools. Her team belie
+ ves that the term “robotics” does not only refer to conventional robot
+ ic forms and controls but also connects to the artifacts’ ability to mak
+ e decisions\, adapt\, move\, and respond to different stimuli. More inform
+ ation from the lab site: https://morphingmatter.cs.cmu.edu/.\nSpeaker Bio:
+ \nLining Yao is an Assistant Professor of Human-Computer Interaction Insti
+ tute (HCII) at Carnegie Mellon University\, School of Computer Science\, d
+ irecting the Morphing Matter Lab. Morphing Matter lab develops materials\,
+  tools\, and applications of adaptive\, dynamic and intelligent morphing m
+ atter from nano to macro scales. Research often combines material science\
+ , computational fabrication and creative design practices. Lining and her 
+ lab work anti-disciplinarily\, publishing and exhibiting across science\, 
+ engineering\, design and art. Lining gained her PhD at MIT Media Lab\, whe
+ re she combined biological and engineering approaches to develop physical 
+ materials with dynamic and tunable properties including shape\, color\, st
+ iffness\, texture and density. Beyond her teaching and research in the Sch
+ ool of Computer Science\, Lining holds courtesy appointments at Mechanical
+  Engineering\, as well as Material Sciences and Engineering. She is superv
+ ising undergraduate and graduate students across the College of Engineerin
+ g and College of Art.\nSchedule of Brown Bag Speakers Fall 2019\n\nhttps:/
+ /calendar.gatech.edu/event/626769\nhttps://calendar.gatech.edu/event/listi
+ ngs/66\nhttps://www.gvu.gatech.edu/events/upcoming
+LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
+ a\, Ga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VMware Networking Night
+DTSTART;VALUE=DATE-TIME:20190930T180000
+DTEND;VALUE=DATE-TIME:20190930T200000
+UID:https://calendar.gatech.edu/event/626851
+DESCRIPTION:Free food\, freebies\n\nJoin VMware for a night of networking 
+ to learn about their open opportunities for undergraduate and graduate stu
+ dents!\nTime: 6pm-8pm\nLocation: Klaus Atrium\nPlease bring your BuzzCard 
+ and ID (driver's license\, passport\, etc.).\nVMware Product Intern and Ne
+ w Graduate Opportunities:\nVMware recognizes that today’s students are t
+ omorrow’s trailblazers and we value the opportunity to benefit from your
+  fresh perspective. If you thrive in an open\, innovative\, technology-dri
+ ven culture\, VMware could be the place for you! You will be exposed to a 
+ wide range of software platform technologies that are utilized by customer
+ s all over the world.\nAbout VMware\nVMware is a global leader in cloud in
+ frastructure and business mobility. VMware accelerates customers’ digita
+ l transformation journey by enabling enterprises to master a software-defi
+ ned approach to business and IT. With VMware solutions\, organizations are
+  building extraordinary experiences by mobilizing everything\, responding 
+ faster to opportunities with modern data and apps hosted across hybrid clo
+ uds\, and safeguarding customer trust with a defense-in-depth approach to 
+ cybersecurity. At the core of what we do are our people who deeply value e
+ xecution\, passion\, integrity\, customers\, and community. Do you dare to
+  do the stuff you’ve always dreamed about? Dare to explore athttp://care
+ ers.vmware.com.\nVMware offers cutting-edge cloud infrastructure and secur
+ ity services to companies of all shapes and sizes. Our world is all about 
+ technology\, and that world is growing because the imagination\, ingenuity
+  and talent of our teams knows no bounds. We believe that creativity spark
+ s innovation and inspires our employees to think of VMware differently and
+  change the world around them.\nAre you interested in working on one of th
+ e below teams?\nStorage Applications\, Networking Security\, Cloud Platfor
+ m\, Cloud Native\, Cloud Management Business Unit\, Cloud Foundation\, Off
+ ice of the CTO\nJob Role and Responsibilities:\nAs an Intern or New Gradua
+ te at VMware\, you’ll create innovative solutions and solve complex prob
+ lems. You’ll take ownership of meaningful\, big-picture projects and spr
+ ingboard into an impactful career. At VMware\, you will become immersed in
+  all aspects of our innovative and collaborative culture\, and ensure you 
+ get the full VMware experience. You’ll interact with industry thought le
+ aders at one of our world class campuses and enjoy networking\, community 
+ service\, and career development events.\nRequired Skills:\n• Pursuing B
+ achelor’s\, Master’s or PhD in Computer Science or equivalent\n• Cou
+ rsework (in some) of the following: Algorithms\, Data Structures\, Storage
+  and\\or Operating Systems\, Computer Architecture\, Machine Learning\, Co
+ mpilers\, Networking\, Distributed Systems\, Analytics\, Web Development\n
+ • Knowledge in one or more of the programming languages: C\, C++\, Java\
+ , or Go programming\n• Knowledge in Python\, Perl\, shell\, or other scr
+ ipting languages\n• Knowledge in Flex\, HCI\, wireframes\, mockups\n• 
+ Knowledge in CSS\, HTML\, XML\, Flash\, JavaScript\n• School and/or indu
+ stry projects involving significant design and development\nPreferred Skil
+ ls:\n• Experience developing client-server or distributed\, multithreade
+ d applications\n• Experience developing user space and kernel modules\n
+ • Exposure to SaaS or FaaS\, modeling/optimization techniques\n• Previ
+ ous internship experience is a plus\n• Ability to work independently\n
+ • Strong teamwork and communication skills\n• Knowledge of availabilit
+ y/fault domains\n• Knowledge of ML/heuristics analysis\n• Exposure to 
+ container technologies - container orchestrators (Kubernetes\, Mesos\, Doc
+ ker Swarm Mode) is a plus\n• Experience with Cloud based services\, Micr
+ oservices a Cloud Computing class or similar experience\n• Knowledge of 
+ NoSQL technologies (e.g. Cassandra\, MongoDB\, Redis\, etc.) and/or search
+ -based datastores and libraries (Lucene\, Solr\, etc.\n• Willingness to 
+ contribute to open source projects is a plus\n\nhttps://calendar.gatech.ed
+ u/event/626851\nhttp://careers.vmware.com/\nhttps://calendar.gatech.edu/ev
+ ent/listings/63
+LOCATION:6pm-8pm Klaus Atrium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Verizon Connect Day in the Lobby
+DTSTART;VALUE=DATE-TIME:20191003T110000
+DTEND;VALUE=DATE-TIME:20191003T160000
+UID:https://calendar.gatech.edu/event/626880
+DESCRIPTION:Free food\, freebies\n\nJoin engineers and recruiters from Ver
+ izon Connect to learn about their open internship and new graduate opportu
+ nities!\nOpen Opportunities\nSoftware Engineer InternshipSoftware Engineer
+  University GradData Science InternshipData Science University Grad\n\nhtt
+ ps://calendar.gatech.edu/event/626880\nhttps://calendar.gatech.edu/event/l
+ istings/63
+LOCATION:11am-4pm\, CCB Commons
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Implicit Bias Workshop
+DTSTART;VALUE=DATE-TIME:20191015T120000
+DTEND;VALUE=DATE-TIME:20191015T133000
+UID:https://calendar.gatech.edu/event/626884
+DESCRIPTION:Institute Diversity\, in collaboration with the Office of the 
+ Vice Provost for Graduate Education and Faculty Development and Georgia Te
+ ch’s ADVANCE Program\, is offering Implicit Bias Workshops for faculty t
+ his fall.All faculty who serve on reappointment\, promotion\, and/or tenur
+ e committees and faculty search committees are required to participate in 
+ an Implicit Bias Workshop pursuant to Provost Bras’ memo in October 2016
+  to academic leaders. However\, all instructional and research faculty are
+  welcomed to attend as space permits.\nThe goals of these workshops are to
+  increase awareness of the impact of implicit bias and facilitate equitabl
+ e decision-making across myriad processes related to faculty evaluations. 
+ As a participant in the workshop\, you will learn the following:\n• An i
+ ntroduction to the concept of implicit bias and how these unconscious\, au
+ tomatic mental processes may impact behaviors such as evaluating candidate
+ s during faculty search and/or RPT processes.\n• Empirical research on v
+ itaes\, letters of recommendations\, and teaching evaluations to illustrat
+ e the impact of implicit bias on decisions.\n• Effective practices and s
+ trategies for faculty search and RPT committees.\nThese workshops will be 
+ facilitated by Julie Ancis\, associate vice president\, Institute Diversit
+ y\; Paul Benkeser\, senior associate chair and professor\, Wallace H. Coul
+ ter Department of Biomedical Engineering\; Harris Dimitropoulos\, associat
+ e professor\, School of Architecture\; Robert Kirkman\, associate professo
+ r\, School of Public Policy\; Mark Mitchell\, associate director\, Georgia
+  Tech Research Institute\; and/or Michelle Rinehart\, associate dean for a
+ cademic affairs and outreach\, College of Design.\nTo register for one of 
+ the workshops\, visit www.advance.gatech.edu/implicit-bias-workshops. Lunc
+ h will be provided.\n\nhttps://calendar.gatech.edu/event/626884\nhttp://ww
+ w.advance.gatech.edu/implicit-bias-workshops\nhttps://calendar.gatech.edu/
+ event/listings/70
+LOCATION:Student Center\, Room 343
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vietnamese Student Association's 10th Annual Moon Festival
+DTSTART;VALUE=DATE-TIME:20191024T180000
+DTEND;VALUE=DATE-TIME:20191024T210000
+UID:https://calendar.gatech.edu/event/626695
+DESCRIPTION:Free food\, freebies\n\nThe Georgia Tech Vietnamese Student As
+ sociation would like to invite you to our 10th annual Moon Festival!\nAdmi
+ ssion\, food\, and drinks are FREE for GT students and faculty with their 
+ Buzzcard. We will be serving many traditional Asian cuisines and will have
+  plenty of entertainment\, games\, and prizes!\n\nhttps://calendar.gatech.
+ edu/event/626695\nhttps://www.facebook.com/events/2686768154675789/\nhttps
+ ://calendar.gatech.edu/event/listings/69
+LOCATION:Tech Green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCPC Presents: Ben Seidman
+DTSTART;VALUE=DATE-TIME:20191007T183000
+DTEND;VALUE=DATE-TIME:20191007T200000
+UID:https://calendar.gatech.edu/event/626971
+DESCRIPTION:Free food\n\n\n\nhttps://calendar.gatech.edu/event/626971\nhtt
+ ps://calendar.gatech.edu/event/listings/62
+LOCATION:None
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zillow Tech Talk
+DTSTART;VALUE=DATE-TIME:20190930T183000
+DTEND;VALUE=DATE-TIME:20190930T200000
+UID:https://calendar.gatech.edu/event/626859
+DESCRIPTION:Free food\, freebies\n\nPlease join Zillow’s Android Mobile 
+ Apps Engineer\, Sivakumar Chellamuthu\, for a discussion on the various in
+ novations within the Zillow Rental Manager.\nTime: 6:30pm\nLocation: Bill 
+ Moore Student Success Center President's Suite B\nRSVP:https://zillow.even
+ ts/GTTechTalk\n\nhttps://calendar.gatech.edu/event/626859\nhttps://calenda
+ r.gatech.edu/event/listings/63\nhttps://zillow.events/GTTechTalk
+LOCATION:Bill Moore Student Success Center President's Suite B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FirstGen Coffee and Donut Meet and Greet
+DTSTART;VALUE=DATE-TIME:20191008T150000
+DTEND;VALUE=DATE-TIME:20191008T160000
+UID:https://calendar.gatech.edu/event/626912
+DESCRIPTION:Free food\n\nWe will be having a social with free coffee and d
+ onuts\, as well as a discussion on what it means to be first-generation at
+  Georgia Tech! Come out and meet your fellow first-generation students!\n\
+ nhttps://calendar.gatech.edu/event/626912\nhttps://www.facebook.com/gtfirs
+ tgen/\nhttps://calendar.gatech.edu/event/listings/65\nhttps://calendar.gat
+ ech.edu/event/listings/69
+LOCATION:Ford ES&T L1116
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Implicit Bias Workshop
+DTSTART;VALUE=DATE-TIME:20191010T120000
+DTEND;VALUE=DATE-TIME:20191010T133000
+UID:https://calendar.gatech.edu/event/626883
+DESCRIPTION:Institute Diversity\, in collaboration with the Office of the 
+ Vice Provost for Graduate Education and Faculty Development and Georgia Te
+ ch’s ADVANCE Program\, is offering Implicit Bias Workshops for faculty t
+ his fall.All faculty who serve on reappointment\, promotion\, and/or tenur
+ e committees and faculty search committees are required to participate in 
+ an Implicit Bias Workshop pursuant to Provost Bras’ memo in October 2016
+  to academic leaders. However\, all instructional and research faculty are
+  welcomed to attend as space permits.\nThe goals of these workshops are to
+  increase awareness of the impact of implicit bias and facilitate equitabl
+ e decision-making across myriad processes related to faculty evaluations. 
+ As a participant in the workshop\, you will learn the following:\n• An i
+ ntroduction to the concept of implicit bias and how these unconscious\, au
+ tomatic mental processes may impact behaviors such as evaluating candidate
+ s during faculty search and/or RPT processes.\n• Empirical research on v
+ itaes\, letters of recommendations\, and teaching evaluations to illustrat
+ e the impact of implicit bias on decisions.\n• Effective practices and s
+ trategies for faculty search and RPT committees.\nThese workshops will be 
+ facilitated by Julie Ancis\, associate vice president\, Institute Diversit
+ y\; Paul Benkeser\, senior associate chair and professor\, Wallace H. Coul
+ ter Department of Biomedical Engineering\; Harris Dimitropoulos\, associat
+ e professor\, School of Architecture\; Robert Kirkman\, associate professo
+ r\, School of Public Policy\; Mark Mitchell\, associate director\, Georgia
+  Tech Research Institute\; and/or Michelle Rinehart\, associate dean for a
+ cademic affairs and outreach\, College of Design.\nTo register for one of 
+ the workshops\, visit www.advance.gatech.edu/implicit-bias-workshops. Lunc
+ h will be provided.\n\nhttps://calendar.gatech.edu/event/626883\nhttp://ww
+ w.advance.gatech.edu/implicit-bias-workshops\nhttps://calendar.gatech.edu/
+ event/listings/70
+LOCATION:Bill Moore Student Success Center: Press Rooms A and B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uber Day in the Lobby
+DTSTART;VALUE=DATE-TIME:20191001T110000
+DTEND;VALUE=DATE-TIME:20191001T160000
+UID:https://calendar.gatech.edu/event/626852
+DESCRIPTION:Free food\, freebies\n\nJoin engineers and recruiters from Ube
+ r to learn about their open internship and new graduate opportunities!\nOp
+ en Opportunities\nSoftware Engineer InternshipSoftware Engineer University
+  GradData Science InternshipData Science University Grad\nApply Now!\nClic
+ k here to apply for their open opportunities.\n\nhttps://calendar.gatech.e
+ du/event/626852\nhttps://www.uber.com/us/en/careers/teams/university/\nhtt
+ ps://calendar.gatech.edu/event/listings/63
+LOCATION:11am-4pm\, CCB Commons
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring Preview Party (NOTE DATE CHANGE)
+DTSTART;VALUE=DATE-TIME:20191009T130000
+DTEND;VALUE=DATE-TIME:20191009T140000
+UID:https://calendar.gatech.edu/event/611304
+DESCRIPTION:Free food\, freebies\n\nAll majors and minors in the School of
+  History and Sociology are invited to join us for the annual SPRING PREVIE
+ W PARTY\, to be held on Wednesday\, October 9thfrom 1:00 PM - 2:00 PM (NOT
+ E NEW DATE/TIME) in room 104 of the Old CE Building. Come and get a sneak 
+ peek of all the HSOC classes being offered in the spring\, mingle with fac
+ ulty and students\, have some lunch\, and participate in an awesome book r
+ affle!\n\nhttps://calendar.gatech.edu/event/611304
+LOCATION:Old Civil Engineering Building\, room 104 (The "Mel")
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Verizon Connect Tech Talk
+DTSTART;VALUE=DATE-TIME:20191003T183000
+DTEND;VALUE=DATE-TIME:20191003T200000
+UID:https://calendar.gatech.edu/event/626882
+DESCRIPTION:Free food\, freebies\n\nJoin engineers and recruiters from Ver
+ izon Connect to learn about their innovative technologies and open opportu
+ nities!\nTime: 6:30pm\nLocation: Klaus 1443\nOpen Opportunities\nSoftware 
+ Engineer InternshipSoftware Engineer University GradData Science Internshi
+ pData Science University Grad\n\nhttps://calendar.gatech.edu/event/626882\
+ nhttps://calendar.gatech.edu/event/listings/63
+LOCATION:6:30pm Klaus 1443
 END:VEVENT
 END:VCALENDAR
