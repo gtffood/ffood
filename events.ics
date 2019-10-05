@@ -4,69 +4,6 @@ PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
 SUMMARY:Global Media Fest 2019: Sustainability Across Languages and Cultur
  es
-DTSTART;VALUE=DATE:20190404
-DTEND;VALUE=DATE:20190405
-UID:http://hg.gatech.edu/node/618929#1
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\, freebies\nStatus: published\n\nAfter two success
- ful years bringing international media artists to discuss their work at Ge
- orgia Tech\, The Global Media Festival: Sustainability Across Languages an
- d Cultures takes a further step by showcasing the creation of community-ba
- sed media infrastructures that operate with alternative sources of energy.
-  Our signature event for this year is Solar Cinema in Puerto Rico: A Conve
- rsation with Dr. Arturo Massol\, professor at the University of Puerto Ric
- o\, Mayagüez\, and director of Casa Pueblo\, in Adjuntas Puerto Rico\, wh
- o will be speaking about the creation of a Solar power cinema after Hurric
- ane María. Come join Dr. Arturo Massol at the Clary Theater for a convers
- ation hosted by Dr. Juan Carlos Rodríguez\, from the School of Modern Lan
- guages\, on Thursday\, March 28\, 2019 and stay for a reception afterwards
- .\n\nThis event will be followed by two film screenings. On April 4\, 2019
- \, Dr. Stéphanie Boulard\, from the School of Modern Languages\, will hos
- t a screening of Agnes Varda’s award winner of L’O’eil d’or at Can
- nes and Oscar nominated documentary.\n\nFaces Places (2017)\, which tells 
- the story of two artists who develop a special friendship while traveling\
- , celebrating artisanal production\, workers’ solidarity\, and creating 
- a unique cross-generational portrait of life in rural France. On April 5\,
-  2019\, Dr. Amanda Weiss\, from the School of Modern Languages\, will host
-  a screening of Ashes to Honey (2010)\, a documentary that explores sustai
- nability and invites viewers to reconsider relying on nuclear power in Jap
- an.\n\nFood will be provided in all events. Come to join the conversation\
- , and learn more about the challenges and opportunities of sustainable dev
- elopment around the world. We will also provide information about the Scho
- ol of Modern Languages’s two Master Degree programs\, the MS in Applied 
- Languages and Intercultural Studies and the MS in Global Media and Culture
- s\, a joint degree offered in partnership with the School of Literature\, 
- Media\, and Communication. Next year\, students from both graduate program
- s will participate in the organization of the Global Media Festival.\n\nTh
- e Global Media Festival is sponsored by a SPAG grant from Georgia Tech. It
-  is organized by a faculty team from the School of Modern Languages and th
- e School of Literature\, Media\, and Communication within Georgia Tech’s
-  Ivan Allen College. Our allies include the Ray C. Anderson Center of Sust
- ainable Business and the center for Serve-Learn-Sustain\, both from Georgi
- a Institute of Technology.\n\nLinks:\n[0]  http://hg.gatech.edu/node/61892
- 9#1
-LOCATION:See poster for multiple locations
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sting Break 2019: A Galactic Odyssey
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190404T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190404T220000
-UID:http://hg.gatech.edu/node/618989#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\, freebies\nStatus: published\n\nFeed your cosmic 
- cravings with some out-of-this-world galactic grub\, including fried Oreos
- \, corn dogs\, French fries\, popcorn\, cotton candy\, and ICE CREAAMMM!\n
- \nStill worried this event won’t take you to infinity and beyond? Fear n
- ot! We’ll have caricature artists\, face painting\, carnival games\, and
-  more!\n\nThis event is FREE and EXCLUSIVE for Georgia Tech students.\n\nR
- egister and fill out the waiver here on University Tickets to decrease you
- r check-in time:\n\n[1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/618989#0
- \n[1]  https://gatech.universitytickets.com/w/event.aspx?id=1482
-LOCATION:Tech Green\, Campanile\, Student Center/Parking Lot
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Global Media Fest 2019: Sustainability Across Languages and Cultur
- es
 DTSTART;VALUE=DATE:20190405
 DTEND;VALUE=DATE:20190406
 UID:http://hg.gatech.edu/node/618929#2
