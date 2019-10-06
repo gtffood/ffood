@@ -36,57 +36,6 @@ LOCATION:Marcus Nanotechnology Building\, Room 1117/1118 (345 Ferst Drive
  NW)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EXPLORE Science and Math!
-DTSTART;VALUE=DATE-TIME:20190406T130000Z
-DTEND;VALUE=DATE-TIME:20190406T191500Z
-UID:http://hg.gatech.edu/node/614853#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: published\n\nWe will invite admitted pros
- pective students to attend our EXPLORE Science and Math! program. EXPLORE 
- Science and Math! is the Georgia Tech College of Sciences program for admi
- tted prospective students and their guests.\n\nThe program introduces pros
- pective students to the classes and research opportunities available to th
- em as College of Sciences scholars. Members of the College of Sciences fac
- ulty and administration will be on hand to answer questions and offer guid
- ance on academic advising. Prospective students will also attend a Science
-  and Math fair that will include several campus-wide organizations\, as we
- ll as students currently studying in their field of interest.\n\nSpace fil
- ls up quickly\; invitees should register as early as possible. Register he
- re [1].\n\nDue to the popularity of this event\, we can accommodate only a
- dmitted students and their guests. We encourage others with an interest in
-  Georgia Tech's science and mathematics degree programs to attend one of o
- ur " It's All About Science and Math [2] " open houses.\n\nSchedule\n\n9:0
- 0-9:30: Arrive on campus\n\n- Park in Lot W21 (to be eligible for parking 
- validation) and walk to the Clough Undergraduate Learning Commons room 144
- \; c lick here for directions [3]. Refreshments will be available.\n\n9:30
- : Welcome and Overview of Opportunities in the College of Sciences: Interi
- m Dean David Collard\, Assistant Dean Cameron Tyson\n\n10:15: Research Key
- note Talks by Professors (Mini-research symposium)\n\n​12:00: Lunch-Meet
-  with professors\, advisors and students from your preferred major (a free
-  box lunch and drinks are provided for students and guests)\n\n1:00: Scien
- ce and Math Fair\n\n- Visit with faculty academic advisors\, undergraduate
-  researchers\, the Office of Scholarships and Financial Aid\, the Office o
- f International Education\, the Pre-Health Advisor/Prehealth Panel\, the O
- ffice of Housing\, Arts at Georgia Tech representatives\, Greek Life scien
- ce and math majors\, Honors Program representatives\, Campus recreation re
- presentatives\, the Office of Career Development and Discovery (co-ops\, i
- nternships\, career planning)\, GT campus safety\, and lots of student org
- anizations.\n\n2:40: Student Panel\n\n- Gain new insights from students 
- – housing\, class selection\, getting a research position\, study abroad
- \, and much more. You ask the questions – What do you want to know?\n\n3
- :15: Closing/Departure/Visit Residence Hall Option\n\n- Option: GT Housing
-  representatives will offer a visit to a GT campus residence hall/dorm roo
- m from 3:15-4:00pm. Please meet outside of room Clough 152 in the atrium. 
- The tour will involve a 10-minute walk to west campus housing.\n\nQuestion
- s? Please contact Cameron Tyson [4].\n\nLinks:\n[0]  http://hg.gatech.edu/
- node/614853#0\n[1]  https://application.gatech.edu/portal/explore_cos\n[2]
-   http://scienceandmath.gatech.edu/\n[3]  http://explore.cos.gatech.edu/di
- rections\n[4]  mailto:cam.tyson@cos.gatech.edu\n[5]  http://clough.gatech.
- edu/
-LOCATION:Clough Undergraduate Learning Commons\, 266 Fourth Street NW\, At
- lanta\, GA 30332
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:National Robotics Week Open House and Tours
 DTSTART;VALUE=DATE-TIME:20190408T130000Z
 DTEND;VALUE=DATE-TIME:20190408T190000Z
