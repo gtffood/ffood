@@ -2,40 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Science and Engineering in International Security (InterSECT)
-DTSTART;VALUE=DATE-TIME:20190406T124500Z
-DTEND;VALUE=DATE-TIME:20190406T204000Z
-UID:http://hg.gatech.edu/node/619775#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nJoin TechPro Interdisciplinary Experience Club for i
- ts first InterSECT workshop\, an event that focuses on national security i
- ssues within the context of science\, engineering\, policy\, and security.
-  They will be featuring two keynotes to broadly discuss these topics\, and
-  they will also explore three technology tracks in further detail: emergin
- g technology\, bioterrorism\, and alternative energy. Each track will feat
- ure an expert speaker who will talk about their career and opportunities i
- n the field\, and interaction will be encouraged via a panel and networkin
- g session.\n\nFood will be provided.\n\nConfirmed Speakers:\nFirst Keynote
-  at 9:00 AM\nAndrea Thompson - Current US Under Secretary of State for Arm
- s Control and International Security Affairs\n\nSecond Keynote at 1:00 PM\
- nAdmiral Sandy Winnefeld - Former Vice Chairman of US Joint Chiefs of Staf
- f and Distinguished Professor at the Georgia Tech Sam Nunn School of Inter
- national Affairs\n\nPanel Speaker - Emerging Technology at 10:15 AM\nDr. A
- dam Stulberg- Professor at the Georgia Tech Sam Nunn School of Internation
- al Affairs\n\nPanel Speaker - Bioterrorism at 10:40 AM\nDr. Margaret Kosal
-  - Associate Professor and Professor at the Georgia Tech Sam Nunn School o
- f International Affairs\n\nPanel Speaker - Alternative Energy at 11:05 AM\
- nDr. Kim Cobb - Professor The Georgia Tech School of Earth and Atmospheric
-  Sciences\n\nThe event in the Marcus Nanotechnology Building [1] is free a
- nd open to all Georgia Tech students. Parking is available in Visitor Lot 
- 4 [2]. For more information on the event and to RSVP\, please visit TechPr
- o's website [3].\n\nLinks:\n[0]  http://hg.gatech.edu/node/619775#0\n[1]  
- https://map.concept3d.com/?id=82#!m/158776\n[2]  https://map.concept3d.com
- /?id=82#!m/386818\n[3]  http://techpro.gtorg.gatech.edu/events.html
-LOCATION:Marcus Nanotechnology Building\, Room 1117/1118 (345 Ferst Drive 
- NW)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:National Robotics Week Open House and Tours
 DTSTART;VALUE=DATE-TIME:20190408T130000Z
 DTEND;VALUE=DATE-TIME:20190408T190000Z
@@ -4732,18 +4698,6 @@ DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\,
 LOCATION:Clough 102
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:First Friday 2019
-DTSTART;VALUE=DATE-TIME:20190816T210000Z
-DTEND;VALUE=DATE-TIME:20190817T000000Z
-UID:http://hg.gatech.edu/node/622922#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Undergraduate students\nExt
- ras: Free food\nStatus: published\n\nFirst Friday is an annual social even
- t for all first-year students to engage in some fun activities before clas
- ses begin. Come out for an evening of free food and entertainment!\n\nLink
- s:\n[0]  http://hg.gatech.edu/node/622922#0
-LOCATION:Tech Green
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Engagement Week 2019] First Friday Block Party
 DTSTART;VALUE=DATE-TIME:20190816T210000Z
 DTEND;VALUE=DATE-TIME:20190817T000000Z
@@ -4755,6 +4709,18 @@ DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nFirst Frid
  pect food\, inflatable games\, and a DJ in a relaxed block party atmospher
  e.\n\nJoin us at Tech Green at 5pm on August 16\, 2019.\n\nLinks:\n[0]  ht
  tps://gatech.campuslabs.com/engage/event/4075815
+LOCATION:Tech Green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First Friday 2019
+DTSTART;VALUE=DATE-TIME:20190816T210000Z
+DTEND;VALUE=DATE-TIME:20190817T000000Z
+UID:http://hg.gatech.edu/node/622922#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Undergraduate students\nExt
+ ras: Free food\nStatus: published\n\nFirst Friday is an annual social even
+ t for all first-year students to engage in some fun activities before clas
+ ses begin. Come out for an evening of free food and entertainment!\n\nLink
+ s:\n[0]  http://hg.gatech.edu/node/622922#0
 LOCATION:Tech Green
 END:VEVENT
 BEGIN:VEVENT
@@ -5869,22 +5835,6 @@ DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nHi from He
 LOCATION:Lawn between Stamps and CRC 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vertically Integrated Projects (VIP) Fall 2019 Poster Session
-DTSTART;VALUE=DATE-TIME:20190820T200000Z
-DTEND;VALUE=DATE-TIME:20190820T210000Z
-UID:http://hg.gatech.edu/node/623461#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nDo you need research experience t
- his semester? Not sure how to get connected to faculty-led research projec
- ts?\n\nPlease join us as we host our VIP Poster Session! It's a great way 
- to learn more about our 70+ student teams\, ask questions about our progra
- m\, and meet faculty members from all over campus. Refreshments will be pr
- ovided.\n\nPlease forward all questions to cmurray62@gatech.edu [1] or vis
- it [2] for more information.\n\nLinks:\n[0]  http://hg.gatech.edu/node/623
- 461#0\n[1]  mailto:cmurray62@gatech.edu\n[2]  http://www.vip.gatech.edu/
-LOCATION:Atrium\, Klaus Advanced Computing Building
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Vertically Integrated Projects Poster Session August 2019
 DTSTART;VALUE=DATE-TIME:20190820T200000Z
 DTEND;VALUE=DATE-TIME:20190820T210000Z
@@ -5915,6 +5865,22 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThe Vertically Integrat
  w-undergraduate-students-apply\n[6]  http://www.vip.gatech.edu/request-reg
  istration-permit
 LOCATION:Klaus Atrium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vertically Integrated Projects (VIP) Fall 2019 Poster Session
+DTSTART;VALUE=DATE-TIME:20190820T200000Z
+DTEND;VALUE=DATE-TIME:20190820T210000Z
+UID:http://hg.gatech.edu/node/623461#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nDo you need research experience t
+ his semester? Not sure how to get connected to faculty-led research projec
+ ts?\n\nPlease join us as we host our VIP Poster Session! It's a great way 
+ to learn more about our 70+ student teams\, ask questions about our progra
+ m\, and meet faculty members from all over campus. Refreshments will be pr
+ ovided.\n\nPlease forward all questions to cmurray62@gatech.edu [1] or vis
+ it [2] for more information.\n\nLinks:\n[0]  http://hg.gatech.edu/node/623
+ 461#0\n[1]  mailto:cmurray62@gatech.edu\n[2]  http://www.vip.gatech.edu/
+LOCATION:Atrium\, Klaus Advanced Computing Building
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Reports from the Future Symposium
@@ -6903,17 +6869,6 @@ DESCRIPTION:Intended audience: Undergraduate students\nStatus: published\n
 LOCATION:Press Room A\, Bill Moore Student Success Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Graduate Women’s Welcome
-DTSTART;VALUE=DATE-TIME:20190827T150000Z
-DTEND;VALUE=DATE-TIME:20190827T170000Z
-UID:http://hg.gatech.edu/node/624603#0
-DESCRIPTION:Intended audience: Graduate students\nExtras: Free food\nStatu
- s: published\n\nDrop by the Women's Resource Center to learn about our pro
- grams and services\, meet other graduate women\, and enjoy free dessert!\n
- \nLinks:\n[0]  http://hg.gatech.edu/node/624603#0
-LOCATION:Women’s Resource Center\, Smithgall (Flag) Building\, Suite 131
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Engagement Week 2019] Engagement Week Fairs
 DTSTART;VALUE=DATE-TIME:20190827T150000Z
 DTEND;VALUE=DATE-TIME:20190827T170000Z
@@ -6929,6 +6884,17 @@ DESCRIPTION:Extras: Credit\, Free Food\, Free Stuff\nStatus: approved\n\nE
   Tuesday\, August 27th\nEvent Time: 11:00 AM to 1:00 PM\n\nLinks:\n[0]  ht
  tps://gatech.campuslabs.com/engage/event/4780340
 LOCATION:Tech Walkway
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graduate Women’s Welcome
+DTSTART;VALUE=DATE-TIME:20190827T150000Z
+DTEND;VALUE=DATE-TIME:20190827T170000Z
+UID:http://hg.gatech.edu/node/624603#0
+DESCRIPTION:Intended audience: Graduate students\nExtras: Free food\nStatu
+ s: published\n\nDrop by the Women's Resource Center to learn about our pro
+ grams and services\, meet other graduate women\, and enjoy free dessert!\n
+ \nLinks:\n[0]  http://hg.gatech.edu/node/624603#0
+LOCATION:Women’s Resource Center\, Smithgall (Flag) Building\, Suite 131
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NCR Day in the Lobby
@@ -7596,6 +7562,23 @@ DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nInstitu
 LOCATION:Bill Moore Student Success Center: President's Suites C and D
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:General Mixer
+DTSTART;VALUE=DATE-TIME:20190829T220000Z
+DTEND;VALUE=DATE-TIME:20190829T230000Z
+UID:https://gatech.campuslabs.com/engage/event/4810664
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nWelcome back! We at Ind
+ ia Club are super excited to start off another year of classes and India C
+ lub at Georgia Tech would love to see you at our annual General Mixer! Com
+ e out to catch up with friends\, enjoy some Indian food and activities\, a
+ nd ask us any questions about India Club’s plans for the upcoming year!\
+ n-------------------------\nEvent Details\n--------------------------\nDat
+ e: Monday\, August 26th\nTime: 6 - 8 PM\nLocation: Tech Green\nThis event 
+ will be open to all Georgia Tech students. We will have Indian food so com
+ e early before it runs out!\n\nLinks:\n[0]  https://gatech.campuslabs.com/
+ engage/event/4810664
+LOCATION:Tech Green
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GT Off-Road Information Session
 DTSTART;VALUE=DATE-TIME:20190829T220000Z
 DTEND;VALUE=DATE-TIME:20190829T230000Z
@@ -7620,23 +7603,6 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nGT Off-Road (Baja SAE)
  :\n[0]  https://gatech.campuslabs.com/engage/event/4824559\n[1]  https://f
  orms.gle/BwiD5tDPxpnY9sbY6
 LOCATION:Skiles 246 Classroom 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:General Mixer
-DTSTART;VALUE=DATE-TIME:20190829T220000Z
-DTEND;VALUE=DATE-TIME:20190829T230000Z
-UID:https://gatech.campuslabs.com/engage/event/4810664
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nWelcome back! We at Ind
- ia Club are super excited to start off another year of classes and India C
- lub at Georgia Tech would love to see you at our annual General Mixer! Com
- e out to catch up with friends\, enjoy some Indian food and activities\, a
- nd ask us any questions about India Club’s plans for the upcoming year!\
- n-------------------------\nEvent Details\n--------------------------\nDat
- e: Monday\, August 26th\nTime: 6 - 8 PM\nLocation: Tech Green\nThis event 
- will be open to all Georgia Tech students. We will have Indian food so com
- e early before it runs out!\n\nLinks:\n[0]  https://gatech.campuslabs.com/
- engage/event/4810664
-LOCATION:Tech Green
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Opening Meeting
@@ -10215,41 +10181,23 @@ SUMMARY:2nd Meeting of Fall 2019 - Undergraduate Research
 DTSTART;VALUE=DATE-TIME:20190917T150000Z
 DTEND;VALUE=DATE-TIME:20190917T160000Z
 UID:http://hg.gatech.edu/node/626239#0
-DESCRIPTION:Intended audience: Undergraduate students\nStatus: published\n
- \nHey everyone! The Student Affiliates of the American Chemical Society (S
- AACS) is the primary campus organization for students with a passion for c
- hemistry. SAACS focuses on building the professional skills of our members
- \, engaging in outreach events\, and creating a community for students tha
- t love chemistry. We welcome students from all majors\, as long as you lik
- e chemistry! At our second meeting\, we will have a presentation on gettin
- g involved in undergraduate research\, pick our first guest for the popula
- r "Dinner with a Professor" event\, and give prizes to the winners from la
- st week's Jeopardy game! Come by to meet friends\, eat pizza\, and learn a
- bout undergraduate research! Please RSVP so that we can ensure that we hav
- e enough pizza for everyone.\n\nLinks:\n[0]  http://hg.gatech.edu/node/626
- 239#0\n[1]  https://www.facebook.com/groups/2200944686/
-LOCATION:Whitaker 1214
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2nd Meeting of Fall 2019 - Undergraduate Research 
-DTSTART;VALUE=DATE-TIME:20190917T150000Z
-DTEND;VALUE=DATE-TIME:20190917T160000Z
-UID:https://gatech.campuslabs.com/engage/event/4934902
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nHey everyone! The Stude
- nt Affiliates of the American Chemical Society (SAACS) is the primary camp
- us organization for students with a passion for chemistry. SAACS focuses o
- n building the professional skills of our members\, engaging in outreach e
- vents\, and creating a community for students that love chemistry. We welc
- ome students from all majors\, as long as you like chemistry! At our secon
- d meeting\, we will have a presentation on getting involved in undergradua
- te research\, pick our first guest for the popular "Dinner with a Professo
- r" event\, and give prizes to the winners from last week's Jeopardy game! 
- Come by to meet friends\, eat pizza\, and learn about undergraduate resear
- ch! Please RSVP so that we can ensure that we have enough pizza for everyo
- ne. Feel free to reach out to me at v.amitej@gatech.edu or to Yifan Liang 
- at yliang92@gatech.edu if you have any questions!\n\nFacebook group: https
- ://www.facebook.com/groups/2200944686/\n\nWebsite: saacs.gtorg.gatech.edu\
- n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/4934902
+DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free Food\n
+ Status: published\n\nHey everyone! The Student Affiliates of the American 
+ Chemical Society (SAACS) is the primary campus organization for students w
+ ith a passion for chemistry. SAACS focuses on building the professional sk
+ ills of our members\, engaging in outreach events\, and creating a communi
+ ty for students that love chemistry. We welcome students from all majors\,
+  as long as you like chemistry! At our second meeting\, we will have a pre
+ sentation on getting involved in undergraduate research\, pick our first g
+ uest for the popular "Dinner with a Professor" event\, and give prizes to 
+ the winners from last week's Jeopardy game! Come by to meet friends\, eat 
+ pizza\, and learn about undergraduate research! Please RSVP so that we can
+  ensure that we have enough pizza for everyone. Feel free to reach out to 
+ me at v.amitej@gatech.edu or to Yifan Liang at yliang92@gatech.edu if you 
+ have any questions!\n\nFacebook group: https://www.facebook.com/groups/220
+ 0944686/\n\nWebsite: saacs.gtorg.gatech.edu\n\nLinks:\n[0]  http://hg.gate
+ ch.edu/node/626239#0\n[1]  https://gatech.campuslabs.com/engage/event/4934
+ 902\n[2]  https://www.facebook.com/groups/2200944686/
 LOCATION:Whitaker 1214
 END:VEVENT
 BEGIN:VEVENT
@@ -12468,28 +12416,28 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  Chair and Professor\, School of Modern Languages\; Founding co-Director\, 
  the Atlanta Global Studies Center\, Georgia Institute of Technology\n\nPar
  t 4 – Reception\n5:00 PM - 6:00 PM\n\nReception\nKendeda Building atrium
- \n\nThe Global Climate Action Symposium will bring together a wide range o
- f experts to showcase climate change engagement by local student activists
- \, scientists and engineers\, business and policy experts\, and artists. J
- ointly sponsored by Georgia Tech and six European consulates during Europe
- an Climate Diplomacy Week\, the event will be held in the brand new Kended
- a Building for Innovative Sustainable Design\, where guests can learn abou
- t how the building will produce more energy than it uses\, collect and rec
- ycle water for its operations\, and promote a just and equitable world. Re
- gistration is FREE.\n\n- Part 1 - Science\, Technology\, and Policies\n- P
- art 2 - Student Engagement\, "Fridays for Future"\n- Part 3 - Art\n- Part 
- 4 - Tour of the Kendeda Building\n\nRegister Here [5]\n\nRegistration is f
- ree. [6]\n\nThe Global Climate Action Symposium will bring together a wide
-  range of experts to showcase climate change engagement by local student a
- ctivists\, scientists and engineers\, business and policy experts\, and ar
- tists. Jointly sponsored by Georgia Tech and six European consulates durin
- g European Climate Diplomacy Week\, the event will be held in the brand ne
- w Kendeda Building for Innovative Sustainable Design\, where guests can le
- arn about how the building will produce more energy than it uses\, collect
-  and recycle water for its operations\, and promote a just and equitable w
- orld.\n\n- Part 1 - Science\, Technology\, and Policies\n- Part 2 – Stud
- ent Engagement\, "Fridays for Future"\n- Part 3 – Art\n- Part 4 – Tour
-  of the Kendeda Building\n\nView the full agenda [7]\n\nLinks:\n[0]  http:
+ \n\nRegistration is free. [6]\n\nThe Global Climate Action Symposium will 
+ bring together a wide range of experts to showcase climate change engageme
+ nt by local student activists\, scientists and engineers\, business and po
+ licy experts\, and artists. Jointly sponsored by Georgia Tech and six Euro
+ pean consulates during European Climate Diplomacy Week\, the event will be
+  held in the brand new Kendeda Building for Innovative Sustainable Design\
+ , where guests can learn about how the building will produce more energy t
+ han it uses\, collect and recycle water for its operations\, and promote a
+  just and equitable world.\n\n- Part 1 - Science\, Technology\, and Polici
+ es\n- Part 2 – Student Engagement\, "Fridays for Future"\n- Part 3 – A
+ rt\n- Part 4 – Tour of the Kendeda Building\n\nView the full agenda [7]\
+ n\nThe Global Climate Action Symposium will bring together a wide range of
+  experts to showcase climate change engagement by local student activists\
+ , scientists and engineers\, business and policy experts\, and artists. Jo
+ intly sponsored by Georgia Tech and six European consulates during Europea
+ n Climate Diplomacy Week\, the event will be held in the brand new Kendeda
+  Building for Innovative Sustainable Design\, where guests can learn about
+  how the building will produce more energy than it uses\, collect and recy
+ cle water for its operations\, and promote a just and equitable world. Reg
+ istration is FREE.\n\n- Part 1 - Science\, Technology\, and Policies\n- Pa
+ rt 2 - Student Engagement\, "Fridays for Future"\n- Part 3 - Art\n- Part 4
+  - Tour of the Kendeda Building\n\nRegister Here [5]\n\nLinks:\n[0]  http:
  //hg.gatech.edu/node/625664#0\n[1]  http://hg.gatech.edu/node/625071#0\n[2
  ]  https://gatech.campuslabs.com/engage/event/4928135\n[3]  https://ec.eur
  opa.eu/clima/events/climate-diplomacy-weeks_en\n[4]  https://livingbuildin
@@ -13759,21 +13707,8 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  offer information about their company. Hors-d'oeuvres and drinks will be p
  rovided. The keynote speaker is Shan Arora\, Director of the Kendeda Build
  ing.\n\nLinks:\n[0]  http://hg.gatech.edu/node/627036#0\n[1]  https://gate
- ch.campuslabs.com/engage/organization/energy-club-at-georgia-tech
-LOCATION:Bill Moore Student Success Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Energy Club | Business Fair
-DTSTART;VALUE=DATE-TIME:20191008T200000Z
-DTEND;VALUE=DATE-TIME:20191008T220000Z
-UID:https://gatech.campuslabs.com/engage/event/5000479
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome to the 4th Annual 
- Energy Club Business Fair. This FREE event is a reception where local comp
- anies and startups in the energy field will be answering your questions\, 
- showcasing their products and ideas\, and networking with students\, and o
- ffer information about their company. Hors-d'oeuvres and drinks will be pr
- ovided. The keynote speaker is Shan Arora\, Director of the Kendeda Buildi
- ng.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5000479
+ ch.campuslabs.com/engage/event/5000479\n[2]  https://gatech.campuslabs.com
+ /engage/organization/energy-club-at-georgia-tech
 LOCATION:Bill Moore Student Success Center
 END:VEVENT
 BEGIN:VEVENT
