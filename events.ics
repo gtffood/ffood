@@ -2,114 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:C.L. Chandler Weather Chat
-DTSTART;VALUE=DATE-TIME:20190412T151500Z
-DTEND;VALUE=DATE-TIME:20190412T160000Z
-UID:http://hg.gatech.edu/node/616574#12
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nStatus: published\n\nEAS will be hosting our wee
- kly C. L. Chandler Weather Chat series again this Spring 2019 semester. Th
- is event is dedicated to Chandler\, who was a meteorologist for Delta Airl
- ines during the mid- to late 20th century and helped to develop one of the
-  most successful meteorological organizations within the airline industry.
- \n\nEvery week from 11:15 a.m. - noon in L1116 of Ford ES&T\, we will have
-  informal discussions about the most exciting weather events impacting Atl
- anta\, the U.S. and beyond that day as well as investigating forecast data
-  to learn more about upcoming significant weather events. Topics range fro
- m discussing major winter storms to severe weather outbreaks\, tropical cy
- clones\, lake-effect storms\, and even small-scale events like dense fog a
- nd mountain weather events.\n\nAll are welcome to attend\, including non-E
- AS majors and the general public. Feel free to bring your lunch as well as
-  a friend or two!\n\nLinks:\n[0]  http://hg.gatech.edu/node/616574#12
-LOCATION:Room L1116\, Ford ES&T Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Community Engagement Workshop
-DTSTART;VALUE=DATE-TIME:20190412T153000Z
-DTEND;VALUE=DATE-TIME:20190412T193000Z
-UID:http://hg.gatech.edu/node/615601#0
-DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nThis wo
- rkshop is aimed at faculty who would like to begin (or extend their curren
- t) community-engaged teaching or project work. It will feature SLS partner
- s sharing community-engagement best practices\, and it will include a "pro
- ject highlight" from one of the current term's SLS sponsored community-eng
- aged capstone projects. It will offer an overview of SLS resources regardi
- ng community engagement (collaborative agreement templates\, and key resou
- rces from the Atlanta Community Engagement Playbook) as well as introduce 
- participants to Asset-Based Community Development. It will also cover cour
- se design strategies for developing high-impact community-engaged courses.
-  Lunch will be served.\n\nRSVP Required [1]\n\nLinks:\n[0]  http://hg.gate
- ch.edu/node/615601#0\n[1]  https://gatech.co1.qualtrics.com/jfe/form/SV_er
- erT1pQRje0rzv
-LOCATION:Clough Lounge (Clough 205 - adjacent to Starbucks)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cybersecurity Lecture Series with Terry Nelms
-DTSTART;VALUE=DATE-TIME:20190412T160000Z
-DTEND;VALUE=DATE-TIME:20190412T170000Z
-UID:http://hg.gatech.edu/node/620155#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nThe Cybersecurity Lecture Series at Georgia Tech [1] is a free\, one-hou
- r lecture from a thought leader who is advancing the field of information 
- security and privacy. Invited speakers include executives and researchers 
- from Fortune 500 companies\, federal intelligence agencies\, start-ups\, a
- nd incubators\, as well as Georgia Tech faculty and students presenting th
- eir research. Lectures are open to all -- students\, faculty\, industry\, 
- government\, or simply the curious.\n\nRSVP [2]\n\nAbstract:\nVerifying th
- e identity claim of a caller is challenging to both enterprises and indivi
- duals. Blindly trusting the caller is not an option\; however\, building t
- rust is difficult because the caller’s phone number is easily spoofed an
- d the answers to knowledge-based questions are often available on the Inte
- rnet through historical data breaches and social media. Furthermore\, mobi
- le apps that prevent incoming spam/scam calls can fail to protect the user
-  because the enterprise’s phone number spoofed by the caller cannot be b
- lacklisted. This talk will focus on the challenges of caller authenticatio
- n and how to use mobile devices to transfer the trust built in one channel
-  (mobile app) to another (phone call).\n\nBio:\nTerry Nelms [3] is Directo
- r of Research at Pindrop where he leads a team of applied researchers solv
- ing challenging problems in fraud detection and authentication. Prior to j
- oining Pindrop\, he spent over a decade inventing\, designing and developi
- ng protection technologies at ISS\, IBM\, and Damballa. His research has p
- roduced new security products\, patents\, and publications in the top indu
- stry and academic conferences. He holds a B.S. and M.S. in Information Sys
- tems and a Ph.D. in Computer Science from the Georgia Institute of Technol
- ogy.\n\nLinks:\n[0]  http://hg.gatech.edu/node/620155#0\n[1]  https://iisp
- .gatech.edu/cyber-lecture\n[2]  https://events.attend.com/f/1383787238\n[3
- ]  https://www.linkedin.com/in/terry-nelms-a778b85/\n[4]  http://attend.co
- m/cyberlecture-nelms
-LOCATION:Klaus Advanced Computing Building 266 Ferst Drive NW\, Atlanta\, 
- GA 30332\, Rm 1116E&W
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ImmunoEngineering Industry Seminar
-DTSTART;VALUE=DATE-TIME:20190412T170000Z
-DTEND;VALUE=DATE-TIME:20190412T180000Z
-UID:http://hg.gatech.edu/node/618962#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nImmunoEngineering
-  Industry Seminar\n\nOmar F. Khan\, Ph.D.\nFounder & Chief Scientist\nTiba
-  Biotech\n\n“Embracing Engineering to Build a Startup and Exit Academia:
-  A Perspective from Tiba Biotech”\n\nFriday\, April 12\, 2019\n1:00 p.m.
- \nKrone Engineered Biosystems Building (EBB)\nCHOA Seminar Room 1005\n*Lun
- ch following presentation*\n\nOmar F. Khan is Founder and Chief Scientist 
- of Tiba Biotech\, a company based on the nucleic acid delivery technologie
- s he invented during his postdoctoral research. Omar earned his B.A.Sc. an
- d Ph.D. in Chemical Engineering at the University of Toronto where his Ph.
- D. supervisor was Michael V. Sefton. As a Postdoctoral Associate and Resea
- rch Scientist at the Massachusetts Institute of Technology\, he worked wit
- h Robert Langer and Daniel Anderson. Omar is widely published on topics at
-  the interface of engineering and life science. His areas of expertise inc
- lude molecularly-defined nucleic acid delivery systems\, vaccination nanot
- echnology\, biomaterials\, tissue engineering\, reactor design\, scale-up 
- production and translational research models.\n\nLink to RSVP and/or sign 
- up for a meeting time:\n[1]\n\nSponsored by the NIH ImmunoEngineering Trai
- ning Grant\n\nQuestions? Please contact Midori Maeda or Julia Babensee\, P
- h.D.\n\nLinks:\n[0]  http://hg.gatech.edu/node/618962#0\n[1]  http://tinyu
- rl.com/april12immuno
-LOCATION:Krone EBB\, CHOA Rm 1005
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:HackGT Presents Catalyst
 DTSTART;VALUE=DATE:20190413
 DTEND;VALUE=DATE:20190414
@@ -151,7 +43,7 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
   to participate. Snacks and refreshments will be provided. Walk-ins will b
  e accommodated only if there is space\, so reserve your spot ahead of time
   to guarantee a ride!\n\nMore information [1]\n\nLinks:\n[0]  http://hg.ga
- tech.edu/node/619880#0\n[1]  http://www.rideoutinstyle.com/
+ tech.edu/node/619880#0\n[1]  https://www.rideoutinstyle.com/
 LOCATION:Clough Commons Turnaround
 END:VEVENT
 BEGIN:VEVENT
@@ -413,7 +305,7 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
   to participate. Snacks and refreshments will be provided. Walk-ins will b
  e accommodated only if there is space\, so reserve your spot ahead of time
   to guarantee a ride!\n\nMore information [1]\n\nLinks:\n[0]  http://hg.ga
- tech.edu/node/619880#1\n[1]  http://www.rideoutinstyle.com/
+ tech.edu/node/619880#1\n[1]  https://www.rideoutinstyle.com/
 LOCATION:Clough Commons Turnaround
 END:VEVENT
 BEGIN:VEVENT
@@ -14580,8 +14472,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DInner discussion with representative from VOICE: Sexual Violence 
  Prevention
-DTSTART;VALUE=DATE-TIME:20191021T220000Z
-DTEND;VALUE=DATE-TIME:20191021T230000Z
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191021T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191021T230000Z
 UID:http://hg.gatech.edu/node/625355#0
 DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  nExtras: Free food\nStatus: published\n\nA representative from VOICE: Sexu
