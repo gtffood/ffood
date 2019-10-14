@@ -2,36 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:HackGT Presents Catalyst
-DTSTART;VALUE=DATE:20190413
-DTEND;VALUE=DATE:20190414
-UID:http://hg.gatech.edu/node/618792#0
-DESCRIPTION:Intended audience: Graduate students\, Postdoc\, Public\, Unde
- rgraduate students\nStatus: published\n\nExecutive Summary\n\nHackGT prese
- nts Catalyst\, a free day of STEAM directed towards underserved high schoo
- l students in the Metro Atlanta area. We are eager to welcome 400+ student
- s on April 13th to Georgia Tech's Campus\, making it one of the largest hi
- gh school learn-a-thon events hosted in the country.\n\nThis will be an op
- portunity for participants to:\n\n• Learn about the world of STEAM and C
- omputer Science as a career path\n\n• Gain insight into impactful\, wide
- ly known tech companies\n\n• Receive mentorship from college students\, 
- industry professionals\, and executives who were once in their shoes.\n\n
- • Connect with summer camp opportunities at Georgia Tech and in the city
-  to further their education and exposure\n\nAt the end of the day\, we hop
- e to inspire the students to pursue computer science\, expand their opport
- unity horizon\, and leave them with a glimpse of their future potential.\n
- \nAbout HackGT\n\nHackGT is a student organization at Georgia Tech and a r
- egistered 501(c)4 nonprofit dedicated to promoting computer science educat
- ion. We work throughout the year to organize events for college and high s
- chool students ranging from small scale workshops to our fall marquee 1200
- + person collegiate hackathon.\n\nEvent Details\n\nDate: April 13th\n\nCos
- t: Free for attendees (includes breakfast\, lunch\, dinner\, snacks\, t-sh
- irts\, swag\, etc.)\n\nLocation: Klaus Advanced Computing Building\, Atlan
- ta\, GA\, 30332\n\nEvent Website [1]\n\nLinks:\n[0]  http://hg.gatech.edu/
- node/618792#0\n[1]  https://catalyst.hack.gt/#home
-LOCATION:Klaus Advanced Computing Building\, Atlanta\, GA\, 30332
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ride Out in Style
 DTSTART;VALUE=DATE-TIME:20190415T130000Z
 DTEND;VALUE=DATE-TIME:20190415T173000Z
@@ -43,7 +13,7 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
   to participate. Snacks and refreshments will be provided. Walk-ins will b
  e accommodated only if there is space\, so reserve your spot ahead of time
   to guarantee a ride!\n\nMore information [1]\n\nLinks:\n[0]  http://hg.ga
- tech.edu/node/619880#0\n[1]  https://www.rideoutinstyle.com/
+ tech.edu/node/619880#0\n[1]  http://www.rideoutinstyle.com/
 LOCATION:Clough Commons Turnaround
 END:VEVENT
 BEGIN:VEVENT
@@ -305,7 +275,7 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
   to participate. Snacks and refreshments will be provided. Walk-ins will b
  e accommodated only if there is space\, so reserve your spot ahead of time
   to guarantee a ride!\n\nMore information [1]\n\nLinks:\n[0]  http://hg.ga
- tech.edu/node/619880#1\n[1]  https://www.rideoutinstyle.com/
+ tech.edu/node/619880#1\n[1]  http://www.rideoutinstyle.com/
 LOCATION:Clough Commons Turnaround
 END:VEVENT
 BEGIN:VEVENT
@@ -1929,12 +1899,12 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  d Frost - Professor\, Civil & Environmental Engineering\nLalith Polepeddi 
  - Research Scientist\nTim Cone - Program Director\, CEISMC\nJayma Koval - 
  Research Faculty\, CEISMC\n\nLinks:\n[0]  http://hg.gatech.edu/node/621384
- #0\n[1]  https://www.sealevelsensors.org/\n[2]  https://gatech.edu\n[3]  h
- ttps://bit.ly/2V8Y7lm\n[4]  https://www.sealevelsensors.org/about/\n[5]  h
- ttp://smartcities.gatech.edu/georgia-smart\n[6]  https://www.eventbrite.co
- m/e/smart-sea-level-sensors-expo-tickets-60325267499?fbclid=IwAR2IlPorBbRe
- 7Hru0mtpLla3xH_kDTwG4c4bF3AuUW71TKU0-iARHLVgysY\n[7]  https://www.telfair.
- org/visit/jepson-center/
+ #0\n[1]  https://www.sealevelsensors.org/\n[2]  http://gatech.edu\n[3]  ht
+ tps://bit.ly/2V8Y7lm\n[4]  https://www.sealevelsensors.org/about/\n[5]  ht
+ tp://smartcities.gatech.edu/georgia-smart\n[6]  https://www.eventbrite.com
+ /e/smart-sea-level-sensors-expo-tickets-60325267499?fbclid=IwAR2IlPorBbRe7
+ Hru0mtpLla3xH_kDTwG4c4bF3AuUW71TKU0-iARHLVgysY\n[7]  https://www.telfair.o
+ rg/visit/jepson-center/
 LOCATION:Jepson Center for the Arts\, 207 West York Street\, Savannah\, GA
   31401
 END:VEVENT
@@ -11582,28 +11552,28 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  Chair and Professor\, School of Modern Languages\; Founding co-Director\, 
  the Atlanta Global Studies Center\, Georgia Institute of Technology\n\nPar
  t 4 – Reception\n5:00 PM - 6:00 PM\n\nReception\nKendeda Building atrium
- \n\nThe Global Climate Action Symposium will bring together a wide range o
- f experts to showcase climate change engagement by local student activists
- \, scientists and engineers\, business and policy experts\, and artists. J
- ointly sponsored by Georgia Tech and six European consulates during Europe
- an Climate Diplomacy Week\, the event will be held in the brand new Kended
- a Building for Innovative Sustainable Design\, where guests can learn abou
- t how the building will produce more energy than it uses\, collect and rec
- ycle water for its operations\, and promote a just and equitable world. Re
- gistration is FREE.\n\n- Part 1 - Science\, Technology\, and Policies\n- P
- art 2 - Student Engagement\, "Fridays for Future"\n- Part 3 - Art\n- Part 
- 4 - Tour of the Kendeda Building\n\nRegister Here [5]\n\nRegistration is f
- ree. [6]\n\nThe Global Climate Action Symposium will bring together a wide
-  range of experts to showcase climate change engagement by local student a
- ctivists\, scientists and engineers\, business and policy experts\, and ar
- tists. Jointly sponsored by Georgia Tech and six European consulates durin
- g European Climate Diplomacy Week\, the event will be held in the brand ne
- w Kendeda Building for Innovative Sustainable Design\, where guests can le
- arn about how the building will produce more energy than it uses\, collect
-  and recycle water for its operations\, and promote a just and equitable w
- orld.\n\n- Part 1 - Science\, Technology\, and Policies\n- Part 2 – Stud
- ent Engagement\, "Fridays for Future"\n- Part 3 – Art\n- Part 4 – Tour
-  of the Kendeda Building\n\nView the full agenda [7]\n\nLinks:\n[0]  http:
+ \n\nRegistration is free. [6]\n\nThe Global Climate Action Symposium will 
+ bring together a wide range of experts to showcase climate change engageme
+ nt by local student activists\, scientists and engineers\, business and po
+ licy experts\, and artists. Jointly sponsored by Georgia Tech and six Euro
+ pean consulates during European Climate Diplomacy Week\, the event will be
+  held in the brand new Kendeda Building for Innovative Sustainable Design\
+ , where guests can learn about how the building will produce more energy t
+ han it uses\, collect and recycle water for its operations\, and promote a
+  just and equitable world.\n\n- Part 1 - Science\, Technology\, and Polici
+ es\n- Part 2 – Student Engagement\, "Fridays for Future"\n- Part 3 – A
+ rt\n- Part 4 – Tour of the Kendeda Building\n\nView the full agenda [7]\
+ n\nThe Global Climate Action Symposium will bring together a wide range of
+  experts to showcase climate change engagement by local student activists\
+ , scientists and engineers\, business and policy experts\, and artists. Jo
+ intly sponsored by Georgia Tech and six European consulates during Europea
+ n Climate Diplomacy Week\, the event will be held in the brand new Kendeda
+  Building for Innovative Sustainable Design\, where guests can learn about
+  how the building will produce more energy than it uses\, collect and recy
+ cle water for its operations\, and promote a just and equitable world. Reg
+ istration is FREE.\n\n- Part 1 - Science\, Technology\, and Policies\n- Pa
+ rt 2 - Student Engagement\, "Fridays for Future"\n- Part 3 - Art\n- Part 4
+  - Tour of the Kendeda Building\n\nRegister Here [5]\n\nLinks:\n[0]  http:
  //hg.gatech.edu/node/625664#0\n[1]  http://hg.gatech.edu/node/625071#0\n[2
  ]  https://gatech.campuslabs.com/engage/event/4928135\n[3]  https://ec.eur
  opa.eu/clima/events/climate-diplomacy-weeks_en\n[4]  https://livingbuildin
@@ -12522,8 +12492,8 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  mate introduction to no-code\n- 5:00pm - Atlanta United FC customer case\n
  - 6:00pm - Catered dinner\n- 7:00pm - Platform demonstration\n- 8.00pm - N
  orton Rose Fulbright customer case\n- 9.00pm - Networking & drinks\n\nLink
- s:\n[0]  http://hg.gatech.edu/node/626873#0\n[1]  http://www.bettyblocks.c
- om/no-code-event-usa
+ s:\n[0]  http://hg.gatech.edu/node/626873#0\n[1]  https://www.bettyblocks.
+ com/no-code-event-usa
 LOCATION:Georgia Tech Student Center
 END:VEVENT
 BEGIN:VEVENT
@@ -14190,6 +14160,33 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Griffin Ballroom\, Georgia Tech Alumni House
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MPP Launch Party\, cosponsored by CDAC & WST
+DTSTART;VALUE=DATE-TIME:20191017T150000Z
+DTEND;VALUE=DATE-TIME:20191017T160000Z
+UID:http://hg.gatech.edu/node/627526#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\nStatus: published\n\nPlease join the Student Gove
+ rnment Association’s (SGA) Cultural and Diversity Affairs Committee (CDA
+ C) and the Center for the Study of Women\, Science\, and Technology (WST) 
+ on Thursday\, October 17 for the kick-off of the Menstrual Product Program
+  (MPP)! This launch party will be held in the Griffin Ballroom in the Stud
+ ent Alumni House (190 North Avenue NW Atlanta\, GA 30313) from 11am-12pm. 
+ The event will celebrate the start of the program\, which seeks to provide
+  free menstrual hygiene products for students.\n\nLast semester\, the prog
+ ram secured approximately $30\,000 from Gift to Tech after multiple rounds
+  of voting by the student body. The pilot phase of the program is set to b
+ egin this month. The program will acquire sustainable\, biodegradable mens
+ trual hygiene products from Aunt Flow. After working with campus departmen
+ ts to survey the level of need\, 11 restrooms around campus have been sele
+ cted to be stocked with these products.\n\nPlease show your support for th
+ is crucial initiative by attending the launch party!\n\nFor more informati
+ on about MMP\, please visit our website\, mpprogram.gatech.edu.\n\n[1]\n\n
+ Links:\n[0]  http://hg.gatech.edu/node/627526#0\n[1]  https://wst.gatech.e
+ du/news/item/620448/gift-tech-awarded-cdac-menstrual-product-program
+LOCATION:Alumni House\, Griffin Ballroom 190 North Avenue NW \, Atlanta\, 
+ GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Zillow Day in the Lobby
 DTSTART;VALUE=DATE-TIME:20191017T150000Z
 DTEND;VALUE=DATE-TIME:20191017T200000Z
@@ -14472,8 +14469,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DInner discussion with representative from VOICE: Sexual Violence 
  Prevention
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191021T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191021T230000Z
+DTSTART;VALUE=DATE-TIME:20191021T220000Z
+DTEND;VALUE=DATE-TIME:20191021T230000Z
 UID:http://hg.gatech.edu/node/625355#0
 DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  nExtras: Free food\nStatus: published\n\nA representative from VOICE: Sexu
@@ -15909,6 +15906,149 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome and join us for ou
 LOCATION:Mason 2117
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:From Myth to Marvel: The Role of Elements in Science\, Fiction\, a
+ nd Culture
+DTSTART;VALUE=DATE-TIME:20191107T160000Z
+DTEND;VALUE=DATE-TIME:20191107T171500Z
+UID:http://hg.gatech.edu/node/627532#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: draft\n\nTh
+ e College of Sciences\; the School of Literature\, Media\, and Culture\; a
+ nd the Georgia Tech Library invite all to a conversation among science fic
+ tion authors and scientists\, as part of Georgia Tech's celebration of the
+  International Year of the Periodic Table (IYPT).\n\nIYPT has brought well
+ -deserved attention to the periodic table and the chemical elements. As th
+ e world celebrates the 150th anniversary of the periodic table\, chemical 
+ elements have never been so central to the global imagination. Just look a
+ t recent blockbuster films revolving around vibranium and infinity stones.
+ \n\nBut did chemical elements really ever go out of style?\n\nModerated by
+  Charlie Bennett [01]\, this panel discussion brings two scientists and tw
+ o science fiction authors together to explore how science and art have lon
+ g influenced each other while shaping public understanding of the periodic
+  table and chemical elements and their role in our everyday lives.\n\nGeor
+ gia Tech scientists Deirdre Shoemaker [02] and M.G. Finn [03] will have a 
+ conversation with Milton J. Davis [04]\, science fiction writer and chemis
+ t\, and Amanda Weiss [05]\, an up-and-coming science fiction author who te
+ aches Japanese at Georgia Tech. Through their conversation\, we hope to ge
+ t a closer look at how new — and sometimes very old! — ideas about how
+  the world works circulate through science\, fiction\, and culture at larg
+ e.\n\nAbout the Discussants\nCharlie Bennett [01] is the public engagement
+  librarian and economics specialist at Georgia Tech. He holds a Master’s
+  in Library and Information Science from Valdosta State University\, and a
+  B.S. in Economics and in Science\, Technology\, and Culture from Georgia 
+ Tech. His research interests include the role of the library in civic life
+  and scholarly communication to the general public. Bennett produces and c
+ o-hosts the rock’n’roll library show " Lost in the Stacks [06] " and t
+ he talk show " The North Avenue Lounge [07]\, " both on WREK Atlanta\, as 
+ well as the media podcast " Supercontext [08]. "\n\nMilton J. Davies [09] 
+ is a black speculative fiction writer. He is the author of 17 novels and e
+ ditor or co-editor of seven anthologies. He owns MVmedia\, LLC\, a small p
+ ublishing company specializing in science fiction\, fantasy\, and "Sword a
+ nd Soul." Davies is also a research chemist at Chemtronics [10]\, a compan
+ y specializing in chemicals and coating used for reworking and repairing c
+ ircuit boards. He has developed polymers for the textile\, janitorial\, an
+ d computer industries. In 2004\, he received a U.S. patent for a cleaning 
+ solvent and dispenser pen designed to remove conformal coatings and adhesi
+ ves from circuit boards and other electrical equipment.\n\nM.G. Finn [11] 
+ is a professor in\, the chair of\, and the James A. Carlos Family Chair fo
+ r Pediatric Technology in the Georgia Tech School of Chemistry and Biochem
+ istry. In his research\, he develops chemical and biological tools for a w
+ ide range of fields. His research interests include tailoring of viruses f
+ or applications to cell targeting\, diagnostics\, vaccine development\, ca
+ talysis\, and materials self-assembly\; development of reactions for organ
+ ic synthesis\, chemical biology\, and materials science\; and synthesis of
+  biologically active compounds. He is the editor-in-chief of ACS Combinato
+ rial Science and a member of the editorial advisory board of Bioconjugate 
+ Chemistry.\n\nDeirdre Shoemaker is a professor in the Georgia Tech School 
+ of Physics [02] and School of Computational Science & Engineering. [12] Sh
+ e is a founding member and the director of the Georgia Tech Center for Rel
+ ativistic Astrophysics. Black holes\, spacetime wrinkles and waves\, under
+ standing these and other aspects of gravity drives Shoemaker’s research.
+  Does this sound like science fiction? Shoemaker is a member of the Laser 
+ Interferometric Gravitational Wave Observatory (LIGO)\, which detected gra
+ vitational waves for the first time on Sept. 14 2015. This first detected 
+ event ushered in the era of gravitational wave astronomy. The strange and 
+ wondrous predictions of Einstein’s theory are playing out in the univers
+ e\, and Shoemaker is watching!\n\nAmanda Weiss [05] is a visiting assistan
+ t professor of Japanese in the Georgia Tech School of Modern Languages. Pr
+ ior to her work at Georgia Tech\, she taught courses on East Asian media a
+ nd society at Earlham College\, Emory University\, and Rikkyo University i
+ n Tokyo. She is completing her first book\, "Han Heroes and Yamato Warrior
+ s: Competing Masculinities in East Asian War Cinema\," based on her doctor
+ al research in the University of Tokyo. She has started a second project\,
+  on the contemporary Japanese remembrance of Manchukuo\, the puppet state 
+ of the Empire of Japan from 1932 until 1945.\n\nLinks:\n[00]  http://hg.ga
+ tech.edu/node/627532#0\n[01]  https://library.gatech.edu/charlie-bennett\n
+ [02]  https://www.physics.gatech.edu/user/deirdre-shoemaker\n[03]  https:/
+ /www.chemistry.gatech.edu/people/finn/m.g.\n[04]  https://www.amazon.com/M
+ ilton-John-Davis/e/B005HVQMOK\n[05]  https://modlangs.gatech.edu/people/pe
+ rson/38db520b-2342-5ea8-a3e0-57b340e6d49a\n[06]  http://lostinthestacks.li
+ bsyn.com/\n[07]  http://northavenuelounge.com/\n[08]  http://supercontextp
+ odcast.libsyn.com/\n[09]  https://boskoneblog.com/2017/02/05/milton-davis-
+ is-coming-to-boskone/\n[10]  https://www.chemtronics.com/\n[11]  http://ww
+ w.chemistry.gatech.edu/faculty/Finn/\n[12]  https://www.cc.gatech.edu/peop
+ le/deirdre-shoemaker\n[13]  https://cos.gatech.edu/science-matters/science
+ matters-season-3-episode-1-all-about-control
+LOCATION:7th Floor Reading Room\, Georgia Tech Library\, Crosland Tower\, 
+ 249-371 Bobby Dodd Way NW\, Atlanta\, GA 30313Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grand Opening of the exhibit ASTOUNDING ELEMENTS: Celebrating the 
+ Periodic Table
+DTSTART;VALUE=DATE-TIME:20191107T160000Z
+DTEND;VALUE=DATE-TIME:20191107T171500Z
+UID:http://hg.gatech.edu/node/627520#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: draft\n\nTh
+ e College of Sciences\; the School of Literature\, Media\, and Culture\; a
+ nd the Georgia Tech Library invite all to the grand opening of the exhibit
+  ASTOUNDING ELEMENTS: Celebrating the Periodic Table.\n\nSince January\, t
+ he College of Sciences has been hosting lectures\, events\, and activities
+  to acknowledge the 150-year-long contribution of the periodic table to sc
+ ience. In collaboration with campus partners\, the College of Sciences has
+  brought the periodic table and chemical elements to the attention of the 
+ Georgia Tech community and the public through arts\, athletics\, academics
+ \, and fun. ASTOUNDING ELEMENTS brings many of these pieces together\, inc
+ luding:\n\n- Elements in science fiction\, in collaboration with the Schoo
+ l of Literature\, Media\, and Communication\n- Periodic table makeover: de
+ sign and prototypes\, in collaboration with the School of Industrial Desig
+ n\, College of Design\n- Art inspired by the periodic table and chemical e
+ lements\, in collaboration with the Georgia Tech Office of the Arts\n- Sca
+ venger Hunt: buildings and element partners\, in collaboration with variou
+ s building managers on campus\n- Favorite elements of Georgia Tech student
+ s\, faculty\, and staff\n\nThe exhibit will formally open with remarks fro
+ m\n\n- Dean Susan Lozier\, College of Sciences\n- Interim Dean John Tone\,
+  Ivan Allen College of Liberal Arts\n- Associate Dean Bruce Henson\, Georg
+ ia Tech Library\n\nImmediately following the opening remarks is a panel di
+ scussion: From Myth to Marvel: The Role of Elements in Science\, Fiction\,
+  and Culture\n\nThe International Year of the Periodic Table has brought w
+ ell-deserved attention to the periodic table and the chemical elements. As
+  the world celebrates 2019 the 150th anniversary of the periodic table\, c
+ hemical elements have never been so central to the global imagination. Jus
+ t look at recent blockbuster films revolving around vibranium and infinity
+  stones.\n\nBut did chemical elements really ever go out of style?\n\nMode
+ rated by Georgia Tech librarian and North Avenue Lounge radio host Charlie
+  Bennett\, this panel discussion brings two scientists and two science fic
+ tion authors together to explore how science and art have long influenced 
+ one other while shaping public understanding of the periodic table and che
+ mical elements and their role in our everyday lives.\n\nGeorgia Tech physi
+ cist Deirdre Shoemaker [1] and chemist M.G. Finn [2] will have a conversat
+ ion with Milton Davis [3]\, chemist and award-winning author of nineteen n
+ ovels and editor of nine anthologies\, and Amanda Weiss [4]\, an up-and-co
+ ming science fiction and fantasy author who teaches Japanese at Georgia Te
+ ch. Through their conversation\, we hope to get a closer look at how new 
+ — and sometimes very old! — ideas about how the world works circulate 
+ through science\, fiction\, and culture at large.\n\nLinks:\n[0]  http://h
+ g.gatech.edu/node/627520#0\n[1]  https://www.physics.gatech.edu/user/deird
+ re-shoemaker\n[2]  https://www.chemistry.gatech.edu/people/finn/m.g.\n[3] 
+  https://www.amazon.com/Milton-John-Davis/e/B005HVQMOK\n[4]  https://modla
+ ngs.gatech.edu/people/person/38db520b-2342-5ea8-a3e0-57b340e6d49a\n[5]  ht
+ tps://cos.gatech.edu/science-matters/sciencematters-season-3-episode-1-all
+ -about-control
+LOCATION:7th Floor Reading Room\, Georgia Tech Library\, Crosland Tower\, 
+ 249-371 Bobby Dodd Way NW\, Atlanta\, GA 30313Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Healthy Lighting Design for Older Adults
 DTSTART;VALUE=DATE-TIME:20191107T213000Z
 DTEND;VALUE=DATE-TIME:20191107T230000Z
@@ -16345,6 +16485,26 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
  .scl.gatech.edu/sclirc/seminars/register\n[3]  https://isye.gatech.edu/abo
  ut/maps-directions/isye-building-complex
 LOCATION:ISyE Main\, 2nd Floor Atrium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open house to tour WST Learning Community
+DTSTART;VALUE=DATE-TIME:20191113T220000Z
+DTEND;VALUE=DATE-TIME:20191113T230000Z
+UID:http://hg.gatech.edu/node/627525#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nAll interested women undergraduat
+ e and graduate students are invited to tour the Women\, Science\, and Tech
+ nology Learning Community (WST Lrn C) because vacant rooms are anticipated
+  in spring 2020 and recruitment for 2020-2021 residency will begin in Janu
+ ary.\n\nCurrent residents and WST team members will be available to answer
+  questions. Learn about WST initiatives\, including dinners with faculty/s
+ taff\, career workshops\, faculty mentoring\, undergraduate research.\n\nW
+ ST Lrn C accommodations in Goldin House and Stein House (STN)\, a WST (Wom
+ en\, Science\, and Technology) apartment\, offer two private bedrooms that
+  share a full bathroom in each apartment. All residents of the two buildin
+ gs share two lounges\, study areas\, and kitchens on the first floor.\n\nL
+ inks:\n[0]  http://hg.gatech.edu/node/627525#0
+LOCATION:Stein House/4th St. A\, 733 Techwood\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga for the Soul
