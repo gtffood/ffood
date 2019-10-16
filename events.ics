@@ -2,101 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Ride Out in Style
-DTSTART;VALUE=DATE-TIME:20190415T130000Z
-DTEND;VALUE=DATE-TIME:20190415T173000Z
-UID:http://hg.gatech.edu/node/619880#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nCalling all graduating seniors! Come out to the Clou
- gh Turnaround to have a final ride in the Reck before you graduate! To fin
- d details on how to sign up\, go to [1]\n\nYou must be a graduating senior
-  to participate. Snacks and refreshments will be provided. Walk-ins will b
- e accommodated only if there is space\, so reserve your spot ahead of time
-  to guarantee a ride!\n\nMore information [1]\n\nLinks:\n[0]  http://hg.ga
- tech.edu/node/619880#0\n[1]  http://www.rideoutinstyle.com/
-LOCATION:Clough Commons Turnaround
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OPERATION OVERLORD: Commemorating the 75th Anniversary of the D-Da
- y Invasion
-DTSTART;VALUE=DATE-TIME:20190415T150000Z
-DTEND;VALUE=DATE-TIME:20190415T170000Z
-UID:http://hg.gatech.edu/node/619553#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nPlease join the Ivan Allen College\, The Sam Nunn School of Internationa
- l Affairs\, the Center for International Strategy\, Technology\, and Polic
- y\, and the Center for European and Transatlantic Studies for a symposium 
- dedicated to remembering the incredible sacrifice made during Operation Ov
- erlord\, and specifically the D-Day invasion. The symposium will feature p
- resentations by:\n\nGen. Philip Breedlove\, USAF(r)\n\nDistinguished Profe
- ssor of the Practice\, Georgia Tech\n\nDr. Seymour Goodman\n\nRegents Prof
- essor\, Georgia Tech\n\nDr. John Morrow\n\nFranklin Professor of History\,
-  University of Georgia\n\nCol. William Woodcock\, USAF(r)\n\nHistory Depar
- tment\, Auburn University\n\nApril 15th\n\n11:00am to 1:00pm\n\nPeachtree 
- Room\,\n\nStudent Center Commons\n\nGeorgia Institute of Technology\n\n***
- *******\n\nLunch is Provided\n\nPlease RSVP to\n\nchris.mcdermott@gatech.e
- du [1]\n\nBy April 10th\n\nLinks:\n[0]  http://hg.gatech.edu/node/619553#0
- \n[1]  chris.mcdermott@gatech.edu\n[2]  https://studentcenter.gatech.edu/
-LOCATION:Peachtree Room\, Georgia Tech Student Center Commons
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Master and Certificate of Sustainable Energy and Environmental Man
- agement Open House
-DTSTART;VALUE=DATE-TIME:20190415T160000Z
-DTEND;VALUE=DATE-TIME:20190415T170000Z
-UID:http://hg.gatech.edu/node/619537#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nThe Georgia Institute of Technology is launching a new Master’s and Ce
- rtificate degree in Sustainable Energy and Environmental Management (SEEM)
-  — the only graduate degree in Georgia fully dedicated to sustainability
-  issues. The highly technical\, science-based\, and interdisciplinary prog
- ram will prepare students to deliver fact-based policy expertise through r
- obust analytical techniques and a deep understanding of energy and environ
- mental issues and sustainability practices.\n\nThe MSEEM and CSEEM program
- s are designed to serve a broad range of students interested in sustainabi
- lity issues. Students can complete the degree on campus or online either a
- s a part-time or full-time student.\n\nThe Sustainable Energy and Environm
- ental Management students will study topics such as sustainable energy and
-  voluntary environmental commitments\, cost-benefit analysis\, utility reg
- ulation and policy\, Earth systems\, economics of environmental policy\, b
- ig data and policy analytics\, climate policy\, and environmental manageme
- nt. Students will also learn analytical techniques used to estimate and ev
- aluate sustainability metrics\, learn to expertly assess the context of en
- ergy and environmental problems\, and learn environmental ethics and its i
- mplications for sustainability practice.\n\nApplications [1] are being acc
- epted through June 15 for the inaugural class for those who will begin stu
- dy in August 2019.\n\nThe School of Public Policy will host a Virtual Open
-  House - Webinar Session on Wednesday\, April 24th at 11 am. RSVP [2] for 
- the Webinar Information Session Here: [2] Join us either by Computer or Ph
- one! Webinar Website [3] - April 24th: https://bluejeans.com/202909300 [4]
- \nPhone: 408.740.7256 Meeting ID: 202 909 300\n\nLinks:\n[0]  http://hg.ga
- tech.edu/node/619537#0\n[1]  http://grad.gatech.edu/apply-now\n[2]  https:
- //tinyurl.com/MSEEM-RSVP\n[3]  https://bluejeans.com/202909300\n[4]  https
- ://www.google.com/url?q=https://bluejeans.com/202909300&sa=D&ust=155559585
- 5615000&usg=AFQjCNFKrno_yuTFZxemG5QPCQn3OhXgmQ
-LOCATION:DM Smith Room 108\, Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Phi Alpha Theta Initiation
-DTSTART;VALUE=DATE-TIME:20190415T230000Z
-DTEND;VALUE=DATE-TIME:20190416T000000Z
-UID:http://hg.gatech.edu/node/619760#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
- aduate students\nStatus: published\n\nEight students will be inducted to P
- hi Alpha Theta\, the national history honor society\, on Monday\, April 15
- th.\n\nAt the initiation\, Dr. Giebelhaus will give a talk on "The History
-  of History at Georgia Tech" where he will discuss how GT has changed over
-  the years.\n\nThe initiates are:\n\n- Mariel Barnett\n- Lucy Groves\n- Da
- nyelle Holder\n- Michael Kurtz\n- Keely Mruk\n- Davis Schultz\n- Yonatan W
- einberg\n- David Whiteman\n\nThe ceremony will be held from 7:00 - 8:00 PM
-  in the Hall Building\, room 102. The ceremony will include dinner\, so pl
- ease RSVP [1].\n\nLinks:\n[0]  http://hg.gatech.edu/node/619760#0\n[1]  ht
- tps://gatech.co1.qualtrics.com/jfe/form/SV_eanQgHCiTQ0hwDr
-LOCATION:Hall Building\, Room 102
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2019 BIO Vendor Showcase @ Georgia Tech
 DTSTART;VALUE=DATE-TIME:20190416T140000Z
 DTEND;VALUE=DATE-TIME:20190416T180000Z
@@ -1899,12 +1804,12 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  d Frost - Professor\, Civil & Environmental Engineering\nLalith Polepeddi 
  - Research Scientist\nTim Cone - Program Director\, CEISMC\nJayma Koval - 
  Research Faculty\, CEISMC\n\nLinks:\n[0]  http://hg.gatech.edu/node/621384
- #0\n[1]  https://www.sealevelsensors.org/\n[2]  http://gatech.edu\n[3]  ht
- tps://bit.ly/2V8Y7lm\n[4]  https://www.sealevelsensors.org/about/\n[5]  ht
- tp://smartcities.gatech.edu/georgia-smart\n[6]  https://www.eventbrite.com
- /e/smart-sea-level-sensors-expo-tickets-60325267499?fbclid=IwAR2IlPorBbRe7
- Hru0mtpLla3xH_kDTwG4c4bF3AuUW71TKU0-iARHLVgysY\n[7]  https://www.telfair.o
- rg/visit/jepson-center/
+ #0\n[1]  https://www.sealevelsensors.org/\n[2]  https://gatech.edu\n[3]  h
+ ttps://bit.ly/2V8Y7lm\n[4]  https://www.sealevelsensors.org/about/\n[5]  h
+ ttp://smartcities.gatech.edu/georgia-smart\n[6]  https://www.eventbrite.co
+ m/e/smart-sea-level-sensors-expo-tickets-60325267499?fbclid=IwAR2IlPorBbRe
+ 7Hru0mtpLla3xH_kDTwG4c4bF3AuUW71TKU0-iARHLVgysY\n[7]  https://www.telfair.
+ org/visit/jepson-center/
 LOCATION:Jepson Center for the Arts\, 207 West York Street\, Savannah\, GA
   31401
 END:VEVENT
@@ -11552,28 +11457,28 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  Chair and Professor\, School of Modern Languages\; Founding co-Director\, 
  the Atlanta Global Studies Center\, Georgia Institute of Technology\n\nPar
  t 4 – Reception\n5:00 PM - 6:00 PM\n\nReception\nKendeda Building atrium
- \n\nRegistration is free. [6]\n\nThe Global Climate Action Symposium will 
- bring together a wide range of experts to showcase climate change engageme
- nt by local student activists\, scientists and engineers\, business and po
- licy experts\, and artists. Jointly sponsored by Georgia Tech and six Euro
- pean consulates during European Climate Diplomacy Week\, the event will be
-  held in the brand new Kendeda Building for Innovative Sustainable Design\
- , where guests can learn about how the building will produce more energy t
- han it uses\, collect and recycle water for its operations\, and promote a
-  just and equitable world.\n\n- Part 1 - Science\, Technology\, and Polici
- es\n- Part 2 – Student Engagement\, "Fridays for Future"\n- Part 3 – A
- rt\n- Part 4 – Tour of the Kendeda Building\n\nView the full agenda [7]\
- n\nThe Global Climate Action Symposium will bring together a wide range of
-  experts to showcase climate change engagement by local student activists\
- , scientists and engineers\, business and policy experts\, and artists. Jo
- intly sponsored by Georgia Tech and six European consulates during Europea
- n Climate Diplomacy Week\, the event will be held in the brand new Kendeda
-  Building for Innovative Sustainable Design\, where guests can learn about
-  how the building will produce more energy than it uses\, collect and recy
- cle water for its operations\, and promote a just and equitable world. Reg
- istration is FREE.\n\n- Part 1 - Science\, Technology\, and Policies\n- Pa
- rt 2 - Student Engagement\, "Fridays for Future"\n- Part 3 - Art\n- Part 4
-  - Tour of the Kendeda Building\n\nRegister Here [5]\n\nLinks:\n[0]  http:
+ \n\nThe Global Climate Action Symposium will bring together a wide range o
+ f experts to showcase climate change engagement by local student activists
+ \, scientists and engineers\, business and policy experts\, and artists. J
+ ointly sponsored by Georgia Tech and six European consulates during Europe
+ an Climate Diplomacy Week\, the event will be held in the brand new Kended
+ a Building for Innovative Sustainable Design\, where guests can learn abou
+ t how the building will produce more energy than it uses\, collect and rec
+ ycle water for its operations\, and promote a just and equitable world. Re
+ gistration is FREE.\n\n- Part 1 - Science\, Technology\, and Policies\n- P
+ art 2 - Student Engagement\, "Fridays for Future"\n- Part 3 - Art\n- Part 
+ 4 - Tour of the Kendeda Building\n\nRegister Here [5]\n\nRegistration is f
+ ree. [6]\n\nThe Global Climate Action Symposium will bring together a wide
+  range of experts to showcase climate change engagement by local student a
+ ctivists\, scientists and engineers\, business and policy experts\, and ar
+ tists. Jointly sponsored by Georgia Tech and six European consulates durin
+ g European Climate Diplomacy Week\, the event will be held in the brand ne
+ w Kendeda Building for Innovative Sustainable Design\, where guests can le
+ arn about how the building will produce more energy than it uses\, collect
+  and recycle water for its operations\, and promote a just and equitable w
+ orld.\n\n- Part 1 - Science\, Technology\, and Policies\n- Part 2 – Stud
+ ent Engagement\, "Fridays for Future"\n- Part 3 – Art\n- Part 4 – Tour
+  of the Kendeda Building\n\nView the full agenda [7]\n\nLinks:\n[0]  http:
  //hg.gatech.edu/node/625664#0\n[1]  http://hg.gatech.edu/node/625071#0\n[2
  ]  https://gatech.campuslabs.com/engage/event/4928135\n[3]  https://ec.eur
  opa.eu/clima/events/climate-diplomacy-weeks_en\n[4]  https://livingbuildin
@@ -13925,19 +13830,40 @@ BEGIN:VEVENT
 SUMMARY:Resilience Through Moving to a New Country
 DTSTART;VALUE=DATE-TIME:20191016T150000Z
 DTEND;VALUE=DATE-TIME:20191016T160000Z
-UID:http://hg.gatech.edu/node/625274#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nJoin us for a special event addressing a very r
- elevant topic to the GT Community: Resilience Through Moving to a New Coun
- try. This interactive session will feature a panel of GT students and staf
- f sharing their own diverse personal experiences related to moving to a ne
- w country and how those experiences have shaped their lives. The discussio
- n will explore the myriad of logistical and human challenges involved in m
- oving to a new land and the stories of resilience the panelists have writt
- en in the process. Feel free to bring your lunch. Drinks and light snacks 
- will be provided.\n\nRSVP by October 4th:\n\n[1]\n\nLinks:\n[0]  http://hg
- .gatech.edu/node/625274#0\n[1]  https://gatech.co1.qualtrics.com/jfe/form/
- SV_9yONXJvOGS0qR4p
+UID:http://hg.gatech.edu/node/627618#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nJoin the Resilience and HOLA Employee Resource Groups (ERGs) October 16 
+ for 'Resilience Through Moving to a New Country.'\n\nThis interactive even
+ t will feature a panel of Georgia Tech students and staff sharing their ow
+ n diverse personal experiences related to moving to a new country and how 
+ those experiences have shaped their lives. The discussion will explore the
+  myriad of logistical and human challenges involved in moving to a new lan
+ d and the stories of resilience the panelists have written in the process.
+  (Feel free to bring your lunch. Drinks and light snacks will be provided.
+ )\n\nEvent Information:\nWednesday\, October 16\, 2019\n11a.m.-noon\nStude
+ nt Center Room 343\n\nRSVP at: https://gatech.co1.qualtrics.com/jfe/form/S
+ V_9yONXJvOGS0qR4p [2]\n\nJoin us for a special event addressing a very rel
+ evant topic to the GT Community: Resilience Through Moving to a New Countr
+ y. This interactive session will feature a panel of GT students and staff 
+ sharing their own diverse personal experiences related to moving to a new 
+ country and how those experiences have shaped their lives. The discussion 
+ will explore the myriad of logistical and human challenges involved in mov
+ ing to a new land and the stories of resilience the panelists have written
+  in the process. Feel free to bring your lunch. Drinks and light snacks wi
+ ll be provided.\n\nRSVP by October 4th:\n\n[3]\n\nJoin us for a special ev
+ ent addressing a very relevant topic to the GT Community: Resilience Throu
+ gh Moving to a New Country. This interactive session will feature a panel 
+ of GT students and staff sharing their own diverse personal experiences re
+ lated to moving to a new country and how those experiences have shaped the
+ ir lives. The discussion will explore the myriad of logistical and human c
+ hallenges involved in moving to a new land and the stories of resilience t
+ he panelists have written in the process. Feel free to bring your lunch. D
+ rinks and light snacks will be provided.\n\nRSVP by October 4th:\n\n[3]\n\
+ nLinks:\n[0]  http://hg.gatech.edu/node/627618#0\n[1]  http://hg.gatech.ed
+ u/node/625274#0\n[2]  https://gatech.co1.qualtrics.com/jfe/form/SV_9yONXJv
+ OGS0qR4p?fbclid=IwAR3AlhLms_RzjY0wVs70D6bSDI-0tXFnUqFLMaGJ81kOQuNDFtIVpLrP
+ xro\n[3]  https://gatech.co1.qualtrics.com/jfe/form/SV_9yONXJvOGS0qR4p
 LOCATION:Student Center\, Room 343
 END:VEVENT
 BEGIN:VEVENT
@@ -14057,6 +13983,34 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  gram\n\nLinks:\n[0]  http://hg.gatech.edu/node/624369#0\n[1]  https://gate
  ch.co1.qualtrics.com/jfe/form/SV_2nkwaZcTskQOl7v
 LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GradChats - Session 1
+DTSTART;VALUE=DATE-TIME:20191016T213000Z
+DTEND;VALUE=DATE-TIME:20191016T230000Z
+UID:http://hg.gatech.edu/node/627607#0
+DESCRIPTION:Intended audience: Graduate students\nStatus: published\n\nGra
+ duate school can sometimes feel like a never ending battle. Do you know a 
+ quick way to de-stress? Simply talking or complaining about the issues to 
+ others in the same boat might do the trick.\n\nOur graduate students acros
+ s majors have similar concerns about relationship with their advisor\, fin
+ ancial situation\, lack of social life\, etc. We want to provide our stude
+ nts a means to vent and complain or feel comforted.\n\nGrad Chat is an ini
+ tiative of Graduate SGA\, a series of student-group discussions. We provid
+ e a space for graduate students to come together in a welcoming environmen
+ t to discuss\, share experiences and offer each other suggestions while bu
+ ilding a community. Free dinner will be provided. The first session will b
+ e on Wednesday\, Oct 16 from 5:30-7 PM at Student Center\, where we will b
+ e discussing the topic "Managing advisor relationships at grad school". We
+  have limited space so please RSVP early using the link: http://bit.ly/gra
+ dchats-rsvp-session1. Selected students will be notified via email. Expect
+  a space to talk openly\, meet students like you\, and good food! --------
+ ----------- Please note that this chat is not a therapy series. If you wou
+ ld benefit from the support of a therapist\, Counseling Center can provide
+  expert care.\n\nLinks:\n[0]  http://hg.gatech.edu/node/627607#0\n[1]  htt
+ ps://gatech.campuslabs.com/engage/organization/graduate-student-government
+ -association
+LOCATION:TBD
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Women Leaders in Equifax Security: Diverse Perspectives
@@ -14284,6 +14238,51 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
  /upcoming\n[2]  http://www.tsrb.gatech.edu/
 LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
  a\, Ga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Celebration of GT-CNRS International Research Lab
+DTSTART;VALUE=DATE-TIME:20191017T200000Z
+DTEND;VALUE=DATE-TIME:20191017T213000Z
+UID:http://hg.gatech.edu/node/627543#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\nStatus: published\n\nThe GT community is welcome 
+ to join us in this celebration of the GT-CNRS partnership. The highlight o
+ f the celebration is the signature of an MOU between CNRS and Institut Laf
+ ayette\, the tech transfer institute adjacent to Georgia Tech Lorraine and
+  led by Georgia Tech faculty.\n\nSchedule\n- 16h00-17h30: Celebration IRL 
+ GT CNRS\n- 16h00-16h20: Opening remarks\n- Y. Berthelot (VP II GIT & Presi
+ dent GTL)\n- C. Abdallah (VPR GIT)\n- L. Nicolas (INSIS DAS CNRS)\n- A. Ou
+ gazzaden (Executive director GTL & co-president Institut Lafayette)\n- J.P
+ . Salvestrini (Executive director IRL GT CNRS)\n\n- 16h20-16h50: Collabora
+ tive projects between the two IRL GT CNRS sites\n- C. Berger / A. Ougazzad
+ en o B. Hunt / T. Leichlé\n- M. Bloch / M. Barret\n- D. Citrin / A. Locqu
+ et\n- S. Kalidindi / L. Morales\n- D. Mavris / T. Zaidi\n\n- 16h50-17h00: 
+ CNRS & Institut Lafayette MOU signature\n- A. Ougazzaden (Co-president Ins
+ titut Lafayette)\n- B. Kippelen (Co-president Institut Lafayette\n- L. Nic
+ olas (INSIS DAS CNRS)\n\n- 17h00-17h30: Light Desserts will be provided\n\
+ nLinks:\n[0]  http://hg.gatech.edu/node/627543#0
+LOCATION:Room 102\, Pettit Microelectronics Building\, Georgia Tech\, Atla
+ nta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chocolate and Meditation
+DTSTART;VALUE=DATE-TIME:20191017T210000Z
+DTEND;VALUE=DATE-TIME:20191017T220000Z
+UID:http://hg.gatech.edu/node/627597#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nExtras: Free food\nStatus: published\n\nYou may
+  have eaten chocolate before\, but have you experienced chocolate?\n\nSKY 
+ offers an interactive session on meditation. The idea of this session is t
+ hat meditation not only centers you\, but it heightens your senses. Join u
+ s for this amazing session where we will guide you into a short\, relaxing
+  meditation followed by delicious chocolate tasting giving you a tantalizi
+ ng and refreshing experience.\n\nWhat can you expect in the session?\n\n- 
+ Relaxation through the breath\n- Insights into the nature of mind and powe
+ r of senses\n- Guided meditation using chocolate\n- Question & answer sess
+ ion\n\nWe look forward to seeing you there!\n\nLinks:\n[0]  http://hg.gate
+ ch.edu/node/627597#0\n[1]  https://gatech.campuslabs.com/engage/actioncent
+ er/organization/sky
+LOCATION:Room 320\, Student Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leadership Challenge Course 10th Anniversary Celebration
@@ -14531,15 +14530,17 @@ LOCATION:Bill Moore Student Success Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AGSC Tuesday Collaboratorium: Lunch with a Member of the Atlanta C
- onsular Corps
+ onsular Corps -- Conversation with Consul General of India\, Dr. Swati Kul
+ karni on "Advancing India/Hindi Studies in the Greater Atlanta Region"
 DTSTART;VALUE=DATE-TIME:20191022T150000Z
 DTEND;VALUE=DATE-TIME:20191022T155000Z
 UID:http://hg.gatech.edu/node/625429#0
 DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  \, Undergraduate students\nExtras: Free food\nStatus: published\n\nCollabo
- ratorium and Lunch with a Member of the Atlanta Consular Corps\n\nLinks:\n
- [0]  http://hg.gatech.edu/node/625429#0\n[1]  http://atlantaglobalstudies.
- gatech.edu
+ ratorium and Lunch with a Member of the Atlanta Consular Corps - Conversat
+ ion with Consul General Dr. Swati Kulkarni on "Advancing India/Hindi Studi
+ es in the Greater Atlanta Region"\n\nLinks:\n[0]  http://hg.gatech.edu/nod
+ e/625429#0\n[1]  http://atlantaglobalstudies.gatech.edu
 LOCATION:AGSC\, 781 Marietta St. NW\, Suite 115\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
@@ -14772,6 +14773,35 @@ LOCATION:Flex Space\, Caddell Building\, 280 Ferst Drive\, Atlanta\, GA 30
  332-0680
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Vertically Integrated Projects (VIP) Poster Session
+DTSTART;VALUE=DATE-TIME:20191022T200000Z
+DTEND;VALUE=DATE-TIME:20191022T213000Z
+UID:http://hg.gatech.edu/node/627617#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nAre you looking for undergraduate & graduate researc
+ h opportunities on campus?\n\nThe Vertically Integrated Projects (VIP) Pro
+ gram would like to invite you to attend our VIP Poster Session on October 
+ 22nd!\n\nThrough the VIP program\, students earn 1-2 credits per semester 
+ for work on large-scale research and design projects led by faculty.\n\nPr
+ evious experience is not required\, but a willingness to learn and work wi
+ th others is a must.\n\nWe will have a poster session on Tuesday\, October
+  22nd at 4:00pm Klaus Atrium\, but teams do fill up\, so we encourage you 
+ to browse teams and apply sooner if you are interested.\n\n[1]\n\nLearn mo
+ re in person – the session will feature teams that are able to make it\,
+  but the online listing includes all teams\, and the online application in
+ dicates which teams are flagged as full.\n\nRefreshments will be provided.
+ \n\nLearn more online -– visit the urls below.\n\n- About the Program [2
+ ]\n- How VIP Counts Toward Degrees [3]\n- VIP in Senior Design & Junior De
+ sign [3]\n- Apply [4]\n- Returning VIP Students: Request a Permit [5]\n\nL
+ inks:\n[0]  http://hg.gatech.edu/node/627617#0\n[1]  http://www.vip.gatech
+ .edu/teams\n[2]  http://www.vip.gatech.edu/vip-vertically-integrated-proje
+ cts-program\n[3]  http://www.vip.gatech.edu/how-vip-credits-count\n[4]  ht
+ tp://www.vip.gatech.edu/how-undergraduate-students-apply\n[5]  http://www.
+ vip.gatech.edu/request-registration-permit\n[6]  https://www.vip.gatech.ed
+ u/
+LOCATION:Atrium\, Klaus Advanced Computing Building
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Personal Statement & Statement of Purpose Boot Camp
 DTSTART;VALUE=DATE-TIME:20191022T210000Z
 DTEND;VALUE=DATE-TIME:20191023T000000Z
@@ -14959,6 +14989,83 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  novating-social-impact-program\n[5]  https://www.scheller.gatech.edu/cente
  rs-initiatives/ile/i2s/index.html
 LOCATION:Room 101\, Scheller College of Business
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GVU Center Brown Bag: Krystina Madej "Disney Animation: Story and 
+ Technology"
+DTSTART;VALUE=DATE-TIME:20191024T153000Z
+DTEND;VALUE=DATE-TIME:20191024T170000Z
+UID:http://hg.gatech.edu/node/627620#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nExtras: Free food\nStatus: draft\n\nAbstract:\n\
+ nWalt Disney is described variously as an American entrepreneur\, a film p
+ roducer\, a pioneer of the American animation industry\, the founder of th
+ e theme park industry. Public perception of him is of a filmmaker with an 
+ uncanny ability to create entertaining family oriented animated films and 
+ experiences. More than that Walt Disney was a visionary who believed techn
+ ology should be pushed to its limits to realize stories\, provide experien
+ ces\, and build worlds. That a technology did not exist or was not yet rea
+ dy to solve a problem was not an obstacle – his answer was always – bu
+ ild it.\n\nDisney Stories: Getting to Digital (Lee & Madej\, 2012) discuss
+ es how Walt Disney and then the Walt Disney Company narratives evolved fro
+ m traditional animation to computer games and online narrative experiences
+ . In the upcoming second edition (January 2020) I look at technology as it
+  has been used to enhance story from the first feature animation Snow Whit
+ e and the Seven Dwarfs to the first VR short Cycles. This talk first provi
+ des an overview of the technological innovation that has driven the many a
+ rms of the Disney empire\, most recently the animatronics for the new Star
+  Wars worlds at Walt Disney World and Disneyland. This is followed by a pr
+ esentation of Disney advances in technology made in the genre of animated 
+ films from the 1940s to today as Disney moved from the traditional methods
+  of integrating animation and live action in Song of the South and later M
+ ary Poppins\, to CGI assisted films beginning with Tron\, through many ite
+ rations to Big Hero Six\, and finally to VR and its use in shorts such as 
+ Styles.\n\nSpeaker Bio:\n\nKrystina Madej is Professor of Practice at Geor
+ gia Tech\, Atlanta\, where she has taught since 2011. Her research interes
+ ts are play and games\, interactivity and collaboration in social media\, 
+ material culture of media\, and narrative across media. In particular she 
+ looks at children’s traditional and digital games\, play and narratives 
+ in social media and Disney’s approach to narrative and technology. Her r
+ esearch has resulted in a number of books including Physical Play and Chil
+ dren’s Digital Games (2016)\, Interactivity\, Collaboration\, and Author
+ ing in Social Media (2015)\, and Disney Stories: Getting to Digital (2012)
+ . She has been visiting professor and taught courses in Narrative at the C
+ enter for Digital Media in Vancouver\, Canada\, and in Children’s Games\
+ , Disney Animation\, and Design Thinking at the University of Lower Silesi
+ a in Wroclaw\, Poland (both for the Erasmus program and the Masters in Big
+  Data\, Digital Media\, and Trendwatching ). Dr. Madej’s first interest 
+ was in Fine Arts: she received her BFA from Concordia University in Montre
+ al\, Canada. She went on to a career as a design strategist and partnered 
+ with a colleague to start the first Industrial Design and Communications b
+ usiness in western Canada that used computer technologies for the design a
+ nd production of products\, graphics\, and exhibits. She later returned to
+  academia and completed her doctoral studies in Digital Narrative at the S
+ chool of Interactive Art and Technology\, SFU\, Vancouver\, Canada.\n\nSch
+ edule of Brown Bag Speakers Fall 2019 [1]\n\nLinks:\n[0]  http://hg.gatech
+ .edu/node/627620#0\n[1]  https://www.gvu.gatech.edu/events/upcoming\n[2]  
+ http://www.tsrb.gatech.edu/
+LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
+ a\, Ga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rethinking Sanctions Efficiency
+DTSTART;VALUE=DATE-TIME:20191024T160000Z
+DTEND;VALUE=DATE-TIME:20191024T171500Z
+UID:http://hg.gatech.edu/node/627559#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nPlease join the Center for International Strategy\, Technology\, and Pol
+ icy in the Sam Nunn School of International Affairs for a discussion with 
+ Ivan Timofeev from the Russian International Affairs Council\, who will be
+  speaking on “Rethinking Sanctions Efficiency: The Evidence from 205 Cas
+ es of the U.S. Government Enforcement Actions Against Business.” Dr. Tim
+ ofeev will revisit the issue of economic sanctions efficiency\, with a spe
+ cific focus on changes of business behavior when affected by governmental 
+ enforcement actions.\n\nThe event will be held in the Student Center [1] r
+ oom 319 with parking available in visitor lot 2 [2].\n\nLinks:\n[0]  http:
+ //hg.gatech.edu/node/627559#0\n[1]  https://map.concept3d.com/?id=82#!m/18
+ 4212\n[2]  https://map.concept3d.com/?id=82#!m/11394
+LOCATION:Georgia Tech's Student Center\, Room 319
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Adulting: Cooking for Life
@@ -15240,8 +15347,8 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
  te\n- Nalat Phanit Black\, UNSDGs Committee Director\, UNA-USA Atlanta Cha
  pter\n\nSponsored by:\nUnited Nations Association of the United States of 
  America - Atlanta Chapter\nAtlanta Global Studies Center (AGSC) [1]\nSchel
- ler College of Busines Ray C. Anderson Center for Sustainable Business [2]
- \nServe-Learn-Sustain at Georgia Tech [3]\nRergional Center of Expertise (
+ ler College of Business Ray C. Anderson Center for Sustainable Business [2
+ ]\nServe-Learn-Sustain at Georgia Tech [3]\nRegional Center of Expertise (
  RCE)-Greater Atlanta [4]\n\nLinks:\n[0]  http://hg.gatech.edu/node/627437#
  0\n[1]  https://atlantaglobalstudies.gatech.edu/\n[2]  https://www.schelle
  r.gatech.edu/centers-initiatives/ray-c-anderson-center-for-sustainable-bus
@@ -15409,6 +15516,20 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Tech Rec\, Student Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PA Club Coffee and Donuts Social
+DTSTART;VALUE=DATE-TIME:20191029T230000Z
+DTEND;VALUE=DATE-TIME:20191030T000000Z
+UID:http://hg.gatech.edu/node/627582#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nPhysician Assistant Club at Georg
+ ia Tech\n\nCome join us for our annual Coffee and Donuts Social! You will 
+ have the opportunity to network with the exec board as well as other club 
+ members while enjoying free coffee and donuts!\n\nLinks:\n[0]  http://hg.g
+ atech.edu/node/627582#0\n[1]  https://gatech.campuslabs.com/engage/organiz
+ ation/physician-assistant-club-at-georgia-tech
+LOCATION:Room 254\, Skiles Building
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:HHC Halloween Party
 DTSTART;VALUE=DATE-TIME:20191030T230000Z
 DTEND;VALUE=DATE-TIME:20191031T010000Z
@@ -15562,15 +15683,25 @@ BEGIN:VEVENT
 SUMMARY:Meditation and Pizza
 DTSTART;VALUE=DATE-TIME:20191101T160000Z
 DTEND;VALUE=DATE-TIME:20191101T170000Z
-UID:https://gatech.campuslabs.com/engage/event/5023145
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nSKY at GT brings to you
-  an interactive session on meditation. Join us for this amazing session wh
- ere we will guide you into a short\, relaxing meditation followed by pizza
- . All you need to have during a mid-day break\n\nWhat can you expect in th
- e session?\n1) Relaxation through the breath\n2) Insights into the nature 
- of mind and power of senses\n3) Guided meditation\n4) Question & answer se
- ssion\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5023145
-LOCATION:Room 320
+UID:http://hg.gatech.edu/node/627595#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nExtras: Free food\nStatus: published\n\nSKY at 
+ GT brings to you an interactive session on meditation. Join us for this am
+ azing session where we will guide you into a short\, relaxing meditation f
+ ollowed by pizza. All you need to have during a mid-day break.\n\nWhat can
+  you expect in the session?\n\n- Relaxation through the breath\n- Insights
+  into the nature of mind and power of senses\n- Guided meditation\n- Quest
+ ion & answer session\nWe look forward to seeing you there!\n\nSKY at GT br
+ ings to you an interactive session on meditation. Join us for this amazing
+  session where we will guide you into a short\, relaxing meditation follow
+ ed by pizza. All you need to have during a mid-day break\n\nWhat can you e
+ xpect in the session?\n1) Relaxation through the breath\n2) Insights into 
+ the nature of mind and power of senses\n3) Guided meditation\n4) Question 
+ & answer session\n\nLinks:\n[0]  http://hg.gatech.edu/node/627595#0\n[1]  
+ https://gatech.campuslabs.com/engage/event/5023145\n[2]  http://www.facebo
+ ok.com/events/500829210383130/\n[3]  https://orgsync.com/136054/events/250
+ 6688/occurrences/6040914
+LOCATION:Room 320\, Student Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alumni Reception
@@ -15737,9 +15868,10 @@ UID:http://hg.gatech.edu/node/627307#0
 DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
  aduate students\nStatus: published\n\nGeorgia Tech Supply Chain students\,
   please join us for second Supply Chain Day of the fall semester! The 3-ho
- ur session will host supply chain representatives from ​​BAE Systems\,
-  Comcast\, CVS Health\, Drive DeVilbiss Healthcare\, FreshPoint\, J.B. Hun
- t\, Luxottica\, National DCP\, Novelis\, Papa John's\, Viasat\, APICS Atla
+ ur session will host supply chain representatives from ​​Apple\, BAE S
+ ystems\, Comcast\, CVS Health\, Drive DeVilbiss Healthcare\, FreshPoint\, 
+ HD Supply\, J.B. Hunt\, King's Hawaiian\, Luxottica\, Motion Industries-GP
+ C\, National DCP\, LLC\, Novelis\, Papa John's\, UPS\, Viasat\, APICS Atla
  nta Chapter and APICS GT Student Chapter (with more to be added) who will 
  be on campus to educate supply chain students about their organizations an
  d available employment and networking opportunities.\n\nWe strongly encour
@@ -15912,35 +16044,35 @@ DTSTART;VALUE=DATE-TIME:20191107T160000Z
 DTEND;VALUE=DATE-TIME:20191107T171500Z
 UID:http://hg.gatech.edu/node/627532#0
 DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: draft\n\nTh
- e College of Sciences\; the School of Literature\, Media\, and Culture\; a
- nd the Georgia Tech Library invite all to a conversation among science fic
- tion authors and scientists\, as part of Georgia Tech's celebration of the
-  International Year of the Periodic Table (IYPT).\n\nIYPT has brought well
- -deserved attention to the periodic table and the chemical elements. As th
- e world celebrates the 150th anniversary of the periodic table\, chemical 
- elements have never been so central to the global imagination. Just look a
- t recent blockbuster films revolving around vibranium and infinity stones.
- \n\nBut did chemical elements really ever go out of style?\n\nModerated by
-  Charlie Bennett [01]\, this panel discussion brings two scientists and tw
- o science fiction authors together to explore how science and art have lon
- g influenced each other while shaping public understanding of the periodic
-  table and chemical elements and their role in our everyday lives.\n\nGeor
- gia Tech scientists Deirdre Shoemaker [02] and M.G. Finn [03] will have a 
- conversation with Milton J. Davis [04]\, science fiction writer and chemis
- t\, and Amanda Weiss [05]\, an up-and-coming science fiction author who te
- aches Japanese at Georgia Tech. Through their conversation\, we hope to ge
- t a closer look at how new — and sometimes very old! — ideas about how
-  the world works circulate through science\, fiction\, and culture at larg
- e.\n\nAbout the Discussants\nCharlie Bennett [01] is the public engagement
-  librarian and economics specialist at Georgia Tech. He holds a Master’s
-  in Library and Information Science from Valdosta State University\, and a
-  B.S. in Economics and in Science\, Technology\, and Culture from Georgia 
- Tech. His research interests include the role of the library in civic life
-  and scholarly communication to the general public. Bennett produces and c
- o-hosts the rock’n’roll library show " Lost in the Stacks [06] " and t
- he talk show " The North Avenue Lounge [07]\, " both on WREK Atlanta\, as 
- well as the media podcast " Supercontext [08]. "\n\nMilton J. Davies [09] 
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: review\n\nT
+ he College of Sciences\; the School of Literature\, Media\, and Culture\; 
+ and the Georgia Tech Library invite all to a conversation among science fi
+ ction authors and scientists\, as part of Georgia Tech's celebration of th
+ e International Year of the Periodic Table (IYPT).\n\nIYPT has brought wel
+ l-deserved attention to the periodic table and the chemical elements. As t
+ he world celebrates the 150th anniversary of the periodic table\, chemical
+  elements have never been so central to the global imagination. Just look 
+ at recent blockbuster films revolving around vibranium and infinity stones
+ .\n\nBut did chemical elements really ever go out of style?\n\nModerated b
+ y Charlie Bennett [01]\, this panel discussion brings two scientists and t
+ wo science fiction writers together to explore how science and art have lo
+ ng influenced each other while shaping public understanding of the periodi
+ c table and chemical elements and their role in our everyday lives.\n\nGeo
+ rgia Tech scientists Deirdre Shoemaker [02] and M.G. Finn [03] will have a
+  conversation with Milton J. Davis [04]\, science fiction writer and chemi
+ st\, and Amanda Weiss [05]\, an up-and-coming science fiction author who t
+ eaches Japanese at Georgia Tech. Through their conversation\, we hope to g
+ et a closer look at how new — and sometimes very old! — ideas about ho
+ w the world works circulate through science\, fiction\, and culture at lar
+ ge.\n\nAbout the Discussants\nCharlie Bennett [01] is the public engagemen
+ t librarian and economics specialist at Georgia Tech. He holds a Master’
+ s in Library and Information Science from Valdosta State University\, and 
+ a B.S. in Economics and in Science\, Technology\, and Culture from Georgia
+  Tech. His research interests include the role of the library in civic lif
+ e and scholarly communication to the general public. Bennett produces and 
+ co-hosts the rock’n’roll library show " Lost in the Stacks [06] " and 
+ the talk show " The North Avenue Lounge [07]\, " both on WREK Atlanta\, as
+  well as the media podcast " Supercontext [08]. "\n\nMilton J. Davis [09] 
  is a black speculative fiction writer. He is the author of 17 novels and e
  ditor or co-editor of seven anthologies. He owns MVmedia\, LLC\, a small p
  ublishing company specializing in science fiction\, fantasy\, and "Sword a
@@ -16439,6 +16571,30 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:TBD
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:5th Annual GTMI Internet of Things for Manufacturing (IoTfM) Works
+ hop
+DTSTART;VALUE=DATE-TIME:20191113T140000Z
+DTEND;VALUE=DATE-TIME:20191113T220000Z
+UID:http://hg.gatech.edu/node/627573#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: draft\n\nJo
+ in us for the 5th Annual Internet of Things for Manufacturing (IoTfM) Work
+ shop hosted by the university consistently ranked #1 in the field.\n\nThis
+  is your opportunity to learn from industry leaders about the current stat
+ e of IoTfM and the lessons learned from actual IoTfM implementations. This
+  event draws hundreds of IoT experts and enthusiasts from around the world
+  to exchange ideas about innovations in the sphere of IoTfM and provide le
+ arnings for everyone from beginners to experts.\n\nSign up today to hear f
+ rom major manufacturers about their experiences with IoT and discover how 
+ to get started on your IoT journey\, trouble-shoot common issues and so mu
+ ch more.\n\nAdditional information can be found on the workshop web site (
+ ws19.iotfm.org) or register for the workshop here (ws19.eventbrite.com).\n
+ \nLinks:\n[0]  http://hg.gatech.edu/node/627573#0\n[1]  http://ws19.iotfm.
+ org
+LOCATION:Callaway Manufacturing Building\, Georgia Institute of Technology
+ \, 813 Ferst Drive NW\, Atlanta\, GA 30332
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:November Blender Bike Demo at the Community Market
 DTSTART;VALUE=DATE-TIME:20191113T150000Z
 DTEND;VALUE=DATE-TIME:20191113T190000Z
@@ -16773,31 +16929,30 @@ DTEND;VALUE=DATE-TIME:20191213T010000Z
 UID:http://hg.gatech.edu/node/627176#0
 DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
  , Undergraduate students\nExtras: Free food\, Freebies\nStatus: published\
- n\nFall 2019 Dean's New Graduate Alumni Celebration\n\nCongratulations! Yo
- u are about to earn your graduate degree from Georgia Tech\, and we want t
- o honor your achievement and help you celebrate!\n\nPlease join us for the
-  Dean's New Graduate Alumni Celebration\, to be held Thursday\, December 1
- 2\, 5 p.m. - 8:30 p.m. at Historic Academy of Medicine. Families and gradu
- ates will have the opportunity to mingle with Dean Charles Isbell\, Colleg
- e of Computing professors\, staff and fellow students!\n\n- 5 p.m. - 6:30 
- p.m. - Hors d'oeuvres\, cocktails and registration\n- 6:30 p.m. - 7:30 p.m
- . - Program\n- 7:30 p.m. - 8:30 p.m. - Dessert and coffee\n\nValet parking
-  provided.\n\nPlease RSVP [1] no later than Monday\, December 2\n\nMake a 
- weekend out of your graduation celebration!\n\n- OMSCS New Graduate Campus
-  Tour: Thursday\, December 12\, 3 p.m. Family and graduation guests welcom
- e. Please RSVP [1] or email b [2] robert@cc.gatech.edu [3] with your expec
- ted number of participants.\n- Ph.D. Commencement: [4] Friday\, December 1
- 3\, 9 a.m. -11 a.m. at McCamish Pavilion [5]. Students need to report for 
- line-up at 8:15 a.m.\n- President's Graduation Celebration [6]: Friday\, D
- ecember 13\, 11 a.m. - 1 p.m.\, Student Center. No RSVP required.\n- Maste
- r's Commencement [4]: Friday\, December\, 13 p.m. - 5:30 p.m. at McCamish 
- Pavilion [5]. Students need to report for line-up at 2 p.m.\n\nLinks:\n[0]
-   http://hg.gatech.edu/node/627176#0\n[1]  https://gatech.co1.qualtrics.co
- m/jfe/form/SV_3WBYhjiUbmHfvlb\n[2]  baiello@cc.gatech.edu\n[3]  http://bro
- bert@cc.gatech.edu/\n[4]  http://www.commencement.gatech.edu/schedule\n[5]
-   http://www.commencement.gatech.edu/venue-information\n[6]  http://www.co
- mmencement.gatech.edu/presidents-graduation-celebration\n[7]  https://acad
- emy.gatech.edu/
+ n\nCongratulations! You are about to earn your graduate degree from Georgi
+ a Tech\, and we want to honor your achievement and help you celebrate!\n\n
+ Please join us for the Dean's New Graduate Alumni Celebration\, to be held
+  Thursday\, December 12\, 5 p.m. - 8:30 p.m. at Historic Academy of Medici
+ ne. Families and graduates will have the opportunity to mingle with Dean C
+ harles Isbell\, College of Computing professors\, staff and fellow student
+ s!\n\n- 5 p.m. - 6:30 p.m. - Hors d'oeuvres\, cocktails and registration\n
+ - 6:30 p.m. - 7:30 p.m. - Program\n- 7:30 p.m. - 8:30 p.m. - Dessert and c
+ offee\n\nValet parking provided.\n\nPlease RSVP [1] no later than Monday\,
+  December 2\n\nMake a weekend out of your graduation celebration!\n\n- OMS
+ CS New Graduate Campus Tour: Thursday\, December 12\, 3 p.m. Family and gr
+ aduation guests welcome. Please RSVP [1] or email b [2] robert@cc.gatech.e
+ du [3] with your expected number of participants.\n- Ph.D. Commencement: [
+ 4] Friday\, December 13\, 9 a.m. -11 a.m. at McCamish Pavilion [5]. Studen
+ ts need to report for line-up at 8:15 a.m.\n- President's Graduation Celeb
+ ration [6]: Friday\, December 13\, 11 a.m. - 1 p.m.\, Student Center. No R
+ SVP required.\n- Master's Commencement [4]: Friday\, December\, 13 p.m. - 
+ 5:30 p.m. at McCamish Pavilion [5]. Students need to report for line-up at
+  2 p.m.\n\nLinks:\n[0]  http://hg.gatech.edu/node/627176#0\n[1]  https://g
+ atech.co1.qualtrics.com/jfe/form/SV_3WBYhjiUbmHfvlb\n[2]  baiello@cc.gatec
+ h.edu\n[3]  http://brobert@cc.gatech.edu/\n[4]  http://www.commencement.ga
+ tech.edu/schedule\n[5]  http://www.commencement.gatech.edu/venue-informati
+ on\n[6]  http://www.commencement.gatech.edu/presidents-graduation-celebrat
+ ion\n[7]  https://academy.gatech.edu/
 LOCATION:Academy of Medicine
 END:VEVENT
 BEGIN:VEVENT
@@ -16826,34 +16981,33 @@ DTEND;VALUE=DATE-TIME:20191213T200000Z
 UID:http://hg.gatech.edu/node/627184#0
 DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
  , Undergraduate students\nExtras: Free food\, Freebies\nStatus: published\
- n\nFall 2019 Dean's New Undergraduate Alumni Celebration\n\nCongratulation
- s to another class of graduates\, who will soon become part of the thousan
- ds of GT Computing alumni spread around the world. We'd like to help our n
- ewest alumni mark the occasion at the Fall 2019 Dean's New Alumni Celebrat
- ion!\n\nPlease join us Friday\, December 13 from noon - 2:30 p.m. in the K
- laus Advanced Computing Building Atrium. Families and graduates will have 
- an opportunity to take photos\, meet administrators\, faculty\, and staff\
- , and share in unique traditions that make the College of Computing a spec
- ial place among Georgia Tech's colleges. RSVP [1] s required for students 
- and their guests (up to 5 guests per student).\n\n- Noon - 12:30 p.m. - Re
- gistration for graduating students\n- 12:30 p.m. - 1:30 p.m. - Program\n- 
- 1:30 p.m. - 2:30 p.m. - Lunch reception\n- Before our celebration\, gradua
- tes and families are encouraged to make a day of it:\n\nGeorgia Tech's Pre
- sident's Graduation Celebration [2] is scheduled for 11 a.m. - 1 p.m. on t
- he Tech Green. No RSVP is required.\n\nClick here for Commencement Parking
-  and Transit. [3]\n\nClick here for more parking lots [4].\n\nBachelor's C
- ommencement: [5] Saturday\, December 14\, 9 a.m. - 11:30 a.m.\, McCamish P
- avilion [6]. Graduating students must arrive no later than 7:30 - 8 a.m.!\
- n\nIf you are unable to attend Georgia Tech's Commencement\, please tune i
- n here: [7]\n\nWe wish all of our graduates and their guests a happy and e
- njoyable day\, and look forward to celebrating with each and every one of 
- you!\n\nLinks:\n[0]  http://hg.gatech.edu/node/627184#0\n[1]  https://link
-  below. https://gatech.co1.qualtrics.com/jfe/form/SV_4VeSp9BA8lwv2mh\n[2] 
-  http://www.commencement.gatech.edu/presidents-graduation-celebration\n[3]
-   http://www.commencement.gatech.edu/parking-and-transit\n[4]  https://pts
- .gatech.edu/visitors#l3\n[5]  http://www.commencement.gatech.edu/schedule\
- n[6]  http://www.commencement.gatech.edu/venue-information\n[7]  http://ww
- w.commencement.gatech.edu/live
+ n\nCongratulations to another class of graduates\, who will soon become pa
+ rt of the thousands of GT Computing alumni spread around the world. We'd l
+ ike to help our newest alumni mark the occasion at the Fall 2019 Dean's Ne
+ w Alumni Celebration!\n\nPlease join us Friday\, December 13 from noon - 2
+ :30 p.m. in the Klaus Advanced Computing Building Atrium. Families and gra
+ duates will have an opportunity to take photos\, meet administrators\, fac
+ ulty\, and staff\, and share in unique traditions that make the College of
+  Computing a special place among Georgia Tech's colleges. RSVP [1] s requi
+ red for students and their guests (up to 5 guests per student).\n\n- Noon 
+ - 12:30 p.m. - Registration for graduating students\n- 12:30 p.m. - 1:30 p
+ .m. - Program\n- 1:30 p.m. - 2:30 p.m. - Lunch reception\n- Before our cel
+ ebration\, graduates and families are encouraged to make a day of it:\n\nG
+ eorgia Tech's President's Graduation Celebration [2] is scheduled for 11 a
+ .m. - 1 p.m. on the Tech Green. No RSVP is required.\n\nClick here for Com
+ mencement Parking and Transit. [3]\n\nClick here for more parking lots [4]
+ .\n\nBachelor's Commencement: [5] Saturday\, December 14\, 9 a.m. - 11:30 
+ a.m.\, McCamish Pavilion [6]. Graduating students must arrive no later tha
+ n 7:30 - 8 a.m.!\n\nIf you are unable to attend Georgia Tech's Commencemen
+ t\, please tune in here: [7]\n\nWe wish all of our graduates and their gue
+ sts a happy and enjoyable day\, and look forward to celebrating with each 
+ and every one of you!\n\nLinks:\n[0]  http://hg.gatech.edu/node/627184#0\n
+ [1]  https://link below. https://gatech.co1.qualtrics.com/jfe/form/SV_4VeS
+ p9BA8lwv2mh\n[2]  http://www.commencement.gatech.edu/presidents-graduation
+ -celebration\n[3]  http://www.commencement.gatech.edu/parking-and-transit\
+ n[4]  https://pts.gatech.edu/visitors#l3\n[5]  http://www.commencement.gat
+ ech.edu/schedule\n[6]  http://www.commencement.gatech.edu/venue-informatio
+ n\n[7]  http://www.commencement.gatech.edu/live
 LOCATION:Klaus Atrium
 END:VEVENT
 BEGIN:VEVENT
