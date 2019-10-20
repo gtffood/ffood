@@ -435,6 +435,21 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Kessler Campanile
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:DILAC Dean's Showcase
+DTSTART;VALUE=DATE-TIME:20190424T190000Z
+DTEND;VALUE=DATE-TIME:20190424T210000Z
+UID:http://hg.gatech.edu/node/620812#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\, Freebies\nStatus: 
+ published\n\nDILAC Dean's Showcase\n\nSkiles 318\, Wednesday\, April 24\, 
+ 3 - 5 p.m.\n\nJoin DILAC\, the Digital Integrative Liberal Arts Centers\, 
+ for an afternoon of food\, drinks\, and a showcase of faculty and lab proj
+ ects from the 2018-2019 academic year.\n\nCheck out the attached flyer for
+  a full listing of the projects that will be showcased.\n\nLinks:\n[0]  ht
+ tp://hg.gatech.edu/node/620812#0\n[1]  http://hg.gatech.edu/node/620315#0
+LOCATION:Skiles 318
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Stressbuzzters at the Library
 DTSTART;VALUE=DATE-TIME:20190424T190000Z
 DTEND;VALUE=DATE-TIME:20190424T210000Z
@@ -1170,12 +1185,12 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  d Frost - Professor\, Civil & Environmental Engineering\nLalith Polepeddi 
  - Research Scientist\nTim Cone - Program Director\, CEISMC\nJayma Koval - 
  Research Faculty\, CEISMC\n\nLinks:\n[0]  http://hg.gatech.edu/node/621384
- #0\n[1]  https://www.sealevelsensors.org/\n[2]  https://gatech.edu\n[3]  h
- ttps://bit.ly/2V8Y7lm\n[4]  https://www.sealevelsensors.org/about/\n[5]  h
- ttp://smartcities.gatech.edu/georgia-smart\n[6]  https://www.eventbrite.co
- m/e/smart-sea-level-sensors-expo-tickets-60325267499?fbclid=IwAR2IlPorBbRe
- 7Hru0mtpLla3xH_kDTwG4c4bF3AuUW71TKU0-iARHLVgysY\n[7]  https://www.telfair.
- org/visit/jepson-center/
+ #0\n[1]  https://www.sealevelsensors.org/\n[2]  http://gatech.edu\n[3]  ht
+ tps://bit.ly/2V8Y7lm\n[4]  https://www.sealevelsensors.org/about/\n[5]  ht
+ tp://smartcities.gatech.edu/georgia-smart\n[6]  https://www.eventbrite.com
+ /e/smart-sea-level-sensors-expo-tickets-60325267499?fbclid=IwAR2IlPorBbRe7
+ Hru0mtpLla3xH_kDTwG4c4bF3AuUW71TKU0-iARHLVgysY\n[7]  https://www.telfair.o
+ rg/visit/jepson-center/
 LOCATION:Jepson Center for the Arts\, 207 West York Street\, Savannah\, GA
   31401
 END:VEVENT
@@ -2509,11 +2524,17 @@ SUMMARY:Dining Services Faculty/Staff Appreciation Lunch
 DTSTART;VALUE=DATE-TIME:20190808T143000Z
 DTEND;VALUE=DATE-TIME:20190808T183000Z
 UID:http://hg.gatech.edu/node/624023#0
-DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nFor $5 
- Georgia Tech staff and faculty will enjoy the Fried Chicken Thursday menu 
- as well as many other options. Enjoy prize giveaways and information about
-  the Faculty & Staff Dining Funds!\n\nLinks:\n[0]  http://hg.gatech.edu/no
- de/624023#0\n[1]  https://georgiatech.campusdish.com/
+DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Freebies\nStatus: pu
+ blished\n\nFor $5 Georgia Tech staff and faculty will enjoy the Fried Chic
+ ken Thursday menu as well as many other options. Enjoy prize giveaways and
+  information about the Faculty & Staff Dining Funds!\n\nJoin fellow facult
+ y and staff at North Avenue Dining Hall on August 8 from 10:30 a.m. to 2:3
+ 0 p.m. for an appreciation lunch from Georgia Tech Dining Services. The do
+ or rate is $5 and they'll be offering the Fried Chicken Thursday menu as w
+ ell as many other options. Enjoy prize giveaways and information about the
+  Faculty & Staff Dining Funds!\n\nLinks:\n[0]  http://hg.gatech.edu/node/6
+ 24023#0\n[1]  http://hg.gatech.edu/node/623999#0\n[2]  https://georgiatech
+ .campusdish.com/
 LOCATION:North Avenue Dining Hall
 END:VEVENT
 BEGIN:VEVENT
@@ -4948,13 +4969,18 @@ BEGIN:VEVENT
 SUMMARY:Chinese Student Welcome Party
 DTSTART;VALUE=DATE-TIME:20190823T220000Z
 DTEND;VALUE=DATE-TIME:20190824T020000Z
-UID:https://gatech.campuslabs.com/engage/event/4491728
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nIt's a wel
- come party mainly for the new Chinese students. Some team-building activit
- ies and the introduction of the fellowship will be held to them. http://u8
- 3743.viewer.maka.im/ k/YBFZCNI9W83743?from= groupmessage&isappinstalled=0\
- n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/4491728
-LOCATION:student succThe Bill Moore Student Success Centeress center
+UID:http://hg.gatech.edu/node/623693#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free Stuff\, Free food\, Freeb
+ ies\nStatus: published\n\nChinese Christian Fellowship hosts a welcome par
+ ty mainly for new Chinese students. Some team-building activities and the 
+ introduction of the fellowship will take place.\n\nIt's a welcome party ma
+ inly for the new Chinese students. Some team-building activities and the i
+ ntroduction of the fellowship will be held to them. http://u83743.viewer.m
+ aka.im/ k/YBFZCNI9W83743?from= groupmessage&isappinstalled=0\n\nLinks:\n[0
+ ]  http://hg.gatech.edu/node/623693#0\n[1]  https://gatech.campuslabs.com/
+ engage/event/4491728
+LOCATION:Festival Level\, Bill Moore Student Success Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grocery Bingo Night at Tech Rec
@@ -5000,14 +5026,21 @@ BEGIN:VEVENT
 SUMMARY:Meet Greet N' Munch
 DTSTART;VALUE=DATE-TIME:20190824T220000Z
 DTEND;VALUE=DATE-TIME:20190825T013000Z
-UID:https://gatech.campuslabs.com/engage/event/4776793
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nMeet Greet
-  N' Munch is the first socail event in the Fall 2019 hosted by Asha for Ed
- ucation GT chapter for welocming the new students on campus. We will have 
- fun games\, including a spin off of the famous game Family Feud\, a GT tri
- via and karaoke night. Expect some delicious Indian snacks too!\n\nLinks:\
- n[0]  https://gatech.campuslabs.com/engage/event/4776793
-LOCATION:Activity roon\, 10th and Home
+UID:http://hg.gatech.edu/node/624695#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\, Free Stuff\nStatus: published\n\nMeet Greet N' Munch 
+ is the first social event in the Fall 2019 hosted by Asha for Education GT
+  chapter for welcoming the new students on campus. We will have fun games\
+ , including a spinoff of the famous game Family Feud\, a GT trivia and kar
+ aoke night. Expect some delicious Indian snacks too!\n\nMeet Greet N' Munc
+ h is the first socail event in the Fall 2019 hosted by Asha for Education 
+ GT chapter for welocming the new students on campus. We will have fun game
+ s\, including a spin off of the famous game Family Feud\, a GT trivia and 
+ karaoke night. Expect some delicious Indian snacks too!\n\nLinks:\n[0]  ht
+ tp://hg.gatech.edu/node/624695#0\n[1]  https://gatech.campuslabs.com/engag
+ e/event/4776793\n[2]  https://gatech.campuslabs.com/engage/actioncenter/or
+ ganization/asha-for-education
+LOCATION:Activity Room\, 10th and Home\, 251 10th St NW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CANCELED: Second Saturday
@@ -5671,27 +5704,45 @@ BEGIN:VEVENT
 SUMMARY:GT Off-Road Information Session
 DTSTART;VALUE=DATE-TIME:20190828T220000Z
 DTEND;VALUE=DATE-TIME:20190828T230000Z
-UID:https://gatech.campuslabs.com/engage/event/4824558
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nGT Off-Road (Baja SAE) 
- is recruiting new members!\n\nGT Off-Road is a student competition team at
-  Georgia Tech that participates in the Baja SAE design competition. Each y
- ear\, our team designs and builds a single seat off road vehicle that is c
- apable of tackling mud pits\, rock climbs\, river crossings\, and myriad o
- f other obstacles. Innovations in suspension\, chassis\, and drivetrain de
- sign lead us to victories and awards at our three annual national competit
- ions.\n\nGT Off-Road is currently seeking new members to join our team fro
- m all Majors. If you want to experience hands on engineering from design\,
-  to fabrication\, to application (that means racing)\, then GT Off-Road is
-  for you. It takes countless hours and unparalleled dedication to maintain
-  a competitive team\, and we need every hand to accomplish our goals. Give
-  us a chance to show you how a professional racing team in a rigorous comp
- etition scenario brings innovative ideas to the dirt.\n\nIf interested\, a
- ttend one of the following info sessions:\n\n-Wednesday\, August 28th. 6 p
- m - 7 pm (255 Classroom Skiles)\n\n-Thursday\, August 29th. 6 pm - 7 pm (2
- 46 Classroom Skiles)\n\nPlease RSVP for an info session here: [1]\n\nLinks
- :\n[0]  https://gatech.campuslabs.com/engage/event/4824558\n[1]  https://f
- orms.gle/BwiD5tDPxpnY9sbY6
-LOCATION: Skiles 255 Classroom
+UID:http://hg.gatech.edu/node/625074#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nGT Off-Road (Baja SAE) is recruit
+ ing new members!\n\nGT Off-Road is a student competition team at Georgia T
+ ech that participates in the Baja SAE design competition. Each year\, our 
+ team designs and builds a single seat off road vehicle that is capable of 
+ tackling mud pits\, rock climbs\, river crossings\, and myriad of other ob
+ stacles. Innovations in suspension\, chassis\, and drivetrain design lead 
+ us to victories and awards at our three annual national competitions.\n\nG
+ T Off-Road is currently seeking new members to join our team from all Majo
+ rs. If you want to experience hands on engineering from design\, to fabric
+ ation\, to application (that means racing)\, then GT Off-Road is for you. 
+ It takes countless hours and unparalleled dedication to maintain a competi
+ tive team\, and we need every hand to accomplish our goals.\n\nGive us a c
+ hance to show you how a professional racing team in a rigorous competition
+  scenario brings innovative ideas to the dirt. If interested\, attend one 
+ of the following info sessions ( and RSVP here [2] ):\n\n- Wednesday\, Aug
+ ust 28th. 6 pm - 7 pm (255 Classroom Skiles)\n- Thursday\, August 29th. 6 
+ pm - 7 pm (246 Classroom Skiles)\n\nGT Off-Road (Baja SAE) is recruiting n
+ ew members!\n\nGT Off-Road is a student competition team at Georgia Tech t
+ hat participates in the Baja SAE design competition. Each year\, our team 
+ designs and builds a single seat off road vehicle that is capable of tackl
+ ing mud pits\, rock climbs\, river crossings\, and myriad of other obstacl
+ es. Innovations in suspension\, chassis\, and drivetrain design lead us to
+  victories and awards at our three annual national competitions.\n\nGT Off
+ -Road is currently seeking new members to join our team from all Majors. I
+ f you want to experience hands on engineering from design\, to fabrication
+ \, to application (that means racing)\, then GT Off-Road is for you. It ta
+ kes countless hours and unparalleled dedication to maintain a competitive 
+ team\, and we need every hand to accomplish our goals. Give us a chance to
+  show you how a professional racing team in a rigorous competition scenari
+ o brings innovative ideas to the dirt.\n\nIf interested\, attend one of th
+ e following info sessions:\n\n-Wednesday\, August 28th. 6 pm - 7 pm (255 C
+ lassroom Skiles)\n\n-Thursday\, August 29th. 6 pm - 7 pm (246 Classroom Sk
+ iles)\n\nPlease RSVP for an info session here: [2]\n\nLinks:\n[0]  http://
+ hg.gatech.edu/node/625074#0\n[1]  https://gatech.campuslabs.com/engage/eve
+ nt/4824558\n[2]  https://forms.gle/BwiD5tDPxpnY9sbY6\n[3]  https://gatech.
+ campuslabs.com/engage/organization/off-road
+LOCATION:Room 255\, Skiles Building
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LGBTQIA Student Welcome Reception
@@ -5751,12 +5802,14 @@ BEGIN:VEVENT
 SUMMARY:Transfer Student Innovation Networking Session
 DTSTART;VALUE=DATE-TIME:20190829T144500Z
 DTEND;VALUE=DATE-TIME:20190829T154500Z
-UID:https://gatech.campuslabs.com/engage/event/4829044
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nInterested
-  in innovation\, startups or entrepreneurship?\n\nJoin us for interactive 
- session where you will be able to network with various entrepreneurial pro
- grams across campus.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/
- event/4829044
+UID:http://hg.gatech.edu/node/625241#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free Food\, Free Stuff\nStatus: published\n\nInterested in i
+ nnovation\, startups or entrepreneurship?\n\nJoin us for interactive sessi
+ on where you will be able to network with various entrepreneurial programs
+  across campus.\n\nLinks:\n[0]  http://hg.gatech.edu/node/625241#0\n[1]  h
+ ttps://gatech.campuslabs.com/engage/event/4829044\n[2]  http://innovation.
+ cae.gatech.edu/home
 LOCATION:Klaus 2448 (classroom wing)
 END:VEVENT
 BEGIN:VEVENT
@@ -6021,12 +6074,38 @@ DESCRIPTION:Intended audience: Graduate students\, Postdoc\, Undergraduate
  ata engineers\n- Cloud engineers\n- DevOps engineers\n- Security engineers
  \n- NLP and AI engineers\n- Data science analysts\n- Business intelligence
  \n- Speech research scientists\n- Business analytics specialists\n\nClick 
- HERE [1] to view open roles!\n\nTechnologies We Use\n- Amazon Web Services
+ HERE [3] to view open roles!\n\nTechnologies We Use\n- Amazon Web Services
  ™ (AWS)\n- JavaScript™\n- C#\n- Java™\n- Angular\n- Typescript\n- Py
  thon®\n- R\n- SQL\n- Server\n-.NET\n- Jira®\n- Docker®\n- Apache Tomcat
- ®\n- UIMA\n- PowerShell\n- Apache Maven™\n- Jenkins.\n\nLinks:\n[0]  ht
- tp://hg.gatech.edu/node/625112#0\n[1]  http://go.3m.com/careersus
-LOCATION:Klaus 1116 West
+ ®\n- UIMA\n- PowerShell\n- Apache Maven™\n- Jenkins.\n\nTech Talk: Data
+  Science & Software Development @ 3M Applications\, Challenges\, and Oppor
+ tunities\nJoin 3M in Klaus 1116 West to learn more about their innovative 
+ technologies!\n\nBecome a part of 3M!\nWe are recruiting College of Comput
+ ing undergraduate\, masters & PhD students for the following roles:\n\n- S
+ oftware development engineers\n- Data Scientist\n- Data engineers\n- Cloud
+  engineers\n- DevOps engineers\n- Security engineers\n- NLP and AI enginee
+ rs (natural language processing and artificial intelligence)\n- Data scien
+ ce analysts\n- Business intelligence\n- Speech research scientists\n- Busi
+ ness analytics specialists\n\nClick HERE [3] to view open roles!\n\nTechno
+ logies We Use\n- Amazon Web Services™ (AWS)\n- JavaScript™\n- C#\n- Ja
+ va™\n- Angular\n- Typescript\n- Python®\n- R\n- SQL Server\n- NET\n- Ji
+ ra®\n- Docker®\n- Apache Tomcat®\n- UIMA\n- PowerShell\n- Apache Maven
+ ™\n- Jenkins.\n\nTech Talk: Data Science & Software Development @ 3M App
+ lications\, Challenges\, and Opportunities\nJoin 3M in Klaus 1116 West to 
+ learn more about their innovative technologies!\n\nBecome a part of 3M!\nW
+ e are recruiting College of Computing undergraduate\, masters & PhD studen
+ ts for the following roles:\n\n- Software development engineers\n- Data Sc
+ ientist\n- Data engineers\n- Cloud engineers\n- DevOps engineers\n- Securi
+ ty engineers\n- NLP and AI engineers (natural language processing and arti
+ ficial intelligence)\n- Data science analysts\n- Business intelligence\n- 
+ Speech research scientists\n- Business analytics specialists\n\nClick HERE
+  [3] to view open roles!\n\nTechnologies We Use\n- Amazon Web Services™ 
+ (AWS)\n- JavaScript™\n- C#\n- Java™\n- Angular\n- Typescript\n- Python
+ ®\n- R\n- SQL Server\n- NET\n- Jira®\n- Docker®\n- Apache Tomcat®\n- U
+ IMA\n- PowerShell\n- Apache Maven™\n- Jenkins.\n\nLinks:\n[0]  http://hg
+ .gatech.edu/node/625112#0\n[1]  http://hg.gatech.edu/node/624962#0\n[2]  h
+ ttp://hg.gatech.edu/node/625092#0\n[3]  http://go.3m.com/careersus
+LOCATION:6:30pm-8pm Klaus 1116 West
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New/Prospective Members Info Session
@@ -6083,14 +6162,19 @@ BEGIN:VEVENT
 SUMMARY:First Georgia Tech Esports Meeting
 DTSTART;VALUE=DATE-TIME:20190830T223000Z
 DTEND;VALUE=DATE-TIME:20190831T000000Z
-UID:https://gatech.campuslabs.com/engage/event/4839514
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nGeorgia Te
- ch Esports is having our first meeting of the year this Friday at 6:30pm i
- n Klaus Building room 1447. Stop by for free pizza & giveaways\, and to le
- arn more about how to join our competitive teams.\n\nJoin our Discord serv
- er to learn more: [1]\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage
- /event/4839514\n[1]  https://discord.gg/gtesports
-LOCATION:Klaus Building Room 1447
+UID:http://hg.gatech.edu/node/625310#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\, Free Stuff\nStatus: published\n\nGeorgia Tech Esports
+  is having our first meeting of the year this Friday at 6:30pm in Klaus Bu
+ ilding room 1447. Stop by for free pizza & giveaways\, and to learn more a
+ bout how to join our competitive teams. Join our Discord server to learn m
+ ore: [2]\n\nGeorgia Tech Esports is having our first meeting of the year t
+ his Friday at 6:30pm in Klaus Building room 1447. Stop by for free pizza &
+  giveaways\, and to learn more about how to join our competitive teams.\n\
+ nJoin our Discord server to learn more: [2]\n\nLinks:\n[0]  http://hg.gate
+ ch.edu/node/625310#0\n[1]  https://gatech.campuslabs.com/engage/event/4839
+ 514\n[2]  https://discord.gg/gtesports
+LOCATION:Room 1447\, Klaus Advanced Computing Building
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga for the Soul
@@ -6584,11 +6668,16 @@ BEGIN:VEVENT
 SUMMARY:Meditation and Pizza
 DTSTART;VALUE=DATE-TIME:20190905T170000Z
 DTEND;VALUE=DATE-TIME:20190905T180000Z
-UID:https://gatech.campuslabs.com/engage/event/4810966
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for free Medita
- tion and Pizza\, all you need to have during the break!\n\nLinks:\n[0]  ht
- tps://gatech.campuslabs.com/engage/event/4810966
-LOCATION:Piedmont Room\, Student Center
+UID:http://hg.gatech.edu/node/625091#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nJoin us for free meditation and pizza\, all you need to have during the 
+ break!\n\nJoin us for free Meditation and Pizza\, all you need to have dur
+ ing the break!\n\nLinks:\n[0]  http://hg.gatech.edu/node/625091#0\n[1]  ht
+ tps://gatech.campuslabs.com/engage/event/4810966\n[2]  https://www.faceboo
+ k.com/skyatgt/?ref=aymt_homepage_panel&eid=ARBumr_epGYvs5d9LtdpmqepB1Dxi4g
+ JjHP-EkZXNoZev1QGbXkefA36NkcoPcvwPK2us-7XotkDkgUQ
+LOCATION:Student Center Piedmont Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Change Accelerator Info Session
@@ -6837,19 +6926,22 @@ BEGIN:VEVENT
 SUMMARY:Strings of Hope
 DTSTART;VALUE=DATE-TIME:20190906T230000Z
 DTEND;VALUE=DATE-TIME:20190907T010000Z
-UID:https://gatech.campuslabs.com/engage/event/4825133
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAsha for Education – 
- Atlanta proudly presents Strings of Hope\, a magical musical night that ta
- kes you on a unique journey encompassing the pure and serene beauty of Ind
- ian Classical Music. The performances of the night feature the Sarod\, a t
- raditional yet highly versatile Indian Classical Acoustic String Instrumen
- t. We are honored to host in Atlanta the internationally renowned sarod ar
- tist and a two-time GIMA (Global Indian Music Awards) nominee\, Abhisek La
- hiri. He is one of the youngest President’s Award Winning "A" grade saro
- d artist of All India Radio and a recipient of the "Rashtriya Gaurav" awar
- d. Come\, dive into the world of classical music and help us quench the As
- ha or hopes of these innocent kids.\n\nLinks:\n[0]  https://gatech.campusl
- abs.com/engage/event/4825133
+UID:http://hg.gatech.edu/node/625295#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nAsha for Education – Atlanta pr
+ oudly presents Strings of Hope\, a magical musical night that takes you on
+  a unique journey encompassing the pure and serene beauty of Indian Classi
+ cal Music. The performances of the night feature the Sarod\, a traditional
+  yet highly versatile Indian Classical Acoustic String Instrument. We are 
+ honored to host in Atlanta the internationally renowned sarod artist and a
+  two-time GIMA (Global Indian Music Awards) nominee\, Abhisek Lahiri. He i
+ s one of the youngest President’s Award Winning "A" grade sarod artist o
+ f All India Radio and a recipient of the "Rashtriya Gaurav" award. Come\, 
+ dive into the world of classical music and help us quench the Asha or hope
+ s of these innocent kids.\n\nLinks:\n[0]  http://hg.gatech.edu/node/625295
+ #0\n[1]  https://gatech.campuslabs.com/engage/event/4825133\n[2]  https://
+ gatech.campuslabs.com/engage/organization/asha-for-education\n[3]  https:/
+ /www.facebook.com/events/827960807652742/
 LOCATION:Student Center Theater
 END:VEVENT
 BEGIN:VEVENT
@@ -7038,13 +7130,18 @@ BEGIN:VEVENT
 SUMMARY:CREATE-X Startup Ideas
 DTSTART;VALUE=DATE-TIME:20190909T210000Z
 DTEND;VALUE=DATE-TIME:20190909T223000Z
-UID:https://gatech.campuslabs.com/engage/event/4824817
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nIf you're planning to a
- pply to Startup Launch\, come share your ideas with members of the selecti
- on team to gain instant feedback and learn more about Startup Launch. This
-  is a great opportunity to both pitch your ideas and meet potential co-fou
- nders.\n\nRefreshments will be served.\n\nLinks:\n[0]  https://gatech.camp
- uslabs.com/engage/event/4824817
+UID:http://hg.gatech.edu/node/625552#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nExtras: Free food\nStatus: published\n\nIf you'
+ re planning to apply to Startup Launch\, come share your ideas with member
+ s of the selection committee to gain instant feedback\, and learn more abo
+ ut Startup Launch. This is a great opportunity to pitch your ideas and mee
+ t potential co-founders.\n\nIf you're planning to apply to Startup Launch\
+ , come share your ideas with members of the selection team to gain instant
+  feedback and learn more about Startup Launch. This is a great opportunity
+  to both pitch your ideas and meet potential co-founders.\n\nRefreshments 
+ will be served.\n\nLinks:\n[0]  http://hg.gatech.edu/node/625552#0\n[1]  h
+ ttps://gatech.campuslabs.com/engage/event/4824817
 LOCATION:Klaus Advanced Computing Building Room 2448
 END:VEVENT
 BEGIN:VEVENT
@@ -7346,11 +7443,15 @@ BEGIN:VEVENT
 SUMMARY:Canning Meeting
 DTSTART;VALUE=DATE-TIME:20190910T220000Z
 DTEND;VALUE=DATE-TIME:20190910T230000Z
-UID:https://gatech.campuslabs.com/engage/event/4892864
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us Tuesday as we l
- earn about the magical world of canning!\n\nLinks:\n[0]  https://gatech.ca
- mpuslabs.com/engage/event/4892864
-LOCATION:Skiles 170
+UID:http://hg.gatech.edu/node/625958#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nExtras: Free Food\nStatus: published\n\nHosted 
+ by the Molecular Gastronomists\n\nJoin us as we learn about the magical wo
+ rld of canning!\n\nJoin us Tuesday as we learn about the magical world of 
+ canning!\n\nLinks:\n[0]  http://hg.gatech.edu/node/625958#0\n[1]  https://
+ gatech.campuslabs.com/engage/event/4892864\n[2]  https://www.facebook.com/
+ MoGaGT/
+LOCATION:Room 170\, Skiles Building
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fall Kickoff & Presentation from Sara Arnold\, Partnership Service
@@ -8035,20 +8136,22 @@ BEGIN:VEVENT
 SUMMARY:Chocolate and Meditation
 DTSTART;VALUE=DATE-TIME:20190912T220000Z
 DTEND;VALUE=DATE-TIME:20190912T230000Z
-UID:https://gatech.campuslabs.com/engage/event/4906729
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nYou may have eaten choc
- olate before\, but have you experienced chocolate?\n\nSKY offers an intera
- ctive session on meditation. The idea of this session is that meditation n
- ot only centers you\, but it heightens your senses. Join us for this amazi
- ng session where we will guide you into a short\, relaxing meditation foll
- owed by delicious chocolate tasting giving you a tantalizing and refreshin
- g experience.\n\nWhat can you expect in the session?\n1) Relaxation throug
- h the breath\n2) Insights into the nature of mind and power of senses\n3) 
- Guided meditation using chocolate\n4) Question & answer session\n\nWhen: T
- hursday\, Sept 12th at 6:00 pm\nWhere: Pine Room\, Student Center\nWhy: To
-  experience chocolate in a way you never have before!\n\nWe look forward t
- o seeing you there!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/e
- vent/4906729
+UID:http://hg.gatech.edu/node/626003#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nYou may have eaten chocolate befo
+ re\, but have you experienced chocolate?\n\nSKY offers an interactive sess
+ ion on meditation. The idea of this session is that meditation not only ce
+ nters you\, but it heightens your senses. Join us for this amazing session
+  where we will guide you into a short\, relaxing meditation followed by de
+ licious chocolate tasting giving you a tantalizing and refreshing experien
+ ce.\n\nWhat can you expect in the session?\n1) Relaxation through the brea
+ th\n2) Insights into the nature of mind and power of senses\n3) Guided med
+ itation using chocolate\n4) Question & answer session\n\nWhen: Thursday\, 
+ Sept 12th at 6:00 pm\nWhere: Pine Room\, Student Center\nWhy: To experienc
+ e chocolate in a way you never have before!\n\nWe look forward to seeing y
+ ou there!\n\nLinks:\n[0]  http://hg.gatech.edu/node/626003#0\n[1]  https:/
+ /gatech.campuslabs.com/engage/event/4906729\n[2]  https://gatech.campuslab
+ s.com/engage/organization/sky
 LOCATION:Pine Room\, Student Center
 END:VEVENT
 BEGIN:VEVENT
@@ -8120,15 +8223,18 @@ BEGIN:VEVENT
 SUMMARY:The Paper Airplane Workshop
 DTSTART;VALUE=DATE-TIME:20190912T223000Z
 DTEND;VALUE=DATE-TIME:20190913T000000Z
-UID:https://gatech.campuslabs.com/engage/event/4883203
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nIs it a bi
- rd? Is it a plane? Or is it something else?\nJoin OpenIDEO in our explorat
- ion of community\, communication\, and collaboration with the lens of pape
- r airplanes.\nCome out for a night of fun\, networking\, food\, and more!\
- n\nHere's the link to the Facebook event: [1]\n\nLinks:\n[0]  https://gate
- ch.campuslabs.com/engage/event/4883203\n[1]  https://www.facebook.com/even
- ts/1117728638412943
-LOCATION:Design Bloc
+UID:http://hg.gatech.edu/node/625874#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
+ aduate students\nExtras: Free Stuff\, Free food\, Freebies\nStatus: publis
+ hed\n\nIs it a bird? Is it a plane? Or is it something else?\nJoin OpenIDE
+ O in our exploration of community\, communication\, and collaboration with
+  the lens of paper airplanes.\nCome out for a night of fun\, networking\, 
+ food\, and more!\n\nHere's the link to the Facebook event: [2]\n\nLinks:\n
+ [0]  http://hg.gatech.edu/node/625874#0\n[1]  https://gatech.campuslabs.co
+ m/engage/event/4883203\n[2]  https://www.facebook.com/events/1117728638412
+ 943
+LOCATION:Design Bloc (Woodruff Residence Hall)\, 890 Curran St NW\, Atlant
+ a\, GA 30318
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fresh Check Day
@@ -8175,15 +8281,25 @@ BEGIN:VEVENT
 SUMMARY:Petit Entrepreneurship Academy Seminar Series
 DTSTART;VALUE=DATE-TIME:20190913T153000Z
 DTEND;VALUE=DATE-TIME:20190913T163000Z
-UID:http://hg.gatech.edu/node/625378#0
+UID:http://hg.gatech.edu/node/627763#0
 DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  \, Public\, Undergraduate students\nStatus: published\n\nHelping GT entrep
- reneurs learn how to fund and commercialize their technology\n\n"Networkin
- g for Entrepreneurs and How to Give an Effective Elevator Pitch"\n\nPresen
- ted by:\n\nKirk Barnes\n\nJane McCracken\nAssistant Director\, ATDC\n\nRef
- reshments provided.\n\nRSVP required [1] - open to all in GT's bio-communi
- ty\n\nLinks:\n[0]  http://hg.gatech.edu/node/625378#0\n[1]  https://forms.
- gle/zcJ13e3Td8HLWyb39\n[2]  http://petitinstitute.gatech.edu/
+ reneurs learn how to fund and commercialize their technology\n\n“The I-C
+ ORPS Experience: Hear First-hand from Your Colleagues”\n\nPresenting\nPh
+ asBio\nCytomatrix\nHuxley Medical\n\nLunch provided\, RSVP required [2] - 
+ Open to all in GT's bio-community.\n\nCan't make it to the talk? View live
+ stream [3]\n\nSupport for this series provided by the Parker H. Petit Insi
+ tute for Bioengineering and Bioscience and VentureLab.\n\nHelping GT entre
+ preneurs learn how to fund and commercialize their technology\n\n"Networki
+ ng for Entrepreneurs and How to Give an Effective Elevator Pitch"\n\nPrese
+ nted by:\n\nKirk Barnes\n\nJane McCracken\nAssistant Director\, ATDC\n\nRe
+ freshments provided.\n\nRSVP required [4] - open to all in GT's bio-commun
+ ity\n\nLinks:\n[0]  http://hg.gatech.edu/node/627763#0\n[1]  http://hg.gat
+ ech.edu/node/625378#0\n[2]  https://docs.google.com/forms/d/e/1FAIpQLSexkB
+ 4FwstqKs8mRsOxqnDR0h_1pCdToIhcuZWYmBW5qMe0qQ/viewform\n[3]  https://blueje
+ ans.com/230625936?src=join_info\n[4]  https://forms.gle/zcJ13e3Td8HLWyb39\
+ n[5]  http://petitinstitute.gatech.edu/\n[6]  https://venturelab.gatech.ed
+ u/
 LOCATION:Parker H. Petit Institute for Bioengineering and Bioscience\, Roo
  m 1128
 END:VEVENT
@@ -8417,16 +8533,25 @@ BEGIN:VEVENT
 SUMMARY:Stretch out the Stress
 DTSTART;VALUE=DATE-TIME:20190916T223000Z
 DTEND;VALUE=DATE-TIME:20190916T233000Z
-UID:https://gatech.campuslabs.com/engage/event/4810781
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nSKY at Georgia Tech inv
- ites you to discover Yoga!\n\nIn this amazing session\, we will discover y
- oga beyond just physical exercise. We will unravel how Yoga is a way to un
- ite the mind\, body and spirit through a combination of asanas (yogic stre
- tches)\, breathing exercises and meditation. We explore how Yoga helps us 
- develop "Skill in Action" and reduce stress\, anxiety and depression leadi
- ng us to a relaxed\, productive and joyful state of mind.\n\nWe will be se
- rving refreshments as well.\n\nLinks:\n[0]  https://gatech.campuslabs.com/
- engage/event/4810781
+UID:http://hg.gatech.edu/node/625715#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nSKY at Georgia Tech invites you t
+ o discover Yoga!\n\nIn this amazing session\, we will discover yoga beyond
+  just physical exercise. We will unravel how Yoga is a way to unite the mi
+ nd\, body and spirit through a combination of asanas (yogic stretches)\, b
+ reathing exercises and meditation. We explore how Yoga helps us develop "S
+ kill in Action" and reduce stress\, anxiety and depression leading us to a
+  relaxed\, productive and joyful state of mind.We will be serving refreshm
+ ents as well.\n\nSKY at Georgia Tech invites you to discover Yoga!\n\nIn t
+ his amazing session\, we will discover yoga beyond just physical exercise.
+  We will unravel how Yoga is a way to unite the mind\, body and spirit thr
+ ough a combination of asanas (yogic stretches)\, breathing exercises and m
+ editation. We explore how Yoga helps us develop "Skill in Action" and redu
+ ce stress\, anxiety and depression leading us to a relaxed\, productive an
+ d joyful state of mind.\n\nWe will be serving refreshments as well.\n\nLin
+ ks:\n[0]  http://hg.gatech.edu/node/625715#0\n[1]  https://gatech.campusla
+ bs.com/engage/event/4810781\n[2]  https://gatech.campuslabs.com/engage/org
+ anization/sky\n[3]  https://www.facebook.com/skyatgt
 LOCATION:Room 319\, Student Center
 END:VEVENT
 BEGIN:VEVENT
@@ -8486,25 +8611,27 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:6:30pm\, Klaus 1116EW
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2nd Meeting of Fall 2019 - Undergraduate Research 
+SUMMARY:2nd Meeting of Fall 2019 - Undergraduate Research
 DTSTART;VALUE=DATE-TIME:20190917T150000Z
 DTEND;VALUE=DATE-TIME:20190917T160000Z
-UID:https://gatech.campuslabs.com/engage/event/4934902
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nHey everyone! The Stude
- nt Affiliates of the American Chemical Society (SAACS) is the primary camp
- us organization for students with a passion for chemistry. SAACS focuses o
- n building the professional skills of our members\, engaging in outreach e
- vents\, and creating a community for students that love chemistry. We welc
- ome students from all majors\, as long as you like chemistry! At our secon
- d meeting\, we will have a presentation on getting involved in undergradua
- te research\, pick our first guest for the popular "Dinner with a Professo
- r" event\, and give prizes to the winners from last week's Jeopardy game! 
- Come by to meet friends\, eat pizza\, and learn about undergraduate resear
- ch! Please RSVP so that we can ensure that we have enough pizza for everyo
- ne. Feel free to reach out to me at v.amitej@gatech.edu or to Yifan Liang 
- at yliang92@gatech.edu if you have any questions!\n\nFacebook group: https
- ://www.facebook.com/groups/2200944686/\n\nWebsite: saacs.gtorg.gatech.edu\
- n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/4934902
+UID:http://hg.gatech.edu/node/626239#0
+DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free Food\n
+ Status: published\n\nHey everyone! The Student Affiliates of the American 
+ Chemical Society (SAACS) is the primary campus organization for students w
+ ith a passion for chemistry. SAACS focuses on building the professional sk
+ ills of our members\, engaging in outreach events\, and creating a communi
+ ty for students that love chemistry. We welcome students from all majors\,
+  as long as you like chemistry! At our second meeting\, we will have a pre
+ sentation on getting involved in undergraduate research\, pick our first g
+ uest for the popular "Dinner with a Professor" event\, and give prizes to 
+ the winners from last week's Jeopardy game! Come by to meet friends\, eat 
+ pizza\, and learn about undergraduate research! Please RSVP so that we can
+  ensure that we have enough pizza for everyone. Feel free to reach out to 
+ me at v.amitej@gatech.edu or to Yifan Liang at yliang92@gatech.edu if you 
+ have any questions!\n\nFacebook group: https://www.facebook.com/groups/220
+ 0944686/\n\nWebsite: saacs.gtorg.gatech.edu\n\nLinks:\n[0]  http://hg.gate
+ ch.edu/node/626239#0\n[1]  https://gatech.campuslabs.com/engage/event/4934
+ 902\n[2]  https://www.facebook.com/groups/2200944686/
 LOCATION:Whitaker 1214
 END:VEVENT
 BEGIN:VEVENT
@@ -9050,17 +9177,25 @@ BEGIN:VEVENT
 SUMMARY:Career Event with Michael Laughter of C2D2
 DTSTART;VALUE=DATE-TIME:20190918T160000Z
 DTEND;VALUE=DATE-TIME:20190918T173000Z
-UID:http://hg.gatech.edu/node/624966#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nMichael Laughter of the Center fo
- r Career Discovery and Development at Georgia Tech will advise Ivan Allen 
- College of Liberal Arts undergraduate and graduate students about elevator
-  pitches and resumes and will answer questions about career strategies. Lu
- nch will be available to those who RSVP to carol.colatrella@lmc.gatech.edu
- \; put "Career Advice Lunch" in subject line of RSVP.\n\nLinks:\n[0]  http
- ://hg.gatech.edu/node/624966#0
-LOCATION:Room 102\, Stephen C. Hall Building\, 215 Bobby Dodd\, Way Georgi
- a Tech\, Atlanta\, GA
+UID:http://hg.gatech.edu/node/625357#0
+DESCRIPTION:Intended audience: Graduate students\, Public\, Undergraduate 
+ students\nExtras: Free food\nStatus: published\n\nMichael Laughter of the 
+ Center for Career Discovery and Development will speak with Ivan Allen Col
+ lege undergraduates and graduate students about elevator pitches\, resumes
+ \, and other career topics. This event is sponsored by Ivan Allen College 
+ of Liberal Arts Graduate Studies.\n\nLunch will be served to those who RSV
+ P to carol.colatrella@lmc.gatech.edu\nPlease put "Career Advice Lunch" in 
+ subject line of email.\n\nFor information about Ivan Allen College graduat
+ e programs\, see https://www.iac.gatech.edu/academics/graduate\n\nMichael 
+ Laughter of the Center for Career Discovery and Development at Georgia Tec
+ h will advise Ivan Allen College of Liberal Arts undergraduate and graduat
+ e students about elevator pitches and resumes and will answer questions ab
+ out career strategies. Lunch will be available to those who RSVP to carol.
+ colatrella@lmc.gatech.edu\; put "Career Advice Lunch" in subject line of R
+ SVP.\n\nLinks:\n[0]  http://hg.gatech.edu/node/625357#0\n[1]  http://hg.ga
+ tech.edu/node/624966#0
+LOCATION:Room 102\, Stephen C. Hall Building\, Georgia Tech\, 215 Bobby Do
+ dd Way\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ML@GT Fall Seminar: Chandrajit Bajaj\, University of Texas
@@ -9143,24 +9278,38 @@ BEGIN:VEVENT
 SUMMARY:Women of Earth - Pre-Premiere Documentary Screening and Discussion
 DTSTART;VALUE=DATE-TIME:20190918T220000Z
 DTEND;VALUE=DATE-TIME:20190919T000000Z
-UID:http://hg.gatech.edu/node/625458#0
+UID:http://hg.gatech.edu/node/626057#0
 DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nA soul-searching journey to the roots of Brazil...\n\nJoin us as we meet
-  the keepers of ancient knowledge!\n\nFaculty\, students\, staff and frien
- ds are invited!\n\nPre-Premiere Documentary Screening & Discussion\nwith\n
- KIRK BOWMAN\nCo-Producer of Women of Earth\nCo-founder and director of the
-  International NGO Rise Up & Care ( [1] )\nJon R. Wilcox Term Professor in
-  Soccer and Global Politics\, International Affairs\, Georgia Tech\n\nSept
- ember 18\, 2019 | 6 pm\nGeorgia Tech Alumni House (Griffin Ballroom)\, 190
-  North Ave. NW\n\nReception to follow\n\nMulheres da Terra [Women of Earth
- ] is a project that aims to increase the visibility of the stories of wome
- n who play important social roles in their communities. Their names are ma
- ny: midwives\, faith healers\, herbalists\, shamans and community leaders.
-  Here\, we honor their stories.\nThey are all over the world\, in the root
- s of all peoples and cultures…\n\nCo-organized by the Sam Nunn School of
-  International Affairs and the Atlanta Global Studies Center\n\nLinks:\n[0
- ]  http://hg.gatech.edu/node/625458#0\n[1]  http://www.riseup.care
+ \nPre-Premiere Documentary Screening & Discussion\nwith\nKIRK BOWMAN\nCo-P
+ roducer of Women of Earth\nCo-founder and director of the International NG
+ O Rise Up & Care ( [2] )\nJon R. Wilcox Term Professor in Soccer and Globa
+ l Politics\, International Affairs\, Georgia Tech\n\nSeptember 18\, 2019 |
+  6 pm\nGeorgia Tech Alumni House (Griffin Ballroom)\, 190 North Ave. NW\n\
+ nReception to follow\n\nMulheres da Terra [Women of Earth] is a project th
+ at aims to increase the visibility of the stories of women who play import
+ ant social roles in their communities. Their names are many: midwives\, fa
+ ith healers\, herbalists\, shamans and community leaders. Here\, we honor 
+ their stories.\nThey are all over the world\, in the roots of all peoples 
+ and cultures…\n\n[3]\n\n[4]\n\nCo-organized by Georgia Tech’s Sam Nunn
+  School of International Affairs and the Atlanta Global Studies Center\n\n
+ A soul-searching journey to the roots of Brazil...\n\nJoin us as we meet t
+ he keepers of ancient knowledge!\n\nFaculty\, students\, staff and friends
+  are invited!\n\nPre-Premiere Documentary Screening & Discussion\nwith\nKI
+ RK BOWMAN\nCo-Producer of Women of Earth\nCo-founder and director of the I
+ nternational NGO Rise Up & Care ( [5] )\nJon R. Wilcox Term Professor in S
+ occer and Global Politics\, International Affairs\, Georgia Tech\n\nSeptem
+ ber 18\, 2019 | 6 pm\nGeorgia Tech Alumni House (Griffin Ballroom)\, 190 N
+ orth Ave. NW\n\nReception to follow\n\nMulheres da Terra [Women of Earth] 
+ is a project that aims to increase the visibility of the stories of women 
+ who play important social roles in their communities. Their names are many
+ : midwives\, faith healers\, herbalists\, shamans and community leaders. H
+ ere\, we honor their stories.\nThey are all over the world\, in the roots 
+ of all peoples and cultures…\n\nCo-organized by the Sam Nunn School of I
+ nternational Affairs and the Atlanta Global Studies Center\n\nLinks:\n[0] 
+  http://hg.gatech.edu/node/626057#0\n[1]  http://hg.gatech.edu/node/625458
+ #0\n[2]  http://www.riseup.care/\n[3]  https://womenofearthfilm.com/\n[4] 
+  http://riseup.care/women-of-earth\n[5]  http://www.riseup.care
 LOCATION:Georgia Tech Alumni House (Griffin Ballroom)\, 190 North Ave. NW\
  , Atlanta\, GA
 END:VEVENT
@@ -9462,36 +9611,67 @@ BEGIN:VEVENT
 SUMMARY:Dr. Elizabeth Donaldson on Feminist Disability Studies
 DTSTART;VALUE=DATE-TIME:20190919T210000Z
 DTEND;VALUE=DATE-TIME:20190919T223000Z
-UID:https://gatech.campuslabs.com/engage/event/4928344
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nElizabeth J. Donaldson\
- , professor of English and director of the Medical Humanities minor progra
- m at the New York Institute of Technology\, will discuss the field of femi
- nist disability studies and her research on madness and mental illness in 
- literary texts. One focus of her talk will be the life and writing of Shul
- amith Firestone\, who published the bestselling feminist manifesto The Dia
- lectic of Sex in 1970 and who was later diagnosed with schizophrenia. Open
-  to WST Learning Community students and guests. Guests should RSVP at wst.
- lrn.c@gmail.com\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event
- /4928344
-LOCATION:Stein House
+UID:http://hg.gatech.edu/node/624968#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nElizabeth J. Donaldson\, professo
+ r of English and director of the Medical Humanities minor program at the N
+ ew York Institute of Technology\, will discuss the field of feminist disab
+ ility studies and her research on madness and mental illness in literary t
+ exts. One focus of her talk will be the life and writing of Shulamith Fire
+ stone\, who published the bestselling feminist manifesto The Dialectic of 
+ Sex in 1970 and who was later diagnosed with schizophrenia.\n\nThis event 
+ is open to WST Learning Community students and guests. Guests should RSVP 
+ at wst.lrn.c@gmail.com\n\nFrom [2]: Elizabeth J. Donaldson is professor of
+  English at NYIT\, where she teaches courses in bioethics and American lit
+ erature and directs the minor in Medical Humanities. She has published ess
+ ays on LSD-inspired disability-immersion experiences of schizophrenia\; me
+ ntal illness in film\; antipsychiatry in Lauren Slater’s memoirs\; and p
+ hysiognomy and madness in Jane Eyre. She chaired the Modern Language Assoc
+ iation’s Committee on Disability Issues in the Profession\, and she is a
+  Fellow in The Future of Disability Studies group at Columbia University
+ ’s Center for the Study of Social Difference. She is a member of the edi
+ torial board of the Journal of Literary & Cultural Disabilities Studies an
+ d co-editor (with Catherine J. Prendergast) of the special issue\, “Emot
+ ion and Disability” (2011). She co-edited the essay collection The Madwo
+ man and the Blindman: Jane Eyre\, Discourse\, Disability (Ohio State Unive
+ rsity Press\, 2012) and currently co-edits the Palgrave Macmillan book ser
+ ies Literary Disability Studies with David Bolt and Julia Miele Rodas. She
+  edited a collection of essays\, Literatures of Madness: Disability Studie
+ s and Mental Health (Palgrave Macmillan\, 2018)\, and is currently working
+  on a monograph which focuses on psychiatry and American literature.\n\nEl
+ izabeth J. Donaldson\, professor of English and director of the Medical Hu
+ manities minor program at the New York Institute of Technology\, will disc
+ uss the field of feminist disability studies and her research on madness a
+ nd mental illness in literary texts. One focus of her talk will be the lif
+ e and writing of Shulamith Firestone\, who published the bestselling femin
+ ist manifesto The Dialectic of Sex in 1970 and who was later diagnosed wit
+ h schizophrenia. Open to WST Learning Community students and guests. Guest
+ s should RSVP at wst.lrn.c@gmail.com\n\nLinks:\n[0]  http://hg.gatech.edu/
+ node/624968#0\n[1]  https://gatech.campuslabs.com/engage/event/4928344\n[2
+ ]  https://www.nyit.edu/bio/edonalds
+LOCATION:Stein House/4th St. A\, Georgia Tech\, 733 Techwood Dr.\, Atlanta
+ \, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cracking Assignments Inside Out
 DTSTART;VALUE=DATE-TIME:20190919T213000Z
 DTEND;VALUE=DATE-TIME:20190919T223000Z
-UID:https://gatech.campuslabs.com/engage/event/4861699
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nHave you noticed that t
- here is a constant chatter going on in your head? Have you considered most
-  of the bugs (read problems) in your life are because this chatter doesn't
-  end?\n\nSKY at Georgia Tech brings to you a unique session in which you l
- earn hacks into your own mind - tips and techniques to debug it and bring 
- out the bubbling\, energetic and productive you that will help you crack y
- our assignments and be extremely productive like never before. Come decode
-  your own mind and unravel its mysteries with some powerful breathing tech
- niques and refreshing meditation.\n\nWe will also have free refreshments a
- nd drinks:)\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/486
- 1699
-LOCATION:Room 332\, Student Center
+UID:http://hg.gatech.edu/node/625175#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nHave you noticed that there is a constant chatter going on in your head?
+  Have you considered most of the bugs (read problems) in your life are bec
+ ause this chatter doesn't end? SKY at Georgia Tech brings to you a unique 
+ session in which you learn hacks into your own mind\, including tips and t
+ echniques to debug it and bring out the bubbling\, energetic and productiv
+ e you that will help you crack your assignments and be extremely productiv
+ e like never before. Come decode your own mind and unravel its mysteries w
+ ith some powerful breathing techniques and refreshing meditation. We will 
+ also have free refreshments and drinks.\n\nLinks:\n[0]  http://hg.gatech.e
+ du/node/625175#0\n[1]  https://gatech.campuslabs.com/engage/event/4861699\
+ n[2]  https://www.facebook.com/skyatgt/?ref=aymt_homepage_panel&eid=ARBumr
+ _epGYvs5d9LtdpmqepB1Dxi4gJjHP-EkZXNoZev1QGbXkefA36NkcoPcvwPK2us-7XotkDkgUQ
+LOCATION:Student Center Room 332
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ready\, Set\, Engage! Edge Peer Mentoring Program Kick-off
@@ -9849,14 +10029,27 @@ SUMMARY:Meg Sonstroem (OIE) dinner discussion of study abroad & exchange p
  rograms
 DTSTART;VALUE=DATE-TIME:20190923T220000Z
 DTEND;VALUE=DATE-TIME:20190923T233000Z
-UID:https://gatech.campuslabs.com/engage/event/4933858
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nMeg Sonstroem of Intern
- ational Education will speak with WST Learning Community residents and the
- ir guests about study abroad and exchange programs. This event is open to 
- all Georgia Tech students. Dinner will be provided for those who RSVP: wst
- .lrn.c@gmail.com.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/eve
- nt/4933858
-LOCATION:WST Learning Community\, Stein House
+UID:http://hg.gatech.edu/node/625353#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nMeg Sonstroem of International Ed
+ ucation will speak with WST Learning Community residents and their guests 
+ about study abroad and exchange programs. This event is open to all Georgi
+ a Tech students. Dinner will be provided for those who RSVP: wst.lrn.c@gma
+ il.com.\n\nThe WST Learning Community offers programs addressing academic 
+ and professional issues for women students. Typically\, it includes 48 stu
+ dents living in Stein and Goldin Houses (4th St. Apartments A and B)\, who
+  connect with one another and faculty through monthly dinners\, bi-weekly 
+ lunches\, campus receptions\, and research panels. All Georgia Tech studen
+ ts and WST mentors are welcome to attend WST Learning Community events. WS
+ T Learning Community residents may also be paired with a faculty/staff men
+ tor (optional). WST also sponsors undergraduate research partnerships for 
+ WST Learning Community students pursuing topics related to gender\, scienc
+ e\, and technology\; faculty research sponsors should inquire with Dr. Mar
+ y Frank Fox (mary.fox@pubpolicy.gatech.edu).\n\nLinks:\n[0]  http://hg.gat
+ ech.edu/node/625353#0\n[1]  https://gatech.campuslabs.com/engage/event/493
+ 3858
+LOCATION:WST Learning Community\, Stein House/4th St. A\, Georgia Tech\, 7
+ 33 Techwood Dr.Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:National Hazing Prevention Week: Donuts with the Deans
@@ -10554,22 +10747,105 @@ BEGIN:VEVENT
 SUMMARY:Global Climate Action Symposium
 DTSTART;VALUE=DATE-TIME:20190927T130000Z
 DTEND;VALUE=DATE-TIME:20190927T220000Z
-UID:https://gatech.campuslabs.com/engage/event/4928135
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThe Global Climate Acti
- on Symposium will bring together a wide range of experts to showcase clima
- te change engagement by local student activists\, scientists and engineers
- \, business and policy experts\, and artists. Jointly sponsored by Georgia
-  Tech and six European consulates during European Climate Diplomacy Week\,
-  the event will be held in the brand new Kendeda Building for Innovative S
- ustainable Design\, where guests can learn about how the building will pro
- duce more energy than it uses\, collect and recycle water for its operatio
- ns\, and promote a just and equitable world. Registration is FREE.\n\n- Pa
- rt 1 - Science\, Technology\, and Policies\n- Part 2 - Student Engagement\
- , "Fridays for Future"\n- Part 3 - Art\n- Part 4 - Tour of the Kendeda Bui
- lding\n\nRegister Here [1]\n\nLinks:\n[0]  https://gatech.campuslabs.com/e
- ngage/event/4928135\n[1]  https://globalchange.gatech.edu/events/global-cl
- imate-action-symposium/
-LOCATION:Kendeda Building
+UID:http://hg.gatech.edu/node/625664#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free Food\nStatus: published\n
+ \nThe Global Climate Action Symposium will bring together a wide range of 
+ experts to showcase climate change engagement by local student activists\,
+  scientists and engineers\, business and policy experts\, and artists. Joi
+ ntly sponsored by Georgia Tech and six European consulates during European
+  Climate Diplomacy Week [3]\, the event will be held in the brand new Kend
+ eda Building for Innovative Sustainable Design [4]\, where guests can lear
+ n about how the building will produce more energy than it uses\, collect a
+ nd recycle water for its operations\, and promote a just and equitable wor
+ ld.\n\n[5]\n\nRegistration is free:\n\n[6]\n\nSchedule of Events\n9 - 9:30
+  AM\n\nRegistration and coffee\n\nKendeda Building atrium\nPart 1 – Scie
+ nce\, Technology\, and Policies\n9:30 AM - 10:00 AM\n\nOpening remarks\nKe
+ ndeda Building auditorium\n- Shan Arora\, Director\, The Kendeda Building\
+ n- Kim Cobb\, Director\, Global Change Program\n- President Cabrera\, Pres
+ ident of Georgia Tech\n- Emmanouil Androulakis\, Consul of Greece\, on beh
+ alf European Consul\n\n10:00 AM - 11:00 AM\n\nScience & Engineering Panel 
+ Discussion\nKendeda Building auditorium\n- Moderator: Beril Toktay\, Profe
+ ssor of Operations Management\, Brady Family Chair\, ADVANCE Professor\, F
+ aculty Director\, Ray C. Anderson Center for Sustainable Business\, Schell
+ er College of Business\n- Chloé Arson\, Associate Professor\, Geosystems 
+ Engineering Sustainable Communities School of Civil and Environmental Engi
+ neering\; Adjunct Associate Professor in the School of Earth and Atmospher
+ ic Science\n- Eri Saikawa\, Associate Professor\, Director of Graduate Stu
+ dies\, Department of Environmental Sciences\, Emory College of Arts and Sc
+ iences\n- Zachary Lancaster\, PhD student\, City & Regional Planning\, Geo
+ rgia Tech\n\n11:00 AM - 11:20 AM\n\nBreak\n11:20 AM - 12:30 PM\n\nBusiness
+  & Policy Panel Discussion\nKendeda Building auditorium\nThe panel will fe
+ ature:\n\n- Moderator: Michael Oxman\, Managing Director\, Ray C. Anderson
+  Center for Sustainable Business\; Professor of the Practice\, Sustainable
+  Business\, Scheller College of Business\n- John McIntyre\, Professor\, Ex
+ ecutive Director\, GT CIBER\, Scheller College of Business\, Georgia Insti
+ tute of Technology\, author of CSR and Climate Change Implications for Mul
+ tinational Enterprises\n- Dagmara Koska\, Counsellor on Climate and Energy
+ \, EU Delegation to the USA\n- Jairo Garcia\, Chief Executive Officer\, Ur
+ ban Climate Nexus\n- Strata Solar representative\n- Kingspan Insulation re
+ presentative\n\n12:30 PM - 1:30 PM\n\nLunch\nA sustainable\, plant-forward
+  lunch will be provided for pre-registrants.\n\nPart 2 – Student Engagem
+ ent\, "Fridays for Future"\n1:30 PM - 1:50 PM\n\nIntroducing "Fridays for 
+ Future"\nPierre Gourjon will introduce video interviews of students from B
+ elgium\, Germany\, France\, Greece\, Ireland\, and other countries.\n\n1:5
+ 0 PM - 2:20 PM\n\n"Fridays for Future" Discussion\nKendeda Building audito
+ rium\n- Moderator: Ruthie Yow\, Center for Serve-Learn-Sustain\n\n2:20 PM 
+ - 3:15 PM\n\nKeynote\nKendeda Building auditorium\nDestiny Loyd\, Citizen'
+ s Climate Lobby\n\nIntroductory remarks by Kim Cobb\, Georgia Power Chair 
+ and ADVANCE Professor\, Earth and Atmospheric Sciences\n\n3:15 PM - 3:45 P
+ M\n\nBreak\nPart 3 – Art & Climate Future\n"Urban Wilderness + Man-Mad N
+ ature"\, a collaborative exhibition by documentary and fine art photograph
+ er Virginie Drugjon-Kippelen and conceptual photographer Shannon Davis\, c
+ reative director and adjunct professor at Savannah College of Art and Desi
+ gn\, will be featured throughout the day.\n\n3:45 PM - 4:15 PM\n\nCarte Bl
+ anche Visual Artists\nKendeda Building auditorium\nThe panel will feature:
+ \n\n- Guy Gabon\, eco-artist\, designer and filmmaker\, whose work explore
+ s the interrelationship between the natural and urban environment and has 
+ been exhibited in Canada\, Mozambique\, Madagascar\, France notably.\n- Gw
+ enola Wagon\, artist and assistant professor\, Department of Visual Art\, 
+ University of Paris 8\, has produced numerous installations in France and 
+ abroad\, and Pierre Cassou-Noguès\, philosopher and professor\, Departmen
+ t of Philosophy of the University Paris 8\, author of several books as Les
+  rêves cybernétiques de Norbert Wiener (Seuil\, 2014) or Technofictions 
+ (Cerf\, 2019).\n- Erin Jane Elson\, artist\, whose work has recently been 
+ exhibited at the Withney Museum of American Art in New York and at Pinakot
+ hek der Moderne in Munich.\n\n4:15 PM - 5:00 PM\n\nConversation with Artis
+ ts\nKendeda Building auditorium\n- Moderator: Anna Westerstahl Stenport\, 
+ Chair and Professor\, School of Modern Languages\; Founding co-Director\, 
+ the Atlanta Global Studies Center\, Georgia Institute of Technology\n\nPar
+ t 4 – Reception\n5:00 PM - 6:00 PM\n\nReception\nKendeda Building atrium
+ \n\nRegistration is free. [6]\n\nThe Global Climate Action Symposium will 
+ bring together a wide range of experts to showcase climate change engageme
+ nt by local student activists\, scientists and engineers\, business and po
+ licy experts\, and artists. Jointly sponsored by Georgia Tech and six Euro
+ pean consulates during European Climate Diplomacy Week\, the event will be
+  held in the brand new Kendeda Building for Innovative Sustainable Design\
+ , where guests can learn about how the building will produce more energy t
+ han it uses\, collect and recycle water for its operations\, and promote a
+  just and equitable world.\n\n- Part 1 - Science\, Technology\, and Polici
+ es\n- Part 2 – Student Engagement\, "Fridays for Future"\n- Part 3 – A
+ rt\n- Part 4 – Tour of the Kendeda Building\n\nView the full agenda [7]\
+ n\nThe Global Climate Action Symposium will bring together a wide range of
+  experts to showcase climate change engagement by local student activists\
+ , scientists and engineers\, business and policy experts\, and artists. Jo
+ intly sponsored by Georgia Tech and six European consulates during Europea
+ n Climate Diplomacy Week\, the event will be held in the brand new Kendeda
+  Building for Innovative Sustainable Design\, where guests can learn about
+  how the building will produce more energy than it uses\, collect and recy
+ cle water for its operations\, and promote a just and equitable world. Reg
+ istration is FREE.\n\n- Part 1 - Science\, Technology\, and Policies\n- Pa
+ rt 2 - Student Engagement\, "Fridays for Future"\n- Part 3 - Art\n- Part 4
+  - Tour of the Kendeda Building\n\nRegister Here [5]\n\nLinks:\n[0]  http:
+ //hg.gatech.edu/node/625664#0\n[1]  http://hg.gatech.edu/node/625071#0\n[2
+ ]  https://gatech.campuslabs.com/engage/event/4928135\n[3]  https://ec.eur
+ opa.eu/clima/events/climate-diplomacy-weeks_en\n[4]  https://livingbuildin
+ g.gatech.edu/kendeda-building-innovative-sustainable-design\n[5]  https://
+ globalchange.gatech.edu/events/global-climate-action-symposium/\n[6]  http
+ s://www.eventbrite.com/e/global-climate-action-symposium-european-climate-
+ diplomacy-week-registration-69731806711\n[7]  https://globalchange.gatech.
+ edu/GCAS\n[8]  https://livingbuilding.gatech.edu
+LOCATION:Kendeda Building for Innovative Sustainable Design
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Global Climate Action Symposium: European Climate Diplomacy Week
@@ -10739,20 +11015,33 @@ BEGIN:VEVENT
 SUMMARY:Beauty and the Ballroom
 DTSTART;VALUE=DATE-TIME:20190928T230000Z
 DTEND;VALUE=DATE-TIME:20190929T030000Z
-UID:https://gatech.campuslabs.com/engage/event/4934906
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThe Ballroom Dance Club
-  at Georgia Tech is excited to present another magical social dance on Sep
- tember 28th!\n\nJoin us for a free waltz and East Coast swing lesson at 7p
- m and general dancing with your favorite Disney characters from 8-11pm\, n
- o experience or partner required!\n\nAlong with fun music and dancing and 
- themed refreshments\, we will also be having a costume contest (with a pri
- ze!)\, so come dazzling in your best Disney costume for a chance to win.\n
- \nFor more information\, visit our website at [1] or check out our Faceboo
- k or Instagram.\n--------------------------\nPrice:\nFree for social membe
- rs\n$5 for students\, faculty\, staff and their spouses from any school or
-  university\n$10 for community\n\nWe can't wait to see the magic you bring
-  to the dance floor!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/
- event/4934906\n[1]  http://ballroomdance.gtorg.gatech.edu/
+UID:http://hg.gatech.edu/node/626235#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free Food\nStatus: published\n
+ \nThe Ballroom Dance Club at Georgia Tech is excited to present another ma
+ gical social dance on September 28th! Join us for a free waltz and East Co
+ ast swing lesson at 7 p.m. and general dancing with your favorite Disney c
+ haracters from 8 - 11p.m. No experience or partner is required! Along with
+  fun music and dancing and themed refreshments\, we will also be having a 
+ costume contest (with a prize)\, so come dazzling in your best Disney cost
+ ume for a chance to win. For more information\, visit our website [2] or c
+ heck out our Facebook or Instagram.\n\nPrice:\n\n- Free for social members
+ \n- $5 for students\, faculty\, staff\, and their spouses from any school 
+ or university\n- $10 for community\n\nWe can't wait to see the magic you b
+ ring to the dance floor!\n\nThe Ballroom Dance Club at Georgia Tech is exc
+ ited to present another magical social dance on September 28th!\n\nJoin us
+  for a free waltz and East Coast swing lesson at 7pm and general dancing w
+ ith your favorite Disney characters from 8-11pm\, no experience or partner
+  required!\n\nAlong with fun music and dancing and themed refreshments\, w
+ e will also be having a costume contest (with a prize!)\, so come dazzling
+  in your best Disney costume for a chance to win.\n\nFor more information\
+ , visit our website at [3] or check out our Facebook or Instagram.\n------
+ --------------------\nPrice:\nFree for social members\n$5 for students\, f
+ aculty\, staff and their spouses from any school or university\n$10 for co
+ mmunity\n\nWe can't wait to see the magic you bring to the dance floor!\n\
+ nLinks:\n[0]  http://hg.gatech.edu/node/626235#0\n[1]  https://gatech.camp
+ uslabs.com/engage/event/4934906\n[2]  http://ballroomdance.gtorg.gatech.ed
+ u\n[3]  http://ballroomdance.gtorg.gatech.edu/
 LOCATION:Student Center Ballroom
 END:VEVENT
 BEGIN:VEVENT
@@ -10880,14 +11169,27 @@ BEGIN:VEVENT
 SUMMARY:Dennis Lindsey (C2D2) speaks about internships
 DTSTART;VALUE=DATE-TIME:20190930T220000Z
 DTEND;VALUE=DATE-TIME:20190930T230000Z
-UID:https://gatech.campuslabs.com/engage/event/4945871
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDennis Lindsey of the C
- enter for Career Discovery and Development will speak with WST Learning Co
- mmunity residents and their guests about internships and how to find them.
-  This event is open to all Georgia Tech students. Dinner will be provided 
- for those who RSVP: wst.lrn.c@gmail.com.\n\nLinks:\n[0]  https://gatech.ca
- mpuslabs.com/engage/event/4945871
-LOCATION:WST Learning Community\, Stein
+UID:http://hg.gatech.edu/node/625354#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nDennis Lindsey of the Center for 
+ Career Discovery and Development will speak with WST Learning Community re
+ sidents and their guests about internships and how to find them. This even
+ t is open to all Georgia Tech students. Dinner will be provided for those 
+ who RSVP: wst.lrn.c@gmail.com.\n\nThe WST Learning Community offers progra
+ ms addressing academic and professional issues for women students. Typical
+ ly\, it includes 48 students living in Stein and Goldin Houses (4th St. Ap
+ artments A and B)\, who connect with one another and faculty through month
+ ly dinners\, bi-weekly lunches\, campus receptions\, and research panels. 
+ All Georgia Tech students and WST mentors are welcome to attend WST Learni
+ ng Community events. WST Learning Community residents may also be paired w
+ ith a faculty/staff mentor (optional). WST also sponsors undergraduate res
+ earch partnerships for WST Learning Community students pursuing topics rel
+ ated to gender\, science\, and technology\; faculty research sponsors shou
+ ld inquire with Dr. Mary Frank Fox (mary.fox@pubpolicy.gatech.edu).\n\nLin
+ ks:\n[0]  http://hg.gatech.edu/node/625354#0\n[1]  https://gatech.campusla
+ bs.com/engage/event/4945871
+LOCATION:WST Learning Community\, Stein/4th St. A Apts.\, Georgia Tech\, 7
+ 33 Techwood Dr.\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EducAsian
@@ -11275,38 +11577,62 @@ BEGIN:VEVENT
 SUMMARY:Georgia Tech Minor Fair & Showcase
 DTSTART;VALUE=DATE-TIME:20191003T150000Z
 DTEND;VALUE=DATE-TIME:20191003T170000Z
-UID:https://gatech.campuslabs.com/engage/event/4968389
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nCome atten
- d Georgia Tech’s first ever Minor Fair where you can learn about the 60+
-  minors that Georgia Tech has to offer\, all in one location at one time! 
- Through this event\, you will have the opportunity to chat with current st
- udents in the minor as well as faculty and staff. Academic projects will b
- e on display for you to see the opportunity present within minor programs.
-  By attending\, you'll be able to make better-informed decisions about wha
- t academic minor programs you would like to pursue.\n\nWe will also have K
- ing of Pops and fun raffles as well as an appearance from Buzz! There will
-  also be an opportunity to win our one-of-a-kind Buzz flashdrives! Follow 
- us on our social media channels to be the first to hear how you can win GT
-  swag!\n\nCheck in will be in front of the Ferst Center for the Arts and o
- n the 2nd floor of the Student Center. See you there!\n\n50+ minors will b
- e present at the fair:\nAerospace Engineering\nArchitecture\nBiology\nBiom
- edical Engineering\nChemistry & Biochemistry\nChinese\nComputing & Busines
- s\nComputing & Devices\nComputing & Informational Internetworks\nComputing
-  & Intelligence\nComputing & Media\nComputing & People\nComputing & System
- s and Architecture\nComputing & Theory\nComputational Data Analysis\nEarth
-  & Atmospheric Sciences\nEast Asian Studies\nEngineering & Business\nFilm 
- and Media Studies\nFrench\nGerman\nGlobal Development\nHealth & Medical Sc
- iences\nHealth\, Medicine\, and Society\nHistory\nIndustrial Design\nInter
- national Affairs\nInternational Business\, Language\, and Culture\nJapanes
- e\nKorean\nLaw\, Science\, and Technology\nLeadership Studies\nLinguistics
- \nMath\nMiddle Eastern & North African Studies\nMusic Technology\nNaval Sc
- ience\nNuclear & Radiological Engineering\nPhilosophy\nPhysiology\nPolitic
- al Science\nPublic Policy\nRobotics\nRussian\nScience Fiction\nScience\, T
- echnology\, and Society\nScientific Engineering and Computing\nSocial Just
- ice\nSociology\nSpanish\nSports\, Society\, and Technology\nSustainable Ci
- ties\nTechnology & Business\nWomen\, Science\, & Technology\n& more!\n\nLi
- nks:\n[0]  https://gatech.campuslabs.com/engage/event/4968389
-LOCATION:Ferst Center for the Arts & Student Center
+UID:http://hg.gatech.edu/node/626636#0
+DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free Stuff\
+ , Free food\nStatus: published\n\nChat with current students\, faculty and
+  staff in each of the minors and check out academic projects completed by 
+ students in their respective minors. By attending\, you'll be able to make
+  better-informed decisions about what academic minor programs you would li
+ ke to pursue.\n\nThere will be free King of Pops and fun raffles as well a
+ s an appearance from Buzz! Check in will be in front of the Ferst Center f
+ or the Arts and on the 2nd floor of the Student Center. See you there!\n\n
+ 60+ minors will be present at the fair:\nAerospace Engineering\nArchitectu
+ re\nBiology\nBiomedical Engineering\nChemistry & Biochemistry\nChinese\nCo
+ mputing & Business\nComputing & Devices\nComputing & Informational Interne
+ tworks\nComputing & Intelligence\nComputing & Media\nComputing & People\nC
+ omputing & Systems and Architecture\nComputing & Theory\nComputational Dat
+ a Analysis\nEarth & Atmospheric Sciences\nEast Asian Studies\nEngineering 
+ & Business\nFilm and Media Studies\nFrench\nGerman\nGlobal Development\nHe
+ alth & Medical Sciences\nHealth\, Medicine\, and Society\nHistory\nIndustr
+ ial Design\nInternational Affairs\nInternational Business\, Language\, and
+  Culture\nJapanese\nKorean\nLaw\, Science\, and Technology\nLeadership Stu
+ dies\nLinguistics\nMath\nMiddle Eastern & North African Studies\nMusic Tec
+ hnology\nNaval Science\nNuclear & Radiological Engineering\nPhilosophy\nPh
+ ysiology\nPolitical Science\nPublic Policy\nRobotics\nRussian\nScience Fic
+ tion\nScience\, Technology\, and Society\nScientific Engineering and Compu
+ ting\nSocial Justice\nSociology\nSpanish\nSports\, Society\, and Technolog
+ y\nSustainable Cities\nTechnology & Business\nWomen\, Science\, & Technolo
+ gy\n& more!\n\nCome attend Georgia Tech’s first ever Minor Fair where yo
+ u can learn about the 60+ minors that Georgia Tech has to offer\, all in o
+ ne location at one time! Through this event\, you will have the opportunit
+ y to chat with current students in the minor as well as faculty and staff.
+  Academic projects will be on display for you to see the opportunity prese
+ nt within minor programs. By attending\, you'll be able to make better-inf
+ ormed decisions about what academic minor programs you would like to pursu
+ e.\n\nWe will also have King of Pops and fun raffles as well as an appeara
+ nce from Buzz! There will also be an opportunity to win our one-of-a-kind 
+ Buzz flashdrives! Follow us on our social media channels to be the first t
+ o hear how you can win GT swag!\n\nCheck in will be in front of the Ferst 
+ Center for the Arts and on the 2nd floor of the Student Center. See you th
+ ere!\n\n50+ minors will be present at the fair:\nAerospace Engineering\nAr
+ chitecture\nBiology\nBiomedical Engineering\nChemistry & Biochemistry\nChi
+ nese\nComputing & Business\nComputing & Devices\nComputing & Informational
+  Internetworks\nComputing & Intelligence\nComputing & Media\nComputing & P
+ eople\nComputing & Systems and Architecture\nComputing & Theory\nComputati
+ onal Data Analysis\nEarth & Atmospheric Sciences\nEast Asian Studies\nEngi
+ neering & Business\nFilm and Media Studies\nFrench\nGerman\nGlobal Develop
+ ment\nHealth & Medical Sciences\nHealth\, Medicine\, and Society\nHistory\
+ nIndustrial Design\nInternational Affairs\nInternational Business\, Langua
+ ge\, and Culture\nJapanese\nKorean\nLaw\, Science\, and Technology\nLeader
+ ship Studies\nLinguistics\nMath\nMiddle Eastern & North African Studies\nM
+ usic Technology\nNaval Science\nNuclear & Radiological Engineering\nPhilos
+ ophy\nPhysiology\nPolitical Science\nPublic Policy\nRobotics\nRussian\nSci
+ ence Fiction\nScience\, Technology\, and Society\nScientific Engineering a
+ nd Computing\nSocial Justice\nSociology\nSpanish\nSports\, Society\, and T
+ echnology\nSustainable Cities\nTechnology & Business\nWomen\, Science\, & 
+ Technology\n& more!\n\nLinks:\n[0]  http://hg.gatech.edu/node/626636#0\n[1
+ ]  https://gatech.campuslabs.com/engage/event/4968389
+LOCATION:Ferst Center for the Arts and the Student Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kenneth Hyatt Distinguished Alumni Leadership Speaker Series
@@ -11344,8 +11670,8 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  graduate opportunities!\n\nOpen Opportunities\n- Software Engineer Interns
  hip\n- Software Engineer University Grad\n- Data Science Internship\n- Dat
  a Science University Grad\n\nLinks:\n[0]  http://hg.gatech.edu/node/626990
- #0
-LOCATION:CCB Commons
+ #0\n[1]  http://hg.gatech.edu/node/626880#0
+LOCATION:11am-4pm\, CCB Commons
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GVU Center Brown Bag: Lining Yao "Materialized AI: Robotic Morphin
@@ -11429,8 +11755,8 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  mate introduction to no-code\n- 5:00pm - Atlanta United FC customer case\n
  - 6:00pm - Catered dinner\n- 7:00pm - Platform demonstration\n- 8.00pm - N
  orton Rose Fulbright customer case\n- 9.00pm - Networking & drinks\n\nLink
- s:\n[0]  http://hg.gatech.edu/node/626873#0\n[1]  https://www.bettyblocks.
- com/no-code-event-usa
+ s:\n[0]  http://hg.gatech.edu/node/626873#0\n[1]  http://www.bettyblocks.c
+ om/no-code-event-usa
 LOCATION:Georgia Tech Student Center
 END:VEVENT
 BEGIN:VEVENT
@@ -11438,14 +11764,15 @@ SUMMARY:SLS Open House: Sustainable Cities Minor and Innovating for Social
   Impact Program
 DTSTART;VALUE=DATE-TIME:20191003T210000Z
 DTEND;VALUE=DATE-TIME:20191003T220000Z
-UID:https://gatech.campuslabs.com/engage/event/4928136
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin SLS and our partne
- rs from the Institute for Leadership and Entrepreneurship and the School o
- f City and Regional Planning to learn more about the Sustainable Cities Mi
- nor and the SLS Innovating for Social Impact Program. Drop by for pizza - 
- and speak with faculty\, staff\, and students about these programs!\n\nLin
- ks:\n[0]  https://gatech.campuslabs.com/engage/event/4928136
-LOCATION:Clough 205
+UID:http://hg.gatech.edu/node/625499#0
+DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\n
+ Status: published\n\nJoin SLS and our partners from the Institute for Lead
+ ership and Entrepreneurship and the School of City and Regional Planning t
+ o learn more about the Sustainable Cities Minor and the SLS Innovating for
+  Social Impact Program. Drop by for pizza - and speak with faculty\, staff
+ \, and students about these programs!\n\nLinks:\n[0]  http://hg.gatech.edu
+ /node/625499#0\n[1]  https://gatech.campuslabs.com/engage/event/4928136
+LOCATION:Clough Lounge (Clough 205)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Personal Statement & Statement of Purpose Boot Camp
@@ -11719,26 +12046,30 @@ BEGIN:VEVENT
 SUMMARY:FirstGen Coffee and Donut Meet and Greet
 DTSTART;VALUE=DATE-TIME:20191008T190000Z
 DTEND;VALUE=DATE-TIME:20191008T200000Z
-UID:https://gatech.campuslabs.com/engage/event/4994148
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nWe will be having a soc
- ial with free coffee and donuts\, as well as a discussion on what it means
-  to be first-generation at Georgia Tech! Come out and meet your fellow fir
- st-generation students!\n\nLinks:\n[0]  https://gatech.campuslabs.com/enga
- ge/event/4994148
+UID:http://hg.gatech.edu/node/626912#0
+DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\n
+ Status: published\n\nWe will be having a social with free coffee and donut
+ s\, as well as a discussion on what it means to be first-generation at Geo
+ rgia Tech! Come out and meet your fellow first-generation students!\n\nLin
+ ks:\n[0]  http://hg.gatech.edu/node/626912#0\n[1]  https://gatech.campusla
+ bs.com/engage/event/4994148\n[2]  https://www.facebook.com/gtfirstgen/
 LOCATION:Ford ES&T L1116
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Energy Club | Business Fair
+SUMMARY:Energy Club Business Fair
 DTSTART;VALUE=DATE-TIME:20191008T200000Z
 DTEND;VALUE=DATE-TIME:20191008T220000Z
-UID:https://gatech.campuslabs.com/engage/event/5000479
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome to the 4th Annual 
- Energy Club Business Fair. This FREE event is a reception where local comp
- anies and startups in the energy field will be answering your questions\, 
- showcasing their products and ideas\, and networking with students\, and o
- ffer information about their company. Hors-d'oeuvres and drinks will be pr
- ovided. The keynote speaker is Shan Arora\, Director of the Kendeda Buildi
- ng.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5000479
+UID:http://hg.gatech.edu/node/627036#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\, Freebies\nStatus: published\n\nCome to the 4th Annual
+  Energy Club Business Fair. This FREE event is a reception where local com
+ panies and startups in the energy field will be answering your questions\,
+  showcasing their products and ideas\, and networking with students\, and 
+ offer information about their company. Hors-d'oeuvres and drinks will be p
+ rovided. The keynote speaker is Shan Arora\, Director of the Kendeda Build
+ ing.\n\nLinks:\n[0]  http://hg.gatech.edu/node/627036#0\n[1]  https://gate
+ ch.campuslabs.com/engage/event/5000479\n[2]  https://gatech.campuslabs.com
+ /engage/organization/energy-club-at-georgia-tech
 LOCATION:Bill Moore Student Success Center
 END:VEVENT
 BEGIN:VEVENT
@@ -11924,17 +12255,26 @@ BEGIN:VEVENT
 SUMMARY:Stretch out the Stress
 DTSTART;VALUE=DATE-TIME:20191009T220000Z
 DTEND;VALUE=DATE-TIME:20191009T230000Z
-UID:https://gatech.campuslabs.com/engage/event/5014570
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nSKY at Georgia Tech inv
- ites you to discover Yoga!\n\nIn this amazing session\, we will discover y
- oga beyond just physical exercise. We will unravel how Yoga is a way to un
- ite the mind\, body and spirit through a combination of asanas (yogic stre
- tches)\, breathing exercises and meditation. We explore how Yoga helps us 
- develop "Skill in Action" and reduce stress\, anxiety and depression leadi
- ng us to a relaxed\, productive and joyful state of mind.\n\nWe will be se
- rving refreshments as well.\n\nLinks:\n[0]  https://gatech.campuslabs.com/
- engage/event/5014570
-LOCATION:Crescent Room
+UID:http://hg.gatech.edu/node/627162#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nSKY at Georgia Tech invites you t
+ o discover Yoga!\n\nIn this amazing session\, we will discover yoga beyond
+  just physical exercise. We will unravel how Yoga is a way to unite the mi
+ nd\, body and spirit through a combination of asanas (yogic stretches)\, b
+ reathing exercises and meditation. We explore how Yoga helps us develop "S
+ kill in Action" and reduce stress\, anxiety and depression leading us to a
+  relaxed\, productive and joyful state of mind.We will be serving refreshm
+ ents as well.\n\nSKY at Georgia Tech invites you to discover Yoga!\n\nIn t
+ his amazing session\, we will discover yoga beyond just physical exercise.
+  We will unravel how Yoga is a way to unite the mind\, body and spirit thr
+ ough a combination of asanas (yogic stretches)\, breathing exercises and m
+ editation. We explore how Yoga helps us develop "Skill in Action" and redu
+ ce stress\, anxiety and depression leading us to a relaxed\, productive an
+ d joyful state of mind.\n\nWe will be serving refreshments as well.\n\nLin
+ ks:\n[0]  http://hg.gatech.edu/node/627162#0\n[1]  https://gatech.campusla
+ bs.com/engage/event/5014570\n[2]  https://gatech.campuslabs.com/engage/org
+ anization/sky\n[3]  https://www.facebook.com/skyatgt
+LOCATION:Crescent Room\, Student Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Union Pacific Tech Talk: How Technology Drives Union Pacific
@@ -12211,14 +12551,19 @@ BEGIN:VEVENT
 SUMMARY:CREATE-X Startup Ideas
 DTSTART;VALUE=DATE-TIME:20191010T210000Z
 DTEND;VALUE=DATE-TIME:20191010T223000Z
-UID:https://gatech.campuslabs.com/engage/event/4825734
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nIf you're planning to a
- pply to Startup Launch\, come share your ideas with members of the selecti
- on team to gain instant feedback and learn more about Startup Launch. This
-  is a great opportunity to both pitch your ideas and meet potential co-fou
- nders.\n\nRefreshments will be served.\n\nLinks:\n[0]  https://gatech.camp
- uslabs.com/engage/event/4825734
-LOCATION:Centergy 3rd Floor - Room 3100
+UID:http://hg.gatech.edu/node/626785#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nExtras: Free food\nStatus: published\n\nIf you'
+ re planning to apply to Startup Launch\, come share your ideas with member
+ s of the selection committee to gain instant feedback\, and learn more abo
+ ut Startup Launch. This is a great opportunity to pitch your ideas and mee
+ t potential co-founders.\n\nIf you're planning to apply to Startup Launch\
+ , come share your ideas with members of the selection team to gain instant
+  feedback and learn more about Startup Launch. This is a great opportunity
+  to both pitch your ideas and meet potential co-founders.\n\nRefreshments 
+ will be served.\n\nLinks:\n[0]  http://hg.gatech.edu/node/626785#0\n[1]  h
+ ttps://gatech.campuslabs.com/engage/event/4825734
+LOCATION:Centergy Room 3100 - 75 5th Street NW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DInner discussion with representatives from GT Student Alumni Asso
@@ -12327,15 +12672,18 @@ BEGIN:VEVENT
 SUMMARY:2nd Annual Pridefest
 DTSTART;VALUE=DATE-TIME:20191011T150000Z
 DTEND;VALUE=DATE-TIME:20191011T170000Z
-UID:https://gatech.campuslabs.com/engage/event/5000439
-DESCRIPTION:Extras: Credit\, Free Food\, Free Stuff\nStatus: approved\n\nJ
- oin Pride Alliance a number of on campus student organizations and departm
- ents as we welcome Atlanta Pride on Campus. Participants will have the cha
- nce to get t-shirts and free King of Pops!\n\n------\nY'all means all: thi
- s is an event for at LGBTQIA+ folks and their allies. Please email pride@g
- atech.edu if we can provide any accommodations to make this event more acc
- essible or if you have any questions.\n\nLinks:\n[0]  https://gatech.campu
- slabs.com/engage/event/5000439
+UID:http://hg.gatech.edu/node/627060#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Credit\, Free Food\, Free Stuff\nStatus: published\n\nJoin P
+ ride Alliance a number of on campus student organizations and departments 
+ as we welcome Atlanta Pride on Campus. Participants will have the chance t
+ o get t-shirts and free King of Pops!\n\n------\nY'all means all: this is 
+ an event for at LGBTQIA+ folks and their allies. Please email pride@gatech
+ .edu if we can provide any accommodations to make this event more accessib
+ le or if you have any questions.\n\nLinks:\n[0]  http://hg.gatech.edu/node
+ /627060#0\n[1]  https://gatech.campuslabs.com/engage/event/5000439\n[2]  h
+ ttps://gatech.campuslabs.com/engage/organization/pride-alliance\n[3]  http
+ s://www.facebook.com/events/397251444271670/
 LOCATION:Kessler Campanile
 END:VEVENT
 BEGIN:VEVENT
@@ -12840,19 +13188,32 @@ BEGIN:VEVENT
 SUMMARY:Resilience Through Moving to a New Country
 DTSTART;VALUE=DATE-TIME:20191016T150000Z
 DTEND;VALUE=DATE-TIME:20191016T160000Z
-UID:http://hg.gatech.edu/node/625274#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nJoin us for a special event addressing a very r
- elevant topic to the GT Community: Resilience Through Moving to a New Coun
- try. This interactive session will feature a panel of GT students and staf
- f sharing their own diverse personal experiences related to moving to a ne
- w country and how those experiences have shaped their lives. The discussio
- n will explore the myriad of logistical and human challenges involved in m
- oving to a new land and the stories of resilience the panelists have writt
- en in the process. Feel free to bring your lunch. Drinks and light snacks 
- will be provided.\n\nRSVP by October 4th:\n\n[1]\n\nLinks:\n[0]  http://hg
- .gatech.edu/node/625274#0\n[1]  https://gatech.co1.qualtrics.com/jfe/form/
- SV_9yONXJvOGS0qR4p
+UID:http://hg.gatech.edu/node/627618#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nJoin the Resilience and HOLA Employee Resource Groups (ERGs) October 16 
+ for 'Resilience Through Moving to a New Country.'\n\nThis interactive even
+ t will feature a panel of Georgia Tech students and staff sharing their ow
+ n diverse personal experiences related to moving to a new country and how 
+ those experiences have shaped their lives. The discussion will explore the
+  myriad of logistical and human challenges involved in moving to a new lan
+ d and the stories of resilience the panelists have written in the process.
+  (Feel free to bring your lunch. Drinks and light snacks will be provided.
+ )\n\nEvent Information:\nWednesday\, October 16\, 2019\n11a.m.-noon\nStude
+ nt Center Room 343\n\nRSVP at: https://gatech.co1.qualtrics.com/jfe/form/S
+ V_9yONXJvOGS0qR4p [2]\n\nJoin us for a special event addressing a very rel
+ evant topic to the GT Community: Resilience Through Moving to a New Countr
+ y. This interactive session will feature a panel of GT students and staff 
+ sharing their own diverse personal experiences related to moving to a new 
+ country and how those experiences have shaped their lives. The discussion 
+ will explore the myriad of logistical and human challenges involved in mov
+ ing to a new land and the stories of resilience the panelists have written
+  in the process. Feel free to bring your lunch. Drinks and light snacks wi
+ ll be provided.\n\nRSVP by October 4th:\n\n[3]\n\nLinks:\n[0]  http://hg.g
+ atech.edu/node/627618#0\n[1]  http://hg.gatech.edu/node/625274#0\n[2]  htt
+ ps://gatech.co1.qualtrics.com/jfe/form/SV_9yONXJvOGS0qR4p?fbclid=IwAR3AlhL
+ ms_RzjY0wVs70D6bSDI-0tXFnUqFLMaGJ81kOQuNDFtIVpLrPxro\n[3]  https://gatech.
+ co1.qualtrics.com/jfe/form/SV_9yONXJvOGS0qR4p
 LOCATION:Student Center\, Room 343
 END:VEVENT
 BEGIN:VEVENT
@@ -13080,25 +13441,27 @@ BEGIN:VEVENT
 SUMMARY:Menstrual Product Program (MPP) Launch Party
 DTSTART;VALUE=DATE-TIME:20191017T150000Z
 DTEND;VALUE=DATE-TIME:20191017T160000Z
-UID:https://gatech.campuslabs.com/engage/event/5018963
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nPlease join the Student
-  Government Association’s (SGA) Cultural and Diversity Affairs Committee
-  (CDAC) and the Center for the Study of Women\, Science\, and Technology (
- WST) on Thursday\, October 17 for the kick-off of the Menstrual Product Pr
- ogram (MPP)! This launch party will be held in the Griffin Ballroom in the
-  Student Alumni House ( 190 North Avenue NW Atlanta\, GA 30313 ) from 11am
- -12pm. The event will celebrate the start of the program\, which seeks to 
- provide free menstrual hygiene products for students.\n\nLast semester\, t
- he program secured approximately $30\,000 from Gift to Tech after multiple
-  rounds of voting by the student body. The pilot phase of the program is s
- et to begin this month. The program will acquire sustainable\, biodegradab
- le menstrual hygiene products from Aunt Flow. After working with campus de
- partments to survey the level of need\, 11 restrooms around campus have be
- en selected to be stocked with these products.\n\nPlease show your support
-  for this crucial initiative by attending the launch party!\n\nFor more in
- formation about MMP\, please visit our website\, mpprogram.gatech.edu.\n\n
- Links:\n[0]  https://gatech.campuslabs.com/engage/event/5018963
-LOCATION:Alumni House\, Griffin Ballroom
+UID:http://hg.gatech.edu/node/627229#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nPlease join the Student Governmen
+ t Association’s (SGA) Cultural and Diversity Affairs Committee (CDAC) an
+ d the Center for the Study of Women\, Science\, and Technology (WST) on Th
+ ursday\, October 17 for the kick-off of the Menstrual Product Program (MPP
+ )! This launch party will be held in the Griffin Ballroom in the Student A
+ lumni House ( 190 North Avenue NW Atlanta\, GA 30313 ) from 11am-12pm. The
+  event will celebrate the start of the program\, which seeks to provide fr
+ ee menstrual hygiene products for students.\n\nLast semester\, the program
+  secured approximately $30\,000 from Gift to Tech after multiple rounds of
+  voting by the student body. The pilot phase of the program is set to begi
+ n this month. The program will acquire sustainable\, biodegradable menstru
+ al hygiene products from Aunt Flow. After working with campus departments 
+ to survey the level of need\, 11 restrooms around campus have been selecte
+ d to be stocked with these products.\n\nPlease show your support for this 
+ crucial initiative by attending the launch party!\n\nFor more information 
+ about MMP\, please visit our website\, mpprogram.gatech.edu.\n\nLinks:\n[0
+ ]  http://hg.gatech.edu/node/627229#0\n[1]  https://gatech.campuslabs.com/
+ engage/event/5018963
+LOCATION:Griffin Ballroom\, Georgia Tech Alumni House
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MPP Launch Party\, cosponsored by CDAC & WST
@@ -13397,22 +13760,37 @@ BEGIN:VEVENT
 SUMMARY:JDRF One Walk\, Atlanta 2019
 DTSTART;VALUE=DATE-TIME:20191019T110000Z
 DTEND;VALUE=DATE-TIME:20191019T150000Z
-UID:https://gatech.campuslabs.com/engage/event/4979025
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nCDN@GT is 
- participating in this year’s JDRF One Walk to Cure Diabetes\, and we nee
- d you to join us in raising money for a cure!\n\nThe One Walk is a 2.5 mil
- e walk through Atlanta dedicated towards raising money towards type one di
- abetes research. The event raises awareness about type one diabetes and su
- pports life-changing breakthroughs that give hope to everyone impacted by 
- this disease. You'll walk with a committed community that is passionate ab
- out doing whatever it takes to help turn Type One into Type None.\n\nCDN@G
- T will be meeting up at 7:00am on Saturday\, October 19th at the North Ave
-  Apartments Turnaround to walk to Centennial Olympic Park. The event itsel
- f takes place at 9:00am\, with food\, refreshments\, and activities offere
- d afterwards. If you can make it\, join our team online at [1]!\n\nLinks:\
- n[0]  https://gatech.campuslabs.com/engage/event/4979025\n[1]  http://www2
- .jdrf.org/goto/cdngt2019
-LOCATION:North Ave Turnaround
+UID:http://hg.gatech.edu/node/626879#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free Food\, Free Stuff\nStatus
+ : published\n\nHosted by the College Diabetes Network at Georgia Tech\n\nJ
+ DRF One Walk\, Atlanta 2019\n\nCDN@GT is participating in this year’s JD
+ RF One Walk to Cure Diabetes\, and we need you to join us in raising money
+  for a cure! The One Walk is a 2.5 mile walk through Atlanta dedicated tow
+ ards raising money towards type one diabetes research. The event raises aw
+ areness about type one diabetes and supports life-changing breakthroughs t
+ hat give hope to everyone impacted by this disease. You'll walk with a com
+ mitted community that is passionate about doing whatever it takes to help 
+ turn Type One into Type None.\n\nCDN@GT will be meeting up at 7:00am on Sa
+ turday\, October 19th at the North Ave Apartments Turnaround to walk to Ce
+ ntennial Olympic Park. The event itself takes place at 9:00am\, with food\
+ , refreshments\, and activities offered afterwards.\n\nIf you can make it\
+ , join our team online at [2]!\n\nCDN@GT is participating in this year’s
+  JDRF One Walk to Cure Diabetes\, and we need you to join us in raising mo
+ ney for a cure!\n\nThe One Walk is a 2.5 mile walk through Atlanta dedicat
+ ed towards raising money towards type one diabetes research. The event rai
+ ses awareness about type one diabetes and supports life-changing breakthro
+ ughs that give hope to everyone impacted by this disease. You'll walk with
+  a committed community that is passionate about doing whatever it takes to
+  help turn Type One into Type None.\n\nCDN@GT will be meeting up at 7:00am
+  on Saturday\, October 19th at the North Ave Apartments Turnaround to walk
+  to Centennial Olympic Park. The event itself takes place at 9:00am\, with
+  food\, refreshments\, and activities offered afterwards. If you can make 
+ it\, join our team online at [2]!\n\nLinks:\n[0]  http://hg.gatech.edu/nod
+ e/626879#0\n[1]  https://gatech.campuslabs.com/engage/event/4979025\n[2]  
+ http://www2.jdrf.org/goto/cdngt2019\n[3]  https://gatech.campuslabs.com/en
+ gage/organization/college-diabetes-network-at-georgia-tech
+LOCATION:Meet at North Ave Apartments Turnaround
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Civic Engagement Initiative Regional Event: Atlanta
@@ -13769,19 +14147,26 @@ LOCATION:Parker H. Petit Institute for Bioengineering and Bioscience\, Atr
  ium
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Scare Away Cancer: DKMS Swab Drive 
+SUMMARY:Scare Away Cancer: DKMS Swab Drive
 DTSTART;VALUE=DATE-TIME:20191022T150000Z
 DTEND;VALUE=DATE-TIME:20191022T180000Z
-UID:https://gatech.campuslabs.com/engage/event/5052378
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThe Georgia Tech Love Y
- our Melon Crew is hosting a DKMS Swab Drive to add members to the Bone Mar
- row Donor Registry. With a few minutes of your time and a cotton swab\, yo
- u can change the course of someone's life. People around the world need yo
- unger\, healthier bone marrow donors like us to step up and register. Come
-  by our table on from 11-2 Tuesday-Thursday to register and get some Hallo
- ween treats. Join us to save lives & scare away cancer!\n\nLinks:\n[0]  ht
- tps://gatech.campuslabs.com/engage/event/5052378
-LOCATION:Skiles Walkway near the Campanile
+UID:http://hg.gatech.edu/node/627714#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nHosted by the Love Your Melon Cam
+ pus Crew at Georgia Tech\n\nThe Georgia Tech Love Your Melon Crew is hosti
+ ng a DKMS Swab Drive to add members to the Bone Marrow Donor Registry. Wit
+ h a few minutes of your time and a cotton swab\, you can change the course
+  of someone's life. People around the world need younger\, healthier bone 
+ marrow donors like us to step up and register. Come by our table on from 1
+ 1-2 Tuesday-Thursday to register and get some Halloween treats. Join us to
+  save lives & scare away cancer!\n\nLocations:\n\n- Tuesday\, Oct. 22: Tec
+ h Walkway near the Kessler Campanile\n- Wednesday\, Oct. 23: Outside the F
+ erst Center for the Arts\n- Thursday\, Oct. 24: Tech Walkway near the Kess
+ ler Campanile\n\nLinks:\n[0]  http://hg.gatech.edu/node/627714#0\n[1]  htt
+ ps://gatech.campuslabs.com/engage/event/5052378\n[2]  https://gatech.campu
+ slabs.com/engage/organization/love-your-melon-campus-crew-at-georgia-tech
+LOCATION:10/22 and 10/24: Tech Walkway\; 10/23: Outside Ferst Center for t
+ he Arts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Aerospace Corporation Day in the Lobby
@@ -14020,17 +14405,27 @@ BEGIN:VEVENT
 SUMMARY:Public Speaking - Turn your Anxiety into Self Confidence
 DTSTART;VALUE=DATE-TIME:20191022T220000Z
 DTEND;VALUE=DATE-TIME:20191022T230000Z
-UID:https://gatech.campuslabs.com/engage/event/5023039
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nUnleash your true poten
- tial and turn your fears into power!\n\nHave you wondered what keeps you f
- rom being confident in front of a crowd? What is it that constrains your v
- ast potential?\n\nWe invite you to a powerful leadership workshop where we
-  explore the Art of Public Speaking.\n\nThe workshop will include an inter
- active discussion\, expert wisdom bites and a guided meditation led by the
-  speaker. You can also avail an opportunity for personal interaction with 
- the speaker. The session will conclude with refreshments and drinks.\n\nLi
- nks:\n[0]  https://gatech.campuslabs.com/engage/event/5023039
-LOCATION:Room 301
+UID:http://hg.gatech.edu/node/627397#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free Food\nStatus: published\n
+ \nUnleash your true potential and turn your fears into power! Have you won
+ dered what keeps you from being confident in front of a crowd? What is it 
+ that constrains your vast potential? We invite you to a powerful leadershi
+ p workshop where we explore the art of public speaking. The workshop will 
+ include an interactive discussion\, expert wisdom bites\, and a guided med
+ itation led by the speaker. You also have an opportunity for personal inte
+ raction with the speaker. The session will conclude with refreshments and 
+ drinks.\n\nUnleash your true potential and turn your fears into power!\n\n
+ Have you wondered what keeps you from being confident in front of a crowd?
+  What is it that constrains your vast potential?\n\nWe invite you to a pow
+ erful leadership workshop where we explore the Art of Public Speaking.\n\n
+ The workshop will include an interactive discussion\, expert wisdom bites 
+ and a guided meditation led by the speaker. You can also avail an opportun
+ ity for personal interaction with the speaker. The session will conclude w
+ ith refreshments and drinks.\n\nLinks:\n[0]  http://hg.gatech.edu/node/627
+ 397#0\n[1]  https://gatech.campuslabs.com/engage/event/5023039\n[2]  https
+ ://www.facebook.com/events/2417082031694232/?active_tab=about
+LOCATION:Student Center Room 301
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kashi Atlanta Street Meals Preparation
@@ -14077,19 +14472,26 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:6:30PM\, Klaus 1116EW
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Scare Away Cancer: DKMS Swab Drive 
+SUMMARY:Scare Away Cancer: DKMS Swab Drive
 DTSTART;VALUE=DATE-TIME:20191023T150000Z
 DTEND;VALUE=DATE-TIME:20191023T180000Z
-UID:https://gatech.campuslabs.com/engage/event/5052379
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThe Georgia Tech Love Y
- our Melon Crew is hosting a DKMS Swab Drive to add members to the Bone Mar
- row Donor Registry. With a few minutes of your time and a cotton swab\, yo
- u can change the course of someone's life. People around the world need yo
- unger\, healthier bone marrow donors like us to step up and register. Come
-  by our table on from 11-2 Tuesday-Thursday to register and get some Hallo
- ween treats. Join us to save lives & scare away cancer!\n\nLinks:\n[0]  ht
- tps://gatech.campuslabs.com/engage/event/5052379
-LOCATION:Outside of Ferst Theater
+UID:http://hg.gatech.edu/node/627714#1
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nHosted by the Love Your Melon Cam
+ pus Crew at Georgia Tech\n\nThe Georgia Tech Love Your Melon Crew is hosti
+ ng a DKMS Swab Drive to add members to the Bone Marrow Donor Registry. Wit
+ h a few minutes of your time and a cotton swab\, you can change the course
+  of someone's life. People around the world need younger\, healthier bone 
+ marrow donors like us to step up and register. Come by our table on from 1
+ 1-2 Tuesday-Thursday to register and get some Halloween treats. Join us to
+  save lives & scare away cancer!\n\nLocations:\n\n- Tuesday\, Oct. 22: Tec
+ h Walkway near the Kessler Campanile\n- Wednesday\, Oct. 23: Outside the F
+ erst Center for the Arts\n- Thursday\, Oct. 24: Tech Walkway near the Kess
+ ler Campanile\n\nLinks:\n[0]  http://hg.gatech.edu/node/627714#1\n[1]  htt
+ ps://gatech.campuslabs.com/engage/event/5052379\n[2]  https://gatech.campu
+ slabs.com/engage/organization/love-your-melon-campus-crew-at-georgia-tech
+LOCATION:10/22 and 10/24: Tech Walkway\; 10/23: Outside Ferst Center for t
+ he Arts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Staff Council Fall Harvest Meet & Greet
@@ -14251,19 +14653,26 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Room 101\, Scheller College of Business
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Scare Away Cancer: DKMS Swab Drive 
+SUMMARY:Scare Away Cancer: DKMS Swab Drive
 DTSTART;VALUE=DATE-TIME:20191024T150000Z
 DTEND;VALUE=DATE-TIME:20191024T180000Z
-UID:https://gatech.campuslabs.com/engage/event/5052380
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThe Georgia Tech Love Y
- our Melon Crew is hosting a DKMS Swab Drive to add members to the Bone Mar
- row Donor Registry. With a few minutes of your time and a cotton swab\, yo
- u can change the course of someone's life. People around the world need yo
- unger\, healthier bone marrow donors like us to step up and register. Come
-  by our table on from 11-2 Tuesday-Thursday to register and get some Hallo
- ween treats. Join us to save lives & scare away cancer!\n\nLinks:\n[0]  ht
- tps://gatech.campuslabs.com/engage/event/5052380
-LOCATION:Skiles Walkway near the Campanile
+UID:http://hg.gatech.edu/node/627714#2
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nHosted by the Love Your Melon Cam
+ pus Crew at Georgia Tech\n\nThe Georgia Tech Love Your Melon Crew is hosti
+ ng a DKMS Swab Drive to add members to the Bone Marrow Donor Registry. Wit
+ h a few minutes of your time and a cotton swab\, you can change the course
+  of someone's life. People around the world need younger\, healthier bone 
+ marrow donors like us to step up and register. Come by our table on from 1
+ 1-2 Tuesday-Thursday to register and get some Halloween treats. Join us to
+  save lives & scare away cancer!\n\nLocations:\n\n- Tuesday\, Oct. 22: Tec
+ h Walkway near the Kessler Campanile\n- Wednesday\, Oct. 23: Outside the F
+ erst Center for the Arts\n- Thursday\, Oct. 24: Tech Walkway near the Kess
+ ler Campanile\n\nLinks:\n[0]  http://hg.gatech.edu/node/627714#2\n[1]  htt
+ ps://gatech.campuslabs.com/engage/event/5052380\n[2]  https://gatech.campu
+ slabs.com/engage/organization/love-your-melon-campus-crew-at-georgia-tech
+LOCATION:10/22 and 10/24: Tech Walkway\; 10/23: Outside Ferst Center for t
+ he Arts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GVU Center Brown Bag: Krystina Madej "Disney Animation: Story and 
@@ -14458,22 +14867,37 @@ BEGIN:VEVENT
 SUMMARY:Success without Stress
 DTSTART;VALUE=DATE-TIME:20191024T220000Z
 DTEND;VALUE=DATE-TIME:20191024T230000Z
-UID:https://gatech.campuslabs.com/engage/event/5023129
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nWe invite you to a work
- shop\, wherein we share meditation and holistic breathing techniques as su
- stainable tools to become successful Everyone wants to be successful in li
- fe\, but not many are aware of what success really is. The traditional not
- ions of success are associated with a lot of toiling\, stress\, and discom
- fort. Is that the only way we can succeed?\nSpiritual leader\, Sri Sri Rav
- i Shankar defines success as an attitude\, not just a phenomenon. The sign
-  of success is overwhelming joy\, confidence\, compassion\, generosity\, a
- nd a smile that none can snatch away. Whatever happens in life\, if we can
-  keep these\, then we have really found success.\nSo how do we achieve suc
- cess? Success can really be brought about through managing our minds. We i
- nvite you to a workshop\, wherein we share meditation and holistic breathi
- ng techniques as sustainable tools to become successful.\n\nLinks:\n[0]  h
- ttps://gatech.campuslabs.com/engage/event/5023129
-LOCATION:Room 332
+UID:http://hg.gatech.edu/node/627374#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nWe invite you to a workshop\, whe
+ rein we share meditation and holistic breathing techniques as sustainable 
+ tools to become successful\n\nEveryone wants to be successful in life\, bu
+ t not many are aware of what success really is. The traditional notions of
+  success are associated with a lot of toiling\, stress\, and discomfort. I
+ s that the only way we can succeed?\n\nSpiritual leader\, Sri Sri Ravi Sha
+ nkar defines success as an attitude\, not just a phenomenon. The sign of s
+ uccess is overwhelming joy\, confidence\, compassion\, generosity\, and a 
+ smile that none can snatch away. Whatever happens in life\, if we can keep
+  these\, then we have really found success.So how do we achieve success? S
+ uccess can really be brought about through managing our minds. We invite y
+ ou to a workshop\, wherein we share meditation and holistic breathing tech
+ niques as sustainable tools to become successful.\n\nWe invite you to a wo
+ rkshop\, wherein we share meditation and holistic breathing techniques as 
+ sustainable tools to become successful Everyone wants to be successful in 
+ life\, but not many are aware of what success really is. The traditional n
+ otions of success are associated with a lot of toiling\, stress\, and disc
+ omfort. Is that the only way we can succeed?\nSpiritual leader\, Sri Sri R
+ avi Shankar defines success as an attitude\, not just a phenomenon. The si
+ gn of success is overwhelming joy\, confidence\, compassion\, generosity\,
+  and a smile that none can snatch away. Whatever happens in life\, if we c
+ an keep these\, then we have really found success.\nSo how do we achieve s
+ uccess? Success can really be brought about through managing our minds. We
+  invite you to a workshop\, wherein we share meditation and holistic breat
+ hing techniques as sustainable tools to become successful.\n\nLinks:\n[0] 
+  http://hg.gatech.edu/node/627374#0\n[1]  https://gatech.campuslabs.com/en
+ gage/event/5023129\n[2]  https://gatech.campuslabs.com/engage/organization
+ /sky
+LOCATION:Room 332\, Student Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Executive Advisory Board Dinner - Oct 24\,2019
@@ -14623,17 +15047,26 @@ BEGIN:VEVENT
 SUMMARY:TEAM Buzz 2019
 DTSTART;VALUE=DATE-TIME:20191026T120000Z
 DTEND;VALUE=DATE-TIME:20191026T170000Z
-UID:https://gatech.campuslabs.com/engage/event/5013548
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nBe a part 
- of Georgia Tech's Biggest Day of Service! Join us on October 26th as we vo
- lunteer with local service organizations in and around Atlanta.\n\nTEAM Bu
- zz is an annual service event with over 1000 participants each year. Parti
- cipants volunteer at places such as parks\, schools\, libraries\, and cons
- ervancies. The goal of TEAM Buzz is to enable GT students to make a differ
- ence and serve the local community\n\nParticipants get free T-Shirts and f
- ree breakfast and lunch. You can even receive homecoming points!\n\nLinks:
- \n[0]  https://gatech.campuslabs.com/engage/event/5013548
-LOCATION:Skiles Walkway
+UID:http://hg.gatech.edu/node/627124#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\, Free Stuff\nStatus: published\n\nBe a part of Georgia
+  Tech's Biggest Day of Service! Join us on October 26th as we volunteer wi
+ th local service organizations in and around Atlanta.TEAM Buzz is an annua
+ l service event with over 1000 participants each year. Participants volunt
+ eer at places such as parks\, schools\, libraries\, and conservancies. The
+  goal of TEAM Buzz is to enable GT students to make a difference and serve
+  the local communityParticipants get free T-Shirts and free breakfast and 
+ lunch. You can even receive homecoming points!\n\nBe a part of Georgia Tec
+ h's Biggest Day of Service! Join us on October 26th as we volunteer with l
+ ocal service organizations in and around Atlanta.\n\nTEAM Buzz is an annua
+ l service event with over 1000 participants each year. Participants volunt
+ eer at places such as parks\, schools\, libraries\, and conservancies. The
+  goal of TEAM Buzz is to enable GT students to make a difference and serve
+  the local community\n\nParticipants get free T-Shirts and free breakfast 
+ and lunch. You can even receive homecoming points!\n\nLinks:\n[0]  http://
+ hg.gatech.edu/node/627124#0\n[1]  https://gatech.campuslabs.com/engage/eve
+ nt/5013548\n[2]  https://www.facebook.com/TEAMBuzzGT/
+LOCATION:Meets at Tech Walkway
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saturday Food Distribution Volunteering
@@ -14715,19 +15148,21 @@ BEGIN:VEVENT
 SUMMARY:Señor de Los Milagros Mass
 DTSTART;VALUE=DATE-TIME:20191028T220000Z
 DTEND;VALUE=DATE-TIME:20191028T230000Z
-UID:https://gatech.campuslabs.com/engage/event/4994144
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nPlease join us for a ma
- ss in Spanish celebrating the Peruvian feast of Señor de Los Milagros. Ma
- ss will begin at 6pm with the entire mass said in Spanish by Fr. Branson H
- ipp\, reading and homily included. Afterwards we will have a Peruvian-styl
- e dinner for all present. Replaces the 5:30 daily mass.\n\nVengan a celebr
- ar con nosotros una misa en honor al Señor de los Milagros\, una festivid
- ad del Peru. La Misa empezará a las 6pm\, la cual\, sera dicha de princip
- io a fin en español por el Padre Branson Hipp. (Lectura y homilía inclui
- das.) Posteriormente\, tendremos una cena donde los presentes podran degus
- tar lo mejor de la comida peruana. No se lo pierdan!\n\nLinks:\n[0]  https
- ://gatech.campuslabs.com/engage/event/4994144
-LOCATION:GTCC
+UID:http://hg.gatech.edu/node/627038#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nExtras: Free food\nStatus: published\n\nPlease 
+ join us for a mass in Spanish celebrating the Peruvian feast of Señor de 
+ Los Milagros. Mass will begin at 6pm with the entire mass said in Spanish 
+ by Fr. Branson Hipp\, reading and homily included. Afterwards we will have
+  a Peruvian-style dinner for all present. Replaces the 5:30 daily mass.\n\
+ nVengan a celebrar con nosotros una misa en honor al Señor de los Milagro
+ s\, una festividad del Peru. La Misa empezará a las 6pm\, la cual\, sera 
+ dicha de principio a fin en español por el Padre Branson Hipp. (Lectura y
+  homilía incluidas.) Posteriormente\, tendremos una cena donde los presen
+ tes podran degustar lo mejor de la comida peruana. No se lo pierdan!\n\nLi
+ nks:\n[0]  http://hg.gatech.edu/node/627038#0\n[1]  https://gatech.campusl
+ abs.com/engage/event/4994144
+LOCATION:Catholic Center\, 172 4th St NW\, Atlanta\, GA 30313
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:'The Office of Ethics & Compliance: Our Vision\, Goals\, and How Y
@@ -14844,18 +15279,29 @@ BEGIN:VEVENT
 SUMMARY:Chocolate and Meditation
 DTSTART;VALUE=DATE-TIME:20191029T220000Z
 DTEND;VALUE=DATE-TIME:20191029T230000Z
-UID:https://gatech.campuslabs.com/engage/event/5023131
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nYou may have eaten choc
- olate before\, but have you experienced chocolate?\n\nSKY offers an intera
- ctive session on meditation. The idea of this session is that meditation n
- ot only centers you\, but it heightens your senses. Join us for this amazi
- ng session where we will guide you into a short\, relaxing meditation foll
- owed by delicious chocolate tasting giving you a tantalizing and refreshin
- g experience.\n\nWhat can you expect in the session?\n1) Relaxation throug
- h the breath\n2) Insights into the nature of mind and power of senses\n3) 
- Guided meditation using chocolate\n4) Question & answer session\n\nLinks:\
- n[0]  https://gatech.campuslabs.com/engage/event/5023131
-LOCATION:Room 320
+UID:http://hg.gatech.edu/node/627373#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nHosted by SKY\n\nYou may have eat
+ en chocolate before\, but have you experienced chocolate?\n\nSKY offers an
+  interactive session on meditation. The idea of this session is that medit
+ ation not only centers you\, but it heightens your senses. Join us for thi
+ s amazing session where we will guide you into a short\, relaxing meditati
+ on followed by delicious chocolate tasting giving you a tantalizing and re
+ freshing experience.What can you expect in the session?1) Relaxation throu
+ gh the breath2) Insights into the nature of mind and power of senses3) Gui
+ ded meditation using chocolate4) Question & answer session\n\nYou may have
+  eaten chocolate before\, but have you experienced chocolate?\n\nSKY offer
+ s an interactive session on meditation. The idea of this session is that m
+ editation not only centers you\, but it heightens your senses. Join us for
+  this amazing session where we will guide you into a short\, relaxing medi
+ tation followed by delicious chocolate tasting giving you a tantalizing an
+ d refreshing experience.\n\nWhat can you expect in the session?\n1) Relaxa
+ tion through the breath\n2) Insights into the nature of mind and power of 
+ senses\n3) Guided meditation using chocolate\n4) Question & answer session
+ \n\nLinks:\n[0]  http://hg.gatech.edu/node/627373#0\n[1]  https://gatech.c
+ ampuslabs.com/engage/event/5023131\n[2]  https://gatech.campuslabs.com/eng
+ age/organization/sky
+LOCATION:Room 320\, Student Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kashi Atlanta Street Meals Preparation
@@ -15081,15 +15527,25 @@ BEGIN:VEVENT
 SUMMARY:Meditation and Pizza
 DTSTART;VALUE=DATE-TIME:20191101T160000Z
 DTEND;VALUE=DATE-TIME:20191101T170000Z
-UID:https://gatech.campuslabs.com/engage/event/5023145
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nSKY at GT brings to you
-  an interactive session on meditation. Join us for this amazing session wh
- ere we will guide you into a short\, relaxing meditation followed by pizza
- . All you need to have during a mid-day break\n\nWhat can you expect in th
- e session?\n1) Relaxation through the breath\n2) Insights into the nature 
- of mind and power of senses\n3) Guided meditation\n4) Question & answer se
- ssion\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5023145
-LOCATION:Room 320
+UID:http://hg.gatech.edu/node/627595#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nExtras: Free food\nStatus: published\n\nSKY at 
+ GT brings to you an interactive session on meditation. Join us for this am
+ azing session where we will guide you into a short\, relaxing meditation f
+ ollowed by pizza. All you need to have during a mid-day break.\n\nWhat can
+  you expect in the session?\n\n- Relaxation through the breath\n- Insights
+  into the nature of mind and power of senses\n- Guided meditation\n- Quest
+ ion & answer session\nWe look forward to seeing you there!\n\nSKY at GT br
+ ings to you an interactive session on meditation. Join us for this amazing
+  session where we will guide you into a short\, relaxing meditation follow
+ ed by pizza. All you need to have during a mid-day break\n\nWhat can you e
+ xpect in the session?\n1) Relaxation through the breath\n2) Insights into 
+ the nature of mind and power of senses\n3) Guided meditation\n4) Question 
+ & answer session\n\nLinks:\n[0]  http://hg.gatech.edu/node/627595#0\n[1]  
+ https://gatech.campuslabs.com/engage/event/5023145\n[2]  http://www.facebo
+ ok.com/events/500829210383130/\n[3]  https://orgsync.com/136054/events/250
+ 6688/occurrences/6040914
+LOCATION:Room 320\, Student Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alumni Reception
@@ -15324,17 +15780,19 @@ BEGIN:VEVENT
 SUMMARY:Melody and Meditation
 DTSTART;VALUE=DATE-TIME:20191105T230000Z
 DTEND;VALUE=DATE-TIME:20191106T000000Z
-UID:https://gatech.campuslabs.com/engage/event/5023143
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for this amazin
- g session where we will guide you into light yoga followed by a short\, re
- laxing meditation with live flute music! SKY brings to you a one of its ki
- nd interactive session on meditation. The idea of this session is that med
- itation not only centers you\, but it heightens your senses. Join us for t
- his amazing session where we will guide you into light yoga followed by a 
- short\, relaxing meditation with live flute music in the background!\nRefr
- eshments and Yoga mats provided:)\n\nLinks:\n[0]  https://gatech.campuslab
- s.com/engage/event/5023143
-LOCATION:Crescent Room (above Subway)
+UID:http://hg.gatech.edu/node/627370#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nHosted by SKY\n\nJoin us for this
+  amazing session where we will guide you into light yoga followed by a sho
+ rt\, relaxing meditation with live flute music! SKY brings to you a one of
+  its kind interactive session on meditation. The idea of this session is t
+ hat meditation not only centers you\, but it heightens your senses. Join u
+ s for this amazing session where we will guide you into light yoga followe
+ d by a short\, relaxing meditation with live flute music in the background
+ . Refreshments and Yoga mats provided.\n\nLinks:\n[0]  http://hg.gatech.ed
+ u/node/627370#0\n[1]  https://gatech.campuslabs.com/engage/event/5023143\n
+ [2]  https://gatech.campuslabs.com/engage/organization/sky
+LOCATION:Crescent Room\, Student Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kashi Atlanta Street Meals Preparation
@@ -15794,22 +16252,37 @@ BEGIN:VEVENT
 SUMMARY:Taste Of Africa 2019
 DTSTART;VALUE=DATE-TIME:20191108T230000Z
 DTEND;VALUE=DATE-TIME:20191109T030000Z
-UID:https://gatech.campuslabs.com/engage/event/4892839
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nTaste of Africa is a ga
- la inundated with treasures of African cultures. Treasures in the form of 
- art\, food\, comedy\, dance and a host of other entertainments are concent
- rated to enable our audience to interact fully with our vast multitude of 
- African cultures. Taste of Africa this year attempts to bridge the divide 
- that exists between Africans on the continent and Africans who have emigra
- ted from their respective countries to continue their lives outside the co
- ntinent. This year's theme\, Africans Crossing the Generations\, attempts 
- to explore this generational divide and seeks to foster discussion on the 
- cultural\, social\, economic\, and political differences that contribute t
- o this divide. The layout will include a dinner and art galleries in the r
- eception area\, a series of skits and dances throughout Taste of Africa in
-  the theatre\, and an African inspired fashion show to highight the event.
- \n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/4892839
-LOCATION:Ferst Theatre
+UID:http://hg.gatech.edu/node/625959#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free Food\nStatus: published\n
+ \nTaste of Africa is a gala inundated with treasures of African cultures. 
+ Treasures in the form of art\, food\, comedy\, dance and a host of other e
+ ntertainments are concentrated to enable our audience to interact fully wi
+ th our vast multitude of African cultures. Taste of Africa this year attem
+ pts to bridge the divide that exists between Africans on the continent and
+  Africans who have emigrated from their respective countries to continue t
+ heir lives outside the continent. This year's theme\, Africans Crossing th
+ e Generations\, attempts to explore this generational divide and seeks to 
+ foster discussion on the cultural\, social\, economic\, and political diff
+ erences that contribute to this divide. The layout will include a dinner a
+ nd art galleries in the reception area\, a series of skits and dances thro
+ ughout Taste of Africa in the theatre\, and an African inspired fashion sh
+ ow to highlight the event.\n\nTaste of Africa is a gala inundated with tre
+ asures of African cultures. Treasures in the form of art\, food\, comedy\,
+  dance and a host of other entertainments are concentrated to enable our a
+ udience to interact fully with our vast multitude of African cultures. Tas
+ te of Africa this year attempts to bridge the divide that exists between A
+ fricans on the continent and Africans who have emigrated from their respec
+ tive countries to continue their lives outside the continent. This year's 
+ theme\, Africans Crossing the Generations\, attempts to explore this gener
+ ational divide and seeks to foster discussion on the cultural\, social\, e
+ conomic\, and political differences that contribute to this divide. The la
+ yout will include a dinner and art galleries in the reception area\, a ser
+ ies of skits and dances throughout Taste of Africa in the theatre\, and an
+  African inspired fashion show to highight the event.\n\nLinks:\n[0]  http
+ ://hg.gatech.edu/node/625959#0\n[1]  https://gatech.campuslabs.com/engage/
+ event/4892839
+LOCATION:Ferst Center for the Arts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga for the Soul
@@ -16277,26 +16750,29 @@ BEGIN:VEVENT
 SUMMARY:Illuminate Tech
 DTSTART;VALUE=DATE-TIME:20191113T223000Z
 DTEND;VALUE=DATE-TIME:20191114T003000Z
-UID:https://gatech.campuslabs.com/engage/event/5050041
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nRecently\, SGA had pilo
- t talks featuring faculty from diverse backgrounds sharing their stories\,
-  inspiring paths at ‘Inspire@Tech’ and ‘Revolutionaries’. Going fo
- rward we are combining our efforts under "Illuminate Tech" and we are back
-  with the second installment of this series - where we invite student spea
- kers to share your stories of struggle\, impact made outside of the classr
- oom\, and other inspiring and empowering journeys as college students. Thr
- ough YOUR VOICE\, we hope to ILLUMINATE these hidden stories of GT student
- s.\n\nLife at Tech can be tough\, for undergraduates and graduates alike. 
- We want to use "Illuminate Tech" as a platform to enable students to share
-  their story\, and connect with others. One of these speakers could be you
- r next friend\, peer mentor\, coach\, role model\, or inspiration. One of 
- them could be YOU. We will feature stories of perseverance and resilience 
- of students who have pushed through various barriers\, be it personal or p
- rofessional and emerged successful in their journey.\n\nKnow your peers in
-  a different context. Understand their stories.\n- Undergraduate and Gradu
- ate Student Government Association\n\nLinks:\n[0]  https://gatech.campusla
- bs.com/engage/event/5050041
-LOCATION:Kendeda Building- Auditorium 152
+UID:http://hg.gatech.edu/node/627604#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nExtras: Free Food\nStatus: published\n\nHosted 
+ by Graduate SGA and Undergraduate SGA\n\nRecently\, SGA had pilot talks fe
+ aturing faculty from diverse backgrounds sharing their stories\, inspiring
+  paths at ‘Inspire@Tech’ and ‘Revolutionaries’. Going forward we a
+ re combining our efforts under "Illuminate Tech" and we are back with the 
+ second installment of this series - where we invite student speakers to sh
+ are your stories of struggle\, impact made outside of the classroom\, and 
+ other inspiring and empowering journeys as college students. Through YOUR 
+ VOICE\, we hope to ILLUMINATE these hidden stories of GT students.\n\nLife
+  at Tech can be tough\, for undergraduates and graduates alike. We want to
+  use "Illuminate Tech" as a platform to enable students to share their sto
+ ry\, and connect with others. One of these speakers could be your next fri
+ end\, peer mentor\, coach\, role model\, or inspiration. One of them could
+  be YOU. We will feature stories of perseverance and resilience of student
+ s who have pushed through various barriers\, be it personal or professiona
+ l and emerged successful in their journey. Know your peers in a different 
+ context. Understand their stories.\n\n- Undergraduate and Graduate Student
+  Government Association\n\nLinks:\n[0]  http://hg.gatech.edu/node/627604#0
+ \n[1]  https://gatech.campuslabs.com/engage/event/5050041\n[2]  https://ww
+ w.facebook.com/GTgradSGA/
+LOCATION:Room 152\, Kendeda Building
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Universal in the Particular: Crafting Personal Narratives to C
@@ -17227,16 +17703,40 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
  tion will give examples of systems that integrate advanced perception and 
  control technologies into robotic systems to perform complex tasks like cu
  tting\, grasping\, and manipulation of objects in an unstructured environm
- ent.\n\nSESSION SPEAKER\n\nGary McMurray [1]\, Associate Director\, Collab
+ ent.\n\nSESSION SPEAKER\n\nGary McMurray [2]\, Associate Director\, Collab
  orative Robotics\, Georgia Tech Research Institute​\n\nRegister Online f
- or upcoming SCL IRC seminars [2]\nAttendance to the sessions is compliment
+ or upcoming SCL IRC seminars [3]\nAttendance to the sessions is compliment
  ary for SCL corporate partners\, SCL Industry Advisory Board members\, SCL
   affiliated faculty and students\, and students enrolled in the Masters in
   Supply Chain Engineering program.\n\nTo take advantage of the included lu
  nch\, you must register by deadline noted on the registration page.\n\nIf 
- you have any questions\, please email event@scl.gatech.edu.\n\nLinks:\n[0]
-   http://hg.gatech.edu/node/626967#0\n[1]  http://fptd.gatech.edu/gary-mcm
- urray\n[2]  https://www.scl.gatech.edu/sclirc/seminars/register
+ you have any questions\, please email event@scl.gatech.edu.\n\nThe Supply 
+ Chain and Logistics Institute hosts a series of monthly seminars open to i
+ nterested faculty\, students and corporate partners as well as the general
+  public. If you are interested in attending any of the sessions\, please r
+ eview the below information and register online.\n\nUnstructured Manufactu
+ ring\nGary McMurray\n\nRobotic systems have been very successful in perfor
+ ming tasks where the inputs are well defined and known in advance. Automot
+ ive and electronic manufacturing are the classic success stories where rob
+ otic systems have demonstrated incredible value for the industry. In unstr
+ uctured manufacturing\, the inputs of the system can vary significantly\, 
+ but the outputs of the system are defined. Food and agriculture production
+  are examples of this type of unstructured manufacturing problem\, but tra
+ ditional manufacturing is also moving in this direction as robotics move b
+ eyond welding and painting. This presentation will give examples of system
+ s that integrate advanced perception and control technologies into robotic
+  systems to perform complex tasks like cutting\, grasping\, and manipulati
+ on of objects in an unstructured environment.\n\nRegister Online for upcom
+ ing SCL IRC seminars [3]\n\nAttendance to the sessions is complimentary fo
+ r SCL corporate partners\, SCL Industry Advisory Board members\, SCL affil
+ iated faculty and students\, and students enrolled in the Masters in Suppl
+ y Chain Engineering program.\n\nTo take advantage of the included lunch\, 
+ you must register by deadline noted on the registration page.\n\nIf you ha
+ ve any questions\, please email event@scl.gatech.edu.\n\nLinks:\n[0]  http
+ ://hg.gatech.edu/node/626967#0\n[1]  http://hg.gatech.edu/node/623645#0\n[
+ 2]  http://fptd.gatech.edu/gary-mcmurray\n[3]  https://www.scl.gatech.edu/
+ sclirc/seminars/register\n[4]  http://www.manufacturing.gatech.edu/directi
+ ons
 LOCATION:GTMI 1st floor auditorium OR ISyE Main Building\, 2nd Floor Atriu
  m (to be confirmed 30 days out)
 END:VEVENT
@@ -17422,17 +17922,36 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
  We will discuss the issues and illustrate with examples of measuring work-
  content for the United States Postal Service\, some public transit systems
  \, and for various container ports.​\n\nSESSION SPEAKER\n\nJohn Barthold
- i [1]\, Manhattan Associates/Dabbiere Chair and Professor and Co-Executive
+ i [2]\, Manhattan Associates/Dabbiere Chair and Professor and Co-Executive
   Director\, Georgia Tech Panama Logistics Innovation & Research Center\n\n
- Register Online for upcoming SCL IRC seminars [2]\nAttendance to the sessi
+ Register Online for upcoming SCL IRC seminars [3]\nAttendance to the sessi
  ons is complimentary for SCL corporate partners\, SCL Industry Advisory Bo
  ard members\, SCL affiliated faculty and students\, and students enrolled 
  in the Masters in Supply Chain Engineering program.\n\nTo take advantage o
  f the included lunch\, you must register by deadline noted on the registra
  tion page.\n\nIf you have any questions\, please email event@scl.gatech.ed
- u.\n\nLinks:\n[0]  http://hg.gatech.edu/node/626969#0\n[1]  https://www.sc
- l.gatech.edu/users/john-bartholdi-iii\n[2]  https://www.scl.gatech.edu/scl
- irc/seminars/register
+ u.\n\nThe Supply Chain and Logistics Institute hosts a series of monthly s
+ eminars open to interested faculty\, students and corporate partners as we
+ ll as the general public. If you are interested in attending any of the se
+ ssions\, please review the below information and register online.\n\nInter
+ preting GPS Generated By Logistics Operations\nJohn Bartholdi\n\nThe comme
+ rcial world uses GPS mostly to track and monitor vehicles\, but there is m
+ uch more information embedded with GPS readings. However\, it is not alway
+ s simple to extract\, because of inaccuracy of GPS. This can be largely ov
+ ercome by combining knowledge of logistics operations with specialized alg
+ orithms. We will discuss the issues and illustrate with examples of measur
+ ing work-content for the United States Postal Service\, some public transi
+ t systems\, and for various container ports.\n\nRegister Online for upcomi
+ ng SCL IRC seminars [3]\n\nAttendance to the sessions is complimentary for
+  SCL corporate partners\, SCL Industry Advisory Board members\, SCL affili
+ ated faculty and students\, and students enrolled in the Masters in Supply
+  Chain Engineering program.\n\nTo take advantage of the included lunch\, y
+ ou must register by deadline noted on the registration page.\n\nIf you hav
+ e any questions\, please email event@scl.gatech.edu.\n\nLinks:\n[0]  http:
+ //hg.gatech.edu/node/626969#0\n[1]  http://hg.gatech.edu/node/623647#0\n[2
+ ]  https://www.scl.gatech.edu/users/john-bartholdi-iii\n[3]  https://www.s
+ cl.gatech.edu/sclirc/seminars/register\n[4]  http://www.manufacturing.gate
+ ch.edu/directions
 LOCATION:GTMI 1st floor auditorium OR ISyE Main Building\, 2nd Floor Atriu
  m (to be confirmed 30 days out)
 END:VEVENT
