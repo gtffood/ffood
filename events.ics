@@ -2,321 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Nano@Tech: The Future of Computer-Aided Engineering
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190423T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190423T170000Z
-UID:http://hg.gatech.edu/node/615708#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nRyan Diestelhorst\nOnScale\nAbstract: New advancements in cloud computin
- g and machine learning have created an opportunity for a revolutionary adv
- ancement in how hardware engineering is performed. In this talk\, Ryan Die
- stelhorst will discuss his experiences founding a successful MEMS sensor c
- ompany as a Georgia Tech graduate\, and how that journey informed his visi
- on of the future of engineering. He will describe how OnScale is redefinin
- g the boundaries of high-performance simulation by giving engineers immedi
- ate and unlimited access to super computers to solve their most difficult 
- problems.\n\nBio: Ryan Dietelhorst is an experienced semiconductor and har
- dware engineer as well as an accomplished entrepreneur and technologist. H
- e co-founded NextInput\, which brought a world-class MEMS force sensing te
- chnology to market for mobile\, automotive\, and industrial applications. 
- In his capacity as CTO he developed a broad IP portfolio\, helped raise $3
- 0M in seed and venture capital funding\, and brought multiple high-volume 
- design wins to mass production. Prior to NextInput\, Ryan designed special
- ized integrated circuits with NASA\, the Jet Propulsion Laboratory\, and A
- rgonne National Laboratory while completing his PhD in Electrical Engineer
- ing at Georgia Tech. Ryan is now the VP of Strategy at OnScale\, a cloud-b
- ased engineering simulation company seeking to break the legacy simulation
-  model.\n\nLinks:\n[0]  http://hg.gatech.edu/node/615708#0\n[1]  http://ie
- n.gatech.edu
-LOCATION:Marcus Nanotechnology Building 1117-1118 | 345 Ferst Drive | Atla
- nta GA | 30332
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Smart India
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190423T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190423T170000Z
-UID:http://hg.gatech.edu/node/619457#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nRegister Here [1]!\nJoin us on April 23rd for a
-  Smart India Lunch Presentation.\n\nWe are delighted to bring Professor an
- d Head Joy Sen\, Department of Architecture and Regional Planning for the 
- Indian Institute of Technology\, Kharagpur here to campus. He will deliver
- ing a key presentation on Indian Smart Cities.\n\nWe will also be presenti
- ng the work of a Georgia Tech Studio class on Smart Varnasi.\n\nVarnasi is
-  a holy city resting on the banks of the Ganges\, home to 1.4 million resi
- dents and host to over 6 million pilgrims and tourists each year. With a h
- istory dating back over 3\,000 years\, there are challenges of updating th
- is city to meet the needs of its future residents while preserving its ric
- h culture and heritage are intricate.\n\nTogether with Indian Institute of
-  Technology Kharagpur and Indian Institute of Technology\, Varanasi\, Geor
- gia Tech have been working on a semester-long studio course. The class is 
- working to develop and implement smart city updates that will best serve t
- he people of Varanasi through transportation solutions\, environmental pro
- tection\, and economic stimulation.\n\n[2]\n\nAgenda:\n\nNoon - 12:15pm We
- lcome\n\nShailesh Lakhtakia\, Consul (Head of Chancery)\, Consulate Genera
- l of India\n\nAnita E. J. Ninan\, President\, Georgia Indo-American Chambe
- r of Commerce\n\nSubhro Guhathakurta\, Professor and Chair\, School of Cit
- y & Regional Planning\, Georgia Tech\n\n12:15 – 12:30pm Smart Varnasi St
- udio Class\n\n12:30 – 1:00pm Concordances and Divergences in Indian Smar
- t Cities – Lessons learned (2014-Present)\n\nJoy Sen\, Professor and Hea
- d\, Department of Architecture and Regional Planning\; Professor\, RCG Sch
- ool of Infrastructure Design and Management\, Indian Institute of Technolo
- gy\, Kharagpur\, India\n\n1:00pm Closing\n\nSponsored By:\n\nGeorgia Indo-
- American Chamber of Commerce\n\nGT School of City and Regional Planning\n\
- nGT Sam Nunn School of International Affairs\n\nGT Center for Internationa
- l Business Education (CIBER)\n\nGT Smart Cities and Inclusive Innovation\n
- \nLinks:\n[0]  http://hg.gatech.edu/node/619457#0\n[1]  https://www.eventb
- rite.com/e/smart-india-lunch-meeting-tickets-59114532157\n[2]  http://vara
- nasistudio.design.gatech.edu/
-LOCATION:Centergy One Bldg\, 75 5th Street NW\, Suite 600\, Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SCL IRC Seminar: An AI Framework Used in Crisis Management and Dec
- ision Making
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190423T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190423T173000Z
-UID:http://hg.gatech.edu/node/618686#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nStatus: published\n\nThe Supply Chain and Logist
- ics Institute hosts a series of monthly seminars open to interested facult
- y\, students and corporate partners as well as the general public. If you 
- are interested in attending any of the sessions\, please review the below 
- information and register online.\n\nSCL IRC Seminar: An AI Framework Used 
- in Crisis Management and Decision Making\nFrederick Benaben [1]\, Visiting
-  Professor | IMT Mines Albi - Industrial Engineering Research Center - FRA
- NCE\n\nModel-Driven Engineering (MDE) is meant\, above other usages mainly
-  in software design\, to support the process of system design\, especially
-  the transitions and the coherency between models of different levels and 
- different point of views. In the presentation\, Dr. Benaben will introduce
-  an original and innovative Artificial Intelligence (AI) framework dedicat
- ed to include MDE in AI technologies. An instantiation of this framework o
- n the domain of crisis management will be presented as an illustrative exa
- mple of providing sentience\, agility and resilience in the handling of an
-  instable situation. Then\, the usage of this research framework will be e
- xtended to provide avenues and perspectives in ways to connect Industrial 
- Engineering and Artificial Intelligence to support (collaborations of) org
- anizations\, decision making and management of organizations.\n\nRegister 
- Online for upcoming SCLIRC seminars [2]\n\nAttendance to the sessions is c
- omplimentary for SCL corporate partners\, SCL Industry Advisory Board memb
- ers\, SCL affiliated faculty and students\, and students enrolled in the M
- asters in Supply Chain Engineering program.\n\nTo take advantage of the in
- cluded lunch\, you must register by deadline noted on the registration pag
- e.\n\nIf you have any questions\, please email event@scl.gatech.edu.\n\nLi
- nks:\n[0]  http://hg.gatech.edu/node/618686#0\n[1]  https://www.isye.gatec
- h.edu/users/frederick-benaben\n[2]  https://www.scl.gatech.edu/sclirc/semi
- nars/register\n[3]  https://isye.gatech.edu/about/maps-directions/isye-bui
- lding-complex
-LOCATION:ISyE Main Building\, 2nd Floor Atrium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ISPE Georgia Tech Chapter Spring Social
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190423T213000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190423T233000Z
-UID:http://hg.gatech.edu/node/620526#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nThe ISPE SPring Social will provide a relaxed enviro
- nment for students to network with representatives from local pharmaceutic
- al companies\, and learn more about ISPE and the pharmaceutical industry i
- n general. Attending companies include Takeda\, CRB\, ISPE-CaSA\, and Evan
- s General Contractors. Food and drinks will be provided at the event\, and
-  casual business attire is required.\n\nAgenda:\n\n- 5:30: Introduce compa
- nies/Brief talk on importance of industry and the area\n- 6:00: Reception 
- and mingling\n- 7:15: Closing remarks thanking companies\n\nLinks:\n[0]  h
- ttp://hg.gatech.edu/node/620526#0
-LOCATION:2nd Floor Atrium\, Molecular Science and Engineering Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Executive Advisory Board Dinner
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190423T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190424T000000Z
-UID:http://hg.gatech.edu/node/619593#0
-DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nWallace
-  H. Coulter Department\nExternal Advisory Board\nDinner Reception\n\nTuesd
- ay\, April 23rd\n6-8pm\n\nThe Canteen\n75 5th Street NW #170\nAtlanta\, GA
-  30308\n\nThe Canteen is located in Tech Square. Parking is available near
-  the venue in the surface lot on the left side of 5th street across from t
- he Scheller College of Business or at the Georgia Tech Conference Center &
-  Hotel Parking Deck for a small fee.\n\nLinks:\n[0]  http://hg.gatech.edu/
- node/619593#0
-LOCATION:The Canteen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reading Day Special
-DTSTART;VALUE=DATE:20190424
-DTEND;VALUE=DATE:20190425
-UID:http://hg.gatech.edu/node/620208#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\, Freebies\nStatus: published\n\nLinks:\n[0]  http
- ://hg.gatech.edu/node/620208#0
-LOCATION:Student Center - Tec Rec
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reading Day Study Sessions
-DTSTART;VALUE=DATE:20190424
-DTEND;VALUE=DATE:20190425
-UID:http://hg.gatech.edu/node/620329#0
-DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\n
- Status: published\n\nSpring 2019 Reading Day Study Sessions\nWednesday\, A
- pril 24th\n\nPhysics\n(9:00am - 11:00am)\nChemistry\n(11:00am - 1:00pm)\nC
- alculus\n(1:00pm - 3:00pm)\nOrganic Chemistry\n& Linear Algebra\n(3:00pm -
-  5:00pm)\n\nCourses Supported:\nPHYS 2211 Classical\, PHYS 2211 Modern\, P
- HYS 2212 Classical\, PHYS 2212 Modern\n\nCHEM 1211K\, CHEM 1212K\, CHEM 13
- 10\n\nMATH 1113\, MATH 1551\, MATH 1552\, MATH 2550\, MATH 2551\n\nCHEM 13
- 15\, CHEM 2311\, CHEM 2312\, CHEM 2313\, MATH 1553\, MATH 1554\n\nPhone: (
- 404) 894-1945\nWeb: success.gatech.edu/reading-day\n\nLinks:\n[0]  http://
- hg.gatech.edu/node/620329#0\n[1]  http://success.gatech.edu/reading-day
-LOCATION:Clough 152 and 144
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ambassadors Staff Meet and Treat
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190424T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190424T170000Z
-UID:http://hg.gatech.edu/node/620833#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nExtras: Free food\nStatus: published\n\nHosted 
- by Georgia Tech Ambassadors\n\nInviting ALL faculty\, staff\, administrati
- on and students - Celebrate the end of the year outside together to honor 
- the wonderful staff members who keep this campus running! Grab a popsicle\
- , take a fun photo at our Reck photo booth\, or maybe play a game of cornh
- ole.\n\nMore information on Facebook [1]\n\nLinks:\n[0]  http://hg.gatech.
- edu/node/620833#0\n[1]  https://www.facebook.com/events/354072228790028/
-LOCATION:Harrison Square
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cancelled: Creating “brave” spaces: Giving and receiving const
- ructive feedback
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190424T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190424T170000Z
-UID:http://hg.gatech.edu/node/611396#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \nStatus: published\n\n**Event has been cancelled**\n\nWallace H Coulter D
- epartment of Biomedical Engineering\n\n2018/19 Faculty Development Lunch S
- eries\n\nTopic: Creating “brave” spaces: Giving and receiving construc
- tive feedback\n\nVeronica van Montfrans\nDirector of Learning Sciences Inn
- ovation and Research\nWH Coulter Department of BME\n\nThese are open to BM
- E faculty (all - i.e. primary and program)\, BME post docs\, and PhD stude
- nts participants in our Preparing Future Faculty program.\n\nLinks:\n[0]  
- http://hg.gatech.edu/node/611396#0
-LOCATION:Rm 3115 Whitaker (GT) & Rm E182 HSRB (Emory)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Southeast Regional Annual Regulatory (RAPS) Career Days
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190424T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190424T230000Z
-UID:http://hg.gatech.edu/node/620211#0
-DESCRIPTION:Intended audience: Graduate students\, Postdoc\, Public\, Unde
- rgraduate students\nStatus: published\n\nIt’s that time of year again—
- where RAPS Atlanta chapter gathers the resources for you to learn more abo
- ut a career in regulatory and opportunities in the profession.\n\nOn Wedne
- sday\, 24 April\, the Georgia Institute of Technology will host the third 
- annual Southeast Regional Regulatory Career Day. This interactive workshop
-  will include presentations and panel discussions from seasoned profession
- als on how to get into or advance your career in the regulatory industry.\
- n\nWhether you want to transition into regulatory affairs\, are an experie
- nced professional exploring new opportunities or a student looking for a n
- ew and exciting career\, this is the event for you. Bring your resume and 
- come prepared to engage with hiring representatives from medical device\, 
- pharmaceutical and biotech companies from the region.\n\nPresentation topi
- cs will include:\n\n- How Regulatory Affairs Certification (RAC) and advan
- ced degrees can help your career\n- What it is like working for industry\,
-  trade association and Notified Bodies\n- What it takes to become a regula
- tory consultant\n\nWho Should Attend:\n\n- Those looking to start or trans
- ition into a career in regulatory\n- Early to mid-level professionals inte
- rested in expanding their careers\n- Professionals exploring employment op
- portunities\n\nThis event\, hosted by Georgia Institute of Technology\, is
-  brought to you by the RAPS Atlanta Chapter and is intended to facilitate 
- professional development and networking amongst those in the local regulat
- ory community. Light refreshments will be provided for all attendees and R
- AC holders may claim four RAC recertification credits.\n\nSpeakers and Pan
- elists:\n\n- Bryan Brosseau\, RAC\, founder/principal consultant\, Brossea
- u Consulting LLC\n- Pete Etchells\, senior RAC manager\, Regulatory Affair
- s Professionals Society (RAPS)\n- Grace Gowda\, PhD\, RAC\, program direct
- or\, international biomedical regulatory sciences program\, UGA\n- Michael
-  Hellerstein\, director\, regulatory affairs and quality systems\, GeoVax\
- , Inc.\n- Jonathan Houpt\, global regulatory affairs CMC manager for pharm
- aceuticals\, Boehringer Ingelheim\n- Al Jacks\, vice president\, quality s
- ervices and regulatory affairs\, Altea Therapeutics Corporation\n- Sylvie 
- Laliberté Verdon\, MS\, RAC\, MPM®\, senior consultant\, REGSolutions\, 
- LLC\n- Courtney Portik\, MPH\, RAC\, senior regulatory affairs associate\,
-  labeling\, Arbor Pharmaceuticals\, LLC\n- Grace Powers\, MS\, MBA\, RAC\,
-  founder/principal consultant\, Powers Regulatory Consulting\n- Diane Urie
- ll\, MBA\, RAC\, senior director\, regulatory affairs xray and women's hea
- lth\, GE Healthcare\n- Beatrice Wan\, RAC\, senior staff regulatory affair
- s specialist\, Stryker Neurovascular\n- Kelly Winn\, RAC\, director of HRP
- P & regulatory affairs\, Georgia Institute of Technology\n- Ingrid Zambran
- a\, district director\, Atlanta District (GA-NC-SC)\, Program Division Dir
- ector\, Office of Human and Animal Foods-Division III East\, Office of Reg
- ulatory Affairs\, FDA\n\nRegistration Information:\n\nPrior to 12 April 20
- 19\n*Student: $15\nRAPS Member: $25\nNonmember: $35\n\nOn or after 12 Apri
- l 2019\n*Student: $15\nRAPS Member: $35\nNonmember: $45\n\n*Students must 
- contact RAPS customer service (+1 301 770 2920 ext. 200) or use the studen
- t registration form to confirm status.\n\nREGISTER HERE [1]\n\nLinks:\n[0]
-   http://hg.gatech.edu/node/620211#0\n[1]  https://my.raps.org/shopping-ca
- rt/?CurrencyId=928d8e91-f8cf-47bf-927d-f529ef848d0f\n[2]  http://petitinst
- itute.gatech.edu/\n[3]  https://www.raps.org/events/atlanta-chapter-southe
- ast-regional-annual-regulatory-career-day
-LOCATION:Parker H. Petit Institute for Bioengineering and Bioscience\, Roo
- m 1128 and Atrium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pops with the President
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190424T180000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190424T200000Z
-UID:http://hg.gatech.edu/node/620741#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nExtras: Free food\nStatus: published\n\nPlease 
- join President G.P. "Bud" Peterson and First Lady Valerie H. Peterson as t
- hey pay tribute to the Georgia Tech community. Students\, faculty\, and st
- aff are invited. Pops provided by King of Pops on a first-come\, first-ser
- ved basis.\n\nLinks:\n[0]  http://hg.gatech.edu/node/620741#0
-LOCATION:Kessler Campanile
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DILAC Dean's Showcase
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190424T190000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190424T210000Z
-UID:http://hg.gatech.edu/node/620812#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\, Freebies\nStatus: 
- published\n\nDILAC Dean's Showcase\n\nSkiles 318\, Wednesday\, April 24\, 
- 3 - 5 p.m.\n\nJoin DILAC\, the Digital Integrative Liberal Arts Centers\, 
- for an afternoon of food\, drinks\, and a showcase of faculty and lab proj
- ects from the 2018-2019 academic year.\n\nCheck out the attached flyer for
-  a full listing of the projects that will be showcased.\n\nLinks:\n[0]  ht
- tp://hg.gatech.edu/node/620812#0\n[1]  http://hg.gatech.edu/node/620315#0
-LOCATION:Skiles 318
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stressbuzzters at the Library
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190424T190000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190424T210000Z
-UID:http://hg.gatech.edu/node/619872#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nStatus: published\n\nEnjoy yoga\, snacks\, drin
- ks\, and on-hand counselors in the Library from 3 to 5 p.m. Massages are f
- rom 1-3.\n\nLinks:\n[0]  http://hg.gatech.edu/node/619872#0
-LOCATION:Georgia Tech Library: Crosland Tower Grove Level
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spin & Screen - Goonies
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190424T213000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190424T233000Z
-UID:http://hg.gatech.edu/node/620672#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
- aduate students\nExtras: Free food\nStatus: published\n\nNeed a break to r
- elease some stress from finals? The Georgia Tech Recreation Complex (CRC) 
- can help!\n\nTwo sessions being offered for Spring 2019:\n\n- April 24th\,
-  5:30p - 7:30p: Goonies\n- May 1st\,\, 5:30p - 7:30p: Jumanji (2017)\n\nTh
- is class is free for all CRC members. Snacks and refreshments are provided
- . Space is limited\, pre-registration and a wait-list are available.\n\nCl
- ick here to pre-register and reserve your spot! [1]\n\nLinks:\n[0]  http:/
- /hg.gatech.edu/node/620672#0\n[1]  https://mycrc.gatech.edu/Program/GetPro
- gramDetails?courseId=7c512024-cd2d-49b6-af78-e1523a50a10b&semesterId=7b468
- 2df-c8c5-4214-a4b8-d7976a130ea6\n[2]  http://crc.gatech.edu/spin-screen
-LOCATION:Campus Recreation Center\, 4th Floor
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Chat Over Chicken
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190425T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190425T163000Z
@@ -13886,8 +13571,8 @@ LOCATION:AGSC\, 781 Marietta St. NW\, Suite 115\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:General Meeting - Development Planning & Engineering\, Inc.
-DTSTART;VALUE=DATE-TIME:20191022T150000Z
-DTEND;VALUE=DATE-TIME:20191022T160000Z
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191022T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191022T160000Z
 UID:https://gatech.campuslabs.com/engage/event/5059836
 DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nIn January
   of 1999 Development Planning & Engineering\, Inc was founded by two Profe
@@ -14227,8 +13912,8 @@ LOCATION:Student Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Day of the Dead Celebration
-DTSTART;VALUE=DATE-TIME:20191022T210000Z
-DTEND;VALUE=DATE-TIME:20191022T220000Z
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191022T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191022T220000Z
 UID:https://gatech.campuslabs.com/engage/event/5059837
 DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFor this week's Spanish
   Speaking Organization meeting\, we will be celebrating Day of the Dead\, 
@@ -14403,8 +14088,8 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  meets the third Tuesday of each month at 9 a.m. The meeting location varie
  s and can be found on the Staff Council calendar.\n\nFor more information\
  , please\, visit [2].\n\nLinks:\n[0]  http://hg.gatech.edu/node/627198#0\n
- [1]  http://staffcouncil.gatech.edu/rsvp-i\n[2]  http://staffcouncil.gatec
- h.edu/
+ [1]  https://staffcouncil.gatech.edu/rsvp-i\n[2]  http://staffcouncil.gate
+ ch.edu/
 LOCATION:Student Center Ballroom
 END:VEVENT
 BEGIN:VEVENT
@@ -14510,8 +14195,8 @@ LOCATION:Klaus 2456
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Study Abroad Panel
-DTSTART;VALUE=DATE-TIME:20191024T150000Z
-DTEND;VALUE=DATE-TIME:20191024T154500Z
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191024T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191024T154500Z
 UID:https://gatech.campuslabs.com/engage/event/5061779
 DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome hear from people w
  ho have studied abroad about their experiences and ask any questions you h
@@ -14646,6 +14331,40 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  ncept3d.com/?id=82#!m/184212\n[2]  https://map.concept3d.com/?id=82#!m/113
  94
 LOCATION:Georgia Tech's Student Center\, Room 319
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPaT Thursday Think Tank: Detecting and Measuring the Impact of Fo
+ od Insecurity at Georgia Tech
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191024T193000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191024T210000Z
+UID:http://hg.gatech.edu/node/625746#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nIn 2016\, Georgia
+  Tech collected preliminary data through an online survey of 771 students.
+  The report found that 10% of Georgia Tech’s students responded being in
+  need of food assistance and that 16% prioritized working at their job ove
+ r academics and extracurricular activities. Georgia Tech’s actions to fi
+ ll this gap include opening Klemis Kitchen in 2015\, an on-campus food pan
+ try that provides leftover food from the dining halls and Panera Bread as 
+ well as canned donations from other sources. However\, in Spring 2019\, on
+ ly 100 students have self-identified and enrolled in the program\; a far c
+ ry from the 10% of students estimated in the 2016 survey.\n\nTo ensure bot
+ h the highest levels of health and academic performance of all GT students
+ \, we need to understand the effects of food insecurity/security on health
+  and academic performance\, identify effective methods of recognizing stud
+ ents who are food insecure\, and develop interventions to that will increa
+ se food security among those students who are food insecure. The purpose o
+ f this preliminary study is to address the first two issues. Our specific 
+ aims are 1) to understand the impact of food security/insecurity on academ
+ ic performance and 2) identify passive tools that can predict profiles of 
+ food insecure students that are specific to students within a semester per
+ iod.\n\nModerators:\n\nJon Sanford\, Professor\, School of Industrial Desi
+ gn\; Director\, Center for Assistive Technology and Environmental Access (
+ CATEA)\n\nThomas Ploetz\, Associate Professor\, School of Interactive Comp
+ uting\n\nMehrab Bin Morshed\, Ph.D. Student\, Human-Centered Computing\, G
+ eorgia Tech\n\nMahalia Hart\, Graduate Student\, Georgia Tech\n\nLinks:\n[
+ 0]  http://hg.gatech.edu/node/625746#0
+LOCATION:IPaT@Centergy\, 75 5th Street NW Suite 600\, Atlanta\, GA 30308
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Adulting: Cooking for Life
@@ -14797,8 +14516,8 @@ LOCATION:Room 332\, Student Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga in North Ave
-DTSTART;VALUE=DATE-TIME:20191024T220000Z
-DTEND;VALUE=DATE-TIME:20191024T233000Z
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191024T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191024T233000Z
 UID:https://gatech.campuslabs.com/engage/event/4968656
 DESCRIPTION:Extras: Free Food\nStatus: approved\n\n- Come and do yoga taug
  ht by a professional in the North Ave Gym on October 24th 6-7:30pm!\n- Wat
@@ -14810,8 +14529,8 @@ LOCATION:North Ave Gym
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arab Cards Game Night
-DTSTART;VALUE=DATE-TIME:20191024T220000Z
-DTEND;VALUE=DATE-TIME:20191025T000000Z
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191024T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191025T000000Z
 UID:https://gatech.campuslabs.com/engage/event/5059840
 DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJOIN THE ARAB STUDENT O
  RGANIZATION FOR\n\nASO Arab Card Game Night\n\nMSE Atrium 1\, October 24th
@@ -14885,8 +14604,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NVIDIA Tech Talk - HashGraph - Scalable Hash Tables Using A Sparse
   Graph Data Structure
-DTSTART;VALUE=DATE-TIME:20191024T223000Z
-DTEND;VALUE=DATE-TIME:20191025T000000Z
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191024T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191025T000000Z
 UID:http://hg.gatech.edu/node/627859#0
 DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  nExtras: Free food\, Freebies\nStatus: published\n\nCome join us for an ev
@@ -14902,8 +14621,8 @@ LOCATION:Klaus 1116 EW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Design Your Halloween Costume
-DTSTART;VALUE=DATE-TIME:20191024T223000Z
-DTEND;VALUE=DATE-TIME:20191025T003000Z
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191024T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191025T003000Z
 UID:http://hg.gatech.edu/node/627888#0
 DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  nExtras: Free food\, Freebies\nStatus: published\n\nCelebrate Halloween de
@@ -14949,6 +14668,47 @@ DESCRIPTION:Intended audience: Graduate students\, Postdoc\nExtras: Free f
   https://ctl.gatech.edu/content/fall-2019-teaching-workshops-future-facult
  y\n[2]  http://ctl.gatech.edu/grad-students/workshops
 LOCATION:Piedmont Room\, Student Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Materials Seminar featuring Brina Blinzler
+DTSTART;VALUE=DATE-TIME:20191025T150000Z
+DTEND;VALUE=DATE-TIME:20191025T160000Z
+UID:http://hg.gatech.edu/node/628030#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\nStatus: published\n\nPushing the Boundaries in Li
+ ghtweight Composites\nBrina Blinzler\, Assistant Professor Division of Mat
+ erial and Computational Mechanics\, Department of Industrial and Materials
+  Science Chalmers University of Technology\, Göteborg\, Sweden\n\nAbstrac
+ t\n\nHigh performance polymer matrix composites (PMC) have a high specific
+  stiffness and can be used to easily manufacture highly complex components
+ . Hierarchical composite materials with microstructures designed for speci
+ fic multifunctional purposes are an important development area for modern 
+ materials. The demand for new materials is increasing and the rate at whic
+ h those new materials should complete the development cycle is decreasing.
+  In order to meet this demand\, existing material development frameworks m
+ ust be enhanced via more progressive human-computer materials development.
+  A few techniques are presented to meet this need including: a combination
+  of modern imaging techniques and finite element analysis of in-situ fiber
+  bundles\, a stochastic approach utilizing experimental through-thickness 
+ scanning electron microscope (SEM) images of nanocomposites to create virt
+ ual representations of the experimental microstructure\, an adaptation of 
+ hierarchical materials developed in nature\, and the potential for a low e
+ nergy\, high performance processing methods.\n\nBiography\n\nDr. Brina Bli
+ nzler is an Assistant Professor in Composite Mechanics at Chalmers Univers
+ ity of Technology. Her research focuses on composite process modeling\, me
+ chanics\, and material informatics. She leads the all Wood Composites Plat
+ form and is a representative for the Chalmers Graphene Center in the Focus
+  Area: Multifunctional Composites and Coatings. She has recently received 
+ the Jacob Wallenbergs Foundation: Material Science Research Award (2019) a
+ nd the Hasselblad Foundation: Female Scientist Award (2018). Previously\, 
+ Dr. Blinzler conducted research at Scaled Composites\, Easton Baseball/ So
+ ftball and other companies. In addition\, she was a recipient of the NASA 
+ Graduate Student Researchers Program fellowship\, holds a PhD in Civil Eng
+ ineering from the University of Akron and BS in Civil Engineering from Mis
+ souri University of Science and Technology.\n\nLinks:\n[0]  http://hg.gate
+ ch.edu/node/628030#0\n[1]  https://goo.gl/maps/msvdA3p7Ct1RuoBp6
+LOCATION:The George W. Woodruff School of Mechanical Engineering\, MRDC Bu
+ ilding\, Room 4211\, 801 Ferst Drive\, NW Atlanta\, GA 30332
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alpha Kappa Psi Personal Finance Week
@@ -15118,6 +14878,17 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Catholic Center\, 172 4th St NW\, Atlanta\, GA 30313
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lockheed Martin Women in STEM Panel
+DTSTART;VALUE=DATE-TIME:20191028T223000Z
+DTEND;VALUE=DATE-TIME:20191029T000000Z
+UID:http://hg.gatech.edu/node/627952#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\, Freebies\nStatus: published\n\nJoin Lockheed Martin f
+ or their Women in STEM Panel at 6:30PM at Klaus 1116 EW!\n\nFree dinner wi
+ ll be provided!\n\nLinks:\n[0]  http://hg.gatech.edu/node/627952#0
+LOCATION:Klaus 1116 EW
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:'The Office of Ethics & Compliance: Our Vision\, Goals\, and How Y
  ou Can Help'
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191029T150000Z
@@ -15157,6 +14928,51 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Scheller College of Business\, Room 314
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Walmart Day in the Lobby
+DTSTART;VALUE=DATE-TIME:20191029T150000Z
+DTEND;VALUE=DATE-TIME:20191029T200000Z
+UID:http://hg.gatech.edu/node/628019#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\, Freebies\nStatus: published\n\nInnovate with heart.\n
+ Join Walmart from 11am-4pm in the CCB Commons to learn about their open op
+ portunities!\n\nOpen Opportunities\n- Category Specialist [01]\n- Associat
+ e Product Manager (Rotational Program) [02]\n- Full Time Data Scientist/Da
+ ta Analytic [03]\n- Full Time Software Engineer [04]\n- 2020 Summer Intern
+  - Data Scientist / Data Analtics [05]\n- 2020 Summer Intern - Software En
+ gineer [06]\n- 2020 Summer Intern - Supply Chain [07]\n- 2020 Summer Inter
+ n - Design Research\, Customer Experience [08]\n- 2020 Summer Intern - UX 
+ Design Technologist\, Customer Experience [09]\n\nBig thinkers. Bigger hea
+ rts.\nWe’re changing the future of retail and we’re doing it by innova
+ ting with heart. From interns to MBAs to new graduates\, we’re looking f
+ or people with big ideas that will impact millions.\n\nClick here to view 
+ all open opportunities. [10]\n\nLinks:\n[00]  http://hg.gatech.edu/node/62
+ 8019#0\n[01]  https://boards.greenhouse.io/walmartbrands/jobs/1753873\n[02
+ ]  https://careers.walmart.com/us/jobs/1358368BR-associate-product-manager
+ -rotational-program-san-bruno-ca\n[03]  https://walmart.wd5.myworkdayjobs.
+ com/en-US/WalmartExternal/job/US-CA-SUNNYVALE-Home-Office-SUNNYVALE-III---
+ 840-W-CALIFORNIA/Campus-Recruiting---Full-Time-Data-Scientist-Data-Analyti
+ cs--Data-Analyst-2---Ecomm-_R-99421\n[04]  https://walmart.wd5.myworkdayjo
+ bs.com/en-US/WalmartExternal/job/US-CA-SUNNYVALE-Home-Office-SUNNYVALE-III
+ ---840-W-CALIFORNIA/Campus-Recruiting--Full-Time-Software-Engineer--Softwa
+ re-Engineer-1---Ecomm_R-99412\n[05]  https://walmart.wd5.myworkdayjobs.com
+ /en-US/WalmartExternal/job/US-CA-SUNNYVALE-Home-Office-SUNNYVALE-III---840
+ -W-CALIFORNIA/XMLNAME-2020-Summer-Intern---Data-Scientist-Data-Analytics--
+ com-Calif-Temp-Mgmt-_R-99387\n[06]  https://walmart.wd5.myworkdayjobs.com/
+ en-US/WalmartExternal/job/US-CA-SUNNYVALE-Home-Office-SUNNYVALE-III---840-
+ W-CALIFORNIA/XMLNAME-2020-Summer-Intern---Software-Engineer--com-Calif-Tem
+ p-Mgmt-_R-99416\n[07]  https://careers.walmart.com/us/jobs/1361840BR-2020-
+ summer-intern-specialist-supply-chain-operations-san-bruno-ca\n[08]  https
+ ://careers.walmart.com/us/jobs/1354892BR-2020-summer-intern-design-researc
+ h-customer-experience-san-bruno-ca?utm_campaign=google_jobs_apply&utm_sour
+ ce=google_jobs_apply&utm_medium=organic\n[09]  https://careers.walmart.com
+ /us/jobs/1354893BR-2020-summer-intern-ux-design-technologist-customer-expe
+ rience-san-bruno-ca?utm_campaign=google_jobs_apply&utm_source=google_jobs_
+ apply&utm_medium=organic\n[10]  https://careers.walmart.com/results?q=2019
+ %20OR%202020&page=1&sort=rank&expand=department\,brand\,type\,rate&jobCare
+ erArea=all
+LOCATION:CCB Commons
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:IEN INDUSTRY SEMINAR SERIES: Engineering & Lithography Fun - Pract
  ical Problem Solving
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191029T160000Z
@@ -15192,8 +15008,8 @@ LOCATION:Marcus Nanotechnology Building 1116-1118 | 345 Ferst Drive | Atla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SCPC Presents: Homecoming Carnival
-DTSTART;VALUE=DATE-TIME:20191029T160000Z
-DTEND;VALUE=DATE-TIME:20191029T190000Z
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191029T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191029T190000Z
 UID:http://hg.gatech.edu/node/627865#0
 DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatech.edu
@@ -15328,6 +15144,51 @@ LOCATION:Scheller College of Business\, Suite 4426 800 W. Peachtree St. NW
  \, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Walmart Tech Talk
+DTSTART;VALUE=DATE-TIME:20191029T223000Z
+DTEND;VALUE=DATE-TIME:20191030T000000Z
+UID:http://hg.gatech.edu/node/628021#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\, Freebies\nStatus: published\n\nInnovate with heart.\n
+ Join Walmart at 6:30pm in Klaus 1116EW for their Tech Talk to learn about 
+ their innovative technology!\n\nOpen Opportunities\n- Category Specialist 
+ [01]\n- Associate Product Manager (Rotational Program) [02]\n- Full Time D
+ ata Scientist/Data Analytic [03]\n- Full Time Software Engineer [04]\n- 20
+ 20 Summer Intern - Data Scientist / Data Analtics [05]\n- 2020 Summer Inte
+ rn - Software Engineer [06]\n- 2020 Summer Intern - Supply Chain [07]\n- 2
+ 020 Summer Intern - Design Research\, Customer Experience [08]\n- 2020 Sum
+ mer Intern - UX Design Technologist\, Customer Experience [09]\n\nBig thin
+ kers. Bigger hearts.\nWe’re changing the future of retail and we’re do
+ ing it by innovating with heart. From interns to MBAs to new graduates\, w
+ e’re looking for people with big ideas that will impact millions.\n\nCli
+ ck here to view all open opportunities. [10]\n\nLinks:\n[00]  http://hg.ga
+ tech.edu/node/628021#0\n[01]  https://boards.greenhouse.io/walmartbrands/j
+ obs/1753873\n[02]  https://careers.walmart.com/us/jobs/1358368BR-associate
+ -product-manager-rotational-program-san-bruno-ca\n[03]  https://walmart.wd
+ 5.myworkdayjobs.com/en-US/WalmartExternal/job/US-CA-SUNNYVALE-Home-Office-
+ SUNNYVALE-III---840-W-CALIFORNIA/Campus-Recruiting---Full-Time-Data-Scient
+ ist-Data-Analytics--Data-Analyst-2---Ecomm-_R-99421\n[04]  https://walmart
+ .wd5.myworkdayjobs.com/en-US/WalmartExternal/job/US-CA-SUNNYVALE-Home-Offi
+ ce-SUNNYVALE-III---840-W-CALIFORNIA/Campus-Recruiting--Full-Time-Software-
+ Engineer--Software-Engineer-1---Ecomm_R-99412\n[05]  https://walmart.wd5.m
+ yworkdayjobs.com/en-US/WalmartExternal/job/US-CA-SUNNYVALE-Home-Office-SUN
+ NYVALE-III---840-W-CALIFORNIA/XMLNAME-2020-Summer-Intern---Data-Scientist-
+ Data-Analytics--com-Calif-Temp-Mgmt-_R-99387\n[06]  https://walmart.wd5.my
+ workdayjobs.com/en-US/WalmartExternal/job/US-CA-SUNNYVALE-Home-Office-SUNN
+ YVALE-III---840-W-CALIFORNIA/XMLNAME-2020-Summer-Intern---Software-Enginee
+ r--com-Calif-Temp-Mgmt-_R-99416\n[07]  https://careers.walmart.com/us/jobs
+ /1361840BR-2020-summer-intern-specialist-supply-chain-operations-san-bruno
+ -ca\n[08]  https://careers.walmart.com/us/jobs/1354892BR-2020-summer-inter
+ n-design-research-customer-experience-san-bruno-ca?utm_campaign=google_job
+ s_apply&utm_source=google_jobs_apply&utm_medium=organic\n[09]  https://car
+ eers.walmart.com/us/jobs/1354893BR-2020-summer-intern-ux-design-technologi
+ st-customer-experience-san-bruno-ca?utm_campaign=google_jobs_apply&utm_sou
+ rce=google_jobs_apply&utm_medium=organic\n[10]  https://careers.walmart.co
+ m/results?q=2019%20OR%202020&page=1&sort=rank&expand=department\,brand\,ty
+ pe\,rate&jobCareerArea=all
+LOCATION:Klaus 1116EW
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:RHA Game Night
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191029T223000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191030T003000Z
@@ -15355,8 +15216,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Capital One Tech Talk: The Technology Behind Eno\, Capital One's N
  atural Language Intelligent Assistant
-DTSTART;VALUE=DATE-TIME:20191030T223000Z
-DTEND;VALUE=DATE-TIME:20191031T000000Z
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191030T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191031T000000Z
 UID:http://hg.gatech.edu/node/627911#0
 DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  nExtras: Free food\, Freebies\nStatus: published\n\nJoin Capital One for t
@@ -15439,14 +15300,61 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Campus Recreation Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GVU Center Brown Bag: HyunJoo Oh "Everyday Materials Transformed b
+ y Computing"
+DTSTART;VALUE=DATE-TIME:20191031T153000Z
+DTEND;VALUE=DATE-TIME:20191031T170000Z
+UID:http://hg.gatech.edu/node/628034#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nExtras: Free food\nStatus: review\n\nAbstract:\n
+ \nLook around at some of the familiar objects and materials in your surrou
+ ndings. These things can be transformed. By combining everyday materials w
+ ith computing\, we can extend and reimagine their expressive and functiona
+ l possibilities. We can also invite people to explore a new design space t
+ hrough making. In this talk\, HyunJoo will present her recent work in inte
+ grating paper and recycled materials with computing and discuss a suite of
+  computational design tools her research team has developed. She will desc
+ ribe how combinations of everyday materials with computation can expand cr
+ eative possibilities while leveraging familiarity to empower designers and
+  learners.\n\nSpeaker Bio:\n\nHyunJoo Oh is an assistant professor with a 
+ joint appointment in the School of Industrial Design and the School of Int
+ eractive Computing at Georgia Tech. Working at the intersection of Human-C
+ omputer Interaction and Design\, she develops computational design tools t
+ hat integrate everyday materials with computing. Her work investigates fun
+ damental questions on how people see and think\, and make\, in particular 
+ how those are closely linked and shape each other. Her work has been publi
+ shed and exhibited at ACM SIGCHI conferences such as CHI\, TEI\, and DIS\,
+  and featured in venues including CNET and Maker Ed.\n\nSchedule of Brown 
+ Bag Speakers Fall 2019 [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/62803
+ 4#0\n[1]  https://www.gvu.gatech.edu/events/upcoming\n[2]  http://www.tsrb
+ .gatech.edu/
+LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
+ a\, Ga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SCPC Presents: Haunted Knights
-DTSTART;VALUE=DATE-TIME:20191031T230000Z
-DTEND;VALUE=DATE-TIME:20191101T020000Z
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191031T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191101T020000Z
 UID:http://hg.gatech.edu/node/627866#0
 DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatech.edu
  /node/627866#0
 LOCATION:Student Center Ballroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pomp and Pancake Palooza
+DTSTART;VALUE=DATE-TIME:20191031T230000Z
+DTEND;VALUE=DATE-TIME:20191101T060000Z
+UID:https://gatech.campuslabs.com/engage/event/5071549
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDo you like pancakes\, 
+ nachos\, and/or POMP??? Well if you answered yes to any of those (and be h
+ onest\, of course you did)\, then come by the BCM building on Oct. 31 star
+ ting at 7:00 PM for the BCM's Pomp and Pancake Palooza!\n\nThe night will 
+ start at 7:00 PM with Nachos and Pomp decoration. Then at 10:00 PM\, we'll
+  start our pancake night on the front lawn!\n\nOct. 31 | 7:00 p.m. - 2:00 
+ a.m.\n\nBCM Building | 740 Techwood Dr.\n\nLinks:\n[0]  https://gatech.cam
+ puslabs.com/engage/event/5071549
+LOCATION:Baptist Collegiate Ministry
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Turning Sour\, Bloated\, and Out of Breath: Ocean Chemistry under 
@@ -15675,6 +15583,37 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome join us for fellow
 LOCATION:The Catholic Center at Georgia Tech
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:30th Anniversary of the Fall of the Berlin Wall
+DTSTART;VALUE=DATE-TIME:20191104T171000Z
+DTEND;VALUE=DATE-TIME:20191104T200000Z
+UID:http://hg.gatech.edu/node/628022#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nOn November 4\, the Center for European and Transatlantic Studies\, a Je
+ an Monnet Center of Excellence is honoring the 30th anniversary of the fal
+ l of the Berlin Wall.\n\nProgram Schedule:\n12:10 Opening Remarks: Dr. Hei
+ ke Fuller\, German Consul General\n\n12:20-1:20 Keynote Address: Milada Va
+ chudova\, Political Science\, University of North Carolina at Chapel Hill\
+ n\n1:25-2:10 Panel 1: Postcommunist Transition: Society & Culture\n\n- Kri
+ sti Macrakis\, History and Sociology\, Georgia Tech\n- Jelena Subotic\, Po
+ litical Science\, Georgia State\n- Jan Uelzmann\, Modern Languages\, Georg
+ ia Tech\n\n2:15-3 Panel 2: Postcommunist Transition: Security\n\n- Eliza M
+ arkley\, Nunn School\, Georgia Tech\n- Bob Kennedy\, Atlanta Council on In
+ ternational Relations\n- Michael Baun\, International Relations\, Valdosta
+  State\n\nThe event is co-sponsored by the Atlanta Council on Internationa
+ l Relations\, Alasdair Young’s Ivan Allen College Distinguished Research
+ er Award\, Center for International Strategy\, Technology\, and Policy\, S
+ chool of History and Sociology\, School of Modern Languages with the suppo
+ rt of the Erasmus+ Programme of the European Union.\n\nThe event in the Bi
+ ll Moore Student Success Center [1] President's Suite C & D is free and op
+ en to the public. Parking is available in visitor lot 1 [2]. Please RSVP f
+ or luch [3].\n\nLinks:\n[0]  http://hg.gatech.edu/node/628022#0\n[1]  http
+ s://map.concept3d.com/?id=82#!m/190022\n[2]  https://map.concept3d.com/?id
+ =82#!m/14991\n[3]  https://gatech.co1.qualtrics.com/jfe/form/SV_egprV3MKJX
+ E1c9v
+LOCATION:Bill Moore Student Success Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dr. Mary Lynn Realff conducts StrengthsFinder dinner workshop
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191104T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191105T003000Z
@@ -15858,6 +15797,38 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  /register/7743848701594856716
 LOCATION:Children's Healthcare of Atlanta Seminar Room\, Krone Engineered 
  Biosystems Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Porsche Vice President of HR Erika Burk\, Ph.D. Presentation
+DTSTART;VALUE=DATE-TIME:20191106T213000Z
+DTEND;VALUE=DATE-TIME:20191106T233000Z
+UID:http://hg.gatech.edu/node/627956#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\, Freebies\nStatus: 
+ published\n\nPlease join us for a very unique opportunity on Wednesday\, N
+ ovember 6th at 4:30 pm\, as we welcome Dr. Erika Burk of Porsche Cars Nort
+ h America to our campus!\n\nErika Burk\, Ph.D. is the Vice President of Hu
+ man Resources for Porsche Cars North America\, Inc. She has experience in 
+ both American and German business cultures\, providing us with the unique 
+ opportunity to learn about her experiences and insights pertaining to the 
+ automotive and chemical industry. Her presentation will be in German\, fol
+ lowed by a Q&A and a reception.\n\nErika Burk\, Ph.D. formerly worked for 
+ other major companies\, such as Mercedes-Benz\, U.S. International Inc.\, 
+ Daimler-Chrysler AG\, and WACKER Chemical LLC. At the beginning of her car
+ eer\, Dr. Burk worked as an employment specialist for Mercedes-Benz\, U.S.
+  International Inc. She was the first employee of WACKER Chemical LLC\, a 
+ now $2.5 billion start-up chemical plant. As the Vice President of Human R
+ esources at Porsche Cars North America\, Inc\, Dr. Burk is responsible for
+  overseeing the implementation of the human resources operating plan\, com
+ pensation and benefits\, talent acquisition\, and management and developme
+ nt.\n\nPlease RSVP here by November 4th\, 2019 at 12:00pm: [1]\n\nA specia
+ l thank you to The Halle Foundation for sponsoring this event\, which is p
+ art of GRMN 3821: Global Career Lab auf Deutsch. For more information\, pl
+ ease see the attached flyer!\n\nWe hope to see you there!\n\nLinks:\n[0]  
+ http://hg.gatech.edu/node/627956#0\n[1]  https://forms.office.com/Pages/Re
+ sponsePage.aspx?id=u5ghSHuuJUuLem1_Mvqgg1_8vAqDIS1Hl_o_zbOjFORUQUJHMlQ0RFp
+ SS0dFUkkxWTNQOFlCREZNSy4u
+LOCATION:Student Success Center\, President Suite C and D
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CREATE-X Startup Ideas
@@ -16336,8 +16307,8 @@ LOCATION:Medshare
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meditation Retreat
-DTSTART;VALUE=DATE-TIME:20191110T143000Z
-DTEND;VALUE=DATE-TIME:20191110T213000Z
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191110T143000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191110T213000Z
 UID:http://hg.gatech.edu/node/627901#0
 DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  nStatus: published\n\nDaylong Meditation Retreat (hosted by GT Meditation 
@@ -16387,8 +16358,8 @@ LOCATION:Student Center Theater
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Veterans Day Luncheon
-DTSTART;VALUE=DATE-TIME:20191111T163000Z
-DTEND;VALUE=DATE-TIME:20191111T173000Z
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191111T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191111T173000Z
 UID:http://hg.gatech.edu/node/627845#0
 DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
  aduate students\nStatus: published\n\nThe Veterans Resource Center is host
@@ -16855,6 +16826,54 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Bill Moore Student Success Center – President’s Suite D
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chat Over Chicken
+DTSTART;VALUE=DATE-TIME:20191114T163000Z
+DTEND;VALUE=DATE-TIME:20191114T173000Z
+UID:http://hg.gatech.edu/node/628038#0
+DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nNetwork
+  with Georgia Tech women committed to supporting other women. Join with th
+ e Women of Georgia Tech ERG (WoGT) to enjoy the conversation and Ferst Pla
+ ce fried chicken! We provide the forum\, you drive the discussion. Registe
+ r now for a seat at the reserved WoGT tables. [1]\n\nLinks:\n[0]  http://h
+ g.gatech.edu/node/628038#0\n[1]  https://sdie.gatech.edu/women-ERG-upcomin
+ g-events
+LOCATION:Ferst Place\, Student Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teaching with Technology Spotlight: Video Based Quizzing
+DTSTART;VALUE=DATE-TIME:20191114T163000Z
+DTEND;VALUE=DATE-TIME:20191114T180000Z
+UID:http://hg.gatech.edu/node/628033#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Postdoc\nStatus: published\
+ n\nPlease register [1] to attend this upcoming teaching with technology sp
+ otlight session!\n\nEvery semester instructors all over Georgia Tech are p
+ roducing and utilizing videos in their courses. Have you ever wondered how
+  students are using these resources? Are you concerned that students might
+  not be watching the videos or might be skipping through them? Have you ev
+ er thought about how you could make your videos more engaging? Watching vi
+ deos is a very passive activity--but it doesn’t have to stay that way\, 
+ thanks to innovative technologies that allow you to add interactive featur
+ es to your videos.\n\nIn this spotlight workshop\, we will explore the tec
+ hnology and pedagogy behind Interactive Video Quizzes from Kaltura. We’l
+ l examine how you can use Kaltura to create quizzes that exist inside vide
+ os and describe how you can best leverage this technology in your own cour
+ ses. We’ll also discuss the concept of frequent quizzing and explain how
+  such a technique can benefit student learning. And we’ll hear from Dr. 
+ Tatiana Rudechenko\, a faculty member in Scheller\, who has successfully i
+ mplemented video quizzing in her own course. Tatiana will share her experi
+ ence\, lessons learned\, and tips for using this technique with your stude
+ nts.\n\nJoin us and learn first-hand about video quizzing and generate ide
+ as for innovative uses with your colleagues. Bring your laptop to get a ju
+ mp on creating your own video quizzes by engaging in hands-on activities o
+ r simply follow along with someone at your table. All are encouraged to at
+ tend--from novices who have just started to think about creating videos to
+  experts looking to add another tool to their video skill set. We look for
+ ward to seeing you!\n\nLunch will be provided. Please register [1] to join
+  us!\n\nLinks:\n[0]  http://hg.gatech.edu/node/628033#0\n[1]  https://ctl.
+ gatech.edu/content/teaching-technology-spotlight-video-based-quizzing
+LOCATION:Student Center\, Piedmont Room
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:And Still I Rise: Exploring African-Heritage Stories of Resilience
   and Determination
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191114T163000Z
@@ -17235,6 +17254,20 @@ LOCATION:Marcus Nanotechnology Building 1117-1118 | 345 Ferst Drive | Atla
  nta GA | 30332
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chat Over Chicken
+DTSTART;VALUE=DATE-TIME:20191212T163000Z
+DTEND;VALUE=DATE-TIME:20191212T173000Z
+UID:http://hg.gatech.edu/node/628039#0
+DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nNetwork
+  with Georgia Tech women committed to supporting other women. Join with th
+ e Women of Georgia Tech ERG (WoGT) to enjoy the conversation and Ferst Pla
+ ce fried chicken! We provide the forum\, you drive the discussion. Registe
+ r now for a seat at the reserved WoGT tables. [1]\n\nLinks:\n[0]  http://h
+ g.gatech.edu/node/628039#0\n[1]  https://sdie.gatech.edu/women-ERG-upcomin
+ g-events
+LOCATION:Ferst Place\, Student Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fall 2019 Dean's New Graduate Alumni Celebration
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191212T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191213T010000Z
@@ -17524,8 +17557,8 @@ LOCATION:GTMI 1st floor auditorium OR ISyE Main Building\, 2nd Floor Atriu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Focus/Graduate Studies Open House
-DTSTART;VALUE=DATE-TIME:20200117T124500Z
-DTEND;VALUE=DATE-TIME:20200117T180000Z
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200117T124500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200117T180000Z
 UID:http://hg.gatech.edu/node/627930#0
 DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  ents\nExtras: Free food\nStatus: draft\n\nIvan Allen College of Liberal Ar
