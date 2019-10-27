@@ -2,129 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Chat Over Chicken
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190425T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190425T163000Z
-UID:http://hg.gatech.edu/node/615226#3
-DESCRIPTION:Intended audience: Faculty/Staff\, Postdoc\nStatus: published\
- n\nNetwork with GT women committed to supporting other women. Join with th
- e Women of Georgia Tech ERG (WoGT) to enjoy the conversation and the legen
- dary Ferst Place Fried Chicken! We provide the forum\, you drive the discu
- ssion. Register now for a seat at the reserved WoGT tables.\n\nDining Deta
- ils: Ferst Place is located across from the Student Center ballroom. Dinin
- g options include a buffet\, salad bar and a made-to-order station. Partic
- ipants are responsible for purchasing their own lunch at a cost of $11.66 
- including tax. Please note: Accepted payment methods include: BuzzCards\, 
- Dining Points\, debit/credit cards\, and faculty and staff meal plans. Fer
- st Place does not accept cash.\n\nRegister to attend by selecting the corr
- ect month's event below:\n\n- January 31\, 2019: [1]\n- February 28\, 2019
- : [2]\n- March 28\, 2019: [3]\n- April 25\, 2019: [4]\n- May 30\, 2019: [5
- ]\n\nLinks:\n[0]  http://hg.gatech.edu/node/615226#3\n[1]  https://sdie.ga
- tech.edu/chat-over-chicken-jan2019\n[2]  https://sdie.gatech.edu/chat-over
- -chicken-feb2019\n[3]  https://sdie.gatech.edu/chat-over-chicken-mar2019\n
- [4]  https://sdie.gatech.edu/chat-over-chicken-apr2019\n[5]  https://sdie.
- gatech.edu/chat-over-chicken-may2019
-LOCATION:Student Center\, Ferst Place Dining Hall
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Georgia Tech ABLE Alliance Spring Kick-off and Membership Drive
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190425T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190425T170000Z
-UID:http://hg.gatech.edu/node/620576#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nExtras: Free food\nStatus: published\n\nThe ABL
- E Alliance is a new organization promoting inclusion\, professional and so
- cial networking\, and resource access for Georgia Tech students\, faculty\
- , and staff with disabilities. ABLE Alliance will hold an open-for-all\, d
- rop-in social gathering with mathematical and art expression activities (c
- atered with pizza!) on Thursday\, April 25\, from 11a.m. to 1p.m. in the U
- .A. Whitaker Building (Biomedical Engineering)\, room 1232.\n\nPlease atte
- nd and spread the word!\n\nLinks:\n[0]  http://hg.gatech.edu/node/620576#0
-LOCATION:U.A. Whitaker Building (Biomedical Engineering)\, room 1232
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wireless RERC Leadership Luncheon - Contexts of Connectivity
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190425T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190425T180000Z
-UID:http://hg.gatech.edu/node/618992#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nSmart connected d
- evices can enhance access to public and private environments and support t
- he independent living of people with disabilities. From the home and workp
- lace to community and recreation\, let’s consider the possibilities and 
- learn of the work being done to realize them.\n\nMeet the speakers:\n\nDou
- glas Guthrie is Senior Vice President\, Comcast Big South Region and respo
- nsible for operations\, financial performance\, and customer experience. D
- oug is very involved in many industry and community organizations. He acti
- vely supports Atlanta’s Special Olympics and personally mentors three in
- dividuals.\n\nLiz Persaud is the Program and Outreach Manager within the C
- enter for Inclusive Design and Innovation at Georgia Tech. A nationally re
- cognized public speaker\, addressing the need to build bridges between ind
- ividuals with and without disabilities\, she has dedicated her life to inc
- reasing independence for individuals with disabilities through education o
- n self-determination\, successful transition practices\, and using assisti
- ve technology.\n\nMaribeth Gandy Coleman is the Director of the Wearable C
- omputing Center\, Interactive Media Technology Center\, and is a Principal
-  Research Scientist at Georgia Tech. In her 16 years as research faculty\,
-  her work has been focused on the intersection of technology for mobile/we
- arable computing\, augmented reality\, human-computer interaction\, assist
- ive technology\, and gaming.\n\nTools for Life Access Lab After lunch\, Be
- n Jacobs\, Center for Inclusive Design and Innovation\, will demonstrate n
- ew consumer technologies that allow people with disabilities to manipulate
-  their environments.\n\nRegistration Required. [1]\nRSVP “yes” by send
- ing an email to salimah@cacp.gatech.edu [2]\n\nPlease indicate:\n\n- Accom
- modations that are needed.\n- Dietary restrictions.\n\nLinks:\n[0]  http:/
- /hg.gatech.edu/node/618992#0\n[1]  http://www.wirelessrerc.gatech.edu/wire
- less-rerc-leadership-luncheon-contexts-connectivity\n[2]  salimah@cacp.gat
- ech.edu
-LOCATION:Center for Inclusive Design and Innovation\, 512 Means Street N.W
- .
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Study Abroad Advising with Donuts!
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190426T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190426T160000Z
-UID:http://hg.gatech.edu/node/620215#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nThe application for exchanges for
-  Spring 2020 has opened! Come and ask your study abroad questions and have
-  a donut on us!\n\nLinks:\n[0]  http://hg.gatech.edu/node/620215#0
-LOCATION:Tech Walkway
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:School of Architecture End-of-Year Awards
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190426T200000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190426T220000Z
-UID:http://hg.gatech.edu/node/619735#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nStatus: published\n\nPlease join us as the Schoo
- l of Architecture presents end-of-semester awards to current and graduatin
- g students followed by an opening reception of the school's biggest exhibi
- tion of the year showcasing the work of our talented students.\n\nClick HE
- RE [1] to register.\n\n4:00pm - 6:00pm\nAwards\nReinsch-Pierce Auditorium\
- n\nRefreshments will be served.\n\nClick HERE [2] to view parking options.
- \n\nLinks:\n[0]  http://hg.gatech.edu/node/619735#0\n[1]  https://arch.gat
- ech.edu/2019-end-year-awards\n[2]  https://arch.gatech.edu/system/files/im
- ages/school_of_arch_parkingmap.pdf
-LOCATION:Georgia Institute of Technology | School of Architecture
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Xiti with the Xi's
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190426T210000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190426T230000Z
-UID:http://hg.gatech.edu/node/620767#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nExtras: Free food\nStatus: published\n\nCome to
-  Alpha Xi Delta's first Xiti With The Xi's on Friday\, April 26th from 5pm
- -7pm. Take a study break and come eat some good food before the Spring Foo
- tball Game! With each ticket purchase of $5 you get a plate of baked ziti\
- , breakdsticks\, and salad. Plus you are entered into a raffle with additi
- onal raffle ticket entries being only $1! You can buy these tickets at [1]
- .\n\nPurchase Tickets [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/620767
- #0\n[1]  http://tinyurl.com/gammaetaxiti
-LOCATION:Alpha Xi Delta house\, 847 Techwood Drive NW
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:College of Computing Hall of Fame
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190426T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190427T020000Z
@@ -11278,8 +11155,8 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  mate introduction to no-code\n- 5:00pm - Atlanta United FC customer case\n
  - 6:00pm - Catered dinner\n- 7:00pm - Platform demonstration\n- 8.00pm - N
  orton Rose Fulbright customer case\n- 9.00pm - Networking & drinks\n\nLink
- s:\n[0]  http://hg.gatech.edu/node/626873#0\n[1]  http://www.bettyblocks.c
- om/no-code-event-usa
+ s:\n[0]  http://hg.gatech.edu/node/626873#0\n[1]  https://www.bettyblocks.
+ com/no-code-event-usa
 LOCATION:Georgia Tech Student Center
 END:VEVENT
 BEGIN:VEVENT
@@ -14088,8 +13965,8 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  meets the third Tuesday of each month at 9 a.m. The meeting location varie
  s and can be found on the Staff Council calendar.\n\nFor more information\
  , please\, visit [2].\n\nLinks:\n[0]  http://hg.gatech.edu/node/627198#0\n
- [1]  https://staffcouncil.gatech.edu/rsvp-i\n[2]  http://staffcouncil.gate
- ch.edu/
+ [1]  http://staffcouncil.gatech.edu/rsvp-i\n[2]  http://staffcouncil.gatec
+ h.edu/
 LOCATION:Student Center Ballroom
 END:VEVENT
 BEGIN:VEVENT
@@ -14671,8 +14548,8 @@ LOCATION:Piedmont Room\, Student Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Materials Seminar featuring Brina Blinzler
-DTSTART;VALUE=DATE-TIME:20191025T150000Z
-DTEND;VALUE=DATE-TIME:20191025T160000Z
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191025T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191025T160000Z
 UID:http://hg.gatech.edu/node/628030#0
 DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  ents\nExtras: Free food\nStatus: published\n\nPushing the Boundaries in Li
@@ -14879,8 +14756,8 @@ LOCATION:Catholic Center\, 172 4th St NW\, Atlanta\, GA 30313
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lockheed Martin Women in STEM Panel
-DTSTART;VALUE=DATE-TIME:20191028T223000Z
-DTEND;VALUE=DATE-TIME:20191029T000000Z
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191028T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191029T000000Z
 UID:http://hg.gatech.edu/node/627952#0
 DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  nExtras: Free food\, Freebies\nStatus: published\n\nJoin Lockheed Martin f
@@ -14929,8 +14806,8 @@ LOCATION:Scheller College of Business\, Room 314
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Walmart Day in the Lobby
-DTSTART;VALUE=DATE-TIME:20191029T150000Z
-DTEND;VALUE=DATE-TIME:20191029T200000Z
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191029T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191029T200000Z
 UID:http://hg.gatech.edu/node/628019#0
 DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  nExtras: Free food\, Freebies\nStatus: published\n\nInnovate with heart.\n
@@ -15145,8 +15022,8 @@ LOCATION:Scheller College of Business\, Suite 4426 800 W. Peachtree St. NW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Walmart Tech Talk
-DTSTART;VALUE=DATE-TIME:20191029T223000Z
-DTEND;VALUE=DATE-TIME:20191030T000000Z
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191029T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191030T000000Z
 UID:http://hg.gatech.edu/node/628021#0
 DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  nExtras: Free food\, Freebies\nStatus: published\n\nInnovate with heart.\n
@@ -15198,6 +15075,19 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  ple\, eat pizza\, and play board games\, video games\, and karaoke!\n\nLin
  ks:\n[0]  http://hg.gatech.edu/node/627417#0
 LOCATION:Tech Rec\, Student Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RHA's Board Game Night
+DTSTART;VALUE=DATE-TIME:20191029T223000Z
+DTEND;VALUE=DATE-TIME:20191030T003000Z
+UID:http://hg.gatech.edu/node/628074#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nFree Pizza? Board Games? Karaoke?
+  Video Games? A night of endless fun?\n\nJoin RHA at Tech Rec on Tuesday\,
+  October 29\, from 6:30 pm to 8:30 pm for a fun night of board games\, vid
+ eo games\, pizza\, karaoke\, and more!\n\nLinks:\n[0]  http://hg.gatech.ed
+ u/node/628074#0
+LOCATION:Tech Rec
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PA Club Coffee and Donuts Social
@@ -15300,10 +15190,38 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Campus Recreation Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Emergence of Urban Air Mobility
+DTSTART;VALUE=DATE-TIME:20191031T150000Z
+DTEND;VALUE=DATE-TIME:20191031T160000Z
+UID:http://hg.gatech.edu/node/628104#0
+DESCRIPTION:Intended audience: Public\nExtras: Free food\nStatus: publishe
+ d\n\nThe Georgia Tech Chapter of the\n\nVertical Flight Society\ninvites y
+ ou to hear\n\nThe Emergence of Urban Air Mobility\na talk by\n\nProf. Bria
+ n German\nDirector of the Georgia Tech Center for Urban and Regional Air M
+ obility (CURAM)\n\nPizza Provided\nOver the past two years\, the term "urb
+ an air mobility (UAM)" has entered the vernacular of the aerospace industr
+ y. Silicon Valley unicorns\, individual billionaires\, startup companies\,
+  automotive firms\, and traditional aerospace manufacturers worldwide are 
+ investing in the development of over 200 electric vertical takeoff and lan
+ ding (eVTOL) aircraft to serve the UAM market. Often called "flying cars" 
+ or "air taxis\," these aircraft designs are novel\, incorporating many new
+  technologies. We are entering only the early days of UAM\, an era of grea
+ t uncertainty. No one understands whether and how the market will emerge. 
+ No one understands how eVTOL aircraft will be certified. No one understand
+ s how to manage the airspace in cities when filled with air taxis. No one 
+ understands how cities will regulate "vertiports" where aircraft will land
+  to embark and disembark passengers. No one understands which aircraft des
+ igns will "win" and how the best design varies city to city. In this era o
+ f uncertainty\, there is great opportunity\, and there is great risk. This
+  talk will provide an introduction to the current landscape of urban air m
+ obility\n\nLinks:\n[0]  http://hg.gatech.edu/node/628104#0
+LOCATION:Montgomery Knight Building\, Room 317
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GVU Center Brown Bag: HyunJoo Oh "Everyday Materials Transformed b
  y Computing"
-DTSTART;VALUE=DATE-TIME:20191031T153000Z
-DTEND;VALUE=DATE-TIME:20191031T170000Z
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191031T153000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191031T170000Z
 UID:http://hg.gatech.edu/node/628034#0
 DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
  , Undergraduate students\nExtras: Free food\nStatus: review\n\nAbstract:\n
@@ -15343,8 +15261,8 @@ LOCATION:Student Center Ballroom
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pomp and Pancake Palooza
-DTSTART;VALUE=DATE-TIME:20191031T230000Z
-DTEND;VALUE=DATE-TIME:20191101T060000Z
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191031T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191101T060000Z
 UID:https://gatech.campuslabs.com/engage/event/5071549
 DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDo you like pancakes\, 
  nachos\, and/or POMP??? Well if you answered yes to any of those (and be h
@@ -15584,8 +15502,8 @@ LOCATION:The Catholic Center at Georgia Tech
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:30th Anniversary of the Fall of the Berlin Wall
-DTSTART;VALUE=DATE-TIME:20191104T171000Z
-DTEND;VALUE=DATE-TIME:20191104T200000Z
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191104T171000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191104T200000Z
 UID:http://hg.gatech.edu/node/628022#0
 DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
@@ -15759,6 +15677,21 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Kashi Atlanta
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GTIA Night Market
+DTSTART;VALUE=DATE-TIME:20191105T230000Z
+DTEND;VALUE=DATE-TIME:20191106T010000Z
+UID:https://gatech.campuslabs.com/engage/event/5074886
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nThe Intern
+ ational Ambassadors at Georgia Tech proudly present our 4th annual Night M
+ arket\, a celebration of culture and traditions on Tech Walkway. Our eveni
+ ng soiree will feature cultural organizations\, student art\, live perform
+ ances\, local vendors from the Atlanta community\, and delicious internati
+ onal food! Come join us for some FREE food\, fun music\, and cultural cele
+ bration!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/507488
+ 6
+LOCATION:Tech Walkway
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Career Services Workshop: Impostor Syndrome
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191105T233000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191106T003000Z
@@ -15800,8 +15733,8 @@ LOCATION:Children's Healthcare of Atlanta Seminar Room\, Krone Engineered
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Porsche Vice President of HR Erika Burk\, Ph.D. Presentation
-DTSTART;VALUE=DATE-TIME:20191106T213000Z
-DTEND;VALUE=DATE-TIME:20191106T233000Z
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191106T213000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191106T233000Z
 UID:http://hg.gatech.edu/node/627956#0
 DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  \, Public\, Undergraduate students\nExtras: Free food\, Freebies\nStatus: 
@@ -16118,6 +16051,22 @@ DESCRIPTION:Intended audience: Undergraduate students\nStatus: published\n
  embers of Greek organizations. Dinner is provided.\n\nLinks:\n[0]  http://
  hg.gatech.edu/node/624435#0
 LOCATION:Register to receive location
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Students Organizing for Sustainability Fall 2019 Meeting
+DTSTART;VALUE=DATE-TIME:20191107T233000Z
+DTEND;VALUE=DATE-TIME:20191108T003000Z
+UID:https://gatech.campuslabs.com/engage/event/5074882
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThe Fall 2019 Meeting i
+ s open to EVERYONE! It will feature introductions from the existing sustai
+ nability and environmentally active organizations at Georgia Tech\, as wel
+ l as their upcoming events. The second portion of the meeting will include
+  discussion between audience members and the organizations to consider and
+  examine possible environmental initiatives on campus. The final part will
+  allow students to talk with each other and whichever organization(s) they
+  find interesting and want to learn more about.\n\nLinks:\n[0]  https://ga
+ tech.campuslabs.com/engage/event/5074882
+LOCATION:College of Computing
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Academic Job Search 102: Academic interviewing and job talk
@@ -16827,8 +16776,8 @@ LOCATION:Bill Moore Student Success Center – President’s Suite D
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chat Over Chicken
-DTSTART;VALUE=DATE-TIME:20191114T163000Z
-DTEND;VALUE=DATE-TIME:20191114T173000Z
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191114T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191114T173000Z
 UID:http://hg.gatech.edu/node/628038#0
 DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nNetwork
   with Georgia Tech women committed to supporting other women. Join with th
@@ -16841,8 +16790,8 @@ LOCATION:Ferst Place\, Student Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Teaching with Technology Spotlight: Video Based Quizzing
-DTSTART;VALUE=DATE-TIME:20191114T163000Z
-DTEND;VALUE=DATE-TIME:20191114T180000Z
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191114T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191114T180000Z
 UID:http://hg.gatech.edu/node/628033#0
 DESCRIPTION:Intended audience: Faculty/Staff\, Postdoc\nStatus: published\
  n\nPlease register [1] to attend this upcoming teaching with technology sp
@@ -17255,8 +17204,8 @@ LOCATION:Marcus Nanotechnology Building 1117-1118 | 345 Ferst Drive | Atla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chat Over Chicken
-DTSTART;VALUE=DATE-TIME:20191212T163000Z
-DTEND;VALUE=DATE-TIME:20191212T173000Z
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191212T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191212T173000Z
 UID:http://hg.gatech.edu/node/628039#0
 DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nNetwork
   with Georgia Tech women committed to supporting other women. Join with th
