@@ -2,125 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:School of Architecture End-of-Year Show
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190427T200000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190427T220000Z
-UID:http://hg.gatech.edu/node/619736#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nStatus: published\n\nJoin us for the School's bi
- ggest exhibition of the year\, showcasing the work of our talented student
- s.\n\nClick HERE [1] to register.\n\nUPDATED TIME! 4:00pm - 6:00pm\nExhibi
- tion\nHinman Research Building\n\nRefreshments will be served.\n\nClick HE
- RE [2] to view parking options.\n\nLinks:\n[0]  http://hg.gatech.edu/node/
- 619736#0\n[1]  https://arch.gatech.edu/2019-end-year-show\n[2]  https://ar
- ch.gatech.edu/system/files/images/school_of_arch_parkingmap.pdf
-LOCATION:Georgia Institute of Technology | School of Architecture
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IEEE SPS Atlanta Distinguished Industry Lecture - Dr. Tao Zhang
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190429T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190429T173000Z
-UID:http://hg.gatech.edu/node/620897#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nTackling the Cocktail Party Problem for Hearing Devices: Solutions\, Cha
- llenges and Opportunities\nAbstract. The cocktail party problem has remain
- ed to be one of the most challenging problems for hearing devices even aft
- er decades of extensive research. In this talk\, we will introduce and dis
- cuss our research on the multi-microphone speech enhancement with an empha
- sis on robust and practical real-time algorithms for hearing devices. We w
- ill first present our research on multiple-microphone speech enhancement u
- sing a microphone array alone. Secondly\, we will present our latest resea
- rch on the multimodal speech enhancement using both brain signals (i.e. EE
- G) and microphone signals in a single joint-optimization framework. In bot
- h cases\, we will use objective and subjective evaluation to demonstrate t
- he algorithms’ effectiveness. Finally\, we will discuss the challenges a
- nd opportunities in deploying these algorithms in the real-world.\n\nBiogr
- aphy.\n\nTao Zhang received his B.S. degree in physics from Nanjing Univer
- sity\, Nanjing\, China in 1986\, M.S. degree in electrical engineering fro
- m Peking University\, Beijing\, China in 1989\, and Ph.D. degree in speech
-  and hearing science from the Ohio-State University\, Columbus\, OH\, USA 
- in 1995. He joined the Advanced Research Department at Starkey Laboratorie
- s\, Inc. as in 2001 and since 2014\, he has been Director of the Signal Pr
- ocessing Research department at Starkey Hearing Technologies. He is a seni
- or member of IEEE and the Signal Processing Society and the Engineering in
-  Medicine and Biology Society. He is an IEEE SPS Distinguished Industry Sp
- eaker\, the Chair of IEEE Twin-cities Signal Processing and Communication 
- Chapter and a Member of IEEE ComSoc North America Region Board. He serves 
- on the IEEE AASP Technical Committee and the IEEE Industrial Relationships
-  Committee.\n\nLinks:\n[0]  http://hg.gatech.edu/node/620897#0\n[1]  https
- ://events.vtools.ieee.org/m/178884\n[2]  https://events.vtools.ieee.org/m/
- 198226
-LOCATION:Technology Square Research Building\, Auditorium\, 85 5th Street 
- NW\, Atlanta\, GA 30308
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:New! GLUE Lecture Series - April 29
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190429T161500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190429T171500Z
-UID:http://hg.gatech.edu/node/620222#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nStatus: published\n\n"Translation of Medical De
- vices: How to bring your device to market"\n\nDavid Ku\, MD\, PhD\nL.P. Hu
- ang Chair Professor\nfor Engineering Entrepreneurship\nRegents’ Professo
- r\, Georgia Tech\nProfessor of Surgery\, Emory\n\nMonday\, April 29\n12:15
-  - 1:15 pm\nWhitaker 3115 (moved from rm 1103)\nLunch Provided.\n\nVideoco
- nference\nEmory: HSRB E160\nGeorgia Tech: TEP (stream from PC)\nhttps://bl
- uejeans.com/270645627\n\nMeeting ID 270 645 627\n\nWant to dial in from a 
- phone?\nDial one of the following numbers:\n+1.408.740.7256 (US (San Jose)
- )\n+1.408.317.9253 (US (Primary\, San Jose))\n(see all numbers - https://w
- ww.bluejeans.com/premium-numbers)\n\nLinks:\n[0]  http://hg.gatech.edu/nod
- e/620222#0
-LOCATION:Whitaker 3115\; Videoconference Emory: HSRB E160 / Georgia Tech: 
- TEP\, stream from your PC\, https://bluejeans.com/270645627
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Johnna Temenoff - Flanagan Lecture
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190429T190000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190429T210000Z
-UID:http://hg.gatech.edu/node/619019#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nStatus: published\n\nInformation for the Carol 
- Ann and David D. Flanagan Professorship Talk/Reception:\n\nSpeaker: Johnna
-  Temenoff\n\nTalk Title: " Delivery of Cells and Biomolecules for Tissue R
- epair After Shoulder Injury"\n\nEvent Date: April 29th\n\nTime: 3-5pm\n\nL
- ocation: IBB\, Suddath Room and Atrium\n\nAdditional details: light refres
- hments will be served in the atrium following the presentation\n\nLinks:\n
- [0]  http://hg.gatech.edu/node/619019#0
-LOCATION:Krone IBB\, Suddath Room and Atrium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:COPE Distinguished Lecture - George Malliaras
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190429T200000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190429T210000Z
-UID:http://hg.gatech.edu/node/618092#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Postdoc\, Public\nExtras: F
- ree food\nStatus: published\n\nABSTRACT\n\nOne of the most important scien
- tific and technological frontiers of our time is the interfacing of electr
- onics with the human brain. This endeavour promises to help understand how
-  the brain works and deliver new tools for diagnosis and treatment of path
- ologies including epilepsy and Parkinson’s disease. Current solutions\, 
- however\, are limited by the materials that are brought in contact with th
- e tissue and transduce signals across the biotic/abiotic interface. Recent
-  advances in organic electronics have made available materials with a uniq
- ue combination of attractive properties\, including mechanical flexibility
- \, mixed ionic/electronic conduction\, enhanced biocompatibility\, and cap
- ability for drug delivery. I will present examples of novel devices for re
- cording and stimulation of neurons and show that organic electronic materi
- als offer tremendous opportunities to study the brain and treat its pathol
- ogies.\n\nABOUT THE SPEAKER\n\nGeorge Malliaras is the Prince Philip Profe
- ssor of Technology at the University of Cambridge. He received a PhD from 
- the University of Groningen and did a postdoc at the IBM Almaden Research 
- Center. Before joining Cambridge\, he was a faculty member at Ecole des Mi
- nes de St. Etienne and at Cornell University\, and served as the Director 
- of the Cornell NanoScale Facility. His research has been recognized with a
- wards from the New York Academy of Sciences\, the US National Science Foun
- dation\, and DuPont. He is a Fellow of the Materials Research Society and 
- of the Royal Society of Chemistry.\n\nLinks:\n[0]  http://hg.gatech.edu/no
- de/618092#0
-LOCATION:Engineered Biosystems Building (EBB)\, Seminar Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Midnight Breakfast
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190429T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190430T035900Z
@@ -14804,6 +14685,23 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Scheller College of Business\, Room 314
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:General Meeting - Aulick Engineering
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191029T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191029T160000Z
+UID:https://gatech.campuslabs.com/engage/event/5079164
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nAulick Eng
+ ineering is a women-owned small business that provides Engineering Design 
+ and Construction Management Services for transportation and site related p
+ rojects. Aulick Engineering provides quality services to airports\, DOTs\,
+  municipalities\, engineering firms\, commercial developers\, and private 
+ residents around the southeast. By maintaining dependable and responsive c
+ lient service\, Aulick team members are committed to establishing and main
+ taining long-term\, trusted client relationships. Aulick Engineering looks
+  forward to the opportunity to serve you on your next project!\n\nLinks:\n
+ [0]  https://gatech.campuslabs.com/engage/event/5079164
+LOCATION:Mason Building - room 1133
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Walmart Day in the Lobby
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191029T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191029T200000Z
@@ -15158,6 +15056,25 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Room 254\, Skiles Building
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GVU Center Research Showcase | Fall 2019
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191030T180000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191030T210000Z
+UID:http://hg.gatech.edu/node/628237#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\nStatus: published\n\nVirtual reality\, robotics\,
+  civic computing\, information visualization and artificial intelligence a
+ re just a few of the research areas that come to life at the GVU Center Re
+ search Showcase and show how technology impacts the many ways society can 
+ benefit from these innovations.\n\nThe GVU Center Research Showcase invite
+ s you to experience Georgia Tech research in people-centered technology th
+ at enhances our communities and impacts how we live day-to-day. More than 
+ 100 interactive projects will let you touch\, control and imagine what tec
+ hnology will enable in the future.\n\n[1]\n\nLinks:\n[0]  http://hg.gatech
+ .edu/node/628237#0\n[1]  https://gvu.gatech.edu/gvu-center-research-showca
+ se\n[2]  http://www.tsrb.gatech.edu/
+LOCATION:Technology Square Research Building
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Capital One Tech Talk: The Technology Behind Eno\, Capital One's N
  atural Language Intelligent Assistant
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191030T223000Z
@@ -15196,6 +15113,23 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
  tume contest\, free food from Halal Guys\, Halloween candy\, and fun!\n\nL
  inks:\n[0]  http://hg.gatech.edu/node/627731#0
 LOCATION:Old Civil Engineering Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chai Chats
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191030T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191031T010000Z
+UID:http://hg.gatech.edu/node/628256#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nA-Town Showdown: Join A-Town Showdown and Chai Talks
+  GSU to discuss queer & trans identity within the South Asian community wh
+ ile enjoying chai and other snacks.\n\nThe event will be held in Grace Hou
+ se on Georgia Tech campus from 6:30 PM to 9 PM. Chai Talks provides a brav
+ e space for folks of all identities to share their thoughts and experience
+ s. Any and all are welcome to attend this event!\n\nSuggested donation to 
+ attend the event is $2 and will support A-Town Showdown and National Queer
+  Asian Pacific Islander Alliance.\n\nLinks:\n[0]  http://hg.gatech.edu/nod
+ e/628256#0
+LOCATION:Grace House\, 182 5th Street NW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HHC Halloween Party
@@ -15242,6 +15176,16 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  pusservices.gatech.edu/\n[5]  http://police.gatech.edu/\n[6]  http://healt
  hinitiatives.gatech.edu/
 LOCATION:Campus Recreation Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Landis+Gyr Info Session
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191031T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191031T154500Z
+UID:https://gatech.campuslabs.com/engage/event/5079165
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome out to hear about 
+ opportunities with Landis+Gyr!\n\nLinks:\n[0]  https://gatech.campuslabs.c
+ om/engage/event/5079165
+LOCATION:Van Leer C340
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Emergence of Urban Air Mobility
@@ -15553,6 +15497,31 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFood4Lives is a service
 LOCATION:Food4lives Kitchen
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Game Day Recycling Volunteer Opportunity
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191102T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191102T200000Z
+UID:http://hg.gatech.edu/node/628142#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nEnjoy some free pizza with the Office of Solid Waste Management & Recycl
+ ing before assisting with the collection of recyclables from tailgates & o
+ utside the stadium on game day!\n\nVolunteers can choose from two options:
+ \n\nTailgate Volunteers- Meet in the Student Center near Subway at 1:00. H
+ and out bags to tailgaters around central campus. Meet back at the Student
+  Center around 2:00. Volunteers will not be collecting or carrying full re
+ cycling bags\, their task is only to distribute empty bags.\n\nGreen Greet
+ ers- Meet off of Bobby Dodd Way in front of Gate 7 in the Callaway Plaza a
+ t 3:00. Greeters will hold signs and encourage attendees to recycle any la
+ st items before entering the stadium (great option for those attending the
+  game). Greeters will not formally meet at the end of their shift\, but ne
+ ed to turn their signs back in before leaving\, typically at kick-off time
+ .\n\nPlease email emma.brodzik@facilities.gatech.edu [1] if you are intere
+ sted\n\nFor more information visit: [2]\n\nLinks:\n[0]  http://hg.gatech.e
+ du/node/628142#0\n[1]  emma.brodzik@facilities.gatech.edu\n[2]  http://rec
+ ycle.gatech.edu/game-day-recycling
+LOCATION:The Student Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:2019 Alumni Homecoming Mimosa Brunch for Ivan Allen College Alumni
   and Friends
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191102T173000Z
@@ -15758,15 +15727,23 @@ BEGIN:VEVENT
 SUMMARY:GTIA Night Market
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191105T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191106T010000Z
-UID:https://gatech.campuslabs.com/engage/event/5074886
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nThe Intern
- ational Ambassadors at Georgia Tech proudly present our 4th annual Night M
- arket\, a celebration of culture and traditions on Tech Walkway. Our eveni
- ng soiree will feature cultural organizations\, student art\, live perform
- ances\, local vendors from the Atlanta community\, and delicious internati
- onal food! Come join us for some FREE food\, fun music\, and cultural cele
- bration!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/507488
- 6
+UID:http://hg.gatech.edu/node/628196#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free Stuff\, Free food\nStatus
+ : published\n\nThe International Ambassadors at Georgia Tech proudly prese
+ nt our 4th annual Night Market\, a celebration of culture and traditions o
+ n Tech Walkway. Our evening soiree will feature cultural organizations\, s
+ tudent art\, live performances\, local vendors from the Atlanta community\
+ , and delicious international food! Come join us for some FREE food\, fun 
+ music\, and cultural celebrations!\n\nThe International Ambassadors at Geo
+ rgia Tech proudly present our 4th annual Night Market\, a celebration of c
+ ulture and traditions on Tech Walkway. Our evening soiree will feature cul
+ tural organizations\, student art\, live performances\, local vendors from
+  the Atlanta community\, and delicious international food! Come join us fo
+ r some FREE food\, fun music\, and cultural celebration!\n\nLinks:\n[0]  h
+ ttp://hg.gatech.edu/node/628196#0\n[1]  https://gatech.campuslabs.com/enga
+ ge/event/5074886\n[2]  https://gatech.campuslabs.com/engage/organization/i
+ nternational-ambassadors-at-georgia-tech
 LOCATION:Tech Walkway
 END:VEVENT
 BEGIN:VEVENT
@@ -15810,6 +15787,30 @@ LOCATION:Children's Healthcare of Atlanta Seminar Room\, Krone Engineered
  Biosystems Building
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Breaking Up is (Still) Hard to Do: Brexit's State of Play and Cons
+ equences
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191106T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191106T190000Z
+UID:http://hg.gatech.edu/node/628146#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nPlease join the Center for European and Transatlantic Studies and the Sa
+ m Nunn School of International Affairs for a panel discussion on "Breaking
+  Up is (Still) Hard to Do: Brexit's State of Play and Consequences."\n\nPa
+ nelists:\n\n- Consul General Andrew Staunton\, Consulate General of the Un
+ ited Kingdom in Atlanta\n- Consul General Shane Stephens\, Consulate Gener
+ al of the Republic of Ireland in Atlanta\n- Dr. Alasdair Young\, Professor
+  and Neal Family Chair\, Sam Nunn School of International Affairs\n\nModer
+ ated by: Simon Brozek\, President\, European Horizons at Georgia Tech\n\nT
+ he event will take place it the Georgia Tech Student Center\, Room 343 wit
+ h lunch provided from 12:00 pm and the program beginning at 12:30 pm.\n\nP
+ arking is available in Visitor Lot 2 (off Ferst Ave) see [1]\n\nPlease RSV
+ P at: [2]\n\nLinks:\n[0]  http://hg.gatech.edu/node/628146#0\n[1]  http://
+ pts.gatech.edu/sites/default/files/documents/map_20_visitor_cs6.pdf\n[2]  
+ https://gatech.co1.qualtrics.com/jfe/form/SV_0xNkLifasEk7XN3
+LOCATION:Student Center Room 343
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Porsche Vice President of HR Erika Burk\, Ph.D. Presentation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191106T213000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191106T233000Z
@@ -15846,6 +15847,24 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  spx?id=u5ghSHuuJUuLem1_Mvqgg1_8vAqDIS1Hl_o_zbOjFORUQUJHMlQ0RFpSS0dFUkkxWTN
  QOFlCREZNSy4u
 LOCATION:Student Success Center\, President Suite C and D
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop on Language\, Technology\, & Society - Quantitative Socio
+ linguistics in Asia and North America
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191106T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191106T230000Z
+UID:http://hg.gatech.edu/node/628321#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\nStatus: published\n\nPlease join us next Wednesda
+ y\, November 6 in Swann 320 from 5-6:15pm for an invited talk from James S
+ tanford [1]\, Associate Professor of Linguistics at Dartmouth College! You
+  might also encourage your students or friends to come too!\n\nThis talk (
+ "Quantitative Sociolinguistics in Asia and North America") is part of this
+  year's Workshop on Language\, Technology\, and Society\, generously spons
+ ored by the Institute for People and Technology\, the GVU Center\, and the
+  Atlanta Global Studies Center.\n\nLinks:\n[0]  http://hg.gatech.edu/node/
+ 628321#0\n[1]  https://www.dartmouth.edu/~jstanford/
+LOCATION:Swann Building\, Room 320
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CREATE-X Startup Ideas
@@ -15908,6 +15927,18 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome and join us for ou
  .campuslabs.com/engage/event/4976008\n[1]  https://www.balfourbeattyus.com
  /home
 LOCATION:Mason 2117
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Summer Research Opportunities Workshop
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191107T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191107T170000Z
+UID:http://hg.gatech.edu/node/628307#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
+ aduate students\nExtras: Free food\nStatus: published\n\nWant to learn mor
+ e about summer research opportunities? This workshop will help you to expl
+ ore summer research programs and internships.\n\nLinks:\n[0]  http://hg.ga
+ tech.edu/node/628307#0
+LOCATION:Clough Undergraduate Learning Commons\, 2nd Floor\, Clough 205Q
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:From Myth to Marvel: The Role of Elements in Science\, Fiction\, a
@@ -16183,17 +16214,19 @@ BEGIN:VEVENT
 SUMMARY:Students Organizing for Sustainability Fall 2019 Meeting
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191107T233000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191108T003000Z
-UID:https://gatech.campuslabs.com/engage/event/5074882
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThe Fall 2019 Meeting i
- s open to EVERYONE! It will feature introductions from the existing sustai
- nability and environmentally active organizations at Georgia Tech\, as wel
- l as their upcoming events. The second portion of the meeting will include
-  discussion between audience members and the organizations to consider and
-  examine possible environmental initiatives on campus. The final part will
-  allow students to talk with each other and whichever organization(s) they
-  find interesting and want to learn more about.\n\nLinks:\n[0]  https://ga
- tech.campuslabs.com/engage/event/5074882
-LOCATION:College of Computing
+UID:http://hg.gatech.edu/node/628200#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
+ aduate students\nExtras: Free Food\nStatus: published\n\nThe Fall 2019 Mee
+ ting is open to EVERYONE! It will feature introductions from the existing 
+ sustainability and environmentally active organizations at Georgia Tech\, 
+ as well as their upcoming events. The second portion of the meeting will i
+ nclude discussion between audience members and the organizations to consid
+ er and examine possible environmental initiatives on campus. The final par
+ t will allow students to talk with each other and whichever organization(s
+ ) they find interesting and want to learn more about.\n\nLinks:\n[0]  http
+ ://hg.gatech.edu/node/628200#0\n[1]  https://gatech.campuslabs.com/engage/
+ event/5074882\n[2]  https://www.facebook.com/events/403101603717385/
+LOCATION:College of Computing Room 052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Academic Job Search 102: Academic interviewing and job talk
@@ -16367,6 +16400,25 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFood4Lives is a service
 LOCATION:Food4lives Kitchen
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Design Jam with Wish for WASH (Part 2)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191109T180000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191109T210000Z
+UID:http://hg.gatech.edu/node/628262#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nIMPORTANT: If you will be attending\, please RSVP on
+  Engage [1]!\n\nEveryone uses the bathroom but it's something we don't rea
+ lly talk about. Join OpenIDEO Atlanta Chapter for our Design Jam with Wish
+  for WASH and help us design an enjoyable bathroom experience. Come out to
+  understand the problem\, brainstorm ideas\, and prototype solutions for t
+ he challenge with a crowd of enthusiastic design thinkers. Make sure to br
+ ing your creative juices and energy! There will be snacks and drinks! Find
+  out more about Wish for WASH and their impact at: [2]\n\nLinks:\n[0]  htt
+ p://hg.gatech.edu/node/628262#0\n[1]  https://gatech.campuslabs.com/engage
+ /organization/openideo-at-georgia-tech\n[2]  http://www.wishforwash.org/\n
+ [3]  https://www.facebook.com/OpenIDEOGT/
+LOCATION:Design Bloc\, Woodruff Residence Hall\, 890 Curran Street
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:EWH Repair Session 11/09
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191109T180000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191109T210000Z
@@ -16396,6 +16448,37 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  l detox (no phones or laptops)\, silent reflection time\, as well as small
   group discussions.\n\nLinks:\n[0]  http://hg.gatech.edu/node/627901#0\n[1
  ]  http://tinyurl.com/thwretreat
+LOCATION:Brittain Rec
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Heartfulness Way Retreat
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191110T143000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191110T213000Z
+UID:http://hg.gatech.edu/node/628253#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nHosted by the Meditation Club\n\nThe Heartfulness Wa
+ y Retreat is a day-long meditation retreat aimed at providing students and
+  millennials in Atlanta an opportunity to relax\, introspect and connect w
+ ith like-minded individuals. This experiential program will include a digi
+ tal detox (no phones or laptops)\, silent reflection time\, as well as sma
+ ll group discussions. It will be centered around the newly released\, best
+ selling book\, Designing Destiny\, which beautifully uncovers what it mean
+ s to live by the heart and offers practical tips on how to meditate.\n\nWh
+ at to Expect\n\n- Digital Detox (no phones)\n- Practical Meditation Sessio
+ ns (no prior experience needed!)\n- Group Discussions Lunch (included with
+  registration)\n- Readings and Reflections from Designing Destiny (include
+ d with registration)\n\nSchedule\n\nThis schedule is subject to change\, b
+ ut here’s a general idea of what to expect.\n\n- 9:00 - 9:30am: Registra
+ tion\n- 9:30 – 10:30am: Welcome\, Intro to Meditation\, Practical Sessio
+ n\n- 10:30 – 12pm: Group Activity and Readings\n- 12:00 – 1:30pm: Lunc
+ h and Social Time\n- 1:30 – 2:00pm: Quiet Time\n- 2:00 – 3:30pm: Short
+  Activity with Individual Reflection\n- 3:30 – 4:30pm: Meditation Sessio
+ n\, Closing\n\nRegister Now! Visit our event website here [1]. If you have
+  any questions or require any accommodations\, send an email to thwretreat
+ @heartfulness.org [2].\n\nLinks:\n[0]  http://hg.gatech.edu/node/628253#0\
+ n[1]  https://theheartfulnessway.com/us/retreat/\n[2]  thwretreat@heartful
+ ness.org\n[3]  https://gatech.campuslabs.com/engage/organization/meditatio
+ n-club
 LOCATION:Brittain Rec
 END:VEVENT
 BEGIN:VEVENT
@@ -16471,6 +16554,27 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  627636#0\n[1]  https://sdie.gatech.edu/story-coaching-masters\n[2]  https:
  //sdie.gatech.edu/transformative-narratives-storytelling-crawl
 LOCATION:Student Center\, Under the Couch Music Venue & Lounge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colombia at the Crossroads of Peace: A Conversation with Ambassado
+ r of Colombia to the U.S. H.E. Francisco Santos
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191111T200000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191111T213000Z
+UID:http://hg.gatech.edu/node/628285#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nOn November 11\, the Center for International Strategy\, Technology\, an
+ d Policy in the Sam Nunn School of International Affairs is hosting Ambass
+ ador H.E. Francisco Santos of the Embassy of Colombia in Washington\, D.C.
+  Amb Santos will be speaking on “Colombia at the Crossroads of Peace.”
+  He will be interviewed by Jennie Lincoln\, the director of the Latin Amer
+ icas and Caribbean Program in the Carter Center and lecturer in Nunn Schoo
+ l.\n\nThe event at the Kendeda Building [1] Room 210 is free and open to t
+ he public. Visitor parking is available in lot 4 [2].\n\nLight refreshment
+ s will be served.\n\nLinks:\n[0]  http://hg.gatech.edu/node/628285#0\n[1] 
+  https://map.concept3d.com/?id=82#!m/383419\n[2]  https://map.concept3d.co
+ m/?id=82#!m/11397
+LOCATION:Kendeda Building Room 210
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AGSC Tuesday Collaboratorium: Innovations in Research & Pedagogy -
@@ -16633,6 +16737,25 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  u prepare for your future.\n\nLinks:\n[0]  http://hg.gatech.edu/node/62397
  6#0
 LOCATION:Klaus 1116E
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diabetes 101
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191112T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191113T003000Z
+UID:http://hg.gatech.edu/node/628194#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
+ aduate students\nStatus: published\n\nIn honor of Diabetes Month\, CDN@GT 
+ is proud to present Diabetes 101! Diabetes 101 is an educational event for
+  anyone who wants to learn more about what it’s like to live with type o
+ ne diabetes. This year’s presentation focuses on the technology that we 
+ use to manage our type one diabetes and our stories of life with diabetes.
+  Come join us on Tuesday\, November 12th from 6:30-7:30 PM in Klaus 1447 t
+ o learn more about type one diabetes and more about us! Also\, food will b
+ e provided! If you have type one diabetes\, feel free to come and bring yo
+ ur friends too!\n\nLinks:\n[0]  http://hg.gatech.edu/node/628194#0\n[1]  h
+ ttps://gatech.campuslabs.com/engage/organization/college-diabetes-network-
+ at-georgia-tech
+LOCATION:Klaus 1447
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Geopolitics of the Rare and Not-So-Rare Elements
@@ -17063,6 +17186,23 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  ice!\n\n**FREE FOOD**\n\nLinks:\n[0]  http://hg.gatech.edu/node/627942#0\n
  [1]  https://gatech.co1.qualtrics.com/jfe/form/SV_3JG61bi3wEqyVIV
 LOCATION:Clough Atrium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sustainable Business 101 Workshops: Sustainability Innovation & ES
+ G Leadership
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191115T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191115T170000Z
+UID:http://hg.gatech.edu/node/627961#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Undergraduate students\nExt
+ ras: Free food\nStatus: published\n\nMore information to come.\n\nSustaina
+ ble Business 101 is a series of workshops designed to introduce students t
+ o the topic of sustainability and its importance in their personal and pro
+ fessional lives. Each workshop will focus on a specific area of sustainabi
+ lity\; carbon-consciousness\, social performance and human rights\, circul
+ ar economy\, and sustainability innovation and ESG (Environmental\, Social
+ \, and Governance) Leadership.\n\nRSVP [1]\n\nLinks:\n[0]  http://hg.gatec
+ h.edu/node/627961#0\n[1]  https://forms.gle/cmqW7JJrbx8F7F137
+LOCATION:Scheller College of Business\, Room 300
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga for the Soul
@@ -17618,6 +17758,33 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  sident@gmail.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/624549#10\n
  [1]  swepresident@gmail.com\n[2]  https://www.facebook.com/GeorgiaTechSWE/
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Professor Ian Bogost\, Publications Workshop: Writing for General 
+ Audiences
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200114T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200114T170000Z
+UID:http://hg.gatech.edu/node/628139#0
+DESCRIPTION:Intended audience: Graduate students\, Postdoc\, Public\nExtra
+ s: Free food\nStatus: published\n\nGraduate students\, post docs\, and fac
+ ulty with an interest in publishing writing for the general public are inv
+ ited to have lunch with Dr. Ian Bogost\, the Ivan Allen College Distinguis
+ hed Chair in Media Studies and Professor of Interactive Computing\, on Tue
+ sday\, January 14\, 2020 at 11am-Noon in Room 102\, Stephen C. Hall Bldg.\
+ n\nDr. Ian Bogost received his PhD in Comparative Literature from the Univ
+ ersity of California\, Los Angeles and is a contributing editor at The Atl
+ antic. Following a career in software and videogame development\, he joine
+ d the School of Literature\, Media\, and Communication in 2004. Bogost is 
+ the author or co-author of ten books and is also the co-series editor of t
+ he Platform Studies book series at MIT Press and the co-series editor of t
+ he Object Lessons series at The Atlantic and Bloomsbury.\n\nRSVP by Januar
+ y 9\, 2020\n\n[1]\n\nInnovation and Collaboration in Liberal Arts\, Scienc
+ e\, and Technology (ICLAST) events are supported by Ivan Allen College of 
+ Liberal Arts.\n\nLinks:\n[0]  http://hg.gatech.edu/node/628139#0\n[1]  htt
+ ps://docs.google.com/forms/d/1uXUuU1hbRmtQyLeBKXv7l6IINuq6qWaZcGg3qX94GJM/
+ edit
+LOCATION:Room 102\, Stephen C. Hall Bldg.\, 215 Bobby Dodd Way\, Atlanta\,
+  GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Society of Women Engineers General Body Meeting
