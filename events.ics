@@ -2,44 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Midnight Breakfast
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190429T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190430T035900Z
-UID:http://hg.gatech.edu/node/620842#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\, Freebies\nStatus: published\n\nTake a break from
-  studying and grab some FREE breakfast with friends at the food court or p
- articipate in a free massage or some fun activities on the third floor of 
- the SC.\n\nNo reservation needed to participate in the de-stress activitie
- s from 7pm-10pm on the third floor of the Student Center.\n\nHowever\, don
- 't forget to pick your time slot for the free breakfast food from 9pm-12am
-  served by the wonderful faculty and staff of Georgia Tech!\n\nFor questio
- ns or assistance\, please contact ramblin@scpc.gatech.edu\nRSVP at the lin
- k below:\nhttps://gatech.universitytickets.com/w/event.aspx?id=1510 [1]\n\
- nLinks:\n[0]  http://hg.gatech.edu/node/620842#0\n[1]  https://gatech.univ
- ersitytickets.com/w/event.aspx?id=1510&fbclid=IwAR3MM67WELOg6TPneRIc19sdm1
- l6859uInM0s3mOjM8IZ7vV8vOKhFW1pTg
-LOCATION:Student Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spin & Screen - Jumanji (2017)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190501T213000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190501T233000Z
-UID:http://hg.gatech.edu/node/620673#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
- aduate students\nExtras: Free food\nStatus: draft\n\nNeed a break to relea
- se some stress from finals? The Georgia Tech Recreation Complex (CRC) can 
- help!\n\nTwo sessions being offered for Spring 2019:\n\n- April 24th\, 5:3
- 0p - 7:30p: Goonies\n- May 1st\,\, 5:30p - 7:30p: Jumanji (2017)\n\nThis c
- lass is free for all CRC members. Snacks and refreshments are provided. Sp
- ace is limited\, pre-registration and a wait-list are available.\n\nClick 
- here to pre-register and reserve your spot! [1]\n\nLinks:\n[0]  http://hg.
- gatech.edu/node/620673#0\n[1]  https://mycrc.gatech.edu/Program/GetProgram
- Details?courseId=7c512024-cd2d-49b6-af78-e1523a50a10b&semesterId=7b4682df-
- c8c5-4214-a4b8-d7976a130ea6\n[2]  http://crc.gatech.edu/spin-screen
-LOCATION:Campus Recreation Center\, 4th Floor
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Campus Center Project Launch
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190502T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190502T160000Z
@@ -15216,6 +15178,19 @@ DESCRIPTION:Intended audience: Public\nExtras: Free food\nStatus: publishe
 LOCATION:Montgomery Knight Building\, Room 317
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Georgia Tech-Lorraine Halloween Table
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191031T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191031T170000Z
+UID:http://hg.gatech.edu/node/628424#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nWant to learn more about spending
+  a semester at Georgia Tech-Lorraine? Stop by the Georgia Tech-Lorraine ta
+ ble in the Student Center from 11-1pm to get your questions answered\, pic
+ k up flyers and get free Halloween candy!\n\nLinks:\n[0]  http://hg.gatech
+ .edu/node/628424#0\n[1]  https://lorraine.gatech.edu/
+LOCATION:Student Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GVU Center Brown Bag: HyunJoo Oh "Everyday Materials Transformed b
  y Computing"
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191031T153000Z
@@ -15577,6 +15552,22 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Bill Moore Student Success Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Data Science and Analytics Fireside Chat @P&G
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191104T200000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191104T213000Z
+UID:http://hg.gatech.edu/node/628413#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nHosted by Society of Women Engine
+ ers and Data Science at Georgia Tech\n\nJoin P&G Chief Data & Analytics Of
+ ficer Guy Peri to learn how P&G utilizes data to derive actionable insight
+ s and influence key business decision-making with customers. We will be pr
+ oviding refreshments from Insomnia Cookies!\n\nLinks:\n[0]  http://hg.gate
+ ch.edu/node/628413#0\n[1]  https://gatech.campuslabs.com/engage/event/5089
+ 687\n[2]  http://datasciencegt.org\n[3]  https://gatech.campuslabs.com/eng
+ age/organization/data-science-at-georgia-tech
+LOCATION:Room 168\, Skiles Building
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dr. Mary Lynn Realff conducts StrengthsFinder dinner workshop
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191104T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191105T003000Z
@@ -15598,6 +15589,23 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  \nLinks:\n[0]  http://hg.gatech.edu/node/625798#0
 LOCATION:Stein House study lounge\, GT 4th St. Apts\, 733 Techwood\, Atlan
  ta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GTSWE x Ciena Topgolf Night
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191104T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191105T010000Z
+UID:http://hg.gatech.edu/node/628411#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\, Freebies\nStatus: published\n\nHosted by Society of W
+ omen Engineers\n\nUndergraduate and graduate students are invited to play 
+ at Topgolf in Midtown and network with Ciena associates to learn more abou
+ t their open positions and programs. This is such a fun way to destress wh
+ ile making connections! **Spots are limited to 25 attendees so RSVP quickl
+ y** RSVP at this link [1]!\n\nLinks:\n[0]  http://hg.gatech.edu/node/62841
+ 1#0\n[1]  http://tinyurl.com/cienagolf\n[2]  https://gatech.campuslabs.com
+ /engage/organization/society-of-women-engineers
+LOCATION:Topgolf Midtown\, 1600 Ellsworth Industrial Blvd NW\, Atlanta\, G
+ A
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BAPS Campus Fellowship Diwali Exhibition
@@ -15678,6 +15686,21 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  sident@gmail.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/624549#8\n[
  1]  swepresident@gmail.com\n[2]  https://www.facebook.com/GeorgiaTechSWE/
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GT Strategic Planning Appreciative Inquiry Session - for Students
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191105T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191106T000000Z
+UID:https://gatech.campuslabs.com/engage/event/5086873
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nHosted by the Undergrad
+ uate and Graduate Student Government Associations\, this session is design
+ ed to collect student input for President Cabrera's Strategic Plan. Studen
+ ts will be led through an appreciative inquiry session to isolate key valu
+ es and goals for Georgia Tech over the next 10 years. Sessions such as thi
+ s one are vital to collect input from students and student leaders about h
+ ow they envision the future of Georgia Tech.\n\nLinks:\n[0]  https://gatec
+ h.campuslabs.com/engage/event/5086873
+LOCATION:Skiles 171
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Melody and Meditation
@@ -15811,6 +15834,22 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Student Center Room 343
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GT Strategic Planning Appreciative Inquiry Session - for Students
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191106T213000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191106T230000Z
+UID:https://gatech.campuslabs.com/engage/event/5086877
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nHosted by the Undergrad
+ uate and Graduate Student Government Associations\, this session is design
+ ed to collect student input for President Cabrera's Strategic Plan. Studen
+ ts will be led through an appreciative inquiry session to isolate key valu
+ es and goals for Georgia Tech over the next 10 years. Sessions such as thi
+ s one are vital to collect input from students and student leaders about h
+ ow they envision the future of Georgia Tech.\n\nLinks:\n[0]  https://gatec
+ h.campuslabs.com/engage/event/5086877
+LOCATION:EBB Krone - Children's Healthcare of Atlanta Seminar Room (Grad-s
+ tudent Focused Session)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Porsche Vice President of HR Erika Burk\, Ph.D. Presentation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191106T213000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191106T233000Z
@@ -15899,6 +15938,16 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  ice!\n\n**FREE FOOD**\n\nLinks:\n[0]  http://hg.gatech.edu/node/627937#0\n
  [1]  https://gatech.co1.qualtrics.com/jfe/form/SV_3JG61bi3wEqyVIV
 LOCATION:Clough Atrium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dynetics
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191107T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191107T164500Z
+UID:https://gatech.campuslabs.com/engage/event/5090281
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome out to a Dynetics 
+ info session!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5
+ 090281
+LOCATION:Van Leer C340
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EWH Guest Speaker Meeting: Dr. James Stubbs 11/07
@@ -16136,6 +16185,82 @@ LOCATION:7th Floor Reading Room\, Georgia Tech Library\, Crosland Tower\,
  249-371 Bobby Dodd Way NW\, Atlanta\, GA 30313Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Varian Medical Systems Day in the Lobby
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191107T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191107T210000Z
+UID:http://hg.gatech.edu/node/628383#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\, Freebies\nStatus: published\n\nJoin Varian Medical Sy
+ stems in the CCB Commons from 11am-4pm to learn about their open opportuni
+ ties!\n\nLearning. Collaboration. Meaningful Work.\n\nYou can make a diffe
+ rence at Varian\nHow will you begin your professional life? If your dreams
+  and aspirations include making a positive difference in people’s lives 
+ while learning from the best and brightest in the industry\, a Varian inte
+ rnship may be the right place to get started.\n\n- Engaging and meaningful
+  work that contributes to our mission of focusing energy on saving lives\n
+ - Opportunities to learn from experienced\, innovative global teams that a
+ re forwarding the fight against cancer through next-generation technologie
+ s\n- Develop resources and training that furthers your skill set\, broaden
+ s your horizons and helps set the stage for the career you envision.\n- Am
+ azing people working toward achieving our vision of a world without cancer
+ .\n\nWhat will you learn? What can you contribute? A Varian internship can
+  help open the door to your future.\n\nInternships at Varian are a great w
+ ay to help you define what you’re interested in\, prepare you for a grea
+ t career\, and help shape your future. As a Varian intern\, bring your cur
+ iosity\, talent\, and dedication to make a difference. We’ll provide the
+  vision and inspiration\, access to real-world work experience\, and knowl
+ edge to help you broaden your horizons and work skills.\n\nUndergraduate a
+ nd graduate students who are currently enrolled in an accredited college o
+ r university are eligible to apply for Varian internships. Candidates curr
+ ently on student F-1 visa’s may apply for U.S. based positions.\n\nOur s
+ ummer intern program provides students an opportunity to work side-by-side
+  with experts in their field\, have the chance to bring a fresh perspectiv
+ e and approach to solving complex problems that drive innovation.\n\nDrive
+  advanced cancer treatment technology that helps save lives.\nVarian bring
+ s together the world’s best talent to succeed in our ongoing mission to 
+ save lives. Together\, we work passionately to develop and deliver easy-to
+ -use\, rapid oncology solutions. If you want to be part of that mission to
+ o\, we want to hear from you!\n\nAt Varian\, you can have a positive impac
+ t on the lives of millions of people around the globe who rely on our inno
+ vations for hope. Our solutions are being used around the world in radioth
+ erapy treatments and radiosurgery procedures.\n\nLinks:\n[0]  http://hg.ga
+ tech.edu/node/628383#0
+LOCATION:CCB Commons
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GVU Center Brown Bag: Lisa Marks "Supporting Craft with Parametric
+  Design Techniques"
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191107T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191107T180000Z
+UID:http://hg.gatech.edu/node/628452#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nExtras: Free food\nStatus: draft\n\nAbstract:\n\
+ nAs industrial design continues to embrace digital manufacturing\, we are 
+ in constant danger of losing the culturally indicative crafts that express
+  individual cultures. As global wealth inequality grows\, can we create lo
+ w tech\, parametric tools to bring products to global market? Does the spr
+ ead of generative design in products have to mean a drop in artisanal jobs
+  that support entire towns and regions? Can we blur the line between desig
+ ner and maker by working collaboratively? In this talk we look at ways tha
+ t new design tools can go to emerging and potential markets to create oppo
+ rtunity without losing jobs\, skills\, and traditions.\n\nThis topic can c
+ onnect design to production by looking upstream\, encourages socially sust
+ ainable practice. This can allow us to design for production near the mate
+ rial source taking advantage of embodied skills instead of homogenizing de
+ sign.\n\nSpeaker Bio:\n\nLisa Marks is an industrial designer whose work c
+ ombines craft and algorithmic design. She uses technological adaptations o
+ f traditional techniques to promote sustainable methods of production that
+  help endangered craft communities. Her work has been presented at design 
+ weeks in New York\, Milan\, and Bangkok and has recently won the 2019 Inte
+ rnational Grand Prix Lexus Design Award. Lisa holds an MFA from Parsons Sc
+ hool of Design and Is currently an Assistant Professor of Industrial Desig
+ n at Georgia Institute of Technology.\n\nSchedule of Brown Bag Speakers Fa
+ ll 2019 [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/628452#0\n[1]  https
+ ://www.gvu.gatech.edu/events/upcoming\n[2]  http://www.tsrb.gatech.edu/
+LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
+ a\, Ga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Healthy Lighting Design for Older Adults
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191107T213000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191107T230000Z
@@ -16177,6 +16302,19 @@ LOCATION:SimTigrate Design Lab\, 828 West Peachtree St. NW\, Suite 334\, A
  tlanta\, GA 30332-0416
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bloomberg BPuzzled Competition
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191107T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191108T010000Z
+UID:http://hg.gatech.edu/node/628350#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\, Freebies\nStatus: published\n\nBpuzzled is a puzzle c
+ ompetition created by Bloomberg engineers\, where teams of up to four comp
+ ete against each other to race to the finish! The winning team of up to 4 
+ will win a trip to NYC to compete in the finals!\n\nLinks:\n[0]  http://hg
+ .gatech.edu/node/628350#0\n[1]  http://puzl.ink/howto
+LOCATION:Klaus 1116EW
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Greek Allies
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191107T223000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191108T020000Z
@@ -16188,6 +16326,21 @@ DESCRIPTION:Intended audience: Undergraduate students\nStatus: published\n
  embers of Greek organizations. Dinner is provided.\n\nLinks:\n[0]  http://
  hg.gatech.edu/node/624435#0
 LOCATION:Register to receive location
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GT Strategic Planning Appreciative Inquiry Session - for Students
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191107T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191108T000000Z
+UID:https://gatech.campuslabs.com/engage/event/5086874
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nHosted by the Undergrad
+ uate and Graduate Student Government Associations\, this session is design
+ ed to collect student input for President Cabrera's Strategic Plan. Studen
+ ts will be led through an appreciative inquiry session to isolate key valu
+ es and goals for Georgia Tech over the next 10 years. Sessions such as thi
+ s one are vital to collect input from students and student leaders about h
+ ow they envision the future of Georgia Tech.\n\nLinks:\n[0]  https://gatec
+ h.campuslabs.com/engage/event/5086874
+LOCATION:Skiles 202
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Strategic Plan: Students-Only Visioning Session
@@ -16227,6 +16380,24 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
  ://hg.gatech.edu/node/628200#0\n[1]  https://gatech.campuslabs.com/engage/
  event/5074882\n[2]  https://www.facebook.com/events/403101603717385/
 LOCATION:College of Computing Room 052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MS Defense by William Whitmore
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191108T130000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191108T150000Z
+UID:http://hg.gatech.edu/node/628344#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nStatus: published\n\nWilliam V. Whitmore\n(Advis
+ or: Prof. Dimitri Mavris)\n\nwill defend a master’s thesis entitled\,\n\
+ nDevelopment of a Multidisciplinary Design Analysis Framework for Unmanned
+  Electric Flying Wings\n\nOn\n\nFriday\, November 8 at 8:00 a.m.\nCollabor
+ ative Design Environment (CoDE)\nWeber Space Science and Technology Buildi
+ ng (SST II)\n\nCommittee\n\n- Prof. Dimitri Mavris – School of Aerospace
+  Engineering (advisor)\n- Dr. Neil Weston– School of Aerospace Engineeri
+ ng\n- Mr. Carl Johnson – School of Aerospace Engineering\n\nLinks:\n[0] 
+  http://hg.gatech.edu/node/628344#0
+LOCATION:Collaborative Design Environment (CoDE) Weber Space Science and T
+ echnology Building (SST II)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Academic Job Search 102: Academic interviewing and job talk
@@ -16300,6 +16471,35 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
   for Underrepresented Minorities and Persons with Disabilities.\n\nLinks:\
  n[0]  http://hg.gatech.edu/node/626408#0
 LOCATION:KACB 1116
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Best Friends Animal Shelter Volunteer Shift
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191108T194500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191108T231500Z
+UID:https://gatech.campuslabs.com/engage/event/5091153
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nLooking for a way to su
+ pport animal welfare in our community? Give your time to dogs and cats at 
+ Best Friends Animal Adoption Center Friday\, November 8th!\n\nVolunteers w
+ ill help walk dogs and clean animal enclosures 3:15pm-6:15pm. All voluntee
+ rs must create a profile and complete a brief orientation on Best Friends'
+ s website prior to volunteering:\n\n- Visit volunteers.bestfriends.org [1]
+ \n- Select "Start Volunteering" and be sure to check off the path for Atla
+ nta.\n- Follow the steps to fully activate your volunteer account.\n- You 
+ will receive an email prompting you to sign up for a shift. You do not nee
+ d to sign up our Nov. 8th shift or a pre-service training. If you are unde
+ r 18\, please contact mreddic3@gatech.edu as soon as possible.\nAny volunt
+ eers should please plan to wear closed toe shoes\, long pants\, and shirts
+  with sleeves.\n\nRSVP is open on Engage below. Spots are limited--sign up
+  today!\n\nPlease plan to meet outside of Brittain Rec at 2:45pm so that o
+ ur group can travel and sign in together. Carpooling will be available\, a
+ nd further details regarding transportation will be made available by emai
+ l the week of the event.\n\nDinner after the event will be provided at St.
+  Angelo's Pizza for any interested volunteers!\n\nFor any further question
+ s or interest in future service events\, please contact Madison Reddic at 
+ mreddic3@gatech.edu.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/
+ event/5091153\n[1]  https://volunteers.bestfriends.org/?nd=login&_ga=2.784
+ 7418.931617919.1572536835-1207142062.1571426272
+LOCATION:Best Friends Society Adoption Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FA2019 - Humanitarian Forum
@@ -16432,6 +16632,37 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nMeet in front of Blue D
  ing as a group.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event
  /4934948
 LOCATION:Medshare
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fire & Ice Masquerade
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191110T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191110T040000Z
+UID:http://hg.gatech.edu/node/628425#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nExtras: Free food\, Freebies\nStatus: published
+ \n\nHosted by the Ballroom Dance Club at Georgia Tech\n\nThe Ballroom Danc
+ e Club cordially invites you to our last social dance of the semester\, th
+ e Fire & Ice Masquerade on November 9th!\n\nJoin us for a free beginner ru
+ mba and tango lesson at 7pm and general dancing from 8-11pm\, no experienc
+ e or partner required!Along with captivating music and enthralling dancing
+ \, we'll have refreshments and invite all of our guests to wear masks for 
+ a night of intrigue and allure (but they're not at all required).\n\nPrice
+ :\n\n- Free for Fall 2019 social members\n- $5 for students\, faculty\, st
+ aff and their spouses from any school or university\n- $10 for community\n
+ \nWe can't wait to see you all there!\n\nThe Ballroom Dance Club cordially
+  invites you to our last social dance of the semester\, the Fire & Ice Mas
+ querade on November 9th!\n\nJoin us for a free beginner rumba and tango le
+ sson at 7pm and general dancing from 8-11pm\, no experience or partner req
+ uired!\n\nAlong with captivating music and enthralling dancing\, we'll hav
+ e refreshments and invite all of our guests to wear masks for a night of i
+ ntrigue and allure (but they're not at all required).\n-------------------
+ -------\nPrice:\nFree for Fall 2019 social members\n$5 for students\, facu
+ lty\, staff and their spouses from any school or university\n$10 for commu
+ nity\n\nWe can't wait to see you all there!\n\nLinks:\n[0]  http://hg.gate
+ ch.edu/node/628425#0\n[1]  https://gatech.campuslabs.com/engage/event/5089
+ 686\n[2]  http://ballroomdance.gtorg.gatech.edu\n[3]  https://gatech.campu
+ slabs.com/engage/organization/ballroom-dance-club-at-georgia-tech
+LOCATION:Student Center Ballroom
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meditation Retreat
@@ -16662,6 +16893,39 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BHS Student Intern/Co-op Panel
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191112T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191113T000000Z
+UID:http://hg.gatech.edu/node/628418#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nHosted by the Briaerean Honor Soc
+ iety\n\nHave questions about the intern/co-op search? How best to structur
+ e your resume? We're here to help!\n\nJoin us Tuesday\, November 12th from
+  6pm-7pm for a panel of students with job experience and C2D2 advisors wil
+ l be speaking and answering questions about how to tackle the job search. 
+ The first 45 minutes or so will be reserved for the panel\, and then we wi
+ ll break into groups to answer specific or technical questions you may hav
+ e. This event is free and open to all students\, and light snacks will be 
+ served.\n\nLinks:\n[0]  http://hg.gatech.edu/node/628418#0\n[1]  https://g
+ atech.campuslabs.com/engage/organization/briaerean-honor-society
+LOCATION:President's Suites C and D\, Bill Moore Student Success Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GT Strategic Planning Appreciative Inquiry Session - for Students
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191112T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191113T000000Z
+UID:https://gatech.campuslabs.com/engage/event/5086875
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nHosted by the Undergrad
+ uate and Graduate Student Government Associations\, this session is design
+ ed to collect student input for President Cabrera's Strategic Plan. Studen
+ ts will be led through an appreciative inquiry session to isolate key valu
+ es and goals for Georgia Tech over the next 10 years. Sessions such as thi
+ s one are vital to collect input from students and student leaders about h
+ ow they envision the future of Georgia Tech.\n\nLinks:\n[0]  https://gatec
+ h.campuslabs.com/engage/event/5086875
+LOCATION:Skiles 317
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Strategic Plan: Students-Only Visioning Session
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191112T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191113T000000Z
@@ -16887,6 +17151,23 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  ds-ourselves\n[2]  https://sdie.gatech.edu/transformative-narratives-story
  telling-crawl
 LOCATION:Ferst Center for the Theater & Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:L3Harris Technologies Day in the Lobby
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191113T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191113T210000Z
+UID:http://hg.gatech.edu/node/628386#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\, Freebies\nStatus: published\n\nJoin representatives f
+ rom L3Harris Technologies to learn about their open opportunities!\n\nThey
+ 'll be in the CCB Commons from 11am-4pm.\n\nFree food provided!\n\nThe Nex
+ t Great Idea Is Yours\nCreativity\, ingenuity\, and inclusivity fuel innov
+ ation at L3Harris. In a world where technology moves fast as imagination t
+ akes it\, we move forward faster.\n\nHere's why there's no company quite l
+ ike us.\n- Mission & Innovation\n- Career Development\n- Community Support
+ \n- Inclusive Environment\n- Total Rewards & Flexibility\n- Achieving Your
+  Potential\n\nLinks:\n[0]  http://hg.gatech.edu/node/628386#0
+LOCATION:CCB Commons
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SCL IRC Seminar: Digital Transformation of Last-Mile Delivery
@@ -17167,6 +17448,21 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:West Village Fire Pit
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GT Strategic Planning Appreciative Inquiry Session - for Students
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191114T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191115T000000Z
+UID:https://gatech.campuslabs.com/engage/event/5086876
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nHosted by the Undergrad
+ uate and Graduate Student Government Associations\, this session is design
+ ed to collect student input for President Cabrera's Strategic Plan. Studen
+ ts will be led through an appreciative inquiry session to isolate key valu
+ es and goals for Georgia Tech over the next 10 years. Sessions such as thi
+ s one are vital to collect input from students and student leaders about h
+ ow they envision the future of Georgia Tech.\n\nLinks:\n[0]  https://gatec
+ h.campuslabs.com/engage/event/5086876
+LOCATION:Skiles 202
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Strategic Plan: Students-Only Visioning Session
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191114T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191115T000000Z
@@ -17186,6 +17482,21 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  ice!\n\n**FREE FOOD**\n\nLinks:\n[0]  http://hg.gatech.edu/node/627942#0\n
  [1]  https://gatech.co1.qualtrics.com/jfe/form/SV_3JG61bi3wEqyVIV
 LOCATION:Clough Atrium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GTSWE x Takeda: Pizza Night
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191114T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191115T010000Z
+UID:http://hg.gatech.edu/node/628419#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\, Freebies\nStatus: published\n\nHosted by Society of W
+ omen Engineers\n\nCome out and network with representatives from Takeda Ph
+ armaceutical Company! Find out about their job opportunities and tours of 
+ their facility! Dinner will be served\, dress is casual. Please RSVP at [1
+ ]\n\nLinks:\n[0]  http://hg.gatech.edu/node/628419#0\n[1]  http://tinyurl.
+ com/takedapizza\n[2]  https://gatech.campuslabs.com/engage/organization/so
+ ciety-of-women-engineers
+LOCATION:Room 269\, Skiles Building
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sustainable Business 101 Workshops: Sustainability Innovation & ES
