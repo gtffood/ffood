@@ -17425,6 +17425,20 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Bill Moore Student Success Center – President’s Suite D
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Meet the Sisters
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191114T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191114T170000Z
+UID:https://gatech.campuslabs.com/engage/event/5146356
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nPlease join us\, the si
+ sters of the Nu Chapter of Omega Phi Alpha\, for Meet the Sisters! This is
+  an opportunity for students interested in pursuing membership in Omega Ph
+ i Alpha to learn more about the organization\, the requirements of members
+ hip\, to get to know the current members\, and to have any questions answe
+ red. Coffee and donuts will be provided.\n\nLinks:\n[0]  https://gatech.ca
+ mpuslabs.com/engage/event/5146356
+LOCATION:CULC
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chat Over Chicken
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191114T163000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191114T173000Z
@@ -17458,6 +17472,53 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  e.gatech.edu/\n[4]  https://venturelab.gatech.edu/
 LOCATION:Parker H. Petit Institute for Bioengineering and Bioscience\, Roo
  m 1128
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GVU Center Brown Bag: Kristian Kloeckl "The Urban Improvise: Impro
+ visation-Based Design for Hybrid Cities"
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191114T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191114T180000Z
+UID:http://hg.gatech.edu/node/628676#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nExtras: Free food\nStatus: review\n\nAbstract:\n
+ \nThe built environment in today’s hybrid cities is changing radically. 
+ The pervasiveness of networked mobile and embedded devices has transformed
+  a predominantly stable background for human activity into spaces that hav
+ e a more fluid behavior. Based on their capability to sense\, compute\, an
+ d act in real time\, urban spaces have the potential to go beyond planned 
+ behaviors and\, instead\, change and adapt dynamically.\n\nThese interacti
+ ons resemble improvisation in the performing arts\, and this talk presents
+  a new improvisation-based framework for thinking about future cities. Kri
+ stian Kloeckl moves beyond the smart city concept by unlocking performativ
+ ity\, and specifically improvisation\, as a new design approach and explor
+ es how city lights\, buses\, plazas\, and other urban environments are cap
+ able of behavior beyond scripts.\n\nDrawing on research of digital cities 
+ and design theory\, he makes improvisation useful and applicable to the co
+ ndition of today’s technology-imbued cities and proposes a new future fo
+ r responsive urban design.\n\nThis talk is a preview of the forthcoming bo
+ ok „The Urban Improvise. Improvisation-Based Design for Hybrid Cities“
+  by Kristian Kloeckl and published by Yale University Press. http://www.ur
+ banimprovise.com/\n\nSpeaker Bio:\n\nKristian Kloeckl is a designer and as
+ sociate professor at Northeastern University’s School of Architecture an
+ d Department of Art + Design where he heads the graduate program in Experi
+ ence Design. Prior to that\, he was a faculty member at the University IUA
+ V of Venice and a research scientist at MIT\, leading the Real Time City G
+ roup at Senseable City Lab\, and establishing the lab’s research unit in
+  Singapore. Kloeckl’s work probes the boundaries of interaction design i
+ n the context of today’s hybrid cities and investigates the role of impr
+ ovisational frameworks for design. He is the author of the forthcoming boo
+ k “The Urban Improvise. Improvisation-Based Design for Hybrid Cities” 
+ published by Yale University Press and his work has been exhibited at venu
+ es such as Venice Biennale\, MoMA\, Vienna MAK\, Singapore Art Museum. Kri
+ stian Kloeckl is a frequent speaker at international conferences such as M
+ ontreal World Design Summit\, Hybrid City Conference\, MIT Platform Strate
+ gy Executive Symposium\, World Bank SDN Forum\, Red Dot Design Museum Sing
+ apore\, Austrian Innovation Forum\, ICA Conference Taipei\, eGov Global Ex
+ change Singapore.\n\nSchedule of Brown Bag Speakers Fall 2019 [1]\n\nLinks
+ :\n[0]  http://hg.gatech.edu/node/628676#0\n[1]  https://www.gvu.gatech.ed
+ u/events/upcoming\n[2]  http://www.tsrb.gatech.edu/
+LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
+ a\, Ga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Teaching with Technology Spotlight: Video Based Quizzing
@@ -17926,6 +17987,21 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  .com/\n[4]  http://ien.gatech.edu
 LOCATION:Marcus Nanotechnology Building 1117-1118 | 345 Ferst Drive | Atla
  nta GA | 30332
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Friendsgiving: A Community Dinner
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191127T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191127T020000Z
+UID:https://gatech.campuslabs.com/engage/event/5146447
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nNOT GOING HOME FOR THAN
+ KSGIVING?\n\nTech Wesley and Grace House invite you to Friendsgiving: A Co
+ mmunity Dinner\n\n- WHEN? Tuesday\, November 26th at 7pm.\n- WHERE? The Te
+ ch Wesley Building at the corner of 4th and Fowler.\n- WHO? All are Welcom
+ e\, but please RSVP!\n\n189 4th Street\n\nVegetarian Options will be provi
+ ded. Please contact Geoff Beakley at geoffb@gtwf.org if you have any speci
+ al needs/requests.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/ev
+ ent/5146447
+LOCATION:Tech Wesley Building
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga for the Soul
