@@ -2,138 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Seattle Area Georgia Tech Supply Chain Alumni Happy Hour
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190507T213000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190508T003000Z
-UID:http://hg.gatech.edu/node/621218#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nExtras: Free food\nStatus: published\n\nGT Suppl
- y Chain & Logistics Institute Directors Benoit Montreuil and Tim Brown wil
- l be visiting Seattle and hosting a Happy Hour for Supply Chain Alum and f
- riends of SCL on Tuesday\, May 7\, beginning at 5:30 PM at the Brave Horse
-  Tavern.\n\nParking: Free after 4pm (garage entrance is on Harrison\, betw
- een Terry and Boren on the north side of the building).\n\nFood & Drink: G
- T will be providing the room and snacks\; a cash bar and additional food a
- re available for purchase.\n\nPlease RSVP via Evite [1] to let us know you
-  are coming!\n\nGo Jackets!\n\nLinks:\n[0]  http://hg.gatech.edu/node/6212
- 18#0\n[1]  http://evite.me/qhBPN8uM1f\n[2]  https://www.bravehorsetavern.c
- om/
-LOCATION:Seattle\, WA (Brave Horse Tavern)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PACE Seminar
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190508T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190508T160000Z
-UID:http://hg.gatech.edu/node/621302#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nExtras: Free food\nStatus: published\n\nTime: T
- hursday\, May 9th 11:00am – 12:00pm\n\nLocation: CODA Room 114\n\nHost: 
- PACE\n\nTitle: Advanced Computing Approaches for Studying Lipid Membrane B
- iophysics\n\nAbstract:\n\nEnabling researchers\, by giving them access to 
- the tools\, technology\, and techniques\, is the key component to facilita
- ting the innovations of modern research. High-performance and high-through
- put computing are very important tools in modern research and are essentia
- l to making meaningful process on many important problems.\n\nIn this semi
- nar\, lessons learned in the course of serving a large and vibrant computa
- tional research community is described. Examples of troubleshooting and op
- timization of serial and parallel programs are shown. In addition\, the us
- e of optimization and benchmarking is used to show how technical data can 
- be developed to guide users in determination of their research resource re
- quirements and use. An example of using containerization technology to ena
- ble a specialized software stack is also detailed. In conclusion\, some of
-  the lessons learned and skills developed during the previous 4 years will
-  be shared.\n\nBiography:\n\nDr. Christopher Blanton is an experienced HPC
-  professional who has worked with some of the most exciting and innovative
-  computational researchers.\n\nHe earned his Ph.D. from Syracuse Universit
- y in Computational and Theoretical Chemistry. During his studies\, he firs
- t became deeply interested in computational research and HPC. After gradua
- tion\, he joined the Pennsylvania State University's Institute for CyberSc
- ience. Dr. Blanton has worked most closely with members of the materials s
- cience community\, as a co-appointed staff member of the Materials Researc
- h Institute and the Institute for CyberScience as well as serving as an IC
- S Associate and member of the ICS Coordinating Committee. He looks forward
-  to sharing some of his experiences with the Georgia Institute of Technolo
- gy's computational research community.\n\nLinks:\n[0]  http://hg.gatech.ed
- u/node/621302#0
-LOCATION:Coda Building\, Conference Room 114
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Finding Contentment: Working Toward Inner Peace and Global Harmony
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190508T200000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190508T230000Z
-UID:http://hg.gatech.edu/node/621489#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nStatus: published\n\nFree yoga lessons from 4 t
- o 6 p.m.\, followed by a free Indian dinner in Clough Commons.\n\n- 4 PM t
- o 6 PM: Yoga workshop (explaining the benefits and teaching asanas) on Tec
- h Green (by a trained yoga instructor)\n- 6 PM to 7 PM: Amma's conversatio
- n with students\n- 7 PM: Refreshments for students in Clough Commons\n\nLi
- nks:\n[0]  http://hg.gatech.edu/node/621489#0
-LOCATION:Tech Green and Room 144\, Clough Undergraduate Learning Commons
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PACE Seminar
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190509T153000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190509T163000Z
-UID:http://hg.gatech.edu/node/621311#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nExtras: Free food\nStatus: published\n\nDate an
- d Time: Thursday\, May 9th 11:30am – 12:30pm\n\nLocation: CODA Room 114\
- n\nHost: PACE\n\nTitle: Advanced Computing Approaches for Studying Lipid M
- embrane Biophysics\n\nAbstract:\n\nModern advanced computing has allowed s
- cientists to apply a “computational microscope” to numerous biological
-  systems and uncover their physical underpinnings in a manner not feasible
-  on smaller computing resources. This seminar will detail the use of super
- computers\, including XSEDE’s Bridges and D.E. Shaw Research’s Anton2\
- , both located at the Pittsburgh Supercomputing Center\, to conduct large-
- scale simulations of lipid bilayers. Why advanced computing resources were
-  necessary will be discussed\, as will steps taken to maximize the computa
- tional efficiency of these simulations.\n\nThis approach\, at the nexus of
-  computational science\, physics\, chemistry\, and biology\, may be employ
- ed to understand the behavior of cell membranes\, the lipid bilayers that 
- form the boundary of living cells and control their interaction with the s
- urrounding world. Lipid rafts\, regions of the membrane with distinct phys
- ical properties\, may be modeled in a system of coexisting liquid phases a
- nd simulated by Molecular Dynamics. Extracting lipid physical properties f
- rom the studies’ numerical data revealed new insights into coupling of l
- ipid rafts and communication across the membrane.\n\nBiography:\n\nDr. Mic
- hael Weiner received his undergraduate degree in physics from Yale Univers
- ity and his doctorate\, also in physics\, from Cornell University. He comp
- leted his doctoral research in computational biophysics in the laboratory 
- of Gerald Feigenson\, where he focused on Molecular Dynamics simulations o
- f the biophysical chemistry of lipid bilayers as models of cell membranes.
-  Dr. Weiner is interested applying advanced computing techniques to questi
- ons throughout the sciences.\n\nLinks:\n[0]  http://hg.gatech.edu/node/621
- 311#0
-LOCATION:Coda Building\, Conference Room 114
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:6th Annual BioE Day
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190509T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190509T230000Z
-UID:http://hg.gatech.edu/node/620527#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nCome celebrate th
- e Petit Institute's Bioengineering Interdisciplinary Graduate Program!\n\n
- AGENDA\n12:30 p.m. Posters in atrium - refreshments served\n\n1:15 p.m. Ke
- ynote Presentation - “Cast a Wide Net or Thread the Needle\, Balancing Y
- our BioE Skill Set for Success in Industry” - Ivan Cáceres\, Ph.D.\, Se
- nior Principal Data Analytics & Cognitive Autonomy Engineer\, Northrop Gru
- mman\n\n2:15 p.m. Rapid Fire\n\n3:15 p.m. Coffee break\n\n3:30 p.m. Gradua
- te student presentation\n\n3:40 p.m. Graduate student presentation\n\n3:50
-  p.m. Graduate student presentation\n\n4:00 p.m. Outstanding Advisor Prese
- ntation - "Just (Bio)Eing Yourself" - Susan Thomas\, Ph.D.\, Associate Pro
- fessor\, George W. Woodruff School of Mechanical Engineering\n\n4:30 p.m. 
- Outstanding Paper Presentation - "Microfluidic Generation of Transient Cel
- l Volume Exchange for Convectively Driven Intracellular Delivery of Large 
- Macromolecules" - Anna Liu\, doctoral candidate\; Todd Sulchek\, Ph.D.\, A
- dvisor\n\n5:00 p.m. Awards\n\n5:15 p.m. Fun and Games on the Bioquad - ref
- reshments served\n\nLinks:\n[0]  http://hg.gatech.edu/node/620527#0\n[1]  
- http://bioengineering.gatech.edu/
-LOCATION:Petit Biotechnology Building - 315 Ferst Drive NW\, Atlanta\, GA 
- 30332
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Spring 2019 NanoFANS (Focusing on Advanced Nanobio Systems) FORUM
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190510T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190510T183000Z
@@ -16257,21 +16125,41 @@ DTSTART;TZID=UTC;VALUE=DATE-TIME:20191107T210000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191107T230000Z
 UID:http://hg.gatech.edu/node/628590#0
 DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nThe Nu Chapter of Omega Phi Alpha National Service S
- orority is partnering with GT Society of Hispanic Professional Engineers a
- nd members of the Residence Hall Association to put on a donation driven e
- vent called Tech’s Giving on November 7th from 4:00 pm to 6:00 pm at the
-  Nelson-Shell Courtyard. The event is free for all and will include free f
- ood\, outdoor games\, inflatables\, and more! Although this is a free even
- t\, we strongly encourage people to bring donations that will go to the At
- lanta Gateway Center. See a full list of donations. [1]\n\nDonations will 
- allow you to participate in selective activities\, including pumpkin smash
- ing\, cakewalks\, and the opportunity to pie a Student Staff Member (list 
- of participating SSMs can be found here [2] ).\n\nLinks:\n[0]  http://hg.g
- atech.edu/node/628590#0\n[1]  http://drive.google.com/file/d/1FfALMJvH-glN
- CARmA13Pvg_RQZaTRTuE/view\n[2]  http://docs.google.com/document/d/17xYm2R8
- VRIpX4OVZosw8tVcujPPRYaxvB1Mm3r0bpQA/edit?usp=sharing\n[3]  https://www.fa
- cebook.com/events/395375051349634/
+ nExtras: Free Food\, Free Stuff\nStatus: published\n\nThe Nu Chapter of Om
+ ega Phi Alpha National Service Sorority is partnering with GT Society of H
+ ispanic Professional Engineers and members of the Residence Hall Associati
+ on to put on a donation driven event called Tech’s Giving on November 7t
+ h from 4:00 pm to 6:00 pm at the Nelson-Shell Courtyard. The event is free
+  for all and will include free food\, outdoor games\, inflatables\, and mo
+ re! Although this is a free event\, we strongly encourage people to bring 
+ donations that will go to the Atlanta Gateway Center. See a full list of d
+ onations. [2]\n\nDonations will allow you to participate in selective acti
+ vities\, including pumpkin smashing\, cakewalks\, and the opportunity to p
+ ie a Student Staff Member (list of participating SSMs can be found here [3
+ ] ).\n\nOmega Phi Alpha is partnering with the Georgia Tech Residence Hall
+  Association and the Society of Hispanic Professional Engineers at Georgia
+  Tech to put on a donation-driven event called Tech’s Giving on November
+  7th from 4:00 pm to 6:00 pm at the Nelson-Shell Courtyard. Rain location:
+  Student Center Peachtree Room\n\nThe event is free for all and will inclu
+ de free food\, outdoor games\, inflatables\, and more! Although this is a 
+ free event\, we strongly encourage people to bring donations that will go 
+ to the Atlanta Gateway Center. For a full list of donations\, see below. D
+ onations will allow you to participate in selective activities\, including
+  pumpkin smashing\, cakewalks\, and the opportunity to pie a Student Staff
+  Member (list of participating SSMs can be found here).\n\nThe Gateway Cen
+ ter is a homeless service center designed to make homelessness rare\, brie
+ f\, and non-recurring for individuals and families experiencing homelessne
+ ss.\n\nPreferred donations: warmer items\, blankets\, undergarments\, maxi
+  pads\, liners\, deodorant\, clothing items\n\nAll accepted donations: per
+ sonal hygiene items\, disposable razors\, clothing\, coats\, jackets\, swe
+ aters\, bottled water\, powdered laundry detergent\, towels\, washcloths\,
+  blankets\, and bed liners\, new or very lightly used undergarments\, play
+ ing cards\, games (checkers\, chess\, etc.)\, individually wrapped food it
+ ems\n\nLinks:\n[0]  http://hg.gatech.edu/node/628590#0\n[1]  https://gatec
+ h.campuslabs.com/engage/event/5149638\n[2]  http://drive.google.com/file/d
+ /1FfALMJvH-glNCARmA13Pvg_RQZaTRTuE/view\n[3]  http://docs.google.com/docum
+ ent/d/17xYm2R8VRIpX4OVZosw8tVcujPPRYaxvB1Mm3r0bpQA/edit?usp=sharing\n[4]  
+ https://www.facebook.com/events/395375051349634/
 LOCATION:Nelson-Shell Courtyard (Rain Location: Peachtree Room\, Student C
  enter)
 END:VEVENT
@@ -16658,6 +16546,24 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Piedmont Room\, Student Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Space\, The Silent Jam
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191109T010000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191109T050000Z
+UID:http://hg.gatech.edu/node/628647#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nWreckless is hosting a silent dis
+ co event on Peters Parking Deck on November 8th\, and everyone is invited!
+  Come hang out with and jam to some catchy tunes and Just Dance songs!\n\n
+ Rocket like it’s hot! We’re over the moon to announce Space\, The Sile
+ nt Jam. Neptune out the stress of Tech and moonwalk over time Peter’s pa
+ rking deck on 11/8 from 8pm-Midnight for our annual silent disco! Put on y
+ our asteroid belt and Saturn rings for good time\, and we’ll meet(eor) t
+ here!\n\nLinks:\n[0]  http://hg.gatech.edu/node/628647#0\n[1]  https://gat
+ ech.campuslabs.com/engage/event/5149698\n[2]  https://www.facebook.com/eve
+ nts/535595777001763/
+LOCATION:Peters Parking Deck
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BCM Pancake Night
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191109T030000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191109T070000Z
@@ -16837,6 +16743,21 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  ry-reading-soiree\n[2]  https://sdie.gatech.edu/transformative-narratives-
  storytelling-crawl
 LOCATION:Student Center Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ethics Stations
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191111T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191111T180000Z
+UID:http://hg.gatech.edu/node/628720#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nExtras: Free food\, Freebies\nStatus: published
+ \n\nRepresentatives from the Office of Ethics and Compliance and Institute
+  personnel that work on ethics and compliance matters\, will be on hand at
+  10 locations across campus [1] to share information\, answer questions\, 
+ host trivia for prizes\, and promote Georgia Tech's core values.\n\nLinks:
+ \n[0]  http://hg.gatech.edu/node/628720#0\n[1]  https://www.gatech.edu/abo
+ ut/ethics/stations\n[2]  https://www.gatech.edu/about/ethics
+LOCATION:10 locations across campus
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Veterans Day Luncheon
@@ -17123,40 +17044,92 @@ BEGIN:VEVENT
 SUMMARY:The Geopolitics of the Rare and Not-So-Rare Elements
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191112T233000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191113T003000Z
-UID:http://hg.gatech.edu/node/622132#0
+UID:http://hg.gatech.edu/node/628753#0
 DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  \, Public\, Undergraduate students\nExtras: Free food\, Freebies\nStatus: 
  published\n\nA Frontiers in Science Lecture to celebrate 2019\, the Intern
  ational Year of the Periodic Table\nChemical elements have played importan
  t roles in the geopolitics of modern times and will continue to do so.\n\n
- From Einstein’s 1939 letter to President Franklin D. Roosevelt [1] highl
- ighting the need to secure uranium ores\, to an insurgency fought over pho
- sphorus\, to a Chinese embargo of rare-earth elements in retaliation for a
-  maritime incident in the East China Sea\, to “blood batteries” for el
- ectric vehicles dependent on cobalt mined by child laborers in the Democra
- tic Republic of Congo\, to calls for new international agreements on aster
- oid mining\, the role of elements in geopolitics is vast and significant.\
- n\nWhat does this mean for the U.S.\, for the rest of the world\, and for 
- the future of technology?\n\nAbout the Speaker\nMargaret E. Kosal [2] is a
- n associate professor in Georgia Tech’s Sam Nunn School of International
-  Affairs. She directs the Sam Nunn Security Program and the Program on Eme
- rging Technology and Security. She is also a member of the Parker H. Petit
-  Institute for Bioengineering and Bioscience. Her research explores the re
- lationships among technology\, strategy\, and governance.\n\nShe is the au
- thor of “Nanotechnology for Chemical and Biological Defense.” [3] The 
- book explores scenarios\, benefits\, and potential proliferation threats o
- f nanotechnology and other emerging sciences. She is the editor of “ Tec
- hnology and the Intelligence Community: Challenges and Advances for the 21
- st Century [4].” The book examines the role of technology in gathering\,
-  assimilating and utilizing intelligence information through the ages. She
-  is editor-in-chief of Politics and the Life Sciences [5]. The journal pub
- lishes original scholarly research at the intersection of political scienc
- e and the life sciences.\n\nKosal has served as a senior advisor to the Ch
- ief of Staff of the Army and as science and technology advisor in the Offi
- ce of the Secretary of Defense.\n\nTrained as an experimental scientist\, 
- Kosal earned a Ph.D. in Chemistry from the University of Illinois\, Urbana
- -Champaign\, working on biomimetic and nanostructured functional materials
- . She cofounded the company ChemSensing [6]\, where she led research and d
+ From Einstein’s 1939 letter to President Franklin D. Roosevelt [02] high
+ lighting the need to secure uranium ores\, to an insurgency fought over ph
+ osphorus\, to a Chinese embargo of rare-earth elements in retaliation for 
+ a maritime incident in the East China Sea\, to “blood batteries” for e
+ lectric vehicles dependent on cobalt mined by child laborers in the Democr
+ atic Republic of Congo\, to calls for new international agreements on aste
+ roid mining\, the role of elements in geopolitics is vast and significant.
+ \n\nWhat does this mean for the U.S.\, for the rest of the world\, and for
+  the future of technology?\n\nAbout the Speaker\nMargaret E. Kosal [03] is
+  an associate professor in Georgia Tech’s Sam Nunn School of Internation
+ al Affairs. She directs the Sam Nunn Security Program and the Program on E
+ merging Technology and Security. She is also a member of the Parker H. Pet
+ it Institute for Bioengineering and Bioscience. Her research explores the 
+ relationships among technology\, strategy\, and governance.\n\nShe is the 
+ author of “Nanotechnology for Chemical and Biological Defense.” [04] T
+ he book explores scenarios\, benefits\, and potential proliferation threat
+ s of nanotechnology and other emerging sciences. She is the editor of “ 
+ Technology and the Intelligence Community: Challenges and Advances for the
+  21st Century [05].” The book examines the role of technology in gatheri
+ ng\, assimilating and utilizing intelligence information through the ages.
+  She is editor-in-chief of Politics and the Life Sciences [06]. The journa
+ l publishes original scholarly research at the intersection of political s
+ cience and the life sciences.\n\nKosal has served as a senior advisor to t
+ he Chief of Staff of the Army and as science and technology advisor in the
+  Office of the Secretary of Defense.\n\nTrained as an experimental scienti
+ st\, Kosal earned a Ph.D. in Chemistry from the University of Illinois\, U
+ rbana-Champaign\, working on biomimetic and nanostructured functional mate
+ rials. She cofounded the company ChemSensing [07]\, where she led research
+  and development of medical\, biological\, and chemical sensors.\n\nAbout 
+ Frontiers in Science Lectures\nLectures in this series are intended to inf
+ orm\, engage\, and inspire students\, faculty\, staff\, and the public on 
+ developments\, breakthroughs\, and topics of general interest in the scien
+ ces and mathematics. Lecturers tailor their talks for nonexpert audiences.
+ \n\nAbout the Periodic Table Frontiers in Science Lecture Series\nThrougho
+ ut 2019\, the College of Sciences will bring prominent researchers from Ge
+ orgia Tech and beyond to expound on little-discussed aspects of chemical e
+ lements:\n\n- Feb. 6\, James Sowell\, How the Universe Made the Elements i
+ n the Periodic Table\n- March 5\, Michael Filler\, Celebrating Silicon: It
+ s Success\, Hidden History\, and Next Act\n- April 2\, John Baez\, Univers
+ ity of California\, Riverside\, Mathematical Mysteries of the Periodic Tab
+ le\n- April 18\, Sam Kean\, Author\, The Periodic Table: A Treasure Trove 
+ of Passion\, Adventure\, Betrayal\, and Obsession\n- Sept. 12\, Monica Hal
+ ka\, The Elusive End of the Periodic Table: Why Chase It\n- Oct. 15\, Davi
+ d Clark\, Plutonium Chemistry and the Battlefields of the Cold War\n- Oct.
+  31\, Taka Ito\, Turning Sour\, Bloated\, and Out of Breath: Ocean Chemist
+ ry under Global Warming\n- Nov. 12\, Margaret Kosal\, The Geopolitics of R
+ are and Not-So-Rare Elements\n\nClosest public parking for the Nov. 12 lec
+ ture is Visitors Area 4\, Ferst Street and Atlantic Drive\, [08]\nRefreshm
+ ents are served\, and periodic table t-shirts are raffled\, at every lectu
+ re.\n\nA Frontiers in Science Lecture to celebrate 2019\, the Internationa
+ l Year of the Periodic Table\nChemical elements have played important role
+ s in the geopolitics of modern times and will continue to do so.\n\nFrom E
+ instein’s 1939 letter to President Franklin D. Roosevelt [02] highlighti
+ ng the need to secure uranium ores\, to an insurgency fought over phosphor
+ us\, to a Chinese embargo of rare-earth elements in retaliation for a mari
+ time incident in the East China Sea\, to “blood batteries” for electri
+ c vehicles dependent on cobalt mined by child laborers in the Democratic R
+ epublic of Congo\, to calls for new international agreements on asteroid m
+ ining\, the role of elements in geopolitics is vast and significant.\n\nWh
+ at does this mean for the U.S.\, for the rest of the world\, and for the f
+ uture of technology?\n\nAbout the Speaker\nMargaret E. Kosal [03] is an as
+ sociate professor in Georgia Tech’s Sam Nunn School of International Aff
+ airs. She directs the Sam Nunn Security Program and the Program on Emergin
+ g Technology and Security. She is also a member of the Parker H. Petit Ins
+ titute for Bioengineering and Bioscience. Her research explores the relati
+ onships among technology\, strategy\, and governance.\n\nShe is the author
+  of “Nanotechnology for Chemical and Biological Defense.” [04] The boo
+ k explores scenarios\, benefits\, and potential proliferation threats of n
+ anotechnology and other emerging sciences. She is the editor of “ Techno
+ logy and the Intelligence Community: Challenges and Advances for the 21st 
+ Century [05].” The book examines the role of technology in gathering\, a
+ ssimilating and utilizing intelligence information through the ages. She i
+ s editor-in-chief of Politics and the Life Sciences [06]. The journal publ
+ ishes original scholarly research at the intersection of political science
+  and the life sciences.\n\nKosal has served as a senior advisor to the Chi
+ ef of Staff of the Army and as science and technology advisor in the Offic
+ e of the Secretary of Defense.\n\nTrained as an experimental scientist\, K
+ osal earned a Ph.D. in Chemistry from the University of Illinois\, Urbana-
+ Champaign\, working on biomimetic and nanostructured functional materials.
+  She cofounded the company ChemSensing [07]\, where she led research and d
  evelopment of medical\, biological\, and chemical sensors.\n\nAbout Fronti
  ers in Science Lectures\nLectures in this series are intended to inform\, 
  engage\, and inspire students\, faculty\, staff\, and the public on develo
@@ -17176,15 +17149,16 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  Taka Ito\, Turning Sour\, Bloated\, and Out of Breath: Ocean Chemistry und
  er Global Warming\n- Nov. 12\, Margaret Kosal\, The Geopolitics of Rare an
  d Not-So-Rare Elements\n\nClosest public parking for the Nov. 12 lecture i
- s Visitors Area 4\, Ferst Street and Atlantic Drive\, [7]\nRefreshments ar
- e served\, and periodic table t-shirts are raffled\, at every lecture.\n\n
- Links:\n[0]  http://hg.gatech.edu/node/622132#0\n[1]  http://www.atomicarc
- hive.com/Docs/Begin/Einstein.shtml\n[2]  https://inta.gatech.edu/people/pe
- rson/margaret-e-kosal\n[3]  https://www.springer.com/us/book/9781441900616
- \n[4]  https://www.springer.com/us/book/9783319752310\n[5]  https://www.ca
- mbridge.org/core/journals/politics-and-the-life-sciences\n[6]  https://cen
- .acs.org/articles/82/i50/MARGARET-E-KOSAL.html\n[7]  http://pts.gatech.edu
- /visitors#l3\n[8]  https://periodictable.gatech.edu/
+ s Visitors Area 4\, Ferst Street and Atlantic Drive\, [08]\nRefreshments a
+ re served\, and periodic table t-shirts are raffled\, at every lecture.\n\
+ nLinks:\n[00]  http://hg.gatech.edu/node/628753#0\n[01]  http://hg.gatech.
+ edu/node/622132#0\n[02]  http://www.atomicarchive.com/Docs/Begin/Einstein.
+ shtml\n[03]  https://inta.gatech.edu/people/person/margaret-e-kosal\n[04] 
+  https://www.springer.com/us/book/9781441900616\n[05]  https://www.springe
+ r.com/us/book/9783319752310\n[06]  https://www.cambridge.org/core/journals
+ /politics-and-the-life-sciences\n[07]  https://cen.acs.org/articles/82/i50
+ /MARGARET-E-KOSAL.html\n[08]  http://pts.gatech.edu/visitors#l3\n[09]  htt
+ ps://periodictable.gatech.edu/
 LOCATION:Room 1128 (Suddath Room)\, Institute for Bioengineering and Biosc
  ience (IBB) Building\, 315 Ferst Dr NW\, Atlanta\, GA 30332
 END:VEVENT
@@ -17266,6 +17240,22 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  \n- Inclusive Environment\n- Total Rewards & Flexibility\n- Achieving Your
   Potential\n\nLinks:\n[0]  http://hg.gatech.edu/node/628386#0
 LOCATION:CCB Commons
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Writing a Winning Research Proposal
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191113T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191113T180000Z
+UID:http://hg.gatech.edu/node/628729#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nWhat really matters in any grant proposal? The 
+ offices of the Executive Vice President for Research\, Vice Provost for Gr
+ aduate Education and Faculty Development\, and Office of Sponsored Program
+ s will host a session to discuss how to write effective research proposals
+  with the reviewer in mind\, the grant submission process\, and how review
+  panels work. A light lunch will be provided. Please register using the li
+ nk above so that we may anticipate attendance.\n\nLinks:\n[0]  http://hg.g
+ atech.edu/node/628729#0
+LOCATION:Whitaker Building Room 1232
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SCL IRC Seminar: Digital Transformation of Last-Mile Delivery
@@ -17375,6 +17365,21 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Room 152\, Kendeda Building
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:L3Harris Technologies Workshop: Managing Your Career In Your First
+  2-5 Years
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191113T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191114T010000Z
+UID:http://hg.gatech.edu/node/628800#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\, Freebies\nStatus: published\n\nJoin representatives f
+ rom L3Harris Technologies to learn about the early stages of self-discover
+ y as a young professional to defining your mark and establishing yourself 
+ as a thought leader.\n\nA brief L3Harris company overview afterwards with 
+ an open Q&A!\n\nFree dinner will be provided!\n\nLinks:\n[0]  http://hg.ga
+ tech.edu/node/628800#0
+LOCATION:Klaus 1116EW
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Universal in the Particular: Crafting Personal Narratives to C
  reate Emotional Catharsis in the Audience
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191114T133000Z
@@ -17423,6 +17428,17 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  btqia-community-story-swap-listening-session\n[2]  https://sdie.gatech.edu
  /transformative-narratives-storytelling-crawl
 LOCATION:Bill Moore Student Success Center – President’s Suite D
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Students in Distress Training
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191114T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191114T164500Z
+UID:https://gatech.campuslabs.com/engage/event/5150670
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis will be a brief in
+ troduction to helping students in distress. All who are interested are wel
+ come\, even if they aren't members of WECE!\n\nLinks:\n[0]  https://gatech
+ .campuslabs.com/engage/event/5150670
+LOCATION:Van Leer C340
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meet the Sisters
@@ -17703,6 +17719,37 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Room 269\, Skiles Building
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:College of Sciences in the 2019 3 Minute Thesis Competition Final
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191114T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191115T013000Z
+UID:http://hg.gatech.edu/node/628772#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nSince 2015\, Georgia Tech's Three Minute Thesis (3MT®) competition has 
+ helped graduate students hone their communication skills by challenging th
+ em to share their research in three minutes in a way anyone could understa
+ nd.\n\nFrom the College of Sciences\, physics Ph.D. student Lin Xin and ch
+ emistry/biochemistry Ph.D. student Suttipong "Jay" Suttapitugsakul are fin
+ alists in the 2019 Georgia Tech 3 Minute Thesis Competition.\n\nXin's pres
+ entation is titled "Beat the Quantum Limit." His research is about doing p
+ recise measurements beyond the most precise quantum limit by using cold at
+ oms. His principal investigator is School of Physics Professor Michael Cha
+ pman [1].\n\nSuttapitugsakul's presentation is titled "Not Just a Sugar Co
+ ating! Understanding the Language of Cells through Their Sweet Surface. " 
+ He studies the roles and functions of cell-surface glycoproteins by integr
+ ating mass-spectrometry based proteomics with chemical and enzymatic react
+ ions. The goal is to better understand how cell type\, cell state\, and ex
+ tracellular environment affects cell-surface glycoproteins in order to dis
+ cover new biomarkers and drug targets. His principal investigator is Rongh
+ u Wu [2]\, an associate professor in the School of Chemistry and Biochemis
+ try.\n\nFor more information about 3MT\, visit grad.gatech.edu/3MT. [3]\n\
+ nLinks:\n[0]  http://hg.gatech.edu/node/628772#0\n[1]  https://www.physics
+ .gatech.edu/user/michael-chapman\n[2]  https://www.chemistry.gatech.edu/pe
+ ople/Wu/Ronghu\n[3]  http://www.grad.gatech.edu/3MT
+LOCATION:Amphitheater\, Global Learning Center\, 800 Spring St NW\, Atlant
+ a\, GA 30308
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SCPC Presents: Ultimate Smash Ultimate Tournament
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191114T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191115T020000Z
@@ -17787,6 +17834,21 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome join us for a nigh
 LOCATION:The Catholic Center at Georgia Tech
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:S'more Fall Fun
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191118T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191119T010000Z
+UID:http://hg.gatech.edu/node/628719#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nHosted by FirstGen\n\nCome roast 
+ marshmallows and drink hot chocolate with us! Drop in at any point and fee
+ l free to bring your friends! RSVPs are not required but appreciated!\n\nL
+ inks:\n[0]  http://hg.gatech.edu/node/628719#0\n[1]  https://gatech.campus
+ labs.com/engage/event/5149455\n[2]  https://gatech.campuslabs.com/engage/o
+ rganization/firstgen\n[3]  https://www.facebook.com/events/577686772968606
+ /
+LOCATION:West Village Lawn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AGSC Tuesday Collaboratorium: Lunch with a Member of the Atlanta C
  onsular Corps
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191119T160000Z
@@ -17811,6 +17873,117 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our inaugur
   starting at 11 AM and a photo with Buzz at 11:30 AM.\n\nLinks:\n[0]  http
  s://gatech.campuslabs.com/engage/event/5144842
 LOCATION:Skiles Courtyard
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:French Day 2019
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191119T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191119T210000Z
+UID:http://hg.gatech.edu/node/628811#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\, Freebies\nStatus: published\n\n11 a.m. - 12 p.m.
+  Meet and Greet (Swann 106)\nWe’re kicking off the 2019 French Day with 
+ a brunch\, the French way!\nCome and meet our faculty as well as other Fre
+ nch and Francophile students: majors\, minors\, ALIS\, GEML\, M.S. and mem
+ bers of the French Club\, while enjoying coffee and light pastries.\n\n12 
+ p.m. - 1 p.m. Mini Study Abroad Fair (Swann Atrium)\nFeaturing Georgia Tec
+ h Lorraine\, our LBAT Paris-Nice and our LBAT Senegal. Learn how to get to
+  complete fluency and achieve a French minor in the most efficient way: ab
+ road!\n\nSwing by and meet students who have done our LBATs\, learn all ab
+ out our courses and the details of the programs. Hear about the host famil
+ ies\, the daily outings around Paris\, Nice\, Metz and Dakar\, to visit lo
+ cal startups and businesses\, scout filming locations and lend a hand to u
+ rban farming. Ask about our financial incentives\, the Serve-Learn-Sustain
+  program and the International Plan!\n\nDes Livres & Délices\, a French c
+ oncept store located in Raleigh\, NC\, will join us with books and treats 
+ for us all! - [1]\n\nFrench Study Abroad Opportunities!\nLBAT France [2]\n
+ \nLBAT Senegal [3]\n\nGeorgia Tech Lorraine [4]\n\n1 p.m. - 2 p.m. Speed D
+ ating with the French Club (Swann 320)\nWant to meet friends? Hone your ca
+ sual conversation skills while snacking on heart-shaped chocolates? The Fr
+ ench Club speed-dating event is for you! No actual dating involved\, but a
+  series of encounters with other eager conversationalists like you\, in a 
+ friendly atmosphere.\n\n2 p.m. - 3 p.m. Student Research Showcase (Swann A
+ trium)\nIt’s showtime! This event will showcase our students’ research
+ \, and show you the great array of cultural\, historical\, scientific\, ar
+ tistic and linguistic subjects you can specialize in within our programs! 
+ Approach a scholar\, ask about their project and they will present their r
+ esearch to you as a personalized\, 5-minute elevator pitch. A great way to
+  discover the trends in culture and research\, and to learn a little bit a
+ bout a whole range of subjects!\n\nIf you are interested in participating\
+ , please click this link [5]\n\n3 p.m. - 4:00 p.m. Crepe Party (Swann Atri
+ um)\nWe’re bringing the pans\, you’re doing the work! This crêpe part
+ y will allow you to learn to make and flip your own crêpe\, before the we
+ ll-deserved reward of eating it. A culinary workshop of sorts\, so bring y
+ our talent and your appetite!\n\n4 p.m. - 6:30 p.m. French Connections (Cl
+ ary Theatre\, Bill Moore Student Success Center)\nThe closing of this year
+ ’s French Day will be at the the Clary Theatre\, Bill Moore Student Succ
+ ess Center. There\, you will get to meet consulates from France\, Switzerl
+ and\, Québec and Belgium\, as well as Georgia Tech members of Faculty for
+  International Affairs\, and ask them questions about their work in diplom
+ acy and the job prospects in their field.\n\nLast year’s event was a suc
+ cess and we have moved it to a bigger venue this year.\n\nList of Particip
+ ants:\n- Anne-Lise Gallay\, Deputy Cultural Attaché\, Educational and Uni
+ versity Affairs\, Consulat Général de France à Atlanta\n- Peter Zimmerl
+ i\, Consul General of Switzerland\n- Yves Berthelot\, Vice Provost for Int
+ ernational Initiatives\, Steven A. Denning Chair in Global Engagement\, Pr
+ esident of Georgia Tech Lorraine\, and Professor.\n- Angela Hales - Office
+  Manager - Délégation du Québec / Québec Government Office\n- Alasdair
+  Young\, Professor of International Affairs\, Co-Director of the Center fo
+ r European and Transatlantic Studies\, a Jean Monnet Center of Excellence\
+ , Co-Editor\, JCMS: Journal of Common Market Studies\n- Michael Cerulus\, 
+ Consul\, Consulate General of Belgium in Atlanta\n- Sophie Frère\, Public
+  Affairs\, Consulate General of Belgium in Atlanta\n- Roudelyne Nogar Jean
+ \, Consul\, Consulate General of Haiti in Atlanta\n\nOngoing Throughout th
+ e Day!!!\n\nRaffle!! (Hourly)\nEvery hour\, we will raffle off gifts\, eve
+ ry event attended is a ticket\, the more events you attend\, the greater c
+ hances to get to go home with a prize!\n\nPhotobooth - 2-4 p.m. in Swann A
+ trium - by Events Worldwide [6]\nProfessional photographer with props!\n\n
+ Art Showcase (All Day)\nLike last year\, you will be invited to build a co
+ llaborative art piece\, one pixel at a time. Last year’s contributors lo
+ ved their experience working on it as both a meditative and artistic endea
+ vor. Participating in this year’s might be just what you need to forget 
+ about school for a few minutes.\n\nThank you to our sponsors!!\n\nLinks:\n
+ [0]  http://hg.gatech.edu/node/628811#0\n[1]  https://deslivresetdelicesus
+ .com/\n[2]  https://modlangs.gatech.edu/lbat/france\n[3]  https://modlangs
+ .gatech.edu/lbat/senegal\n[4]  https://lorraine.gatech.edu/\n[5]  https://
+ forms.gle/yfnbqVoAZMaGQpz99\n[6]  https://www.eventsworldwideco.com/
+LOCATION:Swann Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nutanix Tech Talk
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191119T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191120T010000Z
+UID:http://hg.gatech.edu/node/628765#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\, Freebies\nStatus: published\n\nNutanix solutions
+  are built on the industry’s most popular hyperconverged infrastructure 
+ (HCI) technology—a complete\, 100% software-defined stack that integrate
+ s compute\, virtualization\, storage\, networking\, and security to power 
+ any application\, at any scale.\n\nNutanix software and cloud services uni
+ fy IT operations and bring frictionless application mobility across differ
+ ent cloud environments.\n\nCome here more about how they do it and how you
+  can be a part of it all!\n\nLinks:\n[0]  http://hg.gatech.edu/node/628765
+ #0\n[1]  https://www.nutanix.com/company/careers/university-recruiting
+LOCATION:Klaus 1116W
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LinkedIn Workshop: Do's and Donuts
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191120T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191120T013000Z
+UID:https://gatech.campuslabs.com/engage/event/5151167
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nLooking for your dream 
+ internship\, but not sure where to start? Struggling to define path in you
+ r college experience and career? Need an expert mentor in your field?\n\nJ
+ oin us November 19th\, 7:00-8:30pm in Brittain Rec. classroom to build and
+  strengthen your LinkedIn profile and network!. LinkedIn is a professional
+  networking platform with over 575\,000\,000 members that helps students a
+ nd job-seekers connect with each other and related employers to find jobs\
+ , internships\, and expert mentors.\n\nThis month's workshop will walk thr
+ ough how to strengthen student profiles\, capitalize on Linkedin's algorit
+ hm and lesser known features\, and begin preparing for your dream job now.
+  Both LinkedIn experts and beginners are encouraged to attend.\n\nFree pas
+ tries and refreshments from Sweet Hut will be provided for all attendees!\
+ n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5151167
+LOCATION:Brittain Rec
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ivan Allen College ‘Rejuvenation Station’ - A Holiday Pretzel 
@@ -17878,6 +18051,25 @@ DESCRIPTION:Intended audience: Graduate students\, Postdoc\nExtras: Free f
 LOCATION:Student Center\, Room 319
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GRIOT Day of Service
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191122T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191122T180000Z
+UID:http://hg.gatech.edu/node/628777#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\, Freebies\nStatus: published\n\nJoin GRIOT [1] 's
+  Recruitment and Retention committee for a “Day of Service” on Novembe
+ r 22nd from 11:30am-1pm in the Student Center\, Room 320. During this even
+ t\, attendees will create mini toiletry kits for a local women and childre
+ n’s shelter. Attendees are asked to bring lunch\, and refreshments will 
+ be provided. Please bring a dozen of any one mini toiletry item (mini sham
+ poos\, conditioner\, lotion\, soap\, etc).\n\nEveryone is invited\, so ple
+ ase share with colleagues.\n\nPLEASE RSVP HERE and denote which items you 
+ will be bringing: [2]\n\nLinks:\n[0]  http://hg.gatech.edu/node/628777#0\n
+ [1]  https://sdie.gatech.edu/GRIOT-ERG\n[2]  https://www.surveymonkey.com/
+ r/CS8DVVJ
+LOCATION:Student Center\, Room 320
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Yoga for the Soul
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191123T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191123T020000Z
@@ -17927,6 +18119,28 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nMeet in front of Blue D
  ing as a group.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event
  /4934937
 LOCATION:Medshare
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FreShGA: The Final Stand 2019
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191124T030000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191124T070000Z
+UID:http://hg.gatech.edu/node/628711#0
+DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\,
+  Freebies\nStatus: published\n\nGet ready to blast away your finals at The
+  Final Stand! The Final Stand is an annual event hosted by the Freshman St
+ udent Government Association (FreShGA) at the end of fall semester.\n\nThe
+  Final Stand is an opportunity for students to destress before finals with
+  free food\, t-shirts\, movies\, trivia\, a photo booth\, team competition
+ s (with awesome prizes for our winners!)\, and giveaways. Bring your buddi
+ es and join us for an out-of-this-world evening! Team events include Volle
+ yball\, Basketball\, Cornhole\, Spikeball\, Dodgeball and Soccer. To regis
+ ter a team\, please click here.\n\nThe Final Stand will take place on Satu
+ rday\, November 23rd from 10pm - 2am at Georgia Tech's Campus Recreation C
+ enter (CRC). We look forward to seeing you there!!\n\n*Please note that th
+ e CRC & FreShGA are not responsible for any lost or stolen goods.\n\nLinks
+ :\n[0]  http://hg.gatech.edu/node/628711#0\n[1]  https://gatech.campuslabs
+ .com/engage/event/5082339
+LOCATION:Campus Recreation Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nano@Tech: Sally Ng - Chemical & Biomolecular Engineering
@@ -18004,6 +18218,23 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nNOT GOING HOME FOR THAN
 LOCATION:Tech Wesley Building
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Wesley Foundation Friendsgiving: A Community Dinner
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191127T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191127T020000Z
+UID:http://hg.gatech.edu/node/628716#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nNOT GOING HOME FOR THANKSGIVING? 
+ Tech Wesley and Grace House invite you to Friendsgiving: A Community Dinne
+ r\n\nWHEN? Tuesday\, November 26th at 7pm.\n\nWHERE? The Tech Wesley Build
+ ing at the corner of 4th and Fowler.\n\nWHO? All are Welcome\, but please 
+ RSVP [1]!\n\nVegetarian Options will be provided. Please contact Geoff Bea
+ kley at geoffb@gtwf.org [2] if you have any special needs/requests.\n\nRSV
+ P on Engage [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/628716#0\n[1]  h
+ ttps://gatech.campuslabs.com/engage/organization/wesley-foundation\n[2]  g
+ eoffb@gtwf.org
+LOCATION:Wesley Foundation\, 189 4th Street
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Yoga for the Soul
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191130T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191130T020000Z
@@ -18038,6 +18269,24 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFood4Lives is a service
  t salad\nGranola & Milk\nPancakes\n\nLinks:\n[0]  https://gatech.campuslab
  s.com/engage/event/5053237
 LOCATION:Food4lives Kitchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Finding RESILIENCE During the Holidays
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191205T203000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191205T220000Z
+UID:http://hg.gatech.edu/node/628775#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Postdoc\nExtras: Free food\
+ , Freebies\nStatus: published\n\nWe know that the holiday season can bring
+  up feelings of stress due to any form of loss\, juggling the expectations
+  of family and friends\, or maintaining your budget. Please join us as we 
+ discuss ways to manage expectations around the holiday season. You will he
+ ar from a few people who will share their personal stories of RESILIENCE d
+ uring the holidays and we will provide tips on how to manage your emotiona
+ l\, physical\, and financial well-being during this season.\n\nThis event 
+ is co-Hosted by the GRIOT and RESILIENCE Employee Resource Group.\n\nHolid
+ ays treats will be provided!\n\nRSVP: [1].\n\nLinks:\n[0]  http://hg.gatec
+ h.edu/node/628775#0\n[1]  https://www.surveymonkey.com/r/26LWFRT
+LOCATION:Student Center Piedmont Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga for the Soul
@@ -18448,6 +18697,20 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  \n[2]  https://www.iac.gatech.edu/students/graduate/directors-and-advisors
 LOCATION:Student Center\, various IAC buildings\, Wardlaw Bldg. Atlanta\, 
  GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:International Opportunities Open House
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200121T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200121T170000Z
+UID:http://hg.gatech.edu/node/628785#0
+DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\n
+ Status: published\n\nPlease come meet OIE advisors and learn about study a
+ broad opportunities\, Global Internships\, the International Plan\, schola
+ rships\, and more. This is a great time to ask questions about Tech's many
+  programs in one place and indulge in some tasty refreshments.\n\nWe hope 
+ to see you there!\n\nLinks:\n[0]  http://hg.gatech.edu/node/628785#0\n[1] 
+  https://oie.gatech.edu/
+LOCATION:Student Center Piedmont Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Society of Women Engineers General Body Meeting
