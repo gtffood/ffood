@@ -2,6 +2,41 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
+SUMMARY:SCL January 2017 Supply Chain Day
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20170119T161500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20170119T191500Z
+UID:http://hg.gatech.edu/node/585318#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
+ aduate students\nStatus: published\n\nSupply Chain students\, please join 
+ us for our first Supply Chain Day of the spring semester! The 3-hour sessi
+ on will host supply chain representatives from Americold\, Cisco\, Georgia
+ -Pacific\, Graphic Packaging\, Kings Hawaiian\, Opex Analytics\, Panel Bui
+ lt\, Smith & Nephew\, Supply Chain Wizard\, ​​UPS\, and U.S. Postal Se
+ rvice who will be on campus to educate ISyE students about their organizat
+ ions and available employment and networking opportunities.\n\nWe strongly
+  encourage students to act now to seek full-time employment\, internships\
+ , and projects (rather than waiting until the end of the semester). Plus\,
+  enjoy a free pizza lunch!\n\nEVENT DETAILS\nWhere: ISyE Main Bldg [1]\, 2
+ nd Floor Atrium\n\nWhen: Thursday\, January 19th | 11:15am - 2:15pm\n\nWha
+ t: The session will include:\n\n- Networking opportunities in the ISyE atr
+ ium\n- Food and refreshments\n\nPlease plan on staying for the duration of
+  the event and bring copies of your resume and business cards. Dress is bu
+ siness casual.\n\nREGISTER ONLINE [2] by January 10th!\nEVENT SPONSOR\n\nT
+ he event is sponsored through the generosity and support of APICS - Atlant
+ a Chapter [3]. APICS is a non-profit educational organization addressing o
+ perations management and supply chain management issues\, and providing pr
+ ofessional development opportunities to its members. APICS Membership is f
+ ree for full time students. Join today at [4] and start networking at loca
+ l APIC Atlanta events. Also make sure to stop by the APICS table at the ev
+ ent.\n\nLinks:\n[0]  http://hg.gatech.edu/node/585318#0\n[1]  https://www.
+ isye.gatech.edu/about/maps-directions/isye-building-complex\n[2]  https://
+ www.scl.gatech.edu/supplychainday/students\n[3]  http://www.apicsatlanta.o
+ rg/\n[4]  http://www.apics.org/join\n[5]  http://bit.ly/isye-complex\n[6] 
+  https://www.scl.gatech.edu\n[7]  https://www.scl.gatech.edu/supplychainda
+ y
+LOCATION:ISyE Main Bldg\, 2nd Floor Atrium
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Trailblazers Local Project
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20181111T130000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20181111T220000Z
@@ -31148,6 +31183,18 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Kendeda Building Room 210
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Poetry Night
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191111T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191112T020000Z
+UID:https://gatech.campuslabs.com/engage/event/5156275
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Monday Novem
+ ber 11th\, 6-9 pm at Student Center Ballroom for Poetry Night. It will be 
+ a chance to meet and interact with Middle Eastern communities of Atlanta t
+ hrough literature\, FOOD\, Belly Dancing\, and culture.\n\nLinks:\n[0]  ht
+ tps://gatech.campuslabs.com/engage/event/5156275
+LOCATION:Student Center Ballroom
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AGSC Tuesday Collaboratorium: Innovations in Research & Pedagogy -
   Global Languages\, Cultures\, and Technologies (GLACT)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191112T160000Z
@@ -31918,6 +31965,57 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:KACB 1116
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AE Presents: "Structural Design in Motion: Computational Synthesis
+  of Kinetic Structures Using Topology Optimization"
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191114T200000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191114T210000Z
+UID:http://hg.gatech.edu/node/628851#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nYou're invited to
+  attend the talk\n\n"Structural Design in Motion: Computational Synthesis 
+ of Kinetic Structures Using Topology Optimization"\n\nby\n\nProf. Kai Jame
+ s\nAssistant Professor\nUniversity of Illinois at Urbana-Champaign\n\nThur
+ sday\, November 14\n3 - 4 PM\nGuggenheim 442\n\nAbout the Talk:\nTopology 
+ optimization is a powerful and well-established tool for generating optima
+ l structural designs. Unlike the sizing and shape optimization approaches 
+ that preceded it\, this method simultaneously optimizes both the shape and
+  topology of the structure\, thus creating the potential to algorithmicall
+ y generate novel design concepts and configurations with minimal input fro
+ m human designers. This capability makes topology optimization a potential
+  key ingredient in the quest to achieve automated design of complex mechan
+ ical systems.\n\nThis talk will discuss our ongoing efforts to expand the 
+ capability of the topology optimization method to enable computational syn
+ thesis of kinetic structures. This unique class of structures is designed 
+ to exhibit precisely tailored motion\, while maintaining structural integr
+ ity. The talk will present our general methodology and results from severa
+ l example problems including optimal design of a bi-stable airfoil\, multi
+ material design of self-actuating mechanisms containing shape memory polym
+ ers\, and topology optimization of multi-body mechanisms. The talk will co
+ nclude with a discussion of ongoing and future research projects in which 
+ we explore the use of topology optimization for the design of soft robots 
+ and compound machines.​\n\nAbout the Speaker:\nKai James is an Assistant
+  Professor in the Department of Aerospace Engineering at the University of
+  Illinois at Urbana-Champaign\, and the Principal Investigator of the Comp
+ utational Design Innovation Lab at UIUC. From 2012 to 2015\, he was a post
+ doc in the Computational Mechanics Group at Columbia University\, and he e
+ arned his PhD in aerospace engineering from the University of Toronto in 2
+ 012. His research focuses on computational solid mechanics and computation
+ al design optimization with an emphasis on problems involving various sour
+ ces of nonlinearity\, such as viscoelastic creep\, superelasticity\, and l
+ arge deformations.\n\nHe is especially interested in developing novel algo
+ rithms that leverage high-fidelity computational models and topology optim
+ ization methods for conceptual design and synthesis of complex engineering
+  structures. Some of his major research projects include aerostructural op
+ timization of transonic aircraft wings\, structural design optimization of
+  a cardiovascular stent\, optimal design of a bi-stable airfoil\, and comp
+ utational synthesis of multi-body systems. Dr. James is the recipient of t
+ he NSF CAREER award (2018)\, and has also received several teaching honors
+  including being named “Teacher of the Year” by the UIUC chapter of th
+ e American Institute of Aeronautics and Astronautics in 2017.\n\nLinks:\n[
+ 0]  http://hg.gatech.edu/node/628851#0
+LOCATION:Guggenheim 442
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Stories Around the Campfire
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191114T223000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191115T000000Z
@@ -32097,6 +32195,31 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFood4Lives is a service
  t salad\nGranola & Milk\nPancakes\n\nLinks:\n[0]  https://gatech.campuslab
  s.com/engage/event/5053235
 LOCATION:Food4lives Kitchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Game Day Recycling Volunteer Opportunity
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191116T173000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191116T203000Z
+UID:http://hg.gatech.edu/node/628849#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nEnjoy some free pizza with the Office of Solid Waste Management & Recycl
+ ing before assisting with the collection of recyclables from tailgates & o
+ utside the stadium on game day!\n\nVolunteers can choose from two options:
+ \n\nTailgate Volunteers- Meet in the Student Center near Subway at 12:30. 
+ Hand out bags to tailgaters around central campus. Meet back at the Studen
+ t Center around 1:30. Volunteers will not be collecting or carrying full r
+ ecycling bags\, their task is only to distribute empty bags.\n\nGreen Gree
+ ters- Meet in front of Gate 7 in the Callaway Plaza at 2:30. Greeters will
+  hold signs and encourage attendees to recycle any last items before enter
+ ing the stadium (great option for those attending the game). Greeters will
+  not formally meet at the end of their shift\, but need to turn their sign
+ s back in before leaving\, typically at kick-off time.\n\nPlease email emm
+ a.brodzik@facilities.gatech.edu [1] if you are interested\n\nFor more info
+ rmation visit: [2]\n\nLinks:\n[0]  http://hg.gatech.edu/node/628849#0\n[1]
+   emma.brodzik@facilities.gatech.edu\n[2]  http://recycle.gatech.edu/game-
+ day-recycling
+LOCATION:The Student Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sundae Night
@@ -32301,6 +32424,31 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  ee you then!\n\nLinks:\n[0]  http://hg.gatech.edu/node/624936#0
 LOCATION:Savant Building\, Room\, 1st floor\, 631 Cherry St NW\, Atlanta\,
   GA 30313
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bits of Good Social Good Demo Day
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191120T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191121T003000Z
+UID:http://hg.gatech.edu/node/628884#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nStatus: published\n\nInterested in Social Good?
+  Interested in Free Pizza? Interested in Software Development\, UX/UI Desi
+ gn\, or Product Management? Come by Bits of Good Demo Day! Bits of Good is
+  a student nonprofit CoC organization that connects students and nonprofit
+ s builds custom software for them in our local Atlanta community!\n\nStop 
+ by Klaus 1116 November 20th from 5:30 to 7:30 to see the 8 projects teams 
+ that have been working with nonprofits all semester!\n\nRSVP for our event
+  at [1].\n\nGet Involved\nBits of Good has opened positions for the Spring
+  2020 semester! We're currently looking for Product Managers\, Engineering
+  Managers\, and Designers! Each position will be working in teams of each 
+ position and developers with a nonprofit organization. We want to find pas
+ sionate individuals who want to combine their skills and passions to make 
+ our local Atlanta community even better!\n\nFind our application at [2]!\n
+ \nIf you have any questions\, please email use at hello@bitsofgood.org [3]
+ !\n\nLinks:\n[0]  http://hg.gatech.edu/node/628884#0\n[1]  https://tinyurl
+ .com/bog-demodayfall2019-RSVP\n[2]  http://bitsofgood.org/join\n[3]  hello
+ @bitsofgood.org
+LOCATION:Room 1116\, Klaus Advanced Computing Building
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EWH General Body Meeting (11/21)
@@ -33043,6 +33191,16 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  sident@gmail.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/624549#13\n
  [1]  swepresident@gmail.com\n[2]  https://www.facebook.com/GeorgiaTechSWE/
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:February Meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200204T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200204T170000Z
+UID:https://gatech.campuslabs.com/engage/event/5157684
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nMonthly Living Learning
+  Communities Council Meeting!\n\nLinks:\n[0]  https://gatech.campuslabs.co
+ m/engage/event/5157684
+LOCATION:Student Center Room 321
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Society of Women Engineers General Body Meeting
