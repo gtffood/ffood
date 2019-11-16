@@ -2,1052 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:SCL January 2017 Supply Chain Day
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20170119T161500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20170119T191500Z
-UID:http://hg.gatech.edu/node/585318#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
- aduate students\nStatus: published\n\nSupply Chain students\, please join 
- us for our first Supply Chain Day of the spring semester! The 3-hour sessi
- on will host supply chain representatives from Americold\, Cisco\, Georgia
- -Pacific\, Graphic Packaging\, Kings Hawaiian\, Opex Analytics\, Panel Bui
- lt\, Smith & Nephew\, Supply Chain Wizard\, ​​UPS\, and U.S. Postal Se
- rvice who will be on campus to educate ISyE students about their organizat
- ions and available employment and networking opportunities.\n\nWe strongly
-  encourage students to act now to seek full-time employment\, internships\
- , and projects (rather than waiting until the end of the semester). Plus\,
-  enjoy a free pizza lunch!\n\nEVENT DETAILS\nWhere: ISyE Main Bldg [1]\, 2
- nd Floor Atrium\n\nWhen: Thursday\, January 19th | 11:15am - 2:15pm\n\nWha
- t: The session will include:\n\n- Networking opportunities in the ISyE atr
- ium\n- Food and refreshments\n\nPlease plan on staying for the duration of
-  the event and bring copies of your resume and business cards. Dress is bu
- siness casual.\n\nREGISTER ONLINE [2] by January 10th!\nEVENT SPONSOR\n\nT
- he event is sponsored through the generosity and support of APICS - Atlant
- a Chapter [3]. APICS is a non-profit educational organization addressing o
- perations management and supply chain management issues\, and providing pr
- ofessional development opportunities to its members. APICS Membership is f
- ree for full time students. Join today at [4] and start networking at loca
- l APIC Atlanta events. Also make sure to stop by the APICS table at the ev
- ent.\n\nLinks:\n[0]  http://hg.gatech.edu/node/585318#0\n[1]  https://www.
- isye.gatech.edu/about/maps-directions/isye-building-complex\n[2]  https://
- www.scl.gatech.edu/supplychainday/students\n[3]  http://www.apicsatlanta.o
- rg/\n[4]  http://www.apics.org/join\n[5]  http://bit.ly/isye-complex\n[6] 
-  https://www.scl.gatech.edu\n[7]  https://www.scl.gatech.edu/supplychainda
- y
-LOCATION:ISyE Main Bldg\, 2nd Floor Atrium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trailblazers Local Project
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181111T130000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181111T220000Z
-UID:http://hg.gatech.edu/node/613483#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nRed Top Mountain State Park needs help with a rut on
-  their Homestead Loop\, so we will be working on that part of the park. Af
- ter we complete the project\, we will have lunch\, then do a geocaching ac
- tivity afterwards. Should be a lot of fun!\n\nMore information and signups
-  [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/613483#0\n[1]  https://geor
- giatechtrailblazers.com/2018/10/30/local-project-nov-11-red-top-mountain-s
- tate-park/
-LOCATION:Red Top Mountain State Park
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Taste of Africa: The Spirit of Unity
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181111T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181112T030000Z
-UID:http://hg.gatech.edu/node/613618#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nStatus: published\n\nTaste of Africa this year 
- attempts to incorporate as much of The Continent and its vast multitude of
-  cultures and world views as possible into one showcase on stage. The them
- e of T.O.A. is The Spirit of Unity\, where an ancestral spirit guides 5 yo
- uths from different parts of The Continent to solve their problems as one.
-  The layout will include a dinner in the reception area\, a series of skit
- s played throughout T.O.A in the theatre\, and an African fashion show to 
- culminate the event.\n\nT.O.A. 2018 will be a mix of romanticizing the won
- ders of different African cultures through attire\, food\, music\, and dan
- ce\, combined with serious messages that touch on the deep issues every re
- gion of Africa (Central\, South\, East\, North\, and West Africa) has and 
- present real-world solutions in a dramatic way.\n\nPurchase tickets [1]\nA
- SA Website [2]\n\nLinks:\n[0]  http://hg.gatech.edu/node/613618#0\n[1]  ht
- tps://bit.ly/2zgGBCv\n[2]  https://gatechasa.wixsite.com/gt-asa-website\n[
- 3]  https://www.eventbrite.com/e/gt-african-student-associations-taste-of-
- africa-2018-the-spirit-of-unity-tickets-9080781863
-LOCATION:Georgia Tech Hotel and Conference Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Donuts with Buzz and the Ramblin’ Wreck
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181112T143000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181112T163000Z
-UID:http://hg.gatech.edu/node/613698#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nFind out more about International Education Week by picking up your 'pas
- sport' to the week of event! Grab a donut with Buzz and the Wreck as donut
-  supplies last!\n\nLinks:\n[0]  http://hg.gatech.edu/node/613698#0
-LOCATION:Tech Walkway
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Engaging Ethics through Media: "The Big Short"
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181112T153000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181112T183000Z
-UID:http://hg.gatech.edu/node/613839#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nExtras: Free food\nStatus: published\n\nScreeni
- ng of the 2015 film "The Big Short\," including thematic discussion with S
- cheller College of Business Associate Professor Karie Davis-Nozemack.\n\nF
- ree pizza! Sign up to attend! [1]\n\nAbout Karie Davis-Nozemack:\nDavis-No
- zemack teaches courses involving the application of law and ethics to busi
- ness. She researches legal and ethical mechanisms for constraining opportu
- nistic managerial behavior\, including tax whistleblowers\, tax compliance
-  strategies\, and fiduciary duty.\n\nAbout the event:\nCo-sponsors: the Ge
- orgia Tech Honors Program [2] and Undergraduate SGA [3]. A featured event 
- of Ethics Awareness Week.\n\nMore on "Gattaca" is available at: [4]\nNote 
- that this film is rated R (for pervasive language and some sexuality/nudit
- y)\n\nLinks:\n[0]  http://hg.gatech.edu/node/613839#0\n[1]  https://gatech
- .co1.qualtrics.com/jfe/form/SV_0CjOaVRqReYhBGZ\n[2]  http://honors.gatech.
- edu/\n[3]  http://sga.gatech.edu/ug/\n[4]  https://www.imdb.com/title/tt15
- 96363/?ref_=fn_al_tt_1\n[5]  http://www.gatech.edu/about/ethics
-LOCATION:Press Room B\, Student Success Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IEEE SPS Atlanta Distinguished Industry Lecture - Dr. Alfonso Fari
- na @ GTRI
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181112T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181112T183000Z
-UID:http://hg.gatech.edu/node/613811#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: draft\n\nRA
- DAR ADAPTIVITY:\nANTENNA BASED SIGNAL PROCESSING\nDr. Alfonso Farina\, LFI
- EEE\nIEEE Distinguished Industry Speaker\n\nAbstract:\n\nThis lecture will
-  provide an in-depth look into the history of radar systems and radar sign
- al processing\, from the beginning of radar to adaptive antenna arrays\, i
- ncluding examples such as ground based radar systems\, STAP for airborne r
- adars\, knowledge-based STAP\, and Over the Horizon radar systems.\n\nBiog
- raphy:\n\nAlfonso FARINA received his doctor degree in Electronic Engineer
- ing from the University of Rome (IT) in 1973. In 1974\, he joined Selenia\
- , then Selex ES\, where he became Director of the Analysis of Integrated S
- ystems Unit\, Director of Engineering of Large Business Systems Division\,
-  and senior VP and Chief Technology Officer. From 1979 to 1985\, he was al
- so professor of “Radar Techniques” at the University of Naples (IT). H
- e is author of more than 700 peer-reviewed technical publications and of b
- ooks and monographs. Some of the most significant awards he received inclu
- de the (2004) Leader of the team that won the First Prize of the first edi
- tion of the Finmeccanica Award for Innovation Technology\; (2005) Radar A\
- ; (2010) IEEE Dennis J. Picard Medal for Radar Technologies and Applicatio
- n. Today\, Dr. Farina is a Visiting Professor at University College London
-  (UCL)\, Dept. Electronic and Electrical Engineering\, Visiting Professor 
- at Cranfield University (UK) (2018-2020) and a Distinguished Lecturer (DL)
-  of IEEE. He is a consultant to Leonardo “Land & Naval Defense Electroni
- cs Division” (Rome).\n\n[1]\n\nParking at the CCRF GTRI Research Facilit
- y is limited but available without charge.\n\nAgenda\n- 11:45 AM - 12:00 P
- M - Lunch\n\n- 12:00 PM - 1:00 PM - Lectrue: Radar Adaptivity: Antenna Bas
- ed Signal Processing (Introduction by Dr. Bill Melvin)\n\n- 1:00 PM - 1:30
-  PM - Q&A and Reception to Follow\n\nLinks:\n[0]  http://hg.gatech.edu/nod
- e/613811#0\n[1]  https://en.wikipedia.org/wiki/Alfonso_Farina\n[2]  https:
- //events.vtools.ieee.org/m/178883\n[3]  https://goo.gl/maps/BEYUPuoMczs
-LOCATION:GTRI\, Cobb County Research Facility\, Room 107\, 7220 Richardson
-  Rd\, Smyrna\, GA 30080
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Center for Signal and Information Processing (CSIP) Seminar
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181112T173000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181112T183000Z
-UID:http://hg.gatech.edu/node/613989#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
- aduate students\nExtras: Free food\nStatus: published\n\nSpeaker: Dr. Barm
- ak Heshmat\, MIT\n\nTitle: Imaging at relativistic speeds\; the new space 
- between sensing and imaging\n\nAbstract:\nHow would you design a camera th
- at has a shutter speed comparable to the speed of light? What would you do
-  with such capability? Today\, ultrafast imaging and time-of-flight imagin
- g are at the core of autonomous navigation\, depth mapping\, and remote se
- nsing applications. My talk will cover some breakthroughs in ultrafast ima
- ging systems\, components\, and methodologies which will enable future app
- lications. The developed techniques realize exotic imaging modalities that
-  can scan through closed books page by page\, see around the corner\, and 
- sense through thick tissue at infrared wavelength. The talk will further e
- laborate on redesigning optics in the time dimension and applying computat
- ional methods and machine learning to exploit the temporal and spatial inf
- ormation.\n\nResearchers and students interested in computational imaging\
- , THz sensing\, LIDAR systems\, augmented reality displays and the physics
-  of light should find this talk exciting.\n\nSpeaker Bio:\nBarmak Heshmat 
- is head of optics at Meta Augmented Reality and former research scientist 
- at the Massachusetts Institute of Technology. He lead the ‘inverse probl
- ems in light propagation’ subgroup in the Camera Culture group where the
- y developed tools and solutions for imaging beyond conventional limitation
- s of optics using ultrafast optics\, nano optics and computational methods
- . Barmak has given invited talks at six TEDx events\, three NASA’s cross
-  industry innovation summits\, and numerous other venues and academic inst
- itutions.\n\nBarmak received his Ph.D. (on optoelectronics and nanomateria
- ls) at the University of Victoria in 2013 where he invented a THz receiver
-  with an order of magnitude better sensitivity compared to the state of th
- e art at the time. He is the inventor of time-folded optics\, time-encoded
-  sub-diffraction limit imaging\, Tyndall windows\, optical brush and many 
- more devices\, gadgets\, and methods.He has published 22 journal papers an
- d filed 15 patents. Some of these papers and inventions have been featured
-  on MIT cover page\, BBC\, TechCrunch and many other media outlets. Barmak
-  is also the cofounder of the 'Imaginarium of Technology' (iMT) which is a
-  platform for envisioning engineering ideas and providing academic illustr
- ation services.\n\nLinks:\n[0]  http://hg.gatech.edu/node/613989#0
-LOCATION:Room 5126\, Centergy One Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Engaging Ethics through Media: "Fargo"
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181112T190000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181112T220000Z
-UID:http://hg.gatech.edu/node/613619#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nExtras: Free food\nStatus: published\n\nScreeni
- ng of the 1996 film "Fargo\," including thematic discussion with Public Po
- licy Associate Professor Robert Rosenberger.\n\nFree pizza! Sign up to att
- end! [1]\n\nAbout Robert Rosenberger:\nHis research in the philosophy of t
- echnology explores the habitual relationships people develop with everyday
-  devices such as e-reading and television\, with applications in design an
- d policy.\n\nAbout the event:\nCo-sponsors: the Georgia Tech Honors Progra
- m [2] and Undergraduate SGA [3]. A featured event of Ethics Awareness Week
- .\n\nMore on Fargo is available at: [4]\nNote that this film is rated R (f
- or strong violence\, language\, and sexuality).\n\nLinks:\n[0]  http://hg.
- gatech.edu/node/613619#0\n[1]  https://gatech.co1.qualtrics.com/jfe/form/S
- V_0CjOaVRqReYhBGZ\n[2]  http://honors.gatech.edu/\n[3]  http://sga.gatech.
- edu/ug/\n[4]  https://www.imdb.com/title/tt0116282/?ref_=fn_al_tt_2\n[5]  
- http://www.gatech.edu/about/ethics
-LOCATION:Press Room B\, Student Success Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Materials Science and Engineering Industry Executive Series -Omkar
- am Nalamasu
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181112T203000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181112T220000Z
-UID:http://hg.gatech.edu/node/613955#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: published\n\nMaterials Engineering Innova
- tions to Address Global Inflections\nOmkaram (Om) Nalamasu\, Ph.D\, Chief 
- Technology Officer and Senior VP Applied Materials\n\nAbstract:\n\nMateria
- ls engineering – the precise deposition\, removal\, modification and mea
- surement of materials at the atomic level – has enabled innovations in t
- he Electronics\, Display and Energy industries\, and led to transformative
-  changes across the globe\, dramatically improving the quality of life and
-  creating exciting global industries.\n\nIn the next 50 years\, we will se
- e even more radical innovation as we bring together the digital and physic
- al worlds through materials engineering. This will enable next-generation 
- integrated circuits\, displays and advanced sensors\, while simultaneously
-  laying the foundation for revolutions in Artificial Intelligence\, AR/VR\
- , Transportation\, Digital Manufacturing and Healthcare.\n\nThis presentat
- ion would detail the role of materials engineering technologies in creatin
- g a world of abundance by addressing critical problems in AR/VR\, Artifici
- al Intelligence\, Big Data\, Transportation\, Digital Manufacturing and He
- althcare – through technological creativity\, entrepreneurship\, open in
- novation and partnerships across the ecosystems.\n\nBiography:\n\nDr. Omka
- ram (Om) Nalamasu is Senior Vice President and Chief Technology Officer (C
- TO) of Applied Materials\, Inc. and President of Applied Ventures\, LLC\, 
- the venture capital fund of Applied Materials\, where he oversees investme
- nts in early- and growth-stage companies.\n\nA world-renowned expert in li
- thographic materials and one of the semiconductor industry’s foremost fo
- rward-thinkers\, Dr. Nalamasu has championed a renewed focus on Applied’
-  s global innovation culture through various internal development programs
-  and open innovation methods. He has developed strategic relationships wit
- h universities\, government organizations and research institutes around t
- he world.\n\nDr. Nalamasu joined Applied in 2006 after serving as an NYSTA
- R Distinguished Professor of materials science and engineering at Renssela
- er Polytechnic Institute\, where he also served as vice president of resea
- rch. He has held key research and development leadership positions at AT&T
-  Bell Laboratories\, Bell Laboratories/Lucent Technologies\, and Agere Sys
- tems\, Inc. He has received numerous awards\, authored more than 180 paper
- s\, review articles and books\, and holds more than 120 worldwide issued p
- atents. He is a member of the Singapore’s A*STAR (Agency for Science\, T
- echnology and Research) Board of Directors\, Singapore’s International A
- dvisory Panel for Advanced Manufacturing and Engineering\, and the board o
- f directors of The Tech Museum in San Jose\, California.\, Dr. Nalamasu wa
- s elected to the U.S. National Academy of Engineering. He received his Ph.
- D. from the University of British Columbia\, Vancouver\, Canada.\n\nRecept
- ion at 3:30 p.m. in the Georgia Tech Manufacturing Institute Atrium\n\nAPP
- LIED MATERIALS CHIEF TECHNOLOGY OFFICER DR. OM NALAMASU ELECTED TO NATIONA
- L ACADEMY OF ENGINEERING [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/613
- 955#0\n[1]  http://www.appliedmaterials.com/company/news/press-releases/20
- 17/02/applied-materials-chief-technology-officer-dr-om-nalamasu-elected-to
- -national-academy-of-engineering\n[2]  https://goo.gl/maps/jTmeHVQ3jyu
-LOCATION:Georgia Tech Manufacturing Institute\, Auditorium and Atrium\, 81
- 3 Ferst Dr NW\, Atlanta\, GA 30332
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Taste of the World
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181112T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181113T000000Z
-UID:http://hg.gatech.edu/node/613701#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nMembers of the GT Spouse and Partners Group wil
- l organize an exhibition of cultures from around the world with free food 
- from different cuisines\, free henna tattoos and multicultural music!\n\nL
- inks:\n[0]  http://hg.gatech.edu/node/613701#0
-LOCATION:Student Center Commons\, Peachtree Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Taste of the World
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181112T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181113T010000Z
-UID:http://hg.gatech.edu/node/613183#0
-DESCRIPTION:Intended audience: Public\nExtras: Free food\nStatus: publishe
- d\n\nLinks:\n[0]  http://hg.gatech.edu/node/613183#0
-LOCATION:Student Center Commons\, Peachtree Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Sam Nunn School Presents\, "Bad & the Birdieman"\, A Rise Up &
-  Care Documentary
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181113T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181113T020000Z
-UID:http://hg.gatech.edu/node/613702#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nFilm Synopsis: Sebastião’s two-decade quest is to use badminton\, a s
- port he never played\, to transform the kids in a humble favela in Rio de 
- Janeiro. Using love\, sweat and the innovative training technique of samba
-  dancing to teach badminton\, Sebastião imagined and created a community 
- of champions\, family and dreams. The competitive yet tender relationships
-  of young players and the qualifying of players for the 2016 Olympic Games
-  reveal that even the most unlikely of dreams can become reality.\n\nLinks
- :\n[0]  http://hg.gatech.edu/node/613702#0
-LOCATION:Student Center Theater
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Engaging Ethics through Media: "Gattaca"
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181113T153000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181113T183000Z
-UID:http://hg.gatech.edu/node/613621#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nExtras: Free food\nStatus: published\n\nScreeni
- ng of the 1997 film "Gattaca\," including thematic discussion with Electri
- cal and Computer Engineering Professor Robert Butera.\n\nFree pizza! Sign 
- up to attend! [1]\n\nAbout Robert Butera:\nRobert Butera is the associate 
- dean for research and innovation in the College of Engineering. He has bee
- n a member of the ECE faculty since 1999 and holds a joint appointment in 
- the Wallace H. Coulter Department of Biomedical Engineering.\n\nAbout the 
- event:\nCo-sponsors: the Georgia Tech Honors Program [2] and Undergraduate
-  SGA [3]. A featured event of Ethics Awareness Week.\n\nMore on "Gattaca" 
- is available at: [4]\nNote that this film is rated PG-13 (for brief violen
- t images\, language\, and some sexuality)\n\nLinks:\n[0]  http://hg.gatech
- .edu/node/613621#0\n[1]  https://gatech.co1.qualtrics.com/jfe/form/SV_0CjO
- aVRqReYhBGZ\n[2]  http://honors.gatech.edu/\n[3]  http://sga.gatech.edu/ug
- /\n[4]  https://www.imdb.com/title/tt0119177/?ref_=nv_sr_1\n[5]  http://ww
- w.gatech.edu/about/ethics
-LOCATION:Press Room A\, Student Success Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honeywell Day in the Lobby
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181113T153000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181113T190000Z
-UID:http://hg.gatech.edu/node/613082#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nBring your resume and 
- come chat with recruiters from Honeywell in the College of Computing commo
- ns anytime between 10:30am and 2pm.\n\nAbout Honeywell\nOur company invent
- s and manufactures technologies that address some of the world’s most cr
- itical challenges around energy\, safety\, security\, productivity and glo
- bal urbanization. We are uniquely positioned to blend physical products wi
- th software to support connected systems that improve homes\, buildings\, 
- factories\, utilities\, and aircraft\, and that enable a safer\, more comf
- ortable and more productive world. Our solutions enhance the quality of li
- fe of people around the globe and create new markets and even new industri
- es.\n\nStudents & Recent Graduates\nPeople are the ultimate differentiator
-  at Honeywell. That’s why you’ll find Honeywell on campus looking for 
- top-performing students to join us in undergraduate internships and co-ops
- \, MBA/Masters internships and full-time career positions.\n\nGlobal Inter
- n Program\nWe focus on attracting excellent talent as early as possible. O
- ur intern program provides the opportunity for you to:\n\n- Participate in
-  real-world projects\n- Gain exposure to leadership\n- Strengthen business
-  skills\n\nIt also gives us a chance to assess your potential fit and perf
- ormance as a future full-time employee who can get meaningful work done fo
- r our customers. Internships can last from two to six months.\n\nEarly Car
- eer Programs\nStart your career at Honeywell. Our early career programs ar
- e designed to provide you with a fast-track experience in your field.\n\nO
- ur programs include:\n\n- Rotations that allow you to experience different
-  businesses and regions\n- Mentoring opportunities\n- Visibility to and ne
- tworking with senior leadership\n\nLaunch IT\nLaunch IT participants colla
- borate to create innovative and automated solutions for visible problems i
- n IT.\n\n- 3+ years: Three rotations\, 12 to 18 months each (mobility requ
- ired)\n- Experience business\, technical\, and enablement/support experien
- ce designed to develop integrated skills in Global Information Technology 
- Solutions and Services.\n\nGenesis\nThe Genesis Program is designed for th
- ose passionate about technology and its ability to improve the world.\n\n-
-  2 years: Three rotations\, eight months each (mobility required)\n- Explo
- re agile software development methodologies\, new technologies used to dif
- ferentiate products\, and domain authorities to develop creative solutions
- .\n\nReady to Apply?\nClick HERE [1] to search jobs.\n\nLinks:\n[0]  http:
- //hg.gatech.edu/node/613082#0\n[1]  https://honeywell.csod.com/ats/careers
- ite/search.aspx?site=4&c=honeywell
-LOCATION:10:30-2pm CCB commons
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunch & Coffee w/ Professors\, French Day
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181113T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181113T170000Z
-UID:http://hg.gatech.edu/node/613704#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nMeet with Professors of French at the School of
-  Modern Languages\, have a “French lunch” while having an informal con
- versation about French classes at GT\, study abroad opportunities\, new Ma
- ster degree\, everything you want to know about French at GT\, and how to 
- get a professional boost planning a career with your French proficiency. P
- rofessors will be available to chat and answer questions.\n\nLinks:\n[0]  
- http://hg.gatech.edu/node/613704#0
-LOCATION:Swann 115
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ICLAST Lunch: Middle Eastern and North African Studies (MENAS)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181113T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181113T173000Z
-UID:http://hg.gatech.edu/node/614184#0
-DESCRIPTION:Intended audience: Graduate students\, Postdoc\, Undergraduate
-  students\nStatus: published\n\nThe Georgia Tech Ivan Allen College of Lib
- eral Arts invites you to the Innovation and Collaboration in Liberal Arts\
- , Science\, and Technology (ICLAST) Lunch: Middle Eastern and North Africa
- n Studies (MENAS) on Tuesday\, November 13\, 2018 from 11:00 a.m. – 12:3
- 0 p.m. in Stephen C. Hall Building\, Room 102. Students will have the chan
- ce to converse about Georgia Tech opportunities in Morocco.\n\nMENAS facul
- ty will speak about a topic of pedagogic or research concern\, for a broad
-  audience\, followed by some discussion\, under the rubric Teaching the Mi
- ddle East in the United States: Problems and Opportunities.\n\nDr. Laura B
- ier\, Associate Professor of History\, Department of History and Sociology
- \n\nTeaching Gender in Middle Eastern History\n\nDr. David Marcus\, Arabic
-  Lecturer\, School of Modern Languages\n\nTeaching Diglossia in the Arabic
-  Language Classroom\n\nMr. Adil Elkhiyari\, Director\, Qalam wa Lawh Insti
- tute\n\nTeaching MSA in Rabat\, Morocco\n\nDr. Anna Stenport\, Chair\, Sch
- ool of Modern Languages\n\nMorocco and Tech - Current Initiatives\n\nPleas
- e register here [2]. RSVP is required for lunch.\n\nThe ICLAST interdiscip
- linary research discussion series is designed to encourage research collab
- orations and to disseminate research to faculty\, post-doctoral fellows\, 
- and masters and undergraduate students across the College and campus. Pane
- lists from different Georgia Tech units present their research on a common
-  topic linking the liberal arts\, sciences\, and technology.\n\nICLAST (In
- novation and Collaboration in Liberal Arts\, Science\, and Technology) eve
- nts are supported by a grant from GT-FIRE.\n\nLinks:\n[0]  http://hg.gatec
- h.edu/node/614184#0\n[1]  http://hg.gatech.edu/node/609756#0\n[2]  https:/
- /docs.google.com/forms/d/e/1FAIpQLSdWfUHiUDDbaGjVS1cPB4xu6AbByycZaXmqSXZar
- a0Zbi7yNw/viewform?c=0&w=1\n[3]  http://iac.gatech.edu
-LOCATION:Stephen C. Hall Building Room 102 215 Bobby Dodd Way\, NW Atlanta
- \, Georgia 30313
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunch and Learn: Atlanta Compliance and Ethics Roundtable
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181113T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181113T180000Z
-UID:http://hg.gatech.edu/node/613971#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Postdoc\nExtras: Free food\
- nStatus: published\n\nHosted by the Office of the President and Compliance
-  Partners Group\, this lunch will include a panel of speakers to discuss c
- ompliance and ethics in business.\n\nRSVP to sherryll.thrash@carnegie.gate
- ch.edu. [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/613971#0\n[1]  sherr
- yll.thrash@carnegie.gatech.edu
-LOCATION:Gordy Room\, Wardlaw Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open Educational Resources at Georgia Tech
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181113T164500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181113T180000Z
-UID:http://hg.gatech.edu/node/614083#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nOpen educational resources (OER) are free and o
- pen resources (including text\, media\, and other digital assets) that are
-  useful for teaching and learning. This seminar will discuss the value of 
- OER. Learn how Chrissy Spencer [1]\, senior academic professional in the S
- chool of Biological Sciences\, and Carrie Shepler [2]\, director of first-
- year chemistry in the School of Chemistry and Biochemistry\, are using OER
-  in their classes. Matt Lisle [3] and Rob Kadel [4] of the Georgia Tech Ce
- nter for 21st Century Universities [5]\, will also be on the panel.\n\nAtt
- endees can bring a brown bag lunch. Beverages\, veggies and desserts will 
- be provided.\n\nRSVPs [6] are required.\n\nLinks:\n[0]  http://hg.gatech.e
- du/node/614083#0\n[1]  http://www.biosci.gatech.edu/people/chrissy-spencer
- \n[2]  https://www.chemistry.gatech.edu/faculty/Shepler/\n[3]  http://c21u
- .gatech.edu/team/faculty/lisle\n[4]  https://c21u.gatech.edu/team/faculty/
- kadel\n[5]  https://c21u.gatech.edu/\n[6]  https://gatech.co1.qualtrics.co
- m/jfe/form/SV_ersrixvLGGDQQuh
-LOCATION:Klaus Advanced Computing Building\, Room 2405\, 266 Ferst Dr Atla
- nta\, GA 30332
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nano@Tech: Non-Invasive Physiological Sensing and Modulation for H
- uman Health and Performance
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181113T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181113T180000Z
-UID:http://hg.gatech.edu/node/606836#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nNon-Invasive Physiological Sensing and Modulation for Human Health and P
- erformance\nOmer T. Inan\, PhD\nSchool of Electrical and Computer Engineer
- ing\nGeorgia Institute of Technology\n\nAbstract: The Precision Medicine I
- nitiative challenges biomedical researchers to reframe health optimization
-  and disease treatment in a patient-specific\, personalized manner. Rather
-  than a one-size-fits-all paradigm\, the charge is for a particular profil
- e to be fit to each patient\, and for disease treatment (or wellness) stra
- tegies to then be tailored accordingly. Non-invasive physiological sensing
-  and modulation can play an important role in this effort by augmenting ex
- isting research in ‑omics and medical imaging towards better developing 
- such personalized models for patients\, and in continuously adjusting such
-  models to optimize therapies in real-time to meet patients’ changing ne
- eds. While in many instances the focus of such efforts is on disease treat
- ment\, optimizing performance for healthy individuals is also a compelling
-  need. This talk will focus on my group’s research on non-invasive sensi
- ng of the sounds and vibrations of the body\, with application to musculos
- keletal and cardiovascular monitoring applications. In the first half of t
- he talk\, I will discuss our studies that are elucidating mechanisms behin
- d the sounds of the knees\, and particularly the characteristics of such s
- ounds that change with acute injuries. We use miniature microelectromechan
- ical systems (MEMS) air-based and piezoelectric contact microphones to cap
- ture joint sounds emitted during movement\, then apply data analytics tech
- niques to both visualize and quantify differences between healthy and inju
- red knees. In the second half of the talk\, I will describe our work study
- ing the vibrations of the body in response to the heartbeat using modified
-  weighing scales and wearable MEMS accelerometers. Our group has extensive
- ly studied the timings of such vibrations in relation to the electrophysio
- logy of the heart\, and how such timings change for patients with cardiova
- scular diseases during treatment. Ultimately\, we envision that these tech
- nologies can enable personalized titration of care and optimization of per
- formance to reduce injuries and rehabilitation time for athletes and soldi
- ers\, improve the quality of life for patients with heart disease\, and re
- duce overall healthcare costs.\n\nBiography: Omer Inan is an Associate Pro
- fessor of Electrical and Computer Engineering and Adjunct Associate Profes
- sor of Biomedical Engineering at Georgia Tech. He received his BS\, MS\, a
- nd PhD in Electrical Engineering from Stanford in 2004\, 2005\, and 2009\,
-  respectively. From 2009-2013\, he was the Chief Engineer at Countryman As
- sociates\, Inc.\, a professional audio manufacturer of miniature microphon
- es and high-end audio products for Broadway theaters\, theme parks\, and b
- roadcast networks. He has received several major awards for his research i
- ncluding the NSF CAREER award\, the ONR Young Investigator award\, and the
-  IEEE Sensors Council Early Career award. While at Stanford as an undergra
- duate\, he was the school record holder and a three-time NCAA All-American
-  in the discus throw.\n\nLinks:\n[0]  http://hg.gatech.edu/node/606836#0\n
- [1]  http://ien.gatech.edu
-LOCATION:Marcus Nanotechnology Building 1117-1118 | 345 Ferst Drive | Atla
- nta GA | 30332
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Georgia Tech-Lorraine: Trick or Treat!
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181113T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181113T183000Z
-UID:http://hg.gatech.edu/node/613359#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: draft\n\nGeorgia Tech-Lorraine is serving up c
- andy and scares this Halloween! Stop by to trick or treat\, get your GTL q
- uestions answered\, and pick up flyers and stickers!\n\nDon’t miss out 
- – it is going to be FRIGHTfully fun!\n\nLinks:\n[0]  http://hg.gatech.ed
- u/node/613359#0\n[1]  http://www.lorraine.gatech.edu
-LOCATION:Student Center (across from the Post Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IEW: Georgia Tech-Lorraine and French Department Pop-up Café
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181113T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181113T183000Z
-UID:http://hg.gatech.edu/node/613348#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nGeorgia Tech-Lorraine and the Fre
- nch department are celebrating International Education Week and French Day
-  with a pop-up café! Come by Swann to ask questions about the French Imme
- rsion Program\, GTL\, pick up some flyers and stickers\, and enjoy free co
- ffee\, sweet tea\, and French treats!\n\nLinks:\n[0]  http://hg.gatech.edu
- /node/613348#0\n[1]  http://www.lorraine.gatech.edu
-LOCATION:Swann Building Lounge
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IEEE SPS Atlanta Distinguished Industry Lecture - Dr. Alfonso Fari
- na @ GT
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181113T180000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181113T200000Z
-UID:http://hg.gatech.edu/node/613808#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nRADAR ROLE: FROM UNDERGROUND TO OUTER SPACE\nDr. Alfonso Farina\, LFIEEE
- \nIEEE Distinguished Industry Speaker\n\nAbstract:\n\nThis lecture will pr
- ovide an in-depth look into the role of radar in several fields of enginee
- ring\, providing a brief historical overview and presenting several real a
- pplications. This will include an overview of Radar applications from unde
- rground to earth imaging and Space Situational Awareness (SSA)\, SAR (Synt
- hetic Aperture Radar) and SAR differential interferometry\, mitigating the
-  electromagnetic spectrum erosion\, SKA (Square Kilometer Array) for radio
-  astronomy\, and the first detection of gravitational waves by dispersed i
- nterferometers. In conclusion\, we will look at the future of Radar\, and 
- what is coming next.\n\nBiography:\n\nAlfonso FARINA received his doctor d
- egree in Electronic Engineering from the University of Rome (IT) in 1973. 
- In 1974\, he joined Selenia\, then Selex ES\, where he became Director of 
- the Analysis of Integrated Systems Unit\, Director of Engineering of Large
-  Business Systems Division\, and senior VP and Chief Technology Officer. F
- rom 1979 to 1985\, he was also professor of “Radar Techniques” at the 
- University of Naples (IT). He is author of more than 700 peer-reviewed tec
- hnical publications and of books and monographs. Some of the most signific
- ant awards he received include the (2004) Leader of the team that won the 
- First Prize of the first edition of the Finmeccanica Award for Innovation 
- Technology\; (2005) Radar A\; (2010) IEEE Dennis J. Picard Medal for Radar
-  Technologies and Application. Today\, Dr. Farina is a Visiting Professor 
- at University College London (UCL)\, Dept. Electronic and Electrical Engin
- eering\, Visiting Professor at Cranfield University (UK) (2018-2020) and a
-  Distinguished Lecturer (DL) of IEEE. He is a consultant to Leonardo “La
- nd & Naval Defense Electronics Division” (Rome).\n\n[1]\n\nParking. Best
-  parrking option is to use the Centergy Parking garage accessible from Spr
- ing Street. Optionally\, you can park at the Georgia Tech Hotel guest park
- ing or in any metered spot on Tech Square\n\nAgenda\n- 1:00 PM - 1:10 PM -
-  Introductions\n- 1:10 PM - 2:00 PM - Seminar by Dr. Alfonso Farina: Radar
-  Role - from Underground to Outer Space\n- 2:00 PM - 2:15 PM - Discussion 
- and Q&A\n- 2:15 PM - 3:00 PM - Reception and networking\n\nLinks:\n[0]  ht
- tp://hg.gatech.edu/node/613808#0\n[1]  https://en.wikipedia.org/wiki/Alfon
- so_Farina\n[2]  https://events.vtools.ieee.org/m/178884
-LOCATION:Technology Square Research Building\, Auditorium\, 85 5th Street 
- NW\, Atlanta\, GA 30308
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seeing the Other Side: Connecting Successfully Across Cultures
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181113T190000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181113T200000Z
-UID:http://hg.gatech.edu/node/613717#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nForming connections with people who are culturally different from us can
-  be rewarding\, yet challenging\, as varying ways of perceiving the world 
- can sometimes lead to misunderstandings and conflict. This presentation fo
- cuses on building skills for “seeing the other side” and managing stre
- ss in intercultural situations.\n\nLinks:\n[0]  http://hg.gatech.edu/node/
- 613717#0
-LOCATION:Student Center\, Piedmont Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Engaging Ethics through Media: "Casablanca"
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181113T190000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181113T220000Z
-UID:http://hg.gatech.edu/node/613628#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nExtras: Free food\nStatus: published\n\nScreeni
- ng of the 1942 film "Casablanca\," including thematic discussion with Vice
-  Provost for Undergraduate Education Colin Potts.\n\nFree pizza! Sign up t
- o attend! [1]\n\nAbout the event:\nCo-sponsors: the Georgia Tech Honors Pr
- ogram [2] and Undergraduate SGA [3]. A featured event of Ethics Awareness 
- Week.\n\nMore on "Casablanca" is available at: [4]\nNote that this film is
-  rated PG (for mild violence).\n\nLinks:\n[0]  http://hg.gatech.edu/node/6
- 13628#0\n[1]  https://gatech.co1.qualtrics.com/jfe/form/SV_0CjOaVRqReYhBGZ
- \n[2]  http://honors.gatech.edu/\n[3]  http://sga.gatech.edu/ug/\n[4]  htt
- ps://www.imdb.com/title/tt0034583/?ref_=nv_sr_1\n[5]  http://www.gatech.ed
- u/about/ethics
-LOCATION:Press Room A\, Student Success Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diversity and Inclusion Fellows Program Poster Expo and Celebratio
- n
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181113T210000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181113T223000Z
-UID:http://hg.gatech.edu/node/612910#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nPlease join us for a poster expo and reception with hors d’oeuvres as 
- we showcase the ideas and projects from the second cohort of Diversity and
-  Inclusion Fellows\, and announce next year’s Fellows.\n\nRegister to at
- tend the event here [2].\n\nAbout the Diversity and Inclusion Fellows Prog
- ram\nWith support from Institute Diversity and the ADVANCE Program\, the D
- iversity and Inclusion Fellows Program brings together faculty\, staff\, a
- nd students who individually and collectively advance their action\, resea
- rch\, or teaching objectives while improving inclusivity on campus. For mo
- re information about the program\, visit [3].\n\nThis catered event will h
- ighlight the work performed by a network of ambassadors who seek to advanc
- e a culture of inclusive excellence and create an environment where people
-  feel safe\, comfortable\, and empowered to discuss diversity and inclusio
- n at Georgia Tech. Their ideas and proposals for achieving that goal will 
- be on display for the campus to join in the conversation.\n\nRegistration 
- [2] is requested.\n\nAbout the Diversity and Inclusion Fellows Program\nWi
- th support from Institute Diversity and the ADVANCE program\, the Diversit
- y and Inclusion Fellows Program brings together faculty\, staff\, and stud
- ents who individually and collectively advance their action\, research\, o
- r teaching objectives while improving inclusivity on campus.\n\nLinks:\n[0
- ]  http://hg.gatech.edu/node/612910#0\n[1]  http://hg.gatech.edu/node/6125
- 50#0\n[2]  http://diversity.gatech.edu/2018-diversity-and-inclusion-fellow
- s-program-poster-expo-and-celebration-registration\n[3]  http://diversity.
- gatech.edu/DIFellowsProgram
-LOCATION:Klaus Atrium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:French Connections: French\, Swiss and Canadian consulates
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181113T212500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181113T224500Z
-UID:http://hg.gatech.edu/node/613719#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nConnect with Consulate Delegates from France\, 
- Switzerland or Quebec\, and with GT professors during an interactive and i
- nformative session about global internships\, grants and scholarships\, st
- udy abroad opportunities in francophone countries\, and find out why a min
- or/major in French will give you an edge on the job market. Drinks and sna
- cks included for a better conversation. Check out iew.gatech.edu to see al
- l the invited guests!\n\nInvited guests are:\n\n- Anne-Lise Gallay\, Deput
- y Cultural Attaché\, Educational and University Affairs\, Consulat Géné
- ral de France à Atlanta\n- Adrian Sieber\, Head of Chancery/ Consul\, Con
- sulate General of Switzerland\n- Yves Berthelot\, Vice Provost for Interna
- tional Initiatives\, Steven A. Denning Chair in Global Engagement\, Presid
- ent of Georgia Tech Lorraine\, and Professor.\n- Donald Leblanc\, Délégu
- é / Delegate\, Délégation du Québec / Québec Government Office\n- Ala
- sdair Young\, Professor of International Affairs\, Co-Director of the Cent
- er for European and Transatlantic Studies\, a Jean Monnet Center of Excell
- ence\, Co-Editor\, JCMS: Journal of Common Market Studies\n- Martin Mourig
- al\, Assistant Professor of Physics.\n\nLinks:\n[0]  http://hg.gatech.edu/
- node/613719#0
-LOCATION:Swann 320
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Write-a-Thon
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181113T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181114T020000Z
-UID:http://hg.gatech.edu/node/613537#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nNeed to get over that 
- writer's block? Want to connect with a vibrant writing community on campus
- ? The North Avenue Review and Erato present Tech's first Write-a-thon\, a 
- chance to finally sit down and write! Feel free to write about a subject o
- f your own choosing\, or to follow prompts we provide. Snacks included.\n\
- nAnything you create can be published!\n\nErato\, Tech's arts & literature
-  magazine\, and the North Avenue Review\, Tech's free speech magazine\, wi
- ll be accepting submissions for their upcoming issues. Feel free to submit
-  poetry\, fiction\, nonfiction essays\, think-pieces\, or even visual art-
- -no matter what type of content your mind fancies\, it has a place somewhe
- re in our publications!\n\nNorth Avenue Review [1]\nRSVP on Facebook [2]\n
- \nLinks:\n[0]  http://hg.gatech.edu/node/613537#0\n[1]  https://www.northa
- vereview.com/\n[2]  https://www.facebook.com/events/247294615952356/
-LOCATION:Under the Couch\, Second Floor\, Student Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Game Day: Teach 17 Sustainable Development Goals and AISEC
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181114T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181114T173000Z
-UID:http://hg.gatech.edu/node/613738#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nWe will have games and activities focused on ed
- ucating the community on what different UN sustainable development goals (
- SDGs) are\, how different communities around the world are working towards
-  reaching these goals\, and what you as an individual can to reach those g
- oals as well. We'll have grab-and-go stickers and snacks\, and prizes for 
- both winning games and participation.\n\nLinks:\n[0]  http://hg.gatech.edu
- /node/613738#0
-LOCATION:Campanile
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Principles and Applications of Regenerative Rehabilitation in Musc
- uloskeletal Disease and Injury
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181114T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181114T180000Z
-UID:http://hg.gatech.edu/node/610701#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nNick Willett\, Ph. D.\nDepartment of Orthopedic
- s\nSchool of Medicine\nEmory University\n\nAbstract\nThe field of tissue e
- ngineering and regenerative medicine has long integrated fundamental princ
- iples of stem cell biology\, biomaterials and mechanical engineering to be
- tter design new tissues. As regenerative technologies become more prevalen
- t in the clinic\, however\, it is becoming increasingly apparent that the 
- rehabilitation regimen and management of the intervention after the delive
- ry/implantation is just as critical to the success of the implant as the f
- undamental technology itself. The research of the Willett lab focuses on a
-  systems integration approach to musculoskeletal disease and regenerative 
- engineering by applying novel imaging and engineering techniques to clinic
- al motivated challenges. The lab’s current work has three main thrusts: 
- (i) cell and biologic therapies for the healing of large bone and muscle d
- efects\, (ii) multi-scale mechanical regulation of bone regeneration\, and
-  (iii) intra-articular therapeutic delivery for post-traumatic osteoarthri
- tis. This seminar will discuss fundamental principles to Regenerative Reha
- bilitation and show how we utilize these rehabilitation principles to enha
- nce the therapeutic efficacy of regenerative and tissue engineering therap
- ies.\n\nAbout the Speaker\nNick Willett is an Assistant Professor in the D
- epartment of Orthopaedics at Emory University and runs a research lab with
-  a focus on engineering strategies for musculoskeletal regeneration and re
- habilitation. Nick has a secondary appointment in the joint Biomedical Eng
- ineering Department between Emory University and Georgia Institute of Tech
- nology as well as an appointment in the Research Division at the Atlanta V
- A Medical Center. Nick performed his postdoctoral training at the Georgia 
- Institute of Technology working with Prof. Robert Guldberg in Mechanical E
- ngineering. He received his Ph.D. (2010) in Biomedical Engineering from th
- e joint program between Georgia Institute of Technology and Emory Universi
- ty. Prior to his graduate work he received his B.S. (2005) in Mechanical E
- ngineering from the University of Colorado at Boulder. Nick has been an ac
- tive member of TERMIS since 2011 and is a member of the TERMIS thematic gr
- oup on Regenerative Rehabilitation. He is the Emory Representative for the
-  International Consortium on Regenerative Rehabilitation and was on the sc
- ientific organizing committee for the 2016 Alliance for Regenerative Rehab
- ilitation Research and Training\, Regenerative Rehabilitation Symposium. H
- e has received numerous awards and honors including the Gandy Diaz Teachin
- g Fellowship from Georgia Tech\, the Young Investigator Award from the Ame
- rican Society for Bone and Mineral Research\, and the Ruth L. Kirschstein 
- National Research Service Award Postdoctoral Fellowship from the NIH. Nick
-  has published 24 peer reviewed manuscripts—including multiple in Tissue
-  Engineering—and 4 book chapters. He has served as a reviewer for grant 
- proposals for the Arthritis Foundation and applications for the Petit Scho
- lars program at Georgia Tech. He currently reviews for numerous journals i
- ncluding Tissue Engineering\, Biomaterials\, and Acta Biomaterialia\, amon
- g numerous others. The research of the Willett lab focuses on a systems in
- tegration approach to musculoskeletal disease and regenerative engineering
-  by applying novel imaging and engineering techniques to clinical motivate
- d challenges. The lab’s current work has three main thrusts: (i) cell an
- d biologic therapies for the healing of large bone and muscle defects\, (i
- i) multi-scale mechanical regulation of bone regeneration\, and (iii) intr
- a-articular therapeutic delivery for post-traumatic osteoarthritis. The Wi
- llett lab sits at the interface between the engineering and clinical disci
- plines and is composed of engineering students\, medical students\, reside
- nts\, and fellows.\n\nPhysiology Brownbag Seminars\nThe Physiology Group i
- n the School of Biological Sciences hosts Brownbag Lunchtime Seminars twic
- e a month on Wednesdays at noon in room 1253 of the Applied Physiology Bui
- lding located at 555 14th Street NW\, Atlanta\, GA 30318. You are welcome 
- to bring a lunch and join us as we ruminate with us on topics in Physiolog
- y! A full listing of seminars can be found at [1].\n\nHost: Young C. Jang\
- , Ph.D.\n\nLinks:\n[0]  http://hg.gatech.edu/node/610701#0\n[1]  http://pw
- p.gatech.edu/bmmc/physiology-brownbag-seminars-fall-2018/
-LOCATION:Room 1253\, 555 14th Street NW
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:International Rescue Committee Info Session
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181114T180000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181114T190000Z
-UID:http://hg.gatech.edu/node/613745#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nLearn how you can help refugee families rebuild
-  their lives after undergoing a disaster or conflict. Come join the Intern
- ational Rescue Committee’s Duncan De la Feld along with the Chinese Stud
- ent Association\, LINK (Liberty in North Korea) and AASA (Asian American S
- tudent Association) on Wednesday\, November 14\, 2018 in the Student Succe
- ss Center on the 2nd Floor\, Press Room A from 1:00-2:00pm. Free food and 
- drinks will be provided while supplies last. All students are welcome!\n\n
- Links:\n[0]  http://hg.gatech.edu/node/613745#0
-LOCATION:Bill Moore Student Success Center\, Press Room A (2nd floor)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CRASI Distinguished Lecture Series with Professor Christopher Jarz
- ynski
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181114T210000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181114T220000Z
-UID:http://hg.gatech.edu/node/613764#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: published\n\nAbstract\n\nThermodynamics p
- rovides a robust conceptual framework and set of laws that govern the exch
- ange of energy and matter. Although these laws were originally articulated
-  for macroscopic objects\, it is hard to deny that nanoscale systems\, as 
- well\, often exhibit “thermodynamic-like” behavior. To what extent can
-  the venerable laws of thermodynamics be scaled down to apply to individua
- l microscopic systems\, and what new features emerge at the nanoscale? I w
- ill review recent progress toward answering these questions\, with a focus
-  on the second law of thermodynamics. I will argue that the inequalities o
- rdinarily used to express the second law can be replaced by stronger equal
- ities\, known as fluctuation relations\, which relate equilibrium properti
- es to far-from-equilibrium fluctuations. The discovery and experimental va
- lidation of these relations has stimulated interest in the feedback contro
- l of small systems\, the closely related Maxwell demon paradox\, and the i
- nterpretation of the thermodynamic arrow of time. These developments have 
- led to new tools for the analysis of non-equilibrium experiments and simul
- ations\, and they have refined our understanding of irreversibility and th
- e second law.\n\nBio\n\nChris Jarzynski received an AB degree in physics f
- rom Princeton University in 1987\, and a PhD in physics from the Universit
- y of California\, Berkeley in 1994. After postdoctoral positions at the Un
- iversity of Washington in Seattle and at Los Alamos National Laboratory in
-  New Mexico\, he became a staff member in the Theoretical Division at Los 
- Alamos. In 2006\, he moved to the University of Maryland\, College Park\, 
- where he is now a Distinguished University Professor in the Department of 
- Chemistry and Biochemistry\, with joint appointments in the Institute for 
- Physical Science and Technology and the Department of Physics. His researc
- h is primarily in the area of nonequilibrium statistical physics\, where h
- e has contributed to an understanding of how the laws of thermodynamics ap
- ply to nanoscale systems. He has been the recipient of a Fulbright Fellows
- hip\, the 2005 Sackler Prize in the Physical Sciences\, and the 2019 Lars 
- Onsager Prize in Theoretical Statistical Physics. He is a Fellow of the Am
- erican Physical Society and the American Academy of Arts and Sciences.\n\n
- Links:\n[0]  http://hg.gatech.edu/node/613764#0
-LOCATION:Molecular Science and Engineering Building Room G011
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Keynote and Reception for Dr. Katharine Wilkinson\, VP of Communic
- ation & Engagement at Project Drawdown.
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181114T210000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181114T230000Z
-UID:http://hg.gatech.edu/node/613948#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatec
- h.edu/node/613948#0\n[1]  http://globalchange.gatech.edu\n[2]  https://www
- .drawdown.org/\n[3]  https://www.drawdown.org/the-book
-LOCATION:Krone Engineered Biosystems Building\, Children's Healthcare of A
- tlanta Seminar Room.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Epic Intentions Final Presentation
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181114T213000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181114T230000Z
-UID:http://hg.gatech.edu/node/613473#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nEpic Intentions c
- onnects GT students with local non-profits and organizations to help foste
- r important skills and create progress through service. Join us for our fi
- nal presentations to see the amazing projects our teams have put together!
- \n\nFood will be served at 4:30\, presentations start at 5:00.\n\nMore inf
- ormation on Facebook [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/613473#
- 0\n[1]  https://www.facebook.com/events/2049597151768776/
-LOCATION:President's Suites C and D\, Bill Moore Student Success Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LEAD Graduate Student Opportunities Dinner
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181114T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181114T230000Z
-UID:http://hg.gatech.edu/node/611248#0
-DESCRIPTION:Intended audience: Graduate students\, Postdoc\nStatus: publis
- hed\n\nYou're Invited\nGraduate Student Opportunities Dinner\n\nWednesday\
- , November 14th\n5:00pm-6:00pm\nBrittain Rec Classroom\n(behind Brittain D
- ining Hall at the top of the stairs)\nDinner will be served\n\nNetwork wit
- h other graduate students and Leadership Education and Development (LEAD) 
- staff while learning about a variety of paid leadership development opport
- unities available to you.\n\nThe benefit is simple - gain leadership skill
- s and develop others. Feel free to invite another graduate student to atte
- nd with you.\n\nRSVP [1] no later than Tuesday\, November 7th at 5pm.\n\nL
- inks:\n[0]  http://hg.gatech.edu/node/611248#0\n[1]  https://www.eventbrit
- e.com/e/2018-fall-semester-graduate-students-opportunities-dinner-tickets-
- 49910979082
-LOCATION:Georgia Tech - Brittain Rec Classroom\, 658 Williams Street\, Atl
- anta\, GA 30332
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Personal Finance Workshop * DATE CHANGED TO NOV 14th*
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181114T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181114T233000Z
-UID:http://hg.gatech.edu/node/614109#0
-DESCRIPTION:Intended audience: Graduate students\, Postdoc\, Undergraduate
-  students\nExtras: Free food\nStatus: published\n\nIf you are interested i
- n learning more about your personal finance this workshop is for you! We w
- ill be focusing on the following themes::\n\n- How To Budget\n- How To Sav
- e An Emergency Fund\n- How To Pay Down Debt\n- How To Set Financial Goals\
- n- How To Understand/ Improve Your Credit Report And Score\n\nLinks:\n[0] 
-  http://hg.gatech.edu/node/614109#0
-LOCATION:College of Computing Building Room 335
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Business Model for Your Invention/Startup!
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181114T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181115T000000Z
-UID:http://hg.gatech.edu/node/614035#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nExplore key steps that you can take to equip yo
- u to make money with your idea/invention.\n\nThis event is held in collabo
- ration with GT's Design Bloc.\n\nDinner will be provided!\n\nLinks:\n[0]  
- http://hg.gatech.edu/node/614035#0\n[1]  https://orgsync.com/175888/events
- /2562282/occurrences/6168453
-LOCATION:Klaus 1116 E&W
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I-Explore: Global Culture and Snacks
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181114T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181115T003000Z
-UID:http://hg.gatech.edu/node/613747#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nJoin I-House for a bite and learn about global 
- culture and snacks! Our residents from around the world and the United Sta
- tes will quiz you on your global knowledge with a sweet prize at the end!\
- n\nLinks:\n[0]  http://hg.gatech.edu/node/613747#0
-LOCATION:Campanile/ Student Center Plaza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Thankful Thursday with Health Initiatives
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181115T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181115T190000Z
-UID:http://hg.gatech.edu/node/613897#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: published\n\nCelebrate a day of gratitude
-  this holiday season at the drop in Thankful Thursday event with Health In
- itiatives. This event will feature a Thanksgiving-themed craft and snacks 
- to help you de-stress and spend some time focusing on mindfulness. You wil
- l also enjoy viewings of your favorite classic Thanksgiving sitcom episode
- s.\n\nLinks:\n[0]  http://hg.gatech.edu/node/613897#0
-LOCATION:Student Center Room 301
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GVU Center Brown Bag: Tucker Balch\, "Track the Monkey!"
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181115T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181115T180000Z
-UID:http://hg.gatech.edu/node/613437#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nExtras: Free food\nStatus: published\n\nAbstract
- :\n\nWe report on an NIH-funded joint effort between Georgia Tech and Emor
- y/Yerkes to study a group of 45 rhesus macaque monkeys housed in a 1/4 acr
- e outdoor enclosure. The system we designed and deployed enables us to tra
- ck the position of the monkeys in the enclosure to a resolution of about 2
- 0 cm at 30 hertz. The data we are collecting enables us to analyze the soc
- ial structure of the monkey group and to identify important activities lik
- e illness\, fighting and mating. In this talk I will report on the design 
- of the underlying technology we have developed to support this research\, 
- some of the studies we have conducted already as well as anticipated next 
- steps. Besides the speaker\, our team includes: David Byrd\, Scott Gillila
- nd\, Brian Hrolenok\, Chanho Kim\, Jim Rehg\, Rebecca Roberts and Kim Wall
- en.\n\nSpeaker Bio:\n\nTucker Balch is a professor in the School of Intera
- ctive Computing. His research centers on the study of social animals and M
- achine Learning to Finance.\n\nLinks:\n[0]  http://hg.gatech.edu/node/6134
- 37#0\n[1]  http://www.tsrb.gatech.edu/
-LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
- a\, Ga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Photo Contest 2018 Reception
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181115T190000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181115T200000Z
-UID:http://hg.gatech.edu/node/606664#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nExtras: Free food\, Freebies\nStatus: published\
- n\nLinks:\n[0]  http://hg.gatech.edu/node/606664#0
-LOCATION:Clough 3rd Floor Gallery
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Graduate Student Diversity Council Open House
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181115T200000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181115T210000Z
-UID:http://hg.gatech.edu/node/613988#0
-DESCRIPTION:Intended audience: Graduate students\nStatus: published\n\nThe
-  College of Sciences Graduate Student Diversity Council (GSDC) is seeking 
- members who are willing to contribute to a more inclusive graduate student
-  community at Georgia Tech. We work with faculty\, staff\, and peers acros
- s the six schools of the College of Sciences to improve recruitment effort
- s\, support and retain current graduate students\, and develop a more dive
- rse corps of future scientists. We invite anyone\, regardless of backgroun
- d or experience\, to join us at a GSDC open house to learn how to become i
- nvolved. Refreshments will be provided.\n\nFill out interest form [1]\n\nL
- inks:\n[0]  http://hg.gatech.edu/node/613988#0\n[1]  https://docs.google.c
- om/forms/d/e/1FAIpQLSftoBL3S2c2W1GL1s3t6IxsNkrKlahTN9ia4-_pV0yd36aofg/view
- form
-LOCATION:Room 102B\, Pettit Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SPP Speaker Series: James E. Prieger
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181115T200000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181115T213000Z
-UID:http://hg.gatech.edu/node/614090#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nMore about Dr. James E. Prieger:\n\nPrieger is an economist specializing
-  in regulatory economics\, industrial organization\, economics of illicit 
- markets\, and applied econometrics. He is a Professor at the Pepperdine Un
- iversity School of Public Policy. He has held previous positions at the Un
- iversity of California\, Davis and the Federal Communications Commission. 
- He received his BA from Yale University and his PhD from the University of
-  California\, Berkeley.\n\nShort Description:\n\nMany well meaning public 
- policies have unintended consequences\, and taxes on “sin goods” like 
- tobacco are no exception. California recently increased its excise tax on 
- cigarettes by a large amount to discourage smoking\, fund public health ef
- forts\, and raise revenue for the state. After the tax increase\, tax rece
- ipts on sales decreased sharply\, although evidence indicates that the inc
- idence of smoking did not drop. How can this be? Through survey evidence c
- ollected by the authors\, it appears that the tax increase raised tax avoi
- ding and evading activity by smokers. About 44% of smokers engaged in some
-  legal tax-avoiding behavior in the year after the tax increase\, 15% evad
- ed taxes through cross-border purchases\, and 27% bought untaxed cigarette
- s in the state in the past month. The authors examine both the levels and 
- determinants of a host of ways people sought to avoid or evade taxes and e
- ngage in black market activity.\n\nLinks:\n[0]  http://hg.gatech.edu/node/
- 614090#0
-LOCATION:Georgia Tech Stephen C. Hall Room 102\, Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exchange Study Abroad Meet and Greet
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181115T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181116T000000Z
-UID:http://hg.gatech.edu/node/606529#0
-DESCRIPTION:Intended audience: Undergraduate students\nStatus: published\n
- \nReturned Exchange study abroad students and students preparing to study 
- abroad on exchange are invited to come share their experiences with each o
- ther and OIE Exchange Advisors. This will be a fun and valuable time to le
- arn about exchanges from students who have been there. There will also be 
- snacks!\n\nLinks:\n[0]  http://hg.gatech.edu/node/606529#0\n[1]  http://at
- las.gatech.edu/index.cfm?FuseAction=Programs.SimpleSearch
-LOCATION:TBD
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:GTIA Night Market
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20181115T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20181116T010000Z
@@ -31214,6 +30168,19 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:AGSC\, 781 Marietta St. NW\, Suite 115\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:General Meeting - Uzun+Case
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191112T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191112T170000Z
+UID:https://gatech.campuslabs.com/engage/event/5158555
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nFounded in
+  1993 by principals Tamer Uzun\, James Case\, Martin Cuadra and Larry McDo
+ well\, Uzun+Case is one of the largest structural engineering firms in the
+  Southeastern US. Our growth has been fueled by our technical expertise\, 
+ creative design approach\, and teamwork orientation.\n\nLinks:\n[0]  https
+ ://gatech.campuslabs.com/engage/event/5158555
+LOCATION:Mason Building - room 1133
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nano@Tech: Development of Biohybrid Systems
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191112T170000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191112T180000Z
@@ -31635,6 +30602,17 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Stein House/4th St. A\, 733 Techwood\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CEE Tech Rec Night
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191113T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191114T000000Z
+UID:https://gatech.campuslabs.com/engage/event/5162524
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nGet to know our wonderf
+ ul CEE faculty and enjoy free food and games at the tech rec! All CEE stud
+ ents are welcome!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/eve
+ nt/5162524
+LOCATION:Tech Rec
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Open Mic Story: A Night Jam of Artistry
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191113T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191114T010000Z
@@ -32016,6 +30994,49 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Guggenheim 442
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SMTA Tech Talk Event
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191114T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191114T230000Z
+UID:http://hg.gatech.edu/node/629002#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nWhat is SMTA?\nThe Surface Mount 
+ Technology Association or SMTA is a global association of companies\, stud
+ ents and professionals working in or studying the fields of electronics\, 
+ manufacturing\, and engineering. The purpose of SMTA is to advance the ele
+ ctronics and engineering industries by providing member education and help
+ ing members develop a professional network. For student members\, this mea
+ ns learning more about your field\, going to conferences all over the worl
+ d to meet some of the smartest people and most successful businesses\, and
+  developing a professional network to help you get the inside track on int
+ ernships and jobs.\n\nWhy should I join SMTA at Georgia Tech?\n- Only $20 
+ annually to become and stay a member\n- Get access to thousands of journal
+ s and webinars to develop your skills as an engineer and earn certificatio
+ ns\n- Get access (and sometimes fully funded) to attend many national and 
+ international conferences where in you can:\n- Network directly with CEOs 
+ and hiring managers at many of the largest companies in electronics and en
+ gineering\n- See some of the most cutting-edge research in your field at e
+ xhibits and technical talks\n- Present and/or publish your own research\n-
+  Hiring and internship placement assistance from SMTA HQ and SMTA Atlanta 
+ Chapter\n- Add to your resume by becoming a student chapter officer (Presi
+ dent\, VP\, Secretary\, Treasurer\, etc.)\n- Tours of many world-class fac
+ ilities working in electronics engineering\n- Opportunities to win annual 
+ student awards\n- Hutchins Education Grant ($8\,000) <- last two winners w
+ ere from Georgia Tech including me!\n- Stromberg Leadership Scholarship ($
+ 3\,000)\n- Many fun meetings and events with free food!\n\nWhere can I go 
+ to learn more about SMTA?\n- SMTA GT Technical Talk: 5pm on November 14th\
+ , MRDC 4211\nTopic: Product Development Process: how to take an idea from 
+ a sketch on a napkin to something sitting in your Amazon cart\nSpeaker: Er
+ ic Lange\, Senior Design Engineer at Kids 2\n- [1]\n\nHow can I become an 
+ SMTA member?\n- Go to [2] and apply for a new student membership at the Ge
+ orgia Tech Student Chapter\n- Bring $20 to any of the events above and ask
+  to become a member\n\nIf you have any questions\, please don't hesitate t
+ o email me at benstewart@gatech.edu [3].\n\nThank you and regards\,\n\nLin
+ ks:\n[0]  http://hg.gatech.edu/node/629002#0\n[1]  http://www.smta.org/\n[
+ 2]  http://www.smta.org/membership\n[3]  benstewart@gatech.edu\n[4]  http:
+ //caspar.gatech.edu
+LOCATION:MRDC 4211
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Stories Around the Campfire
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191114T223000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191115T000000Z
@@ -32161,6 +31182,76 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Undergraduate students\nExt
 LOCATION:Scheller College of Business\, Room 300
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PhD Proposal by Ankush Mandal
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191115T190000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191115T210000Z
+UID:http://hg.gatech.edu/node/628952#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nStatus: published\n\nTitle: Enabling Parallelism
+  and Optimizations in Data Mining Algorithms\n—————————
+ ———\n\nAnkush Mandal\n\nPh.D. Student in Computer Science\nSchool of
+  Computer Science\nCollege of Computing\nGeorgia Institute of Technology\n
+ \nDate: Friday\, Nov 15\, 2019\nTime: 2:00 PM - 4:00 PM ET\nLocation: KACB
+  3100\n\nCommittee:\n————————————\nDr. Vivek Sarka
+ r (Advisor\, School of Computer Science\, Georgia Tech)\nDr. Anshumali Shr
+ ivastava (Co-advisor\, Department of Computer Science\, Rice University)\n
+ \nDr. Hyesoon Kim (School of Computer Science\, Georgia Tech)\nDr. Santosh
+  Pande (School of Computer Science\, Georgia Tech)\nDr. Richard Vuduc (Sch
+ ool of Computational Science and Engineering\, Georgia Tech)\n\nAbstract:\
+ n————————————\n\nIn this era of big data\, one of 
+ the most crucial fields in Computer Science is data mining. Extracting mea
+ ningful information from a large amount of data in a reasonable time becam
+ e possible mainly through two types of advancements - a) algorithmic\, suc
+ h as fast approximate algorithms and efficient learning algorithms\, and b
+ ) architectural\, such as machines with massive compute power involving di
+ stributed multi-core processors and high throughput accelerators. With the
+  end of Dennard scaling\, the free lunch in performance improvement throug
+ h processor frequency increases ended\, and multiple cores became a practi
+ cal solution to gain performance. In current-generation processors\, paral
+ lelism is ubiquitous\, and thus parallel algorithms are a necessary means 
+ to utilize computing resources efficiently. In our work\, we address the f
+ ollowing questions - how well do the critical data mining algorithms of cu
+ rrent interest fit with today's parallel architectures\, which algorithmic
+  and mapping opportunities can we leverage to further improve performance\
+ , and what are the challenges and gains in such efforts?\n\nFirst\, we inv
+ estigate a classical application in large scale data stream processing - t
+ he frequency estimation problem - for GPU scale parallelism. Among the app
+ roximate solutions with sublinear memory requirements\, Sketching algorith
+ ms are a popular choice for this task due to their desirable trade-off bet
+ ween estimation accuracy and space-time efficiency. However\, most of the 
+ past work on sketch-based frequency estimation focused on CPU implementati
+ ons\, with little exploration of throughput-optimized parallel architectur
+ es such as GPUs. In our work\, we propose a novel approach for sketches\, 
+ which exploits the natural skewness in the data to efficiently utilize the
+  massive amounts of parallelism available in modern GPUs.\n\nNext\, we exp
+ lore one of the most common and important tasks in data mining - identific
+ ation of most frequent elements - on modern distributed settings with both
+  multi-node as well as multi-core parallelism. In this work\, we start by 
+ observing that the existing approximate algorithms\, although theoreticall
+ y sound\, are suboptimal from the performance perspective. Specifically\, 
+ for identifying top-K frequent items\, Count-Min Sketch (CMS) has an excel
+ lent update time but lacks the important property of reducibility\, which 
+ is needed for exploiting available massive data parallelism. On the other 
+ end\, the popular Frequent Algorithm (FA) leads to reducible summaries\, b
+ ut the update costs are high. Our approach Topkapi\, a fast and parallel a
+ lgorithm for finding top-K frequent items\, gives the best of both worlds\
+ , i.e.\, it is reducible like FA and has an efficient update time similar 
+ to CMS. In addition\, Topkapi possesses strong theoretical guarantees and 
+ leads to significant performance gains\, relative to past work.\n\nFinally
+ \, we explore opportunities for improvement in Word2Vec\, a word embedding
+  method. Word embedding is an essential application for Machine learning a
+ nd Natural Language Processing\, since distributed representations of word
+ s significantly improve accuracy in text processing applications\, such as
+  machine translation\, sentiment analysis\, and query answering. This time
+ \, we target Single Instruction Multiple Data parallelism. With increasing
+  vector length of commodity CPUs\, such as AVX-512 with a vector length of
+  512 bits\, efficient vector processing unit utilization becomes a major p
+ erformance game-changer. So\, we look into the performance landscape for c
+ urrent Word2Vec approaches on CPUs and propose new ideas to overcome their
+  shortcomings.\n\nLinks:\n[0]  http://hg.gatech.edu/node/628952#0
+LOCATION:KACB 3100
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Yoga for the Soul
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191116T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191116T020000Z
@@ -32247,6 +31338,27 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:West Village Lawn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Saqafat 2019
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191118T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191119T030000Z
+UID:http://hg.gatech.edu/node/628896#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nExtras: Free Food\, Free Stuff\nStatus: publish
+ ed\n\nHosted by Pakistani Student Association\n\nThe Pakistani Student Ass
+ ociation (PSA) will be holding its annual event Saqafat on the Monday\, th
+ e 18th of November\, 2019 at the Ballroom\, Student Center\, Georgia Tech.
+  Saqafat is a colorful exhibition of the culture and traditions of Pakista
+ n and intends to promote country’s culture within the broader Georgia Te
+ ch community. The event will showcase Pakistani culture through guest spea
+ kers\, dance performances\, fashion show\, and informational posters about
+  local languages\, food\, calligraphy\, etc. In addition to snacks\, all g
+ uests will be served the irresistible Pakistani style biryani for dinner.\
+ n\nLinks:\n[0]  http://hg.gatech.edu/node/628896#0\n[1]  https://gatech.ca
+ mpuslabs.com/engage/event/5158560\n[2]  https://www.facebook.com/events/13
+ 87282914779437/
+LOCATION:Student Center Ballroom
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AGSC Tuesday Collaboratorium: Lunch with a Member of the Atlanta C
  onsular Corps -- Conversation with Consul General of Brazil\, Carlos de Ab
  reu: "Advancing Brazilian Studies in the Greater Atlanta Region"
@@ -32277,6 +31389,20 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our inaugur
   starting at 11 AM and a photo with Buzz at 11:30 AM.\n\nLinks:\n[0]  http
  s://gatech.campuslabs.com/engage/event/5144842
 LOCATION:Skiles Courtyard
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:International Education Week: OIE Flag Showcase
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191119T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191119T170000Z
+UID:http://hg.gatech.edu/node/629036#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nStatus: published\n\nJoin us for our inaugural 
+ IEW Flag Showcase on Tech Walkway near Skiles Courtyard. If you’d like t
+ o represent a country/culture/group of people\, bring your flag! We will h
+ ave snacks starting at 11 AM and a photo with Buzz at 11:30 AM. Let's repr
+ esent our cultural pride with the Georgia Tech community\n\nLinks:\n[0]  h
+ ttp://hg.gatech.edu/node/629036#0\n[1]  http://iew.gatech.edu
+LOCATION:Tech Walkway
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:French Day 2019
@@ -32390,6 +31516,18 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nLooking for your dream
 LOCATION:Brittain Rec
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Breakfast in the CCB Commons - Sponsored by Union Pacific
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191120T133000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191120T153000Z
+UID:http://hg.gatech.edu/node/628968#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\, Freebies\nStatus: published\n\nStop by the CCB Common
+ s any time from 8:30am - 10:30am for fresh fruit\, yogurt parfaits\, eggs\
+ , bacon\, chicken biscuits and much more!\n\n*While supplies last!*\n\nLin
+ ks:\n[0]  http://hg.gatech.edu/node/628968#0
+LOCATION:CCB Commons
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:HSOC Undergraduate Research Symposium
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191120T140000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191120T170000Z
@@ -32405,6 +31543,34 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
  nFor more information and to RSVP. [1]\n\nLinks:\n[0]  http://hg.gatech.ed
  u/node/625939#0\n[1]  https://hsoc.gatech.edu/undergrad_symposium
 LOCATION:Hall Building\, Room 102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Micro-Physiological Systems Series: Bioengineered Human iPSC Tissu
+ e Model for Gaining Mechanistic and Therapeutic Insights into CPVT
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191120T180000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191120T190000Z
+UID:http://hg.gatech.edu/node/628937#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nMicro-Physiological Systems Series: Bioengineered Human iPSC Tissue Mode
+ l for Gaining Mechanistic and Therapeutic Insights into CPVT\nSpeaker: Sun
+ g Jin Park\, Ph.D. - Assistant Professor\, Coulter Department of Biomedica
+ l Engineering\; Georgia Institute of Technology & Emory University School 
+ of Medicine\nAbstract: The cellular phenotypes caused by inherited arrhyth
+ mia mutations have been studied using human induced pluripotent stem cell 
+ derived cardiomyocytes (hiPSC-CMs). However\, arrhythmias are the emergent
+  properties of cells assembled into tissues\, and the impact of these muta
+ tions on tissue-level properties of human myocardium has not been reported
+ . In this talk\, I will present an in vitro hiPSC-CM-based platform to stu
+ dy the tissue-level properties of engineered human myocardium. I will illu
+ strate how this hiPSCCM- based platform can be used to investigate pathoge
+ nic mechanisms in the deadly\, exercise-triggered inherited arrhythmia cat
+ echolaminergic polymorphic ventricular tachycardia (CPVT). In addition\, I
+  will show how we combined this novel platform with genome editing and ide
+ ntified new therapeutic target for CPVT.\n\nLunch Provided at 1pm\nRSVP li
+ nk: https://forms.gle/5VV1PzeduPaUBEKg8\n\nBlueJeans: https://bluejeans.co
+ m/870397059\n\nLinks:\n[0]  http://hg.gatech.edu/node/628937#0
+LOCATION:Whitaker 1103 | 313 Ferst Drive\, Atlanta\, GA 30332.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ivan Allen College ‘Rejuvenation Station’ - A Holiday Pretzel 
@@ -32451,6 +31617,20 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Room 1116\, Klaus Advanced Computing Building
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:VGDev Campus Demo
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191120T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191121T010000Z
+UID:http://hg.gatech.edu/node/628915#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nExtras: Free Food\nStatus: published\n\nCome se
+ e videogames created by your fellow Tech colleagues! Free pizza for all wh
+ o participate!\n\n11/20 Klaus Atrium 6-8pm\n\nLinks:\n[0]  http://hg.gatec
+ h.edu/node/628915#0\n[1]  https://gatech.campuslabs.com/engage/event/51585
+ 51\n[2]  http://vgdev.com\n[3]  https://gatech.campuslabs.com/engage/organ
+ ization/vgdev
+LOCATION:Atrium\, Klaus Advanced Computing Building
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:EWH General Body Meeting (11/21)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191121T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191121T163000Z
@@ -32460,6 +31640,76 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nGeneral body meeting in
   FOOD so make sure to RVSP!\n\nLinks:\n[0]  https://gatech.campuslabs.com/
  engage/event/4966935
 LOCATION:Klaus 2456
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GVU Center Distinguished Alumni Brown Bag: Kathy Pham "Computing\,
+  Ethics and the Public Interest - What does this even mean?"
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191121T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191121T180000Z
+UID:http://hg.gatech.edu/node/629004#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nExtras: Free food\nStatus: review\n\nAbstract:\n
+ \nCome for a lively talk and discussion about computing\, ethics\, and the
+  public interest. The talk will range from ethics and responsibility in co
+ mputer science\, to honoring expertise across disciplines\, to applying co
+ mputer science and engineering skills to the civic and public sector. Geor
+ gia Tech and the College of Computing prepared Kathy Pham for broad impact
+  across large tech companies\, government\, and the public sector. This ta
+ lk will touch on opportunities for deep impact in society using our comput
+ ing skills\, and the many different ways a degree from Georgia Tech lays a
+  strong foundation for the impact. Kathy will pull from her experience at 
+ Google\, IBM\, and the White House\, and share observations from the curre
+ nt landscape of computing\, ethics\, and the public interest.\n\nSpeaker B
+ io:\n\nKathy Pham is a product leader\, computer scientist\, and founder w
+ ho has held roles in product management\, software engineering\, data scie
+ nce\, consulting\, and leadership in the private\, non-profit\, and public
+  sector. Her work has spanned Google\, IBM\, Harris Healthcare\, and the f
+ ederal government at the United States Digital Service at the White House\
+ , where she was a founding product and engineering member. She has founded
+  the Ethical Tech Collective\, Product and Society\, Women in Product Bost
+ on\, the Cancer Sidekick Foundation\, Team Curious\, and Unite for Sight S
+ outheast. Kathy focuses on product\, ethics\, responsibility\, and technol
+ ogy.\n\nAt the Harvard Kennedy School\, Kathy created and teaches Product 
+ Management and Society\, and launched Product and Society. Kathy is an Aff
+ iliate at the Harvard Berkman Klein Center where she leads the Ethical Tec
+ h working group\, and focuses on ethics in technology\, with an emphasis o
+ n engineering culture and computer science curricula. She is also a Fellow
+  at the Shorenstein Center\, faculty affiliate at the Center for Research 
+ on Computation and Society (CRCS) at Harvard\, faculty affiliate with Asse
+ mbly:Disinformation\, and Fellow at Mozilla partnering with Omidyar Networ
+ k where she co-leads the Responsible Computer Science Challenge. As a 2018
+  fellow of the MIT Media Lab and Harvard Assembly\, Kathy co-founded ai-in
+ -the-loop focused on community inclusion in the development of Artificial 
+ Intelligence.\n\nKathy has been recognized as First Lady Michelle Obama’
+ s Guest to the State of the Union Address\, a finalist in the StarCraft II
+  After Hours Gaming League\, an inductee of the Georgia Tech Greek Hall of
+  Fame\, and worldwide champion at the Imagine Cup Technology Competition.\
+ n\nKathy holds a Bachelor of Science and Master of Science in Computer Sci
+ ence from the Georgia Institute of Technology (Atlanta\, Georgia) and Supe
+ lec in (Metz\, France). When not traveling or teaching\, Kathy can be foun
+ d checking surf reports along the New England coast.\n\nSchedule of Brown 
+ Bag Speakers Fall 2019 [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/62900
+ 4#0\n[1]  https://www.gvu.gatech.edu/events/upcoming\n[2]  http://www.tsrb
+ .gatech.edu/
+LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
+ a\, Ga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reinventing the Toilet: A Conversation with Dr. Shannon Yee
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191121T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191121T233000Z
+UID:https://gatech.campuslabs.com/engage/event/5094757
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDr. Yee leads the Gener
+ ation 2 Reinvented Toilet (G2RT) program\, funded by the Bill & Melinda Ga
+ tes Foundation\, where a global team of scientists and engineers are takin
+ g a second look at reinventing the toilet to solve a global equity challen
+ ge. This project is tied to improved access to sanitation with the goal of
+  realizing a low-cost " Single-User Reinvented Toilet" solution. Come and 
+ learn how this large global team is approaching the problem through intern
+ ational collaboration bringing expert engineering to bear on a pressing gl
+ obal problem.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5
+ 094757
+LOCATION:Klaus Auditorium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Writing Learning Outcomes
@@ -32789,6 +32039,22 @@ LOCATION:Marcus Nanotechnology Building 1117-1118 | 345 Ferst Drive | Atla
  nta GA | 30332
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ML@GT NeurIPS Luncheon
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191211T174500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191211T191500Z
+UID:http://hg.gatech.edu/node/628957#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \nStatus: published\n\nNeurIPS is a great opportunity for the ML@GT family
+  to come together. We hope that you will join us for lunch on Wednesday\, 
+ December 11 for community\, collaboration\, and more. All ML@GT students\,
+  faculty\, and alumni are welcome.\n\nTAPshack Coal Harbour is walking dis
+ tance from the convention center.\n\nPlease RSVP no later than Tuesday\, D
+ ecember 3.\n\nWe look forward to seeing you at NeurIPS!\n\nLinks:\n[0]  ht
+ tp://hg.gatech.edu/node/628957#0
+LOCATION:TAPshack Coal Harbour - 1199 W. Cordova Street Vancouver\, Britis
+ h Columbia
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chat Over Chicken
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191212T163000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191212T173000Z
@@ -32801,6 +32067,32 @@ DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nNetwork
  g.gatech.edu/node/628039#0\n[1]  https://sdie.gatech.edu/women-ERG-upcomin
  g-events
 LOCATION:Ferst Place\, Student Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Petit Institute Holiday Party
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191212T213000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191212T233000Z
+UID:http://hg.gatech.edu/node/629044#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \nStatus: draft\n\nThe Parker H. Petit Institute for Bioengineering and Bi
+ oscience will hold its annual Holiday Party to celebrate another great yea
+ r of interdisciplinary and collaborative research!\n\nAbove & Beyond Facul
+ ty\, Student and Staff Awards to be given\, so take a break from your offi
+ ces and labs to come and celebrate the holiday season with the Petit Insti
+ tute community!\n\nThis event is open to all faculty\, staff\, research st
+ aff\, postdocs\, and graduate students of the Petit Institute.\n\nRSVP req
+ uired [1] [2] by December 5 (space limited)\n\nAND....please be sure to br
+ ing your donations for the Atlanta Community Food Bank and drop it off in 
+ one of the collection cans in the Petit Biotech Building atrium by Friday\
+ , Dec. 13!\n\nMOST NEEDED:\n\nWhole Grain Foods\nShelf-stable Milk\nDried 
+ or Canned Fruit\nLow-sodium Canned Vegetables\nLow-sodium Pasta Sauce (pla
+ stic containers only)\nPeanut Butter\nDried Peas\nDried Beans\nCanned Tuna
+ \, Salmon\, or Chicken\nCooking Oil\n100% Fruit or Vegetable Juice\n**no g
+ lass containers\n\nLinks:\n[0]  http://hg.gatech.edu/node/629044#0\n[1]  h
+ ttps://docs.google.com/forms/d/e/1FAIpQLSezMvnY0a_HFxLkaYXs76cGxZLkVWf0f_9
+ X-XrkUy9hnm3E4g/viewform\n[2]  http://www.petitinstitute.gatech.edu/petit-
+ holiday-party\n[3]  http://petitinstitute.gatech.edu/
+LOCATION:Parker H. Petit Institute for Bioengineering and Bioscience
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fall 2019 Dean's New Graduate Alumni Celebration
