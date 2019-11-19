@@ -2,134 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:GTIA Night Market
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181115T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181116T010000Z
-UID:http://hg.gatech.edu/node/613754#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nAn event hosted by the GT International Ambassa
- dors to celebrate culture and promote cultural diversity and inclusion on 
- campus. The event is a night market that showcases cultural food\, music\,
-  art\, and traditions through the collaboration of various cultural organi
- zations at Tech. The event is free to all students\, with free food repres
- enting many different international cuisines\, performances exhibiting cul
- tural traditions\, and exhibits showcasing student art.\n\nLinks:\n[0]  ht
- tp://hg.gatech.edu/node/613754#0
-LOCATION:Tech Walkway
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Writing Learning Outcomes
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181116T140000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181116T153000Z
-UID:http://hg.gatech.edu/node/609154#0
-DESCRIPTION:Intended audience: Graduate students\, Postdoc\nExtras: Free f
- ood\nStatus: published\n\nThe fall teaching workshop series includes four 
- workshops aimed at graduate students and postdoctoral scholars who are tea
- ching assistants and/or preparing for careers as faculty in higher educati
- on.\n\nGood teaching starts with the end goal in mind. What do you want st
- udents to know and be able to do by the end of the experience? This worksh
- op will help you express these goals and know how to use them in the desig
- n of instructional strategies.\n\nREGISTER [1]\n\nLinks:\n[0]  http://hg.g
- atech.edu/node/609154#0\n[1]  http://ctl.gatech.edu/grad-students/workshop
- s
-LOCATION:Student Center\, Crescent Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Measuring Learning
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181116T153000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181116T170000Z
-UID:http://hg.gatech.edu/node/609155#0
-DESCRIPTION:Intended audience: Graduate students\, Postdoc\nExtras: Free f
- ood\nStatus: published\n\nThe fall teaching workshop series includes four 
- workshops aimed at graduate students and postdoctoral scholars who are tea
- ching assistants and/or preparing for careers as faculty in higher educati
- on.\n\nThis workshop will introduce a variety of methods to evaluate stude
- nt learning. Participants will leave with skills to enable them to develop
-  and select appropriate assessments of student learning.\n\nREGISTER [1]\n
- \nLinks:\n[0]  http://hg.gatech.edu/node/609155#0\n[1]  http://ctl.gatech.
- edu/grad-students/workshops
-LOCATION:Student Center\, Crescent Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Biomechanics and Evolutionary Origins of Flight in Animals
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181116T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181116T170000Z
-UID:http://hg.gatech.edu/node/614011#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \nStatus: published\n\nSchool of Physics Soft Condensed Matter Seminar: Pr
- ofessor Robert Dudley\, University of California\, Berkeley\nWhat is the u
- se of half a wing? More generally\, how do novel structures and behaviors 
- evolve? Controlled aerial behaviors in ant workers and other insects of th
- e tropical rain forest canopy demonstrate directed gliding in the complete
-  absence of wings. Importantly\, tree-dwelling bristletails (the sister gr
- oup to the winged insects) also exhibit aerial righting responses and dire
- cted gliding while falling. Ontogenetic\, biomechanical\, paleontological\
- , and phylogenetic analyses suggest that controlled aerial behaviors prece
- ded the origin of wings in vertebrates as well\, indicating functional aer
- odynamics for only partially feathered structures and for rudimentary flap
- ping kinematics.\n\nUse of a robotic Archaeopteryx similarly demonstrates 
- biomechanical functionality of the intermediate winged condition\, consist
- ent with arboreal and gravitationally assisted origins of flight in all vo
- lant taxa. I will also present in this talk recent work on aerial maneuver
- ability in hummingbirds\, describing a variety of experimental perturbatio
- ns to elicit extreme examples of flight control (e.g.\, flight through ape
- rtures\, in heavy rain\, in high turbulence\, and at high elevations).\n\n
- Links:\n[0]  http://hg.gatech.edu/node/614011#0
-LOCATION:Pettit Microelectronics Building\, Conference Room 102 A&B
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SCS Seminar: Dana Randall
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181116T190000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181116T200000Z
-UID:http://hg.gatech.edu/node/614190#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nTITLE: Emergent Phenomena in Algorithms and Applications\n\nABSTRACT:\n\
- nHow do you control a set of asynchronous agents with limited computationa
- l ability and get them to perform a useful collective task? This and relat
- ed questions lie at the heart of programmable active matter and swarm robo
- tics. We will see how lessons learned from algorithms and physical systems
- \, such as phase transitions\, can be leveraged to force interesting colle
- ctive behaviors. We will also explore how phase transitions greatly affect
-  the efficiency of simple Markov chains used for sampling and yield insigh
- ts for problems from other fields\, such as particle systems\, colloids\, 
- and models of segregation.\n\nBIO:\n\nDana Randall is the co-executive dir
- ector of the Institute for Data Engineering and Science\, the ADVANCE Prof
- essor of Computing\, and an adjunct professor of mathematics at the Georgi
- a Institute of Technology. Randall received her A.B. in mathematics from H
- arvard and her Ph.D. in computer science from the University of California
-  at Berkeley. Her research in randomized algorithms and stochastic process
- es bridges computer science\, discrete mathematics\, and statistical physi
- cs.\n\nShe is a fellow of the American Mathematical Society (AMS) and a na
- tional associate of the National Academies\, as well as a former Sloan fel
- low and NSF CAREER award recipient. Randall has been the program chair for
-  the SIAM Symposium on Discrete Algorithms in 2011 and the SIAM Conference
-  on Discrete Mathematics in 2016\, and was previously director of the Algo
- rithms and Randomness Center at Georgia Tech.\n\nLinks:\n[0]  http://hg.ga
- tech.edu/node/614190#0
-LOCATION:KACB 1116W
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yoga for the Soul
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181117T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181117T030000Z
-UID:http://hg.gatech.edu/node/612509#5
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nWe at Bhakti Yoga Club at GeorgiaTech want to i
- mprove the quality of living of students and faculty by teaching them prin
- ciples for a stress-free\, happy and meaningful life. We offer free classe
- s on various forms of yoga and vegan cooking every Friday in the Student C
- enter from 7 to 10 PM! We start with some basic discussions on the theory\
- , do intense exercises followed by yoga practices\, and end with some good
-  music and a free vegan dinner.\n\nWe also provide access to youth counsel
- ors to help students improve their lives through yoga.\n\nLinks:\n[0]  htt
- p://hg.gatech.edu/node/612509#5\n[1]  https://chat.whatsapp.com/6R5qHrOFkD
- OBWVmxcmnpYw\n[2]  https://orgsync.com/167032/chapter\n[3]  https://www.fa
- cebook.com/BYCGT/
-LOCATION:Room 343\, 3rd Floor (next to the Student Ballroom)\, Student Cen
- ter
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Creating the Next Healthy Plate
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20181119T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20181119T170000Z
@@ -31323,6 +31195,19 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome join us for a nigh
 LOCATION:The Catholic Center at Georgia Tech
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last General Meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191118T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191119T000000Z
+UID:https://gatech.campuslabs.com/engage/event/5171580
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nHey Red Cross members! 
+ Join us for Trivia (Red Cross themed!) on Monday\, November 18th at 6pm in
+  Mason 1133! We will have snacks and also be announcing top point earners 
+ with a little prize! Be sure to attend! All members and prospective member
+ s welcome:)\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/517
+ 1580
+LOCATION:Mason Building\, Room 1133
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:S'more Fall Fun
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191118T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191119T010000Z
@@ -31378,6 +31263,17 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:AGSC\, 781 Marietta St. NW\, Suite 115\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Burns & McDonnell
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191119T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191119T170000Z
+UID:https://gatech.campuslabs.com/engage/event/5170805
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nImproving 
+ the end-user experience involves passenger experience improvements\; progr
+ essive infrastructure upgrades\; and the need for power islanding.\n\nLink
+ s:\n[0]  https://gatech.campuslabs.com/engage/event/5170805
+LOCATION:Mason Building - room 1133
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:IEW Flag Showcase
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191119T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191119T170000Z
@@ -31403,6 +31299,22 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  esent our cultural pride with the Georgia Tech community\n\nLinks:\n[0]  h
  ttp://hg.gatech.edu/node/629036#0\n[1]  http://iew.gatech.edu
 LOCATION:Tech Walkway
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch & Learn: Computer Science for Social Good
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191119T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191119T170000Z
+UID:http://hg.gatech.edu/node/629073#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nCome have lunch and chat with Ph.
+ D. students working in research at the intersections of computer science a
+ nd social good! You can learn more about what it’s like to research in t
+ heir specific fields as well ask more about what it takes to research for 
+ a graduate student. All majors are welcome\, and lunch is provided!\n\nLin
+ ks:\n[0]  http://hg.gatech.edu/node/629073#0\n[1]  https://gatech.campusla
+ bs.com/engage/event/5170825\n[2]  https://www.facebook.com/events/25591271
+ 40977182
+LOCATION:Room 170\, Skiles Building
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:French Day 2019
