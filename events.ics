@@ -2,260 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Creating the Next Healthy Plate
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181119T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181119T170000Z
-UID:http://hg.gatech.edu/node/610837#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nMeet with the Health Initiatitves dietitians to discuss how to make your
-  plate healthy on and off campus. The dietitians will be covering a variet
- y of topics this semester and rotate through different dining areas from 1
- 1-12pm each week.\n\nThis week\, the focus will be on the using the spices
-  of fall.\n\nLinks:\n[0]  http://hg.gatech.edu/node/610837#0\n[1]  http://
- healthinitiatives.gatech.edu/well-being/nutrition/outreach
-LOCATION:North Ave Dining Hall
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Putting the Thanks in Thanksgiving
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181119T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181119T180000Z
-UID:http://hg.gatech.edu/node/613456#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nExtras: Freebies\nStatus: published\n\nPutting 
- the Thanks in Thanksgiving is an annual event that RHA hosts every Novembe
- r. Participants can come by and visit the Campanile to write thank you not
- es\, enjoy hot chocolate and coffee\, and find out the real mystery to put
- ting the “thanks” in ‘Thanks’giving. Additionally\, several RHA Ha
- ll Councils will be present with numerous fall-themed activities (and snac
- ks). This is event is free and open to all students\, faculty\, and Georgi
- a Tech staff.\n\nIn the event of inclement weather\, our event will be hel
- d on the 3rd floor of the Student Center.\n\nPutting the Thanks in Thanksg
- iving iis an event for the Hall councils to host tables for one to two hou
- rs with games\, food\, and other fall-themed activities! Additionally\, RH
- A provides 500 thank-you notes for people to come by and write thanks to d
- ifferent family\, people across campus\, or whomever else they would like 
- to thank.\n\nLinks:\n[0]  http://hg.gatech.edu/node/613456#0\n[1]  http://
- hg.gatech.edu/node/613321#0\n[2]  http://hg.gatech.edu/node/613870#0\n[3] 
-  http://rha.gatech.edu\n[4]  https://orgsync.com/137521/events/2555686/occ
- urrences/6143902
-LOCATION:Kessler Campanile and Tech Walkway
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IDEaS Short Talks Presents Justin Romberg
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181119T190000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181119T193000Z
-UID:http://hg.gatech.edu/node/614092#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nIDEaS Short Talks and Networking Social “Solving (linear and nonlinear
- ) Systems of Equations using Convex Programming" by Justin Romberg Monday\
- , November 19\, 2018\nPart of One Short 30-MinuteTalks from 2-3 pm\nNetwor
- king Social from 3-3:30 pm\nTechnology Square Research Building (TSRB) Aud
- itorium (You are welcome to attend any part of these events as your schedu
- le permits.) IDEaS is running a series of short talks to learn about resea
- rch across the Georgia Tech campus. The presentations are from broadly dif
- ferent topics and accessible to those in other research areas. Come chat w
- ith colleagues and learn more about what’s new in Data Science! Justin R
- omberg Professor in the School of Electrical and Computer Engineer Georgia
-  Institute of Technology\n2:00 - 2:30 pm\n“Solving (linear and nonlinear
- ) Systems of Equations using Convex Programming"\n\nAbstract: Solving line
- ar systems of equations\, Ax=b\, is the most fundamental problem in applie
- d mathematics. Over the past 15 years\, our understanding of when and how 
- this linear inverse problem can be solved has evolved dramatically. In par
- ticular\, we know that under determined systems of equations can be solved
-  robustly if their solution is structured. How certain kinds of structure 
- helps in solving linear systems of equations is completely understood thro
- ugh convex programming: analysis of when systems have unique solutions and
-  robustness can be translated to simple geometrical concepts.\n\nThe geome
- trical concepts and analytical techniques used for finding structured solu
- tions to linear systems also give us insight into how and when nonlinear s
- ystems of equations can be solved. Solving these systems by minimizing a l
- oss function (what is called "empirical risk minimization" in machine lear
- ning)\, typically requires solving a nonconvex optimization program. We wi
- ll discuss a very general (and very natural) convex relaxation for solving
-  nonlinear systems both with and without structure.\n\nBio: Dr. Justin Rom
- berg is the Schlumberger Professor in the School of Electrical and Compute
- r Engineering at the Georgia Institute of Technology\, where he has been o
- n the faculty since 2006. Dr. Romberg received the B.S.E.E. (1997)\, M.S. 
- (1999) and Ph.D. (2004) degrees from Rice University in Houston\, Texas\; 
- in 2010\, he was named a Rice University Outstanding Young Engineering Alu
- mnus. From Fall 2003 until Fall 2006\, he was a Postdoctoral Scholar in Ap
- plied and Computational Mathematics at the California Institute of Technol
- ogy. He is currently on the editorial board for the SIAM Journal on the Ma
- thematics of Data Science\, and is a Fellow of the IEEE. His current resea
- rch interests lie at the intersection of statistical signal processing\, m
- achine learning\, optimization\, and applied probability.\n\nLinks:\n[0]  
- http://hg.gatech.edu/node/614092#0
-LOCATION:TSRB Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IDEaS Short Talks Presents Emanuele Di Lorenzo
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181119T193000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181119T200000Z
-UID:http://hg.gatech.edu/node/614241#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nIDEaS Short Talks and Networking Social ”Predicting How Social-Ecologi
- cal Systems Respond to Climate Forcing"” by Emanuele Di Lorenzo\nMonday\
- , November 19\, 2018\nPart of Two Short 30-MinuteTalks from 2-3 pm\nNetwor
- king Social from 3-3:30 pm\nTechnology Square Research Building (TSRB) Aud
- itorium (You are welcome to attend any part of these events as your schedu
- le permits.) IDEaS is running a series of short talks to learn about resea
- rch across the Georgia Tech campus. The presentations are from broadly dif
- ferent topics and accessible to those in other research areas. Come chat w
- ith colleagues and learn more about what’s new in Data Science! Emanuele
-  Di Lorenzo\nProfessor in the School of Earth & Atmospheric Sciences\nGeor
- gia Institute of Technology\n2:30 - 3:00 pm ”Predicting How Social-Ecolo
- gical Systems Respond to Climate Forcing" Abstract: Modeling and predictin
- g the response of social-ecological-environmental systems (SEES) to extern
- al perturbations like climate forcing is complex because of the assumption
-  that both climate and social-ecological dynamics are characterized by lar
- ge degrees of freedom\, and that relationships are highly non-linear. But 
- what if that was not true? What if we could develop models that keep track
-  only of the dominant underlying dynamics of the SEES? In the climate comm
- unity\, we are developing advanced model of the earth system that can reso
- lve environmental changes almost at the human scale (~10km) generating PB 
- of information. However\, the link between these earth system model and mo
- dels of the social-ecological dynamics are still an impossible challenge l
- imiting our ability to generate integrated understanding and to predict ho
- w SEES respond to climate forcing. This is not only due to the large dimen
- sionality of the social-ecological systems but also because of the uncerta
- inties that exist in defining the fundamental equation of the SEES dynamic
- s. Under the assumption that statistical data-driven models can potentiall
- y bridge the gap between climate\, ecological and social dynamics\, and po
- tentially extract low-dimensional relationship that capture most of the ev
- olution of a given SEES\, I will present a few case studies that I would l
- ike to explore with colleagues at Georgia Tech using novel approaches in d
- ata science.\n\nBio: Dr. Emanuele Di Lorenzo is Professor and Director of 
- the Program in Ocean Science and Engineering ( http://www.ocean.gatech.edu
-  [2] ) at the Georgia Institute of Technology in Atlanta\, USA. His resear
- ch interests are in the field of multi-scale climate and ocean dynamics (l
- arge-scale\, regional and coastal)\, climate impacts on marine ecosystems 
- and social-ecological systems. In his research\, Dr. Di Lorenzo attempts t
- o explain the dominant (e.g. low order) dynamics of the ocean and marine e
- cosystem variability and change by combining available observations with a
-  hierarchy of numerical models (e.g. dynamical and statistical) of ranging
-  complexity. Dr. Di Lorenzo also serves as the Vice-Chair of Science Board
-  for the North Pacific Marine Science Intergovernmental Organization (PICE
- S) and as Chair of their Physical Oceanography and Climate committee. He i
- s also co-chair of the US CLIVAR Phenomena\, Observations\, and Synthesis 
- Panel and a member of Future Earth Ocean Knowledge Network. Recently\, he 
- has led the new OceanVisions joint initiative between Georgia Tech\, Stanf
- ord\, Scripps and Smithsonian ( [3] ).\n\nLinks:\n[0]  http://hg.gatech.ed
- u/node/614241#0\n[1]  http://hg.gatech.edu/node/614093#0\n[2]  http://www.
- ocean.gatech.edu/\n[3]  http://www.oceanvisions.org/
-LOCATION:TSRB Auditorium\; 2:30pm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Materials Science and Engineering Seminar Series - Shane Ardo - Un
- iversity of California Irvine
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181119T203000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181119T220000Z
-UID:http://hg.gatech.edu/node/614188#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: published\n\nProtonic Solar Cells by Sens
- itization of Passive Ion-Selective Polymers with Photoacid Dyes\nShane Ard
- o\, Assistant Professor University of California Irvine\n\nAbstract:\n\nMo
- st electrochemical technologies that operate under ambient conditions requ
- ire ion-conducting polymer electrolytes. These polymers are passive in tha
- t electric bias drives ion migration in the thermodynamically favored dire
- ction. Recently\, my group engineered two important features into passive 
- ion-selective polymers to introduce the active function of photovoltaic ac
- tion and demonstration of an ionic solar cell. These features were covalen
- t bonding of photoacid dyes to the polymers such that absorption of visibl
- e light resulted in liberation of protons\, and synthesis of polymer membr
- anes with charge-selective contacts to facilitate separation and collectio
- n of H+ and OH–. Light excitation from either side of the polymer membra
- nes resulted in H+ dissociation followed by directional charge collection.
-  The charge collection direction was dictated by the electrostatic asymmet
- ry in the polymers\, which was formed due to an external pH difference set
- up across the membrane.\n\nJoining a monopolar cation-selective polymer to
-  a monopolar anion-selective polymer forms a bipolar membrane\, which mimi
- cs a rectifying semiconductor pn-junction diode in form and function\, and
-  is able to maintain pH differences across it. Using a photoacid-dye-modif
- ied bipolar membrane\, we measured a photovoltage of ~120 mV under conditi
- ons of solar-simulated excitation. In addition to more traditional electro
- chemical techniques\, insights into materials function were obtained using
-  finite-element numerical modeling of photoacid kinetics and membrane phys
- ics\; beam-line x-ray scattering measurements\; electrochemical impedance\
- , solid-state NMR\, and pulsed-laser spectroscopies\; and fluorescence\, e
- lectron\, and force microscopies. Collectively\, these photo-responsive po
- lymers represent a new class of functional materials that use light to tri
- gger changes in local ion concentration and electrostatic potential. These
-  local changes can be used to affect macroscopic processes such as direct 
- sunlight-driven redox chemistry or desalination of salt water\, chemical c
- atalysis\, and triggering of cellular processes.\n\nBiography:\n\nShane ob
- tained a B.S. Degree in Mathematics\, with a minor in Computer Programming
- \, from Towson University and subsequently worked as a software engineer\,
-  community college instructor\, and high school teacher prior to attending
-  graduate school. Shane obtained an M.S. Degree in Nutrition from the Univ
- ersity of Maryland\, College Park followed by M.A. and Ph.D. Degrees in Ph
- oto-Physical Inorganic Chemistry from the Johns Hopkins University\, where
-  he worked for Prof. Jerry Meyer. He then worked for Prof. Nate Lewis as a
-  DOE-EERE Postdoctoral Research Awardee at the California Institute of Tec
- hnology until 2013. Since that time\, Shane has been an Assistant Professo
- r at the University of California\, Irvine in the Department of Chemistry 
- and holds a joint appointment in the Department of Chemical Engineering an
- d Materials Science. He leads the Ardo Group for Molecular-Level Engineeri
- ng of Functional Materials\, which designs\, synthesizes\, and characteriz
- es molecule–materials hybrids and aims to understand and control reactio
- n mechanisms at asymmetric interfaces with the goal of optimizing energy c
- onversion for practical applications\, including solar seawater desalinati
- on\, solar fuels devices\, photovoltaics\, fuel cells\, and batteries. In 
- 2016\, Shane was named one of five inaugural Moore Inventor Fellows. He is
-  also a recipient of a DOE Early Career Research Award and a Beall Innovat
- ion Award\, and was named a Sloan Research Fellow\, a Cottrell Scholar\, a
-  Kavli Fellow\, and a Scialog Fellow. Shane has given over 100 invited tal
- ks\, including at the National Academy of Sciences Distinctive Voices Lect
- ure Series\, the 2017 Resnick Institute Young Investigators Symposium\, an
- d Apple’s Membrane R&D Division. His research group is also supported by
-  funding from the U.S. Department of Energy’s Office of Energy Efficienc
- y and Renewable Energy\, the U.S. National Science Foundation’s Chemical
-  Catalysis Program\, Nissan Chemical Industries Ltd.\, and collaborative p
- rojects funded by University of California MEXUS–CONACYT and Research Co
- rporation for Science Advancement.\n\nReception at 3:30 p.m. in the Georgi
- a Tech Manufacturing Institute Atrium\n\nArdo Research Group -- UC Irvine 
- [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/614188#0\n[1]  https://www.c
- hem.uci.edu/~ardo/\n[2]  https://goo.gl/maps/jTmeHVQ3jyu
-LOCATION:Georgia Tech Manufacturing Institute\, Auditorium and Atrium\, 81
- 3 Ferst Dr NW\, Atlanta\, GA 30332
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WST Learning Community Open House 11/19/18
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181119T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181119T233000Z
-UID:http://hg.gatech.edu/node/613875#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: published\n\nOPEN HOUSE & TOUR\, Monday\,
-  11/19/18\, Stein House/4th St. A Apartments\n\nThe Women\, Science\, and 
- Technology Learning Community (WST Lrn C)\, an innovative joint venture of
-  the Center for the Study of Women\, Science\, and Technology (WST Center)
- \, the Center for Academic Enrichment\, and the Georgia Tech Department of
-  Housing\, connects students and faculty. The WST Lrn C offers programs ad
- dressing research and professional issues for women students in any Georgi
- a Tech major\; the community includes 48 students living in Stein and Gold
- in Houses (4th St. Apartments A and B)\, who attend monthly dinners\, bi-w
- eekly lunches\, campus receptions\, and research panels. ALL Georgia Tech 
- students and WST Mentors are welcome to attend WST and WST Learning Commun
- ity events\; please RSVP to wst.lrn.c@gmail.com.\n\nLinks:\n[0]  http://hg
- .gatech.edu/node/613875#0
-LOCATION:Stein House/4th St. A Apartments\, Georgia Tech\, Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LBAT Paris-Nice Information Sessions
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181119T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181120T000000Z
-UID:http://hg.gatech.edu/node/612083#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: published\n\nCome find out how you can:\n
- \n- Cultivate a professional profile that will give you an edge on the job
-  market\n- Get a quick path to French minor earning up to 12 credits: 9 cr
- edits in Paris\, 3 credits in Nice\n\nLinks:\n[0]  http://hg.gatech.edu/no
- de/612083#0
-LOCATION:Swann 115
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ImmunoEngineering Research Days
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20181127T140000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20181127T180000Z
@@ -31391,6 +31137,16 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Swann Building
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:French Day
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191119T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191119T233000Z
+UID:https://gatech.campuslabs.com/engage/event/5174054
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\n[1]\n\nLin
+ ks:\n[0]  https://gatech.campuslabs.com/engage/event/5174054\n[1]  https:/
+ /modlangs.gatech.edu/events/item/628811/french
+LOCATION:Swann Building
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nutanix Tech Talk
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191119T233000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191120T010000Z
@@ -31554,6 +31310,18 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nGeneral body meeting in
 LOCATION:Klaus 2456
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:End of Semester Wrap Up
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191121T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191121T164500Z
+UID:https://gatech.campuslabs.com/engage/event/5173555
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome and join us for yu
+ mmy food and amazing company! This week is our last meeting of the semeste
+ r and will celebrate the end of the semester and write encouraging cards t
+ o friends for the upcoming finals week!\n\nLinks:\n[0]  https://gatech.cam
+ puslabs.com/engage/event/5173555
+LOCATION:Van Leer C340
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GVU Center Distinguished Alumni Brown Bag: Kathy Pham "Computing\,
   Ethics and the Public Interest - What does this even mean?"
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191121T163000Z
@@ -31678,6 +31446,20 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Student Center\, Room 320
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Global Holiday Fest 2019
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191122T213000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191122T233000Z
+UID:http://hg.gatech.edu/node/629142#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\, Freebies\nStatus: published\n\nPlease join us Fr
+ iday\, November 22nd\, from 4:30-6:30 p.m. as we celebrate traditions acro
+ ss all languages.\n\nAt this year's Global Holiday Fest\, we will have art
+ s and crafts\, live music from GT's Glee Club\, cuisine from our foreign l
+ anguage groups\, calligraphy classes\, a hot cocoa bar\, pretzel station\,
+  and a photo booth!\n\nLinks:\n[0]  http://hg.gatech.edu/node/629142#0
+LOCATION:Swann Building Atrium
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Yoga for the Soul
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191123T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191123T020000Z
@@ -31749,6 +31531,18 @@ DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\,
  :\n[0]  http://hg.gatech.edu/node/628711#0\n[1]  https://gatech.campuslabs
  .com/engage/event/5082339
 LOCATION:Campus Recreation Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Outreach and Collaboration Roundtable
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191125T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191126T000000Z
+UID:https://gatech.campuslabs.com/engage/event/5176344
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis event is for the S
+ tudent Government Association's (SGA) roundtable for honor societies! The 
+ Outreach and Collaboration Committee is hosting this roundtable to discuss
+  SGA's role and support collaboration between these organizations.\n\nLink
+ s:\n[0]  https://gatech.campuslabs.com/engage/event/5176344
+LOCATION:Scheller College of Business Room 221
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nano@Tech: Sally Ng - Chemical & Biomolecular Engineering
@@ -31965,6 +31759,18 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  tp://hg.gatech.edu/node/628957#0
 LOCATION:TAPshack Coal Harbour - 1199 W. Cordova Street Vancouver\, Britis
  h Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GTPD Holiday Safety Seminar
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191211T180000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191211T190000Z
+UID:http://hg.gatech.edu/node/629109#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
+ aduate students\nStatus: published\n\nAround the holidays we all need to t
+ ake more care with our personal\, family and home safety. Officer Jessica 
+ Howard will share safety and security tips for the holidays. Snacks will b
+ e served.\n\nLinks:\n[0]  http://hg.gatech.edu/node/629109#0
+LOCATION:Coda\, 14th floor Collaborative Core
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chat Over Chicken
