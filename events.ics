@@ -31690,6 +31690,31 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Student Center Theater
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Impact End-of-Year Expo
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191203T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191204T010000Z
+UID:https://gatech.campuslabs.com/engage/event/5190631
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThe Impact Living-Learn
+ ing Community is a unique community in the fact that we focus specifically
+  on social justice\, diversity\, and sustainability practices\, both on-ca
+ mpus and locally. With that\, the Impact Community students are exposed to
+  many different programs and events that focus on these themes as the year
+  continues. With a similar idea around the GT capstone design expo experie
+ nce for seniors\, our Impact Expo is a networking experience for students 
+ - giving them an opportunity to make a lasting first impression on potenti
+ al faculty\, staff\, and employees\, while some might walk away with an in
+ vitation to present or gain sponsorship or support from GT staff and facul
+ ty!\n\nThe Impact Expo is a way for students to create brand new initiativ
+ es that they haven't seen addressed yet on-campus or just a way to contrib
+ ute to their surrounding community in a cool and unique way. The goal of t
+ he project is to help with their skill development and prepare them for fu
+ ture research and job opportunities. We invite you to join on Tuesday\, De
+ cember 3rd from 6pm-8pm in the Ferst Center Lobby for the first annual Imp
+ act Community Expo! Food and snacks will be provided.\n\nLinks:\n[0]  http
+ s://gatech.campuslabs.com/engage/event/5190631
+LOCATION:Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Finding RESILIENCE During the Holidays
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191205T203000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191205T220000Z
