@@ -31673,6 +31673,20 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFood4Lives is a service
 LOCATION:Food4lives Kitchen
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Vedanta Study Circle Retreat
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191130T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191130T190000Z
+UID:https://gatech.campuslabs.com/engage/event/5190885
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for a retreat w
+ ith Swami Yogatmananda (minister and president of the Vedanta Society of P
+ rovidence) this Thanksgiving weekend. The retreat is at Vedanta Center Atl
+ anta (2331 Brockett Rd\, Tucker\, GA). Yogatmananda ji will talk about the
+  Vedantic teachings of Meister Eckhart (a prominent German thelogian and m
+ ystic). The talk will be followed by lunch at the center itself.\n\nLinks:
+ \n[0]  https://gatech.campuslabs.com/engage/event/5190885
+LOCATION:Vedanta Center Atlanta
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:A Conversation About Foreign Influence: Tools for Faculty and Rese
  archers
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191203T163000Z
@@ -31688,6 +31702,40 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
   form [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/629241#0\n[1]  https:/
  /gatech.co1.qualtrics.com/jfe/form/SV_019LiWcrxw7uJEN 
 LOCATION:Student Center Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ride Out in Style
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191203T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191203T200000Z
+UID:http://hg.gatech.edu/node/629310#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nCalling all graduating seniors! Come out to the
+  Clough Turnaround on Tuesday\, December 3rd from 12-3PM to have a final r
+ ide in the Reck before you graduate! You must be a graduating senior to pa
+ rticipate. Snacks and refreshments will be provided. Sign up to reserve yo
+ ur ride at [1]!\n\nWalk-ins will be accommodated only if there is space\, 
+ so reserve your spot ahead of time to guarantee a ride!\n\nLinks:\n[0]  ht
+ tp://hg.gatech.edu/node/629310#0\n[1]  http://bit.ly/RideOut19
+LOCATION:Clough Turnaround
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CREATE-X Idea to Prototype Showcase
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191203T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191204T000000Z
+UID:http://hg.gatech.edu/node/629364#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nCome see what you can make in Idea to Prototype\n\nYou’re invited to t
+ he CREATE-X Fall I2P Showcase\, where student teams present their inventio
+ ns.\n\nStudents like you worked on their prototypes during the Fall 2019 s
+ emester under the Idea to Prototype undergraduate research credit course a
+ nd received $500 to work on their projects.Prototypes range from medical d
+ evices to apps that help deaf and hard-of-hearing children to practice pro
+ nunciation.\n\nEnjoy mingling with your peers and hearing about their idea
+ s. Learn more about the I2P program and how to apply. We look forward to s
+ eeing you!\n\nLinks:\n[0]  http://hg.gatech.edu/node/629364#0\n[1]  https:
+ //create-x.activehosted.com/f/16
+LOCATION:Marcus Nanotechnology Building Atrium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Impact End-of-Year Expo
@@ -31713,6 +31761,19 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThe Impact Living-Learn
  act Community Expo! Food and snacks will be provided.\n\nLinks:\n[0]  http
  s://gatech.campuslabs.com/engage/event/5190631
 LOCATION:Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stressbuzzters at the Library
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191204T200000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191204T220000Z
+UID:http://hg.gatech.edu/node/629313#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nStatus: published\n\nAs always\, we'll have sna
+ cks\, drinks\, counseling and more in the Library during finals. This seme
+ ster\, it'll take place between 3 and 5 p.m. on the Grove level at the Bob
+ by Dodd entrance. Stop by and take a break!\n\nLinks:\n[0]  http://hg.gate
+ ch.edu/node/629313#0
+LOCATION:Georgia Tech Library: Crosland Tower Grove Level
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Finding RESILIENCE During the Holidays
