@@ -2,190 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:ImmunoEngineering Research Days
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181127T140000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181127T180000Z
-UID:http://hg.gatech.edu/node/612195#0
-DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nPresent
- ations will be made by Emory faculty with the purpose of learning what we 
- are working on with a view towards developing ideas and faculty teams for 
- submission of multi-investigator research proposals.\n\nThese research day
- s are open to Georgia Tech and Emory faculty doing research in ImmunoEngin
- eering.\n\nRSVP Required [1]\n\nPresenting Faculty:\nJohn Altman\, Ph.D.\n
- James Dahlman\, Ph.D.\nGreg Gibson\, Ph.D.\nEliver Ghosn\, Ph.D.\nKelly Go
- ldsmith\, M.D.\nCurtis Henry\, Ph.D.\nPaul Johnson\, M.D.\nGabe Kwong\, Ph
- .D.\nChris Porter\, M.D.\nMark Prausnitz\, Ph.D.\nKhalid Salaita\, Ph.D.\n
- Periasamy Selvaraj\, Ph.D.\nTrent Spencer\, Ph.D.\nTodd Sulchek\, Ph.D.\nJ
- ens Wrammert\, Ph.D.\nLevi Wood\, Ph.D.\n\nLunch provided.\n\nSponsored by
-  Georgia Tech's Center for ImmunoEngineering [2] and the Parker H. Petit I
- nstitute for Bioengineering and Bioscience [3].\n\nLinks:\n[0]  http://hg.
- gatech.edu/node/612195#0\n[1]  julia.babensee@bme.gatech.edu\n[2]  http://
- immunoengineering.gatech.edu/\n[3]  http://petitinstitute.gatech.edu/
-LOCATION:Parker H. Petit Institute for Bioengineering & Bioscience\, Sudda
- th Seminar Room 1128
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitch Workshop
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181127T154500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181127T170000Z
-UID:http://hg.gatech.edu/node/614041#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nLearn and practice the techniques and skills to
-  pitch successfully!\n\nThis event is held in collaboration with GT's Desi
- gn Bloc.\n\nLunch is provided!\n\nLinks:\n[0]  http://hg.gatech.edu/node/6
- 14041#0\n[1]  https://orgsync.com/175888/events/2562283/occurrences/615805
- 6
-LOCATION:Klaus 1116 W
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Climate Change\, Food Webs\, and New Theory in Ecology
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181127T155500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181127T165500Z
-UID:http://hg.gatech.edu/node/614452#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nBrian Silliman\, 
- Ph.D.\nNicholas School of the Environment\nDuke University Abstract Consum
- er–prey interactions form the foundation of food webs and are affected b
- y the physical environment. Over the past 15 years\, our work on food-web-
- physical stress interactions has overturned the bottom-up only paradigm of
-  coastal wetland ecology and served as a catalyst to advance theory on bio
- physical coupling. In ecology\, highly-cited foundational theories [e.g.\,
-  the environmental stress model (ESM)\, the stress–gradient hypothesis (
- SGH)\, and ecosystem resilience theory] assume increased physical stress d
- ampens top-down control of prey. In the large majority of our field studie
- s and in an extensive review of empirical studies\, however\, physical str
- ess either does not affect or amplifies consumer control. Additive and syn
- ergistic impacts of physical stress on consumer control appear more common
- \, for example\, for herbivory versus predation\, and for warm- versus col
- d-blooded consumers. We also found that climate-generated physical stress 
- can interact with spatial processes to generate powerful consumer fronts (
- e.g.\, of microbes\, urchins\, insects\, ungulates\, sea stars) that can d
- estroy whole ecosystems. I conceptualize a synergistic stress hypothesis a
- nd model that highlight how coupled intensification of physical stress and
-  enhanced consumer pressure can trigger increased occurrence of consumer f
- ronts and expand classical theories in ecology so that their assumption ab
- out physical stress–consumer control relationships can be inclusive of w
- hat primarily occurs in nature.\n\nLinks:\n[0]  http://hg.gatech.edu/node/
- 614452#0
-LOCATION:Room 1005\, Roger A. and Helen B. Krone Engineered Biosystems Bui
- lding (EBB)\, 950 Atlantic Dr NW\, Atlanta\, GA 30332
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Business\, Environment\, and Society Series speaker: Patrick Pitta
- luga\, Grubbly Farms
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181127T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181127T170000Z
-UID:http://hg.gatech.edu/node/613935#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nPlease join the Ray C. Anderson Center for Sust
- ainable Business in welcoming Patrick Pittaluga\, Cofounder of Grubbly Far
- ms and Tech Alum\, to talk about the challenges and perks of starting your
-  own Sustainable Business.\n\nPatrick Pittaluga is co-founder and COO of G
- rubbly Farms\, a startup producing sustainable insect-based animal feeds. 
- At Grubbly Farms\, Patrick overseas sales\, marketing\, finance\, and new 
- product development. Patrick started Grubbly Farms with cousin Sean Warner
-  while at Georgia Tech where is graduated from Schellar College of Busines
- s. Lunch will be provided.\n\nRSVP to Attend [1]\n\nLinks:\n[0]  http://hg
- .gatech.edu/node/613935#0\n[1]  https://docs.google.com/forms/d/e/1FAIpQLS
- dBdYsKUo_XqlUj72N4JFPK9NGcPh18yrkogoogtW5RNteA7A/viewform
-LOCATION:Scheller College of Business\, Room 311\, 800 West Peachtree St. 
- Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Provost Rafael Bras: Ethical Lessons In My Leadership Journey
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181127T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181127T170000Z
-UID:http://hg.gatech.edu/node/614614#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nExtras: Free food\nStatus: published\n\nPlease 
- join the Scheller College of Business at Georgia Tech and the Cecil B. Day
-  Program for Business Ethics for an exciting lecture from Dr. Rafael Bras\
- , as he presents Ethical Lessons In My Leadership Journey on Tuesday\, Nov
- ember 27 at 11:00 am in Room 316. Lunch will be provided to all registered
-  attendees.\n\nRegister here [1]\nRafael L. Bras is the provost and execut
- ive vice president for academic affairs at the Georgia Institute of Techno
- logy. Bras is a professor and the K. Harrison Brown Family Chair in the Sc
- hool of Civil and Environmental Engineering and the School of Earth and At
- mospheric Sciences. Bras was distinguished professor and dean of the Schoo
- l of Engineering at the University of California\, Irvine. For 32 years pr
- ior\, he was a professor at the Massachusetts Institute of Technology wher
- e he was Institute faculty chair\, head of the Civil and Environmental Eng
- ineering department\, and director of the Ralph M. Parsons Laboratory. He 
- has served as advisor to the National Science Foundation\, the National Re
- search Council and the NASA Advisory Committee\, among others.\n\nHe is a 
- member of the National Academy of Engineering and the Academy of Arts and 
- Sciences of Puerto Rico. His awards include the Hispanic Engineer National
-  Achievement Award Hall of Fame\, AGU Horton Medal\, NASA Public Service M
- edal\, and the Clarke Prize\, among others. He chaired a panel that superv
- ised the design and construction of a multibillion-dollar project to prote
- ct the city of Venice from floods. He has published two textbooks\, more t
- han 225 refereed journal publications\, and several hundred other publicat
- ions.\n\n"The Cecil B. Day Program in Business Ethics supports initiatives
-  and activities that instill in all a desire to act with honor\, character
- \, and integrity\, as well as the skills to make good ethical decisions\,"
-  says Professor Steve Salbu\, holder of the Cecil B. Day Chair in Business
-  Ethics. "Our goal is to develop the highest ethical standards in our comm
- unity\, both through the curriculum and through various kinds of extracurr
- icular offerings\, which will be introduced in succession over the first c
- ouple of years of the program."\n\nLinks:\n[0]  http://hg.gatech.edu/node/
- 614614#0\n[1]  https://www.scheller.gatech.edu/news-events/events/event.ht
- ml?event_id=f9374b830a1504477a93a59348da21ac
-LOCATION:Room 316\, Executive Education Suite\, Scheller College of Busine
- ss
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nano@Tech: Hybrid Material and Device Platforms for Reconfigurable
-  Integrated Nanophotonics
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181127T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181127T180000Z
-UID:http://hg.gatech.edu/node/606837#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nProf. Ali Adibi\nJoseph M. Pettit Chair and Professor of Electrical Engi
- neering\nDirector\, Center for Bio and Environmental Sensing Technologies 
- (BEST)\,\nSchool of Electrical and Computer Engineering\nGeorgia Institute
-  of Technology\n\nAbstract: The development of ultra-compact integrated na
- nophotonic structures for communications\, sensing\, and signal processing
-  has been of great interest lately. Recent progress in the development of 
- miniaturized high-Q microresonators has resulted in orders of magnitude re
- duction in the size of functional integrated photonic structures. The poss
- ibility of low-power tuning of the resonance features in these structures 
- has made the formation of reconfigurable photonic structures possible.\n\n
- Among existing CMOS-compatible substrates\, silicon (Si) and silicon nitri
- de (SiN) have been used the most. Despite impressive progress in Si-based 
- and SiN-based integrated photonics\, neither substrate alone can be used f
- or practical applications. Si (despite its good reconfigurability) suffers
-  from strong nonlinear effects (especially at high light intensities) and 
- relatively large free-carrier loss while SiN (with one order of magnitude 
- lower loss and lower nonlinearity compared to Si) is very hard to tune. Th
- us\, a reliable material system that combines ultra-loss-loss and high pow
- er handling with efficient and fast reconfigurability is of high demand in
-  integrated nanophotonics.\n\nIn this talk\, the recent achievements in th
- e development and optimization of hybrid multi-layer CMOS-compatible mater
- ial systems (e.g.\, SiN/Si\, multi-layer Si/SiO2\, etc.) to address all th
- e practical requirements of ultra-fast and ultra-compact integrated photon
- ic structures will be discussed. Using these hybrid material systems\, a s
- eries of ultra-compact and high-performance reconfigurable photonic device
- s and subsystems that are formed by using high Q resonators will be demons
- trated. The use of these devices and subsystems for realization of densely
- -integrated reconfigurable photonic chips for signal processing and sensin
- g applications will be discussed.\n\nBio: Ali Adibi is the director of Bio
-  and Environmental Sensing Technologies (BEST) and a professor and Joseph 
- M. Pettit chair in the School of Electrical and Computer Engineering\, Geo
- rgia Institute of Technology. His research group has pioneered several str
- uctures in the field of integrated nanophotonics for both information proc
- essing and sensing. He is the author of more than 150 journal papers and 4
- 00 conference papers. He is the editor-in-chief of the Journal of Nanophot
- onics\, and the nanophotonic program track chair of the Photonics West mee
- ting. He is the recipient of several awards including Presidential Early C
- areer Award for Scientists and Engineers\, Packard Fellowship\, NSF CAREER
-  Award\, and the SPIE Technology Achievement Award. He is also a fellow of
-  OSA\, SPIE\, and AAAS.\n\nLinks:\n[0]  http://hg.gatech.edu/node/606837#0
- \n[1]  http://ien.gatech.edu
-LOCATION:Marcus Nanotechnology Building 1117-1118 | 345 Ferst Drive | Atla
- nta GA | 30332
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neuroprostheses to Promote Communications Between the Nervous and 
  Musculoskeletal Systems
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20181128T170000Z
@@ -31763,6 +31579,41 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThe Impact Living-Learn
 LOCATION:Ferst Center for the Arts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Impact Expo
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191203T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191204T010000Z
+UID:http://hg.gatech.edu/node/629400#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nThe Impact Living-Learning Community is a unique community in the fact t
+ hat we focus specifically on social justice\, diversity\, and sustainabili
+ ty practices\, both on-campus and locally. With that\, the Impact Communit
+ y students are exposed to many different programs and events that focus on
+  these themes as the year continues. With a similar idea around the GT cap
+ stone design expo experience for seniors\, our Impact Expo is a networking
+  experience for students - giving them an opportunity to make a lasting fi
+ rst impression on potential faculty\, staff\, and employees\, while some m
+ ight walk away with an invitation to present or gain sponsorship or suppor
+ t from GT staff and faculty!\n\nThe Impact Expo is a way for students to c
+ reate brand new initiatives that they haven't seen addressed yet on-campus
+  or just a way to contribute to their surrounding community in a cool and 
+ unique way. The goal of the project is to help with their skill developmen
+ t and prepare them for future research and job opportunities. We invite yo
+ u to join on Tuesday\, December 3rd from 6pm-8pm in the Ferst Center Lobby
+  for the first annual Impact Community Expo! Food and snacks will be provi
+ ded.\n\nLinks:\n[0]  http://hg.gatech.edu/node/629400#0
+LOCATION:Ferst Center Lobby\, Georgia Tech\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grad Pathways to Success: Finals Week Refresher
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191204T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191204T190000Z
+UID:http://hg.gatech.edu/node/629433#0
+DESCRIPTION:Intended audience: Graduate students\nExtras: Free food\nStatu
+ s: published\n\nLinks:\n[0]  http://hg.gatech.edu/node/629433#0
+LOCATION:Graduate Student Space in Crosland Tower
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Stressbuzzters at the Library
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191204T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191204T220000Z
@@ -32112,6 +31963,41 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFood4Lives is a service
 LOCATION:Food4lives Kitchen
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Clone of Open house to tour WST Learning Community
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200107T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200107T230000Z
+UID:http://hg.gatech.edu/node/629393#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nAll interested women undergraduat
+ e and graduate students are invited to tour the Women\, Science\, and Tech
+ nology Learning Community (WST Lrn C) because vacant rooms are anticipated
+  in spring 2020 and recruitment for 2020-2021 residency will begin in Janu
+ ary.\n\nCurrent residents and WST team members will be available to answer
+  questions. Learn about WST initiatives\, including dinners with faculty/s
+ taff\, career workshops\, faculty mentoring\, undergraduate research.\n\nW
+ ST Lrn C accommodations in Goldin House and Stein House (STN)\, a WST (Wom
+ en\, Science\, and Technology) apartment\, offer two private bedrooms that
+  share a full bathroom in each apartment. All residents of the two buildin
+ gs share two lounges\, study areas\, and kitchens on the first floor.\n\nL
+ inks:\n[0]  http://hg.gatech.edu/node/629393#0
+LOCATION:Stein House/4th St. A\, 733 Techwood\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Women\, Science\, and Technology Learning Community Open House
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200107T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200107T230000Z
+UID:https://gatech.campuslabs.com/engage/event/5193697
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAll interested women un
+ dergraduate and graduate students are invited to tour the Women\, Science\
+ , and Technology Learning Community (WST Lrn C) because vacant rooms are a
+ nticipated in spring 2020 and recruitment for 2020-2021 residency will beg
+ in in January. Current residents and WST team members will be available to
+  answer questions.\n\nApplications will be available on Engage and at wst.
+ gatech.edu.\n\nContact carol.colatrella@lmc.gatech.edu for more informatio
+ n.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5193697
+LOCATION:Stein House/4th St. A Apts\, 733 Techwood Drive\, Atlanta
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Society of Women Engineers General Body Meeting
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200107T221500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200108T000000Z
@@ -32231,6 +32117,80 @@ LOCATION:GTMI 1st floor auditorium OR ISyE Main Building\, 2nd Floor Atriu
  m (to be confirmed 30 days out)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Clone of Clone of Open house to tour WST Learning Community
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200115T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200115T230000Z
+UID:http://hg.gatech.edu/node/629394#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nAll interested women undergraduat
+ e and graduate students are invited to tour the Women\, Science\, and Tech
+ nology Learning Community (WST Lrn C) because vacant rooms are anticipated
+  in spring 2020 and recruitment for 2020-2021 residency will begin in Janu
+ ary.\n\nCurrent residents and WST team members will be available to answer
+  questions. Learn about WST initiatives\, including dinners with faculty/s
+ taff\, career workshops\, faculty mentoring\, undergraduate research.\n\nW
+ ST Lrn C accommodations in Goldin House and Stein House (STN)\, a WST (Wom
+ en\, Science\, and Technology) apartment\, offer two private bedrooms that
+  share a full bathroom in each apartment. All residents of the two buildin
+ gs share two lounges\, study areas\, and kitchens on the first floor.\n\nL
+ inks:\n[0]  http://hg.gatech.edu/node/629394#0
+LOCATION:Stein House/4th St. A\, 733 Techwood\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Women\, Science\, and Technology Learning Community Open House
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200115T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200115T230000Z
+UID:https://gatech.campuslabs.com/engage/event/5193698
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAll interested women un
+ dergraduate and graduate students are invited to tour the Women\, Science\
+ , and Technology Learning Community (WST Lrn C) because vacant rooms are a
+ nticipated in spring 2020 and recruitment for 2020-2021 residency will beg
+ in in January. Current residents and WST team members will be available to
+  answer questions.\n\nApplications will be available on Engage and at wst.
+ gatech.edu.\n\nContact carol.colatrella@lmc.gatech.edu for more informatio
+ n.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5193698
+LOCATION:Stein House/4th St. A Apts.\, 733 Techwood Drive\, Atlanta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Undergraduate Public Health Association dinner discussion
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200116T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200116T233000Z
+UID:http://hg.gatech.edu/node/629397#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nThe executive officers of the Und
+ ergraduate Public Health Association\, including WST Learning Community re
+ sident Ashley Thomas\, will share the organization's initiatives over dinn
+ er.\n\nThe Undergraduate Public Health Association aims to bring together 
+ students who have a common interest in a career in public health\, allowin
+ g them to explore the field through professional development opportunities
+ \,community service events\, and guest lecture series.\n\nLinks:\n[0]  htt
+ p://hg.gatech.edu/node/629397#0
+LOCATION:Stein House/4th St. A Apts.\, 733 Techwood Dr.\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MLK Campuswide Student Celebration
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200117T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200117T020000Z
+UID:http://hg.gatech.edu/node/629421#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\, Freebies\nStatus: 
+ published\n\nThe commemoration of the life and work of Martin Luther King 
+ Jr. at the Georgia Institute of Technology encompasses an ambitious slate 
+ of events organized by faculty\, staff\, and students. Our 2020 MLK celebr
+ ations will include various educational programs and service opportunities
+  to encourage active participation from the campus and nearby community.\n
+ \nAs an academic institution dedicated to advancing a culture of inclusive
+  excellence\, we reflect upon the contributions of Martin Luther King Jr. 
+ during our annual celebration. We recognize the ongoing global struggle fo
+ r social justice\, social courage\, and the need for sustainable social ch
+ ange. We are pleased to honor King's legacy as we set the agenda for the n
+ ext civil rights movement.\n\nThis celebration will feature student speech
+ es\, cultural performances\, and a candle-lighting ceremony for student or
+ ganizations. Reception to follow.\n\nLinks:\n[0]  http://hg.gatech.edu/nod
+ e/629421#0
+LOCATION:Georgia Tech Student Center\, Ballroom
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Focus/Graduate Studies Open House
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200117T124500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200117T180000Z
@@ -32289,6 +32249,54 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MLK “Sunday” Supper: A Community Meal and Conversation
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200123T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200124T010000Z
+UID:http://hg.gatech.edu/node/629425#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\, Freebies\nStatus: 
+ published\n\nThe Georgia Tech community is invited to come together over a
+  meal to discuss the 2020 MLK celebration events\, King’s legacy\, and m
+ ore. There are 100 spaces available.\n\nRSVP: [1]\n\nLinks:\n[0]  http://h
+ g.gatech.edu/node/629425#0\n[1]  http://engage.gatech.edu/
+LOCATION:Bill Moore Student Success Center\, President's Suites A-D
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dinner discussion with Dr. Pinar Keskinocak & Dr. Dawn Strickland
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200127T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200128T003000Z
+UID:http://hg.gatech.edu/node/629398#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nDr. Pinar Keskinocak & Dr. Dawn S
+ trickland of ISYE will share their career histories and strategies and wil
+ l engage in conversation over dinner with WST Learning Community residents
+ .\n\nPinar Keskinocak is the William W. George Chair and Professor in the 
+ School of Industrial and Systems Engineering and the co-founder and Direct
+ or of the Center for Health and Humanitarian Systems [1] at Georgia Instit
+ ute of Technology. She also serves as the College of Engineering ADVANCE P
+ rofessor at Georgia Tech.\n\nHer research focuses on applications of opera
+ tions research and management science with societal impact (particularly h
+ ealth and humanitarian applications)\, supply chain management\, pricing a
+ nd revenue management\, and logistics/transportation. She has worked on pr
+ ojects in several industries including automotive\, semiconductor\, paper 
+ manufacturing\, printing\, healthcare\, hotels\, and airlines. Her researc
+ h has been published in journals such as Operations Research\, Management 
+ Science\, Manufacturing & Service Operations Management\, Production and O
+ perations Management\, IIE Transactions\, Naval Research Logistics\, and I
+ nterfaces.\n\nDawn Strickland is the Director of Student Services and inst
+ ructor in the Stewart School of Industrial and Systems Engineering at Geor
+ gia Tech.\n\nDr. Strickland’s primary responsibilities focus on academic
+  advising for our ISyE undergraduate students. She also works with ISyE st
+ udent organizations\, industry representatives\, the Mission Possible summ
+ er camp\, our ISyE GT 1000 seminars\, and teaches one class per semester. 
+ Her office is in the Academic Office area on the 2nd floor of Groseclose.\
+ n\nPreviously\, Strickland served as the assistant dean of Graduate Studen
+ t Services and Postdoctoral Affairs for the Columbia University School of 
+ Engineering and Applied Science in New York City.\n\nLinks:\n[0]  http://h
+ g.gatech.edu/node/629398#0\n[1]  http://chhs.gatech.edu/
+LOCATION:Stein House/4th St. A Apts\, 733 Techwood\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Society of Women Engineers General Body Meeting
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200128T221500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200129T000000Z
@@ -32331,6 +32339,35 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  sident@gmail.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/624549#14\n
  [1]  swepresident@gmail.com\n[2]  https://www.facebook.com/GeorgiaTechSWE/
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Career advice: resumes\, elevator pitches & more with Michael Laug
+ hter
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200210T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200211T003000Z
+UID:http://hg.gatech.edu/node/629399#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nEnjoy dinner and career advice\, including disc
+ ussion of resumes\, elevator pitches\, and more with Michael Laughter of t
+ he Center for Career Discovery and Development (C2D2). Get prepared for jo
+ b searches and for seeking internships.\n\nMichael Laughter is the Educati
+ onal and Outreach Communications Manager in the Center for Career Discover
+ y and Development. He has an MA in Technical and Expository Writing from t
+ he University of Arkansas [1] and an MFA in poetry from the University of 
+ New Orleans [2].\n\nHe began at Georgia Tech in 2001\, teaching technical 
+ communications in the School of Literature\, Communication\, and Culture [
+ 3]\, and later\, in Electrical and Computer Engineering [4]\, where he tau
+ ght the communications components to junior-level labs and senior design. 
+ At every level of instruction at Tech\, he incorporated career preparation
+ \, work shopping resume and cover-letter crafting\, as well as interview t
+ ips\, and targeting job openings based on an acquired skill or skill sets.
+  Laughter authored the chapters in the GT 1000 freshman introduction class
+  textbook on resume and cover letter-crafting\, and has served as guest le
+ cturer in numerous departments across campus on all aspects of career acqu
+ isition and preparation.\n\nLinks:\n[0]  http://hg.gatech.edu/node/629399#
+ 0\n[1]  http://www.uark.edu/\n[2]  http://www.uno.edu/\n[3]  http://www.lc
+ c.gatech.edu/\n[4]  https://www.ece.gatech.edu/
+LOCATION:Stein House/4th St. Apts. A\, 733 Techwood Drive\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Society of Women Engineers General Body Meeting
