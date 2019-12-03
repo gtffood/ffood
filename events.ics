@@ -31215,6 +31215,23 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Marcus Nanotechnology Building Atrium
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Idea 2 Prototype Showcase
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191203T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191204T000000Z
+UID:https://gatech.campuslabs.com/engage/event/5197126
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nYou’re invited to the
+  CREATE-X Fall I2P Showcase\, where student teams present their inventions
+ .\n\nStudents like you worked on their prototype s during the Fall 2 019 s
+ emester under the Idea to Prototype undergraduate research credit course a
+ nd received $500 to work on their projects. Prototype s range from medical
+  devices to apps that help deaf and hard-of-hearing children to practice p
+ ronunciation.\n\nEnjoy mingling with your peers and hearing about their id
+ ea s. Learn more about the I2P program and how to apply. We look forward t
+ o seeing you!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5
+ 197126
+LOCATION:Marcus Nanotechnology Building Atrium
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Impact End-of-Year Expo
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191203T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191204T010000Z
@@ -31340,6 +31357,57 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFood4Lives is a service
  t salad\nGranola & Milk\nPancakes\n\nLinks:\n[0]  https://gatech.campuslab
  s.com/engage/event/5053238
 LOCATION:Food4lives Kitchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Midnight Breakfast: Summer in Winter
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191210T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191210T050000Z
+UID:https://gatech.campuslabs.com/engage/event/5197139
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nMidnight Breakfast\n\nS
+ ummer never has to end\, even in December! Georgia Tech’s favorite biann
+ ual campus tradition\, Midnight Breakfast\, is back on Monday\, December 9
+ th: Midnight Breakfast: Summer in Winter\n\nCome take a break from finals 
+ studying and de-stress with great activities such as free massages\, thera
+ py dogs\, crafts\, games\, and more at the Student Center! After stopping 
+ by the Relaxation Fest on the third floor from 7-10pm\, get some free brea
+ kfast for dinner served by Georgia Tech faculty and staff on the second fl
+ oor food court from 9pm-12am!\n\nStudents must present their Buzzcard for 
+ admittance to this event. To avoid overcrowding\, please reserve a time sl
+ ot. [1]\n\nThis event is made possible by the Parents Fund for Student Lif
+ e & Leadership\, the Student Center Programs Council\, and Campus Services
+  BuzzFunds.\n\nFor questions or accommodations\, please email ramblin@scpc
+ .gatech.edu\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/519
+ 7139\n[1]  https://gatech.universitytickets.com/w/
+LOCATION:Student Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Midnight Breakfast: Summer in Winter
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191210T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191210T050000Z
+UID:http://hg.gatech.edu/node/629465#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatech.edu
+ /node/629465#0
+LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winter Urban Honey Bee Open House
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191210T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191210T180000Z
+UID:http://hg.gatech.edu/node/629565#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nThe Georgia Tech 
+ Urban Honey Bee project will be celebrating the end of the semester and sh
+ owcasing student projects (and new digs) on Tuesday\, December 10 from 11a
+ m-1pm in room 280 of the Kendeda Building for Innovative Sustainable Desig
+ n.\n\nPlease drop in for snacks\, tours\, and to browse student posters.\n
+ \nA limited number of holiday gift bags will also be available for purchas
+ e for $15 and support the urban honey bee project. Bags include a small ja
+ r of honey\, beeswax lip balm\, and a "slumgum" firestarter for all your w
+ inter campfire and fireplace needs.\n\nHope to see you there!\n\nLinks:\n[
+ 0]  http://hg.gatech.edu/node/629565#0
+LOCATION:Kendeda Building\, Room 280\, 422 Ferst Dr NW\, Atlanta\, GA 3031
+ 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nano@Tech: Ben Yang - Electro-Optical Systems Lab\, Georgia Tech R
