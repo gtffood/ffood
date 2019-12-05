@@ -2,39 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:HSOC Undergraduate Research Symposium
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181203T140000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181203T170000Z
-UID:http://hg.gatech.edu/node/614325#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nExtras: Free food\nStatus: published\n\nNow in 
- its fifth year\, the HSOC Undergraduate Research Symposium is an opportuni
- ty for students in our capstone seminars and those doing independent under
- graduate research with a faculty mentor to present that work to an audienc
- e.\n\nOn Monday\, December 3\, 2018 the symposium will be held from 9:00 A
- M - 12:00 PM In the Stephen C. Hall Building\, room 102. Come to hear fasc
- inating research presentations on a variety of topics.\n\nYOU CAN VIEW THE
-  FULL SCHEDULE AND RSVP ONLINE! [1] We look forward to seeing you there!\n
- \nLinks:\n[0]  http://hg.gatech.edu/node/614325#0\n[1]  https://hsoc.gatec
- h.edu/undergrad_symposium
-LOCATION:Stephen C. Hall Building\, room 102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Creating the Next Healthy Plate
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181203T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181203T170000Z
-UID:http://hg.gatech.edu/node/610839#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nMeet with the Health Initiatitves dietitians to discuss how to make your
-  plate healthy on and off campus. The dietitians will be covering a variet
- y of topics this semester and rotate through different dining areas from 1
- 1-12pm each week.\n\nThis week\, the focus will be on the using the spices
-  of fall.\n\nLinks:\n[0]  http://hg.gatech.edu/node/610839#0\n[1]  http://
- healthinitiatives.gatech.edu/well-being/nutrition/outreach
-LOCATION:Student Center Healthy Space
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Emerging Leaders: Brighten GT
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20181205T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20181205T020000Z
@@ -31305,6 +31272,40 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Georgia Tech Library: Crosland Tower Grove Level
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Office Party
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191204T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191205T000000Z
+UID:https://gatech.campuslabs.com/engage/event/5211091
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nFolks\, it
+ 's getting to be about that time.\nAnd by about that time\, I mean Finals 
+ Szn.\nGasp!\n\nBut fear not!\nWe're here for you\, and we've arranged the 
+ perfect study break for you (yes\, you!) on reading day\, Dec. 4th\, from 
+ 5-7pm in Tech Rec.\nWe will be showing episodes of The Office (the US vers
+ ion\, not UK. We're not monsters.)\, hosting Office Olympic games and shen
+ anigans\, and offering free bowling and Auntie Anne's pretzels (Stanley wo
+ uld be delighted).\n\nCome out and have a blast! We promise there won't be
+  any fire safety tests. See you there!\n\nLinks:\n[0]  https://gatech.camp
+ uslabs.com/engage/event/5211091
+LOCATION:Tech Rec (in the Student Center)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OMED 12-Hour Study Hall
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191205T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191205T120000Z
+UID:http://hg.gatech.edu/node/629668#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\, Freebies\nStatus: published\n\nOMED will be hosting i
+ ts third annual 12-hour study hall\, Wednesday\, December 4\, 7:00 p.m.\, 
+ through Thursday\, December 5\, 7:00 a.m. in the Chapin Building. During t
+ his study hall\, students will be able to prepare for finals\, enjoy a saf
+ e space to study (in groups or individually)\, have access to tutors\, and
+  enjoy warm catered food for dinner and breakfast.\n\nStudents\, please be
+  sure to join us as you prepare for your final exams. All students are wel
+ come! (No registration is required for this event.)\n\nLinks:\n[0]  http:/
+ /hg.gatech.edu/node/629668#0\n[1]  http://omed.gatech.edu
+LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Finding RESILIENCE During the Holidays
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191205T203000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191205T220000Z
@@ -31321,6 +31322,68 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Postdoc\nExtras: Free food\
  ays treats will be provided!\n\nRSVP: [1].\n\nLinks:\n[0]  http://hg.gatec
  h.edu/node/628775#0\n[1]  https://www.surveymonkey.com/r/26LWFRT
 LOCATION:Student Center Piedmont Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OSA Guest Lecture: Micron-scale 3D Meta-atoms\, Meta-molecules\, a
+ nd Meta-films
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20191206T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20191206T180000Z
+UID:http://hg.gatech.edu/node/629592#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nDr. David Bruce Burckel: Sandia National Laboratories\nAbstract: Bulk op
+ tical materials like glasses and semiconductors (for infrared appli-cation
+ s) have continuous translational symmetry on the scale of the design wavel
+ ength\, and hence support a continuum of allowed modes with frequency depe
+ ndent optical constants dictated by the material dispersion relationship. 
+ Much of the recent progress in optical materials has been driven by period
+ ic structuring of materials on finer and finer scales relative to the desi
+ gn wave-length. Recently metasurface optics employing planar plasmonic str
+ uctures ar-rayed in a two-dimensional (2D) array to affect beam steering a
+ nd lensing were reported. Subsequent analysis of the physical mechanisms a
+ t play revealed that such a planar system has a maximum theoretical effici
+ ency of 25%. The analysis further showed that by enabling current flow in 
+ the third dimension\, the direction of travel through the lens\, this rest
+ riction could be lifted.\n\nIn this seminar\, I will discuss our recent wo
+ rk on fabrication and characterization of 3D meta-films\, suspended struct
+ ures with sub-wavelength structuring along all three dimensions and a tota
+ l thickness of < 4-μm. The struc-tures are fabricated on ~ 1-μm thick si
+ licon nitride membranes using a new CMOS compatible membrane pro-jection l
+ ithography (MPL) approach. Elimination of the bulk substrate allows us to 
+ collect almost all the transmit-ted and reflected light from the sample an
+ d simplifies modeling and design. The response of these 3D meta-films poss
+ esses features characteristic of the metallic meta-atoms as well as slab p
+ hotonic crystal resonances resulting from the periodic unit cell array\, t
+ he nitride walls and support membrane. I will outline the fabrication sequ
+ ence and present measured infrared transmission characterization of 3D uni
+ t cells with vertically oriented elliptical plasmonic inclusions in the un
+ it cell. Furthermore\, we demonstrate control over the coupling between th
+ e plasmonic modes of the metallic inclusion and photonic crystal slab mode
+ s of the support matrix by adjusting the dimensions of the inclusions. The
+  ability to control the coupling between the unit cell decoration and the 
+ unit cell matrix while also allowing for current flow in all three dimensi
+ ons offers a powerful new design element for next generation optical eleme
+ nts.\n\nBio: Bruce Burckel received his BS in Electrical Engineering from 
+ the University of New Mexico in 1993\, at which point he was evenly split 
+ between attending graduate school\, medical school or law school. Graduate
+  school won out\, probably costing him millions of dollars in lifetime ear
+ nings\, but he is only mildly bitter about this. He received his MS (1995 
+ – optical non-contact temperature measurement) and PhD (2004 – general
+ ized transverse Bragg waveguiding) also from the University of New Mexico\
+ , separated by a stint contemplating a software start-up\, studying contro
+ l system theory\, designing space-based relay mirror telescopes and studyi
+ ng atmospheric propagation for high power laser applications. Although his
+  PhD was centered on photonic applications of interferometric lithography 
+ at the micro and nano-scale\, he secured a Post-Doctoral position in an in
+ organic chemistry lab studying self-assembled nanocomposite coatings. He i
+ s currently a Principal Member of the Technical Staff at Sandia National L
+ aboratories\, where he leads several efforts in micron-scale 3D fabricatio
+ n and structured electromagnetics. He is frequently found counseling stude
+ nts on the importance of career planning\, as well as studying for the LCA
+ T in local coffee shops.\n\nIf you wish to meet with the speaker\, please 
+ contact Tianren Fan at: tianren.fan@gatech.edu.\n\nLinks:\n[0]  http://hg.
+ gatech.edu/node/629592#0
+LOCATION:Van Leer 218
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga for the Soul
@@ -32591,5 +32654,65 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  sident@gmail.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/624549#24\n
  [1]  swepresident@gmail.com\n[2]  https://www.facebook.com/GeorgiaTechSWE/
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Petit Institute Distinguished Lecture
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201104T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201104T180000Z
+UID:http://hg.gatech.edu/node/629586#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nGordana Vunjak-No
+ vakovic\, Ph.D.\nUniversity Professor\nThe Mikati Foundation Professor of 
+ Biomedical Engineering and Medicine\nDirector\, Laboratory for Stem Cells 
+ and Tissue Engineering\nColumbia University\n\nApproximately 35 million me
+ n and women in the United States suffer from TMJ problems\, and as many as
+  one in four people experience symptoms of TMJ disorders\, including pain 
+ in the chewing muscles\, jaw stiffness\, clicking\, popping or grating\, o
+ r the pain of arthritis. The temporomandibular joint\, or TMJ\, is the jaw
+  joint that lies in front of each ear\, connecting the mandible (lower jaw
+ ) to the skull\, providing the mobility necessary for biting\, chewing\, s
+ wallowing food\, speaking\, and making facial expressions.\n\nGordana Vunj
+ ak-Novakovic and her research team have been able to grow bone grafts that
+  will match a patient’s original jaw bone for facial reconstruction surg
+ ery to repair injuries\, disease\, or birth defects. This spectacular adva
+ ncement in bone tissue engineering provides all the advantages of the body
+ ’s original jaw bone. The team used real bone as a scaffold to grow the 
+ new TMJ graft. Taking the knee joints of calves\, they stripped them of al
+ l their living cells and carved them into cubic centimeter-size parts of a
+  human jaw joint.\n\nUsing mesenchymal stem cells\, which can differentiat
+ e into many cell types\, to seed the scaffolding\, they fed them with stre
+ ams of nutrients\, growth factors\, and oxygen in a bioreactor. The next s
+ tep will be to determine the best way to grow blood vessels in the bone gr
+ afts to continue their viability.\n\nIn another research area\, Vunjak-Nov
+ akovic is engineering thick\, vascularized\, and electromechanically funct
+ ional cardiac tissue\, by culturing stem cells\, the actual “tissue engi
+ neers\,” on a channeled elastomer scaffold perfused with culture medium 
+ containing oxygen carriers\, to mimic blood flow. This research may lead t
+ o a heart patch that could be laid over injured heart tissue to restore no
+ rmal function in someone who has suffered a heart attack.\n\n“As a biome
+ dical engineer actively involved in this field\, I look forward to unlocki
+ ng the full regenerative potential of human stem cells\, so we can cure di
+ sease and live longer than our failing organs\,” she said.\n\nHer lab ho
+ sts the Bioreactor Core of the National Institutes of Health (NIH) Tissue 
+ Engineering Resource Center. “This sophisticated bioreactor and imaging 
+ instrumentation has moved stem cell research from the ‘flat biology’ o
+ f petri dishes to controllable models of high biological fidelity\, which 
+ can be studied in real time to observe the interacting factors mediating s
+ elf-renewal and differentiation of stem cells\,” said Vunjak-Novakovic. 
+ “We now have the capacity to develop entirely new research paradigms and
+  approaches to engineering human tissues.”\n\nIn 2002\, Vunjak-Novakovic
+  was elected a fellow of the American Institute for Medical and Biological
+  Engineering. In 2007\, she gave the Director’s lecture at the NIH\, as 
+ the first woman engineer to receive this distinction. She was inducted int
+ o the Women in Technology International Hall of Fame in 2008\, elected to 
+ the New York Academy of Sciences in 2009\, and\, in 2010\, received the Cl
+ emson Award of the Biomaterials Society for contribution to literature.\n\
+ nBS\, University of Belgrade (Serbia)\, 1972\; SM\, University of Belgrade
+ \, 1975\; University of Belgrade\, PhD\, 1980\n\nA community lunch will be
+  served immediately following the presentation.\n\nLinks:\n[0]  http://hg.
+ gatech.edu/node/629586#0\n[1]  http://gvn.hostedplace.com/\n[2]  http://pe
+ titinstitute.gatech.edu/
+LOCATION:Parker H. Petit Institute for Bioengineering and Bioscience\, Atr
+ ium
 END:VEVENT
 END:VCALENDAR
