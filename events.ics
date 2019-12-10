@@ -2,213 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:School of ID Launchpad: Featuring Work from Dragon Con
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181206T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181207T020000Z
-UID:http://hg.gatech.edu/node/614397#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nThe School of Ind
- ustrial Design in December hosts Launchpad\, its end-of-semester show of s
- tudent work. New this year will be student creations of "BuzzRa" for Drago
- n Con.\n\nThe event takes place on all three floors of Architecture West.\
- n\nLaunchpad highlights the work of industrial design students as they are
-  launched into the professional arena or into the next stages of their aca
- demic development. Besides friends and families\, the event also attracts 
- industry representatives.\n\nFeatures this semester include:\n\nDragon Con
-  -- A retrospective of four years of industrial design student work.\n\nSt
- udent Galleries -- Selected works from grads and undergrads.\n\nPechaKucha
-  -- Students show their work in 20 slides in 6 minutes.\n\nRefreshments wi
- ll be served.\n\nLinks:\n[0]  http://hg.gatech.edu/node/614397#0
-LOCATION:West Architecture\, College of Design
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Marcus Center for Therapeutic Cell Characterization and Manufactur
- ing (MC3M) Symposium
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181207T130000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181207T210000Z
-UID:http://hg.gatech.edu/node/614239#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nOpen to all in th
- e bio-community.\n\nComplimentary RSVP required [1] by Tuesday\, December 
- 4\, 2018.\n\nThe agenda will include: breakfast\, lightning talks on all t
- he projects\, keynote speaker\, lunch\, and poster session.\n\nAGENDA\n8:0
- 0 a.m. Continental Breakfast & Poster Session\n8:30 a.m. Welcome and Overv
- iew of accomplishments\n9:00 a.m. Keynote address "The Incredible\, Indeli
- ble MSC" - Edwin Horwitz\, M.D.\, Ph.D. [2] - Children's Healthcare of Atl
- anta\, Emory University School of Medicine\n10:00 a.m. Break\n10:10 a.m. L
- ightning Talks (10 minutes each\, order below)\n12:00 p.m. Lunch & Poster 
- Session\n1:30 p.m. Lightning Talks (10 minutes each\, order below)\n3:00 p
- .m. Break\n3:10 p.m. Lightning Talks (10 minutes each\, order below)\n3:50
-  p.m. Wrap-up and depart\n\nLIGHTNING TALKS LINEUP\n\nOmics\n10:10 a.m. pr
- esentation by Gilad Doron\n“Modulation of MSC Secretome for Treatment of
-  Inflammatory Diseases” - Bob Guldberg\, GT and Johnna Temenoff\, GT (wi
- th Arnie Caplan\, CWRU)\n\n10:23 a.m. presentation by Andre Norfleet\n“M
- ulti-omic Constrained Optimization of Cardiomyocyte Selection Conditions
- ” - Melissa Kemp\, GT and Facundo Fernández\, GT\n\nPotency\n10:36 a.m.
-  presentation by Molly Ogle\n“High Through-Put Lipidomic Models and High
- -Content Imaging to Assess Mesenchymal Stem Cell Quality and Potency” Ed
- ward Botchwey\, GT and Luke Mortensen\, UGA\n\n10:49 a.m. presentation by 
- Kendall Williams\n“Tissue-on-a-Chip Platform for Mesenchymal Stem Cell P
- otency” Andrés J. García\, GT and Wilbur Lam\, GT/Emory\n\n11:02 a.m. 
- presentation by JT Shoemaker\n“Off-target Toxicity Testing of Cell Thera
- pies using a Novel Brain-on-a-chip System” - Michelle LaPlaca\, GT and J
- elena Vukasinovic\, Lena Biosciences/ATDC\n\n11:15 a.m. presentation by Mi
- chael Nelson and Delta Ghoshal\n“Human Bone Marrow-on-a-Chip for Studyin
- g Hematopoietic Stem Cell Mobilization and Engraftment” - Krish Roy\, GT
-  and Michael Nelson\, GT\n\nSensors\n11:28 a.m. presentation by Mason Chil
- monczyk\n“Dynamic Mass Spectrometry Probe for Therapeutic Cell Bio-React
- or Quality Control Indicator Discovery” - Andrei Fedorov\, GT and Robert
-  Guldberg\, GT\n\n11:41 a.m. presentation by Yun-Soung Kim\n“Smart Biore
- actor with Integrated Flexible Sensors and Wireless Electronics” - Woon-
- Hong Yeo\, GT\, Young Charles Jang\, GT\n\n1:30 p.m. presentation by Decar
- le Jin\n“Potentiometric Chemical and Biological Sensor Capsules for real
- -time Measurement of Cell Properties in Bioreactors” - Eric Vogel\, GT\,
-  Billyde Brown\, GT\, Wilbur Lam\, Emory/GT\, and Reginald Tran\, Emory\n\
- n1:43 p.m. presentation by Sam Jiang\n“An All-printed Wireless\, Distrib
- uted Sensor Array Platform for in-line\, Continuous Monitoring of Cell Cul
- ture Conditions in Scale-up Bioreactors” - Chuck Zhang\, GT\, Suresh Sit
- araman\, GT\, and Kan Wang\, GT\n\nCulture & Scale\n1:56 p.m. presentation
-  by\n“RNA-powered Profiling of Lineage-specific Human iPSC-derived Cardi
- ac Myocytes” - Philip Santangelo\, GT and Hee Cheol Cho\, Emory\n\n2:09 
- p.m. presentation by Emily Jackson-Holmes\n“Developing a Microfluidics-b
- ased 3-D Organoid System for Modeling Human Brain Development” - Hang Lu
- \, GT and Zhexing Wen\, Emory\n\n2:22 p.m. presentation by Nate Dwarshuis\
- n“Functionalized Microcarriers for Enhanced T cell Expansion” - Krish 
- Roy\, GT and Nate Dwarshuis\, GT\n\nSupply Chain and Logistics\n2:35 p.m. 
- presentation by Patrick Ledwig\n“Cord Blood Mononuclear Cell Quantificat
- ion using Oblique Back-illumination Microscopy” Francisco Robles\, GT (w
- ith Krish Roy\, GT and Joanne Kurtzberg\, Duke)\n\n2:48 p.m. presentation 
- by Kevin Wang\n“Development of Novel Supply Chain and Process Modeling A
- lgorithms\, Methods\, and Tools for Cell Therapy Manufacturing and Distrib
- ution” - Chip White\, GT and Ben Wang\, GT\n\nAutomation\n3:10 p.m. pres
- entation by William Pilcher\n“A Novel Image-analytic Tool for Automated 
- Characterization of Complex Cell Shapes and Patterns in 3D Tissue Models
- ” - Denis Tsygankov\, GT and Peng Qiu\, GT\n\n3:23 p.m. presentation by\
- n“Towards Closed Loop Control of Cell Production” - Stephen Balakirsky
-  (GTRI)\, Milad Navaei (GTRI)\, and James Hays (GT)\n\n3:36 p.m. presentat
- ion by Hongseo Bruce Lim\n“Machine Learning for Image-based Early Predic
- tions of Functional Properties in Cell Manufacturing” - Peng Qiu\, GT an
- d Krish Roy\, GT\n\nLinks:\n[0]  http://hg.gatech.edu/node/614239#0\n[1]  
- andrea.soyland@ibb.gatech.edu\n[2]  http://www.pedsresearch.org/people/fac
- ulty/edwin-m-horwitz-md-phd\n[3]  http://cellmanufacturing.gatech.edu/\n[4
- ]  http://petitinstitute.gatech.edu/
-LOCATION:Parker H. Petit Institute for Bioengineering and Bioscience\, Sud
- dath Seminar Room 1128
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Interdisciplinary Collaboration for Graduate Students Workshop
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181207T134500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181207T210000Z
-UID:http://hg.gatech.edu/node/614621#0
-DESCRIPTION:Intended audience: Graduate students\nStatus: published\n\nBei
- ng in teams can be great. Research teams are more productive and innovativ
- e than individuals\, and can leverage shared resources. As a Georgia Tech 
- graduate student\, you have the opportunity to work on research teams\; ho
- wever\, sometimes questions of authorship\, workload\, and how equipment w
- ill be shared lead to challenges.\n\niC⚙GS workshops were designed speci
- fically for graduate students to help you build the skills\, attitudes\, a
- nd knowledge you need to operate effectively in teams. In the workshop\, y
- ou will get tools to help you understand your teammates better\, practice 
- communicating about team tasks\, and explore ways to use and manage confli
- ct.\n\nTeams are part of your future at Georgia Tech and beyond. Whether y
- ou are planning a job in academics\, industry\, government lab\, or policy
- \, you will be working with other people toward common goals. Come pick up
-  skills that will give you a competitive edge at this workshop that will b
- e hosted by the Strategic Energy Institute.\n\nRegistration is free (but s
- pots are limited) and will open at 8:45 a.m. that morning. The program wil
- l begin at 9 a.m. Lunch will be provided.\n\nFor more information\, contac
- t Susan Cozzens at scozzens@gatech.edu [1].\n\nRegister here. [2]\n\nLinks
- :\n[0]  http://hg.gatech.edu/node/614621#0\n[1]  scozzens@gatech.edu\n[2] 
-  https://www.surveymonkey.com/r/6TFDZZ7
-LOCATION:Room 102B\, Pettit
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mary Jean Harrold Memorial Distinguished Lecture: Jeannette Wing
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181207T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181207T170000Z
-UID:http://hg.gatech.edu/node/614737#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nTITLE: Data for Good: Data Science at Columbia\n\nABSTRACT:\n\nEvery fie
- ld has data. We use data to discover new knowledge\, interpret the world\,
-  make decisions\, and even predict the future. The recent convergence of b
- ig data\, cloud computing\, and novel machine learning algorithms and stat
- istical methods is causing an explosive interest in data science and its a
- pplicability to all fields. This convergence has already enabled the autom
- ation of some tasks that better human performance. The novel capabilities 
- we derive from data science will drive our cars\, treat disease\, and keep
-  us safe. At the same time\, such capabilities risk leading to biased\, in
- appropriate\, or unintended action. The design of data science solutions r
- equires both excellence in the fundamentals of the field and expertise to 
- develop applications that meet human challenges without creating even grea
- ter risk.\n\nThe Data Science Institute at Columbia University promotes 
- “Data for Good”: using data to address societal challenges and bringin
- g humanistic perspectives as — not after — new science and technology 
- are invented. Started in 2012\, the institute is now a university-level in
- stitute representing over 300 affiliated faculty from 12 different schools
-  across campus. Data science literally touches every corner of the univers
- ity.\n\nIn this talk\, I will present the mission of the Institute and hig
- hlights of our educational and research activities.\n\nBIO:\n\nJeannette M
- . Wing is Avanessians Director of the Data Science Institute and professor
-  of computer science at Columbia University. From 2013 to 2017\, she was a
-  corporate vice president of Microsoft Research. She is consulting profess
- or of computer science at Carnegie Mellon\, where she has twice served as 
- the head of the computer science department and been on the faculty since 
- 1985. From 2007 to 2010\, she was the assistant director of the Computer a
- nd Information Science and Engineering Directorate at the National Science
-  Foundation. She received her S.B.\, S.M.\, and Ph.D. degrees in computer 
- science\nfrom the Massachusetts Institute of Technology.\n\nWing’s gener
- al research interests are in the areas of trustworthy computing\, specific
- ation and verification\, concurrent and distributed systems\, programming 
- languages\, and software engineering. Her current interests are in the fou
- ndations of security and privacy\,\nwith a new focus on trustworthy AI. Sh
- e was or is on the editorial board of twelve journals\, including the Jour
- nal of the ACM and Communications of the ACM.\n\nLinks:\n[0]  http://hg.ga
- tech.edu/node/614737#0
-LOCATION:KACB 1116
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ImmunoEngineering Research Days
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181207T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181207T183000Z
-UID:http://hg.gatech.edu/node/614564#0
-DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nPresent
- ations will be made by Georgia Tech and Emory faculty with the purpose of 
- learning what we are working on with a view towards developing ideas and f
- aculty teams for submission of multi-investigator research proposals.\n\nT
- hese research days are open to Georgia Tech and Emory faculty doing resear
- ch in ImmunoEngineering.\n\nRSVP Required [1]\n\nPresenting Faculty:\nCost
- as Arvanitis\, Ph.D.\nSteven Bosinger\, Ph.D.\nMadhav Dhodapkar\, M.D.\nTo
- bey MacDonald\, M.D.\nJason Fangusare\, M.D.\nM.G. Finn\, Ph.D.\nJyothi Re
- ngarajan\, Ph.D.\nShuichi Takayama\, Ph.D.\nRabin Tirouranziam\, Ph.D.\n\n
- Lunch provided.\n\nSponsored by Georgia Tech's Center for ImmunoEngineerin
- g [2] and the Parker H. Petit Institute for Bioengineering and Bioscience 
- [3].\n\nLinks:\n[0]  http://hg.gatech.edu/node/614564#0\n[1]  julia.babens
- ee@bme.gatech.edu\n[2]  http://immunoengineering.gatech.edu/\n[3]  http://
- petitinstitute.gatech.edu/
-LOCATION:Bourne Room\, Yerkes Research Center\, Emory University
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yoga for the Soul
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181208T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181208T030000Z
-UID:http://hg.gatech.edu/node/612509#7
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nWe at Bhakti Yoga Club at GeorgiaTech want to i
- mprove the quality of living of students and faculty by teaching them prin
- ciples for a stress-free\, happy and meaningful life. We offer free classe
- s on various forms of yoga and vegan cooking every Friday in the Student C
- enter from 7 to 10 PM! We start with some basic discussions on the theory\
- , do intense exercises followed by yoga practices\, and end with some good
-  music and a free vegan dinner.\n\nWe also provide access to youth counsel
- ors to help students improve their lives through yoga.\n\nLinks:\n[0]  htt
- p://hg.gatech.edu/node/612509#7\n[1]  https://chat.whatsapp.com/6R5qHrOFkD
- OBWVmxcmnpYw\n[2]  https://orgsync.com/167032/chapter\n[3]  https://www.fa
- cebook.com/BYCGT/
-LOCATION:Room 343\, 3rd Floor (next to the Student Ballroom)\, Student Cen
- ter
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:IDEaS Short Talks Presents Rampi Ramprasad
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20181210T190000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20181210T193000Z
@@ -32126,6 +31919,26 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  sident@gmail.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/624549#17\n
  [1]  swepresident@gmail.com\n[2]  https://www.facebook.com/GeorgiaTechSWE/
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Book Discussion with Christen Smiley of Institute Diversity\, Equi
+ ty\, and Inclusion
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200227T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200228T003000Z
+UID:http://hg.gatech.edu/node/629825#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nChristen Smiley of Institute Dive
+ rsity\, Equity\, and Inclusion will discuss her career and participate in 
+ dinner conversation about Common's book Let Love Have the Last Word over d
+ inner with WST Learning Community Residents. Books are available for WST s
+ tudents from the WST Lrn C Stein office. For a description of the book\, s
+ ee https://www.amazon.com/Let-Love-Have-Last-Word/dp/1501133152\n\nWith de
+ grees from Florida A & M and Florida Atlantic University\, Christen Smiley
+  is currently the Staff Diversity\, Inclusion\, and Engagement coordinator
+  at Georgia Tech. Her work experience includes positions in special events
+ \, marketing\, and diversity and inclusion at various companies.\n\nLinks:
+ \n[0]  http://hg.gatech.edu/node/629825#0
+LOCATION:Stein House/4th St. A\, 733 Techwood\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Society of Women Engineers General Body Meeting
