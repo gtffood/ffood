@@ -2,249 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:IDEaS Short Talks Presents Rampi Ramprasad
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181210T190000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181210T193000Z
-UID:http://hg.gatech.edu/node/615016#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nIDEaS Short Talks and Networking Social "Polymer Genome: An Informatics 
- Platform for Rational Polymer Design" by Rampi Ramprasad Monday\,December 
- 10\, 2018\nPart of One Short 30-MinuteTalks from 2-3 pm\nNetworking Social
-  from 3-3:30 pm\nTechnology Square Research Building (TSRB) Auditorium (Yo
- u are welcome to attend any part of these events as your schedule permits.
- ) IDEaS is running a series of short talks to learn about research across 
- the Georgia Tech campus. The presentations are from broadly different topi
- cs and accessible to those in other research areas. Come chat with colleag
- ues and learn more about what’s new in Data Science! Rampi Ramprasad\nPr
- ofessor in the School of Materials Science and Engineering\n"Polymer Genom
- e: An Informatics Platform for Rational Polymer Design"\n\nAbstract: The M
- aterials Genome Initiative (MGI) has heralded a sea change in the philosop
- hy of materials design. In an increasing number of applications\, the succ
- essful deployment of novel materials has benefited from the use of computa
- tional\, experimental and informatics methodologies. Here\, we describe ou
- r recent polymer discovery efforts\, highlighting the role played by compu
- tational data generation and screening\, targeted synthesis and characteri
- zation\, polymer fingerprinting and machine-learning prediction models. Th
- ese efforts have culminated in the creation of an online Polymer Informati
- cs platform ( https://www.polymergenome.org [1] ) to guide ongoing and fut
- ure polymer discovery and design. Challenges that remain are examined\, an
- d systematic steps that may be taken to extend the applicability of such i
- nformatics efforts to a wide range of technological domains are discussed.
- \n\nBio: Professor Ramprasad is presently the Michael E. Tennenbaum Family
-  Chair and Georgia Research Alliance Eminent Scholar in the School of Mate
- rials Science & Engineering at the Georgia Institute of Technology. His ex
- pertise is in the virtual design and discovery of application-specific mat
- erials using computational and data-driven methods. Among his notable proj
- ects are a ONR-sponsored Multi-disciplinary University Research Initiative
-  (MURI) in the past to accelerate the discovery of polymeric capacitor die
- lectrics for energy storage. He is presently leading another MURI aimed at
-  the understanding and design of dielectrics tolerant to enormous electric
-  fields. Prof. Ramprasad is a Fellow of the American Physical Society\, an
-  elected member of the Connecticut Academy of Science and Engineering\, an
- d the recipient of the Alexander von Humboldt Fellowship and the Max Planc
- k Society Fellowship for Distinguished Scientists. He has authored or co-a
- uthored over 180 peer-reviewed journal articles\, 6 book chapters and 4 pa
- tents. He has delivered over 150 invited talks at Universities and Confere
- nces worldwide\, and has organized several international symposia. Prof. R
- amprasad received his B. Tech. in Metallurgical Engineering at the Indian 
- Institute of Technology\, Madras\, India\, an M.S. degree in Materials Sci
- ence & Engineering at the Washington State University\, and a Ph.D. degree
-  also in Materials Science & Engineering at the University of Illinois\, U
- rbana-Champaign.\n\nLinks:\n[0]  http://hg.gatech.edu/node/615016#0\n[1]  
- https://www.polymergenome.org/
-LOCATION:TSRB Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IDEaS Short Talks Presents Sridhar Narasimhan
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181210T193000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181210T200000Z
-UID:http://hg.gatech.edu/node/615019#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nIDEaS Short Talks and Networking Social "Can the Mobile Internet Bridge 
- the Digital Divide? A Large-Scale Empirical Investigation" by Sridhar Nara
- simhan\nMonday\, December 10\, 2018\nPart of Two Short 30-MinuteTalks from
-  2-3 pm\nNetworking Social from 3-3:30 pm Technology Square Research Build
- ing (TSRB) Auditorium IDEaS is running a series of short talks to learn ab
- out research across the Georgia Tech campus. The presentations are from br
- oadly different topics and accessible to those in other research areas. Co
- me chat with colleagues and learn more about what’s new in Data Science!
-  Sridhar Narasimhan\nDir. Business Analytics Ctr\, Scheller College of Bus
- iness\nGeorgia Institute of Technology\n2:30 - 3:00 pm "Can the Mobile Int
- ernet Bridge the Digital Divide? A Large-Scale Empirical Investigation" Ab
- stract: Access to the internet has become a de facto requirement for parti
- cipating in our increasingly digital society. Unfortunately\, many househo
- lds still struggle with limited internet access\, particularly those in ru
- ral areas and of low socioeconomic status. Closing this “digital divide
- ” is an important public policy goal. Many households on the “wrong”
-  side of the digital divide are likely to use mobile devices and plans as 
- their primary method of internet access\, given lack of alternatives due t
- o availability and cost. Thus\, we examine whether improving mobile intern
- et access is an effective method for closing the digital divide. We do thi
- s by studying the adoption and use of unlimited mobile data plans offered 
- by a large telecommunications provider. We find that adoption of an unlimi
- ted plan leads to a substantial increase in a household’s data consumpti
- on\, with the increase being particularly large for rural households and t
- hose of low socioeconomic status. This suggests that unlimited plans help 
- these households “catch up”\, potentially narrowing the digital divide
- . We also study how households are using the additional data. Although mos
- t of the increase is accounted for by media and entertainment content\, th
- ere is a significant increase in consumption of content likely to be socia
- lly beneficial: specifically news\, education\, and career-related content
- . We conclude that policy makers should encourage unlimited mobile data pl
- ans as a method to close the digital divide. They should also invest in ed
- ucational programs on how to use the internet for beneficial purposes and 
- help web site providers make their services accessible via mobile phones.\
- n\nBio: Sridhar Narasimhan is Professor of IT Management and Co-Director -
- Business Analytics Center (BAC)\, Scheller College of Business. He is the 
- founder and first Area Coordinator of the nationally ranked Information Te
- chnology Management area. In fall 2010\, he was the Acting Dean and led th
- e College in its successful AACSB Maintenance of Accreditation effort. He 
- was Senior Associate Dean from 2007 through 2015.\nProfessor Narasimhan do
- es research in business analytics and also on the business impacts of info
- rmation technology. Professor Narasimhan has developed and taught the MBA 
- IT Practicum course since 2003. Since 2016\, he has been teaching Business
-  Analytics at Scheller.\n\nLinks:\n[0]  http://hg.gatech.edu/node/615019#0
-LOCATION:TSRB Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Campus Recreation Complex - Spin & Screen
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181210T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181211T003000Z
-UID:http://hg.gatech.edu/node/614291#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: published\n\nNeed a break to release some
-  stress from finals? The Georgia Tech Recreation Complex (CRC) can help! O
- n December 10th\, the CRC will host a Spin and Screen event where you can 
- spin while watching Happy Feet. This class is free for all CRC members. Sn
- acks and refreshments are provided and we will take rest breaks along the 
- way. Space is limited so make sure to arrive early!\n\nLinks:\n[0]  http:/
- /hg.gatech.edu/node/614291#0
-LOCATION:Campus Recreation Complex - Studio B
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Midnight Breakfast
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181211T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181211T045900Z
-UID:http://hg.gatech.edu/node/614757#0
-DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\,
-  Freebies\nStatus: published\n\nFrom 7pm-10pm\, come cozied up in your pj
- ’s to de-stress before your finals with great activities such as free ma
- ssages\, therapy dogs\, hot chocolate making\, and much much more!\n\nLate
- r from 9pm-12pm\, enjoy free breakfast food served by the wonderful profes
- sors\, faculty\, and staff of Georgia Tech! Sign ups for the slots will be
-  live on UniversityTickets the week after Thanksgiving break so get your s
- lots early!\n\nWe are committed to making this event accessible to everyon
- e. If further accommodations are needed\, contact ramblin@scpc.gatech.edu 
- [1].\n\nPurchase Tickets [2]\n\nLinks:\n[0]  http://hg.gatech.edu/node/614
- 757#0\n[1]  ramblin@scpc.gatech.edu\n[2]  https://gatech.universitytickets
- .com/w/event.aspx?id=1444&p=1
-LOCATION:Student Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunch-and-Learn: Improve Your Warehouse Layout to Maximize Efficie
- ncy (Jefferson Manufacturing Growth Meeting Series)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181211T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181211T183000Z
-UID:http://hg.gatech.edu/node/612986#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nManufacturing Growth Educational Series*\nLocat
- ion: Jackson County Administrative Building\nLunch is included in the regi
- stration price\n\nImprove Your Warehouse Layout to Maximize Efficienc y\nH
- ave you ever walked into your plant’s warehouse and thought to yourself\
- , “this could be organized better” or “if these items were moved ove
- r here\, it would save us a lot of time?” Join the GaMEP and renowned lo
- gistics expert\, Lee Hales\, for a two-hour lunch-n-learn as we teach you 
- tips and tricks to make changes to your existing warehouse space for maxim
- um efficiency. Learn how to tap the knowledge and creativity of your team 
- and make better up-front decisions\, saving you time and money in the long
- -run. Topics include systematic methods for measuring and improving materi
- al flow\, estimating floor space and capacity to support growth\, and cons
- idering the right factors in choosing the best plan for your plant. Case s
- tudies from manufacturing plants and distribution centers from across Geor
- gia will be referenced. This session is a preview of topics covered in SCL
- 's warehouse layout course [1].\n\nEvent includes lunch\, networking\, pre
- sentation\, case study\, and Q&A.\n\nSeries Partners:\n\nGreater Hall Cham
- ber of Commerce\, Jackson County Area Chamber of Commerce\, and Barrow Cou
- nty Chamber of Commerce\n\nSpeaker: Lee Hales\n\nH. Lee Hales is a profess
- ional education instructor for the Georgia Tech Supply Chain & Logistics I
- nstitute and President of Richard Muther & Associates. Lee is the author a
- nd co-author of several books on industrial planning\, including: Systemat
- ic Planning of Industrial Facilities (with Richard Muther) and Computer-Ai
- ded Facilities Planning.\n\nLee is a Senior Member of the Institute of Ind
- ustrial Engineers\, and past Director of the Facilities Planning & Design 
- Division. Lee received B.A. and M.A. degrees from the University of Kansas
-  and holds an M.S. in Management from the Sloan School\, Massachusetts Ins
- titute of Technology.\n\nDate and Time:\n\nTue\, December 11\, 2018\n11:30
-  AM – 1:30 PM EST\n\nLocation:\n\nJackson County Auditorium\, Jackson Co
- unty Administrative Building\n67 Athens Street\nJefferson\, Georgia 30549\
- n\n*This quarterly lunch and learn educational series will deliver actiona
- ble tips and tools of the trade specifically designed to help Georgia Manu
- facturers grow their business. Brought to you by the Georgia Manufacturing
-  Extension Partnership (GaMEP) in partnership with the Georgia Tech Supply
-  Chain & Logistics Institute (SCL)\n\nLinks:\n[0]  http://hg.gatech.edu/no
- de/612986#0\n[1]  https://www.scl.gatech.edu/whdc\n[2]  https://bit.ly/2xM
- Vr3N
-LOCATION:Jackson County Administrative Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nano@Tech: ImmunoEngineering and Cell Manufacturing: The Next Fron
- tiers in Biomedical Nano/Microtechnologies
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181211T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181211T180000Z
-UID:http://hg.gatech.edu/node/606838#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nAbstract: Advanced biomanufacturing of therapeutic cells and engineering
-  of the immune system in health and diseases are two emerging and intersec
- ting areas in biomedical engineering. In this talk\, I will provide a broa
- d overview of this field\, especially from a perspective of a biomaterials
-  scientist working in the nano/microtechnology domains. I will highlight o
- ur lab’s work on modulation of the immune system for vaccines and immuno
- therapies as well as our work on biomanufacturing of therapeutic immune ce
- lls. Specifically\, we will focus on how new nano/micro technologies and n
- ano/microscale properties play a key role in modulating immune cell respon
- ses to vaccine adjuvants and how materials and bioengineering concepts can
-  be used to manufacture therapeutic T and B cells. In addition\, I will di
- scuss Georgia Tech’s effort on team science in both of these areas – e
- specially focusing on a new NSF Engineering Research Center for Cell Manuf
- acturing Technologies (CMaT).\n\nBio: Dr. Krishnendu (Krish) Roy received 
- his undergraduate degree from the Indian Institute of Technology followed 
- by his MS from Boston University and his PhD in Biomedical Engineering fro
- m Johns Hopkins University. After 2 years at Zycos Inc.\, a start-up biote
- chnology company\, Dr. Roy joined the Biomedical Engineering Faculty at Th
- e University of Texas at Austin. In 2013 he moved to Georgia Tech. where h
- e is the Robert A. Milton Chaired Professor in Biomedical Engineering. At 
- Georgia Tech\, he also serves as the Director of the newly established NSF
-  Engineering Research Center (ERC) for Cell Manufacturing Technologies (CM
- aT) and The Marcus Center for Cell-Therapy Characterization and Manufactur
- ing (MC3M) - as well as the Director of the Center for ImmunoEngineering. 
- He is also the Technical Lead of the NIST/AMTech National Cell Manufacturi
- ng Consortium (NCMC)\, a national public-private partnership\, focused on 
- addressing the challenges and solutions for large scale manufacturing of t
- herapeutic cells. Dr. Roy’s research interests are in the areas of scala
- ble cell manufacturing\, Immuno-engineering\, stem-cell engineering and co
- ntrolled drug and vaccine delivery technologies\, with particular focus in
-  biomedical materials. Dr. Roy has been elected Fellow of the American Ins
- titute for Medical and Biological Engineering (AIMBE) and Fellow of the Bi
- omedical Engineering Society (BMES)\, in addition to numerous awards and h
- onors including Young Investigator Awards from both the Controlled Release
-  Society (CRS) and The Society for Biomaterials (SFB)\, NSF CAREER award\,
-  Global Indus Technovator Award from MIT\, and the CRS Cygnus Award. He is
-  also the recipient of the best advisor award given by bioengineering stud
- ents at Georgia Tech. He serves as a member of the Editorial Boards of the
-  Journal of Controlled Release\, the European Journal of Pharmaceutics and
-  Biopharmaceutics\, and the Journal of Immunology and Regenerative Medicin
- e. He is a member of the Forum on Regenerative Medicine of the National Ac
- ademies of Science\, Engineering and Medicine (NASEM) and a Board Member o
- f the newly established Standards Coordinating Body (SCB) for Cell and Reg
- enerative Therapies.\n\nLinks:\n[0]  http://hg.gatech.edu/node/606838#0\n[
- 1]  http://ien.gatech.edu
-LOCATION:Marcus Nanotechnology Building 1117-1118 | 345 Ferst Drive | Atla
- nta GA | 30332
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EU Trade Ambassadors Workshop
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20181212T133000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20181212T153000Z
@@ -31489,6 +31246,18 @@ LOCATION:Room 102\, Stephen C. Hall Bldg.\, 215 Bobby Dodd Way\, Atlanta\,
   GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Nano@Tech: Chandra Raman - School of Physics\, Georgia Tech
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200114T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200114T180000Z
+UID:http://hg.gatech.edu/node/629892#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nChandra Raman\nSchool of Physics\, Georgia Tech\nAbstract: TBA\n\nBio: T
+ BA\n\nLinks:\n[0]  http://hg.gatech.edu/node/629892#0
+LOCATION:Marcus Nanotechnology Building 1116-1118 | 345 Ferst Drive | Atla
+ nta GA | 30332
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Society of Women Engineers General Body Meeting
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200114T221500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200115T000000Z
@@ -31665,6 +31434,24 @@ LOCATION:Student Center\, various IAC buildings\, Wardlaw Bldg. Atlanta\,
  GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Focus/Ivan Allen College Graduate Studies Open House
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200117T124500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200117T180000Z
+UID:http://hg.gatech.edu/node/629895#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\nStatus: published\n\nIAC schedule for Focus visit
+ ors and any other prospective graduate students:\n\n7:45-9:15am Breakfast 
+ with Dean John Tone\, Student Center\, Room 320: for Focus & all Ivan Alle
+ n College prospective graduate students\n\n9:15am: A current graduate stud
+ ent picks up visiting students and walks them to program\n\n9:30-11:15am: 
+ Meetings with graduate students\, members of faculty\, and Graduate Direct
+ or/Coordinator\, organized by program\n\n11:15am: Graduate student walks p
+ rospective graduate students to Wardlaw\n\n11:30am-1pm Lunch\, Gordy Room\
+ , Wardlaw: for all Ivan Allen prospective and current graduate students\, 
+ faculty\, staff\n\nLinks:\n[0]  http://hg.gatech.edu/node/629895#0
+LOCATION:Various Georgia Tech locations\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:International Opportunities Open House
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200121T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200121T170000Z
@@ -31744,6 +31531,20 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Stein House/4th St. A Apts\, 733 Techwood\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Nano@Tech: Juan-Pablo Correa-Baena - School of Materials Science a
+ nd Engineering\, Georgia Tech
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200128T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200128T180000Z
+UID:http://hg.gatech.edu/node/629893#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nJuan-Pablo Correa-Baena\nSchool of Materials Science and Engineering\, G
+ eorgia Tech\nAbstract: TBA\n\nBio: TBA\n\nLinks:\n[0]  http://hg.gatech.ed
+ u/node/629893#0
+LOCATION:Marcus Nanotechnology Building 1116-1118 | 345 Ferst Drive | Atla
+ nta GA | 30332
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Society of Women Engineers General Body Meeting
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200128T221500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200129T000000Z
@@ -31759,6 +31560,59 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  sident@gmail.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/624549#13\n
  [1]  swepresident@gmail.com\n[2]  https://www.facebook.com/GeorgiaTechSWE/
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ivan Allen College CRIDC Graduate Paper Conference
+DTSTART;VALUE=DATE:20200131
+DTEND;VALUE=DATE:20200201
+UID:http://hg.gatech.edu/node/629894#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\nExtras: Free food\nStatus: published\n\nIVAN ALLEN COLLEGE OF L
+ IBERAL ARTS GRADUATE STUDENT CONFERENCE\n\nFriday\, January 31\, 2020\nRoo
+ m 102\, Stephen C. Hall Building\n\n8:30am-8:45am Breakfast & Welcome\n\n8
+ :45-10 am Security\n\nChair: TBD\n\nMichael Bivona (HSOC)\, “Blowback: T
+ echnology\, Law\, and the Emerging Shape of Justice under Drones”\n\nSuo
+ n Choi (INTA)\, “The Effects of Science and Technology Policy on the Nor
+ th Korean Nuclear Program”\n\nKarim Farhat & Karl Grindal (SPP)\, “Sig
+ nal and Noise: Deterrence and Persistent Engagement at Crosscurrents”\n\
+ nAdriana Alvarado Garcia (IC/CoC)\, “Quotidian Report: Grassroots Data P
+ ractices to Address Public Safety”\n\n10:05-11:20 am Environmental Impac
+ t\n\nChair: TBD\n\nTony Harding (ECON)\, “From Weather Fluctuations to A
+ ggregate Climate Impacts”\n\nVikrant Kamble (ECON)\, “Impact of Air Po
+ llution on the Labour Market in India”\n\nOlufunke Adebola (INTA)\, “I
+ nstitutions: Drivers of postharvest loss”\n\nArchana Ghodeswar & Dr. Mat
+ thew Oliver\, “The Economics of Industrial Ecology: Evidence of First-Or
+ der Effects from the Indian Electric Power Sector”\n\n11:25–12:35 pm F
+ eminism/ Race\n\nChair: TBD\n\nEric Steagall (HSOC)\, “’The Real Probl
+ em of the American Negro Is His Brain’: Black Athletic Success and the S
+ hift of Scientific Racism in the Twentieth Century”\n\nBrandy Pettijohn 
+ (DM/LMC)\, “Networked Publics\, Viral Stories\, and the Birth Justice Mo
+ vement”\n\nRachel Sharon (HSOC)\, “Ignoring Sexism Is Sexism! A Review
+  of Recent Sociological Research on Women and Health”\n\nAmber Brooks (H
+ SOC)\, “The Technology of Pharmaceuticals: Biopower and the Reproduction
+  of the Hysterical Woman”\n\n12:40 – 1:00 Lunch\n\n1:00- 2:10 pm Socia
+ l Impact of Technology\n\nChair: Daniel Schiff\n\nCamila Apablaza (SPP)\, 
+ “A field experiment in workplace electric vehicle charging”\n\nAlyssa 
+ Rumsey (DM/LMC)\, “Manufacturing Change: The Future of Work(ers)”\n\nA
+ nmol Soni (SPP)\, “Are All Incentives Created Equal? Role of Policy Desi
+ gn in State-Level Electric Vehicle Sales”\n\nLi Zheng (HSOC)\, “Is Die
+ t-Tracking a Road to Health\, or Just a Fancy Lifestyle? Quantitative Rese
+ arch on Attitudes and Behaviors”\n\n2:15 – 3:35 pm Development\n\nChai
+ r: TBD\n\nXiaoyu Dong (ECON)\, “Measuring Multidimensional Well-being: A
+ n Application to the United States”\n\nOlga Churkina (SPP)\, “Who does
+  better on school tests? Evidence from Sweden”\n\nElizabeth Osman (INTA)
+ \, “Understanding Nostalgia through Perceptions and System Outputs in th
+ e Visegrad Countries”\n\nJeremy Pesner (SPP)\, “Exploring Links betwee
+ n Research Proposals and Societal Impact”\n\n3:40-4:55 pm Information Te
+ chnology\n\nChair: TBD\n\nDaniel Schiff (SPP)\, “Citizen Concerns about 
+ Bias\, Transparency\, and Lack of Human Agency in Government Use of AI: Ev
+ idence from a Survey Experiment”\n\nEunji Emily Kim (INTA)\, “The Diff
+ erence of AI Technology Development between the U.S. and China”\n\nAleja
+ ndra Ruiz Leon (HSOC)\, “Science closes the Black Box\, Museums are open
+ ing it”\n\nYuchen Zhao (DM/LMC)\, “VR Touch Museum”\n\n5pm Reception
+ \n\nLinks:\n[0]  http://hg.gatech.edu/node/629894#0
+LOCATION:Room 102\, Stephen C. Hall Building\, 215 Bobby Dodd Way\, Atlant
+ a\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:February Meeting
