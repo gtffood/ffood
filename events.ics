@@ -2,101 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:EU Trade Ambassadors Workshop
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181212T133000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181212T153000Z
-UID:http://hg.gatech.edu/node/613956#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nKeynote address by H.E. Dr. Wolfgang A. Waldner\, Ambassador of Austria 
- to the United States\n\nPanel discussion on how to grow exports and attrac
- ting foreign direct investment\, featuring:\n\n- John Woodward\, Senior Di
- rector\, Foreign Investment\, at the Metro Atlanta Chamber\n- Mary Waters\
- , Deputy Commissioner for International Trade\, Georgia Department of Econ
- omic Development\n- Jennifer Riccardi\, Senior Trade Advisor\, EU Delegati
- on to the United States\n- Moderated by: Alasdair Young\, Professor of Int
- ernational Affairs and Co-Director\, Center for European and Transatlantic
-  Studies\, Georgia Tech\n\nThe event at the Student Sucess Center [1] is f
- ree and open to the public. Parking is available in visitor lot 1 [2]. Bre
- akfast will be provided.\n\nRegistration is required\, please RSVP [3] to 
- attend.\n\nLinks:\n[0]  http://hg.gatech.edu/node/613956#0\n[1]  https://m
- ap.concept3d.com/?id=82#!m/11002\n[2]  https://map.concept3d.com/?id=82#!m
- /14991\n[3]  https://events.r20.constantcontact.com/register/eventReg?oeid
- k=a07efthxkg982ac59c5&oseq=&c=&ch=
-LOCATION:Student Success Center\, Clary Theater
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Research lab management
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181212T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181212T180000Z
-UID:http://hg.gatech.edu/node/611391#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \nStatus: published\n\nWallace H Coulter Department of Biomedical Engineer
- ing\n\n2018/19 Faculty Development Lunch Series\n\nTopic: Research lab man
- agement\n\nPresenters:\nHanjoong Jo\, Shella Keilholz\, Phil Santangelo\, 
- May Wang and Ajit Yoganathan\n\nThese are open to BME faculty (all - i.e. 
- primary and program)\, BME post docs\, and PhD students participants in ou
- r Preparing Future Faculty program.\n\nLinks:\n[0]  http://hg.gatech.edu/n
- ode/611391#0
-LOCATION:Rm 3115 Whitaker (GT) & Rm E182 HSRB (Emory)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resilience Circles: Growing Through What We Are Going Through
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181212T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181212T183000Z
-UID:http://hg.gatech.edu/node/614164#0
-DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\nStatus: p
- ublished\n\nThe holiday season can present many challenges in our lives. H
- ectic schedules\, family dynamics\, reminders of loss and grief\, expectat
- ions of others\, and other factors that make resilience more important tha
- n ever. This discussion will focus on the tactics\, tools\, and takeaways 
- that can help us build resilience through whatever challenges the holiday 
- season may bring for us.\n\nRegister for this upcoming Resilience Circle a
- t [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/614164#0\n[1]  https://gat
- ech.co1.qualtrics.com/jfe/form/SV_bqMoWU7xJYcilJb\n[2]  http://sdie.gatech
- .edu/programs-and-initiatives/engagement/ergs
-LOCATION:Student Center\, Room 319
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GRIOT ERG Winter Holiday Social and Collection Drive
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181213T200000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181213T220000Z
-UID:http://hg.gatech.edu/node/614780#0
-DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\nStatus: p
- ublished\n\nCelebrate the holiday season and help out a child in need! Ref
- reshments will be provided.\n\nLink to Donation Sign-Up: [1]\n\nPlease RSV
- P in advance at [2]!\n\nLinks:\n[0]  http://hg.gatech.edu/node/614780#0\n[
- 1]  https://goo.gl/Jmycxk\n[2]  https://sdie.gatech.edu/griot-holiday-soci
- al-and-collection-drive\n[3]  https://sdie.gatech.edu/griot-holiday-social
- -and-toy-drive
-LOCATION:Student Center\, 343
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Petit Institute Holiday Party
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181213T210000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181213T230000Z
-UID:http://hg.gatech.edu/node/614230#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \nStatus: published\n\nThe Parker H. Petit Institute for Bioengineering an
- d Bioscience will hold its annual Holiday Party to celebrate another great
-  year of interdisciplinary and collaborative research!\n\nAbove & Beyond F
- aculty\, Student and Staff Awards to be given\, so take a break from your 
- offices and labs to come and celebrate the holiday season with the Petit I
- nstitute community!\n\nThis event is open to all faculty\, staff\, researc
- h staff\, postdocs\, and graduate students of the Petit Institute.\n\nRSVP
-  required [1] by December 6 (space limited)\n\nAND....please be sure to br
- ing your donations for the Atlanta Community Food Bank and drop it off in 
- one of the collection cans in the Petit Biotech Building atrium by Friday\
- , Dec. 14!\n\nMOST NEEDED:\n\nWhole Grain Foods\nShelf-stable Milk\nDried 
- or Canned Fruit\nLow-sodium Canned Vegetables\nLow-sodium Pasta Sauce (pla
- stic containers only)\nPeanut Butter\nDried Peas\nDried Beans\nCanned Tuna
- \, Salmon\, or Chicken\nCooking Oil\n100% Fruit or Vegetable Juice\n**no g
- lass containers\n\nLinks:\n[0]  http://hg.gatech.edu/node/614230#0\n[1]  h
- ttp://www.petitinstitute.gatech.edu/petit-holiday-party\n[2]  http://petit
- institute.gatech.edu/
-LOCATION:Parker H. Petit Institute for Bioengineering and Bioscience
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dean's New Graduate Alumni Celebration
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20181213T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20181214T013000Z
@@ -31219,6 +31124,65 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Clone of Open house to tour WST Learning Community
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200108T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200108T230000Z
+UID:http://hg.gatech.edu/node/630021#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nAll interested women undergraduat
+ e and graduate students are invited to tour the Women\, Science\, and Tech
+ nology Learning Community (WST Lrn C) because vacant rooms are anticipated
+  in spring 2020 and recruitment for 2020-2021 residency will begin in Janu
+ ary.\n\nCurrent residents and WST team members will be available to answer
+  questions. Learn about WST initiatives\, including dinners with faculty/s
+ taff\, career workshops\, faculty mentoring\, undergraduate research.\n\nW
+ ST Lrn C accommodations in Goldin House and Stein House (STN)\, a WST (Wom
+ en\, Science\, and Technology) apartment\, offer two private bedrooms that
+  share a full bathroom in each apartment. All residents of the two buildin
+ gs share two lounges\, study areas\, and kitchens on the first floor.\n\nS
+ ee [1] for further information and a link to the 2020-21 application.\n\nL
+ inks:\n[0]  http://hg.gatech.edu/node/630021#0\n[1]  https://wst.gatech.ed
+ u/wst-learning-community
+LOCATION:Stein House/4th St. A\, 733 Techwood\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Implicit Bias Workshop
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200113T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200113T183000Z
+UID:http://hg.gatech.edu/node/629984#0
+DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nInstitu
+ te Diversity\, in collaboration with the Office of the Vice Provost for Gr
+ aduate Education and Faculty Development and Georgia Tech’s ADVANCE Prog
+ ram\, is offering Implicit Bias Workshops for faculty this spring. All fac
+ ulty who serve on reappointment\, promotion\, and/or tenure committees and
+  faculty search committees are required to participate in an Implicit Bias
+  Workshop pursuant to Provost Bras’ memo in October 2016 to academic lea
+ ders. However\, all instructional and research faculty are welcomed to att
+ end as space permits.\n\nThe goals of these workshops are to increase awar
+ eness of the impact of implicit bias and facilitate equitable decision-mak
+ ing across myriad processes related to faculty evaluations. As a participa
+ nt in the workshop\, you will learn the following:\n\n• An introduction 
+ to the concept of implicit bias and how these unconscious\, automatic ment
+ al processes may impact behaviors such as evaluating candidates during fac
+ ulty search and/or RPT processes.\n\n• Empirical research on vitaes\, le
+ tters of recommendations\, and teaching evaluations to illustrate the impa
+ ct of implicit bias on decisions.\n\n• Effective practices and strategie
+ s for faculty search and RPT committees.\n\nThese workshops will be facili
+ tated by Paul Benkeser\, senior associate chair and professor\, Wallace H.
+  Coulter Department of Biomedical Engineering\; Harris Dimitropoulos\, ass
+ ociate professor\, School of Architecture\; Robert Kirkman\, associate pro
+ fessor\, School of Public Policy\; Mark Mitchell\, associate director\, Ge
+ orgia Tech Research Institute\; and/or Michelle Rinehart\, associate dean 
+ for academic affairs and outreach\, College of Design.\n\nTo register for 
+ one of the workshops\, visit [1]. Lunch will be provided.\n\nGTRI research
+  faculty should register for a GTRI Implicit Bias workshop via StarTrak [2
+ ]. Please contact Sarah Cockrell ( [3] or 404-407-6349) for assistance.\n\
+ nLinks:\n[0]  http://hg.gatech.edu/node/629984#0\n[1]  http://www.advance.
+ gatech.edu/implicit-bias-workshops\n[2]  https://global.hgncloud.com/ga_in
+ stitute_tech/ts/home\n[3]  http://sarah.cockrell@gtri.gatech.edu/
+LOCATION:Student Success Center- President’s Suites C and D
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Professor Ian Bogost\, Publications Workshop: Writing for General 
  Audiences
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200114T160000Z
@@ -31256,6 +31220,28 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  BA\n\nLinks:\n[0]  http://hg.gatech.edu/node/629892#0
 LOCATION:Marcus Nanotechnology Building 1116-1118 | 345 Ferst Drive | Atla
  nta GA | 30332
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open house to tour WST Learning Community
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200114T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200114T230000Z
+UID:http://hg.gatech.edu/node/630022#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nAll interested women undergraduat
+ e and graduate students are invited to tour the Women\, Science\, and Tech
+ nology Learning Community (WST Lrn C) because vacant rooms are anticipated
+  in spring 2020 and recruitment for 2020-2021 residency will begin in Janu
+ ary.\n\nCurrent residents and WST team members will be available to answer
+  questions. Learn about WST initiatives\, including dinners with faculty/s
+ taff\, career workshops\, faculty mentoring\, undergraduate research.\n\nW
+ ST Lrn C accommodations in Goldin House and Stein House (STN)\, a WST (Wom
+ en\, Science\, and Technology) apartment\, offer two private bedrooms that
+  share a full bathroom in each apartment. All residents of the two buildin
+ gs share two lounges\, study areas\, and kitchens on the first floor.\n\nS
+ ee [1] for further information and a link to the 2020-21 application.\n\nL
+ inks:\n[0]  http://hg.gatech.edu/node/630022#0\n[1]  https://wst.gatech.ed
+ u/wst-learning-community
+LOCATION:Stein House/4th St. A\, 733 Techwood\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Society of Women Engineers General Body Meeting
@@ -31483,6 +31469,43 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Implicit Bias Workshop
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200122T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200122T183000Z
+UID:http://hg.gatech.edu/node/629985#0
+DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nInstitu
+ te Diversity\, in collaboration with the Office of the Vice Provost for Gr
+ aduate Education and Faculty Development and Georgia Tech’s ADVANCE Prog
+ ram\, is offering Implicit Bias Workshops for faculty this spring. All fac
+ ulty who serve on reappointment\, promotion\, and/or tenure committees and
+  faculty search committees are required to participate in an Implicit Bias
+  Workshop pursuant to Provost Bras’ memo in October 2016 to academic lea
+ ders. However\, all instructional and research faculty are welcomed to att
+ end as space permits.\n\nThe goals of these workshops are to increase awar
+ eness of the impact of implicit bias and facilitate equitable decision-mak
+ ing across myriad processes related to faculty evaluations. As a participa
+ nt in the workshop\, you will learn the following:\n\n• An introduction 
+ to the concept of implicit bias and how these unconscious\, automatic ment
+ al processes may impact behaviors such as evaluating candidates during fac
+ ulty search and/or RPT processes.\n\n• Empirical research on vitaes\, le
+ tters of recommendations\, and teaching evaluations to illustrate the impa
+ ct of implicit bias on decisions.\n\n• Effective practices and strategie
+ s for faculty search and RPT committees.\n\nThese workshops will be facili
+ tated by Paul Benkeser\, senior associate chair and professor\, Wallace H.
+  Coulter Department of Biomedical Engineering\; Harris Dimitropoulos\, ass
+ ociate professor\, School of Architecture\; Robert Kirkman\, associate pro
+ fessor\, School of Public Policy\; Mark Mitchell\, associate director\, Ge
+ orgia Tech Research Institute\; and/or Michelle Rinehart\, associate dean 
+ for academic affairs and outreach\, College of Design.\n\nTo register for 
+ one of the workshops\, visit [1]. Lunch will be provided.\n\nGTRI research
+  faculty should register for a GTRI Implicit Bias workshop via StarTrak [2
+ ]. Please contact Sarah Cockrell ( [3] or 404-407-6349) for assistance.\n\
+ nLinks:\n[0]  http://hg.gatech.edu/node/629985#0\n[1]  http://www.advance.
+ gatech.edu/implicit-bias-workshops\n[2]  https://global.hgncloud.com/ga_in
+ stitute_tech/ts/home\n[3]  http://sarah.cockrell@gtri.gatech.edu/
+LOCATION:Student Center\, Piedmont Room
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MLK “Sunday” Supper: A Community Meal and Conversation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200123T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200124T010000Z
@@ -31642,6 +31665,43 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Implicit Bias Workshop
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200205T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200205T183000Z
+UID:http://hg.gatech.edu/node/629986#0
+DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nInstitu
+ te Diversity\, in collaboration with the Office of the Vice Provost for Gr
+ aduate Education and Faculty Development and Georgia Tech’s ADVANCE Prog
+ ram\, is offering Implicit Bias Workshops for faculty this spring. All fac
+ ulty who serve on reappointment\, promotion\, and/or tenure committees and
+  faculty search committees are required to participate in an Implicit Bias
+  Workshop pursuant to Provost Bras’ memo in October 2016 to academic lea
+ ders. However\, all instructional and research faculty are welcomed to att
+ end as space permits.\n\nThe goals of these workshops are to increase awar
+ eness of the impact of implicit bias and facilitate equitable decision-mak
+ ing across myriad processes related to faculty evaluations. As a participa
+ nt in the workshop\, you will learn the following:\n\n• An introduction 
+ to the concept of implicit bias and how these unconscious\, automatic ment
+ al processes may impact behaviors such as evaluating candidates during fac
+ ulty search and/or RPT processes.\n\n• Empirical research on vitaes\, le
+ tters of recommendations\, and teaching evaluations to illustrate the impa
+ ct of implicit bias on decisions.\n\n• Effective practices and strategie
+ s for faculty search and RPT committees.\n\nThese workshops will be facili
+ tated by Paul Benkeser\, senior associate chair and professor\, Wallace H.
+  Coulter Department of Biomedical Engineering\; Harris Dimitropoulos\, ass
+ ociate professor\, School of Architecture\; Robert Kirkman\, associate pro
+ fessor\, School of Public Policy\; Mark Mitchell\, associate director\, Ge
+ orgia Tech Research Institute\; and/or Michelle Rinehart\, associate dean 
+ for academic affairs and outreach\, College of Design.\n\nTo register for 
+ one of the workshops\, visit [1]. Lunch will be provided.\n\nGTRI research
+  faculty should register for a GTRI Implicit Bias workshop via StarTrak [2
+ ]. Please contact Sarah Cockrell ( [3] or 404-407-6349) for assistance.\n\
+ nLinks:\n[0]  http://hg.gatech.edu/node/629986#0\n[1]  http://www.advance.
+ gatech.edu/implicit-bias-workshops\n[2]  https://global.hgncloud.com/ga_in
+ stitute_tech/ts/home\n[3]  http://sarah.cockrell@gtri.gatech.edu/
+LOCATION:Student Success Center- President’s Suites C and D
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Career advice: resumes\, elevator pitches & more with Michael Laug
  hter
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200210T230000Z
@@ -31669,6 +31729,54 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  0\n[1]  http://www.uark.edu/\n[2]  http://www.uno.edu/\n[3]  http://www.lc
  c.gatech.edu/\n[4]  https://www.ece.gatech.edu/
 LOCATION:Stein House/4th St. Apts. A\, 733 Techwood Drive\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nano@Tech: Direct Write Processing of 3D Composite Nanostructures 
+ and 2D Electronic Materials using Focused Beams of Molecules and Electrons
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200211T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200211T180000Z
+UID:http://hg.gatech.edu/node/629948#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nDirect Write Processing of 3D Composite Nanostructures and 2D Electronic
+  Materials using Focused Beams of Molecules and Electrons\nProf. Andrei Fe
+ dorov - School of Mechanical Engineering\, Georgia Tech\nAbstract: Focused
+  Electron Beam Induced Processing (FEBIP) is a powerful method for atom-by
+ -atom fabrication of topologically complex nanostructures from a variety o
+ f materials. It has potential to provide a comprehensive processing enviro
+ nment for emerging electronic and quantum devices based on 2D materials. W
+ e are developing a family of multi-mode energized micro/nano-jet technique
+ s for local precursor delivery to resolve the FEBID challenges and to expa
+ nd the range of useful precursors from gas to liquid phase for broader FEB
+ IP applications. Energized micro/nano-jets of thermally or electro-kinetic
+ ally energized precursors in both gas and liquid phase provide unique capa
+ bilities for localized delivery of precursor molecules to the substrate\, 
+ thus establishing locally controlled deposition/etching site for FEBIP. Un
+ derstanding of fascinating and interacting chemistry and physics on the mo
+ st fundamental level will be discussed as a route to develop new FEBIP mod
+ es and applications to emerging electronic and quantum devices based on 2D
+  materials.\n\nBio: Andrei G. Fedorov is Rae S. and Frank H. Chaired Profe
+ ssor in the School of Mechanical Engineering and the Petit Institute for B
+ ioengineering and Biosciences at Georgia Tech. His current research focuse
+ s on electron-beam-mediated nanomanufacturing\, MEMS-enabled bioanalytical
+  instrumentation\, thermal management of high performance electronics\, an
+ d power generation with synergetic CO2 capture. Fedorov has authored/co-au
+ thored over 200 archival articles in premier technical journals. His resea
+ rch has led to development of new technologies for various applications\, 
+ resulting in over 40 issued US patents and pending patent applications. Fo
+ r his inventions of biomedical devices\, the World Technology Network (WTN
+ )\, in cooperation with AAAS Science Magazine\, CNN\, and leading technolo
+ gy companies\, selected Fedorov as a WTN Associate and one of the twenty-f
+ ive “most innovative people and organizations in the science and technol
+ ogy world” nominated for the 2005 World Technology Award in Health and M
+ edicine. He was recognized with the US National Aeronautics and Space Admi
+ nistration (NASA) Invention & Contribution Board Award for development of 
+ catalytic reactor technologies\, as well as multiple inventor recognition 
+ awards from the Semiconductor Research Corporation (SRC) and Microelectron
+ ics Advanced Research Corporation (MARCO).\n\nLinks:\n[0]  http://hg.gatec
+ h.edu/node/629948#0\n[1]  http://ien.gatech.edu
+LOCATION:Marcus Nanotechnology Building 1117-1118 | 345 Ferst Drive | Atla
+ nta GA | 30332
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Society of Women Engineers General Body Meeting
@@ -31758,6 +31866,20 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Nano@Tech: Lisa Yaszek - School of Literature\, Media\, and Commun
+ ications\, Georgia Tech
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200225T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200225T180000Z
+UID:http://hg.gatech.edu/node/629950#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nLisa Yaszek - School of Literature\, Media\, and Communications\, Georgi
+ a Tech\nAbstract: TBA\n\nBio: TBA\n\nLinks:\n[0]  http://hg.gatech.edu/nod
+ e/629950#0\n[1]  http://ien.gatech.edu
+LOCATION:Pettit Microelectronics Building 102 A&B | 791 Atlantic Drive | A
+ tlanta GA | 30332
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Society of Women Engineers General Body Meeting
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200225T221500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200226T000000Z
@@ -31773,6 +31895,43 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  sident@gmail.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/624549#17\n
  [1]  swepresident@gmail.com\n[2]  https://www.facebook.com/GeorgiaTechSWE/
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Implicit Bias Workshop
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200226T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200226T183000Z
+UID:http://hg.gatech.edu/node/629987#0
+DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nInstitu
+ te Diversity\, in collaboration with the Office of the Vice Provost for Gr
+ aduate Education and Faculty Development and Georgia Tech’s ADVANCE Prog
+ ram\, is offering Implicit Bias Workshops for faculty this spring. All fac
+ ulty who serve on reappointment\, promotion\, and/or tenure committees and
+  faculty search committees are required to participate in an Implicit Bias
+  Workshop pursuant to Provost Bras’ memo in October 2016 to academic lea
+ ders. However\, all instructional and research faculty are welcomed to att
+ end as space permits.\n\nThe goals of these workshops are to increase awar
+ eness of the impact of implicit bias and facilitate equitable decision-mak
+ ing across myriad processes related to faculty evaluations. As a participa
+ nt in the workshop\, you will learn the following:\n\n• An introduction 
+ to the concept of implicit bias and how these unconscious\, automatic ment
+ al processes may impact behaviors such as evaluating candidates during fac
+ ulty search and/or RPT processes.\n\n• Empirical research on vitaes\, le
+ tters of recommendations\, and teaching evaluations to illustrate the impa
+ ct of implicit bias on decisions.\n\n• Effective practices and strategie
+ s for faculty search and RPT committees.\n\nThese workshops will be facili
+ tated by Paul Benkeser\, senior associate chair and professor\, Wallace H.
+  Coulter Department of Biomedical Engineering\; Harris Dimitropoulos\, ass
+ ociate professor\, School of Architecture\; Robert Kirkman\, associate pro
+ fessor\, School of Public Policy\; Mark Mitchell\, associate director\, Ge
+ orgia Tech Research Institute\; and/or Michelle Rinehart\, associate dean 
+ for academic affairs and outreach\, College of Design.\n\nTo register for 
+ one of the workshops\, visit [1]. Lunch will be provided.\n\nGTRI research
+  faculty should register for a GTRI Implicit Bias workshop via StarTrak [2
+ ]. Please contact Sarah Cockrell ( [3] or 404-407-6349) for assistance.\n\
+ nLinks:\n[0]  http://hg.gatech.edu/node/629987#0\n[1]  http://www.advance.
+ gatech.edu/implicit-bias-workshops\n[2]  https://global.hgncloud.com/ga_in
+ stitute_tech/ts/home\n[3]  http://sarah.cockrell@gtri.gatech.edu/
+LOCATION:Student Success Center- President’s Suites C and D
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Book Discussion with Christen Smiley of Institute Diversity\, Equi
@@ -31810,6 +31969,22 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  sident@gmail.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/624549#18\n
  [1]  swepresident@gmail.com\n[2]  https://www.facebook.com/GeorgiaTechSWE/
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nano@Tech: Debra Rolison\, Naval Research Laboratory
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200310T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200310T170000Z
+UID:http://hg.gatech.edu/node/629953#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nDebra Rolison\, Naval Research Laboratory\nAbstract: TBA\n\nBio: TBA\n\n
+ This lecture hosted by the Graduates in Nanotechnology Student Group. If y
+ ou are interested in participating in GIN activities\, please contact Dr. 
+ Quinn Spadola\, Director of Education and Outreach\, NNCI & SENIC at: quin
+ n.spadola@ien.gatech.edu\n\nLinks:\n[0]  http://hg.gatech.edu/node/629953#
+ 0\n[1]  http://ien.gatech.edu
+LOCATION:Marcus Nanotechnology Building 1117-1118 | 345 Ferst Drive | Atla
+ nta GA | 30332
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Society of Women Engineers General Body Meeting
@@ -31860,6 +32035,57 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
  node/623645#0\n[1]  https://www.scl.gatech.edu/sclirc/seminars/register\n[
  2]  http://www.manufacturing.gatech.edu/directions
 LOCATION:GTMI: 1st floor Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Implicit Bias Workshop
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200312T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200312T173000Z
+UID:http://hg.gatech.edu/node/630018#0
+DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nInstitu
+ te Diversity\, in collaboration with the Office of the Vice Provost for Gr
+ aduate Education and Faculty Development and Georgia Tech’s ADVANCE Prog
+ ram\, is offering Implicit Bias Workshops for faculty this spring. All fac
+ ulty who serve on reappointment\, promotion\, and/or tenure committees and
+  faculty search committees are required to participate in an Implicit Bias
+  Workshop pursuant to Provost Bras’ memo in October 2016 to academic lea
+ ders. However\, all instructional and research faculty are welcomed to att
+ end as space permits.\n\nThe goals of these workshops are to increase awar
+ eness of the impact of implicit bias and facilitate equitable decision-mak
+ ing across myriad processes related to faculty evaluations. As a participa
+ nt in the workshop\, you will learn the following:\n\n• An introduction 
+ to the concept of implicit bias and how these unconscious\, automatic ment
+ al processes may impact behaviors such as evaluating candidates during fac
+ ulty search and/or RPT processes.\n\n• Empirical research on vitaes\, le
+ tters of recommendations\, and teaching evaluations to illustrate the impa
+ ct of implicit bias on decisions.\n\n• Effective practices and strategie
+ s for faculty search and RPT committees.\n\nThese workshops will be facili
+ tated by Paul Benkeser\, senior associate chair and professor\, Wallace H.
+  Coulter Department of Biomedical Engineering\; Harris Dimitropoulos\, ass
+ ociate professor\, School of Architecture\; Robert Kirkman\, associate pro
+ fessor\, School of Public Policy\; Mark Mitchell\, associate director\, Ge
+ orgia Tech Research Institute\; and/or Michelle Rinehart\, associate dean 
+ for academic affairs and outreach\, College of Design.\n\nTo register for 
+ one of the workshops\, visit [1]. Lunch will be provided.\n\nGTRI research
+  faculty should register for a GTRI Implicit Bias workshop via StarTrak [2
+ ]. Please contact Sarah Cockrell ( [3] or 404-407-6349) for assistance.\n\
+ nLinks:\n[0]  http://hg.gatech.edu/node/630018#0\n[1]  http://www.advance.
+ gatech.edu/implicit-bias-workshops\n[2]  https://global.hgncloud.com/ga_in
+ stitute_tech/ts/home\n[3]  http://sarah.cockrell@gtri.gatech.edu/
+LOCATION:Student Center\, Peachtree Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nano@Tech: David Myers - Wallace H. Coulter Department of Biomedic
+ al Engineering\, Georgia Tech
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200324T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200324T170000Z
+UID:http://hg.gatech.edu/node/629958#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nDavid Myers - Wallace H. Coulter Department of Biomedical Engineering\, 
+ Georgia Tech\nAbstract: TBA\n\nBio: TBA\n\nLinks:\n[0]  http://hg.gatech.e
+ du/node/629958#0\n[1]  http://ien.gatech.edu
+LOCATION:Marcus Nanotechnology Building 1117-1118 | 345 Ferst Drive | Atla
+ nta GA | 30332
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Society of Women Engineers General Body Meeting
@@ -32006,6 +32232,19 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  e yearns to produce.\n\nLinks:\n[0]  http://hg.gatech.edu/node/621371#0\n[
  1]  https://dramatech.org/event/a-new-brain/
 LOCATION:DramaTech Theatre\, north side of the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nano@Tech: Khalid Salaita - Department of Chemistry\, Emory Univ.
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200414T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200414T170000Z
+UID:http://hg.gatech.edu/node/629971#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nKhalid Salaita - Department of Chemistry\, Emory Univ.\nAbstract: TBA\n\
+ nBio: TBA\n\nLinks:\n[0]  http://hg.gatech.edu/node/629971#0\n[1]  http://
+ ien.gatech.edu
+LOCATION:Marcus Nanotechnology Building 1117-1118 | 345 Ferst Drive | Atla
+ nta GA | 30332
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Society of Women Engineers General Body Meeting
@@ -32183,6 +32422,20 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  sident@gmail.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/624549#24\n
  [1]  swepresident@gmail.com\n[2]  https://www.facebook.com/GeorgiaTechSWE/
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nano@Tech: Hitesh Handa - School of Chemical\, Materials\, and Bio
+ medical Engineering\, Univ. of Georgia
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200428T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200428T170000Z
+UID:http://hg.gatech.edu/node/629972#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nHitesh Handa - School of Chemical\, Materials\, and Biomedical Engineeri
+ ng\, Univ. of Georgia\nAbstract: TBA\n\nBio: TBA\n\nLinks:\n[0]  http://hg
+ .gatech.edu/node/629972#0\n[1]  http://ien.gatech.edu
+LOCATION:Marcus Nanotechnology Building 1117-1118 | 345 Ferst Drive | Atla
+ nta GA | 30332
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Petit Institute Distinguished Lecture
