@@ -2,173 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Dean's New Graduate Alumni Celebration
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181213T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181214T013000Z
-UID:http://hg.gatech.edu/node/614357#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \nExtras: Free food\, Freebies\nStatus: published\n\nCongratulations! You 
- are about to earn your graduate degree from Georgia Tech\, and we want to 
- honor your achievement and help you celebrate!\n\nPlease join us for the D
- ean's New Graduate Alumni Celebration\, to be held Thursday\, Dec. 13\, 5 
- p.m. - 8:30 p.m. at Georgia Tech's Historic Academy of Medicine. Families 
- and graduates will have the opportunity to mingle with Dean Zvi Galil\, Co
- llege of Computing professors\, staff and fellow students!\n\n- 5 p.m. - 6
- :30 p.m. - Hors d'oeuvres\, cocktails and registration\n- 6:30 p.m. - 7:30
-  p.m. - Program\n- 7:30 p.m. - 8:30 p.m. - Dessert and coffee\n\nComplimen
- tary valet parking is available at the Historic Academy of Medicine [1] fo
- r this event on Thursday\, Dec. 13\, 5 p.m. - 8:30 p.m.\n\nPlease RSVP no 
- later than Monday\, Dec.3\n\nMake a weekend out of your graduation celebra
- tion!\n\n- OMSCS New Graduate Campus Tour: Thursday\, Dec. 13\, 3 p.m. Fam
- ily and graduation guests welcome. Please RSVP via email to b [2] robert@c
- c.gatech.edu [3] with your expected number of participants.\n- Ph.D. Comme
- ncement: [4] Friday\, Dec. 14\, 9 a.m. -11 a.m. at McCamish Pavilion [5]. 
- Students need to report for line-up at 8:15 a.m.\n- President's Graduation
-  Celebration [6]: Friday\, Dec. 14\, 11 a.m. - 1 p.m.\, Student Center. No
-  RSVP required.\n- Master's Commencement [4]: Friday\, Dec. 14\, 3 p.m. - 
- 5:30 p.m. at McCamish Pavilion [5]. Students need to report for line-up at
-  2 p.m.\n\nLinks:\n[0]  http://hg.gatech.edu/node/614357#0\n[1]  http://ww
- w.academy.gatech.edu/\n[2]  baiello@cc.gatech.edu\n[3]  http://brobert@cc.
- gatech.edu\n[4]  http://www.commencement.gatech.edu/schedule\n[5]  http://
- www.commencement.gatech.edu/venue-information\n[6]  http://www.commencemen
- t.gatech.edu/presidents-graduation-celebration
-LOCATION:Academy of Medicine
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Georgia Tech Characterization Short Course Series: Surface Science
-  Techniques – Focus on Photoelectron Spectroscopy and ToF-SIMS
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181214T013000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181214T210000Z
-UID:http://hg.gatech.edu/node/613896#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nDescription: The 
- Materials Characterization Facility (MCF) at Georgia Tech will offer a sho
- rt course on “Surface Science Techniques – Focus on Photoelectron Spec
- troscopy and ToF-SIMS” on December 13 & 14\, 2018. This 2-day short cour
- se combines lectures and laboratory\, and is designed for individuals inte
- rested in hands-on training in XPS and/or SIMS. It will cover essential su
- rface science analytical techniques\, including point spectra\, area maps\
- , and depth profiles as well as sample preparation techniques. Attendees w
- ill learn how to choose and prepare suitable samples\, set up and execute 
- an experiment\, and analyze data. This course is suitable for both new and
-  experienced researchers. Target Audience:\nAttendance is open to research
- ers from academia\, industry and government laboratories/ organizations as
-  well as to current Georgia Tech students\, IEN and MCF users. Anyone who 
- is interested in characterization of materials is invited and strongly enc
- ouraged to participate. The concepts and techniques presented are broadly 
- applicable to materials. Rates: *Rates include lunches on all days*\n\nGeo
- rgia Tech Rate: $150\nAcademic and Government Rate: $250\nIndustry Rate: $
- 500\n\nAgenda\nDay1 – Photoelectron Spectroscopy:\n\n08:30 – Registrat
- ion starts\n\n09:00: Introduction and Scope of Short Course – Prof. F. A
- lamgir\n\nMorning session including the following activities:\n\n- Lecture
-  onTheoretical background of Photoelectron Spectroscopy\n- Tour of MCF cha
- racterization labs\n- Coffee break\n\n12:00 – 13:00: Lunch break\n\nAfte
- rnoon session include the following activities:\n\n- Introduction to XPS a
- nalysis software\n- XPS hands-on operation and data analysis sessions.\n\n
- 15:10 – 16:00: General comments: Open question and answer session\n\nDay
- 2 – Time of Flight SIMS:\n\n09:00 – Breakfast starts\n\n09:30: Introdu
- ction– Prof. F. Alamgir\n\nMorning session including the following activ
- ities:\n\n- Tour of IEN microfabrication facility\n- Coffee break\n- Pract
- ical concerns for ToF-SIMS and Alternate Surface Science Techniques\n\n11:
- 30 – 13:00: Lunch break\n\nAfternoon session including the following act
- ivities:\n\n- Remote Demonstration of ToF-SIMS operation\n- ToF-SIMS Data 
- analysis and/or hands-on session.\n- Open question and answer session\n\n1
- 6:00: Closing comments\n\nREGISTER FOR THE COURSE AT THIS LINK [1]\n\nLink
- s:\n[0]  http://hg.gatech.edu/node/613896#0\n[1]  http://events.r20.consta
- ntcontact.com/register/event?llr=m48bm8rab&oeidk=a07eftlgg75929b4f7e\n[2] 
-  http://ien.gatech.edu/
-LOCATION:Marcus Nanotechnology Building | 345 Ferst Dr NW | Atlanta\, GA |
-  30332
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:President's Graduation Celebration Fall 2018
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181214T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181214T180000Z
-UID:http://hg.gatech.edu/node/612962#0
-DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\, Freebies
- \nStatus: published\n\nFall 2018 graduates\, along with their parents and 
- friends\, are invited to share in the excitement of Commencement at Georgi
- a Tech’s President's Graduation Celebration. Held on Friday\, December 1
- 4\, from 11 a.m.-1 p.m. in the Student Center Ballroom\, families and grad
- uates have an opportunity to take photos with beloved Tech mascots\, meet 
- administrators\, faculty\, and staff\, and share in unique traditions that
-  make Georgia Tech such a cherished institution.\n\nAdmission is free to a
- ll graduates and their families. More information can be found at http://w
- ww.commencement.gatech.edu/presidents-graduation-celebration. [1]\n\nLinks
- :\n[0]  http://hg.gatech.edu/node/612962#0\n[1]  http://www.commencement.g
- atech.edu/presidents-graduation-celebration\n[2]  http://studentcenter.gat
- ech.edu/Pages/Home.aspx
-LOCATION:Student Center Ballroom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dean's New Undergraduate Alumni Celebration
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181214T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181214T193000Z
-UID:http://hg.gatech.edu/node/614355#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nCongratulations to another class of graduates\,
-  who will soon become part of the thousands of GT Computing alumni spread 
- around the world. We'd like to help our newest alumni mark the occasion at
-  the Fall 2018 Dean's New Alumni Celebration!\n\nPlease join us Friday\, D
- ec. 14 from noon - 2:30 p.m. in the Klaus Advanced Computing Building Atri
- um. Families and graduates will have an opportunity to take photos\, meet 
- administrators\, faculty\, and staff\, and share in unique traditions that
-  make the College of Computing a special place among Georgia Tech's colleg
- es. RSVPs required for students and their guests (up to 5 guests per stude
- nt).\n\n- Noon - 12:30 p.m. - Registration for graduating students\n- 12:3
- 0 p.m. - 1:30 p.m. - Program\n- 1:30 p.m. - 2:30 p.m. - Lunch reception\n-
-  Before our celebration\, graduates and families are encouraged to make a 
- day of it:\n\nGeorgia Tech's President's Graduation Celebration [1] is sch
- eduled for 11 a.m. - 1 p.m. at the Student Center Ballroom. No RSVP is req
- uired.\n\nClick here for Commencement Parking and Transit. [2]\n\nClick he
- re for more parking lots [3].\n\nBachelor's Commencement: [4] Saturday\, D
- ec. 15\, 9 a.m. - 11:30 a.m.\, McCamish Pavilion [5]. Graduating students 
- must arrive no later than 8 a.m.!\n\nIf you are unable to attend Georgia T
- ech's Commencement\, please tune in here: [6]\n\nWe wish all of our gradua
- tes and their guests a happy and enjoyable day\, and look forward to celeb
- rating with each and every one of you!\n\nLinks:\n[0]  http://hg.gatech.ed
- u/node/614355#0\n[1]  http://www.commencement.gatech.edu/presidents-gradua
- tion-celebration\n[2]  http://www.commencement.gatech.edu/parking-and-tran
- sit\n[3]  https://pts.gatech.edu/visitors#l3\n[4]  http://www.commencement
- .gatech.edu/schedule\n[5]  http://www.commencement.gatech.edu/venue-inform
- ation\n[6]  http://www.commencement.gatech.edu/live
-LOCATION:Klaus Atrium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BME Graduation Celebration\, Fall 2018
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181214T180000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181214T200000Z
-UID:http://hg.gatech.edu/node/614319#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nStatus: published\n\nIt’s almost that time!\nF
- all 2018 Graduation\n\nMark your calendar for DEC. 14TH from 1-3pm\, in th
- e Marcus Nano Atrium\nWe will have light snacks and plenty of merriment as
-  we celebrate our AWESOME Fall 2018 Graduates!\n\nJoin us to celebrate wit
- h our BME graduates and their families!\n\nCan’t wait to see you there!\
- n\nLinks:\n[0]  http://hg.gatech.edu/node/614319#0
-LOCATION:Marcus Nanotechnology Atrium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yoga for the Soul
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181215T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181215T030000Z
-UID:http://hg.gatech.edu/node/612509#8
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nWe at Bhakti Yoga Club at GeorgiaTech want to i
- mprove the quality of living of students and faculty by teaching them prin
- ciples for a stress-free\, happy and meaningful life. We offer free classe
- s on various forms of yoga and vegan cooking every Friday in the Student C
- enter from 7 to 10 PM! We start with some basic discussions on the theory\
- , do intense exercises followed by yoga practices\, and end with some good
-  music and a free vegan dinner.\n\nWe also provide access to youth counsel
- ors to help students improve their lives through yoga.\n\nLinks:\n[0]  htt
- p://hg.gatech.edu/node/612509#8\n[1]  https://chat.whatsapp.com/6R5qHrOFkD
- OBWVmxcmnpYw\n[2]  https://orgsync.com/167032/chapter\n[3]  https://www.fa
- cebook.com/BYCGT/
-LOCATION:Room 343\, 3rd Floor (next to the Student Ballroom)\, Student Cen
- ter
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2018 Magnetic Resonance Workshop @ Georgia Tech
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20181218T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20181218T210000Z
@@ -31222,6 +31055,24 @@ LOCATION:Marcus Nanotechnology Building 1116-1118 | 345 Ferst Drive | Atla
  nta GA | 30332
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Spring TA Orientation - Session 1
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200114T213000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200115T003000Z
+UID:http://hg.gatech.edu/node/630100#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nAre you a new GTA or UTA? In this
+  essential introduction to your role as a TA\, you will learn about your n
+ ew responsibilities\, the policies that govern your work\, and useful tool
+ s to use in your course. Led by a team of experienced Graduate Teaching Fe
+ llows\, TAO is an engaging introduction to life as a TA at Georgia Tech. C
+ heck with your department to find out if your attendance at this event is 
+ mandatory.\n\nREGISTER [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/63010
+ 0#0\n[1]  https://ctl.gatech.edu/content/spring-2020-teaching-assistant-or
+ ientation-tao\n[2]  http://ctl.gatech.edu/grad-students/teaching-assistant
+ s
+LOCATION:Student Center Ballroom
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Open house to tour WST Learning Community
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200114T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200114T230000Z
@@ -31438,6 +31289,28 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Various Georgia Tech locations\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Academic Job Search 102: Academic interviewing and job talk
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200117T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200117T170000Z
+UID:http://hg.gatech.edu/node/630104#0
+DESCRIPTION:Intended audience: Graduate students\, Postdoc\nExtras: Free f
+ ood\nStatus: draft\n\nMost faculty positions are posted in the fall semest
+ er to start the following academic year. As such\, graduate students and p
+ ostdoctoral scholars going on the job market for faculty positions within 
+ the next year should prepare and submit their application packets in the f
+ all semester. The spring career workshop series helps you sharpen your int
+ erview skills and prepare for job talks\, just in time for on-campus inter
+ view season.\n\nAt this workshop\, you will investigate the academic job i
+ nterview process\, from the phone interview through the job talk. Alleviat
+ e anxiety by understanding the fundamentals for preparing an oral presenta
+ tion for your next job interview or conference presentation. Bring your cu
+ rrent CV and a sample job description to which you have applied. This sess
+ ion includes both academic interviewing and academic job talks.\n\nREGISTE
+ R [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/630104#0\n[1]  http://ctl.
+ gatech.edu/grad-students/workshops
+LOCATION:Piedmont Room\, Student Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:International Opportunities Open House
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200121T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200121T170000Z
@@ -31450,6 +31323,23 @@ DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\n
  to see you there!\n\nLinks:\n[0]  http://hg.gatech.edu/node/628785#0\n[1] 
   https://oie.gatech.edu/
 LOCATION:Student Center Piedmont Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring TA Orientation - Session 2
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200121T213000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200122T003000Z
+UID:http://hg.gatech.edu/node/630101#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nAre you a new GTA or UTA? In this
+  essential introduction to your role as a TA\, you will learn about your n
+ ew responsibilities\, the policies that govern your work\, and useful tool
+ s to use in your course. Led by a team of experienced Graduate Teaching Fe
+ llows\, TAO is an engaging introduction to life as a TA at Georgia Tech. C
+ heck with your department to find out if your attendance at this event is 
+ mandatory.\n\nREGISTER [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/63010
+ 1#0\n[1]  http://ctl.gatech.edu/content/spring-2020-teaching-assistant-ori
+ entation-tao\n[2]  http://ctl.gatech.edu/grad-students/teaching-assistants
+LOCATION:Student Center Peachtree Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Society of Women Engineers General Body Meeting
