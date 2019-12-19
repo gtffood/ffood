@@ -2,58 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:2018 Magnetic Resonance Workshop @ Georgia Tech
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181218T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181218T210000Z
-UID:http://hg.gatech.edu/node/609750#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nStatus: published\n\nThe aim of this workshop is
-  to:\n\n- Foster the collaboration and communication between all researche
- rs and laboratories at Georgia Tech and neighboring universities working w
- ith the closely related techniques NMR spectroscopy and MRI.\n- Help resea
- rchers to get started using Magnetic Resonance in their research.\n- Allow
-  advanced students and post-docs to showcase their research.\n\nThe centra
- l part of the workshop will be a “mini symposium” with a variety of sh
- ort talks covering MR applications ranging from functional MRI over Bioche
- mistry to Material Sciences.\n\nThis is the opportunity to learn about NMR
-  and MRI and ask questions!\n\nREGISTER HERE [1]\n\nAGENDA\n\n10:00 a.m. W
- elcome\, Johannes Leisen - School of Chemistry and Biochemistry\, Georgia 
- Tech\n\n10:10 a.m. Approaches to Decoding Mental States with MRI\, Thacker
- y Brown – School of Psychology\, Georgia Tech\n\n10:40 a.m. Application 
- of NMR in the Study of Probiotic Oligomerization of Glucose\, Zhao Li – 
- School of Chemistry and Biochemistry\, Georgia Tech\n\n11:00 a.m. Study of
-  the β-sheet Structure in the N-terminal Region of Aβ1-42 150-kDa Oligom
- ers using Solid State NMR\, Yuan Gao – School of Chemical and Biomolecul
- ar Engineering\, Georgia Tech\n\n11:20 a.m. Spatial and Temporal Analysis 
- of Brain Networks using Functional MRI\, Maysam Nezafati – Wallace H. Co
- ulter Department of Biomedical Engineering\, Georgia Tech\n\n11:40 a.m. Un
- derstanding the Structural Flexibility of Metal-Organic Frameworks Using N
- MR Spectroscopy and Molecular Dynamics Simulations\, Chu Han – School of
-  Chemical and Biomolecular Engineering\, Georgia Tech\n\n12 noon Lunch\n\n
- 12:50 p.m. Relaxometric Assessment of Matrix Integrity in Cartilage and In
- tervertebral Disc\, David Reiter – Department of Radiology and Imaging S
- ciences\, Emory University\n\n1:20 p.m. Tracking f-element Imidophosphoran
- e Complexes by 31P NMR\, Natalie Rice – School of Chemistry and Biochemi
- stry\, Georgia Tech\n\n1:40 p.m. Ion Dynamics in Solid Electrolytes\, Ah-Y
- oung Song – School of Materials Science and Engineering\, Georgia Tech\n
- \n2:00 p.m. XD-GRASP (Extra Dimensional Golden-Angle Radial Sparse Paralle
- l) MRI\, Jackson Hair – Wallace H. Coulter Department of Biomedical Engi
- neering\, Georgia Tech\n\n2:20 p.m. Coffee break\n\n2:40 p.m. Chemokine Re
- ceptor 4 Targeted Protein MRI Contrast Agent for Early Detection of Liver 
- Metastases\, Shanshan Tan – Georgia State University\n\n3:00 p.m. Magnet
- ic Property Measurement of Spinel Ferrite Nanoparticles\, Yi Cao – Schoo
- l of Chemistry and Biochemistry\, Georgia Tech\n\n3:20 p.m. An I for a G\;
-  The Consequences of an Amino Group\, Zachary Ferris - Georgia State Unive
- rsity\n\n3:40 p.m. Dynamic Nucleation in Metastable Peptide Particle Conde
- nsates\, Anthony Sementelli – Emory University\n\n4:00 p.m. Wrap-up\n\nS
- ession Chairs: Hannah Song\, Anastasia Velalopoulou\, Bhuwan Chhetri\, Kon
- g Wong\n\nLinks:\n[0]  http://hg.gatech.edu/node/609750#0\n[1]  http://pet
- itinstitute.gatech.edu/2018-magnetic-resonance-workshop-registration\n[2] 
-  http://petitinstitute.gatech.edu/
-LOCATION:Parker H. Petit Institute for Bioengineering and Bioscience\, var
- ious locations
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Yoga for the Soul
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20181222T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20181222T030000Z
@@ -30905,6 +30853,54 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFood4Lives is a service
 LOCATION:Food4lives Kitchen
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Digital Fabrication Lab Showcase
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200106T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200106T230000Z
+UID:http://hg.gatech.edu/node/630137#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nJoin the Georgia 
+ Tech School of Architecture for the Digital Fabrication Lab (DFL) Showcase
+  on Monday\, January 6 at 4pm in the DFL. Join us for pizza and an exhibit
+ ion of all of the work currently taking place in the DFL.\n\nThe following
+  faculty will have studio projects\, research\, and coursework on display:
+  Keith Kaseman [1]\, Vernelle Noel [2]\, Russell Gentry [3]\, Daniel Baerl
+ ecken [4]\, Stuart Romm [5]\, Tristan Al-Haddad [6]\, and Jake Tompkins [7
+ ].\n\nParking Details:\n\n- The Digital Fabrication Lab has approximately 
+ 20 parking spaces.\n- You are welcome to park across the street in front o
+ f the Randall Brothers\, Inc. building along Marietta Street. The parking 
+ lots on the sides of Randall Brothers are employee-only parking and the ga
+ tes close at night.\n- Area 3 Parking [8] is located on Ferst Drive near t
+ he Georgia Tech Student Center. This lot has a rate of $2/hr. Walk towards
+  the Campus Recreation Center and turn left on Means Street NW. A crosswal
+ k is available at the Means Street and Marietta Street intersection.\n- He
+ re is the link to the campus parking map. [9] The Digital Fabrication Lab 
+ is represented by W09.\n\nLinks:\n[0]  http://hg.gatech.edu/node/630137#0\
+ n[1]  https://arch.gatech.edu/people/keith-kaseman\n[2]  https://arch.gate
+ ch.edu/people/vernelle-noel\n[3]  https://arch.gatech.edu/people/russell-g
+ entry\n[4]  https://arch.gatech.edu/people/daniel-baerlecken\n[5]  https:/
+ /arch.gatech.edu/people/stuart-romm\n[6]  https://arch.gatech.edu/people/t
+ ristan-al-haddad\n[7]  https://arch.gatech.edu/digital-fabrication-lab-0\n
+ [8]  https://gatech.us1.list-manage.com/track/click?u=04b200ded3d9fea3c916
+ 281c3&id=3019a15131&e=38809c7f97\n[9]  https://arch.gatech.edu/system/file
+ s/images/school_of_arch_parkingmap.pdf
+LOCATION:Digital Fabrication Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vertically Integrated Projects (VIP) Poster Session
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200107T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200107T220000Z
+UID:http://hg.gatech.edu/node/630133#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nThe VIP Spring Poster Session is open to ALL student
+ s looking for research opportunities!\n\nPlease join us on Tuesday\, Janua
+ ry 7th as we host our VIP Poster Session!\n\nPoster Sessions are a GREAT w
+ ay to get involved in undergraduate research. Come check out our OVER 80 i
+ nteresting research projects that are looking for students like you! Learn
+  more at [1]\n\nRefreshments will be provided.\n\nLinks:\n[0]  http://hg.g
+ atech.edu/node/630133#0\n[1]  https://www.vip.gatech.edu/teams
+LOCATION:Atrium\, Klaus Advanced Computing Building
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Clone of Open house to tour WST Learning Community
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200107T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200107T230000Z
@@ -31014,6 +31010,27 @@ DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nInstitu
  gatech.edu/implicit-bias-workshops\n[2]  https://global.hgncloud.com/ga_in
  stitute_tech/ts/home\n[3]  http://sarah.cockrell@gtri.gatech.edu/
 LOCATION:Student Success Center- President’s Suites C and D
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:InVenture Prize Registration deadline
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200114T043000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200114T044500Z
+UID:https://gatech.campuslabs.com/engage/event/5309699
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nRegister t
+ oday for the GT InVenture Prize [1]\n\nALL undergraduate students are invi
+ ted to register for the 2020 InVenture Prize competition! Student teams wi
+ ll work on perfecting their pitch\, developing their product or service\, 
+ while being paired with mentors. Monetary prizes for 1st\, 2nd and People'
+ s Choice winning teams of the final competition on March 11\, 2020 will be
+  awarded at $20\,000\, $10\,000 and $5\,000 respectively.\n\nPrizes also i
+ nclude patent filings of up to $20\,000 for 1st and 2nd place. The 1st pla
+ ce winner is also automatically accepted into the CREATE-X Startup Launch 
+ program. [2]\n\nSubmission Deadline: Monday\, January 13\, 2020\n\nClick h
+ ere to read more about the competition and to register your idea! [1]\n\nL
+ inks:\n[0]  https://gatech.campuslabs.com/engage/event/5309699\n[1]  https
+ ://inventureprize.gatech.edu/\n[2]  http://create-x.gatech.edu/startup-lau
+ nch
+LOCATION:Clough Undergraduate Learning Commons
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Professor Ian Bogost\, Publications Workshop: Writing for General 
