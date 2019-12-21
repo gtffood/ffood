@@ -30975,6 +30975,20 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Stein House/4th St. A\, 733 Techwood\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ECN Winter Social
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200113T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200113T180000Z
+UID:http://hg.gatech.edu/node/629937#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nJoin us to celebrate the start of the new year 
+ and expand your professional network. Light refreshments will be served. R
+ SVP for the event at [1].\n\nThe event will be from 11 a.m. - 1 p.m. in Pa
+ per and Clay on the third floor of the Georgia Tech Student Center.\n\nLin
+ ks:\n[0]  http://hg.gatech.edu/node/629937#0\n[1]  https://specialevents.g
+ atech.edu/professional-development/ecn
+LOCATION:Paper and Clay\, Georgia Tech Student Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Implicit Bias Workshop
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200113T170000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200113T183000Z
@@ -31703,6 +31717,23 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mindfulness Book (Session 1)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200212T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200212T170000Z
+UID:http://hg.gatech.edu/node/630266#0
+DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\nStatus: p
+ ublished\n\nJoin the Georgia Tech community in reading and discussing the 
+ book "Mindfulness Meditation: Your Guide to Achieving a Life of Peace by R
+ educing Stress and Anxiety through Mindfulness Meditation" by Daniel K. Ba
+ rton\, while also learning simple mindfulness exercises that you can easil
+ y incorporate into your daily routine. Light refreshments will be provided
+ .\n\nSession 1 meets from Feb. 12 through March 4.\n\nLinks:\n[0]  http://
+ hg.gatech.edu/node/630266#0\n[1]  https://gatech.co1.qualtrics.com/jfe/for
+ m/SV_0pMQP7EqznzDSK1\n[2]  https://healthinitiatives.gatech.edu/well-being
+ /mental/mindfulness
+LOCATION:Crescent Room\, Student Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SCL IRC Seminar: Feb 2020
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200212T170000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200212T183000Z
@@ -31773,6 +31804,23 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mindfulness Book (Session 1)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200219T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200219T170000Z
+UID:http://hg.gatech.edu/node/630266#1
+DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\nStatus: p
+ ublished\n\nJoin the Georgia Tech community in reading and discussing the 
+ book "Mindfulness Meditation: Your Guide to Achieving a Life of Peace by R
+ educing Stress and Anxiety through Mindfulness Meditation" by Daniel K. Ba
+ rton\, while also learning simple mindfulness exercises that you can easil
+ y incorporate into your daily routine. Light refreshments will be provided
+ .\n\nSession 1 meets from Feb. 12 through March 4.\n\nLinks:\n[0]  http://
+ hg.gatech.edu/node/630266#1\n[1]  https://gatech.co1.qualtrics.com/jfe/for
+ m/SV_0pMQP7EqznzDSK1\n[2]  https://healthinitiatives.gatech.edu/well-being
+ /mental/mindfulness
+LOCATION:Crescent Room\, Student Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nano@Tech: Lisa Yaszek - School of Literature\, Media\, and Commun
  ications\, Georgia Tech
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200225T170000Z
@@ -31802,6 +31850,23 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  sident@gmail.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/624549#17\n
  [1]  swepresident@gmail.com\n[2]  https://www.facebook.com/GeorgiaTechSWE/
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mindfulness Book (Session 1)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200226T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200226T170000Z
+UID:http://hg.gatech.edu/node/630266#2
+DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\nStatus: p
+ ublished\n\nJoin the Georgia Tech community in reading and discussing the 
+ book "Mindfulness Meditation: Your Guide to Achieving a Life of Peace by R
+ educing Stress and Anxiety through Mindfulness Meditation" by Daniel K. Ba
+ rton\, while also learning simple mindfulness exercises that you can easil
+ y incorporate into your daily routine. Light refreshments will be provided
+ .\n\nSession 1 meets from Feb. 12 through March 4.\n\nLinks:\n[0]  http://
+ hg.gatech.edu/node/630266#2\n[1]  https://gatech.co1.qualtrics.com/jfe/for
+ m/SV_0pMQP7EqznzDSK1\n[2]  https://healthinitiatives.gatech.edu/well-being
+ /mental/mindfulness
+LOCATION:Crescent Room\, Student Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Implicit Bias Workshop
@@ -31876,6 +31941,23 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  sident@gmail.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/624549#18\n
  [1]  swepresident@gmail.com\n[2]  https://www.facebook.com/GeorgiaTechSWE/
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mindfulness Book (Session 1)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200304T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200304T170000Z
+UID:http://hg.gatech.edu/node/630266#3
+DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\nStatus: p
+ ublished\n\nJoin the Georgia Tech community in reading and discussing the 
+ book "Mindfulness Meditation: Your Guide to Achieving a Life of Peace by R
+ educing Stress and Anxiety through Mindfulness Meditation" by Daniel K. Ba
+ rton\, while also learning simple mindfulness exercises that you can easil
+ y incorporate into your daily routine. Light refreshments will be provided
+ .\n\nSession 1 meets from Feb. 12 through March 4.\n\nLinks:\n[0]  http://
+ hg.gatech.edu/node/630266#3\n[1]  https://gatech.co1.qualtrics.com/jfe/for
+ m/SV_0pMQP7EqznzDSK1\n[2]  https://healthinitiatives.gatech.edu/well-being
+ /mental/mindfulness
+LOCATION:Crescent Room\, Student Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nano@Tech: Debra Rolison\, Naval Research Laboratory
@@ -32012,6 +32094,23 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mindfulness Book (Session 2)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200325T190000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200325T200000Z
+UID:http://hg.gatech.edu/node/630267#0
+DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\nStatus: p
+ ublished\n\nJoin the Georgia Tech community in reading and discussing the 
+ book "Mindfulness Meditation: Your Guide to Achieving a Life of Peace by R
+ educing Stress and Anxiety through Mindfulness Meditation" by Daniel K. Ba
+ rton\, while also learning simple mindfulness exercises that you can easil
+ y incorporate into your daily routine. Light refreshments will be provided
+ .\n\nSession 2 meets from March 25 through April 15.\n\nLinks:\n[0]  http:
+ //hg.gatech.edu/node/630267#0\n[1]  https://gatech.co1.qualtrics.com/jfe/f
+ orm/SV_0pMQP7EqznzDSK1\n[2]  https://healthinitiatives.gatech.edu/well-bei
+ ng/mental/mindfulness
+LOCATION:Room 301\, Student Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Society of Women Engineers General Body Meeting
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200331T211500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200331T230000Z
@@ -32027,6 +32126,23 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  sident@gmail.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/624549#21\n
  [1]  swepresident@gmail.com\n[2]  https://www.facebook.com/GeorgiaTechSWE/
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mindfulness Book (Session 2)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200401T190000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200401T200000Z
+UID:http://hg.gatech.edu/node/630267#1
+DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\nStatus: p
+ ublished\n\nJoin the Georgia Tech community in reading and discussing the 
+ book "Mindfulness Meditation: Your Guide to Achieving a Life of Peace by R
+ educing Stress and Anxiety through Mindfulness Meditation" by Daniel K. Ba
+ rton\, while also learning simple mindfulness exercises that you can easil
+ y incorporate into your daily routine. Light refreshments will be provided
+ .\n\nSession 2 meets from March 25 through April 15.\n\nLinks:\n[0]  http:
+ //hg.gatech.edu/node/630267#1\n[1]  https://gatech.co1.qualtrics.com/jfe/f
+ orm/SV_0pMQP7EqznzDSK1\n[2]  https://healthinitiatives.gatech.edu/well-bei
+ ng/mental/mindfulness
+LOCATION:Room 301\, Student Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DramaTech presents A New Brain
@@ -32082,6 +32198,23 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  sident@gmail.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/624549#22\n
  [1]  swepresident@gmail.com\n[2]  https://www.facebook.com/GeorgiaTechSWE/
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mindfulness Book (Session 2)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200408T190000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200408T200000Z
+UID:http://hg.gatech.edu/node/630267#2
+DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\nStatus: p
+ ublished\n\nJoin the Georgia Tech community in reading and discussing the 
+ book "Mindfulness Meditation: Your Guide to Achieving a Life of Peace by R
+ educing Stress and Anxiety through Mindfulness Meditation" by Daniel K. Ba
+ rton\, while also learning simple mindfulness exercises that you can easil
+ y incorporate into your daily routine. Light refreshments will be provided
+ .\n\nSession 2 meets from March 25 through April 15.\n\nLinks:\n[0]  http:
+ //hg.gatech.edu/node/630267#2\n[1]  https://gatech.co1.qualtrics.com/jfe/f
+ orm/SV_0pMQP7EqznzDSK1\n[2]  https://healthinitiatives.gatech.edu/well-bei
+ ng/mental/mindfulness
+LOCATION:Room 301\, Student Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DramaTech presents A New Brain
@@ -32255,6 +32388,23 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
  urray\n[2]  https://www.scl.gatech.edu/sclirc/seminars/register
 LOCATION:GTMI 1st floor auditorium OR ISyE Main Building\, 2nd Floor Atriu
  m (to be confirmed 30 days out)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mindfulness Book (Session 2)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200415T190000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200415T200000Z
+UID:http://hg.gatech.edu/node/630267#3
+DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\nStatus: p
+ ublished\n\nJoin the Georgia Tech community in reading and discussing the 
+ book "Mindfulness Meditation: Your Guide to Achieving a Life of Peace by R
+ educing Stress and Anxiety through Mindfulness Meditation" by Daniel K. Ba
+ rton\, while also learning simple mindfulness exercises that you can easil
+ y incorporate into your daily routine. Light refreshments will be provided
+ .\n\nSession 2 meets from March 25 through April 15.\n\nLinks:\n[0]  http:
+ //hg.gatech.edu/node/630267#3\n[1]  https://gatech.co1.qualtrics.com/jfe/f
+ orm/SV_0pMQP7EqznzDSK1\n[2]  https://healthinitiatives.gatech.edu/well-bei
+ ng/mental/mindfulness
+LOCATION:Room 301\, Student Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DramaTech presents A New Brain
