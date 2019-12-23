@@ -2,26 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Yoga for the Soul
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181222T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181222T030000Z
-UID:http://hg.gatech.edu/node/612509#9
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nWe at Bhakti Yoga Club at GeorgiaTech want to i
- mprove the quality of living of students and faculty by teaching them prin
- ciples for a stress-free\, happy and meaningful life. We offer free classe
- s on various forms of yoga and vegan cooking every Friday in the Student C
- enter from 7 to 10 PM! We start with some basic discussions on the theory\
- , do intense exercises followed by yoga practices\, and end with some good
-  music and a free vegan dinner.\n\nWe also provide access to youth counsel
- ors to help students improve their lives through yoga.\n\nLinks:\n[0]  htt
- p://hg.gatech.edu/node/612509#9\n[1]  https://chat.whatsapp.com/6R5qHrOFkD
- OBWVmxcmnpYw\n[2]  https://orgsync.com/167032/chapter\n[3]  https://www.fa
- cebook.com/BYCGT/
-LOCATION:Room 343\, 3rd Floor (next to the Student Ballroom)\, Student Cen
- ter
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CREATE-X Meet Your Co-Founder
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20181227T193100Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20181227T203100Z
@@ -32143,6 +32123,42 @@ DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\nStatus: p
  orm/SV_0pMQP7EqznzDSK1\n[2]  https://healthinitiatives.gatech.edu/well-bei
  ng/mental/mindfulness
 LOCATION:Room 301\, Student Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2020 Ideas 2 Serve Finals
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200401T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200402T003000Z
+UID:http://hg.gatech.edu/node/630328#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nExtras: Free food\, Freebies\nStatus: published\
+ n\nYou're invited to an afternoon of inspiring pitches showcasing the best
+  of Georgia Tech's passion to solve the world's most pressing social probl
+ ems (and raffle prizes and delicious cookies!). Come to support our studen
+ ts who Dare to Care!\n\nDuring the Finals Poster Showcase\, the judges wil
+ l circulate among finalists to determine the prize winners. Each team will
+  then present their one-minute pitch\, during which the audience can vote 
+ for their favorite team to win the Peoples’ Choice Award.\n\nI2S is a co
+ mpetition for students who are working on early-stage projects to solve so
+ cial/environmental problems. I2S is primarily a competition of ideas that 
+ are ready to move to 'action' and need mentoring\, expert feedback\, and f
+ unds to get started.\n\nIdeas for the competition might focus on sustainab
+ le community development\, access to quality education\, employment opport
+ unities for people with disabilities\, clean water solutions\, affordable 
+ health and wellness solutions for underserved populations\, alternate sour
+ ces of energy\, just to name a few.\n\nFind the list of finalist teams and
+  participating judging here [1].\n\nI2S is generously supported by our par
+ tners at Georgia Tech: The Cecil B. Day Program in Business Ethics\, Creat
+ e-X\, Innovation and Design Studio\, LEAD\, Steven A. Denning Technology a
+ nd Management Program\, The Center for Serve-Learn-Sustain\, The Engineeri
+ ng for Social Innovation Center\, The Global Development Program @ Sam Nun
+ n School\, and by our community partners:The Covenant Presbyterian Church\
+ , Hypepotamus\, and Speechworks.\n\nLinks:\n[0]  http://hg.gatech.edu/node
+ /630328#0\n[1]  https://www.scheller.gatech.edu/centers-initiatives/ile/i2
+ s/I2s_2018-program.pdf\n[2]  https://www.eventbrite.com/e/ideas-to-serve-i
+ 2s-competition-finals-tickets-44554401414\n[3]  https://www.scheller.gatec
+ h.edu/centers-initiatives/ile/i2s/index.html\n[4]  https://www.scheller.ga
+ tech.edu/why-scheller/visit-campus/directions-parking.html
+LOCATION:Scheller College of Business
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DramaTech presents A New Brain
