@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:CREATE-X Meet Your Co-Founder
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20181227T193100Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20181227T203100Z
-UID:http://hg.gatech.edu/node/615671#0
-DESCRIPTION:Intended audience: Graduate students\, Public\, Undergraduate 
- students\nExtras: Free food\nStatus: published\n\nHave a startup idea but 
- no teammates to build it with? Do you have skills you want to apply to a s
- tartup but don't have an idea? Come meet the co-founders you need to apply
-  to Startup Launch. Students from different universities across Georgia ar
- e invited to this CREATE-X speed networking event.\n\nRegister by January 
- 20th\, 2019 to guarantee your spot. Coffee\, tea\, and desserts will be se
- rved.\n\nLinks:\n[0]  http://hg.gatech.edu/node/615671#0\n[1]  https://gat
- ech.co1.qualtrics.com/jfe/form/SV_8As8MPo45pSdQAB
-LOCATION:Woodruff Residence Hall\, 850 Curran Street NW
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Grad Day at the Thrillerdome - Georgia Tech Basketball vs. Wake Fo
  rest
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190105T170000Z
@@ -30866,6 +30850,21 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Digital Fabrication Lab
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CREATE-X I2P Kickoff (+ pizza!)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200106T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200107T000000Z
+UID:http://hg.gatech.edu/node/630340#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nExtras: Free food\nStatus: published\n\nBe sure
+  to stop by Klaus room 2448 next week to learn more about Idea 2 Prototype
+  [1] (i2P). This signature program of CREATE-X will provide you with the s
+ kills and technical expertise to overcome technological challenges and $50
+ 0 to turn your idea into a working product.\n\nLinks:\n[0]  http://hg.gate
+ ch.edu/node/630340#0\n[1]  https://create-x.gatech.edu/idea-prototype\n[2]
+   https://gatech.co1.qualtrics.com/jfe/form/SV_cT3JjpIy9ntLA2h
+LOCATION:Klaus 2448
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Vertically Integrated Projects (VIP) Poster Session
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200107T210000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200107T220000Z
@@ -31486,6 +31485,24 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:McKinsey & Company Freshman Diversity Leader Intern Info Session
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200130T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200131T000000Z
+UID:https://career.gatech.edu/employer-information-sessions#1
+DESCRIPTION:Intended audience: All Majors\nStatus: unknown\n\nThis present
+ ation and breakout session is open to students who identity as Black/Afric
+ an American\, Hispanic/Latino or Native American and in the class 2023. Th
+ e event is meant as an informal opportunity for students to learn and ask 
+ questions related to McKinsey & Company (e.g.\, the work we do\, the types
+  of clients we serve\, our Freshman Diversity Leader Intern role\, etc.). 
+ We know the recruiting process can be overwhelming and want to give you th
+ e opportunity to get all your questions answered in an informal setting. F
+ ood and beverages will be provided. Please RSVP here: http://slyreply.com/
+ app/sheets/qgg6xqwdr1v9/\n\nLinks:\n[0]  https://career.gatech.edu/employe
+ r-information-sessions#1
+LOCATION:Bill Moore Student Success Center - President Suite A
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ivan Allen College CRIDC Graduate Paper Conference
 DTSTART;VALUE=DATE:20200131
 DTEND;VALUE=DATE:20200201
@@ -31547,6 +31564,45 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nMonthly Living Learning
   Communities Council Meeting!\n\nLinks:\n[0]  https://gatech.campuslabs.co
  m/engage/event/5157684
 LOCATION:Student Center Room 321
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCL February 2020 Supply Chain Day
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200204T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200204T190000Z
+UID:http://hg.gatech.edu/node/630338#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
+ aduate students\nStatus: published\n\nGeorgia Tech Supply Chain students\,
+  please join us for our spring Supply Chain Day! The 3-hour session will h
+ ost supply chain representatives from ​​4flow\, Armada\, Ebco\, GPC-Mo
+ tion Industries\, HD Supply\, KANE\, Kimberly-Clark Corporation\, Kinaxis\
+ , KNAPP\, LLamasoft\, Maxim Integrated\, MORSCO\, OMP\, Peeples Industries
+ \, Tosca\, Viasat\, Walmart\, WestRock\, APICS Atlanta Chapter\, and APICS
+  GT Student Chapter who will be on campus to educate supply chain students
+  about their organizations and available employment and networking opportu
+ nities.\n\nWe strongly encourage students to act now to seek full-time emp
+ loyment\, internships\, and projects (rather than waiting until the end of
+  the semester). Plus\, enjoy a free pizza lunch!\n\nEVENT DETAILS\nWhere: 
+ ISyE Main Bldg [1]\n\nWhen: Tuesday\, February 20\, 2019 | 11am - 2pm\n\nW
+ hat: The session will include:\n\n- Networking opportunities in the ISyE a
+ trium\n- Food and refreshments\n\nPlease plan on staying for the duration 
+ of the event and bring copies of your resume and business cards. Dress is 
+ business casual.\n\nREGISTER ONLINE [2] by January 21st to upload your res
+ ume and have it forwarded to the organization representatives!\nEVENT SPON
+ SOR\n\nThe event is sponsored through the generosity and support of JP Mor
+ gan Chase & Co. [3] and APICS - Atlanta Chapter [4]. APICS is a non-profit
+  educational organization addressing operations management and supply chai
+ n management issues\, and providing professional development opportunities
+  to its members. APICS Membership is free for full time students. Join tod
+ ay at [5] and start networking at local APIC Atlanta events. Also make sur
+ e to stop by the APICS table at the event.\n\nLinks:\n[0]  http://hg.gatec
+ h.edu/node/630338#0\n[1]  https://www.isye.gatech.edu/about/maps-direction
+ s/isye-building-complex\n[2]  https://www.scl.gatech.edu/supplychainday/st
+ udents\n[3]  https://www.jpmorganchase.com/\n[4]  http://www.apicsatlanta.
+ org/\n[5]  http://www.apics.org/join\n[6]  http://bit.ly/isye-complex\n[7]
+   https://www.scl.gatech.edu\n[8]  https://www.scl.gatech.edu/supplychaind
+ ay
+LOCATION:ISyE Main Bldg\, 1st & 2nd Floor Atrium and Executive Classroom 2
+ 28
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Society of Women Engineers General Body Meeting
