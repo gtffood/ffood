@@ -31369,6 +31369,23 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Integrate the U.N. SDGs into Teaching and Research
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200122T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200122T180000Z
+UID:http://hg.gatech.edu/node/630362#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nStatus: published\n\nCome hear the 2019 SLS U.N.
+  SDG Faculty Fellows share how they have integrated the Sustainable Develo
+ pment Goals into their teaching and research - and get ideas for doing (mo
+ re of) this in your own work. Fellows presenting include: Shatakshee Dhong
+ de (Economics)\, Alice Favero (Public Policy)\, Britta Kallin (Modern Lang
+ uages)\, Neha Kumar (Interactive Computing/International Affairs)\, Ravi S
+ ubramanian (Scheller)\, and John Taylor (Civil & Environmental Engineering
+ ). Dessert and coffee will be served and you are welcome to bring your own
+  lunch.\n\nLinks:\n[0]  http://hg.gatech.edu/node/630362#0
+LOCATION:Clough Lounge (Clough 205)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Implicit Bias Workshop
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200122T170000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200122T183000Z
