@@ -30817,6 +30817,27 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFood4Lives is a service
 LOCATION:Food4lives Kitchen
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Food Distribution Volunteering
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200104T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200104T190000Z
+UID:http://hg.gatech.edu/node/630475#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nFood4Lives is a service family founded by students f
+ rom Georgia Tech and Emory in 2017 to feed\, educate and empower the homel
+ ess of Atlanta.\n\nWe will meet at 1122 Old Chattahoochee Ave at 10 a.m. W
+ e will carpool to the Gateway Center in Downtown Atlanta (12:15 pm)\, then
+  to nearby Hurt Park (1 pm) after we finish cooking. Feel free to join us 
+ at any of the three locations at your convenience.\n\nOur menu usually is:
+ \n\n- Yellow rice\n- Sandwiches (tomato\, cucumber\, lettuce\, cheese\, mu
+ stard\, ketchup\, hummus)\n- Lemonade\n- Chocolate milk\n- Chips and snack
+ s\n- Salad\n- Macaroni and cheese\n- Quesadillas\n- Fruit salad\n- Granola
+  and milk\n- Pancakes\n\nTo sponsor an event\, visit https://food4lives.or
+ g/donate.html. [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/630475#0\n[1]
+   https://food4lives.org/donate.html\n[2]  https://www.facebook.com/events
+ /1177905865930288/
+LOCATION:Food4Lives\, 1122 Old Chattahoochee Avenue
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Digital Fabrication Lab Showcase
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200106T210000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200106T230000Z
@@ -30952,6 +30973,43 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  inks:\n[0]  http://hg.gatech.edu/node/630021#0\n[1]  https://wst.gatech.ed
  u/wst-learning-community
 LOCATION:Stein House/4th St. A\, 733 Techwood\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Food Distribution Volunteering
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200111T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200111T190000Z
+UID:http://hg.gatech.edu/node/630475#1
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nFood4Lives is a service family founded by students f
+ rom Georgia Tech and Emory in 2017 to feed\, educate and empower the homel
+ ess of Atlanta.\n\nWe will meet at 1122 Old Chattahoochee Ave at 10 a.m. W
+ e will carpool to the Gateway Center in Downtown Atlanta (12:15 pm)\, then
+  to nearby Hurt Park (1 pm) after we finish cooking. Feel free to join us 
+ at any of the three locations at your convenience.\n\nOur menu usually is:
+ \n\n- Yellow rice\n- Sandwiches (tomato\, cucumber\, lettuce\, cheese\, mu
+ stard\, ketchup\, hummus)\n- Lemonade\n- Chocolate milk\n- Chips and snack
+ s\n- Salad\n- Macaroni and cheese\n- Quesadillas\n- Fruit salad\n- Granola
+  and milk\n- Pancakes\n\nTo sponsor an event\, visit https://food4lives.or
+ g/donate.html. [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/630475#1\n[1]
+   https://food4lives.org/donate.html\n[2]  https://www.facebook.com/events
+ /1177905865930288/
+LOCATION:Food4Lives\, 1122 Old Chattahoochee Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring into Dance
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200112T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200112T040000Z
+UID:http://hg.gatech.edu/node/630473#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Postdoc\, Undergraduate stu
+ dents\nStatus: published\n\nStart the new semester off at our first social
+  dance of 2020!\n\nWe will have showcases and beginner lessons in foxtrot\
+ , cha cha\, and East Coast swing from 7-8:45 PM\, with general dancing fol
+ lowing right after until 11:00 PM! No partner or dance experience necessar
+ y. Just come and have fun! This social dance is FREE\, so bring all of you
+ r friends for some fabulous spring dancing\, drinks\, and snacks! We hope 
+ you all love dancing with us!\n\nLinks:\n[0]  http://hg.gatech.edu/node/63
+ 0473#0\n[1]  https://www.facebook.com/gtballroomdance/
+LOCATION:Student Center Ballroom
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ECN Winter Social
@@ -31321,6 +31379,27 @@ DESCRIPTION:Intended audience: Graduate students\, Postdoc\nExtras: Free f
 LOCATION:Piedmont Room\, Student Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Food Distribution Volunteering
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200118T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200118T190000Z
+UID:http://hg.gatech.edu/node/630475#2
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nFood4Lives is a service family founded by students f
+ rom Georgia Tech and Emory in 2017 to feed\, educate and empower the homel
+ ess of Atlanta.\n\nWe will meet at 1122 Old Chattahoochee Ave at 10 a.m. W
+ e will carpool to the Gateway Center in Downtown Atlanta (12:15 pm)\, then
+  to nearby Hurt Park (1 pm) after we finish cooking. Feel free to join us 
+ at any of the three locations at your convenience.\n\nOur menu usually is:
+ \n\n- Yellow rice\n- Sandwiches (tomato\, cucumber\, lettuce\, cheese\, mu
+ stard\, ketchup\, hummus)\n- Lemonade\n- Chocolate milk\n- Chips and snack
+ s\n- Salad\n- Macaroni and cheese\n- Quesadillas\n- Fruit salad\n- Granola
+  and milk\n- Pancakes\n\nTo sponsor an event\, visit https://food4lives.or
+ g/donate.html. [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/630475#2\n[1]
+   https://food4lives.org/donate.html\n[2]  https://www.facebook.com/events
+ /1177905865930288/
+LOCATION:Food4Lives\, 1122 Old Chattahoochee Avenue
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:International Opportunities Open House
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200121T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200121T170000Z
@@ -31333,6 +31412,23 @@ DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\n
  to see you there!\n\nLinks:\n[0]  http://hg.gatech.edu/node/628785#0\n[1] 
   https://oie.gatech.edu/
 LOCATION:Student Center Piedmont Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Petit Entrepreneurship Academy Workshop
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200121T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200121T180000Z
+UID:http://hg.gatech.edu/node/630378#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Postdoc\nStatus: published\
+ n\nThis workshop will provide an overview of resources available here at G
+ eorgia Tech. Break out groups will be available based on interest areas th
+ at will dive deeper into each area.\n\nWhen you register for the workshop\
+ , please select your interest area (when to start a company\, patent strat
+ egy\, sources of funding\, etc.). Lunch will be provided!\n\nWe look forwa
+ rd to seeing you there! RSVP [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node
+ /630378#0\n[1]  https://docs.google.com/forms/d/e/1FAIpQLSfF7tnxG8m_LqICAE
+ op2DaOorRNCj1CPFCAIQVa6kohZ1M-Qw/viewform\n[2]  https://venturelab.gatech.
+ edu/
+LOCATION:Petit Biotechnology Building\, Room 1128 - Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spring TA Orientation - Session 2
@@ -31436,6 +31532,27 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Bill Moore Student Success Center\, President's Suites A-D
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Food Distribution Volunteering
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200125T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200125T190000Z
+UID:http://hg.gatech.edu/node/630475#3
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nFood4Lives is a service family founded by students f
+ rom Georgia Tech and Emory in 2017 to feed\, educate and empower the homel
+ ess of Atlanta.\n\nWe will meet at 1122 Old Chattahoochee Ave at 10 a.m. W
+ e will carpool to the Gateway Center in Downtown Atlanta (12:15 pm)\, then
+  to nearby Hurt Park (1 pm) after we finish cooking. Feel free to join us 
+ at any of the three locations at your convenience.\n\nOur menu usually is:
+ \n\n- Yellow rice\n- Sandwiches (tomato\, cucumber\, lettuce\, cheese\, mu
+ stard\, ketchup\, hummus)\n- Lemonade\n- Chocolate milk\n- Chips and snack
+ s\n- Salad\n- Macaroni and cheese\n- Quesadillas\n- Fruit salad\n- Granola
+  and milk\n- Pancakes\n\nTo sponsor an event\, visit https://food4lives.or
+ g/donate.html. [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/630475#3\n[1]
+   https://food4lives.org/donate.html\n[2]  https://www.facebook.com/events
+ /1177905865930288/
+LOCATION:Food4Lives\, 1122 Old Chattahoochee Avenue
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dinner discussion with Dr. Pinar Keskinocak & Dr. Dawn Strickland
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200127T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200128T003000Z
@@ -31505,7 +31622,7 @@ BEGIN:VEVENT
 SUMMARY:McKinsey & Company Freshman Diversity Leader Intern Info Session
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200130T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200131T000000Z
-UID:https://career.gatech.edu/employer-information-sessions#1
+UID:https://career.gatech.edu/employer-information-sessions#2
 DESCRIPTION:Intended audience: All Majors\nStatus: unknown\n\nThis present
  ation and breakout session is open to students who identity as Black/Afric
  an American\, Hispanic/Latino or Native American and in the class 2023. Th
@@ -31516,7 +31633,8 @@ DESCRIPTION:Intended audience: All Majors\nStatus: unknown\n\nThis present
  e opportunity to get all your questions answered in an informal setting. F
  ood and beverages will be provided. Please RSVP here: http://slyreply.com/
  app/sheets/qgg6xqwdr1v9/\n\nLinks:\n[0]  https://career.gatech.edu/employe
- r-information-sessions#1
+ r-information-sessions#2\n[1]  https://career.gatech.edu/employer-informat
+ ion-sessions#1
 LOCATION:Bill Moore Student Success Center - President Suite A
 END:VEVENT
 BEGIN:VEVENT
@@ -31571,6 +31689,27 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  \n\nLinks:\n[0]  http://hg.gatech.edu/node/629894#0
 LOCATION:Room 102\, Stephen C. Hall Building\, 215 Bobby Dodd Way\, Atlant
  a\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Food Distribution Volunteering
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200201T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200201T190000Z
+UID:http://hg.gatech.edu/node/630475#4
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nFood4Lives is a service family founded by students f
+ rom Georgia Tech and Emory in 2017 to feed\, educate and empower the homel
+ ess of Atlanta.\n\nWe will meet at 1122 Old Chattahoochee Ave at 10 a.m. W
+ e will carpool to the Gateway Center in Downtown Atlanta (12:15 pm)\, then
+  to nearby Hurt Park (1 pm) after we finish cooking. Feel free to join us 
+ at any of the three locations at your convenience.\n\nOur menu usually is:
+ \n\n- Yellow rice\n- Sandwiches (tomato\, cucumber\, lettuce\, cheese\, mu
+ stard\, ketchup\, hummus)\n- Lemonade\n- Chocolate milk\n- Chips and snack
+ s\n- Salad\n- Macaroni and cheese\n- Quesadillas\n- Fruit salad\n- Granola
+  and milk\n- Pancakes\n\nTo sponsor an event\, visit https://food4lives.or
+ g/donate.html. [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/630475#4\n[1]
+   https://food4lives.org/donate.html\n[2]  https://www.facebook.com/events
+ /1177905865930288/
+LOCATION:Food4Lives\, 1122 Old Chattahoochee Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:February Meeting
@@ -31676,6 +31815,40 @@ DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nInstitu
 LOCATION:Student Success Center- President’s Suites C and D
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Greek Allies
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200206T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200207T020000Z
+UID:http://hg.gatech.edu/node/630388#0
+DESCRIPTION:Intended audience: Undergraduate students\nStatus: published\n
+ \nGreek Allies is Georgia Tech’s LGBTQIA ally training program for frate
+ rnity and sorority members. The interactive curriculum is modeled on Safe 
+ Space but contains scenarios\, discussions\, and information relevant to m
+ embers of Greek organizations. Dinner is provided.\n\nRSVP Only\n\nLinks:\
+ n[0]  http://hg.gatech.edu/node/630388#0
+LOCATION:Register to receive location
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Food Distribution Volunteering
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200208T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200208T190000Z
+UID:http://hg.gatech.edu/node/630475#5
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nFood4Lives is a service family founded by students f
+ rom Georgia Tech and Emory in 2017 to feed\, educate and empower the homel
+ ess of Atlanta.\n\nWe will meet at 1122 Old Chattahoochee Ave at 10 a.m. W
+ e will carpool to the Gateway Center in Downtown Atlanta (12:15 pm)\, then
+  to nearby Hurt Park (1 pm) after we finish cooking. Feel free to join us 
+ at any of the three locations at your convenience.\n\nOur menu usually is:
+ \n\n- Yellow rice\n- Sandwiches (tomato\, cucumber\, lettuce\, cheese\, mu
+ stard\, ketchup\, hummus)\n- Lemonade\n- Chocolate milk\n- Chips and snack
+ s\n- Salad\n- Macaroni and cheese\n- Quesadillas\n- Fruit salad\n- Granola
+  and milk\n- Pancakes\n\nTo sponsor an event\, visit https://food4lives.or
+ g/donate.html. [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/630475#5\n[1]
+   https://food4lives.org/donate.html\n[2]  https://www.facebook.com/events
+ /1177905865930288/
+LOCATION:Food4Lives\, 1122 Old Chattahoochee Avenue
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Career advice: resumes\, elevator pitches & more with Michael Laug
  hter
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200210T230000Z
@@ -31770,6 +31943,20 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Career Services Interviewing Workshop
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200211T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200212T003000Z
+UID:http://hg.gatech.edu/node/630489#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\nStatus: draft\n\nWhen did talking about yourself 
+ become such a challenge? What do recruiters really want to know when they 
+ ask you about your interest in the position? What is the difference betwee
+ n a technical interview and a behavioral one? Learn how to master your int
+ erviewing skills and land your dream job.\n\nLinks:\n[0]  http://hg.gatech
+ .edu/node/630489#0
+LOCATION:Klaus 1116
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mindfulness Book (Session 1)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200212T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200212T170000Z
@@ -31840,6 +32027,43 @@ LOCATION:GTMI 1st floor auditorium OR ISyE Main Building\, 2nd Floor Atriu
  m (to be confirmed 30 days out)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Career Services Workshop: Thank You Next
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200213T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200214T003000Z
+UID:http://hg.gatech.edu/node/630491#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\nStatus: draft\n\nThank you for applying to.... Do
+  you know the end of this sentence? If you do\, you may have several of th
+ ese messages in your inbox. The job and internship searching process can o
+ ften times feel like a job itself. Come learn how to maximize your search\
+ , build confidence during the process\, and the lessons that come from eac
+ h rejection email.\n\nRSVP here [1]\n\nLinks:\n[0]  http://hg.gatech.edu/n
+ ode/630491#0\n[1]  https://gatech.co1.qualtrics.com/jfe/form/SV_0kaGQEeQ5I
+ ufM8d
+LOCATION:Klaus 1116
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Food Distribution Volunteering
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200215T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200215T190000Z
+UID:http://hg.gatech.edu/node/630475#6
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nFood4Lives is a service family founded by students f
+ rom Georgia Tech and Emory in 2017 to feed\, educate and empower the homel
+ ess of Atlanta.\n\nWe will meet at 1122 Old Chattahoochee Ave at 10 a.m. W
+ e will carpool to the Gateway Center in Downtown Atlanta (12:15 pm)\, then
+  to nearby Hurt Park (1 pm) after we finish cooking. Feel free to join us 
+ at any of the three locations at your convenience.\n\nOur menu usually is:
+ \n\n- Yellow rice\n- Sandwiches (tomato\, cucumber\, lettuce\, cheese\, mu
+ stard\, ketchup\, hummus)\n- Lemonade\n- Chocolate milk\n- Chips and snack
+ s\n- Salad\n- Macaroni and cheese\n- Quesadillas\n- Fruit salad\n- Granola
+  and milk\n- Pancakes\n\nTo sponsor an event\, visit https://food4lives.or
+ g/donate.html. [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/630475#6\n[1]
+   https://food4lives.org/donate.html\n[2]  https://www.facebook.com/events
+ /1177905865930288/
+LOCATION:Food4Lives\, 1122 Old Chattahoochee Avenue
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Society of Women Engineers General Body Meeting
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200218T221500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200219T000000Z
@@ -31872,6 +32096,58 @@ DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\nStatus: p
  m/SV_0pMQP7EqznzDSK1\n[2]  https://healthinitiatives.gatech.edu/well-being
  /mental/mindfulness
 LOCATION:Crescent Room\, Student Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Academy of Medicine Lecture: Heather Hyde Minor
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200219T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200220T003000Z
+UID:http://hg.gatech.edu/node/630379#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nHeather Hyde Mino
+ r is a professor of art and architectural history at the University of Not
+ re Dame. A specialist in the history of European art and architecture from
+  1600 to 1800\, Prof. Minor's scholarly interests include the city of Rome
+ \, prints and print culture. Her most recent book\, Piranesi's Lost Words\
+ , was published by Pennsylvania State University Press in 2015. She is cur
+ rently preparing an exhibition about Piranesi that will open at Princeton 
+ University in 2020 and just completed a new book\, Piranesi Unbound\, toge
+ ther with Carolyn Yerkes.\n\nHeather has been the recipient of fellowships
+  from the National Endowment for the Humanities\, the National Humanities 
+ Center\, the Samuel H. Kress Foundation\, and the Sterling and Francine Cl
+ ark Art Institute. Her book\, The Culture of Architecture in Enlightenment
+  Rome (Penn State Press\, 2010)\, won the 2010 Helen and Howard R. Marraro
+  Prize in Italian History and the 2013 honorable mention for the Alice Dav
+ is Hitchcock Book Award from the Society of Architectural Historians. She 
+ is currently the academic director of Notre Dame's Rome Global Gateway.\n\
+ nHeather will present a lecture\, titled\, "What Piranesi Drew." Considere
+ d one of the first moderns\, Giovanni Battista Piranesi (1720-1778) made m
+ any things during his lifetime from buildings to furniture\, prints to tea
+ pots. He also drew. More than 700 drawings by his hand survive. Focusing o
+ n his scratch paper pile\, this talk will illuminate what Piranesi drew on
+  those sheets and what they can tell us about hsi working method and his s
+ ubject.\n\nLinks:\n[0]  http://hg.gatech.edu/node/630379#0
+LOCATION:Historic Academy of Medicine
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Food Distribution Volunteering
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200222T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200222T190000Z
+UID:http://hg.gatech.edu/node/630475#7
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nFood4Lives is a service family founded by students f
+ rom Georgia Tech and Emory in 2017 to feed\, educate and empower the homel
+ ess of Atlanta.\n\nWe will meet at 1122 Old Chattahoochee Ave at 10 a.m. W
+ e will carpool to the Gateway Center in Downtown Atlanta (12:15 pm)\, then
+  to nearby Hurt Park (1 pm) after we finish cooking. Feel free to join us 
+ at any of the three locations at your convenience.\n\nOur menu usually is:
+ \n\n- Yellow rice\n- Sandwiches (tomato\, cucumber\, lettuce\, cheese\, mu
+ stard\, ketchup\, hummus)\n- Lemonade\n- Chocolate milk\n- Chips and snack
+ s\n- Salad\n- Macaroni and cheese\n- Quesadillas\n- Fruit salad\n- Granola
+  and milk\n- Pancakes\n\nTo sponsor an event\, visit https://food4lives.or
+ g/donate.html. [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/630475#7\n[1]
+   https://food4lives.org/donate.html\n[2]  https://www.facebook.com/events
+ /1177905865930288/
+LOCATION:Food4Lives\, 1122 Old Chattahoochee Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nano@Tech: Lisa Yaszek - School of Literature\, Media\, and Commun
@@ -31979,6 +32255,27 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Stein House/4th St. A\, 733 Techwood\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Food Distribution Volunteering
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200229T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200229T190000Z
+UID:http://hg.gatech.edu/node/630475#8
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nFood4Lives is a service family founded by students f
+ rom Georgia Tech and Emory in 2017 to feed\, educate and empower the homel
+ ess of Atlanta.\n\nWe will meet at 1122 Old Chattahoochee Ave at 10 a.m. W
+ e will carpool to the Gateway Center in Downtown Atlanta (12:15 pm)\, then
+  to nearby Hurt Park (1 pm) after we finish cooking. Feel free to join us 
+ at any of the three locations at your convenience.\n\nOur menu usually is:
+ \n\n- Yellow rice\n- Sandwiches (tomato\, cucumber\, lettuce\, cheese\, mu
+ stard\, ketchup\, hummus)\n- Lemonade\n- Chocolate milk\n- Chips and snack
+ s\n- Salad\n- Macaroni and cheese\n- Quesadillas\n- Fruit salad\n- Granola
+  and milk\n- Pancakes\n\nTo sponsor an event\, visit https://food4lives.or
+ g/donate.html. [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/630475#8\n[1]
+   https://food4lives.org/donate.html\n[2]  https://www.facebook.com/events
+ /1177905865930288/
+LOCATION:Food4Lives\, 1122 Old Chattahoochee Avenue
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Society of Women Engineers General Body Meeting
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200303T221500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200304T000000Z
@@ -32013,6 +32310,68 @@ DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\nStatus: p
 LOCATION:Crescent Room\, Student Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Food Distribution Volunteering
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200307T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200307T190000Z
+UID:http://hg.gatech.edu/node/630475#9
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nFood4Lives is a service family founded by students f
+ rom Georgia Tech and Emory in 2017 to feed\, educate and empower the homel
+ ess of Atlanta.\n\nWe will meet at 1122 Old Chattahoochee Ave at 10 a.m. W
+ e will carpool to the Gateway Center in Downtown Atlanta (12:15 pm)\, then
+  to nearby Hurt Park (1 pm) after we finish cooking. Feel free to join us 
+ at any of the three locations at your convenience.\n\nOur menu usually is:
+ \n\n- Yellow rice\n- Sandwiches (tomato\, cucumber\, lettuce\, cheese\, mu
+ stard\, ketchup\, hummus)\n- Lemonade\n- Chocolate milk\n- Chips and snack
+ s\n- Salad\n- Macaroni and cheese\n- Quesadillas\n- Fruit salad\n- Granola
+  and milk\n- Pancakes\n\nTo sponsor an event\, visit https://food4lives.or
+ g/donate.html. [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/630475#9\n[1]
+   https://food4lives.org/donate.html\n[2]  https://www.facebook.com/events
+ /1177905865930288/
+LOCATION:Food4Lives\, 1122 Old Chattahoochee Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dinner with Dr. Michelle Rinehart
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200309T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200309T233000Z
+UID:http://hg.gatech.edu/node/630457#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nAs Associate Dean for Academic Af
+ fairs and Outreach\, Michelle has oversight for a range of programs and in
+ itiatives for the College. Her work encompasses three broad areas: 1) Admi
+ ssions and Outreach\, 2) Faculty Affairs and Development\, and 3) Assessme
+ nt and Accreditation. Michelle also leads Implicit Bias Workshops across t
+ he Institute\, educating faculty on the ways in which our unconscious or i
+ mplicit biases can impact hiring and promotion practices in higher educati
+ on.\n\nIn addition to her administrative duties\, Michelle teaches in the 
+ School of Architecture\, coordinating the first-year design studio sequenc
+ e and teaching history of architecture. She is the faculty leader of the E
+ xploring Architecture summer track for incoming Georgia Tech students. Pre
+ viously\, she taught in the Institute’s Oxford Study Abroad program and 
+ led a first-year architecture student design/build team in the 2017 Design
+  and Construction Competition at Tongji University in Shanghai\, China.\n\
+ nHer scholarship and creative work explore civic engagement within the con
+ text of professional education. Specifically\, Michelle's work examines He
+ rbert Croly’s notion of civic professionalism\, where he contends that a
+ n individual reaches self-fulfillment only in service to a larger purpose.
+  Her scholarly research examines how architecture programs can instill in 
+ students the need to serve the public good as part of their professional r
+ esponsibility.\n\nMichelle currently serves as the President of the Grand 
+ Chapter of Tau Sigma Delta\, the national honor society for students in ar
+ chitecture and the allied arts\, and is also immediate Past President of t
+ he Architectural Research Centers Consortium (ARCC). In addition to her se
+ rvice as a visiting team member for National Architectural Accrediting Boa
+ rd (NAAB) accreditation site visits\, she was a consultant to the NAAB for
+  its 2013 and 2016 Accreditation Review Conferences. Since 2007\, Michelle
+  has served as a reviewer for the AIA/AAF Diversity Advancement Scholarshi
+ p program.\n\nShe is a Past President of the Tulane University Alumni Asso
+ ciation and currently serves on its Nominating Committee.\n\nMichelle also
+  holds a Master of Science in Architecture (history and theory) from the U
+ niversity of Michigan and a Doctorate in Education (Ed.D.) from the Univer
+ sity of Pennsylvania.\n\nLinks:\n[0]  http://hg.gatech.edu/node/630457#0
+LOCATION:Stein House/4th St. A\, 733 Techwood\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nano@Tech: Debra Rolison\, Naval Research Laboratory
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200310T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200310T170000Z
@@ -32044,6 +32403,22 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  sident@gmail.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/624549#19\n
  [1]  swepresident@gmail.com\n[2]  https://www.facebook.com/GeorgiaTechSWE/
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Career Services Workshop: Salary Negotiation
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200310T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200310T233000Z
+UID:http://hg.gatech.edu/node/630490#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\nStatus: draft\n\nLanding the perfect full-time/in
+ ternship position is something worth celebration! But what happens when yo
+ u receive an offer that is not equally as exciting? Come learn how to prof
+ essionally negotiate your salary and strategies for declining an offer tha
+ t you are no longer interested in. Practice your negotiation skills to ens
+ ure that you sound professional and confident when the time comes!\n\nRSVP
+  here [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/630490#0\n[1]  https:/
+ /gatech.co1.qualtrics.com/jfe/form/SV_0wfu0VVTHRaCgLP
+LOCATION:Klaus 1116
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SCL IRC Seminar: Unstructured Manufacturing
@@ -32116,6 +32491,48 @@ DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nInstitu
 LOCATION:Student Center\, Peachtree Room
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Food Distribution Volunteering
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200314T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200314T180000Z
+UID:http://hg.gatech.edu/node/630475#10
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nFood4Lives is a service family founded by students f
+ rom Georgia Tech and Emory in 2017 to feed\, educate and empower the homel
+ ess of Atlanta.\n\nWe will meet at 1122 Old Chattahoochee Ave at 10 a.m. W
+ e will carpool to the Gateway Center in Downtown Atlanta (12:15 pm)\, then
+  to nearby Hurt Park (1 pm) after we finish cooking. Feel free to join us 
+ at any of the three locations at your convenience.\n\nOur menu usually is:
+ \n\n- Yellow rice\n- Sandwiches (tomato\, cucumber\, lettuce\, cheese\, mu
+ stard\, ketchup\, hummus)\n- Lemonade\n- Chocolate milk\n- Chips and snack
+ s\n- Salad\n- Macaroni and cheese\n- Quesadillas\n- Fruit salad\n- Granola
+  and milk\n- Pancakes\n\nTo sponsor an event\, visit https://food4lives.or
+ g/donate.html. [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/630475#10\n[1
+ ]  https://food4lives.org/donate.html\n[2]  https://www.facebook.com/event
+ s/1177905865930288/
+LOCATION:Food4Lives\, 1122 Old Chattahoochee Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Food Distribution Volunteering
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200321T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200321T180000Z
+UID:http://hg.gatech.edu/node/630475#11
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nFood4Lives is a service family founded by students f
+ rom Georgia Tech and Emory in 2017 to feed\, educate and empower the homel
+ ess of Atlanta.\n\nWe will meet at 1122 Old Chattahoochee Ave at 10 a.m. W
+ e will carpool to the Gateway Center in Downtown Atlanta (12:15 pm)\, then
+  to nearby Hurt Park (1 pm) after we finish cooking. Feel free to join us 
+ at any of the three locations at your convenience.\n\nOur menu usually is:
+ \n\n- Yellow rice\n- Sandwiches (tomato\, cucumber\, lettuce\, cheese\, mu
+ stard\, ketchup\, hummus)\n- Lemonade\n- Chocolate milk\n- Chips and snack
+ s\n- Salad\n- Macaroni and cheese\n- Quesadillas\n- Fruit salad\n- Granola
+  and milk\n- Pancakes\n\nTo sponsor an event\, visit https://food4lives.or
+ g/donate.html. [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/630475#11\n[1
+ ]  https://food4lives.org/donate.html\n[2]  https://www.facebook.com/event
+ s/1177905865930288/
+LOCATION:Food4Lives\, 1122 Old Chattahoochee Avenue
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nano@Tech: David Myers - Wallace H. Coulter Department of Biomedic
  al Engineering\, Georgia Tech
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200324T160000Z
@@ -32162,6 +32579,27 @@ DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\nStatus: p
  orm/SV_0pMQP7EqznzDSK1\n[2]  https://healthinitiatives.gatech.edu/well-bei
  ng/mental/mindfulness
 LOCATION:Room 301\, Student Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Food Distribution Volunteering
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200328T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200328T180000Z
+UID:http://hg.gatech.edu/node/630475#12
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nFood4Lives is a service family founded by students f
+ rom Georgia Tech and Emory in 2017 to feed\, educate and empower the homel
+ ess of Atlanta.\n\nWe will meet at 1122 Old Chattahoochee Ave at 10 a.m. W
+ e will carpool to the Gateway Center in Downtown Atlanta (12:15 pm)\, then
+  to nearby Hurt Park (1 pm) after we finish cooking. Feel free to join us 
+ at any of the three locations at your convenience.\n\nOur menu usually is:
+ \n\n- Yellow rice\n- Sandwiches (tomato\, cucumber\, lettuce\, cheese\, mu
+ stard\, ketchup\, hummus)\n- Lemonade\n- Chocolate milk\n- Chips and snack
+ s\n- Salad\n- Macaroni and cheese\n- Quesadillas\n- Fruit salad\n- Granola
+  and milk\n- Pancakes\n\nTo sponsor an event\, visit https://food4lives.or
+ g/donate.html. [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/630475#12\n[1
+ ]  https://food4lives.org/donate.html\n[2]  https://www.facebook.com/event
+ s/1177905865930288/
+LOCATION:Food4Lives\, 1122 Old Chattahoochee Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Society of Women Engineers General Body Meeting
@@ -32234,6 +32672,21 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
 LOCATION:Scheller College of Business
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Career Services Workshop: Time's Up
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200402T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200402T233000Z
+UID:http://hg.gatech.edu/node/630492#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\nStatus: draft\n\nObtaining an internship is a gre
+ at opportunity to gain real world experience. However\, interacting in the
+  professional world can be both challenging and complicated. Learn how to 
+ navigate the professional environment and how to respond when uncomfortabl
+ e circumstances arise.\n\nRSVP here [1]\n\nLinks:\n[0]  http://hg.gatech.e
+ du/node/630492#0\n[1]  https://gatech.co1.qualtrics.com/jfe/form/SV_9EMWBt
+ tIVZgZ38N
+LOCATION:Klaus 1116
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:DramaTech presents A New Brain
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200404T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200404T030000Z
@@ -32251,6 +32704,27 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  e yearns to produce.\n\nLinks:\n[0]  http://hg.gatech.edu/node/621367#0\n[
  1]  https://dramatech.org/event/a-new-brain/
 LOCATION:DramaTech Theatre\, north side of the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Food Distribution Volunteering
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200404T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200404T180000Z
+UID:http://hg.gatech.edu/node/630475#13
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nFood4Lives is a service family founded by students f
+ rom Georgia Tech and Emory in 2017 to feed\, educate and empower the homel
+ ess of Atlanta.\n\nWe will meet at 1122 Old Chattahoochee Ave at 10 a.m. W
+ e will carpool to the Gateway Center in Downtown Atlanta (12:15 pm)\, then
+  to nearby Hurt Park (1 pm) after we finish cooking. Feel free to join us 
+ at any of the three locations at your convenience.\n\nOur menu usually is:
+ \n\n- Yellow rice\n- Sandwiches (tomato\, cucumber\, lettuce\, cheese\, mu
+ stard\, ketchup\, hummus)\n- Lemonade\n- Chocolate milk\n- Chips and snack
+ s\n- Salad\n- Macaroni and cheese\n- Quesadillas\n- Fruit salad\n- Granola
+  and milk\n- Pancakes\n\nTo sponsor an event\, visit https://food4lives.or
+ g/donate.html. [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/630475#13\n[1
+ ]  https://food4lives.org/donate.html\n[2]  https://www.facebook.com/event
+ s/1177905865930288/
+LOCATION:Food4Lives\, 1122 Old Chattahoochee Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DramaTech presents A New Brain
@@ -32342,6 +32816,27 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  e yearns to produce.\n\nLinks:\n[0]  http://hg.gatech.edu/node/621370#0\n[
  1]  https://dramatech.org/event/a-new-brain/
 LOCATION:DramaTech Theatre\, north side of the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Food Distribution Volunteering
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200411T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200411T180000Z
+UID:http://hg.gatech.edu/node/630475#14
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nFood4Lives is a service family founded by students f
+ rom Georgia Tech and Emory in 2017 to feed\, educate and empower the homel
+ ess of Atlanta.\n\nWe will meet at 1122 Old Chattahoochee Ave at 10 a.m. W
+ e will carpool to the Gateway Center in Downtown Atlanta (12:15 pm)\, then
+  to nearby Hurt Park (1 pm) after we finish cooking. Feel free to join us 
+ at any of the three locations at your convenience.\n\nOur menu usually is:
+ \n\n- Yellow rice\n- Sandwiches (tomato\, cucumber\, lettuce\, cheese\, mu
+ stard\, ketchup\, hummus)\n- Lemonade\n- Chocolate milk\n- Chips and snack
+ s\n- Salad\n- Macaroni and cheese\n- Quesadillas\n- Fruit salad\n- Granola
+  and milk\n- Pancakes\n\nTo sponsor an event\, visit https://food4lives.or
+ g/donate.html. [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/630475#14\n[1
+ ]  https://food4lives.org/donate.html\n[2]  https://www.facebook.com/event
+ s/1177905865930288/
+LOCATION:Food4Lives\, 1122 Old Chattahoochee Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DramaTech presents A New Brain
@@ -32534,6 +33029,27 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:DramaTech Theatre\, north side of the Ferst Center for the Arts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Food Distribution Volunteering
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200418T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200418T180000Z
+UID:http://hg.gatech.edu/node/630475#15
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nFood4Lives is a service family founded by students f
+ rom Georgia Tech and Emory in 2017 to feed\, educate and empower the homel
+ ess of Atlanta.\n\nWe will meet at 1122 Old Chattahoochee Ave at 10 a.m. W
+ e will carpool to the Gateway Center in Downtown Atlanta (12:15 pm)\, then
+  to nearby Hurt Park (1 pm) after we finish cooking. Feel free to join us 
+ at any of the three locations at your convenience.\n\nOur menu usually is:
+ \n\n- Yellow rice\n- Sandwiches (tomato\, cucumber\, lettuce\, cheese\, mu
+ stard\, ketchup\, hummus)\n- Lemonade\n- Chocolate milk\n- Chips and snack
+ s\n- Salad\n- Macaroni and cheese\n- Quesadillas\n- Fruit salad\n- Granola
+  and milk\n- Pancakes\n\nTo sponsor an event\, visit https://food4lives.or
+ g/donate.html. [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/630475#15\n[1
+ ]  https://food4lives.org/donate.html\n[2]  https://www.facebook.com/event
+ s/1177905865930288/
+LOCATION:Food4Lives\, 1122 Old Chattahoochee Avenue
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:DramaTech presents A New Brain
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200419T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200419T030000Z
@@ -32570,6 +33086,27 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Food Distribution Volunteering
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200425T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200425T180000Z
+UID:http://hg.gatech.edu/node/630475#16
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nFood4Lives is a service family founded by students f
+ rom Georgia Tech and Emory in 2017 to feed\, educate and empower the homel
+ ess of Atlanta.\n\nWe will meet at 1122 Old Chattahoochee Ave at 10 a.m. W
+ e will carpool to the Gateway Center in Downtown Atlanta (12:15 pm)\, then
+  to nearby Hurt Park (1 pm) after we finish cooking. Feel free to join us 
+ at any of the three locations at your convenience.\n\nOur menu usually is:
+ \n\n- Yellow rice\n- Sandwiches (tomato\, cucumber\, lettuce\, cheese\, mu
+ stard\, ketchup\, hummus)\n- Lemonade\n- Chocolate milk\n- Chips and snack
+ s\n- Salad\n- Macaroni and cheese\n- Quesadillas\n- Fruit salad\n- Granola
+  and milk\n- Pancakes\n\nTo sponsor an event\, visit https://food4lives.or
+ g/donate.html. [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/630475#16\n[1
+ ]  https://food4lives.org/donate.html\n[2]  https://www.facebook.com/event
+ s/1177905865930288/
+LOCATION:Food4Lives\, 1122 Old Chattahoochee Avenue
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nano@Tech: Hitesh Handa - School of Chemical\, Materials\, and Bio
  medical Engineering\, Univ. of Georgia
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200428T160000Z
@@ -32582,6 +33119,27 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  .gatech.edu/node/629972#0\n[1]  http://ien.gatech.edu
 LOCATION:Marcus Nanotechnology Building 1117-1118 | 345 Ferst Drive | Atla
  nta GA | 30332
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Food Distribution Volunteering
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200502T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200502T180000Z
+UID:http://hg.gatech.edu/node/630475#17
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nFood4Lives is a service family founded by students f
+ rom Georgia Tech and Emory in 2017 to feed\, educate and empower the homel
+ ess of Atlanta.\n\nWe will meet at 1122 Old Chattahoochee Ave at 10 a.m. W
+ e will carpool to the Gateway Center in Downtown Atlanta (12:15 pm)\, then
+  to nearby Hurt Park (1 pm) after we finish cooking. Feel free to join us 
+ at any of the three locations at your convenience.\n\nOur menu usually is:
+ \n\n- Yellow rice\n- Sandwiches (tomato\, cucumber\, lettuce\, cheese\, mu
+ stard\, ketchup\, hummus)\n- Lemonade\n- Chocolate milk\n- Chips and snack
+ s\n- Salad\n- Macaroni and cheese\n- Quesadillas\n- Fruit salad\n- Granola
+  and milk\n- Pancakes\n\nTo sponsor an event\, visit https://food4lives.or
+ g/donate.html. [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/630475#17\n[1
+ ]  https://food4lives.org/donate.html\n[2]  https://www.facebook.com/event
+ s/1177905865930288/
+LOCATION:Food4Lives\, 1122 Old Chattahoochee Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Petit Institute Distinguished Lecture
