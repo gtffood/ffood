@@ -2,33 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Grad Day at the Thrillerdome - Georgia Tech Basketball vs. Wake Fo
- rest
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190105T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190105T210000Z
-UID:http://hg.gatech.edu/node/614599#0
-DESCRIPTION:Intended audience: Graduate students\nExtras: Free food\, Free
- bies\nStatus: published\n\nJoin us for Grad Day at the Thrillerdome for fr
- ee pre-game food\, activities\, and fun from 12:00-1:30 p.m. in O’Keefe 
- Gym. Then join us for the basketball game at 2:00 p.m. where Georgia Tech 
- takes on Wake Forest. In addition to the free activities before the basket
- ball game\, each graduate student can enter the game for free with their b
- uzzcard and up to two additional guest tickets will be provided while supp
- lies last. This event will be family friendly\, so bring your spouse\, par
- tner\, and/or kids. After the game against Wake Forest ends\, join us for 
- a photo on the court and a free t-shirt. This event is proudly sponsored b
- y Grad SGA\, Grad Studies\, Athletics\, the Student Center\, and the Stude
- nt Alumni Association.\n\nPre-game Event at O’Keefe Gym | 12:00 – 1:30
-  p.m.\n\n- Family freindly\n- Free Food\, Fun & Games!\n- Free guest ticke
- t to the Basketball game\, courtesy of Council for Grad Life\n\nGeorgia Te
- ch Basketball vs. Wake Forest | 2:00 p.m.\n\n- Tip-off at 2:00 p.m.\n- Cla
- im a free t-shirt inside McCamish Pavilion!\n- Photo after the game on the
-  basketball court\n\nRSVP at [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node
- /614599#0\n[1]  http://ramblinwreck.com/gradthrillerdome/\n[2]  https://ww
- w.facebook.com/events/2034919639888378/
-LOCATION:O'Keefe Gym and McCamish Pavilion
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CREATE-X Idea to Prototype (I2P) Information Session
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190107T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190108T000000Z
