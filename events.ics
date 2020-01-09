@@ -2,62 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:CREATE-X Idea to Prototype (I2P) Information Session
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190107T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190108T000000Z
-UID:http://hg.gatech.edu/node/615660#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nBe sure to stop by Klaus next wee
- k to learn more about Idea 2 Prototype [1] (I2P). This signature program o
- f CREATE-X will provide you with the skills and technical expertise to ove
- rcome technological challenges and $500 to turn your idea into a working p
- roduct.\n\nAlready have a prototype idea? Apply now [2] to be part of the 
- program. Deadline is January 7th\, 2018\, 11:59 PM EST.\n\nLinks:\n[0]  ht
- tp://hg.gatech.edu/node/615660#0\n[1]  https://create-x.gatech.edu/idea-pr
- ototype\n[2]  https://gatech.co1.qualtrics.com/jfe/form/SV_2meX2KP4kdXG2wJ
-LOCATION:Klaus Room 2448
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nano@Tech: A Microfluidic Platform for Isolation of Mechanotyped C
- ells
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190108T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190108T180000Z
-UID:http://hg.gatech.edu/node/615590#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nProf. Todd Sulchek\nSchool of Mechanical Engineering Georgia Institute o
- f Technology\nAbstract: The mechanical properties of metastatic cancer cel
- ls can be modulated to better migrate through tissues. We evaluate cell st
- iffness as a biomarker for isolating of cancer cells and subtypes of cells
- . In this case\, the heterogeneity of cancer cells can be reduced through 
- rapid label-free isolation and sorting to improve our understanding of inv
- asive or drug-resistant subpopulations. Microfluidic channels are designed
-  that reposition flowing cells in proportion to important biomechanical pr
- operties of stiffness\, size\, and adhesion. The repositioned cells are th
- en collected at the outlets. We demonstrate three examples of how this sor
- ting process can be used to collect invasive ovarian cancer\, drug resista
- nt leukemia\, and purer stem cell cultures.\n\nBio: Todd Sulchek conducts 
- fundamental and applied research in the field of biomechanics. His researc
- h program focuses on creating new micro-technologies to apply to questions
-  in cellular mechanics and adhesion. He joined Georgia Tech in July 2008 a
- s an Assistant Professor of Mechanical Engineering. Dr. Sulchek also holds
-  program faculty positions in Bioengineering and Biomedical Engineering. P
- rior to Georgia Tech\, he was a Postdoctoral Researcher and Staff Scientis
- t at Lawrence Livermore National Laboratory. Dr. Sulchek graduated with hi
- s PhD in Applied Physics from Stanford University. He is a recipient of th
- e NSF CAREER award\, the CETL/BP Junior Faculty Teaching Excellence Award\
- , the Lockheed Inspirational Young Faculty award\, 2012 Petit Institute Ab
- ove and Beyond Award\, Class of 1940 Course Survey Teaching Effectiveness 
- Award\, and is a Woodruff Fellow. Over his research career he has publishe
- d 74 journal papers (H-index of 34 on Google Scholar) and has filed or bee
- n issued 12 patents.\n\n*Pizza lunch will be provided\, however we ask tha
- t you limit yourself to two slices so that all attendees are accommodated.
- \n\nLinks:\n[0]  http://hg.gatech.edu/node/615590#0\n[1]  http://ien.gatec
- h.edu/
-LOCATION:Marcus Nanotechnology Building 1117-1118 | 345 Ferst Drive | Atla
- nta GA | 30332
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Spring TA Orientation - Session 1
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190108T213000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190109T003000Z
@@ -30882,6 +30826,34 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis signature program
 LOCATION:Klaus 2448
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:United Forming
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200107T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200107T170000Z
+UID:https://gatech.campuslabs.com/engage/event/5328096
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nUnited For
+ ming Inc is a concrete construction company specialized in formwork system
+ s solutions. We provide pre-construction\, construction\, formwork system 
+ design and project management services to leading general contractors and 
+ developers in the private and public sectors.\n\nWith almost 35 years of o
+ perations in the construction industry\, United Forming is in a position o
+ f sustainable growth. Since our establishment in 1985\, we have completed 
+ two and a half billion dollars’ worth of work and more than 1000 project
+ s across the Mid-Atlantic and South Region.\n\nOur company’s growth and 
+ success is the result of our focus on customer service\, combined with our
+  successful past performances\, and the exceptional capabilities of our se
+ nior management and in-house team of project managers.\n\nWe self-perform 
+ critical components of a construction project scope\, including quality st
+ ructural concrete\, site logistics\, budgeting\, estimating\, safety\, and
+  scheduling. We employ more than 1000 professional estimators\, project ma
+ nagers\, superintendents\, and craftsman who are experienced in a wide var
+ iety of facility types and delivery methods.\n\nAs a 100% employee-owned a
+ nd operated company\, we commit ourselves to every project we take on\, an
+ d continuously strive to create profitability and equal opportunity for al
+ l our stakeholders.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/e
+ vent/5328096
+LOCATION:Mason Building - room 1133
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Vertically Integrated Projects (VIP) Poster Session
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200107T210000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200107T220000Z
@@ -31033,6 +31005,30 @@ LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
  a\, Ga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:East Campus Compost Program Launch Info Session
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200110T003000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200110T010000Z
+UID:http://hg.gatech.edu/node/630734#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nStatus: published\n\nThis Spring GT Housing's C
+ ompost Program expands to east campus\, recovering food waste and other co
+ mpostable materials like napkins and pizza boxes.\n\nCompost collection bi
+ ns are located at the dumpster pads at three locations: Cloudman\, Howell\
+ , and Hopkins. Every east campus resident has access to these compost bins
+  in order to compost! Common areas such as kitchens will also have compost
+ ing buckets available.\n\nWe recognize the negative environmental impacts 
+ associated with waste and are making a conscious effort to reduce them. We
+  are working with CompostNow to take food waste and other organic composta
+ bles to a local site where they naturally break down into nutrient-rich so
+ il. Thank you for your help in making this effort successful!\n\nQuestions
+ ? Please join us for an information session to learn about what can be com
+ posted in these bins and how to get started on Thursday\, January 9th\, at
+  7:30pm in Brittain Rec!\n\nCompostables List and Locations: [1]\n\nLinks:
+ \n[0]  http://hg.gatech.edu/node/630734#0\n[1]  http://www.sustain.gatech.
+ edu/composting-residence-halls
+LOCATION:Brittain Rec
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Meet Career Services
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200110T133000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200110T143000Z
@@ -31043,6 +31039,21 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  t to your spring semester!\n\nLinks:\n[0]  http://hg.gatech.edu/node/63058
  4#0
 LOCATION:CCB Commons
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aarohi Spring 2020 Kickoff Meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200110T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200111T000000Z
+UID:http://hg.gatech.edu/node/630677#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nThis is a great opportunity to learn more about Aaro
+ hi\, the various events planned for the semester\, connect and jam with fe
+ llow members\, and let us know what you want out of the organization this 
+ semester. Afterwards\, we’ll all go out for dinner (details TBD). We are
+  excited to see you all there. Feel free to reach out with any questions!\
+ n\nLinks:\n[0]  http://hg.gatech.edu/node/630677#0\n[1]  https://gatech.ca
+ mpuslabs.com/engage/organization/aarohi
+LOCATION:Room 301\, Student Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Food Distribution Volunteering
@@ -31143,6 +31154,28 @@ DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nInstitu
  gatech.edu/implicit-bias-workshops\n[2]  https://global.hgncloud.com/ga_in
  stitute_tech/ts/home\n[3]  http://sarah.cockrell@gtri.gatech.edu/
 LOCATION:Student Success Center- President’s Suites C and D
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kickoff Meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200113T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200114T003000Z
+UID:https://gatech.campuslabs.com/engage/event/5386678
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is our first meeti
+ ng of the semester. Come join us in IC 205 to learn more about the club\, 
+ play games and have a great time. Snacks will be provided! We'd love to se
+ e you there.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/53
+ 86678
+LOCATION:Instructional Center 205
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GMMA Mission Trip Interest Meeting 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200114T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200114T010000Z
+UID:https://gatech.campuslabs.com/engage/event/5385224
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome out if you are int
+ erested in participating in the summer medical mission trip to Honduras!\n
+ \nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5385224
+LOCATION:Skiles 254
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:InVenture Prize Registration deadline
@@ -31260,6 +31293,62 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  sident@gmail.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/624549#11\n
  [1]  swepresident@gmail.com\n[2]  https://www.facebook.com/GeorgiaTechSWE/
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Data Science at Georgia Tech Spring Kickoff
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200114T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200115T000000Z
+UID:http://hg.gatech.edu/node/630719#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nWelcome back to school data scientists! Ready to kic
+ k off the productive semester with your favorite data science organization
+ ? Come to our Spring Kickoff for free foods and all the new changes and pe
+ rks you can get from DSGT!\n\nLinks:\n[0]  http://hg.gatech.edu/node/63071
+ 9#0\n[1]  http://datasciencegt.org\n[2]  https://gatech.campuslabs.com/eng
+ age/organization/data-science-at-georgia-tech
+LOCATION:Room G011\, Molecular Science and Engineering Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring Kickoff 2020
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200114T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200115T000000Z
+UID:https://gatech.campuslabs.com/engage/event/5328062
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nWelcome back to school 
+ data scientists! Ready to kick off the productive semester with your favor
+ ite data science organization? Come to our Spring Kickoff for free foods a
+ nd all the new changes and perks you can get from DSGT!\n\nLinks:\n[0]  ht
+ tps://gatech.campuslabs.com/engage/event/5328062
+LOCATION:Molecular Science & Engineering Building G011
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Delta Phi Lambda Spring 2020 Recruitment
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200114T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200115T003000Z
+UID:http://hg.gatech.edu/node/630731#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nThis is the first of six of the r
+ ush events for Delta Phi Lambda Sorority Inc.'s Spring 2020 Rush! All even
+ ts are FREE and there are no obligations!\n\nFood and drink will be provid
+ ed.\n\nFor bid consideration\, you must attend four of the six events\, in
+ cluding the information sessio. Contact the Recruitment Chair in case of c
+ onflict or if you cannot make it to the information session. Rides can be 
+ provided upon request.\n\nLinks:\n[0]  http://hg.gatech.edu/node/630731#0
+LOCATION:Room 254\, Skiles Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Career Services Workshop: Bad Resume
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200114T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200115T010000Z
+UID:http://hg.gatech.edu/node/630629#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\, Freebies\nStatus: published\n\nIt's extremely rare th
+ at you get the opportunity to understand what employers dislike in a resum
+ e. Join Career Services and employers to help you learn what a "bad resume
+ " looks like so as to avoid it ending up in the trash. Learn tips and tric
+ ks to land the interview and beat applicant tracking systems. Time will be
+  allotted to update your resume during this workshop.\n\nLinks:\n[0]  http
+ ://hg.gatech.edu/node/630629#0
+LOCATION:Klaus 1456
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SCL IRC Seminar: Jan 2020
@@ -31525,6 +31614,38 @@ DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\n
 LOCATION:Student Center Piedmont Room
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Leadership for Social Good Study Abroad Info Session
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200121T161500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200122T044500Z
+UID:http://hg.gatech.edu/node/630710#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nCome hear about the Leadership fo
+ r Social Good Study Abroad Program [1]\, which offers students the opportu
+ nity to gain insight into global civil society\, to learn about the challe
+ nges of creating and leading effective and sustainable social enterprises\
+ , and to make a positive impact by completing a project with a non-profit 
+ organization in Budapest\, Hungary.\n\nAll three courses offered as part o
+ f this program qualify for the Leadership Minor - Business Track [2]. This
+  program is also affiliated with Serve-Learn-Sustain and fulfills both the
+  Engage and Learn requirements for the Innovating for Social Impact progra
+ m [3].\n\nJoin faculty and former study abroad students at the Eastern and
+  Central Europe Study Abroad Info Session! Lunch will be provided - please
+  RSVP [4].\n\nLinks:\n[0]  http://hg.gatech.edu/node/630710#0\n[1]  http:/
+ /serve-learn-sustain.gatech.edu/leadership-social-good-central-and-eastern
+ -europe\n[2]  https://leadership.gatech.edu/content/minor-leadership-studi
+ es-0\n[3]  http://serve-learn-sustain.gatech.edu/innovating-social-impact-
+ program\n[4]  http://ilebackend.gatech.edu/study-abroad-info\n[5]  http://
+ ilebackend.gatech.edu/study-abroad-info?_ga=2.207516563.1674213148.1568057
+ 969-1070860933.1533069407\n[6]  https://gteesa.blogspot.com/2019/06/hungar
+ y-for-knowledge_26.html\n[7]  https://www.google.com/search?rlz=1C1GCEA_en
+ US865US865&sxsrf=ACYBGNQhWJzALjSJbgymiVcpC1MOuNZQSg:1567792001763&q=Georgi
+ a+Institute+of+Technology&ludocid=13054475435580638479&lsig=AB86z5ULAV3OIg
+ R5qIgJxsxweIrZ&sa=X&ved=2ahUKEwiz2eKq4LzkAhXkm-AKHb0zBxsQ8G0oADAbegQIDRAn\
+ n[8]  https://www.scheller.gatech.edu/centers-initiatives/ile/study_abroad
+ /index.html
+LOCATION:Scheller College of Business\, Room 101
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Petit Entrepreneurship Academy Workshop
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200121T163000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200121T180000Z
@@ -31633,16 +31754,31 @@ BEGIN:VEVENT
 SUMMARY:Omega Phi Alpha Spring 2020 Recruitment
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200122T233000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200123T013000Z
-UID:https://gatech.campuslabs.com/engage/event/5322889
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nPlease join the sisters
-  of the Nu Chapter of Omega Phi Alpha in non-selective recruitment! We wil
- l be holding recruitment events in order to get to know potential new memb
- ers and show them what OPA is all about. Omega Phi Alpha is Georgia Tech's
-  only service sorority that prides itself on its cardinal principles of fr
- iendship\, leadership\, and service. We welcome all interested individuals
-  as this is by no means a commitment to join our organization.\n\nLinks:\n
- [0]  https://gatech.campuslabs.com/engage/event/5322889
-LOCATION:Instructional Center Room 111
+UID:http://hg.gatech.edu/node/630682#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nPlease join the sisters of the Nu
+  Chapter of Omega Phi Alpha in non-selective recruitment! We will be holdi
+ ng recruitment events in order to get to know potential new members and sh
+ ow them what OPA is all about. Omega Phi Alpha is Georgia Tech's only serv
+ ice sorority that prides itself on its cardinal principles of friendship\,
+  leadership\, and service. We welcome all interested individuals as this i
+ s by no means a commitment to join our organization.\n\nLinks:\n[0]  http:
+ //hg.gatech.edu/node/630682#0\n[1]  https://gatech.campuslabs.com/engage/e
+ vent/5322889\n[2]  https://www.facebook.com/ophiagt/
+LOCATION:Room 111\, Instructional Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Careers with HNI Corporation
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200123T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200124T000000Z
+UID:https://career.gatech.edu/employer-information-sessions#4
+DESCRIPTION:Intended audience: College of Engineering\, Engineering Scienc
+ e & Mechanics - MS Level\, Industrial & Systems Engineering - All Levels\,
+  Mechanical Engineering - All Levels\nStatus: unknown\n\nInternships\, rot
+ ational programs\, and MORE! Come discuss engineering career opportunities
+  with a company representative and GA Tech alumni. Food will be provided!\
+ n\nLinks:\n[0]  https://career.gatech.edu/employer-information-sessions#4
+LOCATION:Bill Moore Student Success Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MLK “Sunday” Supper: A Community Meal and Conversation
@@ -31661,16 +31797,18 @@ BEGIN:VEVENT
 SUMMARY:Omega Phi Alpha Spring 2020 Recruitment
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200123T233000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200124T013000Z
-UID:https://gatech.campuslabs.com/engage/event/5322890
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nPlease join the sisters
-  of the Nu Chapter of Omega Phi Alpha in non-selective recruitment! We wil
- l be holding recruitment events in order to get to know potential new memb
- ers and show them what OPA is all about. Omega Phi Alpha is Georgia Tech's
-  only service sorority that prides itself on its cardinal principles of fr
- iendship\, leadership\, and service. We welcome all interested individuals
-  as this is by no means a commitment to join our organization.\n\nLinks:\n
- [0]  https://gatech.campuslabs.com/engage/event/5322890
-LOCATION:Student Center Room 321
+UID:http://hg.gatech.edu/node/630683#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nPlease join the sisters of the Nu
+  Chapter of Omega Phi Alpha in non-selective recruitment! We will be holdi
+ ng recruitment events in order to get to know potential new members and sh
+ ow them what OPA is all about. Omega Phi Alpha is Georgia Tech's only serv
+ ice sorority that prides itself on its cardinal principles of friendship\,
+  leadership\, and service. We welcome all interested individuals as this i
+ s by no means a commitment to join our organization.\n\nLinks:\n[0]  http:
+ //hg.gatech.edu/node/630683#0\n[1]  https://gatech.campuslabs.com/engage/e
+ vent/5322890\n[2]  https://www.facebook.com/ophiagt/
+LOCATION:Room 321\, Student Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Food Distribution Volunteering
@@ -31771,10 +31909,36 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pediatrics@GT Presents: Pediatric Tech Talk Webinar
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200129T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200129T180000Z
+UID:http://hg.gatech.edu/node/630730#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \nStatus: published\n\n"New Paradigms for Preventing and Treating Viral In
+ fections"\n\nDr. Philip J. Santangelo is a Professor in the Wallace H. Cou
+ lter Department of Biomedical Engineering. In 1998\, he obtained his Ph.D.
+  in Engineering from the University of California at Davis\, and then was 
+ a postdoctoral fellowship at Sandia National Laboratories in Livermore\, C
+ alifornia. He also spent time as a research faculty member at Georgia Tech
+  until becoming an Assistant Professor in 2007. Dr. Santangelo’s researc
+ h focuses on the development of imaging tools for the study of viral patho
+ genesis and immune responses\, and the development of mRNA-based therapies
+  and vaccines.\n\nOn Wednesday January 29th\, 2020\, Dr. Santangelo will d
+ iscuss his research into mRNA-based therapeutics\, what they are and how w
+ e are using them for prevention and treatment. If you are interested in ne
+ w approaches to preventing and treating viral infection\, including synthe
+ tic mRNA and gene modulation technology will find Dr. Santangelo’s Pedia
+ tric Tech Talk of high value. We will be live broadcasting this webinar fr
+ om the Georgia Tech campus and be serving lunch to any participants that a
+ ttend in person!\n\nRSVP HERE! [1]\n\nLinks:\n[0]  http://hg.gatech.edu/no
+ de/630730#0\n[1]  http://bit.ly/2N0M2xo
+LOCATION:Krone Engineered Biosystems Building\, Room 1005 - Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:McKinsey & Company Freshman Diversity Leader Intern Info Session
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200130T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200131T000000Z
-UID:https://career.gatech.edu/employer-information-sessions#3
+UID:https://career.gatech.edu/employer-information-sessions#8
 DESCRIPTION:Intended audience: All Majors\nStatus: unknown\n\nThis present
  ation and breakout session is open to students who identity as Black/Afric
  an American\, Hispanic/Latino or Native American and in the class 2023. Th
@@ -31785,9 +31949,9 @@ DESCRIPTION:Intended audience: All Majors\nStatus: unknown\n\nThis present
  e opportunity to get all your questions answered in an informal setting. F
  ood and beverages will be provided. Please RSVP here: http://slyreply.com/
  app/sheets/qgg6xqwdr1v9/\n\nLinks:\n[0]  https://career.gatech.edu/employe
- r-information-sessions#3\n[1]  https://career.gatech.edu/employer-informat
+ r-information-sessions#8\n[1]  https://career.gatech.edu/employer-informat
  ion-sessions#1\n[2]  https://career.gatech.edu/employer-information-sessio
- ns#2
+ ns#2\n[3]  https://career.gatech.edu/employer-information-sessions#3
 LOCATION:Bill Moore Student Success Center - President Suite A
 END:VEVENT
 BEGIN:VEVENT
@@ -33178,6 +33342,17 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:DramaTech Theatre\, north side of the Ferst Center for the Arts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Queer Coffeehouse:  LGBTQIA Graduate Students and Postdocs
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200414T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200414T160000Z
+UID:https://gatech.campuslabs.com/engage/event/5385651
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nTake a study break to e
+ njoy coffee and treats while getting to know students who share your ident
+ ity.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5385651
+LOCATION:LGBTQIA Resource CenterSmithgall Student Services Building\, Suit
+ e 140
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nano@Tech: Khalid Salaita - Department of Chemistry\, Emory Univ.
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200414T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200414T170000Z
@@ -33415,6 +33590,22 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  sident@gmail.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/624549#24\n
  [1]  swepresident@gmail.com\n[2]  https://www.facebook.com/GeorgiaTechSWE/
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yellow Jackets Art Workshops
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200423T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200423T160000Z
+UID:http://hg.gatech.edu/node/630652#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nIn order to reflect on the end of
+  the school year\, students will discuss moments of accomplishment through
+ out the year. Facilitators will provide prompts so students can reflect on
+  their experiences and select their power word. Students will then create 
+ a personalize piece of art displaying their word. Students will be able to
+  take a picture displaying their power word. Brunch will be served.\n\nPro
+ gram is for GT students\; registration is encouraged but not required.\n\n
+ Links:\n[0]  http://hg.gatech.edu/node/630652#0
+LOCATION:CRC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Food Distribution Volunteering
