@@ -2,221 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Spring TA Orientation - Session 1
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190108T213000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190109T003000Z
-UID:http://hg.gatech.edu/node/613593#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nAre you a new GTA or UTA? In this
-  essential introduction to your role as a TA\, you will learn about your n
- ew responsibilities\, the policies that govern your work\, and useful tool
- s to use in your course. Led by a team of experienced TA Fellows\, TAO is 
- an engaging introduction to life as a TA at Georgia Tech. Check with your 
- department to find out if your attendance at this event is mandatory.\n\nR
- EGISTER [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/613593#0\n[1]  http:
- //ctl.gatech.edu/content/spring-2018-teaching-assistant-orientation-tao\n[
- 2]  http://ctl.gatech.edu/grad-students/teaching-assistants
-LOCATION:Student Center\, Peachtree Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hot Cities 2050
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190109T133000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190109T210000Z
-UID:http://hg.gatech.edu/node/614449#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nRSVP [1]\nRapid u
- rban growth is impacting not just the landscapes of cities\, but also the 
- local air quality\, and the need for energy\, water\, and other resources.
-  Although cities only occupy a mere 2% of the Earth’s surface area\, the
- y are responsible for nearly 70% of the global energy consumption\, which 
- is projected to increase 1.6 times from 2010 to 2040. This growth will be 
- the result of increasing urban area populations\, and infrastructure facil
- ities such as high rise residential\, commercial buildings\, and data cent
- ers. Much of the energy used in urban areas is ultimately converted to ant
- hropogenic waste heat released to the urban canopy\, contributing to the g
- rowth of urban heat islands (UHI). The annual mean air temperature of a ci
- ty of 1 million can be 1-3°C warmer than its surroundings\, with the even
- ing differences as high as 12°C. With extreme heat accounting for more we
- ather-related deaths each year than any other form of extreme weather\, ur
- ban populations are disproportionately impacted by rising temperatures. Th
- e UHI further results in increased summertime energy usage\, higher air-co
- nditioning costs\, increased air pollution and greenhouse gas emissions\, 
- as well as degradation of water quality. A renewed sense of urgency exists
-  to mitigate adverse thermal effects on urban climate due to the combinati
- on of greenhouse gas-driven warming at the global scale\, and UHI-related 
- warming at the local-regional scale.\n\nA renewed sense of urgency exists 
- to mitigate adverse thermal effects on urban climate due to the combinatio
- n of greenhouse gas-driven warming at the global scale\, and UHI-related w
- arming at the local-regional scale.\n\nThis workshop will bring together v
- arious national and international stakeholders to identify urban thermal c
- limate challenges\, and ways of addressing these. Invited talks from acade
- mia\, industry\, and national labs will be complemented by breakout sessio
- ns on selected topics. The workshop will focus on identification of topics
-  of interest for multi-disciplinary\, collaborative research efforts to en
- sure the healthy growth of urban areas.\n\nAgenda:\n\n8:30am – 9:00am Re
- gistration and Breakfast\n\n9:00am – 9:20am Welcome and Introductions\n\
- nChaouki Abdallah\, Executive Vice President of Research\, Georgia Institu
- te of Technology\n\nYogendra Joshi\, Professor and John M. McKenney and Wa
- rren D. Shiver Distinguished Chair\, G.W. School of Mechanical Engineering
- \, Georgia Institute of Technology\n\n9:20am – 10:50am Setting the Scene
- \n\nBrian Stone\, Professor\, School of City & Regional Planning\, Georgia
-  Institute of Technology\n\nDa vid Sailor\, Professor\, School of Geograph
- ical Sciences and Urban Planning\; Director\, Urban Climate Research Cente
- r\, Arizona State University\n\nMarshall Shepherd\, Georgia Athletic Assoc
- iation Distinguished Professor of Geography and Atmospheric Sciences\, Uni
- versity of Georgia\n\nA da Gavrilovska\, Associate Professor\, College of 
- Computing and the Center for Experimental Research in Computer Systems\, G
- eorgia Institute of Technology\n\n10:50am – 11:00am Break\n\n11:00am –
-  12:15pm Cities in Action: A Look at What is Happening on the Ground in At
- hens\, Atlanta\, and Phoenix\n\nAmol Naik\, Chief Resilience Officer\, Cit
- y of Atlanta\n\nAndrew Saunders\, Sustainability Officer\, Athens-Clarke C
- ounty\n\nMark Hartman\, Chief Sustainability Officer\, City of Phoenix\n\n
- Katherine Moore\, Sustainable Growth Program Manager\, Georgia Conservancy
- \n\nMinami Yoda\, Professor\, George W. Woodruff School of Mechanical Engi
- neering\, Georgia Institute of Technology\, Moderator\n\n12:15pm – 1:15p
- m Lunch Break\n\n1:15pm – 2:15pm Exercise: Breakout Groups\n\nUrban Ther
- mal Environment Modeling & Mitigation\n\nTim Hebrink\, Staff Scientist\, 3
- M Corporate Research Process Lab\n\nYogendra Joshi\, Professor and John M.
-  McKenney and Warren D. Shiver Distinguished Chair\, G.W. School of Mechan
- ical Engineering\, Georgia Institute of Technology\n\nPromoting Urban Heal
- th Under Temperature Extremes\n\nDavid Sailor\, Professor\, School of Geog
- raphical Sciences and Urban Planning\; Director\, Urban Climate Research C
- enter\, Arizona State University\n\nDaniel Matisoff\, Associate Professor\
- , School of Public Policy\, Georgia Institute of Technology\n\n2:15pm – 
- 3:30pm Panel on Integrated Pillar Applications\n\nStephanie Stuckey\, Dire
- ctor of Sustainability Services\, Southface\n\nHendrik Hamann\, Senior Man
- ager and Distinguished Research Staff Member\, IBM T.J. Watson Research Ce
- nter\n\nDenise Quarles\, Chief City Executive – SE Region\, Center of Co
- mpetence\, Americas\, Siemens Corporation\n\nJon Philipsborn\, Associate V
- ice President\, Climate Adaptation Practice Director\, Americas\, AECOM\n\
- nTracy Twine\, Associate Professor\, Department of Soil\, Water\, and Clim
- ate\, University of Minnesota\n\nDebra Lam\, Managing Director\, Smart Cit
- ies and Inclusive Innovation\, Georgia Institute of Technology\, Moderator
- \n\n3:30pm Closing and Next Steps\n\nHotels Nearby: (***Hotel reservations
-  should be made as soon as possible\, as there are many events scheduled i
- n Atlanta in January 2019.)\n\nArtmore Hotel [2] - 1302 West Peachtree Str
- eet\, NW (404) 876-6100 Courtyard Atlanta Midtown [3] - 1132 Techwood Criv
- e (404) 607-1112 Crown Plaza [4] - 590 West Peachtree Street\, NW (404) 87
- 7-9000 Georgia Tech Hotel [5] - 800 Spring Street (404) 347-9440 Georgian 
- Terrace Hotel [6] - 659 Peachtree Street (404) 897-1991 Grand Hyatt Atlant
- a [7] - 3300 Peachtree Raod NE (404) 364-3848 Regency Suites [8] - 975 Wes
- t Peachtree (404) 876-5003 Renaissance Midtown Hotel [9] - 866 W. Peachtre
- e (678) 412-2400\n\nLinks:\n[0]  http://hg.gatech.edu/node/614449#0\n[1]  
- https://www.eventbrite.com/e/hot-cities-2050-tickets-52672977293\n[2]  htt
- ps://www.artmorehotel.com/\n[3]  https://www.marriott.com/hotels/travel/at
- lmn-courtyard-atlantamidtown-georgia-tech/\n[4]  http://www.crowneplaza.co
- m\n[5]  http://www.gatechhotel.com\n[6]  http://www.thegeorgianterrace.com
- /\n[7]  http://www.grandatlanta.hyatt.com\n[8]  http://www.regencysuites.c
- om\n[9]  https://www.marriott.com/hotels/travel/atlbd-renaissance-atlanta-
- midtown-hotel/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2
-LOCATION:TSRB Auditorium\, 85 5th Street NW Atlanta\, GA 30308
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CoC Student Organization Fair
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190109T190000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190109T210000Z
-UID:http://hg.gatech.edu/node/615823#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nWant to become more in
- volved? Want to build your community? This is your opportunity to learn ab
- out and sign up for CoC sponsored student organizations.There will be food
- \, games\, and giveaways!\n\nLinks:\n[0]  http://hg.gatech.edu/node/615823
- #0
-LOCATION:Klaus Atrium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TIme Management Workshop
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190110T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190110T170000Z
-UID:http://hg.gatech.edu/node/615822#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nEffective time management can hel
- p increase productivity and reduce stress. This workshop will explore time
-  management tips that focus on mental and physical productivity\, and tool
- s like Microsoft Office and the Outlook calendar. Increase your time manag
- ement skills to stay organized\, keep a clear mind\, and be more productiv
- e—in work and life\n\nLinks:\n[0]  http://hg.gatech.edu/node/615822#0
-LOCATION:The Nest (College of Computing Room 346)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Welcome to America: Navigating Life in Atlanta and Georgia Tech
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190110T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190110T170000Z
-UID:http://hg.gatech.edu/node/615373#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nHear from upperclassmen internati
- onal students on how to thrive at Georgia Tech\, adjust to Atlanta and how
-  they successfully landed internships.\n\nAlso\, Bonnie Taylor\, Associate
-  Dean / Director of Student Integrity will provide advice on how you can a
- void academic integrity issues.\n\nLinks:\n[0]  http://hg.gatech.edu/node/
- 615373#0\n[1]  http://oie.gatech.edu
-LOCATION:Crescent Room\, Student Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SAA Kickoff
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190110T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190110T180000Z
-UID:http://hg.gatech.edu/node/616180#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nJoin the Student Alumn
- i Association on Tech Walkway for the first Spirit Day of the spring semes
- ter! Bring a friend who is not already an SAA member and receive 2 free pa
- irs of SAA socks.\n\nMore information [1]\n\nLinks:\n[0]  http://hg.gatech
- .edu/node/616180#0\n[1]  http://www.gtsaa.com/s/1481/alumni/17/interior-wi
- de.aspx?sid=1481&gid=39&pgid=15643\n[2]  http://www.gtsaa.com/s/1481/alumn
- i/17/home.aspx?gid=39&pgid=61
-LOCATION:Tech Walkway
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GVU Center Brown Bag: Gregory D. Abowd\, "Confessions of an Applie
- d Computer Scientist"
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190110T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190110T180000Z
-UID:http://hg.gatech.edu/node/615970#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nExtras: Free food\nStatus: published\n\nAbstract
- :\n\nIn my nearly quarter century of work at Georgia Tech\, I have been in
- volved in many different projects with many different collaborators. While
-  I refer to myself as a researcher in Ubicomp and HCI\, I am even more com
- fortable these days with the label of “applied computer scientist.” In
-  this talk\, I want to explain what I mean by an applied computer scientis
- t and what it means to apply computing to some other non-computing problem
-  domains. These application domains can vary widely\, from health to educa
- tion to materials science. The domain collaborators can also vary in terms
-  of whether they are practitioners or researchers in their own domain. Reg
- ardless of this variability\, I have developed a way of thinking about the
-  collaborative relationship between a computing researcher and these domai
- n specialists. A lot of it is just common sense\, but it is valuable to ma
- ke that common sense explicit when we think about how to develop a lasting
-  relationship with another domain. Using my own successes and failures as 
- a backdrop\, I will provide a simple framework to understand how to distin
- guish different kinds of contributions of applied computing. This talk is 
- meant to provide advice on when and how to develop a long-term cross-domai
- n collaboration. Though I won’t speak explicitly about this\, the lesson
- s from my talk can also be applied to collaboration across different subdi
- sciplines of computing\, so I think the talk is valuable for a very broad 
- computing research community.\n\nSpeaker Bio:\n\nGregory D. Abowd [1] is a
-  Regents’ Professor and J.Z. Liang Chair in the School of Interactive Co
- mputing at Georgia Tech\, as well as Associate Dean for Off Campus and Spe
- cial Initiatives in the College of Computing. He has been on the faculty a
- t Georgia Tech since 1994. An applied computer scientist\, Dr. Abowd's res
- earch interests concern how the advanced information technologies of mobil
- e\, wearable and ubiquitous computing impact our everyday lives when they 
- are seamlessly integrated into our living spaces. Dr. Abowd's work has inv
- olved applications as diverse as education (Classroom 2000)\, home life (T
- he Aware Home) and health (technology and autism\, CampusLife). He and his
-  current and former students are active inventors of new sensing and inter
- action technologies. He has recently helped to co-create an interdisciplin
- ary research effort\, COSMOS\, which investigates the collaboration of mat
- erials\, manufacturing\, electronics\, computing and design to explore an 
- alternative future computing industry. Dr. Abowd is an ACM Fellow and a me
- mber of the ACM SIGCHI Academy.\n\nLinks:\n[0]  http://hg.gatech.edu/node/
- 615970#0\n[1]  http://ubicomp.cc.gatech.edu/\n[2]  http://www.tsrb.gatech.
- edu/
-LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
- a\, Ga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Officials Clinic -Welcome Back Info Session
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190110T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190111T003000Z
@@ -31168,6 +30953,19 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is our first meeti
 LOCATION:Instructional Center 205
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Theme Park Engineering and Design Club Kickoff Meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200113T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200114T003000Z
+UID:http://hg.gatech.edu/node/630841#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nThis is our first meeting of the semester. Come join us in IC 205 to lea
+ rn more about the club\, play games and have a great time. Snacks will be 
+ provided! We'd love to see you there.\n\nLinks:\n[0]  http://hg.gatech.edu
+ /node/630841#0\n[1]  https://www.facebook.com/groups/764392254011453/
+LOCATION:Instructional Center Room 205
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GMMA Mission Trip Interest Meeting 
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200114T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200114T010000Z
@@ -31254,6 +31052,26 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  ientation-tao\n[2]  http://ctl.gatech.edu/grad-students/teaching-assistant
  s
 LOCATION:Student Center Ballroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chocolate and Meditation
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200114T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200114T230000Z
+UID:https://gatech.campuslabs.com/engage/event/5396832
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nYou may have eaten choc
+ olate before\, but have you experienced chocolate?\n\nSKY offers an intera
+ ctive session on meditation. The idea of this session is that meditation n
+ ot only centers you\, but it heightens your senses.Join us for this amazin
+ g session where we will guide you into a short\, relaxing meditation follo
+ wed by delicious chocolate tasting giving you a tantalizing and refreshing
+  experience.\n\nWhat can you expect in the session?\n\n1) Relaxation throu
+ gh the breath\n\n2) Insights into the nature of mind and power of senses\n
+ \n3) Guided meditation using chocolate\n\n4) Question & answer session\n\n
+ When: Tuesday\, Jan 14th at 5:00 pm\n\nWhere: Room 343\, Student Center\n\
+ nWhy: To experience chocolate in a way you never have before!\n\nWe look f
+ orward to seeing you there!\n\nLinks:\n[0]  https://gatech.campuslabs.com/
+ engage/event/5396832
+LOCATION:Georgia Tech Student Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open house to tour WST Learning Community
@@ -31444,6 +31262,89 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAll interested women un
 LOCATION:Stein House/4th St. A Apts.\, 733 Techwood Drive\, Atlanta
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:WECE Networking Mixer
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200115T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200116T000000Z
+UID:https://gatech.campuslabs.com/engage/event/5392278
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome out to talk to som
+ e of our sponsors about internship\, co-op\, and full time opportunities!\
+ n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5392278
+LOCATION:Petit 102A-B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:History and Sociology Club Meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200116T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200116T010000Z
+UID:http://hg.gatech.edu/node/630814#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nThe HSOC Club will meet on Wednesday\, January 15th 
+ at 7PM in the OCE computer lab. Stop by to discuss events for this semeste
+ r\, meet other members\, and enjoy some free food!\n\nLinks:\n[0]  http://
+ hg.gatech.edu/node/630814#0
+LOCATION:OCE Computer Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GVU Center Brown Bag: Krystina Madej "Serious Topics in Children's
+  Digital Games"
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200116T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200116T180000Z
+UID:http://hg.gatech.edu/node/630812#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nExtras: Free food\nStatus: review\n\nAbstract:\n
+ \nGames are an important form of play. While games are played by all age g
+ roups\, for children\, play and games are fundamental to learning and\, fo
+ r them\, all play is serious. Serious games\, which have become a prevalen
+ t game genre for adults\, need not be confined to adult or adolescent audi
+ ences. Both from the perspective of serious topics and serious gameplay\, 
+ older children as they head towards adolescence\, and younger children as 
+ they negotiate their way through their first years of school\, warrant the
+  consideration of games developed to tackle topics that are becoming incre
+ asingly important to their health and well-being. In games\, social value 
+ can only be created through a narrative a child can relate to. Whether we 
+ turn to David Winnicott on child development\, Jerome Bruner on acts of me
+ aning\, or Kieran Egan on languaged learning\, story dominates as the most
+  valuable experience in the construction of a child's world and how they a
+ ct within it. The added context of a personal approach\, one that is cultu
+ rally relevant\, can create an influential avenue through which children c
+ an be provided with opportunities for gaining knowledge about problems tha
+ t\, while they may be national or global\, are local to them – knowledge
+  that could be critical to their well-being and survival in an increasingl
+ y hostile world. Games offer children a space that supports learning on th
+ eir own. Moving from the typical to the atypical game\, from simple proble
+ m solving that increases cognitive skills\, to social problem solving that
+  teaches empathy\, is a shift that can happen through participation in nar
+ rative dialogue. Social value in a game can exist when the cognitive load 
+ is not in computing numbers but in the challenge of uncovering the more in
+ triguing stories beyond the surface of coded messages. In this talk I pres
+ ent a case study that describes the design thinking process of a group of 
+ EU Erasmus students\, each of whom brings their own cultural perspective a
+ nd personal story to addressing how they would introduce children to conte
+ mporary issues\, which either affect them currently\, or will affect them 
+ as they grow up\, through narrative in physically engaging games. A number
+  of their final game designs are provided in outline.\n\nSpeaker Bio:\n\nD
+ r. Krystina Madej is Professor of the Practice at Georgia Tech\, Atlanta. 
+ At Tech since 2011\, she teaches about and researches how humans have adap
+ ted their narratives to changing media throughout the centuries\, physical
+  play and children's interaction with digital games that are based in narr
+ ative\, and in Disney's approach to stories across media since the 1920s. 
+ Adjunct Professor with the School for Interactive Art and Technology (SIAT
+ ) at Simon Fraser University\, Vancouver\, for ten years\, she taught as V
+ isiting Professor for the Center for Digital Media's Master’s degree pro
+ gram. She is research faculty at University of Lower Silesia\, Wroclaw\, P
+ oland where as Visiting Professor she teaches Disney History and Children
+ ’s Game Design for the Erasmus Program and Design Thinking and History o
+ f Social Media for the Big Data\, Digital Media\, and Trendwatching Master
+ ’s Program. Prior to returning to academia in 1999\, she was principal o
+ f a communications and design firm for 15 years\, where\, as design strate
+ gist\, she planned and created successful branding programs and exhibits f
+ or government\, business\, industry\, and museums.\n\nSchedule of Brown Ba
+ g Speakers Fall 2019 [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/630812#
+ 0\n[1]  https://www.gvu.gatech.edu/events/upcoming\n[2]  http://www.tsrb.g
+ atech.edu/
+LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
+ a\, Ga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Undergraduate Public Health Association dinner discussion
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200116T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200116T233000Z
@@ -31612,6 +31513,29 @@ DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\n
  to see you there!\n\nLinks:\n[0]  http://hg.gatech.edu/node/628785#0\n[1] 
   https://oie.gatech.edu/
 LOCATION:Student Center Piedmont Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Role of the Private Sector in Development
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200121T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200121T170000Z
+UID:http://hg.gatech.edu/node/630914#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nThe Sam Nunn School of International Affairs' Program on Global Developm
+ ent will host a round-table to discuss the role of the private sector in d
+ evelopment. Topics to discuss include the possibilities and limitaions of 
+ the private sector development in Brazil\, the trap of middle income\, and
+  leveraging economic sectors for peace from the perspective of Lebanon.\n\
+ nModerator: Mr. John Rice\, distinguished professor of the practice at the
+  Sam Nunn School of International Affairs\n\nPanelists:\n\n- Kirk Bowman\,
+  professor at the Sam Nunn School of International Affairs\n- Alberto Fuen
+ tes\, assistant professor at the Sam Nunn School of International Affairs\
+ n- Dennis Lockhart\, distinguished professor of the practice at the Sam Nu
+ nn School of International Affairs\n- Rana Shabb\, PhD candidate at the Sa
+ m Nunn School of International Affairs\n\nLunch will be provided. Please R
+ SVP to Chris McDermott at chris.mcdermott@gatech.edu\n\nLinks:\n[0]  http:
+ //hg.gatech.edu/node/630914#0\n[1]  https://inta.gatech.edu/visit
+LOCATION:Habersham Building\, Room G17
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leadership for Social Good Study Abroad Info Session
@@ -31951,7 +31875,8 @@ DESCRIPTION:Intended audience: All Majors\nStatus: unknown\n\nThis present
  app/sheets/qgg6xqwdr1v9/\n\nLinks:\n[0]  https://career.gatech.edu/employe
  r-information-sessions#8\n[1]  https://career.gatech.edu/employer-informat
  ion-sessions#1\n[2]  https://career.gatech.edu/employer-information-sessio
- ns#2\n[3]  https://career.gatech.edu/employer-information-sessions#3
+ ns#11\n[3]  https://career.gatech.edu/employer-information-sessions#2\n[4]
+   https://career.gatech.edu/employer-information-sessions#3
 LOCATION:Bill Moore Student Success Center - President Suite A
 END:VEVENT
 BEGIN:VEVENT
@@ -32692,6 +32617,50 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  od4lives.org/donate.html\n[3]  https://www.facebook.com/events/11779058659
  30288/
 LOCATION:Food4Lives\, 1122 Old Chattahoochee Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project Africa 2020
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200229T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200229T200000Z
+UID:http://hg.gatech.edu/node/630908#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free Food\nStatus: published\n
+ \nProject Africa is among the African Student Association's foremost educa
+ tional initiatives\, giving young people the space to discuss their intent
+ ions and visions for structuring a better Africa. In addition\, we strive 
+ to provide access to professional contacts who are already working towards
+  creating a new Africa. This annual conference targets students who are in
+ terested in the future of the economic\, social\, and political landscapes
+  of the many countries in Africa. This initiative gives each student the o
+ pportunity to share their thoughts and any solutions they have in mind for
+  their nation of heritage.\n\nThe event also serves as a space for student
+ s to build connections with the continent and rebuild ties that have been 
+ historically severed. Through Project Africa\, students are given the conv
+ ersation space to discuss their intentions for structuring the Africa they
+  want. In these conversations\, we invite professionals in business and in
+ dustry to speak on their work on the continent. We also provide a platform
+  for the transmission of advice to the younger generation to make themselv
+ es of greatest use in ensuring a strong future for African nations and the
+ ir peoples.\n\nProject Africa is among the African Student Association's f
+ oremost educational initiatives. Giving young people the space to discuss 
+ their intentions and visions for structuring a better Africa. In addition\
+ , we strive to provide access to professional contacts who are already wor
+ king towards creating a new Africa.\n\nThis annual conference targets stud
+ ents who are interested in the future of the economic\, social\, and polit
+ ical landscapes of the many countries in Africa. This initiative gives eac
+ h student the opportunity to share their thoughts and any solutions they h
+ ave in mind for their nation of heritage. The event also serves as a space
+  for students to build connections with the Continent and rebuild ties tha
+ t have been historically severed. Through Project Africa\, students are gi
+ ven the conversation space to discuss their intentions for structuring the
+  Africa they want. In these conversations\, we invite professionals in bus
+ iness and industry to speak on their work on the Continent. We also provid
+ e a platform for the transmission of advice to the younger generation to m
+ ake themselves of greatest use in ensuring a strong future for African nat
+ ions and their peoples.\n\nLinks:\n[0]  http://hg.gatech.edu/node/630908#0
+ \n[1]  https://gatech.campuslabs.com/engage/event/5391569\n[2]  https://ga
+ tech.campuslabs.com/engage/organization/african-student-association
+LOCATION:Bill Moore Student Success Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Society of Women Engineers General Body Meeting
