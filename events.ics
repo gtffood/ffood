@@ -2,26 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Officials Clinic -Welcome Back Info Session
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190110T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190111T003000Z
-UID:http://hg.gatech.edu/node/615608#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nLearn more about what it takes to be an intramu
- ral official and scorekeeper at the officials welcome back info session.\n
- \nGet the skills you need to officiate/score keep for any of the intramura
- l sports offered at the CRC during the Spring semester. You must be a Geor
- gia Tech student to participate and you must attend all clinic dates. Food
-  will be provided at the welcome back event.\n\nPhase 1 Clinic Dates:\n\n1
- /14 Roundball Classic Day 1 6pm-11pm Main Gym ( this is a shadowing event 
- you will not be required to stay the entire time)\n\n1/15 Roundball Classi
- c Day 2 6pm-11pm Main Gym ( this is a shadowing event you will not be requ
- ired to stay the entire time)\n\n1/15 Indoor Soccer Clinic 11am RM 249\n\n
- 1/16 Basketball Clinic Day 1 6pm RM 249\n\n1/17 Basketball Clinic Day 2 6p
- m RM 251\n\nLinks:\n[0]  http://hg.gatech.edu/node/615608#0
-LOCATION:Campus Recreation Complex (CRC)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Defense Innovation Conference
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190114T130000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190114T213000Z
