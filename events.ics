@@ -30977,6 +30977,21 @@ DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nRegister t
 LOCATION:Clough Undergraduate Learning Commons
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ASCE General Meeting - Swinerton
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200114T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200114T170000Z
+UID:https://gatech.campuslabs.com/engage/event/5412647
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nSince our 
+ founding in 1888\, Swinerton’s success has been built on a foundation of
+  shared values. We are a 100% employee-owned company\, so our people have 
+ a personal interest in the success of every project. With a culture of col
+ laboration\, we work toward a common purpose: to be the preferred builder 
+ and trusted partner in every market we serve\, proudly leading with integr
+ ity\, passion\, and excellence.\n\nLinks:\n[0]  https://gatech.campuslabs.
+ com/engage/event/5412647
+LOCATION:Mason Building - room 1133
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Professor Ian Bogost\, Publications Workshop: Writing for General 
  Audiences
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200114T160000Z
@@ -31037,21 +31052,24 @@ BEGIN:VEVENT
 SUMMARY:Chocolate and Meditation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200114T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200114T230000Z
-UID:https://gatech.campuslabs.com/engage/event/5396832
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nYou may have eaten choc
- olate before\, but have you experienced chocolate?\n\nSKY offers an intera
- ctive session on meditation. The idea of this session is that meditation n
- ot only centers you\, but it heightens your senses.Join us for this amazin
- g session where we will guide you into a short\, relaxing meditation follo
- wed by delicious chocolate tasting giving you a tantalizing and refreshing
-  experience.\n\nWhat can you expect in the session?\n\n1) Relaxation throu
- gh the breath\n\n2) Insights into the nature of mind and power of senses\n
- \n3) Guided meditation using chocolate\n\n4) Question & answer session\n\n
- When: Tuesday\, Jan 14th at 5:00 pm\n\nWhere: Room 343\, Student Center\n\
- nWhy: To experience chocolate in a way you never have before!\n\nWe look f
- orward to seeing you there!\n\nLinks:\n[0]  https://gatech.campuslabs.com/
- engage/event/5396832
-LOCATION:Georgia Tech Student Center
+UID:http://hg.gatech.edu/node/630978#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nYou may have eaten chocolate befo
+ re\, but have you experienced chocolate?\n\nSKY offers an interactive sess
+ ion on meditation. The idea of this session is that meditation not only ce
+ nters you\, but it heightens your senses.Join us for this amazing session 
+ where we will guide you into a short\, relaxing meditation followed by del
+ icious chocolate tasting giving you a tantalizing and refreshing experienc
+ e.\n\nWhat can you expect in the session?\n\n1) Relaxation through the bre
+ ath\n\n2) Insights into the nature of mind and power of senses\n\n3) Guide
+ d meditation using chocolate\n\n4) Question & answer session\n\nWhen: Tues
+ day\, Jan 14th at 5:00 pm\n\nWhere: Room 343\, Student Center\n\nWhy: To e
+ xperience chocolate in a way you never have before!\n\nWe look forward to 
+ seeing you there!\n\nLinks:\n[0]  http://hg.gatech.edu/node/630978#0\n[1] 
+  https://gatech.campuslabs.com/engage/event/5396832\n[2]  https://gatech.c
+ ampuslabs.com/engage/organization/sky/events\n[3]  https://www.facebook.co
+ m/events/606108580191690/
+LOCATION:Room 343\, Student Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open house to tour WST Learning Community
@@ -31105,6 +31123,20 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  9#0\n[1]  http://datasciencegt.org\n[2]  https://gatech.campuslabs.com/eng
  age/organization/data-science-at-georgia-tech
 LOCATION:Room G011\, Molecular Science and Engineering Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General ASCE Meeting  - Kimley-Horn (Dinner Meeting)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200114T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200115T000000Z
+UID:https://gatech.campuslabs.com/engage/event/5412014
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nAt Kimley-
+ Horn\, we do things differently. People—clients and employees—are at t
+ he forefront of our business. Clients know we are laser-focused on their s
+ uccess. Employees know our culture and approach to business are built on a
+  desire to see our staff flourish\, one and all. Both groups know that wit
+ h Kimley-Horn\, they can expect more and experience better.\n\nLinks:\n[0]
+   https://gatech.campuslabs.com/engage/event/5412014
+LOCATION:Mason Building - room 1133
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spring Kickoff 2020
@@ -31252,6 +31284,29 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome out to talk to som
 LOCATION:Petit 102A-B
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GT French Club Rendezvous
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200115T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200116T000000Z
+UID:http://hg.gatech.edu/node/630981#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nThe Georgia Tech French Club will
+  be holding its first rendezvous this\, Wednesday\, January 15th in IC 111
+  from 6-7 PM! Stop by to meet fellow francophones\, learn about this semes
+ ter's events\, meet our Leadership Team\, and eat some cookies. We are ver
+ y excited to meet all of you\, and we have planned a lot of exciting event
+ s for this semester! Looking forward to seeing you all there!\n\nLe Georgi
+ a Tech French Club tiendra son premier rendezvous demain mercredi 15 janvi
+ er à IC 111 de 18h à 19h! Arrêtez-vous pour rencontrer d'autres francop
+ hones\, découvrez les événements de ce semestre\, rencontrez notre « L
+ eadership Team » et mangez des cookies. Nous sommes très heureux de vous
+  rencontrer tous et nous avons organisé de nombreux événements formidab
+ les pour ce semestre! Nous espérons vous y voir!\n\nLinks:\n[0]  http://h
+ g.gatech.edu/node/630981#0\n[1]  https://gatech.campuslabs.com/engage/even
+ t/5405235\n[2]  https://gatech.campuslabs.com/engage/organization/french-c
+ lub\n[3]  https://www.facebook.com/FrenchClubGT
+LOCATION:Room 111\, Instructional Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:History and Sociology Club Meeting
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200116T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200116T010000Z
@@ -31262,6 +31317,16 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  r\, meet other members\, and enjoy some free food!\n\nLinks:\n[0]  http://
  hg.gatech.edu/node/630814#0
 LOCATION:OCE Computer Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cisco Info Session
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200116T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200116T164500Z
+UID:https://gatech.campuslabs.com/engage/event/5408045
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome out to hear from C
+ isco about their opportunities!\n\nLinks:\n[0]  https://gatech.campuslabs.
+ com/engage/event/5408045
+LOCATION:Van Leer C340
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GVU Center Brown Bag: Krystina Madej "Serious Topics in Children's
@@ -31747,6 +31812,51 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Food4Lives\, 1122 Old Chattahoochee Avenue
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GTMI Lunch and Learn Series - Smart and Connected Soft Bioelectron
+ ics for Advancing Human Healthcare and Human-Machine Interfaces
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200127T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200127T180000Z
+UID:http://hg.gatech.edu/node/630975#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nSmart and Connected Soft Bioelectronics for Advancing Human Healthcare a
+ nd Human-Machine Interfaces\n\nSpeaker:\n\n- Asst. Professor\, W. Hong Yeo
+ \n\nCompany:\n\n- Georgia Tech\, ME and BME\n\nLinks:\n[0]  http://hg.gate
+ ch.edu/node/630975#0
+LOCATION:GTMI 114
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Micro-Physiological Systems Seminar Series
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200127T180000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200127T190000Z
+UID:http://hg.gatech.edu/node/630951#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \nStatus: published\n\nPilgyu Kang\, Ph.D.\nAssistant Professor\nDepartmen
+ t of Mechanical Engineering\nGeorge Mason University\n\n"Micro/Nano Mechan
+ ics and Photonics for Biomedical Applications"\n\nNanostructuring of atomi
+ cally-thin two-dimensional (2D) materials (e.g. graphene and MoS2) has sho
+ wed promise to create new functionalities for various biomedical applicati
+ ons\, especially flexible and wearable electronics. In this talk\, I will 
+ discuss how nanostructuring of atomically-thin materials could create new 
+ functionalities based on the fundamental studies of mechanics and photonic
+ s at nanoscale. I will first discuss how nanostructuring of atomically-thi
+ n 2D materials allows for the enhancement of their exceptional material pr
+ operties and creating new functionalities in mechanical\, optical\, plasmo
+ nic properties. I will also introduce a shrink nanomanufacturing method de
+ veloped based on nanoscale mechanics of atomically-thin materials\, includ
+ ing graphene and MoS2 atomic layers. Shrink nanomanufacturing allows large
+ -scale\, uniform crumpling of graphene\, a two-dimensional (2D) material\,
+  enabling mechanical stretchability and strain tunability of a flexible op
+ toelectronic device. I will highlight a high-performance flexible photodet
+ ector developed based on the shrink nanomanufacturing approach as well as 
+ its potential in flexible/wearable optical sensing technology for biomedic
+ al applications.\n\nLunch will be served at the beginning of the seminar.\
+ n\nLinks:\n[0]  http://hg.gatech.edu/node/630951#0\n[1]  https://forms.gle
+ /xajpSrydkh2gMoSC7\n[2]  https://ibi.gmu.edu/faculty-directory/pilgyu-kang
+ /\n[3]  https://pwp.gatech.edu/biomicrofluidics/
+LOCATION:Krone Engineered Biosystems Building\, Room 1005 - Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dinner discussion with Dr. Pinar Keskinocak & Dr. Dawn Strickland
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200127T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200128T003000Z
@@ -31991,6 +32101,19 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Food4Lives\, 1122 Old Chattahoochee Avenue
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GTMI Lunch and Learn Series - Energy-Efficient Manufacturing Towar
+ d Global Sustainability
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200203T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200203T180000Z
+UID:http://hg.gatech.edu/node/630984#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nEnergy-Efficient Manufacturing Toward Global Sustainability\n\nSpeaker:\
+ n\n- Professor\, Edward Wang\n\nCompany:\n\n- Texas A&M University\n\nLink
+ s:\n[0]  http://hg.gatech.edu/node/630984#0
+LOCATION:GTMI 114
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:February Meeting
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200204T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200204T170000Z
@@ -32137,6 +32260,20 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  od4lives.org/donate.html\n[3]  https://www.facebook.com/events/11779058659
  30288/
 LOCATION:Food4Lives\, 1122 Old Chattahoochee Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GTMI Lunch and Learn Series - Scalable Manufacturing Approaches fo
+ r Biomimetic Engineered Tissues
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200210T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200210T180000Z
+UID:http://hg.gatech.edu/node/630985#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nScalable Manufacturing Approaches for Biomimetic Engineered Tissues\n\nS
+ peaker:\n\n- Professor\, Rohan Shirwaiker\n\nCompany:\n\n- North Carolina 
+ State University\, ISYE and BME\; Comparative Medicine Institute\n\nLinks:
+ \n[0]  http://hg.gatech.edu/node/630985#0
+LOCATION:GTMI 114
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Career advice: resumes\, elevator pitches & more with Michael Laug
@@ -32462,6 +32599,19 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Food4Lives\, 1122 Old Chattahoochee Avenue
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GTMI Lunch and Learn Series - Enterprise Resource Planning Softwar
+ e Solutions for Manufacturers
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200224T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200224T180000Z
+UID:http://hg.gatech.edu/node/630986#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nEnterprise Resource Planning Software Solutions for Manufacturers\n\nSpe
+ aker:\n\n- Brad Driver\, Microsoft Partner\n\nCompany:\n\n- Microsoft\, AC
+ E Microtechnology\n\nLinks:\n[0]  http://hg.gatech.edu/node/630986#0
+LOCATION:GTMI 114
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nano@Tech: Lisa Yaszek - School of Literature\, Media\, and Commun
  ications\, Georgia Tech
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200225T170000Z
@@ -32643,6 +32793,19 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Bill Moore Student Success Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GTMI Lunch and Learn Series - Flentek Solutions: Journey from Engi
+ neering Design Firm to Manufacturer
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200302T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200302T180000Z
+UID:http://hg.gatech.edu/node/630988#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nFlentek Solutions: Journey from Engineering Design Firm to Manufacturer\
+ n\nSpeaker:\n\n- Joseph Lewis\, President and CEO\n\nCompany:\n\n- Flentek
+  Solutions\n\nLinks:\n[0]  http://hg.gatech.edu/node/630988#0
+LOCATION:GTMI 114
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Society of Women Engineers General Body Meeting
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200303T221500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200304T000000Z
@@ -32707,6 +32870,19 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  od4lives.org/donate.html\n[3]  https://www.facebook.com/events/11779058659
  30288/
 LOCATION:Food4Lives\, 1122 Old Chattahoochee Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GTMI Lunch and Learn Series - 3D Printing Strategies for Industria
+ l Applications
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200309T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200309T170000Z
+UID:http://hg.gatech.edu/node/630990#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \n3D Printing Strategies for Industrial Applications\n\nSpeaker:\n\n- Sama
+ ntha Kasraie\, 3D Specialist\n\nCompany:\n\n- Novatech/Markforged\n\nLinks
+ :\n[0]  http://hg.gatech.edu/node/630990#0
+LOCATION:GTMI 114
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dinner with Dr. Michelle Rinehart
@@ -32931,6 +33107,19 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  ood4lives.org/donate.html\n[3]  https://www.facebook.com/events/1177905865
  930288/
 LOCATION:Food4Lives\, 1122 Old Chattahoochee Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GTMI Lunch and Learn Series - The Future of Making\, Fusion Genera
+ tive Design for Additive Manufacturing
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200323T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200323T170000Z
+UID:http://hg.gatech.edu/node/630991#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nThe Future of Making\, Fusion Generative Design for Additive Manufacturi
+ ng\n\nSpeaker:\n\n- Jason Roth\, Engineering Education Program Manager\n\n
+ Company:\n\n- Autodesk\n\nLinks:\n[0]  http://hg.gatech.edu/node/630991#0
+LOCATION:GTMI 114
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nano@Tech: David Myers - Wallace H. Coulter Department of Biomedic
