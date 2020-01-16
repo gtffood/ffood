@@ -2,160 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Defense Innovation Conference
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190114T130000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190114T213000Z
-UID:http://hg.gatech.edu/node/615986#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\n- Are you interes
- ted in doing business with the Department of Defense (the biggest buyer on
-  earth of everything)?\n- Do you want to learn about the latest programs d
- esigned to help innovative small companies do business with DoD?\n- Would 
- you like to know how major Defense contractors select their subcontractors
- ?\n- Are you interested in the new cybersecurity requirements and how they
-  apply to DoD contractors?\n\nIf you answered “yes” to any or all of t
- hese questions\, you need to be in attendance at GTPAC’s Defense Innovat
- ion Conference to be held on Monday\, Jan. 14\, 2019\, at the Georgia Tech
-  Hotel & Conference Center in Atlanta.\n\nThe registration fee to attend t
- his one-of-a-kind\, day-long conference is only $50\, and includes both br
- eakfast and lunch. Space is limited so please register as early as possibl
- e.\n\nRegistration details are at: [1]. Space is limited. Advance registra
- tion is required — no registration at the door!\n\nOne-of-a-Kind Opportu
- nity\n\nThe conference represents a unique and rare opportunity to:\n\n- H
- ear directly from Lisa R. Sanders\, Director of Science and Technology for
-  the U.S. Special Operations Command (SOCOM). She will be speaking about S
- OCOM’s contracting priorities\, problems to solve\, and doing business w
- ith SOCOM.\n- Learn from major defense contractors who will be speaking on
-  their subcontracting needs and their procedures for selecting subcontract
- ors.\n- Meet scores of small businesses who are looking for opportunities 
- to form teaming partnerships to apply their innovative technologies\, serv
- ices\, and products.\n- Participate in break-out workshops on topics like 
- compliance with DoD’s cybersecurity requirements.\n\nDon’t miss this r
- are opportunity to meet and hear from leaders in the Defense industry!\n\n
- Links:\n[0]  http://hg.gatech.edu/node/615986#0\n[1]  https://www.eventbri
- te.com/e/creating-the-next-defense-innovation-conference-tickets-530567702
- 28\n[2]  https://www.gatechhotel.com
-LOCATION:Georgia Tech Hotel & Conference Center\, 800 Spring Street Northw
- est Atlanta\, GA 30308
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NCR Day on Campus
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190114T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190115T000000Z
-UID:http://hg.gatech.edu/node/615296#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nDay in the Lobby\nBrin
- g your resume and come chat with recruiters from NCR in the College of Com
- puting Commons anytime between 11am and 4pm.\n\nCan't make it in the morni
- ng or really want to be considered for their team?\n\nTech Talk\nJoin them
-  at their Global Headquarters right here in Atlanta\, Georgia - a 5 minute
-  walk from Tech Square!\n\nRSVP: Click HERE [1]\n\nTech-savvy-innovators. 
- Challenge-seekers. Boundary-pushers. Agile-design thinkers. Our software e
- ngineering iNCRedibles embody each of these traits and see the world diffe
- rently than most.\n\nWhether working as a user interface/experience design
- er\, Scrum Master\, technical product owner\, cloud software engineer\, De
- vOps engineer\, QA engineer or a variety of other positions\, innovation i
- s at the heart of everything this team does.\n\nJoin the Mobile Developmen
- t\, DevOps\, and Cloud teams\, along with Product Owners\, to learn more a
- bout the different opportunities that NCR has to offer in Software Develop
- ment.\n\nWHERE: NCR Global Headquarters Tech Talk Space\n864 Spring Street
-  NW Atlanta\, GA 30308\n\nWHEN: Monday\, January 14th at 6:00p.m.-7:00p.m.
- \nCheck-in begins at 5:30 p.m. in the Visitor Lobby of Spring/8th street.\
- n\nFree food will be provided if you come early!\n\nLinks:\n[0]  http://hg
- .gatech.edu/node/615296#0\n[1]  https://forms.office.com/Pages/ResponsePag
- e.aspx?id=9_FNrh5hT0SJfvlk4SBRcSCAaiVsj7RKq3c_7gb0TbtUNURNVTQwSjQ3TlZRTUxW
- NVpXOUZJWDE2SC4u\n[2]  https://ncr.wd1.myworkdayjobs.com/ext_us
-LOCATION:11-4pm CCB commons & 6:00 pm – 7:00 pm NCR Global Headquarters 
- (Check-In 5:30 pm – 6:00pm)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clone of WST Learning Community Open House 1/14/19 & 1/22/19
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190114T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190114T230000Z
-UID:http://hg.gatech.edu/node/614436#0
-DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\n
- Status: published\n\nOpen House with tours of the buildings. Information a
- nd application for 2019-2020 events and programs:https://wst.gatech.edu/ws
- t-learning-community.\n\nThe WST Learning Community offers programs addres
- sing academic and professional issues for women students. Typically\, it i
- ncludes 48 students living in Stein and Goldin Houses (4th St. Apartments 
- A and B)\, who connect with one another and faculty through monthly dinner
- s\, bi-weekly lunches\, campus receptions\, and research panels. All Georg
- ia Tech students and WST mentors are welcome to attend WST Learning Commun
- ity events. WST Learning Community residents may also be paired with a fac
- ulty/staff mentor (optional). WST also sponsors undergraduate research par
- tnerships and conference subsidies for WST Learning Community students.\n\
- nLinks:\n[0]  http://hg.gatech.edu/node/614436#0
-LOCATION:Stein House/4th St. A Apts.\, Georgia Tech\, Techwood\, Atlanta\,
-  GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Women\, Science\, and Technology Learning Community Open House 1/1
- 4/19 & 1/22/19
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190114T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190114T230000Z
-UID:http://hg.gatech.edu/node/614429#0
-DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\n
- Status: published\n\nOpen House with tours of the buildings. Information a
- nd application for 2019-2020 events and programs: [1].\n\nThe Women\, Scie
- nce\, and Technology Learning Community offers programs addressing academi
- c and professional issues for women students. Typically\, it includes 48 s
- tudents living in Stein and Goldin Houses (4th St. Apartments A and B)\, w
- ho connect with one another and faculty through monthly dinners\, bi-weekl
- y lunches\, campus receptions\, and research panels. All Georgia Tech stud
- ents and WST mentors are welcome to attend WST Learning Community events. 
- WST Learning Community residents may also be paired with a faculty/staff m
- entor (optional). WST also sponsors undergraduate research partnerships an
- d conference subsidies for WST Learning Community students.\n\nLinks:\n[0]
-   http://hg.gatech.edu/node/614429#0\n[1]  https://wst.gatech.edu/wst-lear
- ning-community
-LOCATION:Stein House/4th St. A Apts.\, Georgia Tech\, Techwood\, Atlanta\,
-  GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1-YEAR MASTERS DEGREE & SUMMER STUDY ABROAD INFORMATION SESSION & 
- PIZZA!
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190114T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190115T010000Z
-UID:http://hg.gatech.edu/node/616111#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: published\n\nLEARN ABOUT OUR CURRICULUM\,
-  RESEARCH\, STUDY ABROAD OPPORTUNITIES AND ON-CAMPUS RESOURCES.\n\nEXPLORE
-  HOW GRADUATE EDUCATION COULD HELP YOU LAUNCH YOUR DREAM CAREER.\n\nThe ev
- ent will be held on Agnes Scott's Campus at Lower Evans AB on January 14th
- .\n\nTime: 6:30-8 p.m.\n\nAll participants receive free pizza!\n\nRSVP tod
- ay! [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/616111#0\n[1]  https://w
- ww.eventbrite.com/e/1-year-masters-degree-summer-study-abroad-information-
- session-tickets-54590104472?ref=estwenivtefor001&fbclid=IwAR0_L7P75VlhRsyB
- cd2FBkabB70AyiFS-nx13ZVkfx2MyPOhKS81tY-qk68
-LOCATION:Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LymphaTech Launch Talk - "The Ph.D.-to-Startup Voyage"
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190115T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190115T170000Z
-UID:http://hg.gatech.edu/node/616054#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nMike Weiler\, Ph.
- D.\nNate Frank\, M.B.A.\nCo-Founders\nLymphaTech\, Inc.\n\nWhile a Ph.D. c
- andidate at Georgia Tech in the lab of Brandon Dixon (ME)\, Mike Weiler me
- t Nate Frank\, a Scheller M.B.A.\, who was part of his Tiger team. This pa
- rtnership would go on to launch LymphaTech\, a healthcare technology compa
- ny focused on innovative 3D measurement solutions to enable optimal clinic
- al care and well-being for patients and providers. Their digital measuring
-  platform is fueled by proprietary algorithms that measure human geometry 
- accurately and consistently in a quick and easy to use mobile platform. Ly
- mphaTech provides value throughout the healthcare continuum by serving doc
- tors\, physical therapists\, medical compression garment manufacturers\, a
- nd patients.\n\nCome hear Weiler and Frank talk about what they would tell
-  "Grad School Mike and Nate" what they wished they'd known when they were 
- here\, in the lab\, and describe the startup ride\, resources at Georgia T
- ech and beyond that helped them succeed.\n\nLunch provided.\n\nLinks:\n[0]
-   http://hg.gatech.edu/node/616054#0\n[1]  https://lymphatechnology.com/
-LOCATION:Parker H. Petit Institute for Bioengineering & Bioscience\, Sudda
- th Seminar Room 1128
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Capital One Day on Campus
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190115T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190116T010000Z
@@ -230,43 +76,6 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
   to determine how we lend to our customers.\n\nLinks:\n[0]  http://hg.gate
  ch.edu/node/615297#0\n[1]  https://www.capitalonecareers.com/
 LOCATION:11-4pm CCB commons & 6:30pm – 8pm Klaus 1116 E&W
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Martin Bechthold | School of Building Construction Lunch Lecture
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190115T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190115T180000Z
-UID:http://hg.gatech.edu/node/615721#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: archived\n\
- nLecture Topic | Multi-Scalar Design: Material Matters\n\nAdvances in mate
- rial science\, computation\, and robotics are empowering the role material
- s can take in shaping buildings towards novel aesthetics and performative 
- outcomes. Work at Harvard’s MaP+S group is investigating interventions f
- rom the nano-scale to the component scale\, with materials that include ce
- ramics as well as polymers and concrete.\n\nAbout Martin Bechthold\n\nTrai
- ned as an architect\, Martin Bechthold is the Kumagai Professor of Archite
- ctural Technology at the Harvard Graduate School of Design\, and Associate
-  Faculty at the Wyss Institute for Biologically Inspired Engineering. He d
- irects the Doctor of Design Program and co-directs the Master in Design En
- gineering (MDE) program. Bechthold is the founding director of the Materia
- ls Processes and Systems (MaP+S) Group\, a collaborative team that pursues
-  work to expand the role of materiality in the built environment\, leverag
- ing computational methods and robotics. Recent focus areas have been 3D pr
- inting and ceramics. Bechthold collaborates with Allen Sayegh and Joanna A
- izenberg in the context of the Adaptive Living Environments (ALivE) group 
- where material scientists and designers work together to develop novel ada
- ptive materials for applications in products and buildings.\n\nMartin Bech
- thold\nKumagai Professor of Architectural Technology\nWyss Institute Assoc
- iate Faculty\nDirector\, Material Processes and Systems Group\nDirector\, 
- Doctor of Design Program\nCo-Director\, Master in Design Engineering Progr
- am\nHarvard Graduate School of Design\n\nEvent Location\nSchool of Buildin
- g Construction\nCaddell Building\nCollege of Design | Georgia Institute of
-  Technology\n280 Ferst Drive\, Atlanta\, GA 30332-0680\nLocation Info: htt
- ps://bc.gatech.edu/visit-us [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/
- 615721#0\n[1]  https://bc.gatech.edu/visit-us?fbclid=IwAR3EobxKyyrKA9-PVeY
- akiRJiXT2dK9A8i3wfm6aUaDeHecVSoO8v2NnqHY
-LOCATION:Flex Space\, Caddell Building\, 280 Ferst Drive\, Atlanta\, GA 30
- 332-0680
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meet GT TIP: Technical Interview Prep
@@ -31181,6 +30990,117 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Klaus 1456
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Alpha Sigma Phi Spring Rush 2020
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200115T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200115T030000Z
+UID:https://gatech.campuslabs.com/engage/event/5447303
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAlpha Sigma Phi Formal 
+ Spring Rush Day 1\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/eve
+ nt/5447303
+LOCATION:Alpha Sigma Phi
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beta Theta Pi Spring Rush 2020
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200115T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200115T030000Z
+UID:https://gatech.campuslabs.com/engage/event/5447301
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFormal Rush for the Gam
+ ma Eta Chapter of Beta Theta Pi.\n\nLinks:\n[0]  https://gatech.campuslabs
+ .com/engage/event/5447301
+LOCATION:Beta Theta Pi
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Delta Tau Delta Spring Rush 2020
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200115T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200115T030000Z
+UID:https://gatech.campuslabs.com/engage/event/5446187
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome meet the Brothers 
+ of Delta Tau Delta Gamma Psi this week!\n\nLinks:\n[0]  https://gatech.cam
+ puslabs.com/engage/event/5446187
+LOCATION:Delt House
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kappa Alpha Order Spring 2020 Formal Rush
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200115T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200115T030000Z
+UID:https://gatech.campuslabs.com/engage/event/5446180
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nKappa Alpha Order Sprin
+ g 2020 Formal Rush\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/ev
+ ent/5446180
+LOCATION:Kappa Alpha Order
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kappa Sigma Rush
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200115T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200115T030000Z
+UID:https://gatech.campuslabs.com/engage/event/5448262
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nFormal Rus
+ h period for the Kappa Sigma Fraternity during Spring 2020.\n\nLinks:\n[0]
+   https://gatech.campuslabs.com/engage/event/5448262
+LOCATION:Kappa Sigma House
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Psi Upsilon Rush
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200115T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200115T030000Z
+UID:https://gatech.campuslabs.com/engage/event/5448073
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nRush for Psi Upsilon Ga
+ mma Tau chapter.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/even
+ t/5448073
+LOCATION:Psi Upsilon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rush
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200115T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200115T030000Z
+UID:https://gatech.campuslabs.com/engage/event/5448627
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFormal Rush.\n\nLinks:\
+ n[0]  https://gatech.campuslabs.com/engage/event/5448627
+LOCATION:Phi Kappa Tau
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring Rush 2020
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200115T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200115T030000Z
+UID:https://gatech.campuslabs.com/engage/event/5446192
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome meet the brothers 
+ of Delta Tau Delta Gamma Psi this week!\n\nLinks:\n[0]  https://gatech.cam
+ puslabs.com/engage/event/5446192
+LOCATION:Delt House
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theta Xi Rush
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200115T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200115T030000Z
+UID:https://gatech.campuslabs.com/engage/event/5443416
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAs the only Christian f
+ raternity chapter on Georgia Tech's campus\, Theta Xi presents a unique op
+ portunity for its members to engage in campus social activities\, leadersh
+ ip\, and service\, while at the same time serving as a place where faith a
+ nd community form the core tenants of our Brotherhood. Through social even
+ ts such as formals\, band parties\, date nights\, mixers\, and retreats\, 
+ Theta Xi develops strong bonds within its members. The brothers are highly
+  involved in campus organizations including SGA\, New Student & Transition
+  Programs\, and campus ministries. Even if you don’t think a fraternity 
+ is for you\, come experience the fellowship offered by the authentic Chris
+ tian community of Theta Xi.\n\nWe will be serving great food each night in
+ cluding BBQ\, Chicken Parmesan\, Burgers\, and more so make sure to stop b
+ y and get a chance to experience genuine community!\n\nhttps://www.faceboo
+ k.com/gtthetaxi/\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/even
+ t/5443416
+LOCATION:Theta Xi Fraternity - Beta Alpha Chapter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Velocity Worship Service
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200115T003000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200115T020000Z
+UID:https://gatech.campuslabs.com/engage/event/5441734
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
+ worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
+ h.campuslabs.com/engage/event/5441734
+LOCATION:Baptist Student Union
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SCL IRC Seminar: Jan 2020
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200115T170000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200115T183000Z
@@ -31319,6 +31239,78 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:OCE Computer Lab
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Alpha Sigma Phi Spring Rush 2020
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200116T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200116T030000Z
+UID:https://gatech.campuslabs.com/engage/event/5448918
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAlpha Sigma Phi Formal 
+ Spring Rush Day 2- Chick-fil-A\n\nLinks:\n[0]  https://gatech.campuslabs.c
+ om/engage/event/5448918
+LOCATION:Alpha Sigma Phi
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Delta Tau Delta Spring Rush 2020
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200116T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200116T030000Z
+UID:https://gatech.campuslabs.com/engage/event/5446188
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome meet the Brothers 
+ of Delta Tau Delta Gamma Psi this week!\n\nLinks:\n[0]  https://gatech.cam
+ puslabs.com/engage/event/5446188
+LOCATION:Delt House
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kappa Sigma Rush
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200116T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200116T030000Z
+UID:https://gatech.campuslabs.com/engage/event/5448263
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nFormal Rus
+ h period for the Kappa Sigma Fraternity during Spring 2020.\n\nLinks:\n[0]
+   https://gatech.campuslabs.com/engage/event/5448263
+LOCATION:Kappa Sigma House
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Psi Upsilon Rush
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200116T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200116T030000Z
+UID:https://gatech.campuslabs.com/engage/event/5448074
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nRush for Psi Upsilon Ga
+ mma Tau chapter.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/even
+ t/5448074
+LOCATION:Psi Upsilon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring Rush 2020
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200116T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200116T030000Z
+UID:https://gatech.campuslabs.com/engage/event/5446193
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome meet the brothers 
+ of Delta Tau Delta Gamma Psi this week!\n\nLinks:\n[0]  https://gatech.cam
+ puslabs.com/engage/event/5446193
+LOCATION:Delt House
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theta Xi Rush
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200116T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200116T030000Z
+UID:https://gatech.campuslabs.com/engage/event/5443417
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAs the only Christian f
+ raternity chapter on Georgia Tech's campus\, Theta Xi presents a unique op
+ portunity for its members to engage in campus social activities\, leadersh
+ ip\, and service\, while at the same time serving as a place where faith a
+ nd community form the core tenants of our Brotherhood. Through social even
+ ts such as formals\, band parties\, date nights\, mixers\, and retreats\, 
+ Theta Xi develops strong bonds within its members. The brothers are highly
+  involved in campus organizations including SGA\, New Student & Transition
+  Programs\, and campus ministries. Even if you don’t think a fraternity 
+ is for you\, come experience the fellowship offered by the authentic Chris
+ tian community of Theta Xi.\n\nWe will be serving great food each night in
+ cluding BBQ\, Chicken Parmesan\, Burgers\, and more so make sure to stop b
+ y and get a chance to experience genuine community!\n\nhttps://www.faceboo
+ k.com/gtthetaxi/\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/even
+ t/5443417
+LOCATION:Theta Xi Fraternity - Beta Alpha Chapter
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cisco Info Session
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200116T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200116T164500Z
@@ -31424,6 +31416,21 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCelebrating its 9th ann
 LOCATION:Student Center Ballroom
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Veggie Jackets Meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200117T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200117T010000Z
+UID:http://hg.gatech.edu/node/631043#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nThe first club meeting of the sem
+ ester will be held in Mason 1133 from 7:00 - 8:00pm\, and will serve as an
+  opportunity to meet other veg folks on campus while enjoying scrumptious 
+ cinnamon rolls from Cinnaholic Edgewood! We will eventually venture outsid
+ e to make some veggie inspired chalk art on campus (weather permitting). W
+ e hope to see you there! RSVP here: [1]\n\nLinks:\n[0]  http://hg.gatech.e
+ du/node/631043#0\n[1]  https://www.facebook.com/events/998770220496411/
+LOCATION:Room 1133\, Mason Building
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MLK Campuswide Student Celebration
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200117T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200117T020000Z
@@ -31445,6 +31452,68 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  ganizations. Reception to follow.\n\nLinks:\n[0]  http://hg.gatech.edu/nod
  e/629421#0
 LOCATION:Georgia Tech Student Center\, Ballroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Delta Tau Delta Spring Rush 2020
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200117T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200117T030000Z
+UID:https://gatech.campuslabs.com/engage/event/5446189
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome meet the Brothers 
+ of Delta Tau Delta Gamma Psi this week!\n\nLinks:\n[0]  https://gatech.cam
+ puslabs.com/engage/event/5446189
+LOCATION:Delt House
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kappa Sigma Rush
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200117T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200117T030000Z
+UID:https://gatech.campuslabs.com/engage/event/5448264
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nFormal Rus
+ h period for the Kappa Sigma Fraternity during Spring 2020.\n\nLinks:\n[0]
+   https://gatech.campuslabs.com/engage/event/5448264
+LOCATION:Kappa Sigma House
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Psi Upsilon Rush
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200117T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200117T030000Z
+UID:https://gatech.campuslabs.com/engage/event/5448075
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nRush for Psi Upsilon Ga
+ mma Tau chapter.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/even
+ t/5448075
+LOCATION:Psi Upsilon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring Rush 2020
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200117T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200117T030000Z
+UID:https://gatech.campuslabs.com/engage/event/5446194
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome meet the brothers 
+ of Delta Tau Delta Gamma Psi this week!\n\nLinks:\n[0]  https://gatech.cam
+ puslabs.com/engage/event/5446194
+LOCATION:Delt House
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theta Xi Rush
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200117T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200117T030000Z
+UID:https://gatech.campuslabs.com/engage/event/5443418
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAs the only Christian f
+ raternity chapter on Georgia Tech's campus\, Theta Xi presents a unique op
+ portunity for its members to engage in campus social activities\, leadersh
+ ip\, and service\, while at the same time serving as a place where faith a
+ nd community form the core tenants of our Brotherhood. Through social even
+ ts such as formals\, band parties\, date nights\, mixers\, and retreats\, 
+ Theta Xi develops strong bonds within its members. The brothers are highly
+  involved in campus organizations including SGA\, New Student & Transition
+  Programs\, and campus ministries. Even if you don’t think a fraternity 
+ is for you\, come experience the fellowship offered by the authentic Chris
+ tian community of Theta Xi.\n\nWe will be serving great food each night in
+ cluding BBQ\, Chicken Parmesan\, Burgers\, and more so make sure to stop b
+ y and get a chance to experience genuine community!\n\nhttps://www.faceboo
+ k.com/gtthetaxi/\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/even
+ t/5443418
+LOCATION:Theta Xi Fraternity - Beta Alpha Chapter
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Focus/Graduate Studies Open House
@@ -31514,6 +31583,68 @@ DESCRIPTION:Intended audience: Graduate students\, Postdoc\nExtras: Free f
 LOCATION:Piedmont Room\, Student Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Delta Tau Delta Spring Rush 2020
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200118T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200118T030000Z
+UID:https://gatech.campuslabs.com/engage/event/5446190
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome meet the Brothers 
+ of Delta Tau Delta Gamma Psi this week!\n\nLinks:\n[0]  https://gatech.cam
+ puslabs.com/engage/event/5446190
+LOCATION:Delt House
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kappa Sigma Rush
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200118T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200118T030000Z
+UID:https://gatech.campuslabs.com/engage/event/5448265
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nFormal Rus
+ h period for the Kappa Sigma Fraternity during Spring 2020.\n\nLinks:\n[0]
+   https://gatech.campuslabs.com/engage/event/5448265
+LOCATION:Kappa Sigma House
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Psi Upsilon Rush
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200118T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200118T030000Z
+UID:https://gatech.campuslabs.com/engage/event/5448076
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nRush for Psi Upsilon Ga
+ mma Tau chapter.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/even
+ t/5448076
+LOCATION:Psi Upsilon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring Rush 2020
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200118T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200118T030000Z
+UID:https://gatech.campuslabs.com/engage/event/5446195
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome meet the brothers 
+ of Delta Tau Delta Gamma Psi this week!\n\nLinks:\n[0]  https://gatech.cam
+ puslabs.com/engage/event/5446195
+LOCATION:Delt House
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theta Xi Rush
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200118T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200118T030000Z
+UID:https://gatech.campuslabs.com/engage/event/5443419
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAs the only Christian f
+ raternity chapter on Georgia Tech's campus\, Theta Xi presents a unique op
+ portunity for its members to engage in campus social activities\, leadersh
+ ip\, and service\, while at the same time serving as a place where faith a
+ nd community form the core tenants of our Brotherhood. Through social even
+ ts such as formals\, band parties\, date nights\, mixers\, and retreats\, 
+ Theta Xi develops strong bonds within its members. The brothers are highly
+  involved in campus organizations including SGA\, New Student & Transition
+  Programs\, and campus ministries. Even if you don’t think a fraternity 
+ is for you\, come experience the fellowship offered by the authentic Chris
+ tian community of Theta Xi.\n\nWe will be serving great food each night in
+ cluding BBQ\, Chicken Parmesan\, Burgers\, and more so make sure to stop b
+ y and get a chance to experience genuine community!\n\nhttps://www.faceboo
+ k.com/gtthetaxi/\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/even
+ t/5443419
+LOCATION:Theta Xi Fraternity - Beta Alpha Chapter
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Food Distribution Volunteering
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200118T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200118T190000Z
@@ -31558,6 +31689,16 @@ DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\n
  to see you there!\n\nLinks:\n[0]  http://hg.gatech.edu/node/628785#0\n[1] 
   https://oie.gatech.edu/
 LOCATION:Student Center Piedmont Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rush 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200121T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200121T170000Z
+UID:https://gatech.campuslabs.com/engage/event/5451700
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nTuesday 11-12 Pizza\n\n
+ Wednesday 5-7 Resume Workshop\n\nThursday 11-12 Trivia\n\nThursday 5-6 Coo
+ kie Bar\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5451700
+LOCATION:MoSE Atrium 4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Role of the Private Sector in Development
@@ -31666,6 +31807,26 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Velocity Worship Service
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200122T003000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200122T013000Z
+UID:https://gatech.campuslabs.com/engage/event/5441750
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
+ worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
+ h.campuslabs.com/engage/event/5441750
+LOCATION:Baptist Student Union
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Velocity Worship Service
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200122T003000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200122T020000Z
+UID:https://gatech.campuslabs.com/engage/event/5441735
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
+ worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
+ h.campuslabs.com/engage/event/5441735
+LOCATION:Baptist Student Union
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Integrate the U.N. SDGs into Teaching and Research
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200122T170000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200122T180000Z
@@ -31720,6 +31881,16 @@ DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nInstitu
 LOCATION:Student Center\, Piedmont Room
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rush 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200122T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200123T000000Z
+UID:https://gatech.campuslabs.com/engage/event/5451701
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nTuesday 11-12 Pizza\n\n
+ Wednesday 5-7 Resume Workshop\n\nThursday 11-12 Trivia\n\nThursday 5-6 Coo
+ kie Bar\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5451701
+LOCATION:Ford L1175
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Omega Phi Alpha Spring 2020 Recruitment
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200122T233000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200123T013000Z
@@ -31735,6 +31906,132 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  //hg.gatech.edu/node/630682#0\n[1]  https://gatech.campuslabs.com/engage/e
  vent/5322889\n[2]  https://www.facebook.com/ophiagt/
 LOCATION:Room 111\, Instructional Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rush 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200123T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200123T170000Z
+UID:https://gatech.campuslabs.com/engage/event/5451702
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nTuesday 11-12 Pizza\n\n
+ Wednesday 5-7 Resume Workshop\n\nThursday 11-12 Trivia\n\nThursday 5-6 Coo
+ kie Bar\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5451702
+LOCATION:MoSE Atrium 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GVU Center Brown Bag: Foley Scholars
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200123T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200123T180000Z
+UID:http://hg.gatech.edu/node/631091#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nExtras: Free food\nStatus: review\n\nAbstracts:\
+ n\nMatthew Hong: Personalizing Health Management Through Human-Centered Da
+ ta Augmentation\n\nDuring complex chronic treatment\, adolescent patients 
+ (ages 10-19) must communicate all illness needs to the care team so they c
+ an access relevant health resources when most needed. This communication i
+ s challenging because patients\, family caregivers and clinicians have unm
+ atched experiences\, conceptions and linguistic representations of indicat
+ ors of health. Most importantly\, patients lack the means to capture and r
+ epresent their felt illness experience. My colleagues and I addressed thes
+ e challenges by advancing personalized computing technology and human-cent
+ ric methods that inform collaborative approaches for managing personal hea
+ lth data. In this talk\, I will describe how technology can be designed to
+  effectively scaffold patients’ gradual participation in managing their 
+ illness. I draw from Health Informatics\, Participatory Design\, and Human
+ -Computer Interaction to show how we can augment clinically-generated\, an
+ d patient-generated data in ways that cater to personal health needs. I wi
+ ll discuss how human-centered data-augmentation can help designers create 
+ intelligent systems to improve chronic care for pediatric patients.\n\nLar
+ a Martin: Understanding the Technological and Experiential Requirements of
+  Improvisational Storytelling Agents\n\nAlthough we are currently riding a
+  technological wave of personal assistants\, many of these agents still st
+ ruggle to communicate appropriately. Humans are natural storytellers\, so 
+ it would be fitting if artificial intelligence could tell stories as well.
+  Automated story generation is an area of AI research that aims to create 
+ agents that tell “good” stories. Previous story generation systems use
+  planning to create new stories\, but these systems require a vast amount 
+ of knowledge engineering. The stories created by these systems are coheren
+ t\, but only a finite set of stories can be generated. In contrast\, very 
+ large language models have recently made the headlines in the natural lang
+ uage processing community. Though impressive on the surface\, these models
+  begin to lose coherence over time. My research looks at various technique
+ s of automated story generation\, focusing on the perceived creativity of 
+ the generated stories. Here\, I define a creative product as one that is b
+ oth novel and useful. In my dissertation\, I theorize that a jointly proba
+ bilistic and causal model will provide more creative stories for readers o
+ f stories generated from an improvisational storytelling system than solel
+ y probabilistic or causal models.\n\nEmily Wall: Mitigating Implicit Human
+  Bias in Visual Analytics\n\nImplicit bias is a term used to describe the 
+ way that our culture\, experiences\, and stereotypes can unconsciously imp
+ act our attitudes and decision making. Such biases\, like racial or gender
+  bias\, can impact decision making in critical ways\, propagating long-sta
+ nding institutional and systemic biases. However\, as decision making is i
+ ncreasingly taking place with the aid of data-driven visual representation
+ s (including interactive visualization tools like Tableau\, among others)\
+ , we are afforded a new opportunity with respect to the detection and miti
+ gation of implicit biases. In this talk\, I describe (1) how user interact
+ ions with data can be used to approximate implicit biases and (2) how visu
+ alization systems can be designed to make implicit biases more explicit by
+  increasing awareness. By creating systems that promote real-time awarenes
+ s of bias\, people can reflect on their behavior and decision making and u
+ ltimately engage in a less-biased decision making process.\n\nSpeaker Bios
+ :\n\nMatthew Hong is a PhD candidate in Human-Centered Computing in Intera
+ ctive Computing. His research lies at the intersection of Human-Computer I
+ nteraction and Health Informatics\, and focuses on supporting pediatric pa
+ tients’ management of complex chronic conditions through the design and 
+ deployment of human-centered health technologies. He has published in lead
+ ing conference proceedings and journals\, including the ACM Conference on 
+ Human Factors in Computing Systems (ACM SIGCHI) and the Journal of America
+ n Medical Informatics Association (JAMIA).\n\nLara Martin is a Human-Cente
+ red Computing PhD Candidate in the College of Computing at Georgia Tech. H
+ er work resides in the field of Human-Centered Artificial Intelligence wit
+ h a focus on natural language applications. Lara is currently working on a
+ utomated story generation\, but her previous work includes speech processi
+ ng and analyzing online communities. Lara earned a Masters of Language Tec
+ hnologies from Carnegie Mellon University and a BS in Computer Science & L
+ inguistics from Rutgers University—New Brunswick. In addition to winning
+  the Foley Scholar Award\, she recently received the Best Doctoral Consort
+ ium Presentation award at the 2019 ACM Richard Tapia Celebration of Divers
+ ity in Computing Conference.\n\nEmily Wall is a 2019 Foley Scholar and Com
+ puter Science PhD candidate in the School of Interactive Computing\, where
+  she is advised by Dr. Alex Endert. Her research interests lie at the inte
+ rsection of cognitive science and data visualization. Particularly\, her d
+ issertation has focused on increasing awareness of unconscious and implici
+ t human biases via the design and evaluation of (1) computational approach
+ es to quantify bias from user interaction and (2) interfaces to support vi
+ sual data analysis. Her research has been supported by the Siemens FutureM
+ aker Fellowship and the National Physical Science Consortium Fellowship\, 
+ among others.\n\nSchedule of Brown Bag Speakers Fall 2019 [1]\n\nLinks:\n[
+ 0]  http://hg.gatech.edu/node/631091#0\n[1]  https://www.gvu.gatech.edu/ev
+ ents/upcoming\n[2]  http://www.tsrb.gatech.edu/
+LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
+ a\, Ga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Identity and Personal Brand in the Work Place
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200123T173000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200123T190000Z
+UID:http://hg.gatech.edu/node/631093#0
+DESCRIPTION:Intended audience: Graduate students\nStatus: published\n\nThe
+  College of Sciences Graduate Student Diversity Council (GSDC) contributes
+  to creating a more inclusive graduate student community at Georgia Tech. 
+ In collaboration with C2D2\, we are hosting a workshop to provide graduate
+  students from underrepresented and diverse backgrounds with tools for pro
+ fessional and career development. This workshop aims to help students impr
+ ove their cross-cultural communication skills\, develop work identity\, an
+ d communicate their brand in a workplace. Food and refreshments will be pr
+ ovided – seating is limited. Please RSVP at [1]\n\nLinks:\n[0]  http://h
+ g.gatech.edu/node/631093#0\n[1]  https://tinyurl.com/uk4k69l
+LOCATION:Room 1116\, Marcus Nanotechnology Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rush 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200123T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200123T230000Z
+UID:https://gatech.campuslabs.com/engage/event/5451703
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nTuesday 11-12 Pizza\n\n
+ Wednesday 5-7 Resume Workshop\n\nThursday 11-12 Trivia\n\nThursday 5-6 Coo
+ kie Bar\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5451703
+LOCATION:MoSE Atrium 4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Careers with HNI Corporation
@@ -31810,6 +32107,18 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  od4lives.org/donate.html\n[3]  https://www.facebook.com/events/11779058659
  30288/
 LOCATION:Food4Lives\, 1122 Old Chattahoochee Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HCOST
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200125T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200125T193000Z
+UID:http://hg.gatech.edu/node/631129#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nWelcome to Hogwarts\, Hall Council Officers! Th
+ e retreat will be from 10AM to 2PM around the Student Center. There will b
+ e food provided and lots of fun training sessions!\n\nLinks:\n[0]  http://
+ hg.gatech.edu/node/631129#0
+LOCATION:Flag\, 117
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GTMI Lunch and Learn Series - Smart and Connected Soft Bioelectron
@@ -31921,6 +32230,68 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  sident@gmail.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/624549#13\n
  [1]  swepresident@gmail.com\n[2]  https://www.facebook.com/GeorgiaTechSWE/
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Velocity Worship Service
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200129T003000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200129T013000Z
+UID:https://gatech.campuslabs.com/engage/event/5441751
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
+ worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
+ h.campuslabs.com/engage/event/5441751
+LOCATION:Baptist Student Union
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Velocity Worship Service
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200129T003000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200129T020000Z
+UID:https://gatech.campuslabs.com/engage/event/5441736
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
+ worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
+ h.campuslabs.com/engage/event/5441736
+LOCATION:Baptist Student Union
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pediatric Tech Talk Webinar
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200129T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200129T173000Z
+UID:http://hg.gatech.edu/node/631201#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nExtras: Free food\nStatus: published\n\nScience
+  has made significant gains in the fight against infectious diseases in th
+ e past several decades\, perhaps the most notable of which is declining mo
+ rtality rates from HIV and hepatitis C. Nevertheless\, overall mortality r
+ ates from all infectious diseases has remained relatively stable.\n\nThere
+  are very real concerns about new drug development’s ability to keep up 
+ with development of drug resistance and the speed at which infectious dise
+ ases can cross the globe.\n\nIn early 2019\, Lien Van Hoecke and Kenny Roo
+ se wrote in the Journal of Translational Medicine\, “Wider accessibility
+  and implementation of antibody-based therapeutics is however hindered by 
+ manufacturing challenges and high development costs inherent to protein-ba
+ sed drugs. For these reasons\, alternative ways are being pursued to produ
+ ce and deliver antibodies more cost-effectively without hampering safety. 
+ Over the past decade\, messenger RNA (mRNA) based drugs have emerged as a 
+ highly appealing new class of biologics that can be used to encode any pro
+ tein of interest directly in vivo.”\n\nDr. Philip J. Santangelo is a Pro
+ fessor in the Wallace H. Coulter Department of Biomedical Engineering. In 
+ 1998\, he obtained his Ph.D. in Engineering from the University of Califor
+ nia at Davis\, and then was a postdoctoral fellowship at Sandia National L
+ aboratories in Livermore\, California. He also spent time as a research fa
+ culty member at Georgia Tech until becoming an Assistant Professor in 2007
+ . Dr. Santangelo’s research focuses on the development of imaging tools 
+ for the study of viral pathogenesis and immune responses\, and the develop
+ ment of mRNA-based therapies and vaccines.\n\nOn Wednesday January 29th\, 
+ 2020\, Dr. Santangelo will discuss his research into mRNA-based therapeuti
+ cs\, what they are and how we are using them for prevention and treatment.
+ \n\nIf you are interested in new approaches to preventing and treating vir
+ al infection\, including synthetic mRNA and gene modulation technology wil
+ l find Dr. Santangelo’s Pediatric Tech Talk of high value.\n\nLunch will
+  be provided free of charge for those who attend in person.\n\nRegister to
+  attend in person or via GoToWebinar.\n\n(Registration: [1] )\n\nLinks:\n[
+ 0]  http://hg.gatech.edu/node/631201#0\n[1]  https://register.gotowebinar.
+ com/register/1011124490961073419
+LOCATION:Children's Healthcare of Atlanta Seminar Room\, Krone Engineered 
+ Biosystems Building
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pediatrics@GT Presents: Pediatric Tech Talk Webinar
@@ -32180,6 +32551,26 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Velocity Worship Service
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200205T003000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200205T013000Z
+UID:https://gatech.campuslabs.com/engage/event/5441752
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
+ worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
+ h.campuslabs.com/engage/event/5441752
+LOCATION:Baptist Student Union
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Velocity Worship Service
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200205T003000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200205T020000Z
+UID:https://gatech.campuslabs.com/engage/event/5441737
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
+ worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
+ h.campuslabs.com/engage/event/5441737
+LOCATION:Baptist Student Union
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Implicit Bias Workshop
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200205T170000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200205T183000Z
@@ -32217,6 +32608,16 @@ DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nInstitu
 LOCATION:Student Success Center- President’s Suites C and D
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kenneth Hyatt Distinguished Alumni Leadership Speaker Series
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200206T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200206T170000Z
+UID:http://hg.gatech.edu/node/631131#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nExtras: Free food\nStatus: published\n\nLinks:\n
+ [0]  http://hg.gatech.edu/node/631131#0
+LOCATION:Mason 1133
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Greek Allies
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200206T223000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200207T020000Z
@@ -32228,6 +32629,62 @@ DESCRIPTION:Intended audience: Undergraduate students\nStatus: published\n
  embers of Greek organizations. Dinner is provided.\n\nRSVP Only\n\nLinks:\
  n[0]  http://hg.gatech.edu/node/630388#0
 LOCATION:Register to receive location
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PhD Proposal by Avani Gupta
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200207T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200207T170000Z
+UID:http://hg.gatech.edu/node/631175#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nStatus: published\n\nAvani Gupta\n(Advisor: Prof
+ . Lakshmi N. Sankar)\n\nwill propose a doctoral thesis entitled\,\n\nAppli
+ cation of an Extended Messinger Model to Ice Accretion on Complex Geometri
+ es\n\nOn\n\nFriday\, February 7 at 10:00 a.m.\nMontgomery Knight Building 
+ 317\n\nAbstract\nIce accretion can significantly degrade the performance a
+ nd the stability of an airborne vehicle. Therefore\, it is important to mo
+ del this phenomenon accurately. While researchers have conducted extensive
+  ice accretion studies in the past on airplane wings and helicopter blades
+ \, very few of these studies are for more complex geometries such as fusel
+ ages. This work proposes a methodology that extends an existing in-house E
+ xtended Messinger ice accretion solver to complex geometries on unstructur
+ ed grids\, with a marching process along surface streamlines to handle thr
+ ee-dimensional flow effects.\n\nThe work completed to date includes sensit
+ ivity studies for ice accretion and shedding on shortened Schweizer 269 ma
+ in rotor blades and two-dimensional steady and oscillating airfoil ice acc
+ retion cases\, on structured grids. Towards the goal of developing unstruc
+ tured grid based methodologies\, several different cases with varying leve
+ ls of complexity have been completed. These include a commercial transport
+  airfoil\, a three-dimensional MS(1)-317 swept wing at different angles of
+  attack\, and the Robin fuselage.\n\nUnstructured grid based analyses usin
+ g commercial solvers such as STAR-CCM+ and ANSYS Fluent have been used to 
+ date for the flow field and water droplet dispersed phase computations. Th
+ e ice accretion is carried out using an in-house analysis called GT-ICE. T
+ he predictions by GT-ICE have compared to available experimental data\, an
+ d to predictions by LEWICE\, an industry standard solver developed at the 
+ NASA Glenn Research Center.\n\nThe proposed work includes the development 
+ of an unstructured grid based Eulerian droplet trajectory and collection e
+ fficiency methodology using public domain modules within OpenFOAM\, couple
+ d to a surface streamline visualization and data extraction process using 
+ the public domain solver ParaView. GT-ICE will be employed for ice accreti
+ on computations. The new methodology is capable of handling 2D and 3D\, st
+ ructured and unstructured\, steady and unsteady flow analyses.\n\nCommitte
+ e\n\n- Prof. Lakshmi N. Sankar – School of Aerospace Engineering (adviso
+ r)\n- Prof. Jechiel Jagoda – School of Aerospace Engineering\n- Prof. St
+ ephen M. Ruffin – School of Aerospace Engineering\n- Richard E. Kreeger 
+ – NASA Glenn Research Center\n\nLinks:\n[0]  http://hg.gatech.edu/node/6
+ 31175#0
+LOCATION:Montgomery Knight Building 317
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BCM Pancake Night
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200208T030000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200208T070000Z
+UID:https://gatech.campuslabs.com/engage/event/5441685
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome by the BCM for FRE
+ E Pancakes! We'll be serving pancakes and water/lemonade outside our build
+ ing from 10 PM - 2 AM and all are welcome to stop by!\n\nLinks:\n[0]  http
+ s://gatech.campuslabs.com/engage/event/5441685
+LOCATION:Baptist Student Union
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Food Distribution Volunteering
@@ -32384,6 +32841,26 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Klaus 1116
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Velocity Worship Service
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200212T003000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200212T013000Z
+UID:https://gatech.campuslabs.com/engage/event/5441753
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
+ worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
+ h.campuslabs.com/engage/event/5441753
+LOCATION:Baptist Student Union
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Velocity Worship Service
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200212T003000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200212T020000Z
+UID:https://gatech.campuslabs.com/engage/event/5441738
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
+ worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
+ h.campuslabs.com/engage/event/5441738
+LOCATION:Baptist Student Union
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mindfulness Book (Session 1)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200212T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200212T170000Z
@@ -32519,6 +32996,26 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Velocity Worship Service
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200219T003000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200219T013000Z
+UID:https://gatech.campuslabs.com/engage/event/5441754
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
+ worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
+ h.campuslabs.com/engage/event/5441754
+LOCATION:Baptist Student Union
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Velocity Worship Service
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200219T003000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200219T020000Z
+UID:https://gatech.campuslabs.com/engage/event/5441739
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
+ worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
+ h.campuslabs.com/engage/event/5441739
+LOCATION:Baptist Student Union
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mindfulness Book (Session 1)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200219T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200219T170000Z
@@ -32641,6 +33138,26 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  sident@gmail.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/624549#17\n
  [1]  swepresident@gmail.com\n[2]  https://www.facebook.com/GeorgiaTechSWE/
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Velocity Worship Service
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200226T003000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200226T013000Z
+UID:https://gatech.campuslabs.com/engage/event/5441755
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
+ worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
+ h.campuslabs.com/engage/event/5441755
+LOCATION:Baptist Student Union
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Velocity Worship Service
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200226T003000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200226T020000Z
+UID:https://gatech.campuslabs.com/engage/event/5441740
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
+ worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
+ h.campuslabs.com/engage/event/5441740
+LOCATION:Baptist Student Union
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mindfulness Book (Session 1)
@@ -32823,6 +33340,26 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Velocity Worship Service
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200304T003000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200304T013000Z
+UID:https://gatech.campuslabs.com/engage/event/5441756
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
+ worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
+ h.campuslabs.com/engage/event/5441756
+LOCATION:Baptist Student Union
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Velocity Worship Service
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200304T003000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200304T020000Z
+UID:https://gatech.campuslabs.com/engage/event/5441741
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
+ worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
+ h.campuslabs.com/engage/event/5441741
+LOCATION:Baptist Student Union
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mindfulness Book (Session 1)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200304T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200304T170000Z
@@ -32838,6 +33375,17 @@ DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\nStatus: p
  m/SV_0pMQP7EqznzDSK1\n[2]  https://healthinitiatives.gatech.edu/well-being
  /mental/mindfulness
 LOCATION:Crescent Room\, Student Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BCM Pancake Night
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200307T030000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200307T190000Z
+UID:https://gatech.campuslabs.com/engage/event/5441686
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome by the BCM for FRE
+ E Pancakes! We'll be serving pancakes and water/lemonade outside our build
+ ing from 10 PM - 2 AM and all are welcome to stop by!\n\nLinks:\n[0]  http
+ s://gatech.campuslabs.com/engage/event/5441686
+LOCATION:Baptist Student Union
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Food Distribution Volunteering
@@ -32973,6 +33521,26 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
   here [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/630490#0\n[1]  https:/
  /gatech.co1.qualtrics.com/jfe/form/SV_0wfu0VVTHRaCgLP
 LOCATION:Klaus 1116
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Velocity Worship Service
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200310T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200311T003000Z
+UID:https://gatech.campuslabs.com/engage/event/5441757
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
+ worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
+ h.campuslabs.com/engage/event/5441757
+LOCATION:Baptist Student Union
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Velocity Worship Service
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200310T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200311T010000Z
+UID:https://gatech.campuslabs.com/engage/event/5441742
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
+ worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
+ h.campuslabs.com/engage/event/5441742
+LOCATION:Baptist Student Union
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SCL IRC Seminar: Unstructured Manufacturing
@@ -33153,6 +33721,26 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Velocity Worship Service
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200324T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200325T003000Z
+UID:https://gatech.campuslabs.com/engage/event/5441758
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
+ worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
+ h.campuslabs.com/engage/event/5441758
+LOCATION:Baptist Student Union
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Velocity Worship Service
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200324T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200325T010000Z
+UID:https://gatech.campuslabs.com/engage/event/5441743
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
+ worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
+ h.campuslabs.com/engage/event/5441743
+LOCATION:Baptist Student Union
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mindfulness Book (Session 2)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200325T190000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200325T200000Z
@@ -33217,6 +33805,26 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  sident@gmail.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/624549#21\n
  [1]  swepresident@gmail.com\n[2]  https://www.facebook.com/GeorgiaTechSWE/
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Velocity Worship Service
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200331T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200401T003000Z
+UID:https://gatech.campuslabs.com/engage/event/5441759
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
+ worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
+ h.campuslabs.com/engage/event/5441759
+LOCATION:Baptist Student Union
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Velocity Worship Service
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200331T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200401T010000Z
+UID:https://gatech.campuslabs.com/engage/event/5441744
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
+ worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
+ h.campuslabs.com/engage/event/5441744
+LOCATION:Baptist Student Union
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mindfulness Book (Session 2)
@@ -33306,6 +33914,17 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:DramaTech Theatre\, north side of the Ferst Center for the Arts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BCM Pancake Night
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200404T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200404T060000Z
+UID:https://gatech.campuslabs.com/engage/event/5441687
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome by the BCM for FRE
+ E Pancakes! We'll be serving pancakes and water/lemonade outside our build
+ ing from 10 PM - 2 AM and all are welcome to stop by!\n\nLinks:\n[0]  http
+ s://gatech.campuslabs.com/engage/event/5441687
+LOCATION:Baptist Student Union
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Food Distribution Volunteering
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200404T140000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200404T180000Z
@@ -33372,6 +33991,26 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  sident@gmail.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/624549#22\n
  [1]  swepresident@gmail.com\n[2]  https://www.facebook.com/GeorgiaTechSWE/
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Velocity Worship Service
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200407T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200408T003000Z
+UID:https://gatech.campuslabs.com/engage/event/5441760
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
+ worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
+ h.campuslabs.com/engage/event/5441760
+LOCATION:Baptist Student Union
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Velocity Worship Service
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200407T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200408T010000Z
+UID:https://gatech.campuslabs.com/engage/event/5441745
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
+ worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
+ h.campuslabs.com/engage/event/5441745
+LOCATION:Baptist Student Union
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mindfulness Book (Session 2)
@@ -33728,6 +34367,26 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  sident@gmail.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/624549#24\n
  [1]  swepresident@gmail.com\n[2]  https://www.facebook.com/GeorgiaTechSWE/
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Velocity Worship Service
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200421T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200422T003000Z
+UID:https://gatech.campuslabs.com/engage/event/5441761
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
+ worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
+ h.campuslabs.com/engage/event/5441761
+LOCATION:Baptist Student Union
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Velocity Worship Service
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200421T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200422T010000Z
+UID:https://gatech.campuslabs.com/engage/event/5441746
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
+ worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
+ h.campuslabs.com/engage/event/5441746
+LOCATION:Baptist Student Union
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yellow Jackets Art Workshops
