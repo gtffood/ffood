@@ -2,291 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Capital One Day on Campus
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190115T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190116T010000Z
-UID:http://hg.gatech.edu/node/615297#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nDay in the Lobby\nBrin
- g your resume and come chat with recruiters from Capital One in the Colleg
- e of Computing commons anytime between 11am and 4pm.\n\nCan't make it in t
- he morning or really want to be considered for their team?\n\nTech Talk - 
- Thoughtfulness and Sincerity: Challenges for AI Agents\nJoin them in Klaus
-  1116 E&W from 6:30pm – 8pm to learn about their innovative technology!\
- n\nArtificially Intelligent (AI) agents can have beliefs\, goals\, and\, i
- n some sense\, even emotions\, and may reason about the beliefs\, goals\, 
- and emotions of others. Their behavior could make us wonder at their thoug
- htfulness or suspect them of insincerity\, but are such appraisals of ours
-  meaningful at all? Under what conditions should we ascribe sincerity\, or
-  lack thereof\, to an AI agent? And how might we determine whether such an
-  agent’s apparently thoughtful behavior is deliberate and genuine? I exp
- lore possible answers to such questions in the context of cognitive AI age
- nts with capabilities such as narrative intelligence\, socio-emotional rea
- soning\, and goal-oriented behavior.\n\nFree food will be provided if you 
- come early!\n\nTechnology Development Program Associate - 18-19\nApply Now
- ! Click HERE [1].\n\nDo you want to work for a tech company that writes it
- s own code\, develops its own software\, and builds its own products? Do y
- ou want to experiment and innovate using the latest technologies to engine
- er breakthrough customer experiences?\n\nThen we want you!\n\nWe recruit f
- or three technical roles within our Technology Development Program:\n\nSof
- tware Engineer\n\n- Chart the digital frontier in one of our Mobile (Nativ
- e)\, Web\, or API developments\n- Develop your skills in a variety of lang
- uages and frameworks including: Java/Spring\,.Net\, JavaScript\, AngularJS
- \, Python\, Go and Swift in the cloud and on devices\n\nData Engineer\n\n-
-  Build out our analytic capabilities using modern data technologies\n- Dep
- loy robust data products and services\, as well as enable rich visualizati
- on\, data exploratory\, and machine learning capabilities\n- Use open-sour
- ce technologies (Hadoop/MapReduce\, Spark\, Kafka\, Pig\, Python\, NoSQL d
- atabases\, etc.) and deploy applications in the cloud (AWS\, Azure)\n\nCyb
- er Security Engineer\n\n- Support cyber security monitoring and response c
- apabilities to thwart attacks on Capital One\n- Develop your skills in a v
- ariety of areas including security operations\, malware analysis and emerg
- ing security solutions to protect and empower the Capital One workforce\n\
- nAnalyst Development Program\nApply Now! Click HERE [1].\n\nAs part of the
-  Analyst Development Program\, you’ll take part in:\n\n- Experiential ed
- ucation weeks focused on leadership development\, challenging strategic pr
- oblem-solving exercises\, and extensive networking activities\n- Hands-on 
- experience in two distinct roles in first two years\n- Consistent\, meanin
- gful interaction with senior leadership\n\nYou’ll sit at the intersectio
- n of delivering human-centered\, business-focused and technology-driven so
- lutions for our customers. Through our best-in-class analytical practices\
- , you’ll help us quickly identify\, build\, and test our way to success.
- \n\nYour role will include:\n\n- Mining data and talking to customers\, sp
- otting opportunities to develop new products\n- Building loyalty and marke
- ting strategies to increase customer engagement\n- Developing new digital 
- solutions to help customers better manage their finances\n- Using past per
- formance to anticipate risks and seamlessly bring solutions to life\n- Lev
- eraging new technologies such as machine learning to determine how we lend
-  to our customers\n\nProduct Management & Analytics Intern Program\nApply 
- Now! Click HERE [1].\n\nAs a part of the Product Management & Analytics In
- tern Program\, you will:\n\n- Utilize hands-on experience leveraging new t
- echnology to build business strategies while developing an analytical skil
- lset\n- Build leadership skills in the professional setting through meanin
- gful interaction with business leaders\n- Cultivate relationships with fel
- low interns and associates through extensive networking activities\n\nYou
- ’ll sit at the intersection of delivering human-centered\, business-focu
- sed and technology-driven solutions for our customers. Through our best-in
- -class analytical practice\, you’ll help quickly identify\, build\, and 
- test our way to success.\n\nYour role will include:\n\n- Talking to custom
- ers and mining data to identify opportunities to develop new products\n- B
- uilding loyalty and marketing strategies to increase customer engagement\n
- - Developing new digital solutions to help customers better manage their f
- inances\n- Using past performance to anticipate risks and seamlessly bring
-  solutions to life\n- Leveraging new technologies such as machine learning
-  to determine how we lend to our customers.\n\nLinks:\n[0]  http://hg.gate
- ch.edu/node/615297#0\n[1]  https://www.capitalonecareers.com/
-LOCATION:11-4pm CCB commons & 6:30pm – 8pm Klaus 1116 E&W
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Meet GT TIP: Technical Interview Prep
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190115T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190116T010000Z
-UID:http://hg.gatech.edu/node/615825#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nEvery Thursday\, we will be hosti
- ng weekly technical interview workshops where simple techniques and practi
- ce problems await to help you optimize your interview performance. The wor
- kshops will focus on coding/algorithm-style interview questions primarily 
- used in engineering interviews. Meet the team tonight and learn more about
-  what awaits you this semester. Interested in joining the organization lea
- dership\, reach out to Christen Steele (csteele@cc.gatech.edu).\n\nLinks:\
- n[0]  http://hg.gatech.edu/node/615825#0
-LOCATION:Klaus 2456
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED - Stryker Day on Campus
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190116T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190117T010000Z
-UID:http://hg.gatech.edu/node/615298#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nDay in the Lobby\nBrin
- g your resume and come chat with recruiters from Stryker in the College of
-  Computing commons anytime between 11am and 4pm.\n\nCan't make it in the m
- orning or really want to be considered for their team?\n\nTech Talk\nJoin 
- them in Klaus 1116 E&W from 6:30pm – 8pm to learn about their innovative
-  technology!\n\nFree food will be provided if you come early!\n\nLinks:\n[
- 0]  http://hg.gatech.edu/node/615298#0
-LOCATION:11-4pm CCB commons & 6:30pm – 8pm Klaus 1116 E&W
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Preparing Compelling Nominations Packets
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190116T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190116T180000Z
-UID:http://hg.gatech.edu/node/615216#0
-DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\nStatus: p
- ublished\n\nIt's award nomination season for our internal faculty and staf
- f award opportunities. Join employees from Institute Communications\, the 
- Center for Teaching and Learning\, the Office of the Executive Vice Presid
- ent for Research\, and Georgia Tech Human Resources as we share best nomin
- ation practices and tips on how to create a compelling nomination package.
-  In addition\, we will share new award opportunities and showcase an award
- s resource presented on the Provost and Executive Vice President for Acade
- mic Affairs' website.\n\nLight refreshments will be provided. Please feel 
- free to bring your own lunch.\n\nLinks:\n[0]  http://hg.gatech.edu/node/61
- 5216#0
-LOCATION:Peachtree Room\, Student Center Commons
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Implicit Bias Workshop
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190116T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190116T183000Z
-UID:http://hg.gatech.edu/node/614979#0
-DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nInstitu
- te Diversity\, in collaboration with the Office of the Vice Provost for Gr
- aduate Education and Faculty Development and Georgia Tech’s ADVANCE Prog
- ram\, is offering four 90-minute Implicit Bias Workshops for faculty this 
- spring on January 16\, January 30\, February 12\, and February 27. All fac
- ulty who serve on reappointment\, promotion\, and/or tenure committees and
-  faculty search committees are required to participate in an Implicit Bias
-  Workshop pursuant to Provost Bras’ memo in October 2016 to academic lea
- ders. However\, all instructional and research faculty are welcomed to att
- end as space permits.\n\nThe goals of these workshops are to increase awar
- eness of the impact of implicit bias and facilitate equitable decision-mak
- ing across myriad processes related to faculty evaluations. As a participa
- nt in the workshop\, you will learn the following:\n\n- An introduction to
-  the concept of implicit bias and how these unconscious\, automatic mental
-  processes may impact behaviors such as evaluating candidates during facul
- ty search and/or RPT processes.\n- Empirical research on vitaes\, letters 
- of recommendations\, and teaching evaluations to illustrate the impact of 
- implicit bias on decisions.\n- Effective practices and strategies for facu
- lty search and RPT committees.\n\nThese workshops will be facilitated by J
- ulie Ancis\, associate vice president\, Institute Diversity\; Paul Benkese
- r\, senior associate chair and professor\, Wallace H. Coulter Department o
- f Biomedical Engineering\; Harris Dimitropoulos\, associate professor\, Sc
- hool of Architecture\; Robert Kirkman\, associate professor\, School of Pu
- blic Policy\; Mark Mitchell\, associate director\, Georgia Tech Research I
- nstitute\; and/or Michelle Rinehart\, associate dean for academic affairs 
- and outreach\, College of Design.\n\nTo register for one of the workshops\
- , visit [1]. Lunch will be provided.\n\nLinks:\n[0]  http://hg.gatech.edu/
- node/614979#0\n[1]  http://www.advance.gatech.edu/implicit-bias-workshops
-LOCATION:Bill Moore Student Success Center\, President's Suites C&D
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SCL IRC Seminar: Rethinking the Warehouse: Urban Space and Economy
-  in an Age of Smart Logistics
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190116T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190116T183000Z
-UID:http://hg.gatech.edu/node/616130#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nStatus: published\n\nThe Supply Chain and Logist
- ics Institute hosts a series of monthly seminars open to interested facult
- y\, students and corporate partners as well as the general public. If you 
- are interested in attending any of the sessions\, please review the below 
- information and register online.\n\nSCL IRC Seminar: Rethinking the Wareho
- use: Urban Space and Economy in an Age of Smart Logistics\nNancey Green Le
- igh [2]\n\nUrban logistics automation is collapsing traditional boundaries
-  between storage and delivery\, extending the warehouse presence in the bu
- ilt environment. At the same time\, the growth of e-commerce combined with
-  logistics' need to avoid pauses or "friction" means that unprecedented vo
- lumes of goods are in near constant motion. This talk explores the potenti
- al of e-commerce driven changes to supply chain logistics\, as well as con
- sumer and business purchasing patterns\, to alter the pattern of warehousi
- ng and more within metropolitan areas. There are a broad range of accompan
- ying impacts for urban and local economic development. These include impac
- ts on retail stores\, warehouses\, land-uses\, transportation networks\, w
- orkforce\, policy and regulations (e.g.\, zoning). They are distinguishabl
- e by whether they impact most the "last-mile" aspect of supply chain and l
- ogistics\, or the larger supply chain network linked to distribution and f
- ulfillment centers.\n\nRegister Online for upcoming SCLIRC seminars [3]\n\
- nAttendance to the sessions is complimentary for SCL corporate partners\, 
- SCL Industry Advisory Board members\, SCL affiliated faculty and students\
- , and students enrolled in the Masters in Supply Chain Engineering program
- .\n\nTo take advantage of the included lunch\, you must register by deadli
- ne noted on the registration page.\n\nIf you have any questions\, please e
- mail event@scl.gatech.edu.\n\nLinks:\n[0]  http://hg.gatech.edu/node/61613
- 0#0\n[1]  http://hg.gatech.edu/node/612613#0\n[2]  https://www.scl.gatech.
- edu/users/nancey-leigh\n[3]  https://www.scl.gatech.edu/sclirc/seminars/re
- gister\n[4]  https://isye.gatech.edu/about/maps-directions/isye-building-c
- omplex
-LOCATION:ISyE Main Building\, 2nd Floor Atrium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Materials Innovation Lecture Series
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190116T190000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190116T200000Z
-UID:http://hg.gatech.edu/node/612421#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nThe Promise\, Challenges\, and Opportunities in Materials Informatics\nT
- aylor D. Sparks\, Assistant Professor Director of the Materials Characteri
- zation Lab Materials Science & Engineering\, University of Utah Abstract\n
- \nOver 7 years ago the White House announced the Materials Genome Initiati
- ve (MGI) asking computational materials scientists and experimentalists to
-  find ways to “discover\, develop\, manufacture\, and deploy materials t
- wice as fast at a fraction of the cost.” High throughput computation and
-  experiments have made some progress but we are still far from the MGI goa
- l. However\, the emerging field of Materials Informatics offers a complete
- ly new and under-utilized approach via machine learning and big data appro
- aches to materials problems. In this talk\, I’ll describe the promise\, 
- challenges\, and opportunities that this new approach affords materials sc
- ientists. Specifically\, I describe some of the new data-driven tools we a
- re developing in our group as well as tools developed in conjunction with 
- Citrine Informatics such as the “Materials Recommendation Engine.” The
- se tools allow us to reduce the risk associated with exploring chemical wh
- itespace for new\, interesting materials and enable rapid material discove
- ry. I’ll demonstrate the utility of machine learning with specific examp
- les in thermoelectrics\, superhard materials\, crystal structure classific
- ation\, and thermochemical data prediction.\n\nBiography\n\nDr. Sparks joi
- ned the Materials Science and Engineering Department at the University of 
- Utah as an Assistant Professor in 2013. He is originally from Utah and an 
- alumni of the department he now teaches in. Before graduate school he work
- ed at Ceramatec Inc. on geopolymers\, reaction bonded ceramics\, and fuel 
- cell insulation. He did his MS in Materials at UCSB and his PhD in Applied
-  Physics at Harvard University in David Clarke’s laboratory and then did
-  a postdoc with Ram Seshadri in the Materials Research Laboratory at UCSB.
-  He is currently the Director of the Materials Characterization Lab at the
-  University of Utah and teaches classes on ceramics\, materials science\, 
- characterization\, and technology commercialization. His current research 
- centers on the discovery\, synthesis\, characterization\, and properties o
- f new materials for energy applications. He is a pioneer in the emerging f
- ield of materials informatics whereby big data\, data mining\, and machine
-  learning are leveraged to solve challenges in materials science. He has a
- ssembled freely available web-based datasets and predictive tools for ther
- moelectrics\, lithium ion batteries\, and superhard materials which allow 
- for simultaneous evaluation of performance alongside resource consideratio
- ns including quantitative metrics of scarcity and availability.\n\nClick h
- ere [1] to register.\n\nLinks:\n[0]  http://hg.gatech.edu/node/612421#0\n[
- 1]  https://taylorsparks.eventbrite.com\n[2]  https://goo.gl/maps/Tiq7r4K8
- 4UP2
-LOCATION:Marcus Nanotechnology Building\, Room 1117-1118\, 345 Ferst Drive
- \, NW Atlanta\, GA 30318
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:New Faculty Welcome & Orientation to Teaching @ Georgia Tech
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190116T210000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190116T230000Z
-UID:http://hg.gatech.edu/node/615653#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \nExtras: Free food\nStatus: published\n\nThe Center for Teaching and Lear
- ning and the Office of Faculty Affairs invite you to join us for this new 
- faculty welcome event. All new faculty\, including full-time\, part-time\,
-  permanent\, temporary\, and visiting faculty are invited to attend\, alon
- g with new postdoctoral and graduate student instructors. As you get start
- ed in your new role\, we want to make sure you have the information you ne
- ed to be successful in your teaching and to take full advantage of the res
- ources available to you. Be our guest for dinner as you get to know your n
- ew colleagues and campus.\n\nFollow this link to register. [1]\n\nLinks:\n
- [0]  http://hg.gatech.edu/node/615653#0\n[1]  http://ctl.gatech.edu/S19-NF
- WE
-LOCATION:Peachtree Room\, Student Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Staying Emotionally Healthy at Georgia Tech
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190117T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190117T170000Z
-UID:http://hg.gatech.edu/node/615372#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nMoving away from home and adjusti
- ng to a new culture can be challenging.\n\nFeelings of excitement\, frustr
- ation\, and homesickness\, although normal to the adjustment process\, can
-  be difficult to endure. In this session\, you will be introduced to the i
- ns and outs and ups and downs of cultural adjustment\, and learn some stra
- tegies that will help you to cope with the adjustment process.\n\nFREE dou
- ghnuts and coffee while supplies last.\n\nLinks:\n[0]  http://hg.gatech.ed
- u/node/615372#0\n[1]  http://oie.gatech.edu
-LOCATION:Room 105\, D.M. Smith Building
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED - Citi Technologies Day on Campus
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190117T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190118T010000Z
@@ -307,85 +22,6 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  roup.com/Careers/index/#/universityprogram\n[2]  https://jobs.citi.com/sea
  rch-jobs
 LOCATION:11-4pm CCB commons & 6:30pm – 8pm Klaus 1116 E&W
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Georgia Tech IEEE Robotics Team Info Session
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190117T161500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190117T170000Z
-UID:http://hg.gatech.edu/node/616312#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nThe Georgia Tech IEEE Robotics Te
- am is recruiting for the Spring 2019 semester! This semester we’ll be wo
- rking on a fully autonomous robot to compete in IEEE’s annual college co
- mpetition: SoutheastCon in Huntsville\, Alabama.\n\nAs part of our team\, 
- you will have the chance to work with both the hardware and software for t
- he robot. The hardware team will be working on designing and fabricating t
- he robot\, the game board\, and building circuitry for the robot. The soft
- ware team will be working on a Raspberry Pi based system to develop comput
- er vision\, PID\, and locomotion algorithms for our autonomous robot to na
- vigate the course. All skill levels are welcome!!!\n\nIf you are intereste
- d in joining the team\, come out to our info session. There will be food a
- nd drinks! Feel free to contact anuj@gatech.edu for any questions\, or if 
- you are interested in joining but not able to make it to the info session.
- \n\nLinks:\n[0]  http://hg.gatech.edu/node/616312#0
-LOCATION:Room 2456\, Klaus Advanced Computing Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GVU Center Brown Bag: Xing-Dong Yang\, "Wearable Interactions Usin
- g Touch without a Touchscreen"
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190117T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190117T180000Z
-UID:http://hg.gatech.edu/node/616303#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nExtras: Free food\nStatus: published\n\nAbstract
- :\n\nThe ubiquitous touchscreen has become the primary mechanism with whic
- h users interact with small personal computing devices. While there is a t
- rend showing that personal computing devices may become smaller and smalle
- r\, a primary constraint on device miniaturization is the user interface (
- e.g. touchscreen). Screens need to be large enough to be seen\, and keyboa
- rds need enough physical space to facilitate typing. Arbitrary hardware mi
- niaturization may lead to devices that are not usable. In this talk\, I wi
- ll motivate and present two sensing techniques that enable touch as an inp
- ut mechanism on wearable devices without the need of a touchscreen. I will
-  also present a haptic technique that enables touch as an output mechanism
-  to create a unique mixed reality experience for games and videos on smart
- watches. The long-term goal of this research is to develop interaction mod
- alities that are easy\, intuitive\, and efficient for interacting with sma
- ll wearable devices.\n\nSpeaker Bio:\n\nXing-Dong Yang is an Assistant Pro
- fessor of Computer Science at Dartmouth College. Xing-Dong completed his B
- achelor of Computer Science in 2005 from the University of Manitoba\, Cana
- da. He earned his Master of Computing Science with a specialization in Hap
- tic Interfaces in 2008 from the University of Alberta\, Canada and his Doc
- torate in Computing Science with a specialization in Human-Computer Intera
- ction in 2013 from the same university. During his graduate work he was a 
- research intern at Autodesk Research in Toronto and Microsoft Research Asi
- a in Beijing. His dissertation work was awarded the 2013 Bill Buxton Best 
- Canadian HCI Dissertation Award\, given annually for the best doctoral dis
- sertation completed at a Canadian university in the field of human-compute
- r interaction. He has over thirty publications in top-tier venues in HCI\,
-  including the ACM Conference on Human Factors and Systems (ACM CHI) and t
- he ACM Conference on User Interfaces and Technology (ACM UIST). His work h
- as also been recognized through best paper nominations at ACM CHI 2018\, 2
- 016\, 2010 and ACM MobileHCI 2009\, as well as featured in public press th
- rough Discovery News\, NBC\, and New Scientist. Xing-Dong’s work is curr
- ently funded by Microsoft and NSF.\n\nLinks:\n[0]  http://hg.gatech.edu/no
- de/616303#0\n[1]  http://www.tsrb.gatech.edu/
-LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
- a\, Ga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CREATE-X Startup Ideas
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190117T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190118T000000Z
-UID:http://hg.gatech.edu/node/615667#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: published\n\nIf you're planning to apply 
- to Startup Launch\, come share your ideas with members of the selection te
- am to gain instant feedback and learn more about Startup Launch. This is a
-  great opportunity to both pitch your ideas and meet potential co-founders
- .\n\nFood will be served.\n\nLinks:\n[0]  http://hg.gatech.edu/node/615667
- #0\n[1]  https://orgsync.com/178387/events/2598831/occurrences/6247066
-LOCATION:Klaus 2448
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Focus Graduate Studies Open House
@@ -31382,6 +31018,17 @@ LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
  a\, Ga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SVAGT Welcome Back and Elections
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200116T173000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200116T190000Z
+UID:https://gatech.campuslabs.com/engage/event/5455930
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nWe will be hosting a lu
+ nch for all veterans on campus (faculty\, staff and students). We will als
+ o conduct our annual election for our executive members.\n\nLinks:\n[0]  h
+ ttps://gatech.campuslabs.com/engage/event/5455930
+LOCATION:Student Center room 359
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Undergraduate Public Health Association dinner discussion
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200116T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200116T233000Z
@@ -31452,6 +31099,16 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  ganizations. Reception to follow.\n\nLinks:\n[0]  http://hg.gatech.edu/nod
  e/629421#0
 LOCATION:Georgia Tech Student Center\, Ballroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alpha Sigma Phi Spring Rush 2020
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200117T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200117T030000Z
+UID:https://gatech.campuslabs.com/engage/event/5460398
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAlpha Sigma Phi Formal 
+ Spring Rush Day 3\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/eve
+ nt/5460398
+LOCATION:Alpha Sigma Phi
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Delta Tau Delta Spring Rush 2020
@@ -31583,6 +31240,16 @@ DESCRIPTION:Intended audience: Graduate students\, Postdoc\nExtras: Free f
 LOCATION:Piedmont Room\, Student Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Alpha Sigma Phi Spring Rush 2020
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200118T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200118T030000Z
+UID:https://gatech.campuslabs.com/engage/event/5460400
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAlpha Sigma Phi Formal 
+ Spring Rush Day 4\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/eve
+ nt/5460400
+LOCATION:Alpha Sigma Phi
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Delta Tau Delta Spring Rush 2020
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200118T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200118T030000Z
@@ -31689,6 +31356,19 @@ DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\n
  to see you there!\n\nLinks:\n[0]  http://hg.gatech.edu/node/628785#0\n[1] 
   https://oie.gatech.edu/
 LOCATION:Student Center Piedmont Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alpha Chi Sigma Rush
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200121T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200121T170000Z
+UID:http://hg.gatech.edu/node/631228#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nEnjoy free pizza on Tuesday\, Jan
+ . 21 and trivia on Thursday\, Jan. 23. Other events will be from 5-6 p.m. 
+ on Wednesday\, Jan. 22 and Thursday\, Jan. 23 from 5-7 p.m. and 5-6 p.m.\,
+  respectively.\n\nLinks:\n[0]  http://hg.gatech.edu/node/631228#0\n[1]  ht
+ tps://gatech.campuslabs.com/engage/organization/alpha-chi-sigma
+LOCATION:Molecular Science and Engineering Atrium 4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rush 
@@ -31881,6 +31561,20 @@ DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nInstitu
 LOCATION:Student Center\, Piedmont Room
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Alpha Chi Sigma Rush
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200122T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200123T000000Z
+UID:http://hg.gatech.edu/node/631229#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nParticipate in a free resume work
+ shop with the brothers of Alpha Chi Sigma. Other events will be from 5-6 p
+ .m. on Wednesday\, Jan. 22 and Thursday\, Jan. 23 from 5-7 p.m. and 5-6 p.
+ m.\, respectively\, and 11 a.m.-noon on Tuesday\, Jan. 21.\n\nLinks:\n[0] 
+  http://hg.gatech.edu/node/631229#0\n[1]  https://gatech.campuslabs.com/en
+ gage/organization/alpha-chi-sigma
+LOCATION:Ford L1175
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rush 
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200122T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200123T000000Z
@@ -31906,6 +31600,19 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  //hg.gatech.edu/node/630682#0\n[1]  https://gatech.campuslabs.com/engage/e
  vent/5322889\n[2]  https://www.facebook.com/ophiagt/
 LOCATION:Room 111\, Instructional Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alpha Chi Sigma Rush
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200123T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200123T170000Z
+UID:http://hg.gatech.edu/node/631228#1
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nEnjoy free pizza on Tuesday\, Jan
+ . 21 and trivia on Thursday\, Jan. 23. Other events will be from 5-6 p.m. 
+ on Wednesday\, Jan. 22 and Thursday\, Jan. 23 from 5-7 p.m. and 5-6 p.m.\,
+  respectively.\n\nLinks:\n[0]  http://hg.gatech.edu/node/631228#1\n[1]  ht
+ tps://gatech.campuslabs.com/engage/organization/alpha-chi-sigma
+LOCATION:Molecular Science and Engineering Atrium 4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rush 
@@ -32007,6 +31714,96 @@ LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
  a\, Ga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GVU Center Brown Bag: Matthew Hong\, Lara Martin\, and Emily Wall 
+ "Foley Scholars Research"
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200123T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200123T180000Z
+UID:http://hg.gatech.edu/node/631243#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nExtras: Free food\nStatus: draft\n\nXXXXX ABSTRA
+ CTS\n\nMichaelanne Dye\, Towards Access and Beyond: Human Infrastructures 
+ in Constrained Contexts\n\nMore than four billion people across the world 
+ have yet to access the internet. Despite increasing initiatives by compani
+ es and governments to bring more people online\, social\, economic\, and p
+ olitical barriers continue to limit internet engagements among underrepres
+ ented groups. As a result\, people collaborate to overcome barriers to par
+ ticipation\, particularly in politically and economically constrained cont
+ exts. I address these concerns by focusing on the case of Cuba\, where up 
+ until recently internet access was limited to just five percent of the pop
+ ulation. Presenting results from qualitative inquiry in Havana from 2014 t
+ o 2017\, I describe how participants are receiving and engaging with the i
+ ncremental introduction of access to the world wide web. I also present in
+ sights into how people have created their own versions of the internet in 
+ response to barriers. I draw on the framework of human infrastructure to r
+ eveal how people are sustaining multiple\, disconnected information networ
+ ks\, and the tensions and opportunities that arise from these efforts. I w
+ ill discuss how this work contributes to our understanding of the social e
+ lements embedded in internet adoption and participation\, and how this cri
+ tical understanding has implications for the design of social media system
+ s in order to better support collaborative efforts of historically underre
+ presented groups.\n\nCaitlyn Seim\, Wearable Tactile Stimulation for Strok
+ e Rehabilitation\n\nStroke is one of the leading causes of disability in t
+ he United States and globally. Many stroke survivors lose function in thei
+ r upper extremities\, which can make it difficult to do everyday tasks lik
+ e dressing or eating. In addition to weakness and loss of sensation\, spas
+ ticity and tone can cause hands to be involuntarily clenched in a rigid po
+ sition — a problem for which there are few effective treatments. Getting
+  rehabilitation therapy can be a challenge and up to 50% of stroke survivo
+ rs do not qualify for traditional exercise-based therapies. This talk intr
+ oduces a novel stimulation method and mobile\, wearable devices to provide
+  therapy on-the-go and to those with very limited movement. Preliminary re
+ sults and next steps are presented. Our stimulation method may provide a p
+ owerful tool to reduce disability after a stroke\, and the wearable form f
+ actor allows users to receive intensive therapy during their normal daily 
+ routine.\n\nStevie Chancellor\, Human-Centered Algorithms for Deviant Ment
+ al Health Behaviors Online\n\nSocial media can provide a rich platform for
+  those seeking better health and support through difficult experiences. Ye
+ t\, it can also provide space for deviant mental health behaviors\, very d
+ angerous and stigmatized behaviors related to mental health. These behavio
+ rs are dangerous to participants as well as to platform health. However\, 
+ the deep complexities of mental health and these clandestine behaviors res
+ ist straightforward\, data-driven approaches to detection and intervention
+ . In this talk\, I will describe how human-centered algorithms can identif
+ y and assess deviant mental health behaviors in pro-eating disorder commun
+ ities\, bringing insights from Human Computer Interaction\, applied data s
+ cience\, and social computing. In addition\, I will show how these approac
+ hes can inform platform strategies for engaging with these communities. Fi
+ nally\, I will briefly discuss how human-centered insights can be brought 
+ to computational methods to answer our toughest questions about deviant be
+ havior online.\n\nSPEAKER BIOS\n\nMichaelanne Dye is a Ph.D. candidate in 
+ Human-Centered Computing in the School of Interactive Computing at the Geo
+ rgia Institute of Technology. Blending the fields of Social Computing and 
+ ICTD (Information and Communication Technologies and Development)\, her wo
+ rk uses qualitative methods to study how people access and participate wit
+ h internet technologies in resource-constrained contexts with the goal of 
+ informing the design of more equitable and inclusive technology. She recei
+ ved her Master’s in Sociocultural Anthropology from Georgia State Univer
+ sity\, and draws heavily on this background to engage in technology resear
+ ch. Michaelanne is a Microsoft Research Ph.D. Fellow\, a three-time recipi
+ ent of the Herz Global Impact Award\, and an American Rewards for College 
+ Scientists (ARCS) Fellow. Her work has received Best Paper Honorable Menti
+ on awards at the ACM CHI and CSCW conferences.\n\nCaitlyn Seim is a PhD ca
+ ndidate in the School of Interactive Computing at the Georgia Institute of
+  Technology. Her concentration is Human-Centered Computing with focuses on
+  Artificial Intelligence and Neuroscience. She is an NSF Graduate Research
+  Fellow and Microsoft Research PhD Fellow. Her research interests include 
+ wearable computing\, haptics\, HCI\, rehabilitation\, and accessibility. M
+ ore specifically\, her work examines human cognition and learning from hap
+ tic interaction\, and creating new lightweight\, mobile devices for rehabi
+ litation.\n\nStevie Chancellor is a PhD candidate in Human Centered Comput
+ ing in Interactive Computing. Her research interest lies in Social Computi
+ ng\, Data Science\, and HCI to understand online communities and mental he
+ alth. Stevie’s work has won multiple Best Paper Honorable Mention awards
+  at CHI and CSCW\, premier venues in human computer interaction. Her work 
+ has been supported by a Snap Inc. Research Fellowship and has appeared in 
+ national publications such as Wired and Gizmodo.\n\nHow to watch: If you c
+ an't make the event in person you can Live Stream or watch the Recording (
+ one week after event).\n\nLinks:\n[0]  http://hg.gatech.edu/node/631243#0\
+ n[1]  http://www.tsrb.gatech.edu/
+LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
+ a\, Ga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Identity and Personal Brand in the Work Place
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200123T173000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200123T190000Z
@@ -32022,6 +31819,19 @@ DESCRIPTION:Intended audience: Graduate students\nStatus: published\n\nThe
  ovided – seating is limited. Please RSVP at [1]\n\nLinks:\n[0]  http://h
  g.gatech.edu/node/631093#0\n[1]  https://tinyurl.com/uk4k69l
 LOCATION:Room 1116\, Marcus Nanotechnology Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alpha Chi Sigma Rush
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200123T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200123T230000Z
+UID:http://hg.gatech.edu/node/631230#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nEnjoy a free cookie bar with the 
+ brothers of Alpha Chi Sigma. Other events will be from 11 a.m.-noon on Tue
+ sday\, Jan. 21 and Thursday\, Jan. 23\, and from 5-7 p.m. on Wednesday\, J
+ an. 22.\n\nLinks:\n[0]  http://hg.gatech.edu/node/631230#0\n[1]  https://g
+ atech.campuslabs.com/engage/organization/alpha-chi-sigma
+LOCATION:Molecular Science and Engineering Atrium 4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rush 
@@ -32047,6 +31857,31 @@ DESCRIPTION:Intended audience: College of Engineering\, Engineering Scienc
 LOCATION:Bill Moore Student Success Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bridge Club Open House
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200123T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200124T010000Z
+UID:http://hg.gatech.edu/node/631234#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nIf you like to play card games\, 
+ either for fun or competitively\, and would like to make new friends\, the
+  Bridge Club invites you to attend its open house on Thursday\, Jan. 23rd 
+ from 6-8 p.m. in the Student Center Room 320 or on Friday\, Jan. 24th from
+  3-5 p.m. in the same room. We play bridge in a friendly and relaxed atmos
+ phere and everyone is welcome to join\, including beginners\; we'll teach 
+ you how to play and help you to improve your skills over time. Stop by to 
+ say hi and play bridge with us!\n\nIf you like to play card games\, either
+  for fun or competitively\, and would like to make new friends\, the Bridg
+ e Club invites you to attend its Open House on Thursday\, Jan. 23rd at 6pm
+ -8pm in the Student Center Room 320 or on Friday\, Jan. 24th at 3pm-5pm in
+  the same room. We play bridge in a friendly and relaxed atmosphere and ev
+ eryone is welcome to join\, including beginners: we'll teach you how to pl
+ ay and help you to improve your skills over time. Stop by to say hi and pl
+ ay bridge with us!\n\nLinks:\n[0]  http://hg.gatech.edu/node/631234#0\n[1]
+   https://gatech.campuslabs.com/engage/event/5455928\n[2]  http://bridgecl
+ ub.gtorg.gatech.edu/
+LOCATION:Student Center Room 320
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MLK “Sunday” Supper: A Community Meal and Conversation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200123T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200124T010000Z
@@ -32058,6 +31893,21 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  ore. There are 100 spaces available.\n\nRSVP: [1]\n\nLinks:\n[0]  http://h
  g.gatech.edu/node/629425#0\n[1]  http://engage.gatech.edu/
 LOCATION:Bill Moore Student Success Center\, President's Suites A-D
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TEDxGeorgiaTech Student Speaker Series
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200123T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200124T010000Z
+UID:https://gatech.campuslabs.com/engage/event/5466591
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nThe TEDxGe
+ orgiaTech Student Speaker Series will highlight 9 speakers over 3 days (3 
+ speakers at each event). Each event will include free swag\, a light snack
+ \, and of course\, tons of great ideas! The first event was held on Tuesda
+ y\, January 14. The next two events will be on Thursday\, January 23 and F
+ riday\, January 31. The $5 tickets and more information can be found at ww
+ w.tedxgeorgiatech.com.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engag
+ e/event/5466591
+LOCATION:Kendeda Building 152
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Omega Phi Alpha Spring 2020 Recruitment
@@ -32075,6 +31925,54 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  //hg.gatech.edu/node/630683#0\n[1]  https://gatech.campuslabs.com/engage/e
  vent/5322890\n[2]  https://www.facebook.com/ophiagt/
 LOCATION:Room 321\, Student Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Faculty Fellows - Matt McDowell
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200124T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200124T160000Z
+UID:https://gatech.campuslabs.com/engage/event/5467759
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin Dr. Matt McDowell 
+ for lunch!\n\nMaterials Science and Mechanical Engineering professor Dr. M
+ cDowell's research group focuses on understanding how materials for energy
+  and electronic devices change and transform during operation\, and how th
+ ese transformations impact properties. Current projects in the group are f
+ ocused on i) electrode materials for alkali ion batteries\, ii) materials 
+ for solid-state batteries\, iii) interfaces in chalcogenide materials for 
+ electronics and catalysis\, and iv) new methods for creating nanostructure
+ d metals.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/54677
+ 59
+LOCATION:Highland Bakery
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bridge Club Open House
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200124T200000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200124T220000Z
+UID:https://gatech.campuslabs.com/engage/event/5455929
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nIf you like to play car
+ d games\, either for fun or competitively\, and would like to make new fri
+ ends\, the Bridge Club invites you to attend its Open House on Thursday\, 
+ Jan. 23rd at 6pm-8pm in the Student Center Room 320 or on Friday\, Jan. 24
+ th at 3pm-5pm in the same room. We play bridge in a friendly and relaxed a
+ tmosphere and everyone is welcome to join\, including beginners: we'll tea
+ ch you how to play and help you to improve your skills over time. Stop by 
+ to say hi and play bridge with us!\n\nLinks:\n[0]  https://gatech.campusla
+ bs.com/engage/event/5455929
+LOCATION:Student Center Room 320
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First General Info Meeting!
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200124T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200124T230000Z
+UID:https://gatech.campuslabs.com/engage/event/5455927
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFIRST MEETING: FRIDAY\,
+  JANUARY 24TH AT 5:00PM - 6:00PM\n\nLocation: Spring Room (located in Stud
+ ent Center\, 2nd floor above Subway)\n\nJoin the SWISE community for our v
+ ery first meeting of the year! Enjoy some free snacks while learning about
+  the awesome things we have planned for the future\, meeting the current S
+ WISE executive board\, learning about leadership roles you can partake in\
+ , meeting new people\, & making new friends who also love space!\n\nLinks:
+ \n[0]  https://gatech.campuslabs.com/engage/event/5455927
+LOCATION:Spring Room (located in Student Center\, 2nd floor above Subway)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Food Distribution Volunteering
@@ -32119,6 +32017,37 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  e food provided and lots of fun training sessions!\n\nLinks:\n[0]  http://
  hg.gatech.edu/node/631129#0
 LOCATION:Flag\, 117
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Udta India | Sankranti and Republic Day Celebrations
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200126T193000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200126T220000Z
+UID:http://hg.gatech.edu/node/631275#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nExtras: Free Food\nStatus: published\n\nEvery y
+ ear on the 26th of January\, Indians all over the world join together in c
+ ommemorating the signing of the Indian constitution in 1950. This event ma
+ rked the creation of the largest democracy in the world and established In
+ dia as a leading independent world power.\n\nCome out to fly kites\, eat s
+ amosas\, and chat over some chai with your fellow India Club members! Don
+ ’t worry if you’ve never flown kites before because we have experience
+ d professionals to help you out!\n\nKites will be flown from 2:30-4 p.m. o
+ n Tech Green! At 4 p.m. we will also raise a flag to celebrate India's 71s
+ t Republic Day and begin serving chai and samosas in the outdoor amphithea
+ ter. The event is free for everyone so stop by to have some fun!\n\nEvery 
+ year on the 26th of January\, Indians all over the world join together in 
+ commemorating the signing of the Indian constitution in 1950. This event m
+ arked the creation of the largest democracy in the world and established I
+ ndia as a leading independent world power.\n\nCome out to fly kites\, eat 
+ samosas\, and chat over some chai with your fellow India club members! Don
+ ’t worry if you’ve never flown kites before\, because we have experien
+ ced professionals to help you out!\n\nKites will be flown from 2:30 to 4 p
+ m on Tech Green! At 4 pm we will also raise a flag to celebrate India's 71
+ st Republic Day and begin serving chai and samosas in the outdoor amphithe
+ ater.\n\nThe event is free for everyone so stop by to have some fun!\n\nLi
+ nks:\n[0]  http://hg.gatech.edu/node/631275#0\n[1]  https://gatech.campusl
+ abs.com/engage/event/5465889\n[2]  http://gtindiaclub.com
+LOCATION:Tech Green
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GTMI Lunch and Learn Series - Smart and Connected Soft Bioelectron
@@ -32232,6 +32161,35 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Deep Startups feat. Derrick Morgan
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200128T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200129T000000Z
+UID:https://gatech.campuslabs.com/engage/event/5458727
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for CREATE-X’
+ s Deep Startups event featuring former Georgia Tech and Tennessee Titans f
+ ootball star\, Derrick Morgan [1]. He will speak about lessons learned as 
+ a professional football player\, as well as:\n\n- Emerging technology that
+  impacts the game\n- What it takes to become a successful entrepreneur\n- 
+ Opportunities for innovation in athletics\n\nAbout the speaker: Instilled 
+ with hard work at a young age by his mom\, Derrick Morgan began working as
+  soon he was old enough to acclimate himself to the real world. After rece
+ iving more recognition on the football field during his junior year of hig
+ h school\, Derrick set his mind to college football and arrived on the cam
+ pus of Georgia Tech. In 2010\, his next goal was accomplished as well with
+  the Tennessee Titans drafted him. While his goal was soon realized\, a to
+ rn ACL injury turned Derrick’s world upside down\, forcing him to evalua
+ te his value outside the football field.\n\nAbout Deep Startups: Deep Star
+ tups is an events series that features knowledgeable entrepreneurs who dis
+ cuss their experiences forming companies that solve big-picture current pr
+ oblems. These individuals speak to the concept of ‘deep startups’ and 
+ how to create companies that make a difference in specific industries. Eac
+ h Deep Startups event focuses on a different broad topic in engineering/te
+ chnology\, and allows for student Q&A at the end of the event.\n\nLinks:\n
+ [0]  https://gatech.campuslabs.com/engage/event/5458727\n[1]  https://www.
+ theplayerstribune.com/en-us/articles/derrick-morgan-titans-nfl-retirement
+LOCATION:Klaus 2448
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Velocity Worship Service
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200129T003000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200129T013000Z
@@ -32318,6 +32276,55 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  ttend in person!\n\nRSVP HERE! [1]\n\nLinks:\n[0]  http://hg.gatech.edu/no
  de/630730#0\n[1]  http://bit.ly/2N0M2xo
 LOCATION:Krone Engineered Biosystems Building\, Room 1005 - Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EWH General Body Meeting 01/30
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200130T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200130T170000Z
+UID:https://gatech.campuslabs.com/engage/event/5460311
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFirst general body meet
+ ing of the semester!!! Come out for FREE PIZZA and to learn more about upc
+ oming events and activities for the club. The meeting will be held in Klau
+ s 1443 at 11 AM on Thursday\, January 30th.\n\nLinks:\n[0]  https://gatech
+ .campuslabs.com/engage/event/5460311
+LOCATION:Klaus 1443
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GVU Center Brown Bag: Eva Wolfangel "How Technologies... Are Alrea
+ dy Changing Lives"
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200130T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200130T180000Z
+UID:http://hg.gatech.edu/node/631247#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nExtras: Free food\nStatus: draft\n\nAbstract:\n\
+ nScience journalist Eva Wolfangel has specialized in investigating the eff
+ ects of future technologies on society - by accompanying people who alread
+ y make intensive use of these technologies today. She spent weeks under a 
+ VR headset researching social virtual reality\, and she finally visited he
+ r new "virtual" friends in their real lives in Kuwait\, Israel and various
+  US states. These people already spend a large part of their lives in virt
+ ual reality - and that is no reason for cultural pessimism. In Japan\, Wol
+ fangel has accompanied researchers working on human augmentation\, and she
+  has tried out many of these technologies\, met people here who are alread
+ y using them and talked to many about their dream of an augmented future. 
+ In this talk\, Eva Wolfangel discusses her research and how future technol
+ ogies are already changing society today.\n\nSpeaker Bio:\n\nEva Wolfangel
+  is a Knight Science Journalism Fellow at MIT. In 2018\, she was named Eur
+ opean Science Writer of the Year by the Association of British Science Wri
+ ters. She focuses on new technologies such as artificial intelligence and 
+ virtual reality\, computer science\, data journalism\, interaction between
+  digital and real worlds\, and space travel. Eva’s specialty is to combi
+ ne creative writing and technical topics in order to reach a broad audienc
+ e. She writes for major magazines and newspapers in Germany and Switzerlan
+ d\, including Die Zeit\, Geo\, Der Spiegel\, and NZZ\, and also produces r
+ adio features. As a VR journalist\, she reports from virtual worlds as par
+ t of the journalistic cooperative RiffReporter [Hyperlink to: https://www.
+ riffreporter.de/].\n@evawolfangel [Hyperlink to: https://twitter.com/evawo
+ lfangel]\n\nSchedule of Brown Bag Speakers Fall 2019 [1]\n\nLinks:\n[0]  h
+ ttp://hg.gatech.edu/node/631247#0\n[1]  https://www.gvu.gatech.edu/events/
+ upcoming\n[2]  http://www.tsrb.gatech.edu/
+LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
+ a\, Ga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:McKinsey & Company Freshman Diversity Leader Intern Info Session
@@ -32440,6 +32447,21 @@ DESCRIPTION:Intended audience: Graduate students\, Postdoc\, Undergraduate
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TEDxGeorgiaTech Student Speaker Series
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200131T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200201T010000Z
+UID:https://gatech.campuslabs.com/engage/event/5466592
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nThe TEDxGe
+ orgiaTech Student Speaker Series will highlight 9 speakers over 3 days (3 
+ speakers at each event). Each event will include free swag\, a light snack
+ \, and of course\, tons of great ideas! The first event was held on Tuesda
+ y\, January 14. The next two events will be on Thursday\, January 23 and F
+ riday\, January 31. The $5 tickets and more information can be found at ww
+ w.tedxgeorgiatech.com.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engag
+ e/event/5466592
+LOCATION:Bill Moore Student Success Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Food Distribution Volunteering
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200201T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200201T190000Z
@@ -32470,6 +32492,21 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  od4lives.org/donate.html\n[3]  https://www.facebook.com/events/11779058659
  30288/
 LOCATION:Food4Lives\, 1122 Old Chattahoochee Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EWH Repair Session 02/01
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200201T180000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200201T210000Z
+UID:https://gatech.campuslabs.com/engage/event/5460284
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nMeet in front of Blue D
+ onkey in the Student Center at 12:00PM for coffee and bagels. We will leav
+ e for Medshare at 12:30PM!\n\nSign up to drive or for rides using the foll
+ owing Google Form link: https://forms.gle/pVVpMPFqQYs3PUfE7\n\nPlease sign
+  up by 3PM on Friday (01/30/2020)!! We will send out the ride list by 5PM 
+ that day!\n\nNOTE: Sign up individually for rides even if you plan on driv
+ ing as a group.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event
+ /5460284
+LOCATION:Medshare
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GTMI Lunch and Learn Series - Energy-Efficient Manufacturing Towar
@@ -33064,6 +33101,17 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Historic Academy of Medicine
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:EWH General Body Meeting 02/20
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200220T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200220T170000Z
+UID:https://gatech.campuslabs.com/engage/event/5460262
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome out to our general
+  body meeting to get updated about activities and events!!! FREE FOOD will
+  be provided so come to Klaus 1443 at 11 AM on Thursday\, February 20!\n\n
+ Links:\n[0]  https://gatech.campuslabs.com/engage/event/5460262
+LOCATION:Klaus 1443
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Food Distribution Volunteering
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200222T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200222T190000Z
@@ -33094,6 +33142,21 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  od4lives.org/donate.html\n[3]  https://www.facebook.com/events/11779058659
  30288/
 LOCATION:Food4Lives\, 1122 Old Chattahoochee Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EWH Repair Session 02/22
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200222T180000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200222T210000Z
+UID:https://gatech.campuslabs.com/engage/event/5460138
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nMeet in front of Blue D
+ onkey in the Student Center at 12:00PM for coffee and bagels. We will leav
+ e for Medshare at 12:30PM!\n\nSign up to drive or for rides using the foll
+ owing Google Form link: https://forms.gle/VFnnJuULtHtDLKgX6\n\nPlease sign
+  up by 3PM on Friday (02/21/2020)!! We will send out the ride list by 5PM 
+ that day!\n\nNOTE: Sign up individually for rides even if you plan on driv
+ ing as a group.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event
+ /5460138
+LOCATION:Medshare
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GTMI Lunch and Learn Series - Enterprise Resource Planning Softwar
@@ -33758,6 +33821,17 @@ DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\nStatus: p
 LOCATION:Room 301\, Student Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:EWH General Body Meeting 03/26
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200326T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200326T160000Z
+UID:https://gatech.campuslabs.com/engage/event/5465726
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome out to our general
+  body meeting to get updated about activities and events!!! FREE FOOD will
+  be provided so come to Klaus 1443 at 11 AM on Thursday\, March 26!\n\nLin
+ ks:\n[0]  https://gatech.campuslabs.com/engage/event/5465726
+LOCATION:Klaus 1443
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Food Distribution Volunteering
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200328T140000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200328T180000Z
@@ -33788,6 +33862,21 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  ood4lives.org/donate.html\n[3]  https://www.facebook.com/events/1177905865
  930288/
 LOCATION:Food4Lives\, 1122 Old Chattahoochee Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EWH Repair Session 03/28
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200328T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200328T190000Z
+UID:https://gatech.campuslabs.com/engage/event/5465826
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nMeet in front of Blue D
+ onkey in the Student Center at 12:00PM for coffee and bagels. We will leav
+ e for Medshare at 12:30PM!\n\nSign up to drive or for rides using the foll
+ owing Google Form link: https://forms.gle/HxdRXEJJQHDP1NMB8\n\nPlease sign
+  up by 3PM on Friday (03/27/2020)!! We will send out the ride list by 5PM 
+ that day!\n\nNOTE: Sign up individually for rides even if you plan on driv
+ ing as a group.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event
+ /5465826
+LOCATION:Medshare
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Society of Women Engineers General Body Meeting
@@ -34263,6 +34352,17 @@ DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\nStatus: p
 LOCATION:Room 301\, Student Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:EWH General Body Meeting 04/16
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200416T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200416T160000Z
+UID:https://gatech.campuslabs.com/engage/event/5465774
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome out to our LAST ge
+ neral body meeting of the semester!!! FREE FOOD will be provided so come t
+ o Kendeda 230 at 11 AM on Thursday\, April 16!\n\nLinks:\n[0]  https://gat
+ ech.campuslabs.com/engage/event/5465774
+LOCATION:Kendeda 230
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:DramaTech presents A New Brain
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200417T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200417T030000Z
@@ -34331,6 +34431,21 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  ood4lives.org/donate.html\n[3]  https://www.facebook.com/events/1177905865
  930288/
 LOCATION:Food4Lives\, 1122 Old Chattahoochee Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EWH LAST Repair Session 04/18
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200418T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200418T190000Z
+UID:https://gatech.campuslabs.com/engage/event/5465722
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nMeet in front of Blue D
+ onkey in the Student Center at 12:00PM for coffee and bagels. We will leav
+ e for Medshare at 12:30PM!\n\nSign up to drive or for rides using the foll
+ owing Google Form link: https://forms.gle/Z24fvM9GhDNXSjP19\n\nPlease sign
+  up by 3PM on Friday (04/17/2020)!! We will send out the ride list by 5PM 
+ that day!\n\nNOTE: Sign up individually for rides even if you plan on driv
+ ing as a group.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event
+ /5465722
+LOCATION:Medshare
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DramaTech presents A New Brain
