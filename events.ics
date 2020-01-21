@@ -2,20 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:The Annual “Salute to Greatness” Awards Gala
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190119T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190120T030000Z
-UID:http://hg.gatech.edu/node/613577#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nOne of the highest honors given by the King Cen
- ter for Nonviolent Change\, the Salute to Greatness Award is presented at 
- the dinner to recognize individuals and corporations that exemplify excell
- ence in their leadership and have demonstrated a commitment to social resp
- onsibility in the spirit of Martin Luther King Jr.\n\nLinks:\n[0]  http://
- hg.gatech.edu/node/613577#0
-LOCATION:Hyatt Regency Hotel
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ECE Career Fair Spring 2019 (Day 1 of 2)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190122T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190122T210000Z
