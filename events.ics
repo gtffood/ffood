@@ -2,371 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:GM Day on Campus
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190122T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190123T010000Z
-UID:http://hg.gatech.edu/node/615300#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nDay in the Lobby\nBrin
- g your resume and come chat with recruiters from GM in the College of Comp
- uting commons anytime between 11am and 4pm.\n\nCan't make it in the mornin
- g or really want to be considered for their team?\n\nTech Talk: Docker v K
- ubernetes\nJoin us for a Tech talk with Gordon Williams\, Project Manager\
- , Cadillac domain Integration and GT Alumnus (MBA '11)\, as he discusses t
- he industry changing technology and innovation in vehicle technology.\n\nJ
- oin them in Klaus 1443 from 6:30pm – 8pm to learn about their innovative
-  technology!\n\nFree food will be provided if you come early!\n\nJobs at G
- M. Your life. Your career.\nWe are a global team of diverse and talented p
- eople—from creative design to engineering and software development to ma
- nufacturing to marketing and finance—making contributions that extend fa
- r beyond our job titles and often bringing our life’s passion to our wor
- k. Get to know us and hear how we’re discovering more out of our careers
-  with General Motors.\n\nClick HERE [1] to search open full-time and inter
- nship opportunities!\n\nLinks:\n[0]  http://hg.gatech.edu/node/615300#0\n[
- 1]  https://search-careers.gm.com/jobsatgm
-LOCATION:11-4pm CCB commons & 6:30pm – 8pm Klaus 1443
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Career Services Workshop: Resume Upgrade
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190122T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190123T010000Z
-UID:http://hg.gatech.edu/node/614495#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nMission Possible: Polish your Res
- ume\n\nLearn how to build a resume that concisely showcases your experienc
- e and highlights your skills. Already have one? Great! Just like your skil
- lset\, there is always a way to improve and expand your resume. Whether yo
- u want to polish the final product or are just beginning\, learn all the t
- ips and tricks to becoming a master resume builder!\n\nLinks:\n[0]  http:/
- /hg.gatech.edu/node/614495#0
-LOCATION:Klaus 2456
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Urban and Regional Air Mobility
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190123T130000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190123T204500Z
-UID:http://hg.gatech.edu/node/614678#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nThe world is now 
- entering a new era of mobility. From electric scooters to self-driving car
- s\, we will soon have even more choices for how to travel within cities. T
- he same technologies that are enabling new forms of ground transportation 
- are also enabling new types of aircraft. A new industry is emerging to add
- ress a market now being called “urban air mobility (UAM)” in which pas
- sengers and cargo are transported by short-ranged electric vertical takeof
- f and landing (eVTOL) aircraft at an affordable price point. As cities bec
- ome more congested\, UAM offers the potential for significant time savings
-  compared to driving by overflying traffic. As one of many mobility option
- s\, UAM also will enable new levels of flexibility in multi-modal trips in
- volving cars and transit. A recent market study by Booz Allen Hamilton fou
- nd that if experts can overcome infrastructure and air traffic management 
- constraints\, the potential U.S. market for UAM exceeds $500 billion\, car
- rying 16 million passengers daily\, and served by 850\,000 aircraft. In co
- mparison\, the U.S. airline market is approximately $200 billion.\n\nUnlik
- e past forms of aviation\, UAM will be deeply interwoven into the fabric o
- f cities and regions. Aircraft must be low noise to avoid annoyance\, vert
- iports must be located in a way consistent with land use regulations\, and
-  issues such as equity of access must be addressed. As a consumer and prod
- ucer of data\, UAM will be a part of the landscape of future smart cities.
- \n\nIn this workshop\, we will collectively address the question\, “How 
- can Atlanta and all of Georgia participate in the economic opportunity of 
- UAM?” A premise of our discussion will be that the aircraft and technolo
- gies that enable UAM offer potential not only for urban operations but als
- o for rural areas\; hence our focus will be on urban and regional air mobi
- lity. For example\, rapid commuting by air may enable increased wages for 
- rural residents and also encourage rural growth and development\, as peopl
- e and businesses disaggregate from urban cores to outlying areas. Attendee
- s will include business\, government\, and academic stakeholders from Atla
- nta and neighboring rural communities in Georgia\, as well as representati
- ves from NASA and companies participating in the nascent UAM industry.\n\n
- Agenda:\n\n8:00-8:30am - Registration\n\n8:30-8:45am - Welcome and Introdu
- ctions\n\nChaouki Abdallah\, Executive Vice President of Research\, Georgi
- a Institute of Technology\n\n8:45-9:00am - Georgia Tech’s Center for Urb
- an and Regional Air Mobility (CURAM)\n\nBrian German\, Langley Associate P
- rofessor\, Aerospace Engineering\, Georgia Institute of Technology\n\n9:00
- -9:45am - Keynote\n\nMark Moore\, Director of Vehicle Systems\, Uber Eleva
- te\n\n9:45-11:15am - Panel: Opportunities and challenges for urban and reg
- ional aviation\n\n- Pam Cohn\, Managing Partner\, Ascension Global\n- Nate
-  Fisher\, Avionics Software Verification and Validation Lead\, KittyHawk\n
- - Chris Hewlett\, Program Leader\, Global Drone Solutions\, Deloitte\n- Br
- uce Holmes\, VP\, Digital Aviation\, SmartSky Networks\n- John Selden\, Ge
- neral Manager\, Hartsfiled-Jackson International Airport\n- Susan Ying\, V
- P\, Global Partnerships\, Ampaire\n- Amy Hudnall\, Director\, Georgia Cent
- er of Innovation for Aerospace (moderator)\n\n11:15-11:30am - Networking B
- reak\n\n11:30-12:30pm - Panel: Atlanta perspectives on urban and regional 
- aviation\n\n- Anand Agarwal\, Product Owner\, Honeywell Aerospace\n- Jim A
- llerdice\, Founding Partner\, ABCx2\n- Carol Comer\, Director\, GDOT Inter
- modal Division\n- Jesse Kallman\, CEO\, Airbus Aerial\n- Gerald McDowell\,
-  Executive Director\, Aerotropolis Atlanta CIDs\n- Cynthia Curry\, Directo
- r\, IoT / AI / Smart Cities Ecosystem Expansion\, Metro Atlanta Chamber (m
- oderator)\n\n12:30-1:15pm - Networking Lunch\n\n1:15-1:30pm - Opportunitie
- s for Georgia\n\n- Brian German\, Langley Associate Professor\, Aerospace 
- Engineering\, Georgia Institute of Technology\n- Debra Lam\, Managing Dire
- ctor\, Smart Cities and Inclusive Innovation\, Georgia Institute of Techno
- logy\n- ​​​​​​ Laurie Garrow\, Professor of Civil and Environm
- ental Engineering\, Georgia Institute of Technology\n\n1:30-2:45pm - Break
- out groups\n\n2:45-3:00pm - Networking break\n\n3:00 - 3:30pm - Groups Rep
- ort Back\n\n3:30-3:45pm - Closing and next steps\n\n- Brian German\, Langl
- ey Associate Professor\, Aerospace Engineering\, Georgia Institute of Tech
- nology\n\n** A portion of the workshop will be livestreamed by Newsweek:\n
- \nKeynote and Urban Air Mobility: Opportunities and Challenges for Urban a
- nd Regional Aviation (9 am - 11 am):\n\n[1]\n\nWorkshop Organizers: Georgi
- a Institute of Technology\, Georgia Centers for Innovation\, Georgia Chamb
- er of Commerce\, Metro Atlanta Chamber\n\nEmail questions to scii@ipat.gat
- ech.edu.\n\nLinks:\n[0]  http://hg.gatech.edu/node/614678#0\n[1]  https://
- www.youtube.com/watch?v=gY-ZWwCFvnM
-LOCATION:TSRB Auditorium\, 85 5th Street NW\, Atlanta\, GA 30308
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BME Speaker - Sephideh Dolatshahi\, Ph.D.*
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190123T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190123T160000Z
-UID:http://hg.gatech.edu/node/616478#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nStatus: published\n\n“Systems Analysis of Gly
- cosylated Antibodies: Regulation\, Engineering and Functions”\n\nSephide
- h Dolatshahi\, Ph.D.*\nPostdoctoral Associate\nDepartment of Biological En
- gineering\nMassachusetts Institute of Technology\n\nWednesday\, January 23
- \, 2019\n10:00 a.m. – 11:00 a.m.\nHealth and Sciences Research Building\
- , E160\n\nVideoconference\nGeorgia Tech: Whitaker Bldg 3115\; TEP\, stream
-  from your PC (no conf. room)\nhttps://bluejeans.com/809850842\n\nABSTRACT
- \n\nN-linked glycosylation is a post-translational modification that affec
- ts potency\, safety\, immunogenicity\, immune effecto functions\, and clea
- rance of various classes of therapeutic proteins including antibodies. The
- se modifications are shaped by cellular and enzyme-mediated processes\, re
- gulated at both transcriptional and metabolic levels. Understanding how th
- ese processes operate dynamically will be vital to designing the most effe
- ctive therapeutics for various treatment applications\, but at the present
-  time principled insights are limited due to the complexity of contributin
- g factors. I will describe a systems biology approach that includes multi-
- dimensional omics analyses and mathematical modeling to develop a mechanis
- tic understanding of N-glycosylation of antibodies produced during fed-bat
- ch cultures of producer cells\, generating new insights that offer opportu
- nities for more precise control of N-glycosylation. The functional role of
-  glycosylation will then be probed in a representative study\, where selec
- tive transfer of antibodies with di-galactosylated Fc-glycan profiles acro
- ss the placenta from mothers to newborns is observed. This additional work
-  can provide critical information for the design of next generation matern
- al vaccines that can be engineered to elicit antibodies giving enhanced im
- munity in neonates.\n\nBIOGRAPHY\n\nSepideh Dolatshahi is a Postdoctoral F
- ellow\, working with Prof. Doug Lauffenburger in the Department of Biologi
- cal Engineering at MIT. She received her Ph.D. in 2015 from Georgia Instit
- ute of Technology under the supervision of Prof. Eberhard Voit\, where she
-  developed advanced methodologies for the modeling of metabolic pathway sy
- stems based on time series data. Her primary research interests are system
- s biology of immune regulation and immunotherapies\, and inter-species tra
- nslation of cellular processes in animals to those in humans.\n\nHost: Hee
-  Cheol Cho\n\nLinks:\n[0]  http://hg.gatech.edu/node/616478#0
-LOCATION:HSRB\, E160 \; Videoconference Georgia Tech: Whitaker Bldg 3115\;
-  TEP\, stream from your PC (no conf. room) https://bluejeans.com/809850842
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ECE Career Fair Spring 2019 (Day 2 of 2)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190123T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190123T210000Z
-UID:http://hg.gatech.edu/node/615805#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
- aduate students\nExtras: Free food\nStatus: published\n\nTake advantage of
-  this chance to meet with representatives from both local and national com
- panies to discuss career opportunities specifically related to electrical 
- engineering and computer engineering. Participating companies may have ful
- l-time\, part-time\, co-op\, or internship opportunities available at the 
- undergraduate or graduate level.\n\nLinks:\n[0]  http://hg.gatech.edu/node
- /615805#0\n[1]  http://www.ece.gatech.edu/careerfair/recruiters.html\n[2] 
-  http://www.ece.gatech.edu/careerfair/students.html\n[3]  https://www.ece.
- gatech.edu/ece-career-fair-0
-LOCATION:Klaus Atrium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SCL January 2019 Supply Chain Day
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190123T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190123T190000Z
-UID:http://hg.gatech.edu/node/614874#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
- aduate students\nStatus: published\n\nGeorgia Tech Supply Chain students\,
-  please join us for our second Supply Chain Day of the fall semester! The 
- 3-hour session will host supply chain representatives from AFS\, AGCO\, Am
- ericold\, ASOS\, JB Hunt\, MHC\, XPO Logistics\, APICS Atlanta Chapter\, a
- nd APICS GT Student Chapter who will be on campus to educate supply chain 
- students about their organizations and available employment and networking
-  opportunities.\n\nWe strongly encourage students to act now to seek full-
- time employment\, internships\, and projects (rather than waiting until th
- e end of the semester). Plus\, enjoy a free pizza lunch!\n\nEVENT DETAILS\
- nWhere: ISyE Main Bldg [2]\, 2nd Floor Atrium\n\nWhen: Wednesday\, January
-  23 | 11am - 2pm\n\nWhat: The session will include:\n\n- Networking opport
- unities in the ISyE atrium\n- Food and refreshments\n\nPlease plan on stay
- ing for the duration of the event and bring copies of your resume and busi
- ness cards. Dress is business casual.\n\nREGISTER ONLINE [3] by midnight O
- ctober 26th and upload your resume to be forwarded to the organization rep
- resentatives!\nEVENT SPONSOR\n\nThe event is sponsored through the generos
- ity and support of JP Morgan Chase & Co. [4] and APICS - Atlanta Chapter [
- 5]. APICS is a non-profit educational organization addressing operations m
- anagement and supply chain management issues\, and providing professional 
- development opportunities to its members. APICS Membership is free for ful
- l time students. Join today at [6] and start networking at local APIC Atla
- nta events. Also make sure to stop by the APICS table at the event.\n\nGeo
- rgia Tech Supply Chain students\, please join us for our first Supply Chai
- n Day of the spring semester! The 3-hour session will host supply chain re
- presentatives from AFS\, AGCO\, Amazon\, Americold\, ASOS\, Bricz\, Chaina
- lytics\, JB Hunt\, Llamasoft\, Luxottica\, MHC\, Newell Brands\, OM Partne
- rs\, Opex Analytics\, Pilot Flying J\, The Home Depot\, UPS\, Walmart Tran
- sportation\, XPO Logistics\, APICS Atlanta Chapter\, and APICS GT Student 
- Chapter who will be on campus to educate supply chain students about their
-  organizations and available employment and networking opportunities.\n\nW
- e strongly encourage students to act now to seek full-time employment\, in
- ternships\, and projects (rather than waiting until the end of the semeste
- r). Plus\, enjoy a free pizza lunch!\n\nEVENT DETAILS\nWhere: ISyE Main Bl
- dg [2]\, 2nd Floor Atrium\n\nWhen: Wednesday\, January 23 | 11am - 2pm\n\n
- What: The session will include:\n\n- Networking opportunities in the ISyE 
- atrium\n- Food and refreshments\n\nPlease plan on staying for the duration
-  of the event and bring copies of your resume and business cards. Dress is
-  business casual.\n\nREGISTER ONLINE [3] by midnight January 15th and uplo
- ad your resume to be forwarded to the organization representatives!\nEVENT
-  SPONSOR\n\nThe event is sponsored through the generosity and support of J
- P Morgan Chase & Co. [4] and APICS - Atlanta Chapter [5]. APICS is a non-p
- rofit educational organization addressing operations management and supply
-  chain management issues\, and providing professional development opportun
- ities to its members. APICS Membership is free for full time students. Joi
- n today at [6] and start networking at local APIC Atlanta events. Also mak
- e sure to stop by the APICS table at the event.\n\nLinks:\n[0]  http://hg.
- gatech.edu/node/614874#0\n[1]  http://hg.gatech.edu/node/614751#0\n[2]  ht
- tps://www.isye.gatech.edu/about/maps-directions/isye-building-complex\n[3]
-   https://www.scl.gatech.edu/supplychainday/students\n[4]  https://www.jpm
- organchase.com/\n[5]  http://www.apicsatlanta.org/\n[6]  http://www.apics.
- org/join\n[7]  http://bit.ly/isye-complex\n[8]  https://www.scl.gatech.edu
- \n[9]  https://www.scl.gatech.edu/supplychainday
-LOCATION:ISyE Main Bldg\, 2nd Floor Atrium and Executive Classroom 228
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED - Verizon Connect Day on Campus
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190123T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190124T010000Z
-UID:http://hg.gatech.edu/node/615301#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nCancelled\n\nDay in th
- e Lobby\nBring your resume and come chat with recruiters from Verizon Conn
- ect in the College of Computing commons anytime between 11am and 4pm.\n\nC
- an't make it in the morning or really want to be considered for their team
- ?\n\nTech Talk\nJoin them in the College of Computing Building\, Room 17\,
-  from 6:30pm – 8pm to learn about their innovative technology!\n\nFree f
- ood will be provided if you come early!\n\nBe part of something\nexception
- al\nYou’re good at what you do\, so it makes sense you want to work for 
- a company that helps you realize your full potential. As part of Verizon C
- onnect\, your talents will impact thousands of customers around the world.
-  You’ll be making a real difference in the everyday lives of people ever
- ywhere.\n\nSearch open jobs [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/
- 615301#0\n[1]  https://www.verizon.com/about/work/search/jobs?q=VZConnect\
- n[2]  https://www.verizonconnect.com/company/careers/
-LOCATION:11-4pm CCB commons & 6:30pm – 8pm CCB 17
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Petit Institute Core Facilities Lunch and Learn Seminar
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190123T180000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190123T190000Z
-UID:http://hg.gatech.edu/node/616553#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \nStatus: published\n\nAmnis® Imaging Flow Cytometry for Insightful Cellu
- lar Analysis\nLunch and Learn: Fl ow Cytometry with Vision\n\nMeeting Agen
- da:\n\n- Core Technology Overview\n- Nuclear Translocation\n- Rare Event\n
- - Internalization\n- Colocalization\n- Small Particle Analysis\n\n*Lunch w
- ill be provided* Please send RSVP to: Rob Dell’Orco- rdellorco@luminexco
- rp.com [1]\n\nHOSTED BY:\n\nGeorgia Institute of Technology: Petit Institu
- te Cellular Analysis and Cytometry Core\n\nPRESENTED BY:\n\nDr. Amal El-Ma
- bhouh\, Applications Scientist\n\nRob Dell’Orco\, Amnis Imaging Speciali
- st\n\nLinks:\n[0]  http://hg.gatech.edu/node/616553#0\n[1]  rob dell’orc
- o- rdellorco@luminexcorp.com\n[2]  http://hg.gatech.edu/node/rob dell’or
- co- rdellorco@luminexcorp.com
-LOCATION:Petit Biotechnology Building\, Room 1128 - Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spring TA Orientation - Session 2
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190123T213000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190124T003000Z
-UID:http://hg.gatech.edu/node/613594#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nAre you a new GTA or UTA? In this
-  essential introduction to your role as a TA\, you will learn about your n
- ew responsibilities\, the policies that govern your work\, and useful tool
- s to use in your course. Led by a team of experienced TA Fellows\, TAO is 
- an engaging introduction to life as a TA at Georgia Tech. Check with your 
- department to find out if your attendance at this event is mandatory.\n\nR
- EGISTER [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/613594#0\n[1]  http:
- //ctl.gatech.edu/content/spring-2018-teaching-assistant-orientation-tao\n[
- 2]  http://ctl.gatech.edu/grad-students/teaching-assistants
-LOCATION:Student Center Ballroom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Industry Lunch with Solvay and Grad SWE
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190124T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190124T164500Z
-UID:http://hg.gatech.edu/node/616652#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nGrad Society of Women Engineers would like to invite
-  all interested parties to come attend our first industry lunch of the spr
- ing semester with Solvay! Solvay isn’t just a materials and chemical com
- pany. Solvay is involved in a variety of industries\, from aerospace\, to 
- food\, to biomedical devices\, to building and construction! They work wit
- h their partners to help improve efficiency\, and formulate new solutions.
-  They need a variety of professionals to help them\, from engineers to bus
- iness managers.\n\nIf you’re interested in learning more about Solvay\, 
- or are interested in a particular aspect of their work\, come join us for 
- lunch. Doors will open at 10:45am. Lunch will be guaranteed for the first 
- 25 individuals who RSVP.\n\nHope to see you there!\n\nLinks:\n[0]  http://
- hg.gatech.edu/node/616652#0\n[1]  https://goo.gl/forms/7aGQawddLssj3sfk1
-LOCATION:Room 126\, ISyE Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GTPN Seminar Lecture Series with Professor Melissa Grunlan
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190124T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190124T170000Z
-UID:http://hg.gatech.edu/node/616222#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nAbstract\n\nIn this seminar\, polymer network architecture is shown to b
- e leveraged to achieve biomaterial functionality in two applications: self
- -fitting shape memory scaffolds (to treat irregular bone defects) and synt
- hetic cartilage.\n\nShape memory polymer (SMP) scaffolds were prepared hav
- ing the capacity to conformally “self-fit” into and eventually heal ir
- regular bone defects. Initially\, porous scaffolds were prepared via photo
- crosslinking of poly(ε-caprolactone) (PCL) diacrylate using a solvent cas
- ting/particulate leaching (SCPL) method employing a fused salt template. F
- ollowing exposure to warm saline at T > Ttrans ( Ttrans = Tm of PCL)\, the
-  scaffold became malleable and could be pressed into an irregular model de
- fect. Subsequent cooling caused the scaffold to lock in its temporary shap
- e within the defect. More recently\, to tune mechanical and degradation pr
- operties\, SMPs are formed as semi-interpenetrating networks (semi-IPNs) c
- omprised of a cross-linked PCL-DA network and thermoplastic poly(L-lactic 
- acid) (PLLA). The influence of PLLA (PCL:PLLA weight % ratio) and PCL-DA m
- olecular weight (n) and architecture were investigated.\n\nHydrogels are d
- esirable candidates for cartilage replacement due to their high water cont
- ent and lubricity but are limited in their mechanical properties. We evalu
- ated a double network (DN) hydrogel composed of a poly(2-acrylamido-2-meth
- ylpropane sulfonic acid) (PAMPS) 1st network and a poly( N -isopropylacryl
- amide- co -acrylamide) [P(NIPAAm- co -AAm)] 2nd network. These PNIPAAm-bas
- ed DNs demonstrated remarkably high compressive strength (~25 MPa) while m
- aintaining a cartilage-like modulus (~1 MPa) and hydration (~80%). By dire
- ctly comparing to healthy cartilage (porcine)\, we confirmed that these me
- mbranes were not only able to parallel the strength\, modulus and hydratio
- n of native articular cartilage but also exhibited a 50% lower coefficient
-  of friction.\n\nThe Speaker\n\nMelissa Grunlan is a Professor of Biomedic
- al Engineering at Texas A&M University (TAMU) and Holder of the Charles H.
-  and Bettye Barclay Professorship in Engineering and Presidential Impact F
- ellow. She holds courtesy appointments in the Department of Materials Scie
- nce & Engineering and the Department of Chemistry. Prof. Grunlan obtained 
- a B.S. in Chemistry and M.S. in Polymers in Coatings from North Dakota Sta
- te University and a Ph.D. in Chemistry from the University of Southern Cal
- ifornia. Her work is focused on the development of synthetic polymeric bio
- materials for implanted medical devices and for regenerative engineering. 
- She currently serves as Chair of the American Chemical Society Division of
-  Polymeric Materials: Science Engineering and Deputy Director of the PATHS
- -UP NSF ERC. Professor Grunlan was elected to the American Institute for M
- edical and Biological Engineering (AIMBE) in 2018. She was also awarded a 
- Royal Academy of Engineering Distinguished Visiting Fellowship in 2015.\n\
- n[1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/616222#0\n[1]  http://grunl
- anlab.tamu.edu/\n[2]  http://stami.gatech.edu
-LOCATION:Molecular Science and Engineering Building Room 3201A
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:OneTrust Day on Campus
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190124T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190125T010000Z
@@ -404,80 +39,6 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  www.onetrust.com/careers/?gh_jid=1381427\n[11]  https://www.onetrust.com/c
  areers/?gh_jid=1381526\n[12]  https://www.onetrust.com/careers/
 LOCATION:11-4pm CCB commons & 6:30pm – 8pm Klaus 1443.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exploring the Use of Canvas Tools for Active Learning
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190124T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190124T180000Z
-UID:http://hg.gatech.edu/node/615652#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Postdoc\nExtras: Free food\
- nStatus: published\n\nNow that Canvas has become fully integrated as Georg
- ia Tech’s new learning platform\, how can you use it to engage students 
- more actively in your course? Join your colleagues to explore the variety 
- of tools that Canvas offers to help you teach effectively. And\, if you te
- ach large classes\, find out how you can scale activities to use the techn
- iques with ease.\n\nIn this workshop we'll take a look at the research beh
- ind the use of digital tools for active learning\, and explore the ways yo
- u can use Canvas to help your students master your course content. Though 
- this is not a technical training on how to use Canvas\, we encourage you t
- o bring along a laptop so that you can participate in hands-on activities 
- designed to explore the Canvas tools. You'll get a chance to practice usin
- g Canvas to create your own Active Learning activities--and be ready to us
- e Canvas to engage your students this term!\n\nFollow this link to registe
- r. [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/615652#0\n[1]  http://ctl
- .gatech.edu/content/exploring-use-canvas-tools-active-learning
-LOCATION:Peachtree Room\, Student Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GVU Center Brown Bag: Kinnis Gosha\, "Using Conversational Agents 
- to Broaden Participation in Computing"
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190124T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190124T180000Z
-UID:http://hg.gatech.edu/node/616587#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nExtras: Free food\nStatus: published\n\nAbstract
- :\n\nConversational agents such as Alexa and Siri have brought this type o
- f technology to the everyday household. However\, these agents also provid
- e a unique opportunity to provide mentoring and advisement to individuals 
- in ways that cannot be accomplished by traditional human-to-human interact
- ions. This presentation will provide details on multiple projects (in prog
- ress and completed) that leverage various types of conversational agents t
- o address issues in the area of broadening participation in computing.\n\n
- Speaker Bio:\n\nDr. Kinnis Gosha [1] (Go-Shay) is an Assistant Professor i
- n the Department of Computer Science and Director of the Culturally Releva
- nt Computer Lab at Morehouse College. He is also an Affiliate Assistant Pr
- ofessor in the School of Interactive Computing at Georgia Tech. Dr. Gosha
- ’s research interests include conversational agents\, social media data 
- analytics\, computer science education\, broadening participation in compu
- ting and culturally relevant computing. More specifically\, Gosha's passio
- n lies in his research in virtual mentoring where he has several peer-revi
- ewed research publications. Gosha's Culturally Relevant Computing Lab is c
- omprised of mostly undergraduate researchers each year from Morehouse Coll
- ege\, Spelman College and Clark Atlanta University. The lab investigates r
- esearch problems centered on creating innovative computing technologies to
-  solve cultural problems and issues. To date\, Dr. Gosha has accrued over 
- $7.6 million dollars in sponsored research funding and over 45 peer review
- ed research publications. Lastly\, his lab is responsible for producing on
- e out of five Black male students currently enrolled in computing doctoral
-  programs.\n\nLinks:\n[0]  http://hg.gatech.edu/node/616587#0\n[1]  http:/
- /kinnisgosha.com/\n[2]  http://www.tsrb.gatech.edu/
-LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
- a\, Ga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:International Opportunities Open House
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190124T183000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190124T210000Z
-UID:http://hg.gatech.edu/node/615594#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
- aduate students\nExtras: Free food\nStatus: published\n\nCome learn about 
- the ways you can go abroad while earning academic credit through GT! Find 
- out what study abroad programs work best for you major\, speak with adviso
- rs from study and intern abroad\, and interact with GT students who have s
- tudied/interned all over the world. While you're at it\, enjoy some free f
- ood! Deadlines for studying abroad in summer/fall 2019 begin in February.\
- n\nLinks:\n[0]  http://hg.gatech.edu/node/615594#0
-LOCATION:Student Center Piedmont Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:International Night at Tech Rec
@@ -31814,6 +31375,26 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Flag\, 117
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MedShare LLC Wide Community Service Event (Explore residents & Leg
+ acies only!)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200125T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200125T200000Z
+UID:https://gatech.campuslabs.com/engage/event/5273003
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nWant to make a global i
+ mpact?! 2 million new mothers see their newborns die every year. We can ch
+ ange that!\n\nJoin your peer LLCs Grand Challenges\, Explore\, Honors\, Im
+ pact\, and Global Leadership for a cross-campus service event on Saturday\
+ , January 25th on West Campus starting at 10am in the West Commons Classro
+ om. We will have breakfast for you at check in! The MedShare presentation 
+ starts at 10:45 so please arrive by 10:20am at the latest. Spots are limit
+ ed\, so sign up quickly to reserve your spot!\n\nIf you have any questions
+ \, please reach out to Michelle Canales | Explore Coordinator @ michelle.c
+ anales@gatech.edu [1] or Amelia Szabo | Student Assistant @ amelia.szabo@g
+ atech.edu [2].\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/
+ 5273003\n[1]  michelle.canales@gatech.edu\n[2]  amelia.szabo@gatech.edu
+LOCATION:West Commons Classroom
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Udta India | Sankranti and Republic Day Celebrations
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200126T193000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200126T220000Z
@@ -31890,6 +31471,21 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Krone Engineered Biosystems Building\, Room 1005 - Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AIESEC Info Session
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200127T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200128T000000Z
+UID:http://hg.gatech.edu/node/631662#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\, Freebies\nStatus: published\n\nCome learn more about 
+ how you can go abroad with AIESEC! We will be going over some of the many 
+ opportunities open to students and how to get there. Join us for a fun-fil
+ led hour of free food\, giveaways\, and the opportunity to talk to previou
+ s exchange participants.\n\nLinks:\n[0]  http://hg.gatech.edu/node/631662#
+ 0\n[1]  https://gatech.campuslabs.com/engage/event/5508616\n[2]  http://ai
+ esecus.org
+LOCATION:Kendeda Building Room 210
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Omega Phi Alpha Service Nights
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200127T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200128T000000Z
@@ -31950,6 +31546,23 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  u/node/629893#0
 LOCATION:Marcus Nanotechnology Building 1116-1118 | 345 Ferst Drive | Atla
  nta GA | 30332
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reports from the Future Symposium
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200128T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200128T230000Z
+UID:http://hg.gatech.edu/node/631563#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
+ aduate students\nStatus: published\n\nAt the Reports from the Future Sympo
+ sium\, Georgia Tech students--who will pretend that it is the year 2029--w
+ ill travel back in time to tell us about society’s progress in achieving
+  the United Nations Sustainable Development Goals\, including Goal #2: Zer
+ o Hunger\, Goal #3: Good Health and Well-Being\, and Goal #15: Life on Lan
+ d. Students will cover their topics in 15-minute “TED talk” style pres
+ entations. Come get a glimpse of the future!\n\nLight refreshments will be
+  served from 4:00 to 4:30\; presentations will be delivered from 4:30 to 5
+ :30.\n\nLinks:\n[0]  http://hg.gatech.edu/node/631563#0
+LOCATION:Scheller College of Business Room 312
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Society of Women Engineers General Body Meeting
@@ -32280,6 +31893,41 @@ DESCRIPTION:Intended audience: Graduate students\, Postdoc\, Undergraduate
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Underwater Flight of the Pteropod
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200131T200000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200131T210000Z
+UID:http://hg.gatech.edu/node/631556#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nStatus: published\n\nGA Tech Ocean Science and 
+ Engineering Presents Dr. Donald R. Webster\, GA Tech School Civil and Envi
+ ronmental Engineering\nUnderwater Flight of the Pteropod\n\nThe swimming c
+ haracteristics achieved by flapping wings\, translating motion\, and shell
+  pitching are studied from observations of shelled Antarctic pteropods (aq
+ uatic snails nicknamed `sea butterfies'). A portable tomographic particle 
+ image velocimetry (tomo-PIV) system was used to study these pteropods (Lim
+ acina helicina antarctica) swim with a pair of parapodia (or “wings”) 
+ via a unique flapping propulsion mechanism that incorporates similar techn
+ iques as observed in small flying insects.\n\nThe swimming velocity is typ
+ ically 14 – 30 mm/s for pteropod size ranging 1.5 – 5 mm\, and the pte
+ ropod shell pitches forward-and-backward at 1.9 – 3 Hz. The pitching mot
+ ion of the shell effectively positions the parapodia such that they flap d
+ ownwards during both power and recovery strokes. The tomo-PIV measurements
+  reveal the influence of the vortex structure created and shed from the pa
+ rapodia on the generated lift forces.\n\nThe non-dimensional variables cha
+ racterizing the motion of swimming pteropods are flapping\, translating\, 
+ and pitching Reynolds numbers (i.e. Ref\, ReU\, and ReΩ). The observed sp
+ ecimens swim within the same optimal Strouhal number range as observed for
+  a broad range of species in air and water. The complex combination of bod
+ y kinematics\, flow structures\, and resulting force balance may be signif
+ icantly altered by thinning of the pteropod shell\, thus making pteropods 
+ an indicator of the detrimental effects of ocean acidification.\n\nWebinar
+  Link also available\nhttps://global.gotomeeting.com/join/811813909\nUnite
+ d States: +1 (646) 749-3122\nAccess Code: 811-813-909\n\nLinks:\n[0]  http
+ ://hg.gatech.edu/node/631556#0
+LOCATION:Ford Environmental\, Science & Technology (ES&T) Building\, Rm. L
+ 1255\, 3pm
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TEDxGeorgiaTech Student Speaker Series
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200131T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200201T010000Z
@@ -32507,6 +32155,20 @@ DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nInstitu
 LOCATION:Student Success Center- President’s Suites C and D
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ivan Allen Cup: Karaoke
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200206T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200206T020000Z
+UID:http://hg.gatech.edu/node/631551#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
+ aduate students\nStatus: published\n\nThe first event in the 2020 Ivan All
+ en Cup is karaoke at Under the Couch on Wednesday\, February 5th\, from 7-
+ 9PM. This event will have FREE PIZZA and faculty judges! It is a drop-in a
+ t any time event. RSVP [1].\n\nLinks:\n[0]  http://hg.gatech.edu/node/6315
+ 51#0\n[1]  https://docs.google.com/forms/d/e/1FAIpQLSe1XnxwBV-Evi81p47OeTS
+ 8VKf5OBcRiJLqG24ubxcW5xnThQ/viewform
+LOCATION:Under the Couch
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dining & Sustainability!
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200206T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200206T164500Z
@@ -32529,6 +32191,22 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
  , Undergraduate students\nExtras: Free food\nStatus: published\n\nLinks:\n
  [0]  http://hg.gatech.edu/node/631131#0
 LOCATION:Mason 1133
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCPC presents Take-A-Prof
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200206T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200206T180000Z
+UID:http://hg.gatech.edu/node/631485#0
+DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nThe Stu
+ dent Center Programs Council invites you to the 117th Take-A-Prof!\n\nStar
+ t 2020 off right by inviting a professor\, RA/PL\, TA\, or mentor out to a
+  lunch inspired by the Roaring 20s.\n\nTake-A-Prof will take place on Thur
+ sday\, February 6th from 11 AM to 1 PM in the Student Center Peachtree Roo
+ m. Tickets are $4 per person ($8 for you and your guest) and can be purcha
+ sed at [1].\n\nEmail us at homecoming@scpc.gatech.edu if you have any ques
+ tions\, comments\, or concerns.\n\nLinks:\n[0]  http://hg.gatech.edu/node/
+ 631485#0\n[1]  http://bit.ly/takeaprofspr20
+LOCATION:Student Center Peachtree Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wikipedia as a Teaching Tool That Empowers Students
@@ -32810,6 +32488,20 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Klaus 1116
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ivan Allen Cup: Bowling
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200212T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200212T020000Z
+UID:http://hg.gatech.edu/node/631552#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
+ aduate students\nStatus: published\n\nThe second event in the Ivan Allen C
+ up competition is bowling at Tech Rec in the Student Center on February 11
+ th\, from 7-9PM. There will be FREE PIZZA and bowling! Drop by whenever yo
+ u are free. RSVP [1].\n\nLinks:\n[0]  http://hg.gatech.edu/node/631552#0\n
+ [1]  https://docs.google.com/forms/d/e/1FAIpQLSe1XnxwBV-Evi81p47OeTS8VKf5O
+ BcRiJLqG24ubxcW5xnThQ/viewform
+LOCATION:Tech Rec (Student Center)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Velocity Worship Service
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200212T003000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200212T013000Z
@@ -33042,6 +32734,16 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome out to our general
   be provided so come to Klaus 1443 at 11 AM on Thursday\, February 20!\n\n
  Links:\n[0]  https://gatech.campuslabs.com/engage/event/5460262
 LOCATION:Klaus 1443
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Faculty & Staff Art Exhibit closing reception
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200220T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200220T170000Z
+UID:http://hg.gatech.edu/node/631492#0
+DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\nStatus: p
+ ublished\n\nLinks:\n[0]  http://hg.gatech.edu/node/631492#0\n[1]  https://
+ arts.gatech.edu/faculty-and-staff-art-exhibit
+LOCATION:Ferst Center for the Arts\, Richards Gallery
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Food Distribution Volunteering
@@ -33413,6 +33115,24 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome by the BCM for FRE
  ing from 10 PM - 2 AM and all are welcome to stop by!\n\nLinks:\n[0]  http
  s://gatech.campuslabs.com/engage/event/5441686
 LOCATION:Baptist Student Union
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grandparents & Friends Day
+DTSTART;VALUE=DATE:20200307
+DTEND;VALUE=DATE:20200308
+UID:http://hg.gatech.edu/node/631526#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nGT Parent & Family Programs is proud to announce a n
+ ew event for families - Grandparents & Friends Day! Grandparents of Georgi
+ a Tech students\, as well as family or family friends of Georgia Tech stud
+ ents\, are invited to join their GT students for a special afternoon on ca
+ mpus. Events include an Atlanta bus tours\, campus tours\, a luncheon with
+  guest speaker\, and a GT baseball game.\n\nGrandparents & Friends Day reg
+ istration is now open and will close on Monday\, March 2 at Noon (EST).\n\
+ nClick here to learn more about registration [1].\n\nLinks:\n[0]  http://h
+ g.gatech.edu/node/631526#0\n[1]  https://parents.gatech.edu/content/grandp
+ arents-friends-day-registration
+LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Food Distribution Volunteering
@@ -34293,6 +34013,42 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  sident@gmail.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/624549#23\n
  [1]  swepresident@gmail.com\n[2]  https://www.facebook.com/GeorgiaTechSWE/
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2020 BIO Vendor Showcase @ Georgia Tech
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200415T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200415T180000Z
+UID:http://hg.gatech.edu/node/631480#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \nStatus: published\n\nThe Parker H. Petit Institute for Bioengineering an
+ d Bioscience\, with the Bioengineering and Bioscience Unified Graduate Stu
+ dent group (BBUGS)\, will host a BIO Vendor Showcase at Georgia Tech. 25+ 
+ plus companies will be on hand to display and demonstrate their equipment 
+ and research techniques thereby offering a great opportunity for faculty a
+ nd staff to learn about new products as well. Donated items by vendors wil
+ l be raffled for attendees throughout the showcase.\n\nINFO\n\nReservation
+ s are available for exhibit tables for purchase by credit card. Vendor reg
+ istration is for first floor tables only - $200 - one table per company. R
+ egistration and payment must be received before reservation can be confirm
+ ed.\n\nIf you are a vendor who prefers to pay by check\, please contact Fl
+ oyd Wood for instructions on this process.\n\nFood will be served througho
+ ut the event to maximize exposure. All companies are asked to donate an it
+ em to be raffled off. Note: these raffles will take place throughout the e
+ vent.\n\nThe following will be provided to vendor participants:\n\n- adver
+ tising and marketing for the event\n- 6 ft. table - arranged alphabeticall
+ y by company name\n- free parking in Parking Area 5 Visitor's Deck\n- comp
+ limentary lunch\n\n**All vendor registration fee proceeds are used to supp
+ ort the annual operations of the Bioengineering and Bioscience Unified Gra
+ duate Students (BBUGS).\n\nThe Parker H. Petit Institute for Bioengineerin
+ g and Bioscience\, an internationally recognized hub of multidisciplinary 
+ research at the Georgia Institute of Technology\, brings engineers\, scien
+ tists\, and clinicians together to solve some of the world’s most comple
+ x health challenges. With 19 research centers\, more than 200 faculty memb
+ ers\, and $24 million in state-of-the-art facilities\, the Petit Institute
+  is translating scientific discoveries into game-changing solutions to sol
+ ve real-world problems.\n\nLinks:\n[0]  http://hg.gatech.edu/node/631480#0
+ \n[1]  http://petitinstitute.gatech.edu/
+LOCATION:Petit Biotechnology Building\, Atrium - Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SCL IRC Seminar: Interpreting GPS Generated By Logistics Operation
