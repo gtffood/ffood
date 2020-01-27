@@ -2,251 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:OneTrust Day on Campus
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190124T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190125T010000Z
-UID:http://hg.gatech.edu/node/615516#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\, Freebies\nStatus: published\n\nDay in the Lobby\
- nBring your resume and come chat with recruiters from OneTrust in the Coll
- ege of Computing commons anytime between 11am and 4pm.\n\nCan't make it in
-  the morning or really want to be considered for their team?\n\nTech Talk 
- - Privacy: The New Trade War\nJoin them in Klaus 1443 from 6:30pm – 8pm!
- \n\nOur TechTalk will be focused on how changes in technology have impacte
- d our privacy as individuals. We will dive into the differences on securit
- y and privacy\, breaches\, the new trade war prompted by GDPR\, and what a
-  technical career in privacy looks like.\n\nFree food will be provided if 
- you come early!\n\nWork at OneTrust\nOneTrust is leading the way in defini
- ng the technology market in the industry of data privacy. We have the stro
- ngest combination of deeply rooted expertise and technology experience to 
- help organizations responsibly manage personal data. As a result\, OneTrus
- t is growing fast\, globally. We are looking for the right people to fill 
- key roles – we’d love to hear from you.\n\nWe have all of our openings
-  posted on CareerBuzz\, but here are the links directly to our careers pag
- e:\n\nFull Time:\n\n- Software QA Analyst [01]\n- UI Developer [02]\n- UX 
- Designer [03]\n- Application Support Engineer [04]\n- Technical Implementa
- tion Consultant [05]\n\nSummer Interns:\n\n- Software QA Analyst (Manual) 
- Intern [06]\n- UI Developer Intern [07]\n- Java Developer Intern [08]\n- U
- X Designer Intern [09]\n- Automation Engineer Intern [10]\n- Professional 
- Services Intern [11]\n\nLinks:\n[00]  http://hg.gatech.edu/node/615516#0\n
- [01]  https://www.onetrust.com/careers/?gh_jid=1343893\n[02]  https://www.
- onetrust.com/careers/?gh_jid=1343874\n[03]  https://www.onetrust.com/caree
- rs/?gh_jid=1343889\n[04]  https://www.onetrust.com/careers/?gh_jid=1343751
- \n[05]  https://www.onetrust.com/careers/?gh_jid=1343745\n[06]  https://ww
- w.onetrust.com/careers/?gh_jid=1381862\n[07]  https://www.onetrust.com/car
- eers/?gh_jid=1381448\n[08]  https://www.onetrust.com/careers/?gh_jid=13814
- 56\n[09]  https://www.onetrust.com/careers/?gh_jid=1381469\n[10]  https://
- www.onetrust.com/careers/?gh_jid=1381427\n[11]  https://www.onetrust.com/c
- areers/?gh_jid=1381526\n[12]  https://www.onetrust.com/careers/
-LOCATION:11-4pm CCB commons & 6:30pm – 8pm Klaus 1443.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:International Night at Tech Rec
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190124T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190125T010000Z
-UID:http://hg.gatech.edu/node/616333#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nInternational Night at
-  Tech Rec is an event sponsored by OIE and Georgia Tech International Amba
- ssadors. This fun night is full of coffee\, tea\, food\, and lots of inter
- esting conversation and fun activities. OIE has rented out the entire Tech
-  Rec! Bowling\, billiards\, video games and air hockey will be free to all
-  students in attendance. This event are a great way for new students to me
- et friends from both the U.S and returning from abroad! All students are w
- elcome.\n\nInternational Night at Tech is a fun night full of coffee\, tea
- \, food\, and lots of interesting conversation and fun activities. OIE has
-  rented out the entire Tech Rec! Bowling\, billiards\, video games and air
-  hockey will be free to all students in attendance. This event are a great
-  way for new students to meet friends from both the U.S and returning from
-  abroad! All students are welcome.\n\nLinks:\n[0]  http://hg.gatech.edu/no
- de/616333#0\n[1]  http://hg.gatech.edu/node/615374#0\n[2]  http://oie.gate
- ch.edu
-LOCATION:Student Center\, Tech Rec
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Career Services: Navigating the Career Fair Workshop
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190124T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190125T010000Z
-UID:http://hg.gatech.edu/node/614499#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nYou will have an opportunity to c
- reate or finesse your elevator pitch\, learn how to work the career fair f
- loor\, and how to communicate your career plan with recruiters\, engineers
- \, and hiring managers. By the end of the workshop you will be able to pre
- sent yourself professionally to employers and prepare a game plan for care
- er fair success.\n\nLinks:\n[0]  http://hg.gatech.edu/node/614499#0
-LOCATION:CCB 017
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ivan Allen College Graduate Student Paper Conference (Lunch and Af
- ternoon Reception)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190125T133000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190125T223000Z
-UID:http://hg.gatech.edu/node/609757#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nStatus: published\n\nAll faculty\, staff\, and 
- students at Georgia Tech and guests are welcome to attend the fifth annual
-  IAC Graduate Student paper conference scheduled for Friday\, January 25\,
-  2019\, from 8:30 a.m. to 5:30 p.m. in Stephen C. Hall Building\, Room 102
- .\n\nRegistration to attend the conference is here [1]. RSVP is mandatory 
- for the catering order.\n\nGraduate students enrolled in Ivan Allen Colleg
- e Liberal Arts graduate courses will present papers at the fifth annual IA
- C graduate student conference\, scheduled for Friday\, January 25\, 2019\,
-  9am-5:30pm\, in Room 102 of the Stephen C. Hall Building (215 Bobby Dodd)
- \, All faculty\, staff\, and students at Georgia Tech and guests are welco
- me to attend.\n\nProgram\n\n9:15 am: Breakfast\n\n9:45 am: Welcome: Mario 
- Bianchini (History and Sociology)\, Chair\, Ivan Allen College Graduate St
- udent Advisory Board\n\n9:55 - 11:15 am: Technology Policies\n\nChair: Ker
- a Allen (History and Sociology)\n\nRoyce Collins (History and Sociology): 
- Discriminatory Technologies and the Federal - Aid Highway Act of 1956\n\nS
- eokbeom Kwon (Public Policy): Does Antitrust Regulation of Patent Monopoly
-  Promote Innovation?\n\nCamila Apablaza (Public Policy): Challenges and Po
- licy Solutions for the Deployment of Alternative Fuels in the Freight Tran
- sportation Sector\n\nSeokkyun Woo (Public Policy): Why Do They Stand on th
- e “Shoulder of the Tumbling Giants"?: Empirical Analysis of Citation Pat
- terns of Scientific Teams Based on Retracted Academic Articles\n\n11:15 - 
- 11:20 am: Break\n\n11:20 am - 12:10 pm: Technical Innovations\n\nChair: Ta
- lia Capozzoli (Public Policy)\n\nDaniel Schiff (Public Policy): Out of the
-  Laboratory and into the Classroom: The Future of Artificial Intelligence 
- in Education\n\nAnthony Harding (Economics): Bright Lights\, Safe Nights?:
-  The Impact of Visibility on Crime\n\n12:10 - 1:30 pm: Lunch\n\n1:30 - 2:3
- 0 pm: Community Problem Solvers and Rabble Rousers\n\nChair: Supraja Sudha
- rsan (Nunn School)\n\nGarrett Bunyak (History and Sociology): “Animalizi
- ng” Others in the U.S.- Mexico Borderlands\n\nKarl Grindal (Public Polic
- y): Artist Collectives as the Origins of Distributed Denial of Service (DD
- oS): The Strano Network to Electronic Disturbance Theater\n\nJoshua Fisher
-  (Digital Media/LMC): Uncovering Creative Affordances for Applied Storytel
- ling with Augmented and Mixed Reality\n\n2:45- 3:45 pm: Sports\, Technolog
- y\, and the Body\n\nChair: Amber Johnson (History and Sociology)\n\nMario 
- Bianchini (History and Sociology): Sport as Technological Consciousness in
-  East Germany\n\nDeclan Abernethy (History and Sociology): Raising the Boo
- m: The NFL\, Rules\, and Biomedicine\n\nLi Zheng (Elise) (History and Soci
- ology): "Self-discipline Brings me Freedom": A Critical Examination of Sel
- f-tracking Through Fitness Apps\n\n3:45-4 pm: Break 4-5 pm: Ubiquitous Com
- puting Applications: Unveiling the Ins and Outs\n\nChair: Adriana Alvarez 
- Garcia (Digital Media/LMC)\n\nSuon Choi (Nunn School): Drone in Bibliometr
- ics: Its Origins and Development\n\nMichael Bivona (History and Sociology)
- : Blowback: Kareem Khan and the Politics of Network Reciprocity\n\nAlyssa 
- Rumsey (Digital Media/LMC): Clearing the Smoke: The Changing Identities an
- d Work in Fire-fighting\n\n5-5:30 pm: Reception\n\nLinks:\n[0]  http://hg.
- gatech.edu/node/609757#0\n[1]  https://docs.google.com/forms/d/e/1FAIpQLSd
- WfUHiUDDbaGjVS1cPB4xu6AbByycZaXmqSXZara0Zbi7yNw/viewform?c=0&w=1\n[2]  htt
- p://iac.gatech.edu
-LOCATION:Stephen C. Hall Building\, Room 102.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IAC CRIDC Graduate Student Paper Conference
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190125T140000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190125T223000Z
-UID:http://hg.gatech.edu/node/616492#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: published\n\nGraduate students enrolled i
- n Ivan Allen College Liberal Arts graduate courses will present papers at 
- the fifth annual IAC graduate student conference\, scheduled for Friday\, 
- January 25\, 2019\, 9am-5:30pm\, in Room 102 of the Stephen C. Hall Buildi
- ng (215 Bobby Dodd)\, All faculty\, staff\, and students at Georgia Tech a
- nd guests are welcome to attend.\n\nProgram\n\n9:15 am: Breakfast\n\n9:45 
- am: Welcome: Mario Bianchini (History and Sociology)\, Chair\, Ivan Allen 
- College Graduate Student Advisory Board\n\n9:55 - 11:15 am: Technology Pol
- icies\nChair: Kera Allen (History and Sociology)\nRoyce Collins (History a
- nd Sociology): Discriminatory Technologies and the Federal - Aid Highway A
- ct of 1956\nSeokbeom Kwon (Public Policy): Does Antitrust Regulation of Pa
- tent Monopoly Promote Innovation?\nCamila Apablaza (Public Policy): Challe
- nges and Policy Solutions for the Deployment of Alternative Fuels in the F
- reight Transportation Sector\nSeokkyun Woo (Public Policy): Why Do They St
- and on the “Shoulder of the Tumbling Giants"?: Empirical Analysis of Cit
- ation Patterns of Scientific Teams Based on Retracted Academic Articles\n\
- n11:15 - 11:20 am: Break\n\n11:20 am - 12:10 pm: Technical Innovations\nCh
- air: Talia Capozzoli (Public Policy)\nDaniel Schiff (Public Policy): Out o
- f the Laboratory and into the Classroom: The Future of Artificial Intellig
- ence in Education\nAnthony Harding (Economics): Bright Lights\, Safe Night
- s?: The Impact of Visibility on Crime\n\n12:10 - 1:30 pm: Lunch\n\n1:30 - 
- 2:30 pm: Community Problem Solvers and Rabble Rousers\nChair: Supraja Sudh
- arsan (Nunn School)\nGarrett Bunyak (History and Sociology): “Animalizin
- g” Others in the U.S.- Mexico Borderlands\nKarl Grindal (Public Policy):
-  Artist Collectives as the Origins of Distributed Denial of Service (DDoS)
- : The Strano Network to Electronic Disturbance Theater\nJoshua Fisher (Dig
- ital Media/LMC): Uncovering Creative Affordances for Applied Storytelling 
- with Augmented and Mixed Reality\n\n2:45- 3:45 pm: Sports\, Technology\, a
- nd the Body\nChair: Amber Johnson (History and Sociology)\nMario Bianchini
-  (History and Sociology): Sport as Technological Consciousness in East Ger
- many\nDeclan Abernethy (History and Sociology): Raising the Boom: The NFL\
- , Rules\, and Biomedicine\nLi Zheng (Elise) (History and Sociology): "Self
- -discipline Brings me Freedom": A Critical Examination of Self-tracking Th
- rough Fitness Apps\n\n3:45-4 pm: Break 4-5 pm: Ubiquitous Computing Applic
- ations: Unveiling the Ins and Outs\n\nChair: Adriana Alvarez Garcia (Digit
- al Media/LMC)\nSuon Choi (Nunn School): Drone in Bibliometrics: Its Origin
- s and Development\nMichael Bivona (History and Sociology): Blowback: Karee
- m Khan and the Politics of Network Reciprocity\nAlyssa Rumsey (Digital Med
- ia/LMC): Clearing the Smoke: The Changing Identities and Work in Fire-figh
- ting\n\n5-5:30 pm: Reception\n\nLinks:\n[0]  http://hg.gatech.edu/node/616
- 492#0
-LOCATION:Room 102\, Stephen C. Hall Building\, Georgia Tech\, 215 Bobby Do
- dd Way\, Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yahoo/Tumblr Day on Campus
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190125T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190125T210000Z
-UID:http://hg.gatech.edu/node/616334#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nDay in the Lobby\nBrin
- g your resume and come chat with recruiters from Yahoo/Tumblr in the Colle
- ge of Computing commons anytime between 11am and 4pm.\n\nFree food will be
-  provided if you come early!\n\nLinks:\n[0]  http://hg.gatech.edu/node/616
- 334#0
-LOCATION:11-4pm CCB commons
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:C.L. Chandler Weather Chat
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190125T161500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190125T170000Z
-UID:http://hg.gatech.edu/node/616574#1
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nStatus: published\n\nEAS will be hosting our wee
- kly C. L. Chandler Weather Chat series again this Spring 2019 semester. Th
- is event is dedicated to Chandler\, who was a meteorologist for Delta Airl
- ines during the mid- to late 20th century and helped to develop one of the
-  most successful meteorological organizations within the airline industry.
- \n\nEvery week from 11:15 a.m. - noon in L1116 of Ford ES&T\, we will have
-  informal discussions about the most exciting weather events impacting Atl
- anta\, the U.S. and beyond that day as well as investigating forecast data
-  to learn more about upcoming significant weather events. Topics range fro
- m discussing major winter storms to severe weather outbreaks\, tropical cy
- clones\, lake-effect storms\, and even small-scale events like dense fog a
- nd mountain weather events.\n\nAll are welcome to attend\, including non-E
- AS majors and the general public. Feel free to bring your lunch as well as
-  a friend or two!\n\nLinks:\n[0]  http://hg.gatech.edu/node/616574#1
-LOCATION:Room L1116\, Ford ES&T Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Marine Microalgae: Climate\, Energy\, and Food Security for the 21
- st Century
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190125T200000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190125T210000Z
-UID:http://hg.gatech.edu/node/616708#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nStatus: published\n\nOcean Science and Engineer
- ing Presents Dr. Charles H. Greene\, Cornell University\nMarine Microalgae
- : Climate\, Energy\, and Food Security for the 21st Century\n\nWebinar Abs
- tract:\n\nThe large-scale industrial production of marine microalgae can p
- rovide a foundation for stabilizing Earth’s climate system while simulta
- neously addressing the global challenges of energy\, food\, and water secu
- rity.\n\nMarine microalgae can profitably meet the projected 2040 global d
- emands for animal feed protein\, vegetable oil\, and liquid transport fuel
- s on approximately 600\,000 km2 of non-arable land\, equivalent to ~6.5% o
- f the Sahara Desert. To meet these demands\, society must invest between n
- ow and 2040 an amount comparable to what it currently invests in generatin
- g electricity.\n\nThe use of algae instead of terrestrial crops and fishme
- al to meet these demands can conserve ~17% of global freshwater consumptio
- n\,~ 34% of wild harvest fisheries\, and ~2.8 million km2 of cropland. By 
- decreasing fossil carbon emissions and land use\, microalgae can account f
- or a reduction of up to 13 GT CO2 year-1 by 2040.\n\nLinks:\n[0]  http://h
- g.gatech.edu/node/616708#0\n[1]  https://bluejeans.com/8973006979
-LOCATION:Ford Environmental\, Science & Technology (ES&T) Building\, Rm. L
- 1175
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Blackbaud Day on Campus
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190128T180000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190128T203000Z
@@ -33437,6 +33192,30 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:GTMI 114
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dinner with OIE advisor Ashlee Flinn
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200323T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200323T233000Z
+UID:http://hg.gatech.edu/node/631670#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nAshlee Flinn\, International Educ
+ ation advisor\, will join us for a dinner about study abroad and exchange 
+ programs. She will also share details about her career path and her curren
+ t position.\n\nLinks:\n[0]  http://hg.gatech.edu/node/631670#0
+LOCATION:Stein House/4th St. A\, Techwood Drive\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WST LRN C Dinner with OIE advisor Ashlee Flinn
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200323T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200323T233000Z
+UID:https://gatech.campuslabs.com/engage/event/5510889
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAshlee Flinn\, Internat
+ ional Education advisor\, will join us for a dinner about study abroad and
+  exchange programs. She will also share details about her career path and 
+ her current position.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage
+ /event/5510889
+LOCATION:Stein House/4th St. A
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nano@Tech: David Myers - Wallace H. Coulter Department of Biomedic
  al Engineering\, Georgia Tech
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200324T160000Z
@@ -33627,6 +33406,21 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  eams\; communication assessment\; communication in the disciplines and pro
  fessions\; intercultural/international communication\; and risk communicat
  ion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/631436#0
+LOCATION:Stein House/4th St. A\, 733 Techwood Dr.\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dinner with Dr. Rebecca Burnett\, Director of Writing and Communic
+ ation and Professor\, Literature\, Media\, and Communication
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200330T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200330T233000Z
+UID:https://gatech.campuslabs.com/engage/event/5510893
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDr. Rebecca Burnett\, D
+ irector of Writing and Communication and Professor in the School of Litera
+ ture\, Media\, and Communication\, will discuss a new approach to career e
+ ssentials (all supported by academic research and industry best practices)
+ . She will share 21 competencies every professional should be able to demo
+ nstrate.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/551089
+ 3
 LOCATION:Stein House/4th St. A\, 733 Techwood Dr.\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
@@ -34196,9 +33990,10 @@ DESCRIPTION:Intended audience: Graduate students\, Public\, Undergraduate
  gia Tech community with accurate and consistent messages regarding sexual 
  violence prevention and response.\n- Engage faculty\, staff\, and administ
  rators in collaborative sexual violence prevention and response activities
-  in order to garner institutional support for a violence-free campus.\n[1]
- \n\nLinks:\n[0]  http://hg.gatech.edu/node/631444#0\n[1]  https://healthin
- itiatives.gatech.edu/well-being/voice
+  in order to garner institutional support for a violence-free campus.\n[2]
+ \n\nLinks:\n[0]  http://hg.gatech.edu/node/631444#0\n[1]  https://gatech.c
+ ampuslabs.com/engage/event/5510900\n[2]  https://healthinitiatives.gatech.
+ edu/well-being/voice
 LOCATION:Stein House/4th St. A\, 733 Techwood\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
