@@ -31964,6 +31964,43 @@ DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nThe Stu
 LOCATION:Student Center Peachtree Room
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GVU Center Brown Bag: Jeff Nichols "Rico and Beyond: A Mobile App 
+ Dataset for Interaction Mining and Machine Learning"
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200206T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200206T180000Z
+UID:http://hg.gatech.edu/node/631733#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nExtras: Free food\nStatus: draft\n\nAbstract:\n\
+ nXXXXXScience journalist Eva Wolfangel has specialized in investigating th
+ e effects of future technologies on society - by accompanying people who a
+ lready make intensive use of these technologies today. She spent weeks und
+ er a VR headset researching social virtual reality\, and she finally visit
+ ed her new "virtual" friends in their real lives in Kuwait\, Israel and va
+ rious US states. These people already spend a large part of their lives in
+  virtual reality - and that is no reason for cultural pessimism. In Japan\
+ , Wolfangel has accompanied researchers working on human augmentation\, an
+ d she has tried out many of these technologies\, met people here who are a
+ lready using them and talked to many about their dream of an augmented fut
+ ure. In this talk\, Eva Wolfangel discusses her research and how future te
+ chnologies are already changing society today.\n\nSpeaker Bio:\n\nEva Wolf
+ angel is a Knight Science Journalism Fellow at MIT. In 2018\, she was name
+ d European Science Writer of the Year by the Association of British Scienc
+ e Writers. She focuses on new technologies such as artificial intelligence
+  and virtual reality\, computer science\, data journalism\, interaction be
+ tween digital and real worlds\, and space travel. Eva’s specialty is to 
+ combine creative writing and technical topics in order to reach a broad au
+ dience. She writes for major magazines and newspapers in Germany and Switz
+ erland\, including Die Zeit\, Geo\, Der Spiegel\, and NZZ\, and also produ
+ ces radio features. As a VR journalist\, she reports from virtual worlds a
+ s part of the journalistic cooperative RiffReporter [Hyperlink to: https:/
+ /www.riffreporter.de/].\n@evawolfangel [Hyperlink to: https://twitter.com/
+ evawolfangel]\n\nSchedule of Brown Bag Speakers Fall 2019 [1]\n\nLinks:\n[
+ 0]  http://hg.gatech.edu/node/631733#0\n[1]  https://www.gvu.gatech.edu/ev
+ ents/upcoming\n[2]  http://www.tsrb.gatech.edu/
+LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
+ a\, Ga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wikipedia as a Teaching Tool That Empowers Students
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200206T170000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200206T180000Z
@@ -32347,6 +32384,29 @@ LOCATION:GTMI 1st floor auditorium OR ISyE Main Building\, 2nd Floor Atriu
  m (to be confirmed 30 days out)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MATLAB Deep Learning OnRamp
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200213T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200214T010000Z
+UID:http://hg.gatech.edu/node/631701#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nStatus: published\n\nMATLAB at Georgia Tech wil
+ l be having its first workshop\, a Deep Learning in MATLAB introduction.\n
+ \nThis is a BYOD event- Bring your own device! Interested in learning more
+  about Deep Learning? Learn the basics of Machine Learning and Image Proce
+ ssing using built in MATLAB Libraries on your own device. We will go over 
+ some basic concepts of machine learning and deep learning and proceed to a
+ pplying them in MATLAB using built in libraries. Feel free to bring friend
+ s and come with questions!\n\nRefreshments will be provided. (Pizza and Dr
+ inks)\n\nHighlights include:\n\n- Learn about implementation of Deep Learn
+ ing\n- Learn to implement Deep Learning in just a few lines of code!\n\nRe
+ gister to attend [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/631701#0\n[
+ 1]  http://https://docs.google.com/forms/d/e/1FAIpQLScE2yZA8ZVRlTI33FIxV7z
+ WYIcpi28vG_KR1YYNvHnhYQJb6Q/viewform?usp=sf_link\n[2]  https://docs.google
+ .com/forms/d/e/1FAIpQLScE2yZA8ZVRlTI33FIxV7zWYIcpi28vG_KR1YYNvHnhYQJb6Q/vi
+ ewform?usp=sf_link
+LOCATION:Room C457\, Van Leer Building
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Career Services Workshop: Thank You Next
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200213T233000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200214T003000Z
@@ -32361,6 +32421,50 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  ode/630491#0\n[1]  https://gatech.co1.qualtrics.com/jfe/form/SV_0kaGQEeQ5I
  ufM8d
 LOCATION:Klaus 1116
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Horizons at Georgia Tech Assistant Teacher Internship application 
+ deadline
+DTSTART;VALUE=DATE:20200214
+DTEND;VALUE=DATE:20200215
+UID:http://hg.gatech.edu/node/631707#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nSUMMARY:\n\nThe Horizons at Georgia Tech Progra
+ m is looking for talented and energetic individuals to work as Intern Assi
+ stant Teachers in a six-week academic enrichment summer program. We are lo
+ oking for professional\, responsible\, and caring individuals. Assistant T
+ eachers work alongside certified lead teachers to implement strategies to 
+ engage scholars in active learning through non-traditional\, hands-on acti
+ vities in our six-week summer program. Horizons Assistant Teachers work wi
+ th approximately 15 scholars in small group and individual instruction in 
+ mathematics\, reading\, and science. A successful Assistant Teacher will e
+ njoy working with youth and as a team player to help fulfill the Horizons 
+ mission.\n\nA typical day may include academics\, arts\, swimming\, breakf
+ ast/lunch and recreational activities. Teaching Assistants will also be re
+ sponsible for bus monitoring\, lunch monitoring\, bus loading/drop off\, a
+ nd pick-up coordination as well as attending all field trips. Other duties
+  may also be required.\n\nTIME:\n\nThe program runs from Monday\, June 8th
+  through Friday\, July 17th and mandatory post planning on Monday\, July 2
+ 0th and Tuesday\, July 21st. Mandatory orientation\, planning and classroo
+ m set-up is scheduled for Monday\, June 1st through Friday\, June 5th. The
+ re will also be a mandatory Horizons Teacher workshop on Saturday\, April 
+ 18th and Family Orientation and Scholar Assessment Day on Saturday\, May 1
+ 6th.\n\nPAY:\n\nAssistant Teacher positions qualify for six internship aud
+ it credit hours and transcript designation through Georgia Tech Pre-Teachi
+ ng advisement if registered through the Georgia Tech Center for Career Dis
+ covery and Development. Interns do not pay tuition or fees for the audit c
+ redit hours. Horizons Georgia Tech provides the funding for the internship
+ s. Assistant Teachers earn $10 hour for 296 hours (total of $2960) for the
+  entire program\, including all trainings.\n\nELIGIBILTY:\n\n• Current G
+ eorgia Tech Student in good academic standing\n\n• Must be available for
+  all six-weeks of the Summer Program\, Staff Orientation\, Planning & Clas
+ s\n\nSet-up\n\n• Must be willing to actively participate with the schola
+ rs during their daily swim lessons\n\n• Swimming ability not required bu
+ t comfort in the pool is\n\n• Must pass a criminal background and sexual
+  predator check\n\nAPPLICATION: attached\n\nApplication deadline: February
+  14\, 2020\n\nSend application and resume to:\n\nNichole Morales at horizo
+ nsgt@gatech.edu\n\nLinks:\n[0]  http://hg.gatech.edu/node/631707#0
+LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Food Distribution Volunteering
@@ -32478,6 +32582,20 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
   those sheets and what they can tell us about hsi working method and his s
  ubject.\n\nLinks:\n[0]  http://hg.gatech.edu/node/630379#0
 LOCATION:Historic Academy of Medicine
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:President's Day President Trivia
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200219T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200220T010000Z
+UID:http://hg.gatech.edu/node/631673#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nThe History and Sociology Club wi
+ ll be hosting a President's Day trivia event with free pizza\, prizes for 
+ the winners\, and voter registration. Register here. [1] You can also subm
+ it questions here [2].\n\nLinks:\n[0]  http://hg.gatech.edu/node/631673#0\
+ n[1]  https://forms.gle/mfG48vFYwVxcEmHy5\n[2]  https://forms.gle/F6rkn4ZM
+ QHYMrJsY6
+LOCATION:Old Civil Engineering Building\, Room 204
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EWH General Body Meeting 02/20
