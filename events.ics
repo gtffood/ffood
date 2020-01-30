@@ -2,168 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Blackbaud Day on Campus
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190128T180000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190128T203000Z
-UID:http://hg.gatech.edu/node/615518#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nDay in the Lobby\nBrin
- g your resume and come chat with recruiters from OneTrust in the College o
- f Computing commons anytime between 1pm to 3:30pm.\n\nCome change the worl
- d with us.\nNamed to Fortune’s Change the World List\, our team of over 
- 3\,000 employees are passionate ​about helping customers use innovative 
- technology to make a difference in the world.​ ​\n\nWhile we are worki
- ng to enable the success of over 40\,000+ customer organizations\, we are 
- enabling the success of our company and our people. We are committed to de
- veloping our employees\, in all professions\, through learning and mentori
- ng programs. And we do it all in an environment that values teamwork\, div
- ersity and philanthropy.​ ​\n\nAt Blackbaud it is possible to change t
- he world and grow your career at the same time. Come found out how.\n\nSea
- rch open careers HERE. [1]\n\nLife at Blackbaud\nWorking at Blackbaud is m
- ore than just a job - it means making an impact in the lives of others eve
- ry day.\n\nOver 40\,000 non-profit customers use Blackbaud’s software an
- d services to drive the missions of their organizations. At Blackbaud\, we
-  are driven by passion for our customers. This passion unites us and drive
- s us to greatness. As part of our team\, you will make breakthrough innova
- tions that push our products forward\, improve our business and delight ou
- r customers. ​ ​\n\nYou will work with people who are like-minded\, pa
- ssionate\, and at the top of their game. You will make an impact.​ Black
- baud is not just another software company. We are proud of our focus on in
- novation and our commitment to delighting the customer. At Blackbaud\, we 
- challenge our employees to ‘B’ the difference and believe we each play
-  a pivotal role in the success of our customers and products.​ ​\n\nDo
-  you have a passion for excellence and achievement? Do you enjoy working i
- n a high-energy environment driven for success? Do you like being on the c
- utting edge of technology? Then Blackbaud wants you!​ ​\n\nLinks:\n[0]
-   http://hg.gatech.edu/node/615518#0\n[1]  https://blackbaud.wd1.myworkday
- jobs.com/ExternalCareers
-LOCATION:1pm-3:30pm CCB commons
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WST Lrn C dinner with Dr. Aby Parsons & Quinn Foster\, presenting 
- Trans 101
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190128T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190129T003000Z
-UID:http://hg.gatech.edu/node/613050#0
-DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\n
- Status: published\n\nRESCHEDULED to Monday\, January 28\, 2019: The Trans 
- 101 workshop for WST Learning Community residents will be conducted by Dr.
-  Aby Parsons\, Director of the Georgia Tech LGBTQIA Center\, and Quinn Fos
- ter. Dinner will be served.\n\nLinks:\n[0]  http://hg.gatech.edu/node/6130
- 50#0
-LOCATION:Study lounge Stein House/4th St. A\, Georgia Tech\, Techwood Dr.\
- , Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LGBTQ+ at Google
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190128T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190129T010000Z
-UID:http://hg.gatech.edu/node/616745#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nWant the inside scoop on the LGBT
- Q+ experience at Google? Want to hear about social good related projects G
- oogle employees are working on? CS for Social Good has the event for you!\
- n\nCome out January 28th to learn from queer professionals and see what Go
- ogle is doing in the space of social good and philanthropy! There\nwill al
- so be time to network and ask questions.\n\nJimmy Johns will be provided!\
- n\nPlease RSVP here to help us plan for the event. [1]\n\nLinks:\n[0]  htt
- p://hg.gatech.edu/node/616745#0\n[1]  https://docs.google.com/forms/d/e/1F
- AIpQLScycrRT2PNSwgnTudUXgvpfVrGCC2evQYzol0b7d58kBeaUQw/viewform\n[2]  http
- s://www.facebook.com/events/543889726126066
-LOCATION:Room 2448\, Klaus Advanced Computing Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED - Nutanix Office Hours
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190129T153000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190129T183000Z
-UID:http://hg.gatech.edu/node/616943#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nCANCELLED\n\nOffice Ho
- urs\nJoin representatives from Nutanix at the Highland Bakery on campus to
-  network\, discuss open career opportunities and learn more about their co
- mpany culture.\n\nLinks:\n[0]  http://hg.gatech.edu/node/616943#0
-LOCATION:Highland Bakery - 224 Uncle Heinie Way Northwest\, Atlanta\, GA 3
- 0313
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ted Talk Tuesdays - January
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190129T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190129T170000Z
-UID:http://hg.gatech.edu/node/616565#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nJoin Health Initiatives for a Ted Talk discussi
- on on topics pertinent to societal influence on health and well-being - BY
- OL (bring your own lunch!) Come and discuss topics including meaning\, pur
- pose\, body image\, and self-compassion.\n\nJanuary 29 - The Power of Vuln
- erability\, Brene Brown\n\nLinks:\n[0]  http://hg.gatech.edu/node/616565#0
- \n[1]  http://healthinitiatives.gatech.edu/ted
-LOCATION:Student Center Room 343
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nobel Laureate Robert Aumann Lecture
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190129T213000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190129T233000Z
-UID:http://hg.gatech.edu/node/616073#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nWhat:\n\n- "Rule-Rationality: A Synthesis of Behavioral and Mainstream E
- conomics"\n\nWho:\n\n- 2005 Nobel Laureate Robert Aumann\, professor\, T [
- 01] he Federmann Center for the Study of Rationality\, Hebrew University o
- f Jerusalem [01]\n\nWhen:\n\n- January 29\, 2019\, 4:30 – 5:30 p.m.\n- R
- eception from 5:30 – 6: 30 p.m. at the Center for Deliberate Innovation 
- [02]\n\nWhere:\n\n- Lecture: Scheller College of Business [03]\, Room 100\
- n- Reception: Center for Deliberate Innovation [04]\n\nDirections and Park
- ing:\n\n- Click here for directions [05] and parking [06]\n- Visitor parki
- ng is also available at Visitors Area 6 Click here for a Parking Map [07]\
- n\nSponsored by:\n\n- Georgia Tech's College of Computing [08]\n- The Scho
- ol of Economics\, Ivan Allen College of Liberal Arts [09]\n- Center for De
- liberate Innovation [02]\n\nRSVP HERE [10]\n\nAbstract:\n\nMainstream econ
- omic theory is based on the rationality assumption: that people act as bes
- t they can to promote their interests. Contrariwise\, behavioral economics
-  holds that people act by behavioral rules of thumb\, often with poor resu
- lts. We propose a synthesis according to which people indeed act by rules\
- , which usually work well\; but in exceptional or contrived scenarios\, ma
- y work poorly. The reason is that like physical features\, behavioral rule
- s have evolved\; and evolution works on the usual\, the common---not the e
- xception\, not the contrived scenario. The upshot is that on the whole\, p
- eople act rationally. The often-heard assertion that "people do not act as
-  economists think" is simply unfounded.\n\nBiography:\n\nRobert Aumann was
-  born in Frankfurt am Main\, Germany\, in 1930\, to a well-to-do orthodox 
- Jewish family. Fleeing Nazi persecution\, he emigrated to the United State
- s with his family in 1938\, settling in New York. In the process\, his par
- ents lost everything\, but nevertheless gave their two children an excelle
- nt Jewish and general education. Aumann attended Yeshiva elementary and hi
- gh schools\, got a bachelor's degree from the City College of New York in 
- 1950\, and a Ph.D. in mathematics from MIT in 1955.\n\nHe joined the mathe
- matics department at the Hebrew University of Jerusalem in 1956\, and has 
- been there ever since. In 1990\, he was among the founders of the Center f
- or Rationality at the Hebrew University\, an interdisciplinary research ce
- nter\, centered on Game Theory\, with members from over a dozen different 
- departments\, including Business\, Economics\, Psychology\, Computer Scien
- ce\, Law\, Mathematics\, Ecology\, Philosophy\, and others.\n\nAumann is t
- he author of over ninety scientific papers and six books\, and has held vi
- siting positions at Princeton\, Yale\, Berkeley\, Louvain\, Stanford\, Sto
- ny Brook\, and NYU. He is a member of the American Academy of Arts and Sci
- ences\, the National Academy of Sciences (USA)\, the British Academy\, and
-  the Israel Academy of Sciences\; holds honorary doctorates from the Unive
- rsities of Chicago\, Bonn\, Louvain\, City University of New York\, Bar Il
- an University\, and Ben Gurion University of the Negev\; and has received 
- numerous prizes\, including the Nobel Memorial Prize in Economic Sciences 
- for 2005.\n\nAumann is married and had five children (the oldest was kille
- d in Lebanon in 1982). Also\, he has twenty-one grandchildren\, and twenty
- -six great-grandchildren. When not working\, he likes to hike\, ski\, cook
- \, and study the Talmud.\n\nLinks:\n[00]  http://hg.gatech.edu/node/616073
- #0\n[01]  http://www.ratio.huji.ac.il/Aumann_Yisrael\n[02]  https://cdi.ga
- tech.edu/\n[03]  https://www.scheller.gatech.edu/index.html\n[04]  https:/
- /cdi.gatech.edu\n[05]  http://https/www.scheller.gatech.edu/why-scheller/v
- isit-campus/directions-parking.html\n[06]  https://www.scheller.gatech.edu
- /why-scheller/visit-campus/directions-parking.html\n[07]  http://pts.gatec
- h.edu/visitors#l3\n[08]  https://www.cc.gatech.edu/\n[09]  https://econ.ga
- tech.edu/\n[10]  https://gatech.co1.qualtrics.com/jfe/form/SV_cA1umP05PzOE
- lE1
-LOCATION:Scheller College of Business\, Room 100
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED - Cisco Networking Night
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190129T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190130T010000Z
@@ -31467,6 +31305,20 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Krone Engineered Biosystems Building\, Room 1005 - Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Transfer Student Association Body Meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200129T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200129T233000Z
+UID:http://hg.gatech.edu/node/631743#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nWe’re Baaaack! Our First Genera
+ l Body Meeting is Next Wednesday at 5:30pm in the Student Center Theater! 
+ This meeting will be centered around networking\, TSA’s mentor/mentee pr
+ ogram\, socializing and of course\, PIZZA!\n\nLinks:\n[0]  http://hg.gatec
+ h.edu/node/631743#0\n[1]  https://gatech.campuslabs.com/engage/organizatio
+ n/transfer-student-association
+LOCATION:Student Center Theater
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Transfer Student Association General Body Meeting
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200129T223000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200130T003000Z
@@ -31477,6 +31329,17 @@ DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nWe’re Ba
  ng\, TSA’s mentor/mentee program\, socializing and of course\, PIZZA!\n\
  nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5475282
 LOCATION:Student Center Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Silicon Labs Info Session
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200130T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200130T164500Z
+UID:https://gatech.campuslabs.com/engage/event/5522911
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome out to enjoy food 
+ from Willy's\, do some networking\, and hear from Silicon Labs about their
+  company and opportunities!\n\nLinks:\n[0]  https://gatech.campuslabs.com/
+ engage/event/5522911
+LOCATION:Van Leer C340
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EWH General Body Meeting 01/30
@@ -31646,6 +31509,34 @@ DESCRIPTION:Intended audience: Graduate students\, Postdoc\, Undergraduate
  form-spring-2020\n[7]  info@arts.gatech.edu\n[8]  https://arts.gatech.edu/
  content/clough-art-crawl
 LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theories for Sustainable Futures - RCE Greater Atlanta - Higher Ed
+ ucation Learning Community (HELC) Research Seminar
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200131T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200131T183000Z
+UID:http://hg.gatech.edu/node/631799#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nRCE Greater Atlan
+ ta Higher Education Learning Community Research Seminar\n\n"Theories for S
+ ustainable Futures"\n\nL A N C E G U N D E R S O N\nProfessor and Chair\, 
+ Department of Environmental Sciences\, Emory University\n\nFriday\, Januar
+ y 31\, 2020\n12 PM to 1:30 PM\n\nAtwood (Chemistry) Center\, Room 360\n151
+ 5 Dickey Drive\, Emory University\n\nDiirections: MARTA service on bus lin
+ es 6 (Clifton Rd and Fishburne Dr) and 36 (to N Decatur Rd and Oxford Rd).
+  Parking at Oxford Rd Parking Deck\, 1390 Oxford Rd\, Atlanta GA 30322\, o
+ r Peavine South Parking Lot\, 27 Eagle Row\, Atlanta GA 30322.\n\nFeel fre
+ e to bring your lunch.\n\nRCE Greater Atlanta is a regional sustainability
+  network that supports implementation of the UN Sustainable Development Go
+ als at the regional level through education and training. Higher Education
+  Learning Community (HELC) is a working group that aims to facilitate the 
+ engagement of the SDGs by higher educational institutions and their commun
+ ity partners in a collective learning environment.\n\nTwitter: @RCEATL_HEL
+ C\n\nThis event is supported by the Atlanta Global Studies Center (AGSC) [
+ 1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/631799#0\n[1]  https://atlant
+ aglobalstudies.gatech.edu/
+LOCATION:Atwood (Chemistry) Center\, Room 360 1515 Dickey Drive\, Emory Un
+ iversity
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Underwater Flight of the Pteropod
@@ -32133,6 +32024,23 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Food4Lives\, 1122 Old Chattahoochee Avenue
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GT Tekstyles and ATL Beatbox presents: The Summit - Spring 2020
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200209T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200209T020000Z
+UID:http://hg.gatech.edu/node/631780#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nAtlanta's Premier Dance + Beatbox Event held at Georgia Tech since 2013!
+ \n\nFREE ADMISSION\, FREE TIFF'S TREATS!\n\nJoin us for All-style freestyl
+ e dance battles and beatbox showcases\, and immerse yourself in the hip-ho
+ p culture!\n\nCompetitor Registration starts at 7:00 p.m.\, ends at 8:00 p
+ .m. - do not be late!\n\nSpectators are welcome to walk in and out wheneve
+ r!\n\nSpinning for the night is none other than DJ Alphatrion!\n\nLinks:\n
+ [0]  http://hg.gatech.edu/node/631780#0\n[1]  https://www.facebook.com/eve
+ nts/610612666360547/?notif_t=plan_user_joined¬if_id=1580140820573133
+LOCATION:Student Center Ballroom
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GTMI Lunch and Learn Series - Scalable Manufacturing Approaches fo
  r Biomimetic Engineered Tissues
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200210T170000Z
@@ -32384,6 +32292,29 @@ LOCATION:GTMI 1st floor auditorium OR ISyE Main Building\, 2nd Floor Atriu
  m (to be confirmed 30 days out)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Academic Empowerment Fair
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200213T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200213T220000Z
+UID:http://hg.gatech.edu/node/631788#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nExtras: Free food\, Freebies\nStatus: published
+ \n\nIn celebration of Black History Month\, OMED and AAMI will host its an
+ nual Academic Empowerment Fair (AEF)\, February 13\, 2020\, at Georgia Tec
+ h.\n\nJoin us for a series of academic stations including undergraduate an
+ d graduate advising\, resume review\, and mock interviews with corporate p
+ artners. Additionally\, the AEF will host an Organization and Resource Exp
+ o in the Student Center Ballroom\, and will conclude with a dynamic facult
+ y-led seminar-dinner\, providing an opportunity for students and faculty t
+ o dialogue about the strengths and challenges of matriculation uniquely im
+ pacting their demographics.\n\nStudent Registration:\n\nStudents can regis
+ ter to attend at: [1]\n\nFaculty/Staff/Grad Volunteer Registration:\n\nGT 
+ employees may register to volunteer at: [2]\n\nLinks:\n[0]  http://hg.gate
+ ch.edu/node/631788#0\n[1]  https://www.signupgenius.com/go/30e0a4facac22a0
+ fa7-academic\n[2]  https://www.signupgenius.com/go/30e0a4facac22a0fa7-acad
+ emic1
+LOCATION:Georgia Tech Student Center\, Third Floor
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MATLAB Deep Learning OnRamp
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200213T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200214T010000Z
@@ -32551,6 +32482,46 @@ DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\nStatus: p
  m/SV_0pMQP7EqznzDSK1\n[2]  https://healthinitiatives.gatech.edu/well-being
  /mental/mindfulness
 LOCATION:Crescent Room\, Student Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Think Globally\, Teach Locally -- Faculty Workshop
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200219T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200219T180000Z
+UID:http://hg.gatech.edu/node/631801#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\nStatus: published\n\nThink Globally\, Teach Local
+ ly\nGraduating global citizens is one of Georgia Tech’s strategic goals\
+ , yet many students don’t have the opportunity to study abroad. What are
+  we doing at home to help students engage in global challenges and develop
+  intercultural communication skills? In this workshop\, we invite particip
+ ants to consider how integrating the United Nations Sustainable Developmen
+ t Goals (SDGs) into their courses will help foster global citizenship no m
+ atter where students are learning. The UN SDGs [1] are a set of 17 broad a
+ nd interconnected goals that address the global challenges we face. We arg
+ ue that the SDGs can be incorporated into any course regardless of discipl
+ ine. Faculty members from diverse programs at Georgia Tech will share exam
+ ples of how they have incorporated the SDGs into their courses. Workshop p
+ articipants will have the opportunity to articulate their vision for how t
+ he SDGs may work in their own course and identify (and propose) resources 
+ that can help support them in realizing it.\n\nWorkshop facilitators:\n\n-
+  Rebecca Watts Hull\, Ph.D.\, Service Learning and Partnerships Specialist
+ \, Serve Learn Sustain\n\n- Evan Mallen\, Ph.D.\, Postdoctoral Scholar\, C
+ enter for Teaching and Learning\n\n- Sebnem Ozkan\, Ph.D.\, Associate Dire
+ ctor\, Atlanta Global Studies Center\n\n- Carol Subiño Sullivan\, Ph.D.\,
+  Assistant Director\, Faculty Teaching and Learning Initiatives\, Center f
+ or Teaching and Learning\n\nGeorgia Tech Faculty Presenters:\n\n- Shataksh
+ ee Donghde\, Ph.D.\, Associate Professor\, Economics\n\n- Jairo Garcia\, P
+ h.D.\, Part-time Lecturer\, City and Regional Planning\n\n- Britta Kallin\
+ , Ph.D. Associate Professor\, German\n\n- Raghuram Pucha\, Ph.D.\, Senior 
+ Lecturer\, Mechanical Engineering\n\nTo Register: [2]\n\nLunch is provided
+  for registered participants.\n\nThos event is co-organized by the Center 
+ for Teaching and Learning\; [3] Serve-Learn-Sustain [4]\; and the Atlanta 
+ Global Studies Center. [5]\n\nLinks:\n[0]  http://hg.gatech.edu/node/63180
+ 1#0\n[1]  https://www.un.org/sustainabledevelopment/sustainable-developmen
+ t-goals/\n[2]  https://ctl.gatech.edu/content/think-globally-teach-locally
+ \n[3]  https://www.ctl.gatech.edu/\n[4]  https://serve-learn-sustain.gatec
+ h.edu/\n[5]  https://atlantaglobalstudies.gatech.edu/
+LOCATION:Student Center\, Piedmont Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Academy of Medicine Lecture: Heather Hyde Minor
@@ -33795,6 +33766,30 @@ DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\nStatus: p
  orm/SV_0pMQP7EqznzDSK1\n[2]  https://healthinitiatives.gatech.edu/well-bei
  ng/mental/mindfulness
 LOCATION:Room 301\, Student Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2020 WST Distinguished Lecture: Professor Abigail Stuart\, "Creati
+ ng an Inclusive Culture: Recruiting and Retaining the Faculty We Need"
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200409T200000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200409T220000Z
+UID:http://hg.gatech.edu/node/631859#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \n2020 WST Distinguished Lecture: Professor Abigail Stuart\, "Creating an 
+ Inclusive Culture: Recruiting and Retaining the Faculty We Need." Co-spons
+ ored by the Center for the Study of Women\, Science\, and Technology and t
+ he College of Sciences. Reception following lecture.\n\nDr. Abigail J. Ste
+ wart is Sandra Schwartz Tangri Distinguished University Professor of Psych
+ ology and Women's Studies at the University of Michigan. She served as dir
+ ector of the University of Michigan ADVANCE Program\, 2001-2016\, and she 
+ has held other administrative positions. She holds degrees from Wesleyan U
+ niversity\, London School of Economics\, and Harvard University. Her curre
+ nt research focuses on academic and life experiences related to race\, cla
+ ss and gender\, and on political attitudes and activision. Dr. Stewart's r
+ ecent book\, with Virginia Valian\, is A n Inclusive Academy: Achieving Di
+ versity and Excellence (MIT Press\, 2018).\n\nLinks:\n[0]  http://hg.gatec
+ h.edu/node/631859#0
+LOCATION:Gordy Dining Room\, Wardlaw Center\, Georgia Tech\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DramaTech presents A New Brain
