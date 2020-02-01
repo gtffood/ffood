@@ -2,477 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:CANCELLED - Cisco Networking Night
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190129T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190130T010000Z
-UID:http://hg.gatech.edu/node/616401#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nCANCELLED\n\nCisco Net
- working Night\n\nStart your job or internship search!\nTime: 6:00 p.m. - 8
- :00 p.m.\n\nLocation: Marcus Nanotechnology Building Atrium\n\nPre-Registe
- r: [01]\n\nCome learn about Cisco's full time & internship opporutnities i
- n Hardware Engineering\, Software Engineering and Business Analytics!\n\nB
- RING YOUR RESUME\n\nCheck out CareerBuzz for Cisco job & internship postin
- gs.\n\nwww.cisco.com/careers [02]\n\nWe will be recruiting for the followi
- ng roles:\n- ASIC Hardware Engineer – Bachelor’s (Full Time) - United 
- States [03] – we’re looking for hardware engineers who have ASIC knowl
- edge\n- ASIC Hardware Engineer – Bachelor’s (Intern) - United States [
- 04]\n- ASIC Hardware Engineer - Master's (Full Time) - United States [05]\
- n- ASIC Hardware Engineer - Master's (Intern) - United States [06]\n- Busi
- ness Analyst - Bachelor's (Full Time) - United States [07]\n- Business Ana
- lyst - Bachelor's (Intern) - United States [08]\n- Software Engineer - Bac
- helor's (Full Time) – United States [09]\n- Software Engineer - Bachelor
- 's (Intern) – United States [10]\n- Software Engineer - Master's (Full T
- ime) - United States [11]\n\nLinks:\n[00]  http://hg.gatech.edu/node/61640
- 1#0\n[01]  http://cs.co/9005EMc7H\n[02]  http://www.cisco.com/careers \n[0
- 3]  https://jobs.cisco.com/jobs/IsAJob?projectId=1231207&source=Cisco+Jobs
- +Career+Site&tags=fy19universitypost\n[04]  https://jobs.cisco.com/jobs/Is
- AJob?projectId=1231196&source=Cisco+Jobs+Career+Site&tags=fy19universitypo
- st\n[05]  https://jobs.cisco.com/jobs/IsAJob?projectId=1231205&source=Cisc
- o+Jobs+Career+Site&tags=fy19universitypost\n[06]  https://jobs.cisco.com/j
- obs/IsAJob?projectId=1231198&source=Cisco+Jobs+Career+Site&tags=fy19univer
- sitypost\n[07]  https://jobs.cisco.com/jobs/IsAJob?projectId=1230622&sourc
- e=Cisco+Jobs+Career+Site&tags=fy19universitypost\n[08]  https://jobs.cisco
- .com/jobs/IsAJob?projectId=1230701&source=Cisco+Jobs+Career+Site&tags=fy19
- universitypost\n[09]  https://jobs.cisco.com/jobs/IsAJob?projectId=1231197
- &source=Cisco+Jobs+Career+Site&tags=fy19universitypost\n[10]  https://jobs
- .cisco.com/jobs/IsAJob?projectId=1231195&source=Cisco+Jobs+Career+Site&tag
- s=fy19universitypost\n[11]  https://jobs.cisco.com/jobs/IsAJob?projectId=1
- 231203&source=Cisco+Jobs+Career+Site&tags=fy19universitypost
-LOCATION:6:00 pm - 8:00 pm Marcus Nanotechnology Building Atrium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Center for Transplantation and Immune-Mediated Disorders Symposium
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190130T140000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190130T220000Z
-UID:http://hg.gatech.edu/node/615180#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \nStatus: published\n\nOne great symposium\, two great campuses! This will
-  be a highly informative\, action-packed day of speakers\, software demos 
- and thoughtful discussions. Reserve your spot now by clicking on the RSVP 
- link and tell your colleagues about it!\n\n9:00 a.m. – 12:00 p.m. A Work
- shop Featuring Presentations from Local Speakers\nLocation: Georgia Instit
- ute of Technology\n345 Ferst Dr NW\nAtlanta\, GA 30318\nMarcus Nano Techno
- logy Building - Room 1117-1118\n\nNirav Patel\, Technical Sales Specialist
- \, 10x Genomics - "Advances in Single Cell Multi-Omics Applications with 1
- 0x Genomics"\n\nRuss Wolfinger\, Ph.D. - "JMP Genomics Introductions and O
- verview"\n\nKelci Miclaus\, Ph.D. - "JMP Genomics Features and RNA-Seq Exa
- mple Analysis"\n\nMeijian Guan\, Ph.D. - "Predictive Modeling and Modern G
- enomic Visualization"\n\nGreg Gibson\, Ph.D. - Professor\, Director of Cen
- ter of Integrative Genomics Department of Biological Sciences\, Georgia In
- stitute of Technology\n\nEliver Ghosn\, Ph.D. - Assistant Professor\, Emor
- y University School of Medicine\, Lowance Center for Human Immunology\, Em
- ory University\n\n12:00 p.m. - 2:00 p.m. Lunch hosted by 10x Genomics (loc
- ated at Georgia Tech)\n\n3:00 p.m. – 5:00 p.m. Emory University Cocktail
-  Reception to follow\nLocation: Emory University\nRSVP [1]\n1760 Haygood D
- r NE\nAtlanta\, GA 30322\nHealth Sciences Research Building (HSRB)\n\nEdwa
- rd A. Botchwey\, Ph.D. - Associate Professor Department of Biomedical Engi
- neering\, Georgia Institute of Technology\n\nJohn B. Harley\, M.D.\, Ph.D.
-  - Professor & Director David Glass Endowed Chair\, Center for Autoimmune 
- Genomics and Etiology\, Department of Pediatrics\, University of Cincinnat
- i\n\nLinks:\n[0]  http://hg.gatech.edu/node/615180#0\n[1]  https://doodle.
- com/poll/cxca9r8mmmnsbdsr\n[2]  https://www.eventbrite.com/e/genetic-and-c
- ellular-approaches-to-immune-disorders-georgia-tech-emory-registration-531
- 83893457#tickets
-LOCATION:Marcus Nano Technology Building - Room 1117-1118 - Georgia Tech
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Idiopathic Toe Walking: Assessment\, Treatment\, and What Parents 
- and Health Professionals Want Us to Know
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190130T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190130T180000Z
-UID:http://hg.gatech.edu/node/616949#0
-DESCRIPTION:Intended audience: Graduate students\, Postdoc\nStatus: publis
- hed\n\nCylie Williams\, PhD\nSchool of Primary and Allied Health Care\, Mo
- nash University\nPeninsula Health\, Allied Health\, Australia\n\nAbstract\
- nThis presentation will provide the latest research on the diagnosis and a
- ssessment of treatment outcomes for idiopathic toe walking (ITW). It will 
- also summarise the evidence supporting different treatments and how differ
- ent health professionals use this evidence in their treatment pathways. La
- stly\, it will tell stories from parents of children with ITW in the USA a
- nd Australia about their treatment pathways and what they really want heal
- th professionals to know about about this challenging diagnosis.\n\nPhysio
- logy Brownbag Seminars\nThe Physiology Group in the School of Biological S
- ciences hosts Brownbag Lunchtime Seminars twice a month on Wednesdays at n
- oon in room 1253 of the Applied Physiology Building located at 555 14th St
- reet NW\, Atlanta\, GA 30318. You are welcome to bring a lunch and join us
-  as we ruminate with us on topics in Physiology! A full listing of seminar
- s can be found at [1].\n\nLinks:\n[0]  http://hg.gatech.edu/node/616949#0\
- n[1]  http://pwp.gatech.edu/bmmc/physiology-brownbag-seminars-spring-2019/
-LOCATION:Room 1253\, 555 14th Street NW
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Specifications grading
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190130T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190130T180000Z
-UID:http://hg.gatech.edu/node/611392#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \nStatus: published\n\nWallace H Coulter Department of Biomedical Engineer
- ing\n\n2018/19 Faculty Development Lunch Series\n\nTopic: Specifications g
- rading: What is it\, how to use it\, and how it saves faculty and students
-  time and energy\n\nTodd Fernandez\nLecturer\nWH Coulter Department of BME
- \n\nThese are open to BME faculty (all - i.e. primary and program)\, BME p
- ost docs\, and PhD students participants in our Preparing Future Faculty p
- rogram.\n\nLinks:\n[0]  http://hg.gatech.edu/node/611392#0
-LOCATION:Rm 3115 Whitaker (GT) & Rm E182 HSRB (Emory)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Implicit Bias Workshop
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190130T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190130T183000Z
-UID:http://hg.gatech.edu/node/614981#0
-DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nInstitu
- te Diversity\, in collaboration with the Office of the Vice Provost for Gr
- aduate Education and Faculty Development and Georgia Tech’s ADVANCE Prog
- ram\, is offering four 90-minute Implicit Bias Workshops for faculty this 
- spring on January 16\, January 30\, February 12\, and February 27. All fac
- ulty who serve on reappointment\, promotion\, and/or tenure committees and
-  faculty search committees are required to participate in an Implicit Bias
-  Workshop pursuant to Provost Bras’ memo in October 2016 to academic lea
- ders. However\, all instructional and research faculty are welcomed to att
- end as space permits.\n\nThe goals of these workshops are to increase awar
- eness of the impact of implicit bias and facilitate equitable decision-mak
- ing across myriad processes related to faculty evaluations. As a participa
- nt in the workshop\, you will learn the following:\n\n• An introduction 
- to the concept of implicit bias and how these unconscious\, automatic ment
- al processes may impact behaviors such as evaluating candidates during fac
- ulty search and/or RPT processes.\n\n• Empirical research on vitaes\, le
- tters of recommendations\, and teaching evaluations to illustrate the impa
- ct of implicit bias on decisions.\n\n• Effective practices and strategie
- s for faculty search and RPT committees.\n\nThese workshops will be facili
- tated by Julie Ancis\, associate vice president\, Institute Diversity\; Pa
- ul Benkeser\, senior associate chair and professor\, Wallace H. Coulter De
- partment of Biomedical Engineering\; Harris Dimitropoulos\, associate prof
- essor\, School of Architecture\; Robert Kirkman\, associate professor\, Sc
- hool of Public Policy\; Mark Mitchell\, associate director\, Georgia Tech 
- Research Institute\; and/or Michelle Rinehart\, associate dean for academi
- c affairs and outreach\, College of Design.\n\nTo register for one of the 
- workshops\, visit [1]. Lunch will be provided.\n\nLinks:\n[0]  http://hg.g
- atech.edu/node/614981#0\n[1]  http://www.advance.gatech.edu/implicit-bias-
- workshops
-LOCATION:Bill Moore Student Success Center\, President's Suites C&D
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nutanix Office Hours
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190130T180000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190130T210000Z
-UID:http://hg.gatech.edu/node/617010#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nOffice Hours\nTime: 1p
- m-4pm\n\nLocation: GT Highland Bakery [1]\n\nNutanix is looking for the ne
- xt group of innovative and passionate students to join our family. Interes
- ted in learning more?\n\nStop by and meet our team over a cup of coffee to
-  learn more about full time and internship opportunities.\n\nNutanix enabl
- es IT teams to build and operate powerful multi-cloud architectures. Our E
- nterprise Cloud OS software melds private\, public and distributed cloud o
- perating environments and provides a single point of control to manage IT 
- infrastructure and applications at any scale.\n\nLinks:\n[0]  http://hg.ga
- tech.edu/node/617010#0\n[1]  https://www.google.com/maps/place/GaTech+High
- land+Bakery/@33.772617\,-84.3966307\,17z/data=!3m1!4b1!4m5!3m4!1s0x88f5046
- 2f904e9c7:0x68e2c7ca13b7b781!8m2!3d33.772617!4d-84.394442?hl=en
-LOCATION:GT Highland Bakery: 224 Uncle Heinie Way NW\, Atlanta\, GA 30313
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:"Theories\, Methods\, and Data: A Dance and a Conversation"
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190130T200000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190130T213000Z
-UID:http://hg.gatech.edu/node/616148#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nExtras: Free food\nStatus: published\n\nOptimal
-  Aging Colloquium Series presents a Lecture by Dr. Steven M. Boker\, PhD\,
-  Professor University of Virginia [1]\n\nAbstract\n\n"Three dimensions of 
- Cattell's persons by variables by time data box are discussed in the conte
- xt of three types of researchers each wanting to answer their own categori
- cally different question. The example of the well-known speed-accuracy tra
- de off is used to illustrate why these exemplify three different categorie
- s of statistical question. A conceptual model is presented for the speed-a
- ccuracy trade off example that could account for cross-sectional between p
- ersons effects\, short term dynamics\, and long term learning effects. Two
-  fundamental differences between the time axis and the other two axes of t
- he data box include ordering and time scaling. In addition\, non-stationar
- ity in human systems poses a pervasive problem along the time dimension of
-  the data box. To illustrate this\, the difference in non-stationarity bet
- ween dancing and conversation is discussed in the context of the interacti
- on between theory\, methods\, and data. An information theoretic argument 
- is presented that the theory-methods-data interaction is better understood
-  when viewed as a conversation than as a dance. Entropy changes in the dev
- elopment of a theory-methods-data conversation provide one metric for eval
- uating scientific progress."\n\nReception follows the lecture.\n\nAbout th
- e Speaker\n\nDr. Boker is Professor of Quantitative Psychology\, Director 
- of the Human Dynamics Laboratory\, PI of the OpenMx SEM Software project\,
-  Speaker-Director of the UVA section of the International Max Planck Resea
- rch School on the Life Course (LIFE)\, and Area Head of the Quantitative P
- sychology Area at the University of Virginia Department of Psychology.\n\n
- Dr. Boker's research interests include the application of dynamical system
- s analytic techniques to psychological and physiological data. His contrib
- utions include methods for examining change in multivariate mixed cross-se
- ctional and longitudinal data include the Statistical Vector Field method\
- , Differential Structural Equation Modeling using local linear approximati
- on of derivatives\, and the Latent Differential Equations method for fitti
- ng differential equations models to multivariate multiple occasion data. H
- e is currently pursuing research into methods for estimating models for no
- nstationary data -- data for which model parameters or model structures ch
- ange over time.\n\nLinks:\n[0]  http://hg.gatech.edu/node/616148#0\n[1]  h
- ttp://people.virginia.edu/~smb3u/\n[2]  http://psychology.gatech.edu
-LOCATION:Room 250\, J. S. Coon Building\, 648 Cherry St NW\, Atlanta\, GA 
- 30313
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Impact Presents: Bill George (ISyE '64)\, Former CEO of Medtronic
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190130T213000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190130T223000Z
-UID:http://hg.gatech.edu/node/615353#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\, Freebies\nStatus: 
- published\n\nImpact presents: "Innovation Leaders\," by Bill George (ISyE 
- '64)\, Former CEO of Medtronic.\n\nThe talk will be followed by a light re
- ception and book signing. The first 50 people to arrive will receive a fre
- e copy of Bill's book\, Discover Your True North [1].\n\nBill George is a 
- senior fellow at Harvard Business School\, where he has taught leadership 
- since 2004. He is the author of: Discover Your True North and The Discover
-  Your True North Fieldbook\, Authentic Leadership\, True North\, Finding Y
- our True North\, 7 Lessons for Leading in Crisis and True North Groups.\n\
- nGeorge is the former chairman and chief executive officer of Medtronic. H
- e joined Medtronic in 1989 as president and chief operating officer\, was 
- chief executive officer from 1991-2001\, and board chair from 1996-2002. E
- arlier in his career\, he was a senior executive with Honeywell and Litton
-  Industries and served in the U.S. Department of Defense.\n\nGeorge curren
- tly serves as a director of Goldman Sachs. He has served recently on the b
- oards of ExxonMobil\, Novartis\, Target Corporation\, Minnesota’s Destin
- ation Medical Center Corporation and the World Economic Forum USA. Bill is
-  currently a trustee of the Mayo Clinic\, and has served as board chair fo
- r Allina Health System\, Abbott-Northwestern Hospital\, United Way of the 
- Greater Twin Cities\, and Advamed.\n\nIn April 2014 the Franklin Institute
-  awarded him the Bower Award for Business Leadership. He was elected to th
- e National Academy of Engineering in 2012. He has been named one of “Top
-  25 Business Leaders of the Past 25 Years” by PBS\; “Executive of the 
- Year-2001” by the Academy of Management\; and “Director of the Year-20
- 01-02” by the National Association of Corporate Directors. George is a C
- NBC Contributor and has made frequent appearances on television and radio.
- \n\nHe received his BSIE with high honors from Georgia Tech\, his MBA with
-  high distinction from Harvard University\, where he was a Baker Scholar\,
-  and honorary PhDs from Georgia Tech\, Mayo Medical School\, University of
-  St. Thomas\, Augsburg College and Bryant University. During 2002-03 he wa
- s professor at IMD International and Ecole Polytechnique in Lausanne\, Swi
- tzerland\, and executive-in-residence at Yale School of Management.\n\nHe 
- and his wife Penny reside in Minneapolis\, Minnesota.\n\nAbout the Impact 
- Speaker Series:\n\nSince 2002\, the Impact Speaker Series has brought high
- ly successful business leaders from a variety of industries to campus to s
- hare their experiences and give advice to students and other entrepreneurs
-  on topics ranging from "building a venture around intellectual capital" t
- o "successful entrepreneurship in large organizations" and "socially respo
- nsible leadership." The weekly series provides Georgia Tech students\, alu
- mni and the Atlanta business community an opportunity to network and learn
-  from successful entrepreneurs\, venture capitalists\, and notable busines
- s and non-profit leaders. The lecture series is sponsored by the Institute
-  for Leadership and Entrepreneurship. [2]\n\nThe series is free and open t
- o the public. Reservations are not required.\n\nLinks:\n[0]  http://hg.gat
- ech.edu/node/615353#0\n[1]  https://www.amazon.com/Discover-Your-True-Nort
- h-George/dp/1119082943/ref=pd_lpo_sbs_14_img_1?_encoding=UTF8&psc=1&refRID
- =DBGSKWZ62BPJ0V3G9SEC\n[2]  http://scheller.gatech.edu/centers-initiatives
- /ile/index.html\n[3]  http://www.scheller.gatech.edu/centers-initiatives/i
- le/impact/index.html\n[4]  http://www.scheller.gatech.edu/centers-initiati
- ves/ile/index.html
-LOCATION:Scheller College of Business\, Room 200
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Georgia Tech SCL in Southern California
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190130T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190131T013000Z
-UID:http://hg.gatech.edu/node/615943#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: published\n\nGeorgia Tech Alum and SCL Fr
- iends in Southern California – mark your calendar as Supply Chain & Logi
- stics Institute faculty will be in the Inland Empire Area January 30 and 3
- 1 – with a Supply Chain presentation and alumni reception on January 30t
- h at the DoubleTree in Ontario [1] (222 N Vineyard Ave\, Ontario\, CA 9176
- 4)\, and it will start at 5:30 pm – no charge.\n\nWe look forward to see
- ing you – and gaining insights on how GT SCL can assist in community res
- earch\, education\, and innovation needs.\n\nPlease RSVP at [2] and contac
- t timbrown@gatech.edu [3] with questions.\n\nLinks:\n[0]  http://hg.gatech
- .edu/node/615943#0\n[1]  https://doubletree3.hilton.com/en/hotels/californ
- ia/doubletree-by-hilton-hotel-ontario-airport-ONTO-DT/index.html?SEO_id=GM
- B-DT-ONTODT\n[2]  https://welovelogistics.eventbrite.com\n[3]  timbrown@ga
- tech.edu
-LOCATION:Ontario\, CA (DoubleTree Hotel)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideas to Serve (I2S) Info Session and Lunch
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190131T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190131T170000Z
-UID:http://hg.gatech.edu/node/616026#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nPlease join us on Thursday\, January 31\, 2019\, from 11:00am-12: 00 pm\
- , Room 101 of the Scheller College of Business to learn more about the Ide
- as to Serve Competition. The competition is for current Georgia Tech stude
- nts and recent alumni who are exploring a social/environmental issue with 
- the intent of gaining a deep understanding of that space and where they fi
- t in (Problem Discovery track)\, and those who are more advanced on their 
- discovery journey and are formulating community-based solutions\, which ca
- n be innovation\, replication\, and/or collaboration- based (Solutions Dis
- covery Track).\n\nA series of workshops (Mondays at 4:30 in CoB) support t
- he students in their problem discovery journey.\n\nI2S is a Serve-Learn-Su
- stain affiliated program and participation in the competition fulfills the
-  Final Deliverable of the Innovating for Social Impact program offered by 
- SLS.\n\nContact Dori Pap [1] for more information.\n\nPlease RSVP [2] for 
- a guaranteed meal and learn more at our website [3].\n\nLinks:\n[0]  http:
- //hg.gatech.edu/node/616026#0\n[1]  http://www.scheller.gatech.edu/news-ev
- ents/events/dori.pap@ile.gatech.edu\n[2]  http://ilebackend.gatech.edu/i2s
- info\n[3]  http://scheller.gatech.edu/centers-initiatives/ile/i2s/index.ht
- ml\n[4]  https://serve-learn-sustain.gatech.edu/innovating-social-impact-p
- rogram\n[5]  https://www.scheller.gatech.edu/centers-initiatives/ile/i2s/i
- ndex.html
-LOCATION:Room 101\, Scheller College of Business
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Service Learning and Community Engagement (SLCE) Orientation
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190131T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190131T170000Z
-UID:http://hg.gatech.edu/node/615265#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nThis SLCE (Service Learning and Community Engagement
- ) orientation session offers students foundations for service learning and
-  community engagement work in their courses. Students who are in courses t
- hat have a specific SLCE component-- such as a required service learning e
- xperience or a real world project with a partner-- are strongly encouraged
-  to attend. The session will cover safe and respectful behaviors in commun
- ities unfamiliar to you\; power\, voice\, and access to resources in Atlan
- ta and the region\; tips and best practices for partner-based collaboratio
- ns off campus. The session will be interactive\, and there will be snacks!
- \n\nLinks:\n[0]  http://hg.gatech.edu/node/615265#0
-LOCATION:Skiles 202
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chat Over Chicken
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190131T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190131T173000Z
-UID:http://hg.gatech.edu/node/615226#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Postdoc\nStatus: published\
- n\nNetwork with GT women committed to supporting other women. Join with th
- e Women of Georgia Tech ERG (WoGT) to enjoy the conversation and the legen
- dary Ferst Place Fried Chicken! We provide the forum\, you drive the discu
- ssion. Register now for a seat at the reserved WoGT tables.\n\nDining Deta
- ils: Ferst Place is located across from the Student Center ballroom. Dinin
- g options include a buffet\, salad bar and a made-to-order station. Partic
- ipants are responsible for purchasing their own lunch at a cost of $11.66 
- including tax. Please note: Accepted payment methods include: BuzzCards\, 
- Dining Points\, debit/credit cards\, and faculty and staff meal plans. Fer
- st Place does not accept cash.\n\nRegister to attend by selecting the corr
- ect month's event below:\n\n- January 31\, 2019: [1]\n- February 28\, 2019
- : [2]\n- March 28\, 2019: [3]\n- April 25\, 2019: [4]\n- May 30\, 2019: [5
- ]\n\nLinks:\n[0]  http://hg.gatech.edu/node/615226#0\n[1]  https://sdie.ga
- tech.edu/chat-over-chicken-jan2019\n[2]  https://sdie.gatech.edu/chat-over
- -chicken-feb2019\n[3]  https://sdie.gatech.edu/chat-over-chicken-mar2019\n
- [4]  https://sdie.gatech.edu/chat-over-chicken-apr2019\n[5]  https://sdie.
- gatech.edu/chat-over-chicken-may2019
-LOCATION:Student Center\, Ferst Place Dining Hall
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GVU Center Brown Bag: Morgan Ames\, "The Charisma Machine: The Lif
- e\, Death\, and Legacy of One Laptop per Child"
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190131T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190131T180000Z
-UID:http://hg.gatech.edu/node/616689#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nExtras: Free food\nStatus: published\n\nAbstract
- :\n\nDrawing from her forthcoming book\, The Charisma Machine\, Morgan G. 
- Ames will chronicle the life and legacy of the One Laptop per Child projec
- t and explain why -- despite its failures -- the same utopian visions that
-  inspired OLPC still motivate other projects trying to use technology to "
- disrupt" education and development.\n\nAnnounced in 2005 by MIT Media Lab 
- cofounder Nicholas Negroponte\, One Laptop per Child promised to transform
-  the lives of children across the Global South with a small\, sturdy\, and
-  cheap laptop computer\, powered by a hand crank. In reality\, the project
-  fell short in many ways\, starting with the hand crank\, which never mate
- rialized. Yet the project remained charismatic to many who were enchanted 
- by its claims of access to educational opportunities previously out of rea
- ch. Behind its promises\, OLPC\, like many technology projects that make s
- imilarly grand claims\, had a fundamentally flawed vision of who the compu
- ter was made for and what role technology should play in learning.\n\nDraw
- ing on a seven-month study of a model OLPC project in Paraguay\, Ames reve
- als that the laptops were not only frustrating to use\, easy to break\, an
- d hard to repair\, they were designed for "technically precocious boys" --
-  idealized younger versions of the developers themselves -- rather than th
- e diverse range of children who might actually use them. Reaching fifty ye
- ars into the past and across the globe\, this talk will offer a cautionary
-  tale about the allure of technology hype and the problems that result whe
- n utopian dreams drive technology development.\n\nSpeaker Bio:\n\nMorgan G
- . Ames is a lecturer and postdoctoral scholar with the School of Informati
- on and the interim associate director of research for the Center for Scien
- ce\, Technology\, Medicine and Society at the University of California\, B
- erkeley. Morgan studies the ways in which computers and computing worlds s
- eek to shape the identities of learners -- in and out of classrooms\, loca
- lly and abroad -- with a focus on those often left out of this identity-wo
- rk. Her book\, The Charisma Machine: The Life\, Death\, and Legacy of One 
- Laptop per Child\, is due out in 2019 from the MIT Press. Her next project
-  is animated by a story she heard often in One Laptop per Child: that of t
- he self-taught programmer. While reality is consistently more complicated 
- than this story allows\, she has become fascinated by the cultural work th
- is story does -- and the harm it could be doing to diversity and inclusion
- .\n\nLinks:\n[0]  http://hg.gatech.edu/node/616689#0\n[1]  http://www.tsrb
- .gatech.edu/
-LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
- a\, Ga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Supporting Students While We Teach
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190131T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190131T180000Z
-UID:http://hg.gatech.edu/node/615605#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Postdoc\nExtras: Free food\
- nStatus: published\n\nEach semester we welcome students into our classes a
- nd look forward to seeing them learn and benefit from our instruction. And
-  then reality sets in. We discover that student perceptions of the course\
- , the content\, and their role differs from ours: they question the decisi
- ons we've made about achieving course goals\, and suddenly we find ourselv
- es in a "chilly" course climate.\n\nIn this workshop we will explore the w
- ays in which course climate channels student energy toward and away from l
- earning. What structures might we leverage – and what procedures might w
- e use – to increase the odds of a positive course experience for both st
- udent and teacher? How can we help our students feel supported as they lea
- rn? How might we prevent unnecessary anxiety and focus attention on learni
- ng?\n\nJoin your colleagues for an evidence-based discussion about creatin
- g climates that promote the intellectual vitality and well-being of all Ge
- orgia Tech students. Bring both your questions and your ideas\, and engage
-  in conversation and discovery.\n\nFollow this link to register. [1]\n\nLi
- nks:\n[0]  http://hg.gatech.edu/node/615605#0\n[1]  http://ctl.gatech.edu/
- 01-17-19-FDW
-LOCATION:Student Center Ballroom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CREATE-X Startup Ideas
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190131T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190131T230000Z
-UID:http://hg.gatech.edu/node/615669#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nIf you're planning to apply to St
- artup Launch\, come share your ideas with members of the selection team to
-  gain instant feedback and learn more about Startup Launch. This is a grea
- t opportunity to both pitch your ideas and meet potential co-founders.\n\n
- Food will be served. Startup Ideas is hosted every other Thursday of Sprin
- g 2019 starting on January 17th and ending March 14th (with the exception 
- of one Startup Ideas on February 11th instead of the 14th.)\n\nLinks:\n[0]
-   http://hg.gatech.edu/node/615669#0\n[1]  https://orgsync.com/178387/even
- ts/2598837/occurrences/6247072
-LOCATION:Klaus Room 2448
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SCPC What We're All About
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190131T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190201T000000Z
-UID:http://hg.gatech.edu/node/616726#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: published\n\nCome join us for FREE pizza\
- , popcorn\, and bowling! This is a great chance to learn about the nine SC
- PC committees\, recruitment process\, and membership!\n\nApplications are 
- open until February 4th at 11:59pm and can be found at bit.ly/scpcspring19
-  [1]\n\nFor questions\, please email vp.recruitment@scpc.gatech.edu\n\nLin
- ks:\n[0]  http://hg.gatech.edu/node/616726#0\n[1]  https://bit.ly/scpcspri
- ng19?fbclid=IwAR26_Yc1SegWo3YgKS5eih4FBj3WL4nhCrj2_9M5_mZ7CLKNQ0GaH0xp558
-LOCATION:Student Center - Tec Rec
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:C.L. Chandler Weather Chat
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190201T161500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190201T170000Z
@@ -31981,6 +31510,28 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
 LOCATION:Montgomery Knight Building 317
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Jesus and Therapy
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200208T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200208T010000Z
+UID:http://hg.gatech.edu/node/631660#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
+ aduate students\nExtras: Free Food\nStatus: published\n\nJoin for an eveni
+ ng of five panelists there to help navigate a faith-based approach to mana
+ ging stress\, classes\, and life as a student.\n\nInfluence29 is a new Chr
+ istian Organization on campus focused on being more inclusive (especially 
+ to the BGT) and relevant when it comes to the topics we discuss (ones typi
+ cally avoided)\n\nNext Friday\, February 7th\, from 7-8 pm in the Kendeda 
+ Building Room 210\, we are hosting “Jesus and Therapy” which is a fun 
+ discussion of faith based approaches to stress\, mental health\, and mindf
+ ulness. We will have a beautiful young lady who attends Georgia State\, GT
+  health Initiatives\, and A Christian counselor/therapist as panelists!\n\
+ nFood will be provided! #freedinner\n\nPlease come out and spread the word
+ ! We want to cater to you\n\nFollow us on IG: _influence29\n\nLinks:\n[0] 
+  http://hg.gatech.edu/node/631660#0\n[1]  https://gatech.campuslabs.com/en
+ gage/event/5549328
+LOCATION:Kendeda Building Classroom 210
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BCM Pancake Night
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200208T030000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200208T070000Z
@@ -32174,6 +31725,21 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Valentine's Day Pizza Party and Movie Night
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200211T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200212T000000Z
+UID:https://gatech.campuslabs.com/engage/event/5544644
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nDo you lov
+ e Grand Challenges to "pizzas"? Then join us February 11th\, 6PM-8:45PM in
+  Brittain Rec. to top your own mini pizza\, play Valentine's themed games\
+ , and make cards for local assisted living homes!\n\nWe will also be scree
+ ning a Valentine's themed movie--vote here to help us choose which one: ht
+ tps://forms.gle/MEEBMwAeA7fcEfej8\n\nLove is in the air\, so we'd love to 
+ see you there!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/
+ 5544644
+LOCATION:Brittain Rec.
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Career Services Interviewing Workshop
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200211T233000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200212T003000Z
@@ -32292,6 +31858,27 @@ LOCATION:GTMI 1st floor auditorium OR ISyE Main Building\, 2nd Floor Atriu
  m (to be confirmed 30 days out)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Google Accessibility Networking Event Presented by ABLE Alliance
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200213T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200213T193000Z
+UID:http://hg.gatech.edu/node/631943#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nGoogle will be at the Georgia Tech campus on Thursday\, February 13 for 
+ a special Google Networking event in the Marcus Nanotechnology building Ro
+ oms 1116-1118.\n\nThe event is from 11:30am-2:30pm\, with 3 separate 1-hou
+ r sessions. Anyone interested in general employment or careers at Google\;
+  accessible software product design\; or special Google programs for inclu
+ sive employment\, are especially welcome. This event will serve refreshmen
+ ts and is sponsored by Google Accessibility and the Georgia Tech ABLE Alli
+ ance.\n\nFree pre-registration is kindly requested. Use below link or QR c
+ ode on the attached flyer. Each session is different\, so you may sign-up 
+ for one or multiple sessions: [1]\n\nLinks:\n[0]  http://hg.gatech.edu/nod
+ e/631943#0\n[1]  https://docs.google.com/forms/d/e/1FAIpQLSc-lf_7oKv3zdc8h
+ lmt-OPxpCJ-1y4Hk2-ejkQXkhFdcYNarQ/viewform
+LOCATION:Marcus Nanotechnology Building\, Rooms 1116-1118
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Academic Empowerment Fair
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200213T170000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200213T220000Z
@@ -32352,6 +31939,24 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  ode/630491#0\n[1]  https://gatech.co1.qualtrics.com/jfe/form/SV_0kaGQEeQ5I
  ufM8d
 LOCATION:Klaus 1116
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OpenIDEO@GT Kickoff
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200214T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200214T013000Z
+UID:http://hg.gatech.edu/node/631906#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
+ aduate students\nExtras: Free Food\, Free Stuff\nStatus: published\n\nThe 
+ world has big problems that require big solutions. At OpenIDEO\, we use de
+ sign thinking to come up with creative solutions to large-scale social iss
+ ues. Come out to our kickoff event to learn about what we do and how we us
+ e our creativity to tackle some of the most challenging problems facing us
+  today.\nThere will be food\, swag\, and awesome people!\nDon't forget to 
+ RSVP!!!\n\nLink to Facebook Event: [2]\n\nLinks:\n[0]  http://hg.gatech.ed
+ u/node/631906#0\n[1]  https://gatech.campuslabs.com/engage/event/5538942\n
+ [2]  https://www.facebook.com/events/522905561913604/\n[3]  https://www.fa
+ cebook.com/OpenIDEOGT/
+LOCATION:Kendeda Building Room 210
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Horizons at Georgia Tech Assistant Teacher Internship application 
@@ -32769,6 +32374,24 @@ DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nInstitu
  gatech.edu/implicit-bias-workshops\n[2]  https://global.hgncloud.com/ga_in
  stitute_tech/ts/home\n[3]  http://sarah.cockrell@gtri.gatech.edu/
 LOCATION:Student Success Center- President’s Suites C and D
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Volunteer Showcase
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200227T153000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200227T183000Z
+UID:http://hg.gatech.edu/node/631976#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nThe MOVE Special 
+ Projects Committee is organizing a volunteer showcase which will feature o
+ ver fourteen on- and off-campus volunteer organizations! The event is an o
+ pportunity for Georgia Tech students to talk face-to-face with groups whos
+ e goal is to provide their service to our community here on campus and in 
+ the Greater Atlanta area. So come and learn about the wide variety of volu
+ nteering you can be a part of! In addition\, there will be food available\
+ , including cookies from Tiff's Treats and possibly more!\n\nLinks:\n[0]  
+ http://hg.gatech.edu/node/631976#0\n[1]  https://gatech.campuslabs.com/eng
+ age/organization/mobilizing-opportunities-for-volunteer-experiences
+LOCATION:Kessler Campanile/Student Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Book Discussion with Christen Smiley of Institute Diversity\, Equi
