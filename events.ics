@@ -2,81 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:C.L. Chandler Weather Chat
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190201T161500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190201T170000Z
-UID:http://hg.gatech.edu/node/616574#2
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nStatus: published\n\nEAS will be hosting our wee
- kly C. L. Chandler Weather Chat series again this Spring 2019 semester. Th
- is event is dedicated to Chandler\, who was a meteorologist for Delta Airl
- ines during the mid- to late 20th century and helped to develop one of the
-  most successful meteorological organizations within the airline industry.
- \n\nEvery week from 11:15 a.m. - noon in L1116 of Ford ES&T\, we will have
-  informal discussions about the most exciting weather events impacting Atl
- anta\, the U.S. and beyond that day as well as investigating forecast data
-  to learn more about upcoming significant weather events. Topics range fro
- m discussing major winter storms to severe weather outbreaks\, tropical cy
- clones\, lake-effect storms\, and even small-scale events like dense fog a
- nd mountain weather events.\n\nAll are welcome to attend\, including non-E
- AS majors and the general public. Feel free to bring your lunch as well as
-  a friend or two!\n\nLinks:\n[0]  http://hg.gatech.edu/node/616574#2
-LOCATION:Room L1116\, Ford ES&T Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Center for Signal and Information Processing (CSIP) Seminar
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190201T200000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190201T210000Z
-UID:http://hg.gatech.edu/node/616727#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
- aduate students\nExtras: Free food\nStatus: published\n\nSpeaker: Professo
- r Vince Calhoun\n\nTitle: Dynamic connectivity in rest fMRI: Approaches\, 
- examples and extensions to multimodal data fusion\n\nAbstract: Approaches 
- for estimating time-varying connectivity from fMRI data have grown in popu
- larity in recent years\, however there are still some outstanding question
- s about the estimation approaches and underlying cause of these changes. I
- n this talk I will review approaches for estimating dynamic connectivity f
- rom resting fMRI including an evaluation of the various assumptions that a
- re being made. I will discuss several strategies including the use of wind
- owed correlation\, time-frequency approaches\, and newer window-less appro
- aches. Results from a large replication study will be presented. Results f
- rom several large patient studies will also be discussed. And finally\, I 
- will discuss extensions of dynamic connectivity to link to multimodal imag
- ing and genetic data.\n\nSpeaker Bio: Dr. Calhoun is the founding director
-  of the tri-institutional Center for Translational Research in Neuroimagin
- g and Data Science (TReNDS\; [1] )\, a joint effort between Georgia State\
- , Georgia Tech\, and Emory University\, which is focused on improving our 
- understanding of the human brain using advanced analytic approaches with a
- n emphasis on translational research such as the development of predictive
-  biomarkers for mental and neurological disorders. The use of big data app
- roaches and neuroinformatics tools to capture\, manage\, analyze\, and sha
- re data is also a major emphasis. Previously\, Dr. Calhoun worked as a res
- earch engineer in the psychiatric neuroimaging laboratory at Johns Hopkins
- \, served as the director of medical image analysis at the Olin Neuropsych
- iatry Research Center\, and as an associate professor at Yale University. 
- Most recently\, he was a Distinguished Professor at the University of New 
- Mexico and the President of the Mind Research Network. Dr. Calhoun receive
- d a bachelor’s degree in electrical engineering from the University of K
- ansas\, master’s degrees in biomedical engineering and information syste
- ms from Johns Hopkins University in 1993 and 1996\, and the Ph.D. degree i
- n EE from the University of Maryland Baltimore County in 2002.\n\nLinks:\n
- [0]  http://hg.gatech.edu/node/616727#0\n[1]  http://www.trendscenter.org
-LOCATION:Room 5126\, Centergy One Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Robogals Info Session
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190201T213000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190201T223000Z
-UID:http://hg.gatech.edu/node/617121#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nRobogals will be hosting its first info session for 
- the spring semester this Friday\, February 1st\, at 4:30 in Klaus 2448. Co
- me to learn more about volunteering - and stay for the free pizza!!!\n\nLi
- nks:\n[0]  http://hg.gatech.edu/node/617121#0\n[1]  https://www.facebook.c
- om/events/145408923021293/
-LOCATION:Room 2448\, Klaus Advanced Computing Building
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Harris Corporation Day on Campus
 DTSTART;VALUE=DATE:20190204
 DTEND;VALUE=DATE:20190205
@@ -32193,6 +32118,39 @@ DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\nStatus: p
  ublished\n\nLinks:\n[0]  http://hg.gatech.edu/node/631492#0\n[1]  https://
  arts.gatech.edu/faculty-and-staff-art-exhibit
 LOCATION:Ferst Center for the Arts\, Richards Gallery
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How Can Scientists & Engineers Influence Public Policy?: Lessons L
+ earned from the Field
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200221T213000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200221T230000Z
+UID:http://hg.gatech.edu/node/631995#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\nExtras: Free food\nStatus: published\n\nThe Meg & Sam Flax Lect
+ ure Series on Public Policy Presents: Prof. Richard Barke Associate Profes
+ sor in the School of Public Policy FOOD & BEVERAGES PROVIDED ● Why don
+ ’t policymakers take expert scientific advise more seriously?\n● How d
+ oes S&T expertise get into the policy process?\n● Can a good scientist o
+ r engineer be a good policymaker?\n● What strategies and tactics can Tec
+ h students and alumni use to have more impact?\n\nAfter graduating from Ge
+ orgia Tech (Physics)\, Professor Barke earned a Ph.D. in Political Science
+  from the University of Rochester. He has advised agencies in the U.S. and
+  abroad\, the U.S. Congress\, and companies on how to incorporate expert s
+ cientific advice into public policy. In this lecture\, he shares what he h
+ as learned over the years about the effectiveness of scientists in politic
+ al arenas. Examples include cases from FDA\, EPA\, FCC\, NASA\, and the U.
+ S. Congress. Professor Barke’s research focuses on the roles of politics
+  within science and of science within politics\, and the regulation of ris
+ k (particularly the FDA). Dr. Barke has written about topics such as the p
+ olitical behavior of scientific disciplines\, the politics of science budg
+ eting in Congress\, and how scientists translate scientific findings into 
+ policy recommendations. Recent works involve the decision making processes
+  by which science and ethics are reconciled in the regulation of research\
+ , particularly research involving human subjects and in nanotechnology. Cu
+ rrently he is writing a book about political\, cognitive\, and economic ob
+ stacles to long-term policy making.\n\nLinks:\n[0]  http://hg.gatech.edu/n
+ ode/631995#0
+LOCATION:DM Smith Bldg\, rm 105
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Food Distribution Volunteering
