@@ -31090,6 +31090,20 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nMeet in front of Blue D
 LOCATION:Medshare
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Superbowl 2020
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200202T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200203T030000Z
+UID:https://gatech.campuslabs.com/engage/event/5559099
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nI-Sports presents Super
+ bowl 2020! This year it's San Francisco 49ers vs Kansas City Chiefs and it
+ 's held in Miami! Besides\, don't the half time show which will feature Sh
+ akira and Jennifer Lopez!!\n\nCome by and enjoy the biggest game of Americ
+ an Football! It starts at 6.30pm but food will be served at 6pm.\n\nWhich 
+ team will you root for?\n\nLinks:\n[0]  https://gatech.campuslabs.com/enga
+ ge/event/5559099
+LOCATION:I-House Projector Room
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GTMI Lunch and Learn Series - Energy-Efficient Manufacturing Towar
  d Global Sustainability
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200203T170000Z
@@ -31101,6 +31115,18 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  n\n- Professor\, Edward Wang\n\nCompany:\n\n- Texas A&M University\n\nLink
  s:\n[0]  http://hg.gatech.edu/node/630984#0
 LOCATION:GTMI 114
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ASCE Resume Workshop 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200203T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200204T010000Z
+UID:https://gatech.campuslabs.com/engage/event/5559208
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nParticipat
+ e in a Q&A and receive one-on-one resume advice from industry professional
+ s! We will have representatives from AECOM\, Kimley Horn\, Walter P. Moore
+ \, and more!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/55
+ 59208
+LOCATION:Mason Building - room 3133
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Faculty Fellows - Dr. Martin Mourigal
@@ -31255,6 +31281,18 @@ DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nInstitu
 LOCATION:Student Success Center- President’s Suites C and D
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dominican Cultural Night
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200205T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200205T230000Z
+UID:https://gatech.campuslabs.com/engage/event/5553256
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nSpanish Speaking Organi
+ zation will have Dominican Cultural Night\, in which we learn about Domini
+ can culture\, eat traditional dishes\, and play dominoes\, a popular game 
+ from the Dominican Republic. It will be a fun and educational experience!\
+ n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5553256
+LOCATION:Student Center Crescent Room
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ivan Allen Cup: Karaoke
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200206T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200206T020000Z
@@ -31281,6 +31319,17 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nWe will be hosting the
  nd on-campus residences are doing to create a more sustainable university.
  \n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5473439
 LOCATION:Room 210
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Student Tech Talks
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200206T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200206T164500Z
+UID:https://gatech.campuslabs.com/engage/event/5553255
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome out to hear from c
+ urrent ECE students about the cool things they are doing! And\, as always\
+ , free lunch!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5
+ 553255
+LOCATION:Van Leer C340
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kenneth Hyatt Distinguished Alumni Leadership Speaker Series
@@ -31515,6 +31564,23 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  [0]  http://hg.gatech.edu/node/631780#0\n[1]  https://www.facebook.com/eve
  nts/610612666360547/?notif_t=plan_user_joined¬if_id=1580140820573133
 LOCATION:Student Center Ballroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grad Student Drop-In Focus Group
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200210T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200210T180000Z
+UID:http://hg.gatech.edu/node/632019#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nJoin the Library 
+ for a drop-in focus group in the seventh floor meeting room (7130) on the 
+ Graduate Student Community (GSC) and related services.We’d love to hear 
+ feedback about the space and changes you’d like us to consider.\n\nLunch
+  will be provided.\n\nFood will be served at 11:30. Drop-in any time befor
+ e 12:45 to eat lunch and provide input.\n\nQuestions?\nEmail fred.rascoe@l
+ ibrary.gatech.edu [1] or susan.parham@library.gatech.edu [2].\n\nLinks:\n[
+ 0]  http://hg.gatech.edu/node/632019#0\n[1]  fred.rascoe@library.gatech.ed
+ u\n[2]  susan.parham@library.gatech.edu
+LOCATION:Georgia Tech Library: Crosland Tower Seventh Floor meeting room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GTMI Lunch and Learn Series - Scalable Manufacturing Approaches fo
@@ -31783,6 +31849,68 @@ LOCATION:GTMI 1st floor auditorium OR ISyE Main Building\, 2nd Floor Atriu
  m (to be confirmed 30 days out)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GVU Center Brown Bag: Howard Wertheimer "Sustainable Campus Develo
+ pment - Why it Matters"
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200213T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200213T180000Z
+UID:http://hg.gatech.edu/node/632062#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nExtras: Free food\nStatus: draft\n\nAbstract:\n\
+ nGeorgia Tech has been at the forefront of sustainability since its incept
+ ion in the 1880's. This is evidenced by the fact that the original brick b
+ uildings on campus were made from indigenous Georgia red clay\, and Grant 
+ Field was the home to football\, baseball and track. Fast forward to 2019 
+ where we have just built the Kendeda Building for Innovative Sustainable D
+ esign\, slated to be one of the most sustainable buildings in the southeas
+ t\, on the path to meet the stringent requirements of the Living Building 
+ Challenge. Come learn about the evolution of Georgia Tech's 400-acre ecosy
+ stem and our commitment to sustainable campus development.\n\nSpeaker Bio:
+ \n\nHoward Wertheimer is a Fellow in the American Institute of Architects 
+ and a LEED Accredited Professional. From 2006-2019\, Howard served as the 
+ AVP for Capital Planning & Space Management and Institute Architect at the
+  Georgia Institute of Technology where he had strategic oversight of the C
+ ampus Master Plan\, Landscape Master Plan\, Historic Preservation Plan\, c
+ ampus-wide sustainability initiatives\, curation of public art\, and most 
+ things visually exposed. He was responsible for the aesthetics and visual 
+ vocabulary of the campus\, which currently includes over 16M square feet o
+ f space in 200 buildings on 400 acres in Atlanta\, Georgia.\n\nWhile at Ge
+ orgia Tech\, Howard lead the development of the Kendeda Building for Susta
+ inable Design and has delivered numerous papers across the country on Geor
+ gia Tech’s Living Building journey\, anticipated to be one the most envi
+ ronmentally advanced education and research buildings on a university camp
+ us in the Southeast.\n\nHoward is currently the Executive Vice President a
+ nd Chief Operating Officer at the Piedmont Park Conservancy\, a non-profit
+  overseeing the stewardship\, operations\, financial procedures\, programs
+  and overall performance to cultivate substantial and sustainable growth o
+ f Atlanta’s iconic Piedmont Park\, which is the heart and soul of the ci
+ ty.\n\nSchedule of Brown Bag Speakers Spring 2020 [1]\n\nLinks:\n[0]  http
+ ://hg.gatech.edu/node/632062#0\n[1]  https://www.gvu.gatech.edu/events/upc
+ oming\n[2]  http://www.tsrb.gatech.edu/
+LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
+ a\, Ga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Google Accessibility Networking Event
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200213T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200213T193000Z
+UID:http://hg.gatech.edu/node/632033#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nGoogle will be on the Georgia Tec
+ h campus Thursday\, February 13\, for a special networking event in the Ma
+ rcus Nanotechnology Building\, rooms 1116-1118. The event is from 11:30 am
+  - 2:30 pm and will feature three (3) separate one-hour sessions.\n\nThose
+  interested in general employment or careers at Google\; accessible softwa
+ re product design\; or special Google programs for inclusive employment\, 
+ are especially welcome.\n\nFree pre-registration is kindly requested at th
+ e link below or QR code on accompanied flyer. (Each session is different\,
+  so you may sign-up for one or multiple sessions): [1]\n\nThis event will 
+ serve refreshments and is sponsored by Google Accessibility and the Georgi
+ a Tech ABLE Alliance.\n\nLinks:\n[0]  http://hg.gatech.edu/node/632033#0\n
+ [1]  https://docs.google.com/forms/d/e/1FAIpQLSc-lf_7oKv3zdc8hlmt-OPxpCJ-1
+ y4Hk2-ejkQXkhFdcYNarQ/viewform
+LOCATION:Marcus Nanotechnology Building\; rooms 1116-1118
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Google Accessibility Networking Event Presented by ABLE Alliance
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200213T163000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200213T193000Z
@@ -31958,6 +32086,33 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  od4lives.org/donate.html\n[3]  https://www.facebook.com/events/11779058659
  30288/
 LOCATION:Food4Lives\, 1122 Old Chattahoochee Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GTMI Lunch and Learn Series - Energy-Efficient Manufacturing Towar
+ d Global Sustainability
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200217T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200217T180000Z
+UID:http://hg.gatech.edu/node/632037#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nSynthetic Biology for the Development of Biosensors and Diagnostics\n\nA
+ ssociate Professor\, Mark Styczynski\nGeorgia Tech ChBE\n\nLinks:\n[0]  ht
+ tp://hg.gatech.edu/node/632037#0
+LOCATION:GTMI 114
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GTMI Lunch and Learn Series - Synthetic Biology for the Developmen
+ t of Biosensors and Diagnostics
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200217T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200217T180000Z
+UID:http://hg.gatech.edu/node/632046#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nSynthetic Biology for the Development of Biosensors and Diagnostics\n\nM
+ ark Styczynski\, Associate Professor\, Georgia Tech School of Chemical and
+  Biomolecular Engineering\n\nLinks:\n[0]  http://hg.gatech.edu/node/632046
+ #0
+LOCATION:GTMI 114
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Society of Women Engineers General Body Meeting
@@ -32459,6 +32614,20 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  n\nSpeaker:\n\n- Joseph Lewis\, President and CEO\n\nCompany:\n\n- Flentek
   Solutions\n\nLinks:\n[0]  http://hg.gatech.edu/node/630988#0
 LOCATION:GTMI 114
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Needle Felting Workshop
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200302T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200303T000000Z
+UID:https://gatech.campuslabs.com/engage/event/5558853
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nI-Create\, the new comm
+ ittee\, is having its first event!\n\nIt's a little needle felting worksho
+ p where you can make whatever you want (within the realms of wool and time
+  of course). Come by and learn how to create small cute wool sculptures wi
+ th delicious food!\n\nIt's an open event so feel free to invite your frien
+ ds who might be interested!!\n\nLinks:\n[0]  https://gatech.campuslabs.com
+ /engage/event/5558853
+LOCATION:I-House
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Society of Women Engineers General Body Meeting
@@ -33057,6 +33226,18 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nMeet in front of Blue D
 LOCATION:Medshare
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GTMI Lunch and Learn Series - Laser Micromachining
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200330T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200330T170000Z
+UID:http://hg.gatech.edu/node/632048#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nLaser Micromachining\n\nRichard Shafer\, Manager of IEN Laser Micromachi
+ ning Lab\, Georgia Tech IEN\n\nLinks:\n[0]  http://hg.gatech.edu/node/6320
+ 48#0
+LOCATION:GTMI 114
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dinner with Dr. Rebecca Burnett
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200330T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200330T233000Z
@@ -33295,6 +33476,20 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:DramaTech Theatre\, north side of the Ferst Center for the Arts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GTMI Lunch and Learn Series - Scalable Nanomanufacturing of Nanoel
+ ectronic Devices
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200406T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200406T170000Z
+UID:http://hg.gatech.edu/node/632045#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nScalable Nanomanufacturing of Nanoelectronic Devices\n\nMichael Filler\,
+  Associate Professor\, Georgia Tech School of Chemical and Biomolecular En
+ gineering\n\nLinks:\n[0]  http://hg.gatech.edu/node/632045#0\n[1]  http://
+ hg.gatech.edu/node/632043#0
+LOCATION:GTMI 114
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Society of Women Engineers General Body Meeting
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200407T211500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200407T230000Z
@@ -33460,6 +33655,19 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  e yearns to produce.\n\nLinks:\n[0]  http://hg.gatech.edu/node/621371#0\n[
  1]  https://dramatech.org/event/a-new-brain/
 LOCATION:DramaTech Theatre\, north side of the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GTMI Lunch and Learn Series - Rolled Aluminum Product Manufacturin
+ g
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200413T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200413T170000Z
+UID:http://hg.gatech.edu/node/632044#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nRolled Aluminum Product Manufacturing\n\nJames R. Fekete\, Senior Manage
+ r – Materials Technology\, Novelis\, Global Research and Technology\n\nL
+ inks:\n[0]  http://hg.gatech.edu/node/632044#0
+LOCATION:GTMI 114
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Queer Coffeehouse:  LGBTQIA Graduate Students and Postdocs
