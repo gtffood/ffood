@@ -2,113 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Harris Corporation Day on Campus
-DTSTART;VALUE=DATE:20190204
-DTEND;VALUE=DATE:20190205
-UID:http://hg.gatech.edu/node/615769#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nDay in the Lobby\nBrin
- g your resume and come chat with recruiters from Harris in the College of 
- Computing commons anytime between 11am and 4pm.\n\nCan't make it in the mo
- rning or really want to be considered for their team?\n\nTech Talk\nJoin t
- hem in the College of Computing Building\, Room 17\, from 6:30pm – 8pm t
- o learn about their innovative technology! Free food will be provided if y
- ou come early!\n\nWhy Harris\nA company is only as forward thinking as its
-  employees. At Harris\, a world leader in international communications and
-  information technology\, we care about your ideas as much as you do.\n\nO
- pen Positions\nApply directly on CareerBuzz!\n\nComputer/Software Engineer
-  [1]\n\nNetwork Applications Engineer [2]\n\nElectrical/Systems Engineer [
- 3]\n\nEngineering and Business Internships [4]\n\nMechanical Engineer [5]\
- n\nLinks:\n[0]  http://hg.gatech.edu/node/615769#0\n[1]  https://gatech-cs
- m.symplicity.com/employers/index.php?mode=form&id=0b8d1c5c0362d0e5ab92b525
- b24a5cd1\n[2]  https://gatech-csm.symplicity.com/employers/index.php?mode=
- form&id=61f1030f1ef845a9d4d23a34552e71ff\n[3]  https://gatech-csm.symplici
- ty.com/employers/index.php?mode=form&id=787c0cf80033384f308751351a2e8698\n
- [4]  https://gatech-csm.symplicity.com/employers/index.php?mode=form&id=53
- 06eb9ffe6525934b04b8969c974cc9\n[5]  https://gatech-csm.symplicity.com/emp
- loyers/index.php?mode=form&id=785b722d63c7e144dc9b65ccfe1eb7d8
-LOCATION:11-4pm CCB commons & 6:30pm – 8pm CCB 17.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RESCHEDULED TO 2/6 - GTRI Day on Campus
-DTSTART;VALUE=DATE:20190205
-DTEND;VALUE=DATE:20190206
-UID:http://hg.gatech.edu/node/615771#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nRescheduled to 2/6\n\n
- Day in the Lobby\nBring your resume and come chat with recruiters from GTR
- I in the College of Computing commons anytime between 10am and 2pm.\n\nCan
- 't make it in the morning or really want to be considered for their team?\
- n\nTech Talk - GitVerse\nJoin them in Klaus 1116 E&W\, from 6:30pm – 8pm
- !\n\nNathan Braswell of GTRI's CIPHER lab will discuss his project GitVers
- e. GitVerse is a decentralized alternative to centralized Git repository h
- osts such as GitHub and GitLab. Using distributed filesystems (IPFS and Et
- hereum Swarm) and the Ethereum blockchain\, a fairly feature-complete alte
- rnative can be constructed\, and we have developed a proof-of-concept. The
-  distributed filesystems work similarly to BitTorrent where each client se
- rves part of the file being shared\, instead of having a central server su
- pplying the entire file to every client\, while the Ethereum blockchain tr
- acks the hash of the most recent version and controls access. GitVerse is 
- more resilient to malicious attacks and unaffected by any one company's wh
- ims. GitVerse’s serverless architecture also allows it to be set up easi
- ly in restricted environments\, including out in the field and inside clos
- ed labs.\n\nFree food will be provided if you come early!\n\nLinks:\n[0]  
- http://hg.gatech.edu/node/615771#0
-LOCATION:10-2pm CCB commons & 6:30pm – 8pm Klaus 1116 E&W.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SLS New Faculty Orientation
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190205T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190205T170000Z
-UID:http://hg.gatech.edu/node/615266#0
-DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nThis pr
- esentation is aimed at faculty who are new (or new-ish!) to Tech. We will 
- introduce you to Serve-Learn-Sustain\, to our Teaching Toolkit\, and to ou
- r integrated approach to "creating sustainable communities." If you are in
- terested in sustainability or in community engagement\, or especially if y
- ou are teaching or researching at the intersection of the two\, then come 
- learn about Serve-Learn-Sustain. And of course if you've been at Tech a lo
- ng time\, but aren't sure what SLS is\, what our Teaching Toolkit has\, an
- d how we can support your teaching\, then we would love to have you\, too!
-  We will have coffee and snacks\, and will keep this presentation zippy!\n
- \nLinks:\n[0]  http://hg.gatech.edu/node/615266#0
-LOCATION:Clough 469
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Transfer Student Workshop: What to Expect in Research?
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190205T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190205T170000Z
-UID:http://hg.gatech.edu/node/617297#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Undergraduate students\nSta
- tus: published\n\nCalling all transfer students! The Georgia Tech Undergra
- duate Research Ambassadors are ready to help you navigate the world of res
- earch! Come by the Clough 205Q Lounge for FREE FOOD and advice from a dive
- rse panel of Ambassadors (and transfer students!) here to answer your ques
- tions about what it's like to be an undergraduate researcher!\n\nLinks:\n[
- 0]  http://hg.gatech.edu/node/617297#0
-LOCATION:Clough Commons\, 2nd Floor\, Clough Room 205Q
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Undergraduate Net Impact Information Session - RESCHEDULED
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190205T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190205T230000Z
-UID:http://hg.gatech.edu/node/616384#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nInterested in learning more about building a su
- stainable world?\nJoin the Net Impact Undergraduate Chapter at Scheller Co
- llege!\n\nOur first informational meeting will be:\nFebruary 5th | 5-6p***
- **\nRay C. Anderson Center for Sustainable Business| Suite 4426\nScheller 
- College of Business\n*****RESCHEDULED\n\nCome learn more about the Net Imp
- act community\, and give feedback for programming.\nLight refreshments wil
- l be provided.\nQuestions? contact David Bostater at davidbostater@gmail.c
- om [1]\, or Kjersti Lukens klukens3@gatech.edu [2]\n\n“Net Impact inspir
- es and equips emerging leaders to build a more just and sustainable world.
- ”\n\nLinks:\n[0]  http://hg.gatech.edu/node/616384#0\n[1]  davidbostater
- @gmail.com\n[2]  klukens3@gatech.edu
-LOCATION:Scheller College of Business\, Suite 4426 800 W. Peachtree St. NW
- \, Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:An Evening with NVIDIA
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190205T233000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190206T020000Z
@@ -31143,6 +31036,26 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin Dr. Martin Mouriga
 LOCATION:Midtown (Location TBD)\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dinner meeting with Heath & Lineback Engineering\, Inc
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200204T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200204T170000Z
+UID:https://gatech.campuslabs.com/engage/event/5560978
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nSince 1994
+ \, Atlanta-based Heath & Lineback Engineers has designed civil and structu
+ ral projects for federal\, state\, county\, municipal\, and architectural 
+ clients. Our projects range from the most complex – the 5th Runway bridg
+ e structure over I-285 at Hartsfield-Jackson Atlanta International Airport
+  – to straightforward design for transportation infrastructure\, civil/s
+ ite\, low-rise structural buildings\, and pedestrian facilities.\n\nOur st
+ rength is having the ability to meet engineering challenges with innovativ
+ e\, cost-effective\, and constructible solutions. Design problems are addr
+ essed using logical value planning techniques that enable us to identify t
+ he needs and desires of our client\, pinpoint any project constraints\, an
+ d develop viable solutions.\n\nLinks:\n[0]  https://gatech.campuslabs.com/
+ engage/event/5560978
+LOCATION:Mason Building - room 1133
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:February Meeting
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200204T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200204T170000Z
@@ -31151,6 +31064,27 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nMonthly Living Learning
   Communities Council Meeting!\n\nLinks:\n[0]  https://gatech.campuslabs.co
  m/engage/event/5157684
 LOCATION:Student Center Room 321
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General Meeting with Golder
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200204T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200204T170000Z
+UID:https://gatech.campuslabs.com/engage/event/5561019
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nAcross the
+  globe\, companies and governments are creating the world of tomorrow. The
+ y are building vital infrastructure\, developing projects\, restoring land
+ scapes and renewing their economies with sustainability in mind.\n\nWe are
+  an employee-owned\, global organization providing consulting\, design\, a
+ nd construction services in our specialist areas of earth\, environment\, 
+ and energy through technical excellence\, innovative solutions and award w
+ inning client service. Today\, our clients represent the world’s major i
+ ndustries and drivers of development: Oil and Gas\, Mining\, Manufacturing
+ \, Power\, and Infrastructure.\n\nEmployee owned since being founded in 19
+ 60\, our more than 6\,500 people operating from 165 offices worldwide deli
+ ver deep technical understanding\, cross-disciplinary thinking and a passi
+ on to help our clients succeed.\n\nLinks:\n[0]  https://gatech.campuslabs.
+ com/engage/event/5561019
+LOCATION:Mason Building - room 1133
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SCL February 2020 Supply Chain Day
@@ -31622,6 +31556,47 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Krone Engineered Biosystems Building\, Room 1005 - Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Coronavirus Forum
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200210T200000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200210T210000Z
+UID:http://hg.gatech.edu/node/632138#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nThe Center for Microbial Dynamics and Infection [2] will host a special 
+ a special Corornavirus Forum\, featuring three short talks spanning real-t
+ ime sequence analysis\, outbreak strength estimation\, and drug developmen
+ t.\n\nThe first of the talks will be presented on phylodynamics and real-t
+ ime sequence analysis by Trevor Bedford [3]\, who will be joining via vide
+ o conference. Dr. Bedford is an Associate Member at the Fred Hutchinson Ca
+ ncer Research Center in the Vaccine and Infectious Disease Division and th
+ e Computational Biology Program. He is also an Affiliate Associate Profess
+ or in the Department of Genome Sciences and the Department of Epidemiology
+  at the University of Washington.\n\nThe second talk will be presented by 
+ Joshua Weitz [4] on estimating outbreak strength and speed in regards to t
+ he coronavirus. Dr. Weitz is a professor in the GT School of Biological Sc
+ iences and the director of the Georgia Tech Interdisciplinary PhD in Quant
+ itative Biosciences.\n\nThe third talk focusing on viral replication and d
+ rug design will be presented by Phil Santangelo [5]\, a professor in the G
+ eorgia Tech Coulter Department of Biomedical Engineering.\n\nThe forum is 
+ open to all and will take place in IBB 1128 on Monday\, February 10th from
+  3:00 - 4:00PM\, with a science networking session to follow from 4:00 - 4
+ :30PM. Free light refreshments will be provided during the networking sess
+ ion.\n\nThe Center for Microbial Dynamics and Infection [2] will host a sp
+ ecial Coronavirus Forum\, featuring three short talks spanning real-time s
+ equence analysis (by Trevor Bedford\, Fred Hutch\, joining via video confe
+ rence)\, outbreak strength estimation (by Joshua Weitz\, BioSci\, GT)\, an
+ d drug development (by Phil Santangelo\, BME\, GT). The forum is open to a
+ ll and will take place in IBB 1128 on Monday 2/10 from 3-4pm with science 
+ networking to follow from 4-4:30pm. Light refreshments to follow.\n\nLinks
+ :\n[0]  http://hg.gatech.edu/node/632138#0\n[1]  http://hg.gatech.edu/node
+ /632130#0\n[2]  https://microdynamics.gatech.edu/\n[3]  http://www.fredhut
+ ch.org/en/faculty-lab-directory/bedford-trevor.html\n[4]  http://bioscienc
+ es.gatech.edu/people/joshua-weitz\n[5]  http://bme.gatech.edu/bme/faculty/
+ Philip-Santangelo
+LOCATION:Petit Biotechnology Building\, Room 1128 - 791 Atlantic Dr\, Atla
+ nta\, GA 30332
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Career advice: resumes\, elevator pitches & more with Michael Laug
  hter
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200210T230000Z
@@ -32056,6 +32031,18 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SCPC presents Valentine's Day Movie Night
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200215T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200215T020000Z
+UID:http://hg.gatech.edu/node/632084#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nJoin us on February 14th at Under the Couch for
+  a FREE screening of La La Land. The movie will start promptly at 7:00pm. 
+ Refreshments and snacks will be provided.\n\nLinks:\n[0]  http://hg.gatech
+ .edu/node/632084#0
+LOCATION:Student Center Under the Couch
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Food Distribution Volunteering
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200215T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200215T190000Z
@@ -32304,7 +32291,7 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  , particularly research involving human subjects and in nanotechnology. Cu
  rrently he is writing a book about political\, cognitive\, and economic ob
  stacles to long-term policy making.\n\nLinks:\n[0]  http://hg.gatech.edu/n
- ode/631995#0
+ ode/631995#0\n[1]  http://hg.gatech.edu/node/632069#0
 LOCATION:DM Smith Bldg\, rm 105
 END:VEVENT
 BEGIN:VEVENT
@@ -32630,6 +32617,44 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nI-Create\, the new comm
 LOCATION:I-House
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A Conversation on Leadership with GT Alum Mojgan Lefebvre
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200302T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200303T010000Z
+UID:http://hg.gatech.edu/node/632125#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\, Freebies\nStatus: 
+ published\n\nGeorgia Tech College of Computing Alumna Mojgan Lefebvre retu
+ rns to campus on Monday\, March 2 for an evening exploring technology\, in
+ novation and cybersecurity in today’s business world. Lefebvre\, who com
+ pleted her undergraduate studies in computer science\, currently serves as
+  Executive Vice President and Chief Technology and Operations Officer at T
+ ravelers\, a Dow 30 company and a leader in property casualty insurance. J
+ oin us for this dinner program as we learn about her career path from unde
+ rgrad to the C-suite and explore the forward-looking technology trends tha
+ t are shaping the business environment for tomorrow’s business leaders.\
+ n\nPresented by the Travelers Institute [1] and Georgia Tech’s College o
+ f Computing [2].\n\nProgram Agenda:\n\nA Conversation on Leadership with G
+ eorgia Tech Alumna Mojgan Lefebvre\nMojgan Lefebvre\, [3] Executive Vice P
+ resident & Chief Technology and Operations Officer\, Travelers\nModerator 
+ – Joan Woodward\, [4] Executive Vice President for Public Policy\; Presi
+ dent\, Travelers Institute\; Travelers\n\nLeadership Outlook on Cybersecur
+ ity\nModerator – Joan Woodward\, [4] Executive Vice President for Public
+  Policy\; President\, Travelers Institute\; Travelers\nMojgan Lefebvre\, [
+ 3] Executive Vice President & Chief Technology and Operations Officer\, Tr
+ avelers\nEddie Chang\, [5] Second Vice President\, Cyber Risk Management\,
+  Travelers\nJimmy Lummis\, [6] Chief Information Security Officer\, Inform
+ ation Technology Strategy\, Georgia Tech\n\nLinks:\n[0]  http://hg.gatech.
+ edu/node/632125#0\n[1]  http://www.travelersinstitute.org/\n[2]  https://w
+ ww.cc.gatech.edu/\n[3]  https://www.travelers.com/iw-documents/travelers-i
+ nstitute/Mojgan%20Lefebvre%20Bio%20External%20Jan%202020.pdf\n[4]  https:/
+ /www.travelers.com/travelers-institute/about-us/leadership\n[5]  https://w
+ ww.travelers.com/iw-documents/travelers-institute/Eddie%20Chang%20Bio%2020
+ 20.pdf\n[6]  https://oit.gatech.edu/jimmy-lummis\n[7]  https://web.cvent.c
+ om/event/6b3fc180-d3d5-450e-98dc-49e09674ddc9/regProcessStep1?rp=00000000-
+ 0000-0000-0000-000000000000
+LOCATION:Klaus Atrium
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Society of Women Engineers General Body Meeting
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200303T221500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200304T000000Z
@@ -32815,6 +32840,24 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Stein House/4th St. A\, 733 Techwood\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Celebrating Teaching Day
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200310T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200310T163000Z
+UID:http://hg.gatech.edu/node/632089#0
+DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nJoin us
+  for Celebrating Teaching Day! This is an annual event hosted by the Cente
+ r for Teaching and Learning to honor and celebrate the dedication of Georg
+ ia Tech faculty and instructors from across campus. The event will feature
+  a poster session eaturing recent educational initiatives from the Georgia
+  Tech community and luncheon where we will recognize all those who are mak
+ ing a positive impact on the learning environment. We hope you will join u
+ s!\n\nSchedule\n\n- 10:00 a.m. – 11:15 a.m.: Poster Session\n- 11:15 a.m
+ . – 12:30 p.m.: Luncheon and Faculty Honors Program and Raffle\n\nPlease
+  sign up [1] to attend.\n\nLinks:\n[0]  http://hg.gatech.edu/node/632089#0
+ \n[1]  https://ctl.gatech.edu/content/celebrating-teaching-day-2020
+LOCATION:Student Center\, Ballroom
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nano@Tech: Debra Rolison\, Naval Research Laboratory
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200310T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200310T170000Z
@@ -32952,6 +32995,28 @@ DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nInstitu
  gatech.edu/implicit-bias-workshops\n[2]  https://global.hgncloud.com/ga_in
  stitute_tech/ts/home\n[3]  http://sarah.cockrell@gtri.gatech.edu/
 LOCATION:Student Center\, Peachtree Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IEN Technical Seminar: Electron Beam Lithography
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200313T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200313T180000Z
+UID:http://hg.gatech.edu/node/632095#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nThe Institute for
+  Electronics and Nanotechnology Presents E-Beam Lithography\nIn this semin
+ ar participants will learn about current and emerging techniques in E-Beam
+  lithography for various research disciplines.\n\nCourse Schedule with App
+ roximate Times:\n\n•12:00pm - 1:00pm "Forward Looking Applications andRe
+ search with Electron Beam Lithography" - Devin K. Brown: Senior Research E
+ ngineer\, Georgia Tech\n\n•1:00pm - 2:00pm "Elionix Electron Beam Lithog
+ raphyTechnology" - Taichi Suhara: Technical Support Engineer\, ELIONIX Inc
+ .\, Japan\n\nPizza Lunch Provided to Registered Attendees\n\nTo register f
+ or this class please use the following link:\n[1]\n\nFor More Information\
+ , please contact: Devin K. Brown\ndevin.brown@ien.gatech.edu\n404.385.5370
+ \n\nLinks:\n[0]  http://hg.gatech.edu/node/632095#0\n[1]  https://tinyurl.
+ com/elitho2020
+LOCATION:Marcus Nanotechnology Building 1116-1118 | 345 Ferst Drive | Atla
+ nta GA | 30332
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Food Distribution Volunteering
@@ -33179,6 +33244,32 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin Dr. Matt McDowell
 LOCATION:Highland Bakery\, Georgia Tech Campus
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2020 Graduate Open House
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200327T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200327T210000Z
+UID:http://hg.gatech.edu/node/632133#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nGraduate students admitted for Fall 2020 are in
+ vited to join the School of Architecture for lunch\, conversations with fa
+ culty and current students\, a tour of the architecture facilities\, and m
+ ore!\n\nIf you were admitted to the graduate program with the Georgia Tech
+  School of Architecture\, RSVP HERE. [1]\n\n2020 Graduate Open House Agend
+ a\n\n11 a.m. | Arrival/Coffee\, Hinman Hammock\n\n11:30 a.m. – 12:00 p.m
+ . | Welcome presentation by School of Architecture Chair\, Scott Marble\, 
+ our program directors\, Michael Gamble\, Ellen Dunham-Jones\, Russell Gent
+ ry\, and Dennis Shelden) and our advisors\, Robin Tucker and Nitra Wisdom\
+ n\n12:00 – 12:15 p.m. | Introduction of Graduate Ambassadors\n\n12:15 
+ – 1:15 p.m. | Lunch + faculty introductions\, Hinman Hammock\n\n1:30 –
+  3:00 p.m. | Studio Tour\, Hinman Research Building\n\n3:15 – 3:45 p.m. 
+ | Digital Fabrication Lab Tour\n\n3:45 – 4:45 p.m. | Lab/Focus Area Facu
+ lty Presentations (Digital Building Lab\, High Performance Building Lab\, 
+ SimTigrate Design Lab\, Shape Computation Lab)\n\n5:00 p.m. | Adjourn + Mi
+ xer hosted by the Georgia Tech School of Architecture chapters of AIAS\, E
+ QiA\, and NOMAS\n\nLinks:\n[0]  http://hg.gatech.edu/node/632133#0\n[1]  h
+ ttps://arch.gatech.edu/2020-graduate-open-house
+LOCATION:Georgia Tech School of Architecture
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Food Distribution Volunteering
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200328T140000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200328T180000Z
@@ -33224,6 +33315,15 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nMeet in front of Blue D
  ing as a group.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event
  /5465826
 LOCATION:Medshare
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brunch is Better: Grad Student Appreciation Week Brunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200330T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200330T153000Z
+UID:http://hg.gatech.edu/node/632104#0
+DESCRIPTION:Intended audience: Graduate students\nExtras: Free food\nStatu
+ s: published\n\nLinks:\n[0]  http://hg.gatech.edu/node/632104#0
+LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GTMI Lunch and Learn Series - Laser Micromachining
@@ -33273,6 +33373,15 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDr. Rebecca Burnett\, D
  nstrate.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/551089
  3
 LOCATION:Stein House/4th St. A\, 733 Techwood Dr.\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Treats for Grads
+DTSTART;VALUE=DATE:20200331
+DTEND;VALUE=DATE:20200401
+UID:http://hg.gatech.edu/node/632106#0
+DESCRIPTION:Intended audience: Graduate students\nExtras: Free food\nStatu
+ s: published\n\nLinks:\n[0]  http://hg.gatech.edu/node/632106#0
+LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Society of Women Engineers General Body Meeting
@@ -33344,6 +33453,29 @@ DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\nStatus: p
 LOCATION:Room 301\, Student Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Phi Alpha Theta Keynote
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200401T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200401T233000Z
+UID:http://hg.gatech.edu/node/632087#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
+ aduate students\nStatus: published\n\nDr. James Brooks\, Carl and Sally Ga
+ ble Distinguished Professor of History at the University of Georgia\, will
+  give a keynote talk from 5:00-6:30 PM. Dr. Brooks is a leading historian 
+ of western history and public history. His 2002 book\, Captives & Cousins:
+  Slavery\, Kinship and Community in the Southwest Borderlands focused on t
+ he traffic in women and children across the region as expressions of inter
+ cultural violence and accommodation and won the Bancroft Prize. Mesa of So
+ rrows: A History of the Awat’ovi Massacre appeared from WW Norton in 201
+ 6\, and garnered the 2017 Caughey Prize for the most distinguished book on
+  the American West from the Western History Association\, and the 2017 Erm
+ ine Wheeler-Voeglin Book Award for best book-length contribution to the fi
+ eld from the American Society for Ethnohistory.\n\nDr. Brooks will be spea
+ king about his current project\, "Picketwire." After the Keynote\, there w
+ ill be a separate banquet dinner for members and new inductees of Phi Alph
+ a Theta.\n\nLinks:\n[0]  http://hg.gatech.edu/node/632087#0
+LOCATION:TBD
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:2020 Ideas 2 Serve Finals
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200401T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200402T003000Z
@@ -33378,6 +33510,15 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
  h.edu/centers-initiatives/ile/i2s/index.html\n[4]  https://www.scheller.ga
  tech.edu/why-scheller/visit-campus/directions-parking.html
 LOCATION:Scheller College of Business
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Treats for Grads
+DTSTART;VALUE=DATE:20200402
+DTEND;VALUE=DATE:20200403
+UID:http://hg.gatech.edu/node/632107#0
+DESCRIPTION:Intended audience: Graduate students\nExtras: Free food\nStatu
+ s: published\n\nLinks:\n[0]  http://hg.gatech.edu/node/632107#0
+LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Career Services Workshop: Time's Up
