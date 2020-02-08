@@ -2,365 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:An Evening with NVIDIA
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190205T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190206T020000Z
-UID:http://hg.gatech.edu/node/615770#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nAn Evening with NVIDIA
- \nExplore the future of AI computing in engaging tech talks with experts w
- ho are creating new realities with AI.\n\nKlaus 1116E&W\, 6:30pm-8pm\n\nFr
- ee dinner will be provided if you arrive early!\n\nRandy Gelhausen Technic
- al Product Manager for NVIDIA Rapids\n\nTitle: High Performance Data Scien
- ce and Analytics with GPU Data Frames\nOded Green Sr. Graph Software Engin
- eer for NVIDIA Rapids\n\nTitle: High Performance Graph Frameworks on NVIDI
- A GPUs\n\nREGISTER HERE: [1]\n\nQ&A and Networking\n8pm-9pm\n\nA Deluxe Ho
- t Chocolate Station and Mini Desserts will be served!\n\nLinks:\n[0]  http
- ://hg.gatech.edu/node/615770#0\n[1]  https://eveningwithnvidia.eventbrite.
- com
-LOCATION:6:30pm – 9pm Klaus 1116 E&W.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ivan Allen Cup: Karaoke
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190206T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190206T020000Z
-UID:http://hg.gatech.edu/node/616701#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
- aduate students\nExtras: Free food\nStatus: published\n\nIt's up to you to
-  decide who wins the second annual Ivan Allen Cup! Bring your friends and 
- get ready to compete!\n\nThe first event in the 2019 Ivan Allen Cup compet
- ition is karaoke at Under the Couch. If you're interested\, please complet
- e the interest form here [1].\n\nLinks:\n[0]  http://hg.gatech.edu/node/61
- 6701#0\n[1]  https://docs.google.com/forms/d/e/1FAIpQLSed-h7nlGHEnlyufGscg
- n25dJU0iww0jvZp2ZM81bDuqk8KlA/viewform?usp=sf_link
-LOCATION:Under the Couch
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Library Open House Feb. 6
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190206T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190206T190000Z
-UID:http://hg.gatech.edu/node/616908#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nExtras: Free food\nStatus: published\n\nThe Geo
- rgia Tech Library will host an open house for students\, faculty and staff
-  Wednesday\, Feb. 6 from 10-2 in the newly refurbished Crosland Tower.\n\n
- The event\, which features hourly tours of the Library\, includes a self-g
- uided portion with the Library staff who manage each specialty space. Refr
- eshments will be provided.\n\nTours of the facility will be held hourly be
- ginning at the Bobby Dodd Way/Grove-level entrance at 10 a.m. To secure a 
- spot on a tour\, visit our online sign-up [1].\n\nThe tower\, closed for r
- enovations since January 2016\, features eight stories of archives\, class
- room\, study\, and studio space for Tech’s students\, faculty\, and staf
- f. Included are spaces and technology for data visualization\, high-perfor
- mance computing\, multimedia studies\, collaboration\, and iterative desig
- n.\n\nOver the last 36 months\, crews removed the brick façade of Croslan
- d Tower\, built in 1968 to house a rapidly growing collection of books. Or
- iginally\, the building was meant to keep out sunlight harmful to the book
- s\, housing stacks on seven-foot high\, reinforced floors.\n\nIn its new i
- teration\, Crosland Tower boasts loads of natural light and soaring\, mult
- i-floor atriums mirroring the midcentury modern architecture of Price Gilb
- ert Memorial Library\, now under renovation until 2020.\n\nWhen complete\,
-  both buildings will more than double seating capacity while cutting energ
- y consumption by nearly 60 percent.\n\nFor more information about the ongo
- ing transformation\, visit library.gatech.edu [2] or join the conversation
-  on Facebook [3]\, Twitter [4]\, or Instagram [5].\n\nLinks:\n[0]  http://
- hg.gatech.edu/node/616908#0\n[1]  https://forms.library.gatech.edu/node/47
- \n[2]  http://www.library.gatech.edu\n[3]  https://www.facebook.com/Georgi
- aTechLibrary/\n[4]  https://twitter.com/GTLibrary\n[5]  https://www.instag
- ram.com/gtlibrary
-LOCATION:Georgia Tech Library: Crosland Tower
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GTRI Day on Campus
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190206T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190207T010000Z
-UID:http://hg.gatech.edu/node/616800#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nDay in the Lobby\nBrin
- g your resume and come chat with recruiters from GTRI in the College of Co
- mputing commons anytime between 10am and 2pm.\n\nCan’t make it in the mo
- rning?\n\nTech Talk – GitVerse\nPresenter: Nathan Braswell\, GTRI CIPHER
-  Lab\n\nNathan Braswell of GTRI's CIPHER lab will discuss his project GitV
- erse. GitVerse is a decentralized alternative to centralized Git repositor
- y hosts such as GitHub and GitLab. Using distributed filesystems (IPFS and
-  Ethereum Swarm) and the Ethereum blockchain\, a fairly feature-complete a
- lternative can be constructed\, and we have developed a proof-of-concept. 
- The distributed filesystems work similarly to BitTorrent where each client
-  serves part of the file being shared\, instead of having a central server
-  supplying the entire file to every client\, while the Ethereum blockchain
-  tracks the hash of the most recent version and controls access. GitVerse 
- is more resilient to malicious attacks and unaffected by any one company's
-  whims. GitVerse’s serverless architecture also allows it to be set up e
- asily in restricted environments\, including out in the field and inside c
- losed labs.\n\nFree food will be provided if you come early!\n\nLinks:\n[0
- ]  http://hg.gatech.edu/node/616800#0
-LOCATION:10-2pm CCB commons \; 6:30pm-8pm Klaus 1116 West
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How the Universe Made the Elements in the Periodic Table
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190206T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190207T003000Z
-UID:http://hg.gatech.edu/node/616189#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nA Frontiers in Science Lecture to celebrate 2019\, the International Yea
- r of the Periodic Table\nThe creation of the elements in the universe took
-  billions of years and required various processes.\n\nThe first few minute
- s of the big bang produced only hydrogen (H) and helium (He). No new eleme
- nts were formed until a few hundred million years later when the first gen
- eration of stars were born and they started fusing H and He into slightly 
- higher-mass elements\, such as carbon and oxygen. Various fusion reactions
-  by multiple generations of stars eventually created elements up to iron (
- Fe).\n\nHowever\, normal stars cannot produce elements beyond Fe. Creation
-  of elements heavier than Fe required the cataclysmic explosions of supern
- ovas. These violent deaths of massive stars not only completed the natural
-  elements in the periodic table. They also enabled human life\, because ce
- rtain life processes require heavy elements.\n\nAbout the Speaker\nJames 
- “Jim” Sowell [1] is an astronomer at Georgia Tech and the director of 
- the Georgia Tech Observatory [2]. He has taught Georgia Tech’s two Intro
- ductory Astronomy courses for 27 years and the advanced Stellar Astrophysi
- cs course for 20 years.\n\nHe won the inaugural CETL Undergraduate Educato
- r Award in 2009. He often performs public outreach and education\, includi
- ng the widely popular\, monthly Public Nights at the Observatory [3]\; pre
- sentations at schools\; and workshops for K-12 teachers. He developed the 
- Aloha Telescope [4]. This remotely controlled facility in Hawaii allows At
- lanta area K-12 teachers and students to view live images of the Moon duri
- ng regular school hours.\n\nSowell earned B.S. and M.S. degrees from Vande
- rbilt University and a Ph.D. from the University of Michigan. He joined Ge
- orgia Tech in 1989.\n\nAbout Frontiers in Science Lectures\nLectures in th
- is series are intended to inform\, engage\, and inspire students\, faculty
- \, staff\, and the public on developments\, breakthroughs\, and topics of 
- general interest in the sciences and mathematics. Lecturers tailor their t
- alks for nonexpert audiences.\n\nAbout the Periodic Table Frontiers in Sci
- ence Lecture Series\nThroughout 2019\, the College of Sciences will bring 
- prominent researchers from Georgia Tech and beyond to expound on little-di
- scussed aspects of chemical elements:\n\n- Feb. 6\, James Sowell\, How the
-  Universe Made the Elements in the Periodic Table\n- March 5\, Michael Fil
- ler\, Celebrating Silicon: Its Success\, Hidden History\, and Next Act\n- 
- April 2\, John Baez\, University of California\, Riverside\, Mathematical 
- Mysteries of the Periodic Table\n- April 18\, Sam Kean\, Author\, The Peri
- odic Table: A Treasure Trove of Passion\, Adventure\, Betrayal\, and Obses
- sion\n- Sept. 12\, Monica Halka\, The Elusive End of the Periodic Table: W
- hy Chase It?\n- October\, Taka Ito\, Turning Sour\, Bloated\, and Out of B
- reath: Ocean Chemistry under Global Warming (This will take place on the T
- hursday of Homecoming Week 2019)\n- Nov. 12\, Margaret Kosal\, The Geopoli
- tics of Rare and Not-So-Rare Elements\n\nClosest public parking is Visitor
- s Area 2\, on Ferst Street by the Student Center\, [5]\n\nRefreshments ser
- ved after every lecture\n\nLinks:\n[0]  http://hg.gatech.edu/node/616189#0
- \n[1]  https://www.physics.gatech.edu/user/james-sowell\n[2]  http://www.a
- stronomy.gatech.edu/\n[3]  https://cos.gatech.edu/events/public-nights-geo
- rgia-tech-observatory\n[4]  https://aloha.gatech.edu/about\n[5]  http://pt
- s.gatech.edu/visitors#l3\n[6]  http://www.astronomy.gatech.edu/index.php\n
- [7]  http://www.physics.gatech.edu\n[8]  https://periodictable.gatech.edu/
-LOCATION:Room 152\, Clough Undergraduate Learning Commons
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Legislative Council - Elections
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190207T010000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190207T040000Z
-UID:http://hg.gatech.edu/node/617434#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: archived\n\nFancy-themed\, come dressed u
- p in your fanciest attire and get a professional headshot taken! This Legi
- slatice Council will be immediately followed by elections for the next Pre
- sident\, Director of Internal Affairs\, and Director of Finance. Due to th
- e length of elections\, the Legislative Council start time has been moved 
- forward to 8:00pm. The pre-LC social will begin at 7:30.\n\nLinks:\n[0]  h
- ttp://hg.gatech.edu/node/617434#0
-LOCATION:Flag Building\, 117
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Revel Systems Day on Campus
-DTSTART;VALUE=DATE:20190207
-DTEND;VALUE=DATE:20190208
-UID:http://hg.gatech.edu/node/615772#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nDay in the Lobby\nBrin
- g your resume and come chat with recruiters from Revel in the College of C
- omputing commons anytime between 11am and 4pm.\n\nCan't make it in the mor
- ning or really want to be considered for their team?\n\nTech Talk\nJoin us
-  tonight at 630pm at the Klaus Advanced Computing Building\, Room 1116 to 
- see how Revel seeks to disrupt and modernize the state of commerce in the 
- restaurant space by providing businesses the tools necessary to thrive.\n\
- nOur CTO will take a deeper dive into the products and technology we are u
- sing today within the Engineering Group at Revel Systems.\n\nFree food wil
- l be provided if you come early!\n\nAbout Revel\nRevel Systems is an award
- -winning iPad Point of Sale solution for single and multi-location busines
- ses. Our company is based in San Francisco and was founded with the goal o
- f innovating the Point of Sale market with a quick\, intuitive and secure 
- iOS-based POS system that combines cloud-based technology and the mobility
-  of the iPad. Revel Systems software offers a feature-rich Point of Sale s
- olution for any business.\n\nWant to Apply?\nThey will be collecting and r
- eviewing resumes for open internship and full-time opportunities in Softwa
- re Development! Click the link below to apply and view their current openi
- ngs.\n\nOpen Positions [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/61577
- 2#0\n[1]  https://revelsystems.com/careers/open-positions/
-LOCATION:11-4pm CCB commons & 6:30pm – 8pm Klaus 1116 E&W.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Queer Coffeehouse: Grad Students and Postdocs
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190207T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190207T170000Z
-UID:http://hg.gatech.edu/node/615258#0
-DESCRIPTION:Intended audience: Graduate students\, Postdoc\nExtras: Free f
- ood\nStatus: published\n\nThis Queer Coffeehouse is for graduate students 
- and postdocs. Please RSVP so we know how much food to order.\n\nLinks:\n[0
- ]  http://hg.gatech.edu/node/615258#0\n[1]  http://lgbtqia.gatech.edu
-LOCATION:LGBTQIA Resource Center\, Smithgall Student Services Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GVU Center Brown Bag: John M. Abowd\, "Privacy Protection and Data
-  Quality Are Everybody's Business"
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190207T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190207T180000Z
-UID:http://hg.gatech.edu/node/616958#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nExtras: Free food\nStatus: published\n\nAbstract
- :\n\nThe Census Bureau and many large Internet companies like Google and A
- pple have adopted formal models for privacy protection in their publicatio
- ns and research. While the technical details of these models are fascinati
- ng\, their implications for how we live and work in a world where vast amo
- unts of data are processed daily to learn about us are far more important.
-  Privacy protection and statistical accuracy are competing uses of the sam
- e good: the information in confidential databases. Engineers design the al
- gorithms for implementing the analysis with privacy protection. But societ
- y needs to decide which statistics need to be more accurate than other sta
- tistics. That's not an engineering decision\, that's a public policy decis
- ion. I will talk about how to think about that public policy.\n\nSpeaker B
- io:\n\nJohn M. Abowd is Chief Scientist and Associate Director for Researc
- h and Methodology at the United States Census Bureau and the Edmund Ezra D
- ay Professor of Economics\, Professor of Statistics and Information Scienc
- e at Cornell University (on leave). At the Census Bureau\, he leads a dire
- ctorate of research centers\, each devoted to domains of investigation imp
- ortant to the future of social and economic statistics. At Cornell\, his p
- rimary appointment is in the Department of Economics in the ILR School. He
-  is also Research Associate at the National Bureau of Economic Research (o
- n leave while serving in the federal government)\, Research Affiliate at t
- he Centre de Recherche en Economie et Statistique (CREST\, Paris\, France)
- \, Research Fellow at the Institute for Labor Economics (IZA\, Bonn\, Germ
- any)\, and Research Fellow at IAB. Abowd is the Director of the Labor Dyna
- mics Institute at Cornell. His current research and many activities of the
-  LDI focus on the creation\, dissemination\, privacy protection\, and use 
- of linked\, longitudinal data on employees and employers. Prof. Abowd’s 
- other research interests include network models for integrated labor marke
- t data\; international comparisons of labor market outcomes\; executive co
- mpensation with a focus on international comparisons\; bargaining and othe
- r wage-setting institutions\; and the econometric tools of labor market an
- alysis. Prof. Abowd served on the faculty at Princeton University\, the Un
- iversity of Chicago\, and the Massachusetts Institute of Technology before
-  moving to Cornell.\n\nLinks:\n[0]  http://hg.gatech.edu/node/616958#0\n[1
- ]  http://www.tsrb.gatech.edu/
-LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
- a\, Ga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Extended Reality (XR) for Teaching and Learning - C21U Seminar
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190207T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190207T180000Z
-UID:http://hg.gatech.edu/node/616738#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nPlease join C21U 
- for a Brown Bag Seminar on "Extended Reality (XR) for Teaching and Learnin
- g" with Blair MacIntyre\, David Joyner\, Didier Contis\, Miroslav Malesevi
- c\, Noah Posner and Matthew Swarts.\n\nExtended reality (XR) refers to rea
- l-and-virtual combined environment\, including virtual reality (VR)\, augm
- ented reality (AR)\, and mixed reality (MR). This talk explores the potent
- ial uses for extended reality in teaching and learning. We will discuss pr
- ojects currently underway in Georgia Tech classes and discuss the future o
- f XR in education.\n\nDate: Thursday\, February 7 from 12:00 - 1:00 p.m. E
- T\nLocation: Klaus 2405\n\nBring your brown bag lunch along. RSVP required
-  [1].\n\nSpeakers:\n\n- Blair MacIntyre [2] - Intro to XR\n- David Joyner 
- [3] - OMSCS VR Pilots\n- Didier Contis [4] - Magic Leap and the Metaverse\
- n- Miroslav Malesevic [5]\, Noah Posner [6] and Matthew Swarts [7] - ARbor
- etum and the Gorilla Sandbox\n\nLinks:\n[0]  http://hg.gatech.edu/node/616
- 738#0\n[1]  https://gatech.co1.qualtrics.com/jfe/form/SV_6g8vNwAm2mVGQkt\n
- [2]  https://www.cc.gatech.edu/people/blair-macintyre\n[3]  https://www.cc
- .gatech.edu/people/david-joyner\n[4]  https://members.educause.edu/didier-
- contis\n[5]  https://imagine.gatech.edu/node/518\n[6]  https://id.gatech.e
- du/people/noah-posner\n[7]  https://ipdl.gatech.edu/people/matt-swarts
-LOCATION:Klaus 2405
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ICLAST Memory Studies Event Coordinated by Dina Khapaeva
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190207T204500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190207T223000Z
-UID:http://hg.gatech.edu/node/616268#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nThe Georgia Tech Ivan Allen College of Liberal Arts would like to invite
-  you to join the Innovation and Collaboration in Liberal Arts\, Science\, 
- and Technology (ICLAST) Memory Studies event\, coordinated by Dina Khapaev
- a on Thursday\, February 7\, 2019\, from 3:45 - 5:30 p.m. in Stephen C. Ha
- ll Building\, Room 102.\n\nAll graduate students\, post docs\, and faculty
-  are welcome. Refreshments will be provided.\n\nPlease register here. [1] 
- An RSVP will help us estimate catering.\n\nThe ICLAST interdisciplinary re
- search discussion series is designed to encourage research collaborations 
- and to disseminate research to faculty\, post-doctoral fellows\, and maste
- rs and undergraduate students across the College and campus. Panelists fro
- m different Georgia Tech units and other Atlanta universities present thei
- r research on common topics linking the liberal arts\, sciences\, and tech
- nology.\n\nICLAST events are supported by a grant from GT-FIRE.\n\nLinks:\
- n[0]  http://hg.gatech.edu/node/616268#0\n[1]  https://docs.google.com/for
- ms/d/e/1FAIpQLSfWSzO19f3DoSurJJG9V8gMHQ1HTUe1rji_D5oNBdT791CcuA/viewform\n
- [2]  https://www.iac.gatech.edu/
-LOCATION:Room 102\, Stephen C. Hall Building\, 215 Bobby Dodd Way\, Atlant
- a\, Georgia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CREATE-X Presents Deep Startups with Tripp Rackley
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190207T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190208T000000Z
-UID:http://hg.gatech.edu/node/616807#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nFind out the Entrepreneur's Secret Sauce: Creating successful startups w
- ith GA Tech grad Tripp Rackley\n\n5:30 - 6 p.m. Networking\n\n6 - 7 pm Pre
- sentation\n\nDuring this session of Deep Startups\, Rackley will discuss h
- ow to go from idea to conception to a successful business. In 25 years\, R
- ackley has founded 4 successful startups in multiple industries including 
- mobile technology\, automotive\, event and sports technology\, and banking
- . He is currently the CEO of Kenzie Lane Innovation\, a company that build
- s technology companies from the ground up.\n\nAbout Tripp Rackley:\n\nTrip
- p Rackley is a true visionary and consummate inventor. Over the past 20 ye
- ars\,\nhe has founded and scaled multiple businesses spanning a variety of
-  unique\nindustries including financial services\, payments\, sports and e
- ntertainment\, as well\nas automotive. Rackley’s technology has been imp
- lemented by thousands of\npartners and used by millions of consumers natio
- nwide.\n\nWith an initial focus on financial services\, Rackley founded nF
- ront\, Inc.\, the pioneer\nof Internet banking. nFront provided consumer a
- nd business banking for thousands\nof financial institutions nationwide. R
- ackley took nFront public in June of 1999. The\ncompany later merged with 
- Digital Insight in 2000\, creating over $800 million in\nvalue for nFront
- ’s shareholders. Ultimately\, the company was sold to Intuit in 2007\nfo
- r $1.35 billion and then to NCR in 2014 for $1.65 billion.\n\nIn 2005\, Ra
- ckley again pushed the boundaries of financial services\, technology and\n
- innovation by founding Firethorn\, the first mobile payments company. Fire
- thorn\nstruck up partnerships with the two largest carriers\, AT&T and Ver
- izon Wireless\, to\ndeliver mobile payments to the consumer market. Fireth
- orn was sold to chip giant\nQualcomm in November of 2007 for $210 million.
- \n\nRackley’s third company\, Experience\, founded in 2011\, is an award
- -winning mobile\ntechnology company that empowers fans to personalize thei
- r live event experience.\nExperience was selected as the winner of the Spo
- rts Business Award in 2014 for Best\nin Sports Technology and in 2016 for 
- Best in Mobile Fan Experience. The company\nwas acquired by Cox Enterprise
- s in 2014.\n\nRackley also founded Clutch Technologies\, a software platfo
- rm that enables vehicle\nsubscription for the automotive industry. Today\,
-  Clutch is powering subscription\naccess for dealer groups and OEMs across
-  the country. Cox Automotive acquired\nClutch in 2018.\n\nTripp Rackley ha
- s been honored with various Awards over the years\nincluding:\n• John Im
- lay Leadership Award Recipient\, 2018\n• TAG FinTech Hall of Fame Induct
- ee\, 2018\n• Significant Sig Award from Sigma Chi International Fraterni
- ty\, 2013\n• Technology Hall of Fame of Georgia Inductee\, 2011\n• MIT
-  Distinguished Entrepreneur Achievement Award\, 2010\n• TechAmerica\; En
- trepreneur of the Year\, 2008\n• Bank Technology News Innovators Hall of
-  Fame\; Banking Top Innovator\, 2007\n• TechAmerica\; Spirit of Innovati
- on\, 2007\n• Ernst & Young Technology Entrepreneur of the Year\, 2000\n
- • Georgia Institute of Technology Engineering Hall of Fame\, 2000\n\nFoo
- d will be served.\n\nLinks:\n[0]  http://hg.gatech.edu/node/616807#0\n[1] 
-  https://bit.ly/2FMOa9Q
-LOCATION:Klaus Advanced Computing Building
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Greek Allies
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190207T223000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190208T020000Z
@@ -31266,6 +30907,24 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome out to hear from c
 LOCATION:Van Leer C340
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gartner info session with Pride Alliance
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200206T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200206T170000Z
+UID:https://gatech.campuslabs.com/engage/event/5574017
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nGartner is a global res
+ earch and advisory firm providing information\, advice\, and tools for lea
+ ders in IT\, finance\, HR\, customer service and support\, communications\
+ , legal and compliance\, marketing\, sales\, and supply chain functions.\n
+ \nThis is an informational event as well as recruiting for the future. The
+ y will be recruiting for their Sophomore Leadership Summit and various con
+ sulting style roles. Pizza will be provided!\n\n---\n\nY'all means all: th
+ is is an event for at LGBTQIA+ folks and their allies. Please email pride@
+ gatech.edu [1] if we can provide any accommodations to make this event mor
+ e accessible or if you have any questions.\n\nLinks:\n[0]  https://gatech.
+ campuslabs.com/engage/event/5574017\n[1]  pride@gatech.edu
+LOCATION:Klaus 1447
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kenneth Hyatt Distinguished Alumni Leadership Speaker Series
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200206T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200206T170000Z
@@ -31500,6 +31159,19 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Student Center Ballroom
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ASCE/AEES Career Fair
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200210T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200210T200000Z
+UID:https://gatech.campuslabs.com/engage/event/5574022
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nA career d
+ evelopment opportunity offered to Civil and Environmental Engineering stud
+ ents that allows them to interface with companies and possible earn intern
+ ships\, co-ops\, or full-time offers. This career fair is spread over two 
+ days and features several prominent firms within the industry.\n\nLinks:\n
+ [0]  https://gatech.campuslabs.com/engage/event/5574022
+LOCATION:Student Center Ballroom
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Grad Student Drop-In Focus Group
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200210T163000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200210T180000Z
@@ -31626,6 +31298,40 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Stein House/4th St. Apts. A\, 733 Techwood Drive\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Victory over Violence: Joyce McCauley-Benner of Feminists for Life
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200211T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200211T010000Z
+UID:http://hg.gatech.edu/node/632216#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nStudents for Life
+  at Georgia Tech is honored to welcome Joyce McCauley-Benner of Feminists 
+ for Life to campus!\n\nJoyce weaves her personal story of pregnancy after 
+ rape along with experiences from her advocacy efforts to help audiences un
+ derstand the powerful connection between the exploitation of women and the
+  exploitation of abortion. As a pro-life feminist\, Joyce has also worked 
+ as a racial justice facilitator and community organizer\, and currently ov
+ ersees a utility assistance program for low-income families in addition to
+  her pro-life feminist work.This event is free to attend\, all of the Geor
+ gia Tech and greater Atlanta communities are welcome to attend. No tickets
+  are required\, and refreshments will be provided. Join us for an unforget
+ table evening!\n\nLinks:\n[0]  http://hg.gatech.edu/node/632216#0\n[1]  ht
+ tps://www.facebook.com/events/800550183764782/
+LOCATION:D.M. Smith Room 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ASCE/AEES Career Fair
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200211T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200211T200000Z
+UID:https://gatech.campuslabs.com/engage/event/5574023
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nA career d
+ evelopment opportunity offered to Civil and Environmental Engineering stud
+ ents that allows them to interface with companies and possible earn intern
+ ships\, co-ops\, or full-time offers. This career fair is spread over two 
+ days and features several prominent firms within the industry.\n\nLinks:\n
+ [0]  https://gatech.campuslabs.com/engage/event/5574023
+LOCATION:Student Center Ballroom
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nano@Tech: Direct Write Processing of 3D Composite Nanostructures 
  and 2D Electronic Materials using Focused Beams of Molecules and Electrons
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200211T170000Z
@@ -31704,6 +31410,17 @@ DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nDo you lov
  see you there!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/
  5544644
 LOCATION:Brittain Rec.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Transfer Student Association PAL-entine's Day Celebration
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200211T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200212T010000Z
+UID:https://gatech.campuslabs.com/engage/event/5574018
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin TSA T
+ uesday\, February 11th for a PAL-entine's Day Celebration!\n\nThere will b
+ e Karaoke\, Sweet Treats\, and lots of FUN!\n\nLinks:\n[0]  https://gatech
+ .campuslabs.com/engage/event/5574018
+LOCATION:CRC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Career Services Interviewing Workshop
@@ -31822,6 +31539,27 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
  ch.edu/sclirc/seminars/register
 LOCATION:GTMI 1st floor auditorium OR ISyE Main Building\, 2nd Floor Atriu
  m (to be confirmed 30 days out)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Galentine's Day
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200212T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200213T000000Z
+UID:https://gatech.campuslabs.com/engage/event/5579327
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nWe will be celebrating 
+ Galentine's Day with food and fun times with friends!\n\nLinks:\n[0]  http
+ s://gatech.campuslabs.com/engage/event/5579327
+LOCATION:Klaus 1116
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thank a Professor
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200213T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200213T164500Z
+UID:https://gatech.campuslabs.com/engage/event/5579336
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAt this meeting we will
+  be making cards to thank our ECE professors for all that they do! We'll a
+ lso have Zaxby's for lunch!\n\nLinks:\n[0]  https://gatech.campuslabs.com/
+ engage/event/5579336
+LOCATION:Van Leer C340
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GVU Center Brown Bag: Howard Wertheimer "Sustainable Campus Develo
@@ -32031,6 +31769,20 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SCPC Presents: La La Land
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200215T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200215T020000Z
+UID:https://gatech.campuslabs.com/engage/event/5574012
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThe Student Center Prog
+ rams Council invites you a Valentine's Day showing of La La Land on Valent
+ ine's Day!\n\nLa La Land will be shown on Friday\, February 14th from 7pm 
+ to 9pm in Under the Couch in the Student Center. Admission is free\, so ju
+ st show up! Refreshments and snacks will be provided.\n\nEmail us at movie
+ s@scpc.gatech.edu if you have any questions\, comments\, or concerns.\n\nL
+ inks:\n[0]  https://gatech.campuslabs.com/engage/event/5574012
+LOCATION:Georgia Tech Student Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SCPC presents Valentine's Day Movie Night
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200215T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200215T020000Z
@@ -32073,6 +31825,18 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  od4lives.org/donate.html\n[3]  https://www.facebook.com/events/11779058659
  30288/
 LOCATION:Food4Lives\, 1122 Old Chattahoochee Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vine Night
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200216T212000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200216T230900Z
+UID:http://hg.gatech.edu/node/632207#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nJoin us for our second organizational social of the 
+ semester in the Student Center theater to watch vine compilations\, dine o
+ n vine-themed snacks\, and remake a few classic vines!\n\nLinks:\n[0]  htt
+ p://hg.gatech.edu/node/632207#0
+LOCATION:Student Center Theater
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GTMI Lunch and Learn Series - Energy-Efficient Manufacturing Towar
@@ -33534,6 +33298,57 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  du/node/630492#0\n[1]  https://gatech.co1.qualtrics.com/jfe/form/SV_9EMWBt
  tIVZgZ38N
 LOCATION:Klaus 1116
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Save the Date: Diversity\, Inclusion + Social Good in Urban Analyt
+ ics (DISA) Symposium
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200403T123000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200403T213000Z
+UID:http://hg.gatech.edu/node/632190#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nBackground\nUrban
+  Analytics (UA) and Smart Cities (SC) degree programs are becoming more co
+ mmon in the U.S. and globally. Often\, these programs don’t have a ‘pl
+ an’ for how technology and data analysis will tackle real world issues\,
+  or an understanding of how different perspectives on race\, ethnicity\, g
+ ender\, sexual-orientation\, disability and poverty status (and more) may 
+ add crucial variables to the study of urban analytics.\n\nAlthough the UA 
+ field is data-rich\, the questions and studies in this field may be ill-su
+ ited for helping cities reach the most vulnerable citizens\, or how to bes
+ t empower UA students to positively impact to the city and its people. Bec
+ ause these fields were founded with technocratic and engineering problem-s
+ olving ideals (values inherent to analytics and ‘smart’ endeavors)\, t
+ he research and thought leadership in UA ad SC lacks the voices and input 
+ of the typical urbanite and those most in need\, although it contributes p
+ owerful methods and draws talent.\n\nResearch Contribution\nWe will be gen
+ erating solutions for how our research and teaching can include a more div
+ erse body of tacit knowledge from the urban community and how can we solve
+  real-life problems with data analytics? We will be developing strategies 
+ and recommending formal research frameworks (mixed-method\, multi-scale\, 
+ validating-by-interview\, etc.) to guide UA and SC research towards champi
+ oning citizen voices and helping people.\n\nOur task is to have meaningful
+  conversations and develop a guiding agenda that can serve as an ‘interv
+ ention’ that is needed as UA and SC fields mature. Without this discussi
+ on\, these fields may not adopt the kinds of sensitivities towards diversi
+ ty\, inclusion and the human experience\, that it needs to best serve the 
+ people. The agenda will help put forth:\n\n- A plan to put crucial informa
+ tion into the hands of the city’s most vulnerable populations.\n\n- Meth
+ ods for using technology to collect data on spatial behaviors in a safe\, 
+ privacy-securing way\, and using the information to optimize locations of 
+ services and facilities.\n\n- Designs for tech education for disadvantaged
+  and underrepresented populations at multiple levels.\n\n- How to listen t
+ o and learn from citizens who need help and have first-hand perspectives (
+ i.e. tacit knowledge) on the urban ecosystem.\n\n- Open ended discussion o
+ n how to connect urban analytics to common-sense urban problems.\n\nEvents
+  and Symposium Schedule\n- 8:30am-9:00am - Coffee and Registration\n\n- 9:
+ 00am-9:45am - Keynote\n\n- 9:50am-10:50am - Panel 1:: Success Stories\n\n-
+  11:00am-12:00pm - Breakout 1\n\n- 12:00pm-1:00pm - Lunch:: On your own\, 
+ follow suggestions for groups based on themes\n\n- 1:00pm-2:00pm - Panel 2
+ :: Urban Voices\n\n- 2:00pm-3:00pm - Panel 3:: Rewarding Engaged Scholarsh
+ ip\n\n- 3:00pm-3:15pm - Coffee Break\n\n- 3:15pm-4:15pm - Breakout 2\n\n- 
+ 4:20pm-5:05pm - Closing Speaker\n\n- 5:15pm - Networking Reception\n\nLink
+ s:\n[0]  http://hg.gatech.edu/node/632190#0
+LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DramaTech presents A New Brain
