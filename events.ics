@@ -2,83 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Greek Allies
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190207T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190208T020000Z
-UID:http://hg.gatech.edu/node/616078#0
-DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\n
- Status: published\n\nGreek Allies is Georgia Tech’s LGBTQIA ally trainin
- g program for fraternity and sorority members. The interactive curriculum 
- is modeled on Safe Space but contains scenarios\, discussions\, and inform
- ation relevant to members of Greek organizations. The training is 3.5-hour
- s long and will be offered at times when most students are likely to be av
- ailable. Two or three trained student facilitators from fraternities and s
- ororities will lead the training. Free dinner is provided. Please register
-  for this event.\n\nLinks:\n[0]  http://hg.gatech.edu/node/616078#0\n[1]  
- http://lgbtqia.gatech.edu/greek-allies
-LOCATION:Register to receive the location
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Career Services: LinkedIn Workshop
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190207T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190208T010000Z
-UID:http://hg.gatech.edu/node/614500#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nBe the Kim K of LinkedIn\n\nWant 
- to connect and expand your career networks? Join Career Services and learn
-  how to create a LinkedIn profile and network with alumni and other career
-  professionals. Take advantage of this easy networking tool and start maki
- ng connections with people in all parts of the country.\n\nLinks:\n[0]  ht
- tp://hg.gatech.edu/node/614500#0
-LOCATION:CCB 017
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:C.L. Chandler Weather Chat
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190208T161500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190208T170000Z
-UID:http://hg.gatech.edu/node/616574#3
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nStatus: published\n\nEAS will be hosting our wee
- kly C. L. Chandler Weather Chat series again this Spring 2019 semester. Th
- is event is dedicated to Chandler\, who was a meteorologist for Delta Airl
- ines during the mid- to late 20th century and helped to develop one of the
-  most successful meteorological organizations within the airline industry.
- \n\nEvery week from 11:15 a.m. - noon in L1116 of Ford ES&T\, we will have
-  informal discussions about the most exciting weather events impacting Atl
- anta\, the U.S. and beyond that day as well as investigating forecast data
-  to learn more about upcoming significant weather events. Topics range fro
- m discussing major winter storms to severe weather outbreaks\, tropical cy
- clones\, lake-effect storms\, and even small-scale events like dense fog a
- nd mountain weather events.\n\nAll are welcome to attend\, including non-E
- AS majors and the general public. Feel free to bring your lunch as well as
-  a friend or two!\n\nLinks:\n[0]  http://hg.gatech.edu/node/616574#3
-LOCATION:Room L1116\, Ford ES&T Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CTL Book Club
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190208T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190208T173000Z
-UID:http://hg.gatech.edu/node/615678#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \nStatus: published\n\nThe Center for Teaching and Learning's book club of
- fers an opportunity to meet with a diverse group of faculty\, postdocs\, a
- nd graduate students to discuss books that focus on issues related to teac
- hing and learning in higher education. A lively and relaxed setting with a
-  Friday brownbag lunch provides an ideal setting in which to share teachin
- g experiences and to gather new teaching ideas.\n\nThis semester we're rea
- ding Creating the Path to Success in the Classroom [2] by Kathleen F. Gabr
- iel (2018) and The Neuroscience of Learning and Development [3] edited by 
- Marilee J. Bresciani Ludvik (2016).\n\nThis will be our second discussion 
- of the first book.\n\nFollow this link for more information and to registe
- r. [4]\n\nLinks:\n[0]  http://hg.gatech.edu/node/615678#0\n[1]  http://hg.
- gatech.edu/node/615655#0\n[2]  http://styluspub.presswarehouse.com/browse/
- book/9781579225575/Creating%20the%20Path%20to%20Success%20in%20the%20Class
- room\n[3]  https://styluspub.presswarehouse.com/browse/book/9781620362846/
- The%20Neuroscience%20of%20Learning%20and%20Development\n[4]  http://ctl.ga
- tech.edu/book-club-reg
-LOCATION:Clough 466A
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:VMware Day in the Lobby
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190211T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190211T210000Z
@@ -31562,6 +31485,22 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAt this meeting we will
 LOCATION:Van Leer C340
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Capital One Info Session
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200213T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200213T170000Z
+UID:https://gatech.campuslabs.com/engage/event/5589951
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nThere will
+  be a quick overview of Capital One\, who they are as a company\, the jobs
+  they are currently recruiting for and other opportunities. Afterward\, th
+ ere will be a panel discussion on being out in the workplace.\n\nWhether y
+ ou're in business\, technology\, or any other major\, we would love to hav
+ e you come by for the information as well as the food!\n\nPlease email pri
+ de@gatech.edu if we can provide any accommodations to make this event more
+  accessible or if you have any questions.\n\nLinks:\n[0]  https://gatech.c
+ ampuslabs.com/engage/event/5589951
+LOCATION:Klaus 1447
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GVU Center Brown Bag: Howard Wertheimer "Sustainable Campus Develo
  pment - Why it Matters"
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200213T163000Z
@@ -31666,6 +31605,21 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  fa7-academic\n[2]  https://www.signupgenius.com/go/30e0a4facac22a0fa7-acad
  emic1
 LOCATION:Georgia Tech Student Center\, Third Floor
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pride Alliance General Meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200213T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200214T000000Z
+UID:https://gatech.campuslabs.com/engage/event/5589956
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us this Thursday t
+ o celebrate Valentine's Day\, love\, happiness\, and community with candy 
+ and decorations!\n\nAs always\, there will be food and fun times for every
+ one! Feel free to invite your friends!\n\nY'all means all: this is an even
+ t for at LGBTQIA+ folks and their allies. Please email pride@gatech.edu [1
+ ] if we can provide any accommodations to make this event more accessible 
+ or if you have any questions.\n\nLinks:\n[0]  https://gatech.campuslabs.co
+ m/engage/event/5589956\n[1]  pride@gatech.edu
+LOCATION:Mason 3132
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MATLAB Deep Learning OnRamp
@@ -32026,6 +31980,72 @@ DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\nStatus: p
 LOCATION:Ferst Center for the Arts\, Richards Gallery
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GVU Center Brown Bag: Elisabetta Matsumoto "Twisted Topological Ta
+ ngles or: the knot theory of knitting"
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200220T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200220T180000Z
+UID:http://hg.gatech.edu/node/632236#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nExtras: Free food\nStatus: review\n\nAbstract:\n
+ \nImagine a 1D curve\, then use it to fill a 2D manifold that covers an ar
+ bitrary 3D object – this computationally intensive materials challenge h
+ as been realized in the ancient technology known as knitting. This process
+  for making functional materials 2D materials from 1D portable cloth dates
+  back to prehistory\, with the oldest known examples dating from the 11th 
+ century BCE. Knitted textiles are ubiquitous as they are easy and cheap to
+  create\, lightweight\, portable\, flexible and stretchy. As with many fun
+ ctional materials\, the key to knitting’s extraordinary properties lies 
+ in its microstructure.\n\nAt the 1D level\, knits are composed of an inter
+ locking series of slip knots. At the most basic level there is only one ma
+ nipulation that creates a knitted stitch – pulling a loop of yarn throug
+ h another loop. However\, there exist hundreds of books with thousands of 
+ patterns of stitches with seemingly unbounded complexity.\n\nThe topology 
+ of knitted stitches has a profound impact on the geometry and elasticity o
+ f the resulting fabric. This puts a new spin on additive manufacturing –
+  not only can stitch pattern control the local and global geometry of a te
+ xtile\, but the creation process encodes mechanical properties within the 
+ material itself. Unlike standard additive manufacturing techniques\, the i
+ nnate properties of the yarn and the stitch microstructure has a direct ef
+ fect on the global geometric and mechanical outcome of knitted fabrics.\n\
+ nSpeaker Bio:\n\nElisabetta Matsumoto is an assistant professor in the Sch
+ ool of Physics at Georgia Institute of Technology. Her physics research ce
+ nters around the relationship between geometry and material properties in 
+ soft systems\, including liquid crystals\, 3D printing and textiles. She i
+ s also interested in using sewing\, 3D printing and virtual reality in mat
+ hematical art and education. She is the recipient of an NSF CAREER award. 
+ She studied physics at the University of Pennsylvania\, earning her BA and
+  MS in 2007 and her PhD in 2011. She has been knitting and crochet since s
+ he was about 12 and has been sewing for longer than she can remember.\n\nS
+ chedule of Brown Bag Speakers Spring 2020 [1]\n\nLinks:\n[0]  http://hg.ga
+ tech.edu/node/632236#0\n[1]  https://www.gvu.gatech.edu/events/upcoming\n[
+ 2]  http://www.tsrb.gatech.edu/
+LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
+ a\, Ga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biopolymer Characterization Core facility Seminar
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200220T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200220T180000Z
+UID:http://hg.gatech.edu/node/632243#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \nStatus: published\n\nThis presentation will cover the principles of oper
+ ation and theory of the methods\; Experimental design and sample requireme
+ nts\; Examples of applications in the study of binding interactions of bio
+ logical molecules and their thermal stability. Light refreshments served. 
+ RSVP by 02/13/2020 to ernie.fox@malvern.com\n\nTest for binding affinity w
+ ith ITC or thermal stability with DSC\n\n- No label needed\n- Done directl
+ y in solution\n- Information you get from ITC: KD\, stoichiometry...\n- In
+ formation you get from DSC: Tm...\n\nSome of the sample types that can be 
+ tested on the MicroCal PEAQ ITC and DSC:\n\nITC\n\n- Protein\, protein int
+ eractions\n- Protein\, small molecule interaction\n- Protein\, DNA and RNA
+  interaction\n- Nanoparticles\, protein interaction\n- Nanoparticles\, DNA
+ / RNA interaction\n- And more…\n\nDSC\n\n- Protein\n- Nucleic acids\n- L
+ iposomes\n- Virus or VLP\n- And more…\n\nLinks:\n[0]  http://hg.gatech.e
+ du/node/632243#0\n[1]  https://petitinstitute.gatech.edu/research/biopolym
+ er-core
+LOCATION:Krone Engineered Biosystems Building\, Room 5029 - Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:How Can Scientists & Engineers Influence Public Policy?: Lessons L
  earned from the Field
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200221T213000Z
@@ -32276,6 +32296,30 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  \, marketing\, and diversity and inclusion at various companies.\n\nLinks:
  \n[0]  http://hg.gatech.edu/node/629825#0
 LOCATION:Stein House/4th St. A\, 733 Techwood\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MID Open House 2020
+DTSTART;VALUE=DATE:20200228
+DTEND;VALUE=DATE:20200229
+UID:http://hg.gatech.edu/node/632259#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nThe MID Open House is an opportunity for newly 
+ admitted graduate students and prospective Master of Industrial Design (MI
+ D) students to gather for a day on Georgia Tech's campus to learn more abo
+ ut the program.\n\nJoin us for a day filled with activities designed to he
+ lp you learn about the MID program and the value it has to offer. We'll be
+  engaging with faculty\, current students\, our research labs and studios\
+ , and answering questions. The day will consist of (all times are U.S. Eas
+ tern time):\n\n9:30 AM – Grad Studies Presentation\n\n10:15 AM – Campu
+ s Tour\n\n12:00 PM – MID Introduction + Lunch\n\n12:45 PM – Meet Our F
+ aculty & Students\n\n1:45 PM – Tour of Studios\, Shops\, Labs\n\n3:15 PM
+  – Student Q&A + Faculty Advice\n\nJoin Us for the 2020 MID Open House!\
+ n\nParking available in Visitor Area lots. Hourly parking rates apply.\n\n
+ Area lots 2\, 3\, 4\, 5\, 8 are recommended.\nView the parking map. [1]\n\
+ nLinks:\n[0]  http://hg.gatech.edu/node/632259#0\n[1]  https://gatech.us1.
+ list-manage.com/track/click?u=04b200ded3d9fea3c916281c3&id=dbc50efe34&e=25
+ c63ad845
+LOCATION:Architecture West
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Food Distribution Volunteering
@@ -32989,6 +33033,30 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome out to our general
   be provided so come to Klaus 1443 at 11 AM on Thursday\, March 26!\n\nLin
  ks:\n[0]  https://gatech.campuslabs.com/engage/event/5465726
 LOCATION:Klaus 1443
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Genome Analysis Core Seminar
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200326T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200326T160000Z
+UID:http://hg.gatech.edu/node/632254#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\n"Droplet Digital PCR"\nEric Johnson\, Ph.D.\nFi
+ eld Applications Specialist\nBio-Rad Laboratories\, Inc.\n\nDroplet Digita
+ l PCR provides absolute quantification of target DNA or RNA without the ne
+ ed for a standard curve\, providing orders of magnitude greater precision 
+ and sensitivity than real-time PCR. By partitioning reactions into droplet
+ s using the QX200 Droplet Digital PCR system\, researchers can now:\n\n- D
+ ifferentiate germline copy number variations (CNV)\n- Accurately quantify 
+ rare alleles in an excess of wildtype background DNA\n- Precisely quantita
+ te nucleic acids\n- Analyze miRNA expression\n- Quantify single cell gene 
+ expression\n- Identify positive genome edited clones\n\nSee how the QX200 
+ Droplet Digital PCR System enables exploration of complex genetic landscap
+ es\, discovers and validates new disease associations\, and redefines a ne
+ w era of molecular research.\n\nPlease RSVP (before March 20\, 2020) for l
+ unch: Andrew_Greer@Bio-Rad.com\n\nLinks:\n[0]  http://hg.gatech.edu/node/6
+ 32254#0\n[1]  http://www.bio-rad.com\n[2]  https://petitinstitute.gatech.e
+ du/research/genome-analysis
+LOCATION:Petit Biotechnology Building\, Room 1128 - Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Faculty Fellows - Dr. Matt McDowell
