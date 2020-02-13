@@ -2,150 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:VMware Day in the Lobby
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190211T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190211T210000Z
-UID:http://hg.gatech.edu/node/615820#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nDay in the Lobby\nBrin
- g your resume and come chat with engineers and recruiters from VMware in t
- he College of Computing commons anytime between 11am and 4pm.\n\nUniversit
- y and Recent Grads\nWe are seeking bold\, inventive and extraordinary indi
- viduals who are looking to expand their skills and build relationships wit
- h the best and brightest in the industry. Use your drive and passion to ch
- allenge the status quo and dare to make new discoveries that will create a
-  better tomorrow for everyone.\n\nInterns\nAs an intern at VMware\, you wi
- ll create innovative solutions and solve complex problems. If you want the
-  opportunity to challenge your thinking and define your future\, come to V
- Mware. Dare to discover your full potential and shape what’s next. We of
- fer a variety of opportunities that will help you expand your network and 
- learn from industry leaders. You will build your career through meaningful
-  work experiences and share your accomplishments with the VMware community
- .\n\nAPPLY NOW! Click HERE [1].\n\nRecent Graduates\nJumpstart your career
-  on an innovative team that is transforming technology as we know it. We d
- are our people to define the future. Our innovation and ongoing learning o
- pportunities are just a couple of reasons why VMware is one of Fortune’s
-  100 Best Companies to Work For. Showcase your talents and learn new skill
- s as you work among passionate and dedicated people to make an impact. As 
- a new graduate at VMware\, you will immerse yourself with ongoing skills d
- evelopment\, networking\, and social offerings. With so many new graduate 
- programs\, the opportunities for impactful learning experiences are never-
- ending. We will help you discover your strengths and passions at VMware.\n
- \nAPPLY NOW! Click HERE [2].\n\nLinks:\n[0]  http://hg.gatech.edu/node/615
- 820#0\n[1]  https://careers.vmware.com/search-jobs/ALL?orgIds=1567&ac=4435
- 8&alp=ALL&alt=0&ascf=[{%22Key%22:%22job_status%22\,%22Value%22:%22Internsh
- ip%22}]&\n[2]  https://careers.vmware.com/search-jobs/ALL?orgIds=1567&ac=4
- 4358&alp=ALL&alt=0&ascf=[{%22Key%22:%22job_status%22\,%22Value%22:%22New%2
- 0Graduate%22}]&
-LOCATION:11-4pm CCB commons
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Materials Science and Engineering Seminar Series - Anthony Rollet
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190211T193000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190211T210000Z
-UID:http://hg.gatech.edu/node/617369#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: published\n\nAdditive Manufacturing\, 3D 
- Printing\, Porosity and Synchrotron Experiments\nAnthony Rollett\, Co-Dire
- ctor of NextManufacturing Center & Professor Department of Materials Scien
- ce and Engineering\, Carnegie Mellon University\n\nAbstract:\n\n3D printin
- g of metals has advanced rapidly in the past decade and is used across a w
- ide range of industry. Many aspects of the technology are considered to be
-  well understood in the sense that validated computer simulations are avai
- lable. At the microscopic scale\, however\, more work is required to quant
- ify and understand defect structures\, which affect fatigue resistance\, f
- or example. Synchrotron-based 3D X-ray computed microtomography (µXCT) wa
- s performed at the Advanced Photon Source on a variety of AM samples using
-  both laser (SLM) and electron beam (EBM) powder bed\; this showed systema
- tic trends in porosity. Optical and SEM characterization of powders used i
- n additively manufacturing (AM) reveals a variety of morphologies and size
-  distributions. Computer vision (CV)\, as a subset of machine learning\, h
- as been successfully applied to classify different microstructures\, inclu
- ding powders. The power of CV is further demonstrated by application to de
- tecting and classifying defects in the spreading in powder bed machines\, 
- where the defects often correspond to deficiencies in the printed part. In
-  addition to the printed material\, a wide range of powders were measured 
- and invariably exhibited porosity to varying degrees. Outside of incomplet
- e melting and keyholing\, porosity in printed parts is inherited from pore
- s or bubbles in the powder. This explanation is reinforced by evidence fro
- m simulation and from dynamic x-ray radiography (DXR)\, also conducted at 
- the APS. DXR has revealed a wide range of phenomena\, including void entra
- pment (from powder particles)\, keyholes (i.e.\, vapor holes) and hot crac
- king. Keyhole depth is linearly related to the excess power over a vaporiz
- ation threshold. Concurrent diffraction provides information on solidifica
- tion and phase transformation in\, e.g.\, Ti-6Al-4V and stainless steel. H
- igh Energy (x-ray) Diffraction Microscopy (HEDM) experiments are also desc
- ribed that provide data on 3D microstructure and local elastic strain in 3
- D printed materials\, including Ti-6Al-4V and Ti-7Al. The reconstruction o
- f 3D microstructure in Ti-6Al-4V is challenging because of the fine\, two-
- phase lamellar microstructure and the residual stress in the as-built cond
- ition. Both the majority hexagonal phase and the minority bcc phase were r
- econstructed.\n\nBiography:\n\nI have been a member of the faculty at Carn
- egie Mellon University since 1995. I am also the Co-Director of the newly 
- formed NextManufacturing Center on additive manufacturing. Previously\, I 
- worked for the University of California at the Los Alamos National Laborat
- ory. I spent ten years in management with five years as a Group Leader (an
- d then Deputy Division Director) at Los Alamos\, followed by five years as
-  Department Head at CMU (up to 2000). I have been a Fellow of ASM since 19
- 96\, Fellow of the Institute of Physics (UK) since 2004 and was chosen to 
- be a Fellow of TMS in 2011. I received the Cyril Stanley Smith Award from 
- TMS in 2014\, was elected as Member of Honor by the French Metallurgical S
- ociety in 2015 and then became the US Steel Professor of Metallurgical Eng
- ineering and Materials Science in 2017. My research group has about ten st
- udents and is supported by various Federal agencies\, as well as companies
-  such as Boeing and Northrop-Grumman. The focus of my research is on addit
- ive manufacturing\, the measurement and prediction of microstructural evol
- ution\, the relationship between microstructure and properties\, with a pa
- rticular emphasis on three-dimensional effects\, texture & anisotropy and 
- the use of synchrotron x-rays.\n\nReception at 2:30 p.m. outside room L-2.
- \n\nProfessor Anthony D. Rollett - Department of Materials Science and Eng
- ineering - Carnegie Mellon University - Homepage - CMU [1]\n\nLinks:\n[0] 
-  http://hg.gatech.edu/node/617369#0\n[1]  https://www.cmu.edu/engineering/
- materials/people/faculty/bios/rollett.html
-LOCATION:School of Physics (Howey Building)\, Room L2\, 837 State Street A
- tlanta\, Georgia 30332
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VMware Alumni & Student Networking Night
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190211T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190212T010000Z
-UID:http://hg.gatech.edu/node/617141#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nVMware Alumni & Studen
- t Networking Night\nNetwork with VMware engineers\, recruiters and College
-  of Computing Alumni to learn about VMware's open full time and internship
-  positions!\n\nQuick Notes:\n\n- Business casual attire encouraged as this
-  is a relaxed environment.\n- Students must have both a legal ID and GT Bu
- zzCard for entrance.\n\nUniversity and Recent Grads\nWe are seeking bold\,
-  inventive and extraordinary individuals who are looking to expand their s
- kills and build relationships with the best and brightest in the industry.
-  Use your drive and passion to challenge the status quo and dare to make n
- ew discoveries that will create a better tomorrow for everyone.\n\nInterns
- \nAs an intern at VMware\, you will create innovative solutions and solve 
- complex problems. If you want the opportunity to challenge your thinking a
- nd define your future\, come to VMware. Dare to discover your full potenti
- al and shape what’s next. We offer a variety of opportunities that will 
- help you expand your network and learn from industry leaders. You will bui
- ld your career through meaningful work experiences and share your accompli
- shments with the VMware community.\n\nAPPLY NOW! Click HERE [1].\n\nRecent
-  Graduates\nJumpstart your career on an innovative team that is transformi
- ng technology as we know it. We dare our people to define the future. Our 
- innovation and ongoing learning opportunities are just a couple of reasons
-  why VMware is one of Fortune’s 100 Best Companies to Work For. Showcase
-  your talents and learn new skills as you work among passionate and dedica
- ted people to make an impact.\n\nAs a new graduate at VMware\, you will im
- merse yourself with ongoing skills development\, networking\, and social o
- fferings. With so many new graduate programs\, the opportunities for impac
- tful learning experiences are never-ending. We will help you discover your
-  strengths and passions at VMware.\n\nAPPLY NOW! Click HERE [2].\n\nLinks:
- \n[0]  http://hg.gatech.edu/node/617141#0\n[1]  https://careers.vmware.com
- /search-jobs/ALL?orgIds=1567&ac=44358&alp=ALL&alt=0&ascf=[{%22Key%22:%22jo
- b_status%22\,%22Value%22:%22Internship%22}]&\n[2]  https://careers.vmware.
- com/search-jobs/ALL?orgIds=1567&ac=44358&alp=ALL&alt=0&ascf=[{%22Key%22:%2
- 2job_status%22\,%22Value%22:%22New%20Graduate%22}]&
-LOCATION:Klaus Advanced Computing Building\, Atrium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:RESCHEDULED 2/28/19 - UPS Day on Campus
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190212T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190213T010000Z
@@ -158,132 +14,6 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  n Klaus 1116 E&W\, from 6:30pm – 8pm!\n\nFree food will be provided if y
  ou come early!\n\nLinks:\n[0]  http://hg.gatech.edu/node/615821#0
 LOCATION:11-4pm CCB commons & 6:30pm – 8pm Klaus 1116 E&W.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Institute Communications February Brown Bag
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190212T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190212T180000Z
-UID:http://hg.gatech.edu/node/617374#0
-DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nCommuni
- cators\, bring a lunch and enjoy the following live presentations:\n\nGeor
- gia Tech and the USG: Gain insight into the relationship between the Insti
- tute and the University System of Georgia from the perspective of Lance Wa
- llace\, director of Media Relations and Issues Management and interim assi
- stant vice president for Creative Strategy and Brand Management for Instit
- ute Communications.\n\nStorytelling: The Power of Pushing out Georgia Tech
- ’s Narrative: Explore the impact of using various tools and techniques 
- – from text\, photography\, and social media to video\, graphics\, and a
- nimation to enhance storytelling and amplify Georgia Tech's reach. Tracey 
- Reeves\, assistant vice president for Institute News & Campus Communicatio
- ns\, will guide us through using these tools to our advantage.\n\nAdd this
-  brown bag event to your calender now.\n\nCookies and drinks will be provi
- ded.\n\nLinks:\n[0]  http://hg.gatech.edu/node/617374#0
-LOCATION:Wardlaw Center\, Gordy Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nano@Tech - Toward Systems Biophotonics: Imaging Biology across Hi
- gh Spatio-Temporal Dimensions and Scales
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190212T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190212T180000Z
-UID:http://hg.gatech.edu/node/615665#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nShu Jia\nCoulter Department of Biomedical Engineering at Georgia Tech an
- d Emory University\nAbstract: The distribution and interactions of single 
- molecules in three-dimensionally organized cellular networks are fundament
- al to the function of living systems. Today\, we still lack a complete und
- erstanding of how local molecular mechanisms are integrated and dynamicall
- y mapped over larger scales onto functional activities. The challenges pos
- e high demands for imaging technologies to provide molecular specificity\,
-  nanometer-scale resolution\, ultrafast speed\, and accessibility across l
- arger volumes of tissues. In this presentation\, I will talk about my labo
- ratory’s recently developed super-resolution and light-field microscopy\
- , and functional imaging tools for high-throughput extraction of molecular
-  information in cells and tissues with ultrahigh-spatiotemporal resolution
-  and accessibility.\n\nBio: Dr. Jia is currently an Assistant Professor in
-  the Wallace H. Coulter Department of Biomedical Engineering at Georgia In
- stitute of Technology and Emory University. He completed postdoctoral trai
- ning at Harvard University and received a PhD in Electrical Engineering at
-  Princeton University. Dr. Jia has been recognized for his research with t
- he DARPA Young Faculty Award and NIH MIRA Award.\n\nLinks:\n[0]  http://hg
- .gatech.edu/node/615665#0\n[1]  http://ien.gatech.edu
-LOCATION:Marcus Nanotechnology Building 1117-1118 | 345 Ferst Drive | Atla
- nta GA | 30332
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IEEE SPS Atlanta Lecture - Prof. John Lipor
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190212T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190212T183000Z
-UID:http://hg.gatech.edu/node/617210#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nSubspace Clustering using Ensembles of K-Subspaces\nProf. John Lipor\nAs
- sistant Professor at Portland State University\n\nAbstract. In this lectur
- e we will discuss a novel approach to the subspace clustering problem that
-  leverages ensembles of the K-subspaces (KSS) algorithm with random initia
- lizations. We will extend existing results in subspace clustering to show 
- that correct clustering can be achieved by any algorithm that obtains meas
- urements of any monotonic function of the inner product between points. We
-  then show that a single iteration of KSS with random initialization produ
- ces such a measurement\, and hence our algorithm can provably recover subs
- paces under the same conditions as state-of-the-art algorithms. The findin
- g is\, to the best of our knowledge\, the first recovery guarantee for evi
- dence accumulation clustering and for KSS variants. It also provides insig
- ht into random initializations of subspace arrangements.\n\nBiography. J o
- hn Lipor is an assistant professor in Electrical and Computer Engineering 
- at Portland State University. He received his Ph.D. in Electrical Engineer
- ing from the University of Michigan\, Ann Arbor in 2017 and was an awardee
-  of the NSF Graduate Research Fellowship. He received his M.S. in Electric
- al Engineering from the King Abdullah University of Science and Technology
-  (KAUST) in 2013 and his B.S. in Electrical Engineering from the Universit
- y of Wisconsin\, Madison in 2009. His research interests include active le
- arning and subspace methods\, with an emphasis on problems in environmenta
- l sensing and monitoring.\n\nParking. Best parrking option is to use the C
- entergy Parking garage accessible from Spring Street. Optionally\, you can
-  park at the Georgia Tech Hotel guest parking or in any metered spot on Te
- ch Square\n\nAgenda\n- 12:00 PM - 12:05 PM - Introductions\n\n- 12:05 PM -
-  12:45 PM - Seminar by Prof. John Lipor\n\n- 12:45 PM - 1:00 PM - Discussi
- on and Q&A\n\n- 1:00 PM - 1:30 PM - Reception and networking\n\nLinks:\n[0
- ]  http://hg.gatech.edu/node/617210#0\n[1]  https://events.vtools.ieee.org
- /m/189435
-LOCATION:Technology Square Research Building\, Auditorium\, 85 5th Street 
- NW\, Atlanta\, GA 30308
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Implicit Bias Workshop
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190212T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190212T183000Z
-UID:http://hg.gatech.edu/node/614982#0
-DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nInstitu
- te Diversity\, in collaboration with the Office of the Vice Provost for Gr
- aduate Education and Faculty Development and Georgia Tech’s ADVANCE Prog
- ram\, is offering four 90-minute Implicit Bias Workshops for faculty this 
- spring on January 16\, January 30\, February 12\, and February 27. All fac
- ulty who serve on reappointment\, promotion\, and/or tenure committees and
-  faculty search committees are required to participate in an Implicit Bias
-  Workshop pursuant to Provost Bras’ memo in October 2016 to academic lea
- ders. However\, all instructional and research faculty are welcomed to att
- end as space permits.\n\nThe goals of these workshops are to increase awar
- eness of the impact of implicit bias and facilitate equitable decision-mak
- ing across myriad processes related to faculty evaluations. As a participa
- nt in the workshop\, you will learn the following:\n\n• An introduction 
- to the concept of implicit bias and how these unconscious\, automatic ment
- al processes may impact behaviors such as evaluating candidates during fac
- ulty search and/or RPT processes.\n\n• Empirical research on vitaes\, le
- tters of recommendations\, and teaching evaluations to illustrate the impa
- ct of implicit bias on decisions.\n\n• Effective practices and strategie
- s for faculty search and RPT committees.\n\nThese workshops will be facili
- tated by Julie Ancis\, associate vice president\, Institute Diversity\; Pa
- ul Benkeser\, senior associate chair and professor\, Wallace H. Coulter De
- partment of Biomedical Engineering\; Harris Dimitropoulos\, associate prof
- essor\, School of Architecture\; Robert Kirkman\, associate professor\, Sc
- hool of Public Policy\; Mark Mitchell\, associate director\, Georgia Tech 
- Research Institute\; and/or Michelle Rinehart\, associate dean for academi
- c affairs and outreach\, College of Design.\n\nTo register for one of the 
- workshops\, visit [1]. Lunch will be provided.\n\nLinks:\n[0]  http://hg.g
- atech.edu/node/614982#0\n[1]  http://www.advance.gatech.edu/implicit-bias-
- workshops
-LOCATION:Bill Moore Student Success Center\, President's Suites C&D
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WST Learning Community StrengthsFinder workshop
@@ -31723,6 +31453,23 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:It's a Match!
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200214T203000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200214T223000Z
+UID:https://gatech.campuslabs.com/engage/event/5597293
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\n“Great t
+ hings in business are never done by one person. They’re done by a team o
+ f people” - Steve Jobs\n\nWe teamed up with Bumble for a networking even
+ t this Valentine’s Day to build professional connections. Meet potential
+  co-founders from around Atlanta and establish meaningful support to reach
+  your entrepreneurial goals.\n\nSuccessful startups require great relation
+ ships with mentors\, investors\, and teammates that can help while you dev
+ elop. Come meet potential teammates at our networking event with experts a
+ nd influencers and grow your network.\n\nLinks:\n[0]  https://gatech.campu
+ slabs.com/engage/event/5597293
+LOCATION:The Garage at Tech Square 
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SCPC Presents: La La Land
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200215T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200215T020000Z
@@ -32046,6 +31793,21 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Krone Engineered Biosystems Building\, Room 5029 - Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Startup Exchange Midtown Mixer
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200221T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200221T230000Z
+UID:https://gatech.campuslabs.com/engage/event/5597287
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nConnect wi
+ th the Greater Atlanta Entrepreneurial Ecosystem! Come join us for our thi
+ rd Midtown Mixer Networking event. In this installment of our networking e
+ vent\, we will have the best minds in the greater Atlanta area to network 
+ with professionals from ATDC\, Create-X and other Atlanta-based companies 
+ will be there for you to grow your network and get some free food!\n\nCome
+  out and meet some of the best minds of Georgia Tech and Atlanta!\n\nLinks
+ :\n[0]  https://gatech.campuslabs.com/engage/event/5597287
+LOCATION:The Garage at Tech Square 
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:How Can Scientists & Engineers Influence Public Policy?: Lessons L
  earned from the Field
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200221T213000Z
@@ -32296,6 +32058,20 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  \, marketing\, and diversity and inclusion at various companies.\n\nLinks:
  \n[0]  http://hg.gatech.edu/node/629825#0
 LOCATION:Stein House/4th St. A\, 733 Techwood\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCPC Presents: Campfire Jams
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200228T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200228T020000Z
+UID:https://gatech.campuslabs.com/engage/event/5600590
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nLooking for a relaxing 
+ night with live music\, and great friends by the fire?\n\nCome out to West
+  Village lawn for SCPC’s Campfire Jams on Thursday\, February 27th from 
+ 7:00-9:00 pm for free Tiff's Treats\, games\, and live student performance
+ s.\n\nFor any questions or assistance\, please contact concerts@scpc.gatec
+ h.edu [1].\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5600
+ 590\n[1]  concerts@scpc.gatech.edu
+LOCATION:West Village Lawn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MID Open House 2020
