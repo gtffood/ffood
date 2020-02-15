@@ -2,240 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:RESCHEDULED 2/28/19 - UPS Day on Campus
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190212T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190213T010000Z
-UID:http://hg.gatech.edu/node/615821#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nRESCHEDULED 2/28/19\n\nDay in the Lobby\nBring 
- your resume and come chat with recruiters from UPS in the College of Compu
- ting commons anytime between 11am and 4pm.\n\nCan't make it in the morning
-  or really want to be considered for their team?\n\nTech Talk\nJoin them i
- n Klaus 1116 E&W\, from 6:30pm – 8pm!\n\nFree food will be provided if y
- ou come early!\n\nLinks:\n[0]  http://hg.gatech.edu/node/615821#0
-LOCATION:11-4pm CCB commons & 6:30pm – 8pm Klaus 1116 E&W.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WST Learning Community StrengthsFinder workshop
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190212T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190213T003000Z
-UID:http://hg.gatech.edu/node/614432#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nDr. Mary Lynn Realff\, Associate Professor and 
- Undergraduate Director in Materials Sciences and Engineering and CoDirecto
- r of the Center for the Study of Women\, Science\, and Technology\, will o
- ffer a StrengthsFinder workshop for WST Learning Community residents. Book
- s will be available in advance so students can take the assessment. Dinner
-  will be served.\n\nLinks:\n[0]  http://hg.gatech.edu/node/614432#0
-LOCATION:Stein House/4th St. A\, Georgia Tech\, Techwood\, Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Aerospace Corporation Day on Campus
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190213T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190214T010000Z
-UID:http://hg.gatech.edu/node/616234#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nDay in the Lobby\nBrin
- g your resume and come chat with recruiters from Aerospace in the College 
- of Computing commons anytime between 11am and 4pm.\n\nCan't make it in the
-  morning or really want to be considered for their team?\n\nTech Talk\nLoc
- ation: Klaus 1116 E&W\n\nTime: 6:30pm – 8pm\n\nYou are invited to join A
- ndy King\, Director of Visualization and Immersive Technology at The Aeros
- pace Corporation to hear how we are innovating and why you should consider
-  a career with Aerospace and be a part in reinventing America’s space pr
- ogram. Right Path. Right Place. Right Purpose.\n\nFree food will be provid
- ed if you come early!\n\nLinks:\n[0]  http://hg.gatech.edu/node/616234#0
-LOCATION:11-4pm CCB commons & 6:30pm – 8pm Klaus 1116 E&W.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Faculty Development Lunch Series - Feb 13\, 2019
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190213T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190213T180000Z
-UID:http://hg.gatech.edu/node/614699#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \nStatus: published\n\nThe rescheduled date for the Faculty Development Lu
- nch on "Research Lab Management" is Wednesday\, February 13\, from noon-1p
- m.\n\nSpeakers:\nHanjoong Jo\, Shella Keilholz\, Phil Santangelo\, May Wan
- g\, and Ajit Yoganathan\n\nLinks:\n[0]  http://hg.gatech.edu/node/614699#0
-LOCATION:3115 Whitaker (GT) & E182 HSRB (Emory)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SCL IRC Seminar: Georgia's Ports - What's Next?
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190213T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190213T183000Z
-UID:http://hg.gatech.edu/node/609959#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nStatus: published\n\nThe Supply Chain and Logist
- ics Institute hosts a series of monthly seminars open to interested facult
- y\, students and corporate partners as well as the general public. If you 
- are interested in attending any of the sessions\, please review the below 
- information and register online.\n\nSCL IRC Seminar: Georgia's Ports - Wha
- t's Next?\nCliff Pyron\, Chief Commercial Officer\, Georgia Ports Authorit
- y\nRSVP by February 8\, 2019\n\nWe will discuss a general global perspecti
- ve\, and then a North America focus on current and future supply chain cha
- llenges relative to infrastructure constraints. An overview of omni-channe
- l dynamics in serving related logistics needs will also be covered. Lastly
- \, any China/US trade tariff situations that might still be in play can be
-  discussed.\n\nRegister Online for upcoming SCL IRC seminars [1]\n\nAttend
- ance to the sessions is complimentary for SCL corporate partners\, SCL Ind
- ustry Advisory Board members\, SCL affiliated faculty and students\, and s
- tudents enrolled in the Masters in Supply Chain Engineering program.\n\nTo
-  take advantage of the included lunch\, you must register by deadline note
- d on the registration page.\n\nIf you have any questions\, please email ev
- ent@scl.gatech.edu.\n\nLinks:\n[0]  http://hg.gatech.edu/node/609959#0\n[1
- ]  https://www.scl.gatech.edu/sclirc/seminars/register\n[2]  http://www.ma
- nufacturing.gatech.edu/directions
-LOCATION:GTMI: 1st floor Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ECN Membership Kick-Off Social
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190213T180000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190213T190000Z
-UID:http://hg.gatech.edu/node/616066#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nExtras: Free food\nStatus: published\n\nEvent Co
- ordinators' Network Membership Kick-Off Social\nWednesday\, February 13\, 
- 2019\n1 - 2 p.m.\nBill Moore Student Success Center\nPresident's Suite A -
-  D Join us to celebrate the new year and the first ECN event of 2019!\nInv
- ite a friend or colleague and come to meet your new ECN leadership.\nA qui
- ck program will begin at 1:20 p.m. to learn more about how you can become 
- more involved.\nSweet treats and beverages will be served.\nPlease RSVP by
-  Wednesday\, February 6\, 2019 [1].\n\nLinks:\n[0]  http://hg.gatech.edu/n
- ode/616066#0\n[1]  http://www.specialevents.gatech.edu/form/2319
-LOCATION:Bill Moore Student Success Center\, President's Suite A - D
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inn of Court Meeting on Campus for GT Students
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190213T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190214T010000Z
-UID:http://hg.gatech.edu/node/598404#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nExtras: Free food\nStatus: published\n\nThe Atla
- nta Inn of Court\, a professional association of intellectual property (IP
- ) professionals\, will be hosting a meeting on campus with GT Pre-Law Advi
- sing in order to give Tech students and alumni the opportunity to learn mo
- re about intellectual property law and to meet IP professionals in the are
- a. IP professionals include those that work in patents\, trademarks\, copy
- rights\, and more. Students from all majors and levels are welcome. Post-d
- ocs and alumni are also invited.\n\nSchedule:\n\n· 5pm-6pm: Panel Discuss
- ion - From Georgia Tech\, to Law School\, and Beyond\n\no Tech alumni will
-  discuss the transition from Georgia Tech to law school and share their ca
- reer experiences.\n\n· 6pm-7pm: Inn of Court Reception\n\no Join members 
- of the Inn for drinks (non-alcoholic if under 21) and hors d'oeuvres\n\n·
-  7pm-8pm: Inn of Court Winter Presentation\n\no Members of the Inn provide
-  an entertaining presentation on the IP issues faced by start-up companies
- . Discover what start-ups do right—and wrong—in trying to get their ve
- nture off the ground.\n\nAbout the Inn: The Atlanta IP Inn of Court is an 
- organization of Atlanta judges\, lawyers\, law professors\, and law studen
- ts all focused on Intellectual Property. The Inn meets approximately once 
- a month to socialize and to hold programs and discussions on matters of et
- hics\, skills\, and professionalism relevant to IP attorneys. For more inf
- ormation\, visit: [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/598404#0\n
- [1]  http://atlantaipinn.org/
-LOCATION:Bill Moore Student Success Center\, Clary Theater
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Legislative Council - Elections
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190214T010000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190214T040000Z
-UID:http://hg.gatech.edu/node/617435#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: archived\n\nFancy-themed\, come dressed u
- p in your fanciest attire and get a professional headshot taken! This Legi
- slatice Council will be immediately followed by elections for the next Dir
- ector of Member Engagement\, Director of Programming\, and Director of Ext
- ernal Relations. Due to the length of elections\, the Legislative Council 
- start time has been moved forward to 8:00pm. The pre-LC social will begin 
- at 7:30.\n\nLinks:\n[0]  http://hg.gatech.edu/node/617435#0
-LOCATION:Flag Building\, 117
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:International Coffee Hour
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190214T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190214T170000Z
-UID:http://hg.gatech.edu/node/617579#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nExtras: Free food\nStatus: published\n\nJoin th
- e OIE staff for coffee\, tea\, refreshments\, interesting conversation\, a
- nd fun activities at OIE's International Coffee Hour. This event is a grea
- t way for students to meet friends.\n\nThis International Coffee Hour will
-  be hosted by NPHC's (National Pan-Hellenic Council) Delta Sigma Theta and
-  Phi Beta Sigma.\n\nLinks:\n[0]  http://hg.gatech.edu/node/617579#0
-LOCATION:Student Center\, Peachtree Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GVU Center Brown Bag: Bart Knijnenburg\, "Why We're Really Bad at 
- Privacy Decisions (and What To Do About It)"
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190214T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190214T180000Z
-UID:http://hg.gatech.edu/node/617097#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nExtras: Free food\nStatus: published\n\nAbstract
- :\n\nPrivacy issues are an undying obstacle to the real-world implementati
- on of information systems\, from online retailers\, to social networks\, t
- o smart home technology. Existing solutions to these privacy issues involv
- e giving users more control over\, and more information about\, the privac
- y settings provided by these systems. In this talk\, I will argue that the
- se solutions fail when users with limited cognitive resources encounter sy
- stems with complex and far-reaching privacy implications. I will subsequen
- tly discuss a novel human-centric solution to improve users' privacy decis
- ions: User-Tailored Privacy. User-Tailored Privacy is an approach to priva
- cy that measures users’ privacy-related characteristics and behaviors\, 
- uses this as input to model their privacy preferences\, and then provides 
- them with adaptive privacy decision support. In effect\, it applies data s
- cience as a means to support users’ privacy decisions.\n\nSpeaker Bio:\n
- \nBart Knijnenburg is an Assistant Professor in Human-Centered Computing a
- t the Clemson University School of Computing where he co-directs the Human
- s and Technology lab. He holds a B.S. in Innovation Sciences and an M.S. i
- n Human-Technology Interaction from the Eindhoven University of Technology
- \, The Netherlands\, an M.A. in Human-Computer Interaction from Carnegie M
- ellon University\, and a PhD in Information and Computer Sciences from UC 
- Irvine. Bart works on privacy decision-making and user-centric evaluation 
- of adaptive systems. His research has received funding from the National S
- cience Foundation\, the Department of Defense\, and corporate sponsors.\n\
- nLinks:\n[0]  http://hg.gatech.edu/node/617097#0\n[1]  http://www.tsrb.gat
- ech.edu/
-LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
- a\, Ga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Break Bread with GRIOT - February 2019
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190214T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190214T183000Z
-UID:http://hg.gatech.edu/node/616555#0
-DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nJoin us
-  at Ferst Place located on the 3rd floor of the Student Center to fellowsh
- ip with your GRIOT members. Register now for a seat at the reserved tables
-  in room 321.\n\nDining Details: Ferst Place is located across from the St
- udent Center ballroom. Dining options include a buffet\, salad bar and a m
- ade-to-order station. Participants are responsible for purchasing their ow
- n lunch at a cost of $11.66 including tax. Please note: Accepted payment m
- ethods include: BuzzCards\, Dining Points\, debit/credit cards\, and facul
- ty and staff meal plans. Ferst Place does not accept cash.\n\nPlease RSVP 
- to reserve your spot at [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/6165
- 55#0\n[1]  https://sdie.gatech.edu/break-bread-feb2019
-LOCATION:Student Center\, 321
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Show Your Love for the Women's ERG
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190214T190000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190214T200000Z
-UID:http://hg.gatech.edu/node/617124#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Postdoc\nExtras: Free food\
- nStatus: published\n\nThe Women of Georgia Tech Employee Resource Group's 
- leadership team would love to network with you\, celebrate our 2018 succes
- ses\, and share future opportunities at our informal winter social. Bring 
- a colleague with you as we introduce our leadership team\, share our visio
- n for 2019\, and brainstorm with you on how we can meet your professional 
- needs. We will also share additional committee volunteer opportunities\, s
- o if you've been wondering what you are missing from your women's ERG\, no
- w is the chance to be informed!\n\nRSVP to attend by Monday\, February 11.
-  [1]\n\nLight refreshments will be provided.\n\nLinks:\n[0]  http://hg.gat
- ech.edu/node/617124#0\n[1]  https://sdie.gatech.edu/show-your-love-womens-
- erg
-LOCATION:Student Success Center\, President's Suites A&B
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Coffee & Connect with HubSpot
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190215T140000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190215T170000Z
@@ -31340,15 +31106,18 @@ BEGIN:VEVENT
 SUMMARY:Pride Alliance General Meeting
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200213T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200214T000000Z
-UID:https://gatech.campuslabs.com/engage/event/5589956
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us this Thursday t
- o celebrate Valentine's Day\, love\, happiness\, and community with candy 
- and decorations!\n\nAs always\, there will be food and fun times for every
- one! Feel free to invite your friends!\n\nY'all means all: this is an even
- t for at LGBTQIA+ folks and their allies. Please email pride@gatech.edu [1
- ] if we can provide any accommodations to make this event more accessible 
- or if you have any questions.\n\nLinks:\n[0]  https://gatech.campuslabs.co
- m/engage/event/5589956\n[1]  pride@gatech.edu
+UID:http://hg.gatech.edu/node/632420#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free Food\nStatus: published\n
+ \nJoin us this Thursday to celebrate Valentine's Day\, love\, happiness\, 
+ and community with candy and decorations!\n\nAs always\, there will be foo
+ d and fun times for everyone! Feel free to invite your friends!\n\nY'all m
+ eans all: this is an event for at LGBTQIA+ folks and their allies. Please 
+ email pride@gatech.edu [2] if we can provide any accommodations to make th
+ is event more accessible or if you have any questions.\n\nLinks:\n[0]  htt
+ p://hg.gatech.edu/node/632420#0\n[1]  https://gatech.campuslabs.com/engage
+ /event/5589956\n[2]  pride@gatech.edu\n[3]  https://gatech.campuslabs.com/
+ engage/organization/pride-alliance
 LOCATION:Mason 3132
 END:VEVENT
 BEGIN:VEVENT
@@ -31456,18 +31225,21 @@ BEGIN:VEVENT
 SUMMARY:It's a Match!
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200214T203000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200214T223000Z
-UID:https://gatech.campuslabs.com/engage/event/5597293
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\n“Great t
- hings in business are never done by one person. They’re done by a team o
- f people” - Steve Jobs\n\nWe teamed up with Bumble for a networking even
- t this Valentine’s Day to build professional connections. Meet potential
-  co-founders from around Atlanta and establish meaningful support to reach
-  your entrepreneurial goals.\n\nSuccessful startups require great relation
- ships with mentors\, investors\, and teammates that can help while you dev
- elop. Come meet potential teammates at our networking event with experts a
- nd influencers and grow your network.\n\nLinks:\n[0]  https://gatech.campu
- slabs.com/engage/event/5597293
-LOCATION:The Garage at Tech Square 
+UID:http://hg.gatech.edu/node/632436#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free Food\, Free Stuff\nStatus
+ : published\n\n“Great things in business are never done by one person. T
+ hey’re done by a team of people” - Steve Jobs\n\nWe teamed up with Bum
+ ble for a networking event this Valentine’s Day to build professional co
+ nnections. Meet potential co-founders from around Atlanta and establish me
+ aningful support to reach your entrepreneurial goals.\n\nSuccessful startu
+ ps require great relationships with mentors\, investors\, and teammates th
+ at can help while you develop. Come meet potential teammates at our networ
+ king event with experts and influencers and grow your network.\n\nLinks:\n
+ [0]  http://hg.gatech.edu/node/632436#0\n[1]  https://gatech.campuslabs.co
+ m/engage/event/5597293\n[2]  https://www.eventbrite.com/e/its-a-match-tick
+ ets-93762802065?aff=Engage
+LOCATION:The Garage at Tech Square\, 848 Spring St NW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SCPC Presents: La La Land
@@ -31661,6 +31433,18 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Student Center\, Piedmont Room
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Brown Bag Get Together
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200219T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200219T180000Z
+UID:http://hg.gatech.edu/node/632481#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\nStatus: 
+ published\n\nLet's share lunch and get to know each other while we talk ab
+ out our favorite things: graduate school and families!\n\nLinks:\n[0]  htt
+ p://hg.gatech.edu/node/632481#0\n[1]  https://www.facebook.com/groups/2252
+ 674924944238/
+LOCATION:Student Center Cypress Room
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Academy of Medicine Lecture: Heather Hyde Minor
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200219T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200220T003000Z
@@ -31796,16 +31580,26 @@ BEGIN:VEVENT
 SUMMARY:Startup Exchange Midtown Mixer
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200221T210000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200221T230000Z
-UID:https://gatech.campuslabs.com/engage/event/5597287
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nConnect wi
- th the Greater Atlanta Entrepreneurial Ecosystem! Come join us for our thi
- rd Midtown Mixer Networking event. In this installment of our networking e
- vent\, we will have the best minds in the greater Atlanta area to network 
- with professionals from ATDC\, Create-X and other Atlanta-based companies 
- will be there for you to grow your network and get some free food!\n\nCome
-  out and meet some of the best minds of Georgia Tech and Atlanta!\n\nLinks
- :\n[0]  https://gatech.campuslabs.com/engage/event/5597287
-LOCATION:The Garage at Tech Square 
+UID:http://hg.gatech.edu/node/632476#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free Food\, Free Stuff\nStatus
+ : published\n\nConnect with the Greater Atlanta Entrepreneurial Ecosystem!
+  Come join us for our third Midtown Mixer Networking event. In this instal
+ lment of our networking event\, we will have the best minds in the greater
+  Atlanta area to network with. Professionals from ATDC\, Create-X and othe
+ r Atlanta-based companies will be there for you to grow your network and g
+ et some free food! Come out and meet some of the best minds of Georgia Tec
+ h and Atlanta!\n\nConnect with the Greater Atlanta Entrepreneurial Ecosyst
+ em! Come join us for our third Midtown Mixer Networking event. In this ins
+ tallment of our networking event\, we will have the best minds in the grea
+ ter Atlanta area to network with professionals from ATDC\, Create-X and ot
+ her Atlanta-based companies will be there for you to grow your network and
+  get some free food!\n\nCome out and meet some of the best minds of Georgi
+ a Tech and Atlanta!\n\nLinks:\n[0]  http://hg.gatech.edu/node/632476#0\n[1
+ ]  https://gatech.campuslabs.com/engage/event/5597287\n[2]  https://www.ev
+ entbrite.com/e/startup-exchange-midtown-mixer-tickets-94290933721?aff=Enga
+ ge
+LOCATION:The Garage at Tech Square\, 848 Spring St NW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:How Can Scientists & Engineers Influence Public Policy?: Lessons L
@@ -32040,6 +31834,37 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Kessler Campanile/Student Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GVU Center Brown Bag: Emma Brunskill "Human-Focused Reinforcement 
+ Learning"
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200227T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200227T180000Z
+UID:http://hg.gatech.edu/node/632452#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nExtras: Free food\nStatus: draft\n\nAbstract:\n\
+ nThere is increasing excitement about reinforcement learning--a subarea of
+  machine learning for enabling an agent to learn to make good decisions. Y
+ et numerous questions and challenges remain for reinforcement learning to 
+ help support progress in applications that involve interacting with people
+ \, like education\, consumer marketing and healthcare. I will discuss our 
+ work on some of the technical challenges that arise in this pursuit\, incl
+ uding sample efficiency\, counterfactual reasoning\, robustness\, and appl
+ ications to health and education.\n\nSpeaker Bio:\n\nEmma Brunskill is an 
+ assistant professor in the Computer Science Department at Stanford Univers
+ ity where she leads the AI for Human Impact group. Her work focuses on rei
+ nforcement learning in high stakes scenarios--how can an agent learn from 
+ experience to make good decisions when experience is costly or risky\, suc
+ h as in educational software\, healthcare decision making\, or people-faci
+ ng applications. She was previously a professor at Carnegie Mellon Univers
+ ity. She is the recipient of multiple early faculty career awards (Nationa
+ l Science Foundation\, Office of Naval Research\, Microsoft Research) and 
+ her group has received several best research paper nominations (CHI\, EDMx
+ 3) and awards (UAI\, RLDM).\n\nSchedule of Brown Bag Speakers Spring 2020 
+ [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/632452#0\n[1]  https://www.g
+ vu.gatech.edu/events/upcoming\n[2]  http://www.tsrb.gatech.edu/
+LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
+ a\, Ga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Book Discussion with Christen Smiley of Institute Diversity\, Equi
  ty\, and Inclusion
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200227T230000Z
@@ -32060,17 +31885,23 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Stein House/4th St. A\, 733 Techwood\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCPC Presents: Campfire Jams
+SUMMARY:SCPC presents Campfire Jams
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200228T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200228T020000Z
-UID:https://gatech.campuslabs.com/engage/event/5600590
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nLooking for a relaxing 
- night with live music\, and great friends by the fire?\n\nCome out to West
-  Village lawn for SCPC’s Campfire Jams on Thursday\, February 27th from 
- 7:00-9:00 pm for free Tiff's Treats\, games\, and live student performance
- s.\n\nFor any questions or assistance\, please contact concerts@scpc.gatec
- h.edu [1].\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5600
- 590\n[1]  concerts@scpc.gatech.edu
+UID:http://hg.gatech.edu/node/632399#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nLooking for a relaxing night with
+  live music\, and great friends by the fire?\n\nCome out to West Village l
+ awn for SCPC’s Campfire Jams on Thursday\, February 27th from 7:00-9:00 
+ pm for live student performances\, games\, and free Tiff's Treats!\n\nFor 
+ questions or assistance\, please contact concerts@scpc.gatech.edu.\n\nLook
+ ing for a relaxing night with live music\, and great friends by the fire?\
+ n\nCome out to West Village lawn for SCPC’s Campfire Jams on Thursday\, 
+ February 27th from 7:00-9:00 pm for free Tiff's Treats\, games\, and live 
+ student performances.\n\nFor any questions or assistance\, please contact 
+ concerts@scpc.gatech.edu [2].\n\nLinks:\n[0]  http://hg.gatech.edu/node/63
+ 2399#0\n[1]  https://gatech.campuslabs.com/engage/event/5600590\n[2]  conc
+ erts@scpc.gatech.edu
 LOCATION:West Village Lawn
 END:VEVENT
 BEGIN:VEVENT
@@ -32239,6 +32070,40 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Klaus Atrium
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:X-Factor: How X-ray Technology is Improving the Electronics Assemb
+ ly Process
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200303T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200303T233000Z
+UID:http://hg.gatech.edu/node/632489#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nStatus: published\n\n1895 was the year Wilhelm 
+ Roentgen discovered a mysterious light that allowed him to see through obj
+ ects – he called it X-rays. Since then\, X-rays have been adopted in a w
+ ide range of applications in the electronics assembly process.\n\nThis pre
+ sentation will cover:\n\n- Incorporation of AI (Artificial Intelligence) i
+ n X-ray inspection.\n- Electronic component inspection and failure analysi
+ s.\n- Component counting and material management.\n- Reverse engineering.\
+ n- Counterfeit detection.\n- Real-time defect verification.\n- Computed to
+ mography (CT) techniques and 2D\, 2.5D\, and 3D X-ray inspection.\n- Desig
+ n for manufacturing (DFM) and design for x-ray inspection (DFXI).\n- Voids
+ \, bridging\, and head-in-pillow failures in bottom terminated components 
+ (BTC).\n\nWe’ll examine real life cases of how a team of scientists is u
+ sing Artificial Intelligence to solve the most challenging applications in
+  X-ray inspection\n\nSpeaker: Bill Cardoso\, CEO of Creative Electron\n\nC
+ ardoso has a PhD degree in Electrical and Computer Engineering from Illino
+ is Institute of Technology\, as well as an MBA degree from University of C
+ hicago. He started Creative Electron in 2008 in his garage. After 10 years
+ \, Creative Electron has become the largest U.S. manufacturer of X-ray sys
+ tems to the electronics industry. Electron’s fast growth has been driven
+  by its artificial intelligence expertise combined with a core competency 
+ in x-ray inspection. At Creative Electron\, Cardoso leads the team of engi
+ neers and scientists who combine AI and X-rays to deliver the most intelli
+ gent X-ray machines in the market.\n\nDinner will be served promptly at 5 
+ p.m.\n\nLinks:\n[0]  http://hg.gatech.edu/node/632489#0\n[1]  https://www.
+ smta.org/chapters/rsvp.cfm?bee_id=4835
+LOCATION:Marcus Nanotechnology Building\, Room 1118
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Society of Women Engineers General Body Meeting
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200303T221500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200304T000000Z
@@ -32336,6 +32201,32 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  g.gatech.edu/node/631526#0\n[1]  https://parents.gatech.edu/content/grandp
  arents-friends-day-registration
 LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2020 Georgia Tech Women's Leadership Conference
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200307T133000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200307T190000Z
+UID:http://hg.gatech.edu/node/632478#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\nStatus: published\n\nThe 2020 Women’s Leadership Conference w
+ ill be held on Saturday\, March 7\, 2020 from 8:30 a.m.-2 p.m. at the Hist
+ oric Academy of Medicine in Midtown. The WLC offers women from all backgro
+ unds the chance to come together and develop both professionally and perso
+ nally through workshops\, keynote speakers\, and networking opportunities.
+  This year’s theme is “Creating our Space\,” which was inspired by t
+ he Shirley Chisholm quote: "If they don't give you a seat at the table\, b
+ ring a folding chair."\n\nThis year\, tickets are on sale at $15 for stude
+ nts and $20 for non-students. Included in this registration fee are a keyn
+ ote speaker\, several workshop sessions with multiple topic options\, a ne
+ tworking session\, and breakfast and lunch. More details and conference up
+ dates can be found on social media (@gtwlc)\, our Facebook event [1]\, and
+  on our Georgia Tech website [2]. The link to purchase tickets is [3]. Fee
+ l free to explore any of these platforms for information\, and reach out t
+ o us if you have questions!\n\nLinks:\n[0]  http://hg.gatech.edu/node/6324
+ 78#0\n[1]  https://www.facebook.com/events/483259212336556/\n[2]  https://
+ wlc.gatech.edu/\n[3]  https://tinyurl.com/y85rqzhz\n[4]  http://wlc.gatech
+ .edu
+LOCATION:Historic Academy of Medicine
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Food Distribution Volunteering
@@ -32601,6 +32492,27 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  com/elitho2020
 LOCATION:Marcus Nanotechnology Building 1116-1118 | 345 Ferst Drive | Atla
  nta GA | 30332
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:8th Annual GoSTEM Latino College & STEM Fair
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200314T130000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200314T183000Z
+UID:http://hg.gatech.edu/node/632389#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\, Freebies\nStatus: 
+ published\n\nThis event aims to support high school and middle school stud
+ ents in their educational pursuits and informs them and their families abo
+ ut careers in STEM fields and opportunities that may be available to them.
+  Main activities will include educational bilingual workshops and fun hand
+ s-on activities for the entire family\; a college and community organizati
+ ons fair\, where attendees can interact with representatives from several 
+ colleges\, universities\, and organizations that serve the Hispanic/Latino
+  community\; a STEM majors fair with information about different college S
+ TEM majors and programs of study\; and interesting panel conversations wit
+ h Latino college students\, parents\, professors\, and other professionals
+ .\n\nLinks:\n[0]  http://hg.gatech.edu/node/632389#0\n[1]  http://hg.gatec
+ h.edu/node/632390#0\n[2]  https://gostem.gatech.edu/en/lcsf
+LOCATION:Georgia Tech Student Center 350 Ferst Drive Atlanta\, GA 30332
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Food Distribution Volunteering
