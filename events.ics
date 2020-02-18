@@ -2,225 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Coffee & Connect with HubSpot
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190215T140000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190215T170000Z
-UID:http://hg.gatech.edu/node/617493#0
-DESCRIPTION:Intended audience: Graduate students\, Postdoc\, Undergraduate
-  students\nExtras: Free food\, Freebies\nStatus: published\n\nCoffee & Con
- nect with HubSpot!\n\n-1:1 Resume Reviews with HubSpot\nRecruiter\n-Inform
- al Mentoring with Software\nEngineers\n-Coffee chats with HubSpot Director
-  of\nEngineering\, Anthony Roldan\n\nLinks:\n[0]  http://hg.gatech.edu/nod
- e/617493#0
-LOCATION:Klaus Atrium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oak Ridge National Lab @ Georgia Tech Day
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190215T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190215T180000Z
-UID:http://hg.gatech.edu/node/617079#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nOak Ridge National Laboratory rep
- resentatives will be visiting Georgia Tech on Friday\, February 15\, 2019.
-  Leading Researchers in the areas of computing and materials will be onsit
- e to discuss research opportunities available for graduate students and po
- stdocs including internships\, post-M.S. research programs\, postdoctoral 
- programs\, and Distinguished Staff Fellowships. Pizza will be served.\n\nO
- ak Ridge National Laboratory (ORNL) is the largest U.S. Department of Ener
- gy science and energy laboratory\, conducting basic and applied research t
- o deliver transformative solutions to compelling problems in energy and se
- curity. ORNL’s diverse capabilities span a broad range of scientific and
-  engineering disciplines\, enabling the Laboratory to explore fundamental 
- science challenges and to carry out the research needed to accelerate the 
- delivery of solutions supporting the Department of Energy’s national mis
- sions of scientific discovery\, clean energy\, and security.\n\n- 10 – 1
- 1:30 a.m.: ORNL Welcome and Overview (Student Center Room 319)\n- 11:30 a.
- m. – 1 p.m.: Breakout Sessions w/ lunch (Student Center Room 319 & 321)\
- n- Artificial intelligence & Machine Learning\n- Materials Science & Techn
- ology\n- Computational Earth Science & Engineering\n- Cyber Security & Dat
- a Analysis\n\nPlease RSVP at [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node
- /617079#0\n[1]  https://forms.cos.gatech.edu/ornl-2019
-LOCATION:Rooms 319 and 321\, Student Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:C.L. Chandler Weather Chat
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190215T161500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190215T170000Z
-UID:http://hg.gatech.edu/node/616574#4
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nStatus: published\n\nEAS will be hosting our wee
- kly C. L. Chandler Weather Chat series again this Spring 2019 semester. Th
- is event is dedicated to Chandler\, who was a meteorologist for Delta Airl
- ines during the mid- to late 20th century and helped to develop one of the
-  most successful meteorological organizations within the airline industry.
- \n\nEvery week from 11:15 a.m. - noon in L1116 of Ford ES&T\, we will have
-  informal discussions about the most exciting weather events impacting Atl
- anta\, the U.S. and beyond that day as well as investigating forecast data
-  to learn more about upcoming significant weather events. Topics range fro
- m discussing major winter storms to severe weather outbreaks\, tropical cy
- clones\, lake-effect storms\, and even small-scale events like dense fog a
- nd mountain weather events.\n\nAll are welcome to attend\, including non-E
- AS majors and the general public. Feel free to bring your lunch as well as
-  a friend or two!\n\nLinks:\n[0]  http://hg.gatech.edu/node/616574#4
-LOCATION:Room L1116\, Ford ES&T Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2019 Georgia Scientific Computing Symposium
-DTSTART;VALUE=DATE:20190216
-DTEND;VALUE=DATE:20190217
-UID:http://hg.gatech.edu/node/613188#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nThe Georgia Scientific Computing Symposium is a
-  forum for professors\, postdocs\, graduate students and other researchers
-  in Georgia to meet in an informal setting\, to exchange ideas\, and to hi
- ghlight local scientific computing research. The symposium has been held e
- very year since 2009 and is open to the entire research community.\n\nThis
-  year\, the symposium will be held on Saturday\, February 16\, 2019\, at G
- eorgia Institute of Technology.\n\nThe format of the day-long symposium is
-  a set of invited presentations\, poster sessions and a poster blitz\, and
-  plenty of time to network with other attendees.\n\nRegisteration is free 
- but please Register Here [01] to help us plan the event better.\n\nThe lis
- t of speakers includes:\n\nProf. Luca Dieci [02]\, Georgia Tech\, School o
- f Math\n\nProf. Jun Kong [03]\, Georgia State University\n\nProf. Ming-Jun
-  Lai [04]\, University of Georgia\n\nProf. Richard Peng [05]\, Georgia Tec
- h\, School of Computer Science.\n\nProf. Yuanzhe Xi [06]\, Emory Universit
- y\n\nTitle and abstract with tentative schedule can be found Here [07].\n\
- nPoster sessions will be held during lunch and during the afternoon break.
-  Anyone can present a poster\, but we especially encourage graduate studen
- ts and postdocs to use this opportunity to advertise their work.\n\nParkin
- g: Please use Visitor parking lot 1 which is the closest to the Skiles bui
- lding at North Ave. See map [08] (Area 1) and more information at https://
- pts.gatech.edu/visitors#l3. Please bring the parking ticket\, and see Sung
-  Ha Kang or Haomin Zhou\, for one day free parking pass during the symposi
- um.\n\nPrevious Events\n\n2018 GSCS at Georgia State University [09]\n\n20
- 17 GSCS at University of Georgia [10]\n\n2016 GSCS at Emory University [11
- ]\n\n2015 GSCS at Georgia Institute of Technology\, CSE [12]\n\n2014 GSCS 
- at Kennesaw State Univeristy\n\n2013 GSCS at Georgia State University\n\n2
- 012 GSCS at University of Georgia\n\n2011 GSCS at Emory University\n\n2010
-  GSCS at Georgia Institute of Technology\, Math [13]\n\n2009 GSCS at Emory
-  University [14]\n\nLinks:\n[00]  http://hg.gatech.edu/node/613188#0\n[01]
-   http://gtmap.gatech.edu/registration-georgia-scientific-computing-sympos
- ium\n[02]  https://people.math.gatech.edu/~dieci/\n[03]  https://www.maths
- tat.gsu.edu/profile/jun-kong/\n[04]  http://alpha.math.uga.edu/~mjlai/\n[0
- 5]  https://www.cc.gatech.edu/~rpeng/\n[06]  http://www.mathcs.emory.edu/~
- yxi26/\n[07]  http://gtmap.gatech.edu/19-georgia-scientific-computing-symp
- osium\n[08]  http://pts.gatech.edu/sites/default/files/documents/map_20_vi
- sitor_cs6.pdf\n[09]  https://math.gsu.edu/xye/public/gscs/gscs2018.html\n[
- 10]  http://euler.math.uga.edu/cms/GSCS-2017\n[11]  http://www.mathcs.emor
- y.edu/~nagy/GSC2016/\n[12]  https://www.cc.gatech.edu/~echow/gscs15/\n[13]
-   http://ath.gatech.edu/news/georgia-scientific-computing-symposium/\n[14]
-   http://www.mathcs.emory.edu/%7Enagy/GSC2009/
-LOCATION:Skiles 005\, Georgia Tech
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EXPLORE Science and Math!
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190216T140000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190216T201500Z
-UID:http://hg.gatech.edu/node/614851#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: published\n\nWe will invite admitted pros
- pective students to attend our EXPLORE Science and Math! program. EXPLORE 
- Science and Math! is the Georgia Tech College of Sciences program for admi
- tted prospective students and their guests.\n\nThe program introduces pros
- pective students to the classes and research opportunities available to th
- em as College of Sciences scholars. Members of the College of Sciences fac
- ulty and administration will be on hand to answer questions and offer guid
- ance on academic advising. Prospective students will also attend a Science
-  and Math fair that will include several campus-wide organizations\, as we
- ll as students currently studying in their field of interest.\n\nSpace fil
- ls up quickly\; invitees should register as early as possible. Register he
- re [1].\n\nDue to the popularity of this event\, we can accommodate only a
- dmitted students and their guests. We encourage others with an interest in
-  Georgia Tech's science and mathematics degree programs to attend one of o
- ur " It's All About Science and Math [2] " open houses.\n\nSchedule\n\n9:0
- 0-9:30: Arrive on campus\n\n- Park in Lot W21 (to be eligible for parking 
- validation) and walk to the Clough Undergraduate Learning Commons room 144
- \; c lick here for directions [3]. Refreshments will be available.\n\n9:30
- : Welcome and Overview of Opportunities in the College of Sciences: Interi
- m Dean David Collard\, Assistant Dean Cameron Tyson\n\n10:15: Research Key
- note Talks by Professors (Mini-research symposium)\n\n​12:00: Lunch-Meet
-  with professors\, advisors and students from your preferred major (a free
-  box lunch and drinks are provided for students and guests)\n\n1:00: Scien
- ce and Math Fair\n\n- Visit with faculty academic advisors\, undergraduate
-  researchers\, the Office of Scholarships and Financial Aid\, the Office o
- f International Education\, the Pre-Health Advisor/Prehealth Panel\, the O
- ffice of Housing\, Arts at Georgia Tech representatives\, Greek Life scien
- ce and math majors\, Honors Program representatives\, Campus recreation re
- presentatives\, the Office of Career Development and Discovery (co-ops\, i
- nternships\, career planning)\, GT campus safety\, and lots of student org
- anizations.\n\n2:40: Student Panel\n\n- Gain new insights from students 
- – housing\, class selection\, getting a research position\, study abroad
- \, and much more. You ask the questions – What do you want to know?\n\n3
- :15: Closing/Departure/Visit Residence Hall Option\n\n- Option: GT Housing
-  representatives will offer a visit to a GT campus residence hall/dorm roo
- m from 3:15-4:00pm. Please meet outside of room Clough 152 in the atrium. 
- The tour will involve a 10-minute walk to west campus housing.\n\nQuestion
- s? Please contact Cameron Tyson [4].\n\nLinks:\n[0]  http://hg.gatech.edu/
- node/614851#0\n[1]  https://application.gatech.edu/portal/explore_cos\n[2]
-   http://scienceandmath.gatech.edu/\n[3]  http://explore.cos.gatech.edu/di
- rections\n[4]  cam.tyson@cos.gatech.edu\n[5]  http://clough.gatech.edu/
-LOCATION:Clough Undergraduate Learning Commons\, 266 Fourth Street NW\, At
- lanta\, GA 30332
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2019 Georgia Scientific Computing Symposium
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190216T140000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190217T000000Z
-UID:http://hg.gatech.edu/node/617647#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \nStatus: published\n\nThe Georgia Scientific Computing Symposium is a for
- um for professors\, postdocs\, graduate students and other researchers in 
- Georgia to meet in an informal setting\, to exchange ideas\, and to highli
- ght local scientific computing research. The symposium has been held every
-  year since 2009 and is open to the entire research community.\n\nThis yea
- r\, the symposium will be held on Saturday\, February 16\, 2019\, at Georg
- ia Institute of Technology.\n\nThe format of the day-long symposium is a s
- et of invited presentations\, poster sessions and a poster blitz\, and ple
- nty of time to network with other attendees.\n\nRegisteration is free but 
- please Register Here [01] to help us plan the event better.\n\nThe list of
-  speakers includes:\n\nProf. Luca Dieci [02]\, Georgia Tech\, School of Ma
- th\n\nProf. Jun Kong [03]\, Georgia State University\n\nProf. Ming-Jun Lai
-  [04]\, University of Georgia\n\nProf. Richard Peng [05]\, Georgia Tech\, 
- School of Computer Science.\n\nProf. Yuanzhe Xi [06]\, Emory University\n\
- nTitle and abstract with tentative schedule can be found Here [07].\n\nPos
- ter sessions will be held during lunch and during the afternoon break. Any
- one can present a poster\, but we especially encourage graduate students a
- nd postdocs to use this opportunity to advertise their work.\n\nMore infor
- mation will be posted in the near future.\n\nPrevious Events\n\n2018 GSCS 
- at Georgia State University [08]\n\n2017 GSCS at University of Georgia [09
- ]\n\n2016 GSCS at Emory University [10]\n\n2015 GSCS at Georgia Institute 
- of Technology\, CSE [11]\n\n2014 GSCS at Kennesaw State Univeristy\n\n2013
-  GSCS at Georgia State University\n\n2012 GSCS at University of Georgia\n\
- n2011 GSCS at Emory University\n\n2010 GSCS at Georgia Institute of Techno
- logy\, Math [12]\n\n2009 GSCS at Emory University [13]\n\nLinks:\n[00]  ht
- tp://hg.gatech.edu/node/617647#0\n[01]  http://gtmap.gatech.edu/registrati
- on-georgia-scientific-computing-symposium\n[02]  https://people.math.gatec
- h.edu/~dieci/\n[03]  https://www.mathstat.gsu.edu/profile/jun-kong/\n[04] 
-  http://alpha.math.uga.edu/~mjlai/\n[05]  https://www.cc.gatech.edu/~rpeng
- /\n[06]  http://www.mathcs.emory.edu/~yxi26/\n[07]  http://gtmap.gatech.ed
- u/19-georgia-scientific-computing-symposium\n[08]  https://math.gsu.edu/xy
- e/public/gscs/gscs2018.html\n[09]  http://euler.math.uga.edu/cms/GSCS-2017
- \n[10]  http://www.mathcs.emory.edu/~nagy/GSC2016/\n[11]  https://www.cc.g
- atech.edu/~echow/gscs15/\n[12]  http://ath.gatech.edu/news/georgia-scienti
- fic-computing-symposium/\n[13]  http://www.mathcs.emory.edu/%7Enagy/GSC200
- 9/
-LOCATION:Skiles Building Room 005\, Georgia Tech\, Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valentine's Dance
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190217T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190217T040000Z
-UID:http://hg.gatech.edu/node/616737#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nBallroom Dance club's social dance on Valentine's da
- nce with great music\, snacks\, and cute decoration. Ballroom coaches teac
- h West Coast Swing and Tango\, and there's no prior experience or partner 
- needed.\n\nMore information on Facebook [1]\n\nLinks:\n[0]  http://hg.gate
- ch.edu/node/616737#0\n[1]  https://www.facebook.com/events/195439811152199
- 2/\n[2]  https://ballroomdance.gtorg.gatech.edu
-LOCATION:Student Center Ballroom
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Women's Leadership Conference Flash Sale
 DTSTART;VALUE=DATE:20190218
 DTEND;VALUE=DATE:20190219
@@ -31339,6 +31120,48 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:GTMI 114
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:General Meeting with Bennet & Pless
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200218T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200218T170000Z
+UID:https://gatech.campuslabs.com/engage/event/5613144
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nBennett & 
+ Pless is a highly regarded specialty structural engineering firm founded i
+ n 1964 in Atlanta. Over the past 55 years\, the firm has developed a reput
+ ation for being industry leaders in the niche markets in which it has chos
+ en to practice\, rather than evolving into a traditional large generalist 
+ structural engineering firm. As a result of this focus\, the firm has deve
+ loped specialized skills and attracted highly experienced engineers. This 
+ has resulted in being called upon to execute more complex structural engin
+ eering projects.\n\nThe firm has offices in multiple states in the US\, bu
+ t provides specialty services across the country and internationally. Benn
+ ett & Pless’ sister company BPL Enclosure Engineering provides enclosure
+  and ETFE engineering throughout the US and Western Europe.\n\nLinks:\n[0]
+   https://gatech.campuslabs.com/engage/event/5613144
+LOCATION:Mason Building - room 1133
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The World Is Your Oyster: Experience and Advice From 10 Years Afte
+ r Tech
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200218T200000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200218T213000Z
+UID:http://hg.gatech.edu/node/632566#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nThe World Is Your Oyster: Experie
+ nce and Advice From 10 Years After Tech\n\nPresentation followed by a Q&A\
+ n\nJosh Krisinger\, Delta Air Lines\n\nSpecialist for Crew Resources Infli
+ ght Service\n\nFebruary 18\, 2020 | 3:00 P.M.\nRoom 115\, Swann Building\n
+ 613 Cherry St. NW\n\nRefreshments will be served.\n\nRSVP Encouraged: RSVP
+  here [1]\n\nPlease contact Kestra James ( kjames61@gatech.edu [2] )\, the
+  event coordinator\, for more information.\n\nHosted by the School of Mode
+ rn Languages in collaboration with the Atlanta Global Studies Center. This
+  event is also co-sponsored by GMC 6003 and SPAN 6503\, professional portf
+ olio courses.\n\nLinks:\n[0]  http://hg.gatech.edu/node/632566#0\n[1]  htt
+ ps://forms.office.com/Pages/ResponsePage.aspx?id=u5ghSHuuJUuLem1_Mvqgg-tDr
+ 2_96FhHtj_UpoK_W4xUMUxBVEhKSzNROE03VVJMUlgwQVU2NVRFOC4u\n[2]  kjames61@gat
+ ech.edu
+LOCATION:Swann 115\, 613 Cherry St NW
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Society of Women Engineers General Body Meeting
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200218T221500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200219T000000Z
@@ -31445,6 +31268,43 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\nStatus:
 LOCATION:Student Center Cypress Room
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BHS Sexual Harassment In The Workplace Panel 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200219T200000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200219T210000Z
+UID:https://gatech.campuslabs.com/engage/event/5613133
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nYour questions matter.\
+ n\nJoin the Briaerean Honor Society for a Q&A panel with Georgia Tech prof
+ essionals from VOICE\, the Counseling Center\, and the Title IX office. Sn
+ acks will be provided.\n\nRSVP [1] and submit your questions at [2]\n\nLin
+ ks:\n[0]  https://gatech.campuslabs.com/engage/event/5613133\n[1]  https:/
+ /docs.google.com/forms/d/e/1FAIpQLSdWuELeBeh8hPtFUcJw2blTWD5nHkRvpnK1qoPhV
+ yu-Ajnkmw/viewform?usp=sf_link\n[2]  http://bhs.gatech.edu/
+LOCATION:Student Success Center\, President's Suite D
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Salsa Squared: Salsa con Salsa
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200219T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200219T230000Z
+UID:http://hg.gatech.edu/node/632500#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nExtras: Free Food\nStatus: published\n\nThe Span
+ ish Speaking Organization (SSO) and the GT Salsa Club will be hosting a fr
+ ee 30 minute salsa dance lesson. Prior to the lesson\, free snacks includi
+ ng chips and salsa will be served as participants socialize together and p
+ ractice their Spanish conversational skills. All members of the Georgia Te
+ ch community are welcome! No prior Spanish or dancing experience required.
+ \n\nPlease follow SSO on Instagram ( @gt_spanish_speaking_org [2] ) to get
+  more information about other upcoming events!\n\nSpanish Speaking Organiz
+ ation and GT Salsa Club are collaborating for a special event! Salsa Club 
+ is going to give us a salsa lesson (suitable for beginners)\, so it’s th
+ e perfect opportunity to show off your dance moves. We will also serve chi
+ ps and salsa. If you like to dance or simply have fun\, this event is for 
+ you!\n\nLinks:\n[0]  http://hg.gatech.edu/node/632500#0\n[1]  https://gate
+ ch.campuslabs.com/engage/event/5610245\n[2]  https://www.instagram.com/gt_
+ spanish_speaking_org/
+LOCATION:Peachtree Room\, Student Center Commons
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Academy of Medicine Lecture: Heather Hyde Minor
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200219T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200220T003000Z
@@ -31488,6 +31348,16 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  n[1]  https://forms.gle/mfG48vFYwVxcEmHy5\n[2]  https://forms.gle/F6rkn4ZM
  QHYMrJsY6
 LOCATION:Old Civil Engineering Building\, Room 204
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Assertiveness Training
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200220T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200220T164500Z
+UID:https://gatech.campuslabs.com/engage/event/5613102
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome out to hear from G
+ T Counseling Center about assertiveness and enjoy food from Pita Pit!\n\nL
+ inks:\n[0]  https://gatech.campuslabs.com/engage/event/5613102
+LOCATION:Van Leer C340
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EWH General Body Meeting 02/20
@@ -31680,6 +31550,41 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nMeet in front of Blue D
  ing as a group.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event
  /5460138
 LOCATION:Medshare
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Game Night Spring 2020
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200222T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200223T043000Z
+UID:https://gatech.campuslabs.com/engage/event/5611745
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nWe are back with anothe
+ r edition of Game Night and it only gets better\, with more board games - 
+ simple as well as strategic ones in our kitty. We have some interesting vi
+ deo games as well! Come join us on Saturday\, February 22nd from 6 PM onwa
+ rd at 10th and Home Activity Area. Also enjoy an amazing spread of home co
+ oked authentic Indian food! There is a $5 entry fee for this event\, and a
+ ll proceeds go towards projects supporting education of underprivileged ch
+ ildren in India...Come for the cause\, stay for the fun!\n\nLinks:\n[0]  h
+ ttps://gatech.campuslabs.com/engage/event/5611745
+LOCATION:10th and Home Activity Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:International Mother Language Day 2020
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200223T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200223T023000Z
+UID:https://gatech.campuslabs.com/engage/event/5611652
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nInternational Mother La
+ nguage Day ( IMLD ) is a worldwide annual observance held on 21 February t
+ o promote awareness of linguistic and cultural diversity and promote multi
+ lingualism. First announced by UNESCO on 17 November 1999\, it was formall
+ y recognized by the United Nations General Assembly in a resolution establ
+ ishing 2008 as the International Year of Languages. The idea to celebrate 
+ International Mother Language Day was the initiative of Bangladesh. In Ban
+ gladesh\, the 21st of February is the anniversary of the day when Banglade
+ shis fought for recognition for the Bangla language. We are inviting all s
+ tudents\, faculty\, and staff at Georgia Tech to take part in the event an
+ d indulge in some cultural food.\n\nLinks:\n[0]  https://gatech.campuslabs
+ .com/engage/event/5611652
+LOCATION:Student Center Theater
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GTMI Lunch and Learn Series - Enterprise Resource Planning Softwar
@@ -32005,6 +31910,21 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Bill Moore Student Success Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rollin' Through the Decades
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200301T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200301T030000Z
+UID:https://gatech.campuslabs.com/engage/event/5613064
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nHave you ever wanted to
+  be transported through the decades? Join us for throwback themed rollersk
+ ating!\n\nYou can skate to some groovy tunes\, eat Tiff’s Treats\, play 
+ Twister\, or come rock out at our disco-themed photo booth!\n\nCome out to
+  the Student Center Ballroom on February 29th from 7-10 pm for rollerskati
+ ng and more.\n\nFor questions or accommodations\, please email ramblin@scp
+ c.gatech.edu [1]\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/even
+ t/5613064\n[1]  ramblin@scpc.gatech.edu
+LOCATION:Student Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GTMI Lunch and Learn Series - Flentek Solutions: Journey from Engi
  neering Design Firm to Manufacturer
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200302T170000Z
@@ -32156,6 +32076,46 @@ DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\nStatus: p
  m/SV_0pMQP7EqznzDSK1\n[2]  https://healthinitiatives.gatech.edu/well-being
  /mental/mindfulness
 LOCATION:Crescent Room\, Student Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dr. Darshan Bryner - IEEE SPS Atlanta Lecture
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200304T180000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200304T190000Z
+UID:http://hg.gatech.edu/node/632525#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nOptimization over the Diffeomorphism Group Using Riemannian BFGS with Ap
+ plication\nAbstract. The set of diffeomorphisms of the unit interval\, or 
+ “warping functions\,” plays an important role in many in functional da
+ ta analysis applications. Most prominently\, the problem of registering\, 
+ or aligning\, pairs of functions depends on solving for an element of the 
+ diffeomorphism group that\, when applied to one function\, optimally align
+ s it to the other. The registration problem is posed as the unconstrained 
+ minimization of a cost function over the infinite dimensional diffeomorphi
+ sm function space. We make use of its well-known Riemannian geometry – t
+ he positive orthant of the unit Hilbert sphere under the L2 metric – to 
+ implement an efficient\, limited memory Riemannian BFGS optimization schem
+ e. We compare performance and results to the benchmark algorithm\, Dynamic
+  Programming\, on several functional datasets. Additionally\, we apply our
+  methodology to the problem of non-parametric density estimation and compa
+ re to the benchmark performance of MATLAB’s built-in kernel density esti
+ mator ‘ksdensity’.\n\nBiography.\n\nDarshan Bryner received his B.S. d
+ egree in Applied Mathematics in 2007 and his M.S. degree in Mathematics in
+  2008\, both from Georgia Institute of Technology. In 2008\, he joined the
+  Naval Surface Warfare Center Panama City Division (NSWC PCD) as a researc
+ h scientist. While employed at NSWC PCD\, in 2010 he began work on his Ph.
+ D. degree in Statistics at Florida State University and graduated in 2013.
+  Under the co-advisement of Dr. Anuj Srivastava and Dr. Eric Klassen\, his
+  thesis was on developing affine invariant\, elastic shape models to use a
+ s prior distributions in a Bayesian active contour method for sonar image 
+ segmentation. Dr. Bryner continues his research at NSWC PCD in a variety o
+ f areas including Riemannian geometry and manifold optimization\, Bayesian
+  inference in spatial statistics\, and bioinformatics. Since 2017\, Dr. Br
+ yner has served as the head of the Advanced Signal Processing and Automati
+ c Target Recognition Branch (Code X23) within the Science and Technology D
+ epartment at NSWC PCD.\n\nLinks:\n[0]  http://hg.gatech.edu/node/632525#0\
+ n[1]  https://events.vtools.ieee.org/m/222947
+LOCATION:Skiles 006\, 686 Cherry St. NW Atlanta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Recycling & Waste
@@ -32712,6 +32672,28 @@ DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\nStatus: p
 LOCATION:Room 301\, Student Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A Conversation on Foreign Influence: Tools for Georgia Tech Facult
+ y and Researchers
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200325T190000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200325T203000Z
+UID:http://hg.gatech.edu/node/632523#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nExtras: Free food\nStatus: published\n\nTogethe
+ r with the Office of the Provost and the Office of the Executive Vice Pres
+ ident for Research\, the Office of Ethics & Compliance invites you to:\n\n
+ A Conversation on Foreign Influence: Tools for Georgia Tech Faculty and Re
+ searchers\n\nPanelists:\n\n- Kaye Husbands-Fealing\, Chair\, Georgia Tech 
+ School of Public Policy\n- Dannie Lyvers\, Jr.\, Insider Threat Program Se
+ nior Official\, Georgia Tech Research Security\n- John Schurtz\, Senior Re
+ search Associate at Georgia Tech Research Institute’s Washington Field O
+ ffice\n\nModerator:\n\n- Robert Knotts\, Director\, Georgia Tech Federal R
+ elations\n\nPlease use the following link to submit questions:\n[1]\n\nQue
+ stions will be accepted until Thurs. March 19.\n\nRefreshments will be pro
+ vided.\n\nLinks:\n[0]  http://hg.gatech.edu/node/632523#0\n[1]  https://ga
+ tech.co1.qualtrics.com/jfe/form/SV_019LiWcrxw7uJEN
+LOCATION:Student Center Theater
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:EWH General Body Meeting 03/26
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200326T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200326T160000Z
@@ -33060,51 +33042,104 @@ SUMMARY:Save the Date: Diversity\, Inclusion + Social Good in Urban Analyt
  ics (DISA) Symposium
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200403T123000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200403T213000Z
-UID:http://hg.gatech.edu/node/632190#0
+UID:http://hg.gatech.edu/node/632560#0
 DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nBackground\nUrban
-  Analytics (UA) and Smart Cities (SC) degree programs are becoming more co
- mmon in the U.S. and globally. Often\, these programs don’t have a ‘pl
- an’ for how technology and data analysis will tackle real world issues\,
-  or an understanding of how different perspectives on race\, ethnicity\, g
- ender\, sexual-orientation\, disability and poverty status (and more) may 
- add crucial variables to the study of urban analytics.\n\nAlthough the UA 
- field is data-rich\, the questions and studies in this field may be ill-su
- ited for helping cities reach the most vulnerable citizens\, or how to bes
- t empower UA students to positively impact to the city and its people. Bec
- ause these fields were founded with technocratic and engineering problem-s
- olving ideals (values inherent to analytics and ‘smart’ endeavors)\, t
- he research and thought leadership in UA ad SC lacks the voices and input 
- of the typical urbanite and those most in need\, although it contributes p
- owerful methods and draws talent.\n\nResearch Contribution\nWe will be gen
- erating solutions for how our research and teaching can include a more div
- erse body of tacit knowledge from the urban community and how can we solve
-  real-life problems with data analytics? We will be developing strategies 
- and recommending formal research frameworks (mixed-method\, multi-scale\, 
- validating-by-interview\, etc.) to guide UA and SC research towards champi
- oning citizen voices and helping people.\n\nOur task is to have meaningful
-  conversations and develop a guiding agenda that can serve as an ‘interv
- ention’ that is needed as UA and SC fields mature. Without this discussi
- on\, these fields may not adopt the kinds of sensitivities towards diversi
- ty\, inclusion and the human experience\, that it needs to best serve the 
- people. The agenda will help put forth:\n\n- A plan to put crucial informa
- tion into the hands of the city’s most vulnerable populations.\n\n- Meth
- ods for using technology to collect data on spatial behaviors in a safe\, 
- privacy-securing way\, and using the information to optimize locations of 
- services and facilities.\n\n- Designs for tech education for disadvantaged
-  and underrepresented populations at multiple levels.\n\n- How to listen t
- o and learn from citizens who need help and have first-hand perspectives (
- i.e. tacit knowledge) on the urban ecosystem.\n\n- Open ended discussion o
- n how to connect urban analytics to common-sense urban problems.\n\nEvents
-  and Symposium Schedule\n- 8:30am-9:00am - Coffee and Registration\n\n- 9:
- 00am-9:45am - Keynote\n\n- 9:50am-10:50am - Panel 1:: Success Stories\n\n-
-  11:00am-12:00pm - Breakout 1\n\n- 12:00pm-1:00pm - Lunch:: On your own\, 
- follow suggestions for groups based on themes\n\n- 1:00pm-2:00pm - Panel 2
- :: Urban Voices\n\n- 2:00pm-3:00pm - Panel 3:: Rewarding Engaged Scholarsh
- ip\n\n- 3:00pm-3:15pm - Coffee Break\n\n- 3:15pm-4:15pm - Breakout 2\n\n- 
- 4:20pm-5:05pm - Closing Speaker\n\n- 5:15pm - Networking Reception\n\nLink
- s:\n[0]  http://hg.gatech.edu/node/632190#0
-LOCATION:Atlanta\, GA
+ \, Public\, Undergraduate students\nStatus: published\n\nThis event is gen
+ erously sponsored by the Georgia Tech College of Design and the Center for
+  Computing and Societies.\n\nBackground\nUrban Analytics (UA) and Smart Ci
+ ties (SC) research and degree programs are becoming more common in the U.S
+ . and globally. UA and SC research has helped developed powerful technique
+ s for spatial data creation\, capture and analysis and has drawn talented 
+ individuals to this research.\n\nYet\, these programs and research agendas
+  often operate without an explicit ‘plan’ for how technology and data 
+ analysis will tackle real world issues. Because these fields are founded w
+ ith technocratic and engineering problem-solving ideals (values inherent t
+ o analytics and ‘smart’ endeavors)\, research questions and execution 
+ in this field may be need re-definition and intervention if they are to he
+ lp cities reach the most vulnerable citizens and improve daily life. Resea
+ rch and thought leadership in UA and SC should include the voices and inpu
+ t of the typical urbanite and those most in need. This field also should d
+ eeply consider how different perspectives on race\, ethnicity\, gender\, s
+ exual-orientation\, disability and poverty status (and more) may add cruci
+ al variables to the study of urban analytics.\n\nResearch Contribution\nWe
+  will be generating solutions for how our research and teaching can includ
+ e a more diverse body of tacit knowledge from the urban community and how 
+ can we solve real-life problems with data analytics. We will be developing
+  strategies and recommending formal research frameworks (mixed-method\, mu
+ lti-scale\, validating-by-interview\, etc.) to guide UA and SC research to
+ wards championing citizen voices and helping people. Our goal is to empowe
+ r UA students and researchers to shape urban research questions\, methodol
+ ogies and implementation in way that positively impacts the city and its p
+ eople.\n\nWe will have meaningful conversations and develop a guiding agen
+ da that can serve as an ‘intervention’ that is needed as UA and SC fie
+ lds mature. Without this discussion\, these fields may not adopt the kinds
+  of sensitivities towards diversity\, inclusion and the human experience\,
+  that it needs to best serve the people. The agenda will help put forth:\n
+ \n- A plan to put crucial information into the hands of the city’s most 
+ vulnerable populations.\n- Methods for using technology to collect data on
+  spatial behaviors in a safe\, privacy-securing way\, and using the inform
+ ation to optimize locations of services and facilities.\n- Designs for tec
+ h education for disadvantaged and underrepresented populations at multiple
+  levels.\n- Methods to identify which small changes can have the biggest i
+ mpact.\n- How to listen to and learn from citizens who need help and have 
+ first-hand perspectives (i.e. tacit knowledge) on the urban ecosystem.\n- 
+ Open ended discussion on how to connect urban analytics to common-sense ur
+ ban problems.\n\nActivities\nOur panel sessions will contain five speakers
+  each\, and will include a mixture of visuals and oral presentations.\n\nB
+ reakout sessions will divide our participants into 3 groups. The topics wi
+ ll be formed by our set of distinguished breakout leaders and can be adjus
+ ted to reflect the pressing needs of the day.\n\nPanelists\, breakout lead
+ ers and the keynote & closing speakers will be announced at a later date.\
+ n\nSymposium Schedule\n- 8:30am-9:00am - Coffee and Registration\n\n- 9:00
+ am-9:45am - Keynote\n\n- 9:50am-10:50am - Panel 1:: Success Stories\n\n- 1
+ 1:00am-12:00pm - Breakout 1\n\n- 12:00pm-1:00pm - Lunch:: On your own\, fo
+ llow suggestions for groups based on themes\n\n- 1:00pm-2:00pm - Panel 2::
+  Urban Voices\n\n- 2:00pm-3:00pm - Panel 3:: Rewarding Engaged Scholarship
+ \n\n- 3:00pm-3:15pm - Coffee Break\n\n- 3:15pm-4:15pm - Breakout 2\n\n- 4:
+ 20pm-5:05pm - Closing Speaker\n\n- 5:15pm - Networking Reception\n\nBackgr
+ ound\nUrban Analytics (UA) and Smart Cities (SC) degree programs are becom
+ ing more common in the U.S. and globally. Often\, these programs don’t h
+ ave a ‘plan’ for how technology and data analysis will tackle real wor
+ ld issues\, or an understanding of how different perspectives on race\, et
+ hnicity\, gender\, sexual-orientation\, disability and poverty status (and
+  more) may add crucial variables to the study of urban analytics.\n\nAltho
+ ugh the UA field is data-rich\, the questions and studies in this field ma
+ y be ill-suited for helping cities reach the most vulnerable citizens\, or
+  how to best empower UA students to positively impact to the city and its 
+ people. Because these fields were founded with technocratic and engineerin
+ g problem-solving ideals (values inherent to analytics and ‘smart’ end
+ eavors)\, the research and thought leadership in UA ad SC lacks the voices
+  and input of the typical urbanite and those most in need\, although it co
+ ntributes powerful methods and draws talent.\n\nResearch Contribution\nWe 
+ will be generating solutions for how our research and teaching can include
+  a more diverse body of tacit knowledge from the urban community and how c
+ an we solve real-life problems with data analytics? We will be developing 
+ strategies and recommending formal research frameworks (mixed-method\, mul
+ ti-scale\, validating-by-interview\, etc.) to guide UA and SC research tow
+ ards championing citizen voices and helping people.\n\nOur task is to have
+  meaningful conversations and develop a guiding agenda that can serve as a
+ n ‘intervention’ that is needed as UA and SC fields mature. Without th
+ is discussion\, these fields may not adopt the kinds of sensitivities towa
+ rds diversity\, inclusion and the human experience\, that it needs to best
+  serve the people. The agenda will help put forth:\n\n- A plan to put cruc
+ ial information into the hands of the city’s most vulnerable populations
+ .\n\n- Methods for using technology to collect data on spatial behaviors i
+ n a safe\, privacy-securing way\, and using the information to optimize lo
+ cations of services and facilities.\n\n- Designs for tech education for di
+ sadvantaged and underrepresented populations at multiple levels.\n\n- How 
+ to listen to and learn from citizens who need help and have first-hand per
+ spectives (i.e. tacit knowledge) on the urban ecosystem.\n\n- Open ended d
+ iscussion on how to connect urban analytics to common-sense urban problems
+ .\n\nEvents and Symposium Schedule\n- 8:30am-9:00am - Coffee and Registrat
+ ion\n\n- 9:00am-9:45am - Keynote\n\n- 9:50am-10:50am - Panel 1:: Success S
+ tories\n\n- 11:00am-12:00pm - Breakout 1\n\n- 12:00pm-1:00pm - Lunch:: On 
+ your own\, follow suggestions for groups based on themes\n\n- 1:00pm-2:00p
+ m - Panel 2:: Urban Voices\n\n- 2:00pm-3:00pm - Panel 3:: Rewarding Engage
+ d Scholarship\n\n- 3:00pm-3:15pm - Coffee Break\n\n- 3:15pm-4:15pm - Break
+ out 2\n\n- 4:20pm-5:05pm - Closing Speaker\n\n- 5:15pm - Networking Recept
+ ion\n\nLinks:\n[0]  http://hg.gatech.edu/node/632560#0\n[1]  http://hg.gat
+ ech.edu/node/632190#0
+LOCATION:Atlanta\, GA - Tech Square Research Building
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DramaTech presents A New Brain
@@ -33135,6 +33170,30 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome by the BCM for FRE
  ing from 10 PM - 2 AM and all are welcome to stop by!\n\nLinks:\n[0]  http
  s://gatech.campuslabs.com/engage/event/5441687
 LOCATION:Baptist Student Union
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Annual Inclusive Leadership Conference
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200404T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200404T170000Z
+UID:https://gatech.campuslabs.com/engage/event/5611767
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nPlease joi
+ n the Student Government Association’s Cultural and Diversity Affairs Co
+ mmittee for his year’s annual Inclusive Leadership Conference\, themed 
+ “Forward Fearlessly: Diversity in Privileged Spaces.” Every year\, the
+  committee has the pleasure of planning the Inclusive Leadership Conferenc
+ e\, which aims to provide a space where student leaders can sharpen and le
+ verage their skills to become changemakers on-campus and in their communit
+ ies. This year’s conference will include topics that allow students to u
+ napologetically and fearlessly speak about the issues that concern them an
+ d their communities\, especially in places where they have been historical
+ ly underrepresented.\n\nThis year’s conference will be held on April 4\,
+  2020\, from 10:00 a.m. to 1:00 p.m. in room 1443 in the Klaus Advanced Co
+ mputing Building (266 Ferst Dr NW\, Atlanta\, GA 30332). The event will in
+ clude workshops from various campus organizations\, resources for improvin
+ g your leadership skills\, opportunities to connect with student leaders\,
+  and food and prizes.\n\nWe look forward to seeing you there!\n\nLinks:\n[
+ 0]  https://gatech.campuslabs.com/engage/event/5611767
+LOCATION:Klaus Advanced Computing Building
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Food Distribution Volunteering
