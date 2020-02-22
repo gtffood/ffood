@@ -2,249 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Asurion Day on Campus
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190219T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190220T010000Z
-UID:http://hg.gatech.edu/node/615829#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nDay in the Lobby\nBrin
- g your resume and come chat with recruiters from Asurion in the College of
-  Computing commons anytime between 11am and 4pm.\n\nOpen Positions\nSoftwa
- re Engineer - Soluto\n\nSoftware Engineer - Digital Experience\n\nData Sci
- entist\n\nCan't make it in the morning or really want to be considered for
-  their team?\n\nTech Talk - Work Doesn't Have to Suck\nJoin them in Klaus 
- 1116 E&W\, from 6:30pm – 8pm!\n\nBuilding products that people love is a
-  creative process that requires both skill and passion. Nothing kills pass
- ion and creativity faster on a team than rigid\, formal processes that lea
- d to hard requirements\, divisive role distinctions and lack of collaborat
- ion. Come learn about Asurion’s product development journey that has led
-  to a very different way of working. We’ll talk about how teams are stru
- ctured\, where ideas come from\, how we learn what really works for our cu
- stomers and the technology underpinnings that make it all work.\n\nFree fo
- od will be provided if you come early!\n\nLinks:\n[0]  http://hg.gatech.ed
- u/node/615829#0
-LOCATION:11-4pm CCB commons & 6:30pm – 8pm Klaus 1116 E&W.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Facebook Puzzle Hunt
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190219T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190220T010000Z
-UID:http://hg.gatech.edu/node/617175#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nCome join Facebook for
-  a fun Puzzle Hunt Event!\nOur internal Facebook engineers and scientists 
- have created fun brain teaser problems to be solved!\n\nThere will be food
- \, SWAG\, prizes for winning teams and a fun evening.\n\nHave the opportun
- ity to also chat with the Facebook recruiting and engineering team. Resume
- s will be accepted!\n\nMust be a Georgia Tech student to attend.\n\nRSVP:C
- lick HERE [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/617175#0\n[1]  htt
- ps://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fevents%2F318138
- 168820854%2F&sa=D&usd=2&usg=AFQjCNG5SNscdVPZ3yJzHAt1qbhfSqPAcg
-LOCATION:Klaus Advanced Computing Building Room 1443
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Defense Threat Reduction Agency (DTRA) Call: Materials Science in 
- Extreme Environments (MSEE-URA) Workshop
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190220T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190220T180000Z
-UID:http://hg.gatech.edu/node/617897#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: draft\n\nDTRA Call: Materials Science in 
- Extreme Environments (MSEE-URA) Workshop\nSponsored by the Institute for M
- aterials (IMat)\n\nOrganized and led by Naresh Thadhani (MSE) and Min Zhou
-  (ME)\n\nPurpose: DTRA has released its BAA HDTRA1-19-S-0003 for a Materia
- ls Science in Extreme Environments University Research Alliance. Please se
- e details in the attached Addendum.\n\nSource: The full MSEE-URA draft BAA
-  is available at [1] under number “19-S-0003-MSEE-URA.”\n\nTo support 
- assembly of the strongest possible team addressing the various required as
- pects of this proposal in the four interrelated Research Areas (RAs)\, thi
- s workshop will facilitate sharing of research interests and leadership pe
- rtaining to these RAs to support configuration of a successful MSEE-URA pr
- e-proposal.\n\n- RA1—Material Properties and Failure\,\n- RA2—Material
- s and Manufacturing for Synergistic Effects\,\n- RA3—Chemistry in Extrem
- e Environments\, and\n- RA4—Photon-Material Interactions.\n\nThe four RA
- s will each have to be led by a different university. Although GT faculty 
- can participate in all four\, GT can lead one RA and be the overall URA le
- ad institution. So\, we will discuss prospects for overall leadership and 
- potential partnering as well\, both in presentations and discussion.\n\nIn
-  addition to these four RAs\, the area of Modeling and Diagnostics has bee
- n identified as a Cross Cutting Research Initiative (CCRI) that is inheren
- t in each of the RAs and that must be jointly studied with the RAs to make
-  fundamental advances in MSEE-URA.\n\nWe are inviting 10 minute\, five sli
- de presentations from faculty interested in contributing to these RAs\, as
-  well as the areas of modeling and diagnostics. We also plan to leave ampl
- e time for overall discussion to facilitate teaming alignment\, concept re
- finement\, and discussion regarding formation of RA efforts.\n\nPost-Works
- hop Plans will be discussed at the workshop.\n\nRegistration for this work
- shop may be found at this link. [2]\n\nLinks:\n[0]  http://hg.gatech.edu/n
- ode/617897#0\n[1]  http://www.grants.gov/\n[2]  http://events.r20.constant
- contact.com/register/event?oeidk=a07eg3k9wrv47e9cefd&llr=m48bm8rab\n[3]  h
- ttps://goo.gl/maps/sZ9avohGhHq
-LOCATION:Marcus Nanotechnology Bldg\, Room 1116-1118\, 345 Ferst Dr NW\, A
- tlanta\, GA 30318
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honeywell Day on Campus
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190220T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190221T010000Z
-UID:http://hg.gatech.edu/node/615831#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nDay in the Lobby\nBrin
- g your resume and come chat with recruiters from Honeywell in the College 
- of Computing commons anytime between 11am and 4pm.\n\nCan't make it in the
-  morning or really want to be considered for their team?\n\nTech Talk\nJoi
- n them in Klaus 1116 E&W\, from 6:30pm – 8pm!\n\nFree food will be provi
- ded if you come early!\n\nLinks:\n[0]  http://hg.gatech.edu/node/615831#0
-LOCATION:11-4pm CCB commons & 6:30pm – 8pm Klaus 1116 E&W.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DiscoverLaw.org event at Emory Law School
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190220T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190221T010000Z
-UID:http://hg.gatech.edu/node/617026#0
-DESCRIPTION:Intended audience: Graduate students\, Public\, Undergraduate 
- students\nExtras: Free food\nStatus: published\n\nFebruary 20\, 2019 from 
- 6-8pm at Emory Law School (1301 Clifton Road\, Atlanta\, GA 30322).\n\nDin
- ner will be provided.\n\nThe Consortium of Georgia Law Schools invites you
-  to learn more about law school\, the admission process\, and legal career
- s. Join representatives from each consortium school for dinner\, a mock la
- w school class\, a discussion about DiscoverLaw and admission tips. There 
- will be a Q&A panel with current students and an opportunity to network wi
- th admission counselors from each school. The evening offers a great way t
- o learn about the exciting possibilities of a future legal career.\n\nThe 
- event is hosted by Emory Law\, and sponsored by the Law School Admission C
- ouncil as part of DiscoverLaw.org Months. All five Georgia law schools wil
- l be in attendance: Atlanta’s John Marshall Law School\, Emory Universit
- y School of Law\, Georgia State University College of Law\, Mercer Univers
- ity School of Law\, and University of Georgia School of Law.\n\nLinks:\n[0
- ]  http://hg.gatech.edu/node/617026#0\n[1]  https://emorylaw.wufoo.com/for
- ms/2019-georgia-discover-law-registration
-LOCATION:Emory University - Hunter Atrium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Facebook Ask Me Anything Event
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190220T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190221T010000Z
-UID:http://hg.gatech.edu/node/617180#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nCome meet Facebook eng
- ineers from various teams to get insight into the people & projects our te
- ams work on to support 2-Billion users.\n\nThis will be a great informal o
- pportunity to connect with our engineers to learn about their career journ
- eys + advice\, ask questions & feel free to bring your resume!\n\nWe are F
- acebook\nDo the Most Meaningful Work of Your Career\n\nPeople are at the h
- eart of every connection we build. We design products and deliver services
-  that bring the world closer together — one connection at a time. Facebo
- ok Careers\n\nApply Now! Click HERE [1].\n\nLinks:\n[0]  http://hg.gatech.
- edu/node/617180#0\n[1]  https://www.facebook.com/careers
-LOCATION:College of Computing Building Room 17
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunch and Learn
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190221T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190221T170000Z
-UID:http://hg.gatech.edu/node/617651#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nStephanie Moody\, an SOE Alum wil
- l be on campus to talk with Econ students about her journey as an Economic
- s student and her job at Turner.\n\nLinks:\n[0]  http://hg.gatech.edu/node
- /617651#0
-LOCATION:Old Civil Engineering Room G-10
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You@College Focus Group
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190221T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190221T170000Z
-UID:http://hg.gatech.edu/node/617512#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: published\n\nTell us how you really feel!
-  Share your feedback with us on the You@College app!\n\nAll Georgia Tech s
- tudents are invited to register for a demo of the You@College health and w
- ell-being app followed by a brief focus group discussion. Pizza will be pr
- ovided!\n\nDate: Thursday\, February 21st 11 am - 12 pm\n\nLocation: Stamp
- s Health Services Classroom 230.\n\nRegistration Required! [1]\n\nLinks:\n
- [0]  http://hg.gatech.edu/node/617512#0\n[1]  https://gatech.co1.qualtrics
- .com/jfe/form/SV_3ql28Jv5osyB4jz
-LOCATION:Stamps Health Services Classroom 230
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ICLAST Science\, Technology\, and Society (STS) Graduate Research 
- Symposium
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190221T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190221T173000Z
-UID:http://hg.gatech.edu/node/617964#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nJoin us on Thursday\, February 21st\, for FREE LUNCH and grad student pr
- esentations on issues in Science\, Technology\, & Society.\n\nThe event ta
- kes place in Press Room A of the Student Success Center. Please follow the
-  link below to sign up for lunch.\n\nThe STS Graduate Research Symposium\n
- \nICLAST lunch: Science\, Technology\, and Society (STS)\n\nPresentations 
- by Ivan Allen Graduate Students\n\nTuesday\, February 21\, 11am-12:30pm\n\
- nPress Room A\, Student Success Center (second floor)\nRSVP to attend ICLA
- ST events at [1]\n\nCoordinator: Robert Rosenberger\, Public Policy\n\nPre
- sentations:\n\nSandjar Kozubaev (Digital Media)\, Questioning Futures thro
- ugh STS and Design\n\nDara Bright (Public Policy)\, The Impact of Educatio
- n Policies on African Americans: The Case of the Higher Education Act from
-  2008-2016\n\nMario Bianchini (History and Sociology)\, ‘Real Existing
- ’ Utopia: East Germany’s Technological Culture 1949-1989\n\nLinks:\n[0
- ]  http://hg.gatech.edu/node/617964#0\n[1]  https://www.iac.gatech.edu/IAC
- gradeventsspring2019
-LOCATION:Success Center\, Press Room A\, on the Second floor of the buildi
- ng\, Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ICLAST Science\, Technology\, and Society (STS) Panel Coordinated 
- by Robert Rosenberger
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190221T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190221T173000Z
-UID:http://hg.gatech.edu/node/617046#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nExtras: Free food\nStatus: published\n\nThe Geo
- rgia Tech Ivan Allen College of Liberal Arts would like to invite you to a
- n Innovation and Collaboration in Liberal Arts\, Science\, and Technology 
- (ICLAST) Science\, Technology\, and Society (STS) Panel coordinated by Rob
- ert Rosenberger on Thursday\, February 21\, 2019\, from 11:00 a.m. - 12:30
-  p.m. in the Success Center\, Press Room A\, on the second floor of the bu
- ilding\n\nAll graduate students\, post docs\, and faculty are welcome. Lun
- ches will be provided for those who RSVP.\n\nPresenters:\n\nQuestioning Fu
- tures through STS and Design Sandjar Kozubaev\, Digital Media\n\nThe Impac
- t of Education Policies on African Americans: The Case of the Higher Educa
- tion Act from 2008-2016 Dara Bright\, School of Public Policy\n\n‘Real E
- xisting’ Utopia: East Germany’s Technological Culture 1949-1989 Mario 
- Bianchini\, School of History and Sociology\n\nPlease register here [1]. R
- SVP is required for lunch.\n\nThe ICLAST interdisciplinary research discus
- sion series is designed to encourage research collaborations and to dissem
- inate research to faculty\, post-doctoral fellows\, and graduate and under
- graduate students across the College and campus. Panelists from different 
- Georgia Tech units and Atlanta universities present their research on a co
- mmon topic linking the liberal arts\, sciences\, and technology.\n\nICLAST
-  events are supported by a grant from GT-FIRE.\n\nLinks:\n[0]  http://hg.g
- atech.edu/node/617046#0\n[1]  https://docs.google.com/forms/d/e/1FAIpQLSfW
- SzO19f3DoSurJJG9V8gMHQ1HTUe1rji_D5oNBdT791CcuA/viewform\n[2]  https://www.
- iac.gatech.edu/
-LOCATION:Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:STS Graduate Research Symposium
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190221T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190221T173000Z
-UID:http://hg.gatech.edu/node/617791#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nExtras: Free food\nStatus: published\n\nGeorgia
-  Tech Ivan Allen College\nICLAST Science\, Technology\, and Society (STS) 
- Graduate Research Symposium\n\nThursday\, February 21\, 2019\n11:00 AM - 1
- 2:30 PM\nBill Moore Student Success Center\, Press Room A\n\nRSVP for lunc
- h at iac.gatech.edu/IACgradeventsspring2019\n\nPresenters:\n\nSandjar Kozu
- baev\, Digital Media\nQuestioning Futures through STS and Design\n\nDara B
- right\, School of Public Policy\nThe Impact of Education Policies on Afric
- an Americans: The Case of the Higher Education Act from 2008-2016\n\nMario
-  Bianchini\, School of History and Sociology\n‘Real Existing’ Utopia: 
- East Germany’s Technological Culture 1949-1989\n\nLinks:\n[0]  http://hg
- .gatech.edu/node/617791#0
-LOCATION:Bill Moore Student Success Center\, Press Room A
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED - Norfolk Southern Day on Campus
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190221T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190222T010000Z
@@ -258,157 +15,6 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  ill be provided if you come early!\n\nLinks:\n[0]  http://hg.gatech.edu/no
  de/615881#0
 LOCATION:11-4pm CCB commons & 6:30pm – 8pm CCB 17.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GVU Center Brown Bag: "Building Tomorrow’s Sustainable Transport
- ation System through Better Data - Increasing Bikeability and Bike Safety"
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190221T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190221T180000Z
-UID:http://hg.gatech.edu/node/617719#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nExtras: Free food\nStatus: published\n\nAbstract
- :\n\nPopular adoption of bicycling as a mode of transportation can reduce 
- overall congestion\, air pollution and fossil-fuel energy consumption whil
- e at the same time enabling an active lifestyle and providing users with a
-  low cost\, equitable means of transportation. For this reason\, many plan
- ning agencies have incorporated bicycle planning in their long term vision
-  for their regions\, including Atlanta. One of the major impediments to ch
- oosing bicycle as a transportation mode is safety issues\, with major safe
- ty perception factors including high speed limits\, high traffic volumes\,
-  last mile disconnect in the network\, and an absence of physically separa
- ted facilities for cyclists. Come hear from four experts in bicycle resear
- ch and planning in the Atlanta area as they talk about crash data analysis
- \, cyclist stress\, and work in Atlanta to shift mode share. Attendees wil
- l gain a better understanding of research underway\, data available for ne
- w research\, and areas for potential bicycle-related research in the futur
- e.\n\nSpeaker Information:\n\nCary Bearn joined the City of Atlanta's Offi
- ce of Mobility Planning as the Chief Bicycle Officer. Prior to this positi
- on\, she was a Transportation Planner/Engineer at Fehr & Peers in Los Ange
- les. Cary Bearn has a Masters in City and Regional Planning and a Masters 
- in Civil Engineering from Georgia Institute of Technology and a Bachelors 
- degree in Biology from Williams College.\n\nDr. Christopher Le Dantec is a
- n Associate Professor in the Digital Media Program in the School of Litera
- ture\, Media\, and Communication at the Georgia Institute of Technology. H
- is research has direct impact on how policy makers and citizens work toget
- her to address issues of community engagement\, social justice\, urban tra
- nsportation and development.\n\nExecutive Director Rebecca Serna has a Mas
- ter’s degree from Georgia State's Andrew Young School of Policy Studies 
- in Urban Policy in Planning and Nonprofit Management. Serna was a bike/ped
-  intern with the Georgia DOT and draws on her experience as a Fulbright in
-  Bogotá\, Colombia\, where she studied participatory planning practices a
- nd innovative public transportation projects.\n\nDr. Kari Watkins is the F
- rederick Law Olmsted Associate Professor in the School of Civil and Enviro
- nmental Engineering at Georgia Tech. Her teaching and research interests i
- nclude multi-modal transportation planning\, the use of technology in tran
- sportation\, traveler information\, and complete streets design to create 
- a more livable transportation system.\n\nHow to watch: If you can't make t
- he event in person you can Live Stream or watch the Recording (one week af
- ter event).\n\nLinks:\n[0]  http://hg.gatech.edu/node/617719#0\n[1]  http:
- //www.tsrb.gatech.edu/
-LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
- a\, Ga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:No More Eye Rolling: Managing Student Resistance to Learning in th
- e Classroom
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190221T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190221T180000Z
-UID:http://hg.gatech.edu/node/617347#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Postdoc\nExtras: Free food\
- nStatus: published\n\n"This is stupid! Why are you making us do this?!” 
- These are words that no instructor wants to hear. And yet it is often the 
- case that as we introduce new practices into our classrooms\, some student
- s will express reluctance to engage along with us. You might be wondering:
-  why do students resist learning activities we clearly designed to help th
- em learn? And more importantly\, what can we do about it?\n\nIn this works
- hop we'll present a research-based\, integrated model of student resistanc
- e that will help you think critically about the challenges your students f
- ace. We will leverage this model as we work through how to design a learni
- ng environment to prevent or minimize student resistance in the first plac
- e. We'll discuss types and levels of resistance to help you recognize all 
- forms of the phenomenon. Using real student stories of resistance\, we'll 
- explore strategies you can use to manage this resistance to learning when 
- it occurs.\n\nBring your own stories of student resistance\, and join your
-  colleagues for discussion and problem-solving to enhance student learning
- !\n\nFollow this link to register. [1]\n\nLinks:\n[0]  http://hg.gatech.ed
- u/node/617347#0\n[1]  http://ctl.gatech.edu/02-21-19-FDW
-LOCATION:Student Center\, Piedmont Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:First Women in Data Science Luncheon
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190221T173000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190221T190000Z
-UID:http://hg.gatech.edu/node/617639#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nGuest speaker: Beverly Wright\, Ph.D.\, CAP\nChief Analytics Officer/Par
- tner\, Analytics Practice at aspirent and Executive Professor of Analytics
-  at Emory Continuing Education and Georgia Institute of Technology\, Host 
- of TAG Data Talk\, Co-Founder of ATLytiCS\, data science for good\n\nBever
- ly Wright leads the Analytics Practice for aspirent as Chief Analytics Off
- icer. She is also an Executive Education instructor at Georgia Tech\, Cont
- inuing Education instructor at Emory University\, and Co-Founder for a non
- -profit called ATLytiCS\, which leverages analytics talent for community c
- auses. Beverly brings over twenty-five years of marketing science\, analyt
- ics\, and insights experience from corporate\, consulting and academia. Sh
- e’s also worked for companies within or leading Marketing Analysis\, Adv
- anced Analytics\, and Market Intelligence departments\, taught at multiple
-  schools\, most recently Georgia Tech\, and consulted for dozens of client
- s on data science and analytics. Beverly earned a Ph.D. in Marketing Scien
- ce\, a Master of Science degree in Analytical Methods\, and a Bachelor of 
- Business Administration degree in Decision Sciences from Georgia State Uni
- versity. She regularly presents at professional and academic conferences\,
-  as well as publishes articles in various business journals\, serves on th
- e board for Technology Association of Georgia’s Data Science & Analytics
-  Society\, and hosts TAG Data Talk podcast.\n\nLinks:\n[0]  http://hg.gate
- ch.edu/node/617639#0\n[1]  https://docs.google.com/forms/d/e/1FAIpQLSc1P06
- XhLXlpeON6CS6NKRcNy3EeJrs-J3TQmME5jTQUwBEQw/viewform\n[2]  https://mailchi
- .mp/3595756803c9/widsseries
-LOCATION:Pettit Microelectronics Building- 102 A&B Conference Rooms
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IPaT Thursday Think Tank: Shape Machine: A Rule-Based Modeling and
-  Programming System Developed at Tech
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190221T203000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190221T220000Z
-UID:http://hg.gatech.edu/node/618185#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nModerator: Thanos
-  Economou\, Professor\, School of Architecture\n\nWhat does it mean to hav
- e a new modeling software for design that allows scientists\, engineers\, 
- and designers to specify their actions by drawing shapes rather than by wr
- iting scripts? What is the difference between a shape you see and the way 
- it is currently recorded in the database of your computer? What does it me
- an to program with shapes?\n\nThe Shape Machine is a new computational tec
- hnology that fundamentally redefines the way shapes are represented\, inde
- xed\, queried and operated upon. Its foregrounding of visual rules (shape 
- rules drawn in a 2D or 3D modeling system) over symbolic rules (instructio
- ns defined in some programming language) provides a robust and disruptive 
- technology for engineers\, computer scientists\, designers\, students and 
- educators\, and in general academics and professionals who use drawings an
- d visual models to develop and communicate their ideas.\n\nThe Shape Machi
- ne is currently developed at the Shape Computation Lab at the School of Ar
- chitecture\, College of Design\, in collaboration with the Schools of Math
- ematics and Interactive Computing at the Colleges of Science and Computing
-  at Georgia Institute of Technology.\n\nSpring 2019 Think Tank Schedule [2
- ]\n\nLinks:\n[0]  http://hg.gatech.edu/node/618185#0\n[1]  http://hg.gatec
- h.edu/node/617807#0\n[2]  http://ipat.gatech.edu/news/spring-2019-ipat-thu
- rsday-think-tank-schedule
-LOCATION:Institute for People and Technology\, 75 5th Street NW Suite 600\
- , Atlanta\, GA 30308
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Queer Coffeehouse: Bisexual and Pansexual Students
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190221T210000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190221T220000Z
-UID:http://hg.gatech.edu/node/615260#0
-DESCRIPTION:Intended audience: Graduate students\, Postdoc\, Undergraduate
-  students\nExtras: Free food\nStatus: published\n\nThis Queer Coffeehouse 
- is for students who are bisexual and pansexual. Please RSVP so we know how
-  much food to order. We ask that you do not RSVP unless you plan to attend
-  so that we don't create waste.\n\nLinks:\n[0]  http://hg.gatech.edu/node/
- 615260#0\n[1]  http://lgbtqia.gatech.edu
-LOCATION:LGBTQIA Resource Center\, Smithgall Student Services Building
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Throw Around Ideas: Design-Thinking Workshop
@@ -31480,19 +31086,31 @@ BEGIN:VEVENT
 SUMMARY:International Mother Language Day 2020
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200223T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200223T023000Z
-UID:https://gatech.campuslabs.com/engage/event/5611652
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nInternational Mother La
- nguage Day ( IMLD ) is a worldwide annual observance held on 21 February t
- o promote awareness of linguistic and cultural diversity and promote multi
- lingualism. First announced by UNESCO on 17 November 1999\, it was formall
- y recognized by the United Nations General Assembly in a resolution establ
- ishing 2008 as the International Year of Languages. The idea to celebrate 
- International Mother Language Day was the initiative of Bangladesh. In Ban
- gladesh\, the 21st of February is the anniversary of the day when Banglade
- shis fought for recognition for the Bangla language. We are inviting all s
- tudents\, faculty\, and staff at Georgia Tech to take part in the event an
- d indulge in some cultural food.\n\nLinks:\n[0]  https://gatech.campuslabs
- .com/engage/event/5611652
+UID:http://hg.gatech.edu/node/632715#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
+ aduate students\nExtras: Free food\nStatus: published\n\nInternational Mot
+ her Language Day (IMLD) is a worldwide annual observance held on February 
+ 21 to promote awareness of linguistic and cultural diversity and promote m
+ ultilingualism. First announced by UNESCO in November 1999\, it was formal
+ ly recognized by the United Nations General Assembly in a resolution estab
+ lishing 2008 as the International Year of Languages.\n\nThe idea to celebr
+ ate International Mother Language Day was the initiative of Bangladesh. In
+  Bangladesh\, the 21st of February is the anniversary of the day when Bang
+ ladeshis fought for recognition for the Bangla language.\n\nWe are invitin
+ g all students\, faculty\, and staff at Georgia Tech to take part in the e
+ vent and indulge in some native food.\n\nInternational Mother Language Day
+  ( IMLD ) is a worldwide annual observance held on 21 February to promote 
+ awareness of linguistic and cultural diversity and promote multilingualism
+ . First announced by UNESCO on 17 November 1999\, it was formally recogniz
+ ed by the United Nations General Assembly in a resolution establishing 200
+ 8 as the International Year of Languages. The idea to celebrate Internatio
+ nal Mother Language Day was the initiative of Bangladesh. In Bangladesh\, 
+ the 21st of February is the anniversary of the day when Bangladeshis fough
+ t for recognition for the Bangla language. We are inviting all students\, 
+ faculty\, and staff at Georgia Tech to take part in the event and indulge 
+ in some cultural food.\n\nLinks:\n[0]  http://hg.gatech.edu/node/632715#0\
+ n[1]  https://gatech.campuslabs.com/engage/event/5611652\n[2]  http://gtbs
+ a.org/
 LOCATION:Student Center Theater
 END:VEVENT
 BEGIN:VEVENT
@@ -31537,6 +31155,30 @@ LOCATION:Pettit Microelectronics Building 102 A&B | 791 Atlantic Drive | A
  tlanta GA | 30332
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Future of Media: Careers in Atlanta's Changing Media Landscape
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200225T213000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200225T230000Z
+UID:http://hg.gatech.edu/node/632710#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nOn Tuesday\, February 25th\, at 4:30 pm at the 
+ Bill Moore Student Success Center\, the School of Literature\, Media\, and
+  Communications is thrilled to host "The Future of Media: Careers in Atlan
+ ta's Changing Media Landscape."\n\nThe Future of Media will feature a pane
+ l discussion with a number of leading local media thought leaders\, includ
+ ing Saeed Ahmed of CNN's Culture\, Trends\, and Enterprises and Gracie Bon
+ ds Staples of the Atlanta Journal Constitution. This is a great opportunit
+ y to meet leading figures in the field\, learn about Atlanta's changing me
+ dia industry\, and explore career opportunities. Please join us for this e
+ xciting event.\n\nMark your Calendars!\n\nThe Future of Media: Careers in 
+ Atlanta's Changing Media Landscape\n\nPanel Discussion featuring local med
+ ia thought leaders\, including:\n\nSaeed Ahmed\, Culture\, Trends\, and En
+ terprises\, CNN\nGracie Bonds Staples\, Atlanta Journal Constitution\naddi
+ tional panelists to be announced\n\nTuesday\, February 25th\, 4:30 pm\nPre
+ sident's Suite\, B\nBill Moore Student Success Center\n\nRefreshments prov
+ ided.\n\nLinks:\n[0]  http://hg.gatech.edu/node/632710#0
+LOCATION:Bill Moore Student Success Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Society of Women Engineers General Body Meeting
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200225T221500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200226T000000Z
@@ -31552,6 +31194,21 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  sident@gmail.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/624549#17\n
  [1]  swepresident@gmail.com\n[2]  https://www.facebook.com/GeorgiaTechSWE/
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Student Opportunities Dinner
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200225T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200226T000000Z
+UID:http://hg.gatech.edu/node/632744#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
+ aduate students\nStatus: published\n\nJoin the Office of Leadership Educat
+ ion and Development for our student opportunities event on Tuesday\, Feb. 
+ 25 from 5:30 - 7 p.m. During the event\, attendees will learn about the po
+ ssible opportunities to get involved in LEAD while enjoying provided food 
+ and drinks. We hope to see you there!\n\nLinks:\n[0]  http://hg.gatech.edu
+ /node/632744#0\n[1]  https://gatech.campuslabs.com/engage/organization/lea
+ dership-education-and-development
+LOCATION:Brittain Rec Classroom
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Velocity Worship Service
@@ -31644,6 +31301,18 @@ DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nInstitu
 LOCATION:Student Success Center- President’s Suites C and D
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:German Club General Meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200226T183000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200226T193000Z
+UID:http://hg.gatech.edu/node/632746#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nJoin us for a gen
+ eral meeting! There will be snacks\, discussion\, and more. All levels wel
+ come.\n\nLinks:\n[0]  http://hg.gatech.edu/node/632746#0\n[1]  https://gro
+ upme.com/join_group/44096901/8YzKKZ
+LOCATION:Kendeda Room 118
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Volunteer Showcase
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200227T153000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200227T183000Z
@@ -31691,6 +31360,46 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
  vu.gatech.edu/events/upcoming\n[2]  http://www.tsrb.gatech.edu/
 LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
  a\, Ga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Voting from Abroad in Latin America
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200227T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200227T180000Z
+UID:http://hg.gatech.edu/node/632792#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nPlease join us fo
+ r a brown-bag research talk\, “Voting from Abroad in Latin America: Expl
+ aining Turnout\, 1993-2017 ” by Visiting International Scholar\, Dr. Mar
+ ía Laura Tagina\, co-sponsored by CHRD\, CLALS\, AGSC\, and the Departmen
+ t of Political Science.\n\nThe talk should be of interest to any student o
+ f Latin America\, elections\, immigration\, and democracy.\n\nLocation: 10
+ 81 Langdale Hall\n\nTime: 12pm\n\nLunch: Brown-Bag\n\nDr. María Laura Tag
+ ina ( marialaura.tagina@unsam.edu.ar [1] ) has a PhD in Political Science 
+ from Universidad de Salamanca (Spain). She is conducting two research proj
+ ects on “ Democracy beyond borders: political rights and electoral parti
+ cipation of Latin American emigrants ” and “ Public opinion\, presiden
+ tial popularity and electoral support in Argentina. The impact of the poli
+ tical and economic context between 1984 and 2015 ”. She participates in 
+ two academic cooperation projects abroad\, the Executive Approval Project 
+ and the Parliamentary Elites Project of University of Salamanca. She has b
+ een a visiting fellow at the Istituto Italiano di Scienze Umane (Florence\
+ , Italy)\, the Universidad Autónoma de Madrid\, the Centro de Estudios Av
+ anzados de la Fundación Juan March (Madrid\, Spain) and Intitute für Dem
+ okratie\, Universität Zurich (Aarau\, Switzerland).\n\nDr. Tagina has pub
+ lished on elections in Argentina and Latin America\, political behavior\, 
+ transnational vote and public opinion. Her latest publications include the
+  following: Elecciones y partidos en América Latina en el cambio de ciclo
+ \, Manuel Alcántara Sáez\, Daniel Buquet y María Laura Tagina (Eds.)\, 
+ Centro de Investigaciones Sociológicas\, Madrid\; and Elecciones y cambio
+  de élites en América Latina\, 2014 y 2015\, Manuel Alcántara Sáez y M
+ aría Laura Tagina (Eds.)\, Ediciones Universidad de Salamanca\, 2016. In 
+ 2015\, Tagina received the Elizabeth Nelson Prize\, awarded by the World A
+ ssociation for Public Opinion Research. She currently serves as Director o
+ f Revista SAAP\, a scientific journal on Political Science published in Ar
+ gentina and sponsored by Sociedad Argentina de Análisis Político.\n\nLin
+ ks:\n[0]  http://hg.gatech.edu/node/632792#0\n[1]  marialaura.tagina@unsam
+ .edu.ar\n[2]  https://goo.gl/maps/mMwidsnr1qN7RkCH7
+LOCATION:GSU Campus\, Langdale Hall\, Room 1081\, Atlanta\, GA 30303
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Book Discussion with Christen Smiley of Institute Diversity\, Equi
@@ -31755,6 +31464,27 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  list-manage.com/track/click?u=04b200ded3d9fea3c916281c3&id=dbc50efe34&e=25
  c63ad845
 LOCATION:Architecture West
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PianoForte Inaugural Annual Piano Recital
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200228T193000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200228T213000Z
+UID:http://hg.gatech.edu/node/632851#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nThe inaugural Piano Recital provides student\, faculty\, and staff piani
+ sts with a platform to perform and is open to any member of the community 
+ in and around GT.\n\nThe two-hour recital will begin with an introduction 
+ of PianoForte\, the student pianist organization\, and a review of the eve
+ ning's program. We will feature GT pianists of a variety of backgrounds pl
+ aying diverse genres followed by a short\, catered reception at 3:30 pm\, 
+ halfway through the concerts. The night will end with a brief awards cerem
+ ony.\n\nThis event is free and open to all. Please invite your friends and
+  family!\n\nGet your free tickets through the University Tickets website [
+ 1].\n\nLinks:\n[0]  http://hg.gatech.edu/node/632851#0\n[1]  https://gatec
+ h.universitytickets.com/w/event.aspx?id=1618&p=1\n[2]  https://gatech.camp
+ uslabs.com/engage/organization/pianoforte
+LOCATION:Student Center Theater
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meal Bag Packing with Open Hand Atlanta!
@@ -31946,17 +31676,55 @@ BEGIN:VEVENT
 SUMMARY:CSA Lantern Festival 2020
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200302T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200303T010000Z
-UID:https://gatech.campuslabs.com/engage/event/5614023
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nGeorgia Te
- ch’s Chinese Student Association is hosting its 5 th annual Lantern Fest
- ival celebration! Join us on March 2 nd in the Student Center Ballroom fro
- m 6:00 to 8:00 pm. There will be FREE FOOD\, performances\, games\, and ra
- ffles! Participating organizations include AASA\, Chinacare\, DPhiL\, HKSA
- \, JSA\, KUSA\, Seoulstice\, Taal Takda\, Tekstyles\, VSA\, and more!\n\nT
- he event is free admission and open to everyone! Come out and enjoy some g
- reat food and performances with your friends!\n\nLinks:\n[0]  https://gate
- ch.campuslabs.com/engage/event/5614023
+UID:http://hg.gatech.edu/node/632755#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free Food\, Free Stuff\nStatus
+ : published\n\nGeorgia Tech’s Chinese Student Association is hosting its
+  5th annual Lantern Festival celebration! Join us on March 2 in the Studen
+ t Center Ballroom from 6:00 to 8:00 p.m. There will be FREE FOOD\, perform
+ ances\, games\, and raffles! Participating organizations include AASA\, Ch
+ inacare\, DPhiL\, HKSA\, JSA\, KUSA\, Seoulstice\, Taal Takda\, Tekstyles\
+ , VSA\, and more! The event has free admission and is open to everyone! Co
+ me out and enjoy some great food and performances with your friends!\n\nGe
+ orgia Tech’s Chinese Student Association is hosting its 5 th annual Lant
+ ern Festival celebration! Join us on March 2 nd in the Student Center Ball
+ room from 6:00 to 8:00 pm. There will be FREE FOOD\, performances\, games\
+ , and raffles! Participating organizations include AASA\, Chinacare\, DPhi
+ L\, HKSA\, JSA\, KUSA\, Seoulstice\, Taal Takda\, Tekstyles\, VSA\, and mo
+ re!\n\nThe event is free admission and open to everyone! Come out and enjo
+ y some great food and performances with your friends!\n\nLinks:\n[0]  http
+ ://hg.gatech.edu/node/632755#0\n[1]  https://gatech.campuslabs.com/engage/
+ event/5614023\n[2]  https://www.facebook.com/events/475439319787627/
 LOCATION:Student Center Ballroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch & Learn Panel: CS Research for Social Good
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200303T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200303T170000Z
+UID:http://hg.gatech.edu/node/632813#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
+ aduate students\nStatus: published\n\nJoin us for our Research Lunch & Lea
+ rn Panel Tuesday\, March 3 in Skiles 170 at 11 a.m.! We have 3 Ph.D. stude
+ nts doing computing research that has a real impact on how we view organiz
+ ed communities and conduct research. They will speak on their experiences 
+ in going to graduate school\, doing research\, and on how computing can be
+  applied to social issues. Pizza will be provided!\n\nLinks:\n[0]  http://
+ hg.gatech.edu/node/632813#0\n[1]  https://www.facebook.com/events/13347236
+ 7925868/
+LOCATION:Skiles 170
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gender Pay Gaps in US Science Agencies
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200303T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200303T223000Z
+UID:http://hg.gatech.edu/node/632796#0
+DESCRIPTION:Intended audience: Graduate students\, Postdoc\, Public\, Unde
+ rgraduate students\nExtras: Free food\, Freebies\nStatus: published\n\nJoi
+ n Dr. Kaye Husbands Fealing and Dr. Laurel Smith-Doerr as they launch Wome
+ n's History Month with a talk on their recent article that takes an organi
+ zational approach to gender pay gaps in Science Agencies and the U.S. Fede
+ ral Government.\n\nLinks:\n[0]  http://hg.gatech.edu/node/632796#0
+LOCATION:Crosland Tower\, 7th Floor
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gender Pay Gaps in U.S. Science Agencies: Why Organizations Matter
@@ -32184,6 +31952,63 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nSGA's Outreach and Coll
 LOCATION:Bill Moore Student Success Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Intentional Yoga with American Monks
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200307T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200307T020000Z
+UID:http://hg.gatech.edu/node/632842#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free Food\, Free Stuff\nStatus
+ : published\n\nDeep dive into channelling negative emotions and situations
+  using the time-tested and blissful art of soulful yoga and sound meditati
+ on. For those who buy tickets (mandatory for non-GT folks):\n\n- Guided yo
+ ga class with Vedasara Das\n- Interactive discussion led by Romapada Swami
+ \n- A wonderful vegetarian feast made with love!\n\nAll collections will b
+ e donated to our non-profit partners Food4Lives (www.food4lives.org) to he
+ lp feed and dress Atlanta's homeless. The event is FREE FOR GT STUDENTS (c
+ ontact gtbhaktiyoga@gmail.com with GTID to RSVP).\n\nRomapada Swami is an 
+ American Monk who has been a practitioner of Bhakti Yoga for the last 50 y
+ ears! Despite being admitted as a pre-med student in 1971 at SUNY Buffalo\
+ , he decided to follow his spiritual path 100% and never looked back--righ
+ t in the middle of the American war with Vietnam. He has trained 10\,000+ 
+ youth from universities such as Northeastern\, UIUC\, UPenn\, and MIT to p
+ ractically apply the principles of eastern wisdom texts like the Bhagavad 
+ Gita in their daily lives. He travels around the US\, India\, China\, and 
+ Russia preaching practical principles for a simple yet amazing life based 
+ on such eastern wisdom texts and his personal experiences. He is extremely
+  humble and loves talking to people interested in life's amazing secrets. 
+ He will be coming to Atlanta this week to share his realizations - so plea
+ se book your calendars NOW!\n\nCome and deep dive into timeless yoga knowl
+ edge on happiness science to channel your drive for fulfillment!\n\nDeep d
+ ive into channelling negative emotions and situations using the time teste
+ d and blissful art of soulful yoga and sound meditation\n\nFor those who b
+ uy tickets (mandatory for non-GT folks):\n- Guided yoga class with Vedasar
+ a Das\n- Interactive discussion led by Romapada Swami\n- A wonderful veget
+ arian feast made with love!\n\nAll collections will be donated to our non-
+ profit partners Food4Lives ( www.food4lives.org [2] ) to help feed and dre
+ ss Atlanta's homeless.\n\nFREE FOR GT STUDENTS (contact gtbhaktiyoga@gmail
+ .com with GTID to RSVP)\n\nRomapada Swami is an American Monk who has been
+  a practitioner of Bhakti Yoga for the last 50 years! Despite being admitt
+ ed as a pre-med student in 1971 at SUNY Buffalo\, he decided to follow his
+  spiritual path 100% and never looked back - right in the middle of the Am
+ erican war with Vietnam. He has trained 10\,000+ youth from universities s
+ uch as Northeastern\, UIUC\, UPenn and MIT to practically apply the princi
+ ples of eastern wisdom texts like the Bhagavad Gita in their daily lives. 
+ He travels around the US\, India\, China and Russia preaching practical pr
+ inciples for a simple yet amazing life based on such eastern wisdom texts 
+ and his personal experiences. He is extremely humble and loves talking to 
+ people interested in life's amazing secrets. He will be coming to Atlanta 
+ this week to share his realizations - so please book your calendars NOW!\n
+ \nCome and deep dive into timeless yoga knowledge on happiness science to 
+ channel your drive for fulfillment!\n\nLinks:\n[0]  http://hg.gatech.edu/n
+ ode/632842#0\n[1]  https://gatech.campuslabs.com/engage/event/5627555\n[2]
+   https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.food4lives.org%2F%3Ffbcl
+ id%3DIwAR3BvGGysdnKWkVt3UBeksyc7eAEanbvrzcX46XUIGzUNBF_Ur_PG0qRG28&h=AT1Q6
+ 2z9ns7JTFc4YZ3WTeOvt_wEAbWa3OigmCfncOU8cZF5XlmWqBnt5WCUV_7W9kLFgQuiC5Sp3RK
+ lRUVbhwfEDKHm9YbTaR66uBwo0MT5aNNrPeOGzSW6dh03KRFfvw\n[3]  https://www.face
+ book.com/events/1075950066092373/
+LOCATION:Student Center Peachtree Room
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BCM Pancake Night
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200307T030000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200307T190000Z
@@ -32274,17 +32099,26 @@ BEGIN:VEVENT
 SUMMARY:Dance Marathon 2020
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200307T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200308T040000Z
-UID:https://gatech.campuslabs.com/engage/event/5614032
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nDance Mara
- thon is a 12 hour event\, directly benefitting Children’s Healthcare of 
- Atlanta’s Heart Center. This day is dedicated to celebrating our Miracle
-  Families\, current patients and all who have been impacted by Children's 
- Healthcare of Atlanta. This year we are Keeping The Kid At Heart by strivi
- ng to help every kid\, sibling and family get back to a healthy and normal
-  childhood. To conclude our celebration\, we will reveal our year-long fun
- draising total. Register [1] today\, we can't to see you there!\n\nLinks:\
- n[0]  https://gatech.campuslabs.com/engage/event/5614032\n[1]  https://eve
- nts.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=3471
+UID:http://hg.gatech.edu/node/632752#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free Food\, Free Stuff\nStatus
+ : published\n\nDance Marathon is a 12-hour event directly benefitting Chil
+ dren’s Healthcare of Atlanta’s Heart Center. This day is dedicated to 
+ celebrating our Miracle Families\, current patients\, and all who have bee
+ n impacted by Children's Healthcare of Atlanta. This year we are "Keeping 
+ The Kid At Heart" by striving to help every kid\, sibling\, and family get
+  back to a healthy and normal childhood. To conclude our celebration\, we 
+ will reveal our year-long fundraising total. Register today\; we can't to 
+ see you there!\n\nDance Marathon is a 12 hour event\, directly benefitting
+  Children’s Healthcare of Atlanta’s Heart Center. This day is dedicate
+ d to celebrating our Miracle Families\, current patients and all who have 
+ been impacted by Children's Healthcare of Atlanta. This year we are Keepin
+ g The Kid At Heart by striving to help every kid\, sibling and family get 
+ back to a healthy and normal childhood. To conclude our celebration\, we w
+ ill reveal our year-long fundraising total. Register [2] today\, we can't 
+ to see you there!\n\nLinks:\n[0]  http://hg.gatech.edu/node/632752#0\n[1] 
+  https://gatech.campuslabs.com/engage/event/5614032\n[2]  https://events.d
+ ancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=3471
 LOCATION:Student Center Ballroom
 END:VEVENT
 BEGIN:VEVENT
@@ -32572,6 +32406,150 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  ood4lives.org/donate.html\n[3]  https://www.facebook.com/events/1177905865
  930288/
 LOCATION:Food4Lives\, 1122 Old Chattahoochee Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring 2020 IEN Micro-Fabrication Short Course
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200316T123000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200316T210000Z
+UID:http://hg.gatech.edu/node/632795#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nThe Institute for Electronics and Nanotechnology (IEN) at Georgia Tech w
+ ill offer a short course on micro-fabrication from March 16th - 18th\, 202
+ 0. This in tensive 3 day short course combines classroom lectures and labo
+ ratory based hands-on fabrication in the IEN cleanroom. The goal of the co
+ urse is to impart a basic understanding of the science and technology of m
+ icro-fabrication processes as used in academia and industry.\n\nThis short
+  course will cover essential micro-fabrication techniques including\, phot
+ olithography\, thin film deposition\, etching\, packaging\, and characteri
+ zation. Attendees will gain valuable experience by fabricating simple devi
+ ces in one of the most advanced uni versity cleanrooms in North America.\n
+ \nAttendance is open to the general technical community and is not limited
+  to current Georgia Tech students or IEN users. Anyone interested in clean
+ room fabrication techniques is strongly encouraged to attend this course. 
+ The course is suitable for both new and experienced researchers interested
+  in micro-fabrication techniques and applications.\n\nA course emphasis wi
+ ll be placed on IEN cleanroom resources\, however\, the concepts and techn
+ iques discussed are applicable to a broad array of research in this field.
+ \n\nRates: *Rates include lunches on all days*\n\n- Georgia Tech Rate: $20
+ 0\n- Academic and Government Rate: $400\n- Industry Rate: $800\n\nDue to t
+ he nature of the lab portion of the course\, registration has a maximum of
+  15 participants. Registration and full payment MUST be completed online b
+ y March the 11th at 4PM EST\, 2020: NO EXCEPTIONS. No one will be allowed 
+ to register or pay on-site.\n\nRead the Course Agenda and Register Here\nh
+ ttps://tinyurl.com/mfab2020 [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/
+ 632795#0\n[1]  http://events.r20.constantcontact.com/register/event?oeidk=
+ a07egwkxor28258fc17&llr=m48bm8rab
+LOCATION:Marcus Nanotechnology Building | 345 Ferst Drive | Atlanta GA | 3
+ 03332
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring 2020 IEN Micro-Fabrication Short Course
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200317T123000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200317T210000Z
+UID:http://hg.gatech.edu/node/632795#1
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nThe Institute for Electronics and Nanotechnology (IEN) at Georgia Tech w
+ ill offer a short course on micro-fabrication from March 16th - 18th\, 202
+ 0. This in tensive 3 day short course combines classroom lectures and labo
+ ratory based hands-on fabrication in the IEN cleanroom. The goal of the co
+ urse is to impart a basic understanding of the science and technology of m
+ icro-fabrication processes as used in academia and industry.\n\nThis short
+  course will cover essential micro-fabrication techniques including\, phot
+ olithography\, thin film deposition\, etching\, packaging\, and characteri
+ zation. Attendees will gain valuable experience by fabricating simple devi
+ ces in one of the most advanced uni versity cleanrooms in North America.\n
+ \nAttendance is open to the general technical community and is not limited
+  to current Georgia Tech students or IEN users. Anyone interested in clean
+ room fabrication techniques is strongly encouraged to attend this course. 
+ The course is suitable for both new and experienced researchers interested
+  in micro-fabrication techniques and applications.\n\nA course emphasis wi
+ ll be placed on IEN cleanroom resources\, however\, the concepts and techn
+ iques discussed are applicable to a broad array of research in this field.
+ \n\nRates: *Rates include lunches on all days*\n\n- Georgia Tech Rate: $20
+ 0\n- Academic and Government Rate: $400\n- Industry Rate: $800\n\nDue to t
+ he nature of the lab portion of the course\, registration has a maximum of
+  15 participants. Registration and full payment MUST be completed online b
+ y March the 11th at 4PM EST\, 2020: NO EXCEPTIONS. No one will be allowed 
+ to register or pay on-site.\n\nRead the Course Agenda and Register Here\nh
+ ttps://tinyurl.com/mfab2020 [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/
+ 632795#1\n[1]  http://events.r20.constantcontact.com/register/event?oeidk=
+ a07egwkxor28258fc17&llr=m48bm8rab
+LOCATION:Marcus Nanotechnology Building | 345 Ferst Drive | Atlanta GA | 3
+ 03332
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring 2020 IEN Micro-Fabrication Short Course
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200318T123000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200318T210000Z
+UID:http://hg.gatech.edu/node/632795#2
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nThe Institute for Electronics and Nanotechnology (IEN) at Georgia Tech w
+ ill offer a short course on micro-fabrication from March 16th - 18th\, 202
+ 0. This in tensive 3 day short course combines classroom lectures and labo
+ ratory based hands-on fabrication in the IEN cleanroom. The goal of the co
+ urse is to impart a basic understanding of the science and technology of m
+ icro-fabrication processes as used in academia and industry.\n\nThis short
+  course will cover essential micro-fabrication techniques including\, phot
+ olithography\, thin film deposition\, etching\, packaging\, and characteri
+ zation. Attendees will gain valuable experience by fabricating simple devi
+ ces in one of the most advanced uni versity cleanrooms in North America.\n
+ \nAttendance is open to the general technical community and is not limited
+  to current Georgia Tech students or IEN users. Anyone interested in clean
+ room fabrication techniques is strongly encouraged to attend this course. 
+ The course is suitable for both new and experienced researchers interested
+  in micro-fabrication techniques and applications.\n\nA course emphasis wi
+ ll be placed on IEN cleanroom resources\, however\, the concepts and techn
+ iques discussed are applicable to a broad array of research in this field.
+ \n\nRates: *Rates include lunches on all days*\n\n- Georgia Tech Rate: $20
+ 0\n- Academic and Government Rate: $400\n- Industry Rate: $800\n\nDue to t
+ he nature of the lab portion of the course\, registration has a maximum of
+  15 participants. Registration and full payment MUST be completed online b
+ y March the 11th at 4PM EST\, 2020: NO EXCEPTIONS. No one will be allowed 
+ to register or pay on-site.\n\nRead the Course Agenda and Register Here\nh
+ ttps://tinyurl.com/mfab2020 [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/
+ 632795#2\n[1]  http://events.r20.constantcontact.com/register/event?oeidk=
+ a07egwkxor28258fc17&llr=m48bm8rab
+LOCATION:Marcus Nanotechnology Building | 345 Ferst Drive | Atlanta GA | 3
+ 03332
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring 2020 IEN Micro-Fabrication Short Course
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200319T123000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200319T210000Z
+UID:http://hg.gatech.edu/node/632795#3
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nThe Institute for Electronics and Nanotechnology (IEN) at Georgia Tech w
+ ill offer a short course on micro-fabrication from March 16th - 18th\, 202
+ 0. This in tensive 3 day short course combines classroom lectures and labo
+ ratory based hands-on fabrication in the IEN cleanroom. The goal of the co
+ urse is to impart a basic understanding of the science and technology of m
+ icro-fabrication processes as used in academia and industry.\n\nThis short
+  course will cover essential micro-fabrication techniques including\, phot
+ olithography\, thin film deposition\, etching\, packaging\, and characteri
+ zation. Attendees will gain valuable experience by fabricating simple devi
+ ces in one of the most advanced uni versity cleanrooms in North America.\n
+ \nAttendance is open to the general technical community and is not limited
+  to current Georgia Tech students or IEN users. Anyone interested in clean
+ room fabrication techniques is strongly encouraged to attend this course. 
+ The course is suitable for both new and experienced researchers interested
+  in micro-fabrication techniques and applications.\n\nA course emphasis wi
+ ll be placed on IEN cleanroom resources\, however\, the concepts and techn
+ iques discussed are applicable to a broad array of research in this field.
+ \n\nRates: *Rates include lunches on all days*\n\n- Georgia Tech Rate: $20
+ 0\n- Academic and Government Rate: $400\n- Industry Rate: $800\n\nDue to t
+ he nature of the lab portion of the course\, registration has a maximum of
+  15 participants. Registration and full payment MUST be completed online b
+ y March the 11th at 4PM EST\, 2020: NO EXCEPTIONS. No one will be allowed 
+ to register or pay on-site.\n\nRead the Course Agenda and Register Here\nh
+ ttps://tinyurl.com/mfab2020 [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/
+ 632795#3\n[1]  http://events.r20.constantcontact.com/register/event?oeidk=
+ a07egwkxor28258fc17&llr=m48bm8rab
+LOCATION:Marcus Nanotechnology Building | 345 Ferst Drive | Atlanta GA | 3
+ 03332
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlanta Food Bank Community Garden Volunteering
@@ -33305,25 +33283,27 @@ BEGIN:VEVENT
 SUMMARY:Annual Inclusive Leadership Conference
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200404T140000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200404T170000Z
-UID:https://gatech.campuslabs.com/engage/event/5611767
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nPlease joi
- n the Student Government Association’s Cultural and Diversity Affairs Co
- mmittee for his year’s annual Inclusive Leadership Conference\, themed 
- “Forward Fearlessly: Diversity in Privileged Spaces.” Every year\, the
-  committee has the pleasure of planning the Inclusive Leadership Conferenc
- e\, which aims to provide a space where student leaders can sharpen and le
- verage their skills to become changemakers on-campus and in their communit
- ies. This year’s conference will include topics that allow students to u
- napologetically and fearlessly speak about the issues that concern them an
- d their communities\, especially in places where they have been historical
- ly underrepresented.\n\nThis year’s conference will be held on April 4\,
-  2020\, from 10:00 a.m. to 1:00 p.m. in room 1443 in the Klaus Advanced Co
- mputing Building (266 Ferst Dr NW\, Atlanta\, GA 30332). The event will in
- clude workshops from various campus organizations\, resources for improvin
- g your leadership skills\, opportunities to connect with student leaders\,
-  and food and prizes.\n\nWe look forward to seeing you there!\n\nLinks:\n[
- 0]  https://gatech.campuslabs.com/engage/event/5611767
-LOCATION:Klaus Advanced Computing Building
+UID:http://hg.gatech.edu/node/632735#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free Food\, Free Stuff\nStatus
+ : published\n\nPlease join the Student Government Association’s Cultural
+  and Diversity Affairs Committee for his year’s annual Inclusive Leaders
+ hip Conference\, themed “Forward Fearlessly: Diversity in Privileged Spa
+ ces.” Every year\, the committee has the pleasure of planning the Inclus
+ ive Leadership Conference\, which aims to provide a space where student le
+ aders can sharpen and leverage their skills to become changemakers on-camp
+ us and in their communities. This year’s conference will include topics 
+ that allow students to unapologetically and fearlessly speak about the iss
+ ues that concern them and their communities\, especially in places where t
+ hey have been historically underrepresented.\n\nThis year’s conference w
+ ill be held on April 4\, 2020\, from 10:00 a.m. to 1:00 p.m. in room 1443 
+ in the Klaus Advanced Computing Building (266 Ferst Dr NW\, Atlanta\, GA 3
+ 0332). The event will include workshops from various campus organizations\
+ , resources for improving your leadership skills\, opportunities to connec
+ t with student leaders\, and food and prizes.\n\nWe look forward to seeing
+  you there!\n\nLinks:\n[0]  http://hg.gatech.edu/node/632735#0\n[1]  https
+ ://gatech.campuslabs.com/engage/event/5611767\n[2]  http://sga.gatech.edu
+LOCATION:Klaus Room 1443
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Food Distribution Volunteering
@@ -33817,6 +33797,25 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  e yearns to produce.\n\nLinks:\n[0]  http://hg.gatech.edu/node/621372#0\n[
  1]  https://dramatech.org/event/a-new-brain/
 LOCATION:DramaTech Theatre\, north side of the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:29th Annual College of Computing Awards Ceremony
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200417T153000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200417T170000Z
+UID:http://hg.gatech.edu/node/632747#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nCharles Isbell\, The John P. Imlay Jr. Dean of Computing\,\ncordially in
+ vites you to attend the\n\n29th Annual\nCollege of Computing\nAwards Celeb
+ ration and Buffet Lunch\n\nDate: Friday\, April 17\, 2020\nTime: 11:30 a.m
+ . - 1:30 p.m.\nPlace: TSRB Banquet Hall\n\nCheck out [1] this photo galler
+ y [1] from the 2019 Awards!\n\nPlease join us as we recognize the achievem
+ ents of College of Computing faculty\, students and staff! If you plan on 
+ attending\, please RSVP by April 6 [2].\n\nLinks:\n[0]  http://hg.gatech.e
+ du/node/632747#0\n[1]  https://www.flickr.com/photos/ccgatech/albums/72157
+ 704701164742\n[2]  https://gatech.co1.qualtrics.com/jfe/form/SV_cYoTcxXPV7
+ zjXLv
+LOCATION:TSRB Banquet Hall
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DramaTech presents A New Brain
