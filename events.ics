@@ -2,33 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:GT SASE Southeast Regional Conference
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190223T130000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190224T010000Z
-UID:http://hg.gatech.edu/node/616314#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: review\n\nThe Southeast Regional Conference(SERC) is an annual Le
- adership and Professional Development conference. Our theme for this year 
- is “Ignite Your Dreams.” We will celebrate the diverse backgrounds\, e
- xperiences and aspirations of the attendees and emphasize the values of se
- lf-confidence and self-worth. Every year\, SERC attracts over 150 college 
- students and professionals from across the southeast region for a weekend 
- of professional development and networking.\n\nEarly Bird Registration is 
- only $20 before January 23 and includes access to professional workshops\,
-  a corporate networking session\, free breakfast\, lunch and dinner\, and 
- the conference goodie bag which includes the conference t-shirt. Find more
-  information and REGISTER NOW at [1].\n\nOne of the workshops we are very 
- excited about is the Lean Six Sigma White Belt Certification Workshop host
- ed by America’s Navy. This is a 3-hour workshop that will conclude with 
- attendees receiving a Lean Six Sigma White Belt Certification. This is a g
- reat skill to add to your resume that employers regard highly. You MUST re
- gister for a spot to attend this workshop – the registration link can be
-  found at [1]. Spots are limited for this workshop and registration will c
- lose on January 19.\n\nLinks:\n[0]  http://hg.gatech.edu/node/616314#0\n[1
- ]  http://www.rc.sase.gatech.edu\n[2]  https://tinyurl.com/serc19
-LOCATION:Molecular Science and Engineering Building
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Oscars Viewing Party
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190225T003000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190225T040000Z
@@ -31028,6 +31001,36 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFirstGen’s goal is to
 LOCATION:Skiles 168
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GTARCC Third General Meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200224T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200225T000000Z
+UID:https://gatech.campuslabs.com/engage/event/5630375
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is a reminder that
+  we have our next general meeting for the semester TOMORROW at 6 pm in the
+  Kendeda Building Room 230! This will be a bit of a longer meeting since w
+ e will be voting on club t-shirts\, learning about preparedness\, and prov
+ iding information on the Volunteer Connections signup and helping anyone w
+ ho has been having trouble signing up. Please come with questions that we 
+ can help/troubleshoot with you!\n\nLet us know if you can't make it to the
+  meeting so we can provide additional details afterwards.\n\nHope to see y
+ ou tomorrow\,\n\nGTARCC Board\n\nLinks:\n[0]  https://gatech.campuslabs.co
+ m/engage/event/5630375
+LOCATION:Kendeda 230
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General Meeting with WJE
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200225T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200225T170000Z
+UID:https://gatech.campuslabs.com/engage/event/5630350
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJack Janne
+ y founded WJE in 1956 as Janney and Associates\, a one-person engineering 
+ consultancy. More than sixty years later\, WJE has evolved into an interna
+ tional interdisciplinary company that has been called upon to solve some o
+ f the world's most challenging construction-related problems.\n\nLinks:\n[
+ 0]  https://gatech.campuslabs.com/engage/event/5630350
+LOCATION:Mason Building - room 1133
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nano@Tech: Lisa Yaszek - School of Literature\, Media\, and Commun
  ications\, Georgia Tech
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200225T170000Z
@@ -31064,6 +31067,27 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  sident's Suite\, B\nBill Moore Student Success Center\n\nRefreshments prov
  ided.\n\nLinks:\n[0]  http://hg.gatech.edu/node/632710#0
 LOCATION:Bill Moore Student Success Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GTSWE Spring Networking Night
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200225T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200226T000000Z
+UID:https://gatech.campuslabs.com/engage/event/5632856
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nCome out a
+ nd network with company representatives from AT&T\, Clarkston Consulting\,
+  Eaton\, FM Global\, GTRI\, PwC\, and Southern Company! The event will be 
+ in speed dating fashion\, with you having the chance to receive advice fro
+ m female engineers from diverse industries. This event will occur in place
+  of the General Body Meeting.\n\nSWE Networking Night will be held on T ue
+ sday\, February 25th from 5:00 - 7:00 pm in the Student Center Ballroom.\n
+ \nDinner is provided\, dress is business-casual\, and be sure to bring cop
+ ies of your resume if you have one. Please RSVP at tinyurl.com/swesnn20 [1
+ ]\n\n**In addition to our #heforswe campaign\, this is event is open to al
+ l students on campus (with eligibility for extra SWE points to our members
+ )**\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5632856\n[1
+ ]  https://gatech.campuslabs.com/engage/submitter/organization/society-of-
+ women-engineers/eventsubmission/tinyurl.com/swesnn20
+LOCATION:Student Center Ballroom
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Society of Women Engineers General Body Meeting
@@ -31289,6 +31313,56 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:GSU Campus\, Langdale Hall\, Room 1081\, Atlanta\, GA 30303
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PhD Defense by Shannon Owings
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200227T180000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200227T200000Z
+UID:http://hg.gatech.edu/node/632868#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nStatus: published\n\nmy PhD thesis titled "Impor
+ tance of Manganese oxides in carbon remineralization in river-dominated co
+ ntinental margins and the biogeochemical cycling of arsenic" on February 2
+ 7th at 1 pm in Ford EST L1114. My committee members include Dr. Martial Ta
+ illefert (advisor\, GT EAS)\, Dr. Yuanzhi Tang (GT\, EAS) Dr. Thomas DiChr
+ istina (GT\, BIO)\, Dr. Frank Stewart (Montana State University)\, Dr. Geo
+ rge Luther (Univ. of Delaware)\, and Dr. Christophe Rabouille (Univ d'Sacl
+ ay\, CEA\, LSCE\, France). My abstract is included below.\n\nBest regards\
+ ,\n\nShannon Owings\n\nManganese oxides (MnO2) are ubiquitous in the envir
+ onment and play an important role in the transformation and transport of c
+ ontaminants in the environment in addition to play a major role in the bio
+ geochemical cycling of carbon. This study investigated both aspects of the
+ se roles using a combination of laboratory experiments and field work. Fir
+ st\, the kinetics of oxidation of the more toxic arsenic form\, arsenite (
+ As(III))\, to the less mobile form\, arsenate (As(V))\, by MnO2 was determ
+ ined and compared to literature data to investigate the mechanism of the r
+ eaction. Subsequently\, the effect of low As(V) concentrations on the anae
+ robic microbial respiration of MnO2 and iron oxides\, Fe(OH)3\, were inves
+ tigated to shed light into the mechanism of As(V) toxicity in aquatic envi
+ ronments. At low As(V) concentrations\, microbial reduction rates were inc
+ reased compared to arsenic-free treatments suggesting As(V) at low concent
+ rations stimulates metal reduction (MnO2\, Fe(OH)3) in sediments as a resu
+ lt of a catalytic cycle in which arsenic is constantly reduced via microbi
+ al detoxification and re-oxidized by MnO2. The cumulative findings from th
+ is study suggest that arsenic is not simply immobilized in sediments and t
+ hat a suite of complex abiotic and microbial processes including adsorptio
+ n\, intracellular transport\, and redox reactions may affect the transport
+  of arsenic in the environment\, and ultimately the quality of drinking wa
+ ter resources.\n\nIn parallel to laboratory experiments\, manganese cyclin
+ g\, and the dominant redox pathways involved in carbon remineralization pr
+ ocesses were characterized in marine sediments across the Louisiana shelf 
+ and slope that are exposed to mineral and terrestrial organic inputs from 
+ the Mississippi River. Although sulfate reduction dominates on the contine
+ ntal shelf\, denitrification and microbial manganese reduction appear equa
+ lly significant anaerobic respiration processes along the continental slop
+ e the closest to the Mississippi River. This study emphasizes how the diff
+ erential oxidation kinetics of Mn2+ (slow) and Fe2+ (fast) as well as sedi
+ ment transport processes influence the main pathways of carbon degradation
+  in these regions. Overall this thesis emphasizes the importance of charac
+ terizing the fundamental molecular processes of complex systems to better 
+ understand large scale global biogeochemical cycles.\n\nLinks:\n[0]  http:
+ //hg.gatech.edu/node/632868#0
+LOCATION:Ford EST L1114
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Book Discussion with Christen Smiley of Institute Diversity\, Equi
  ty\, and Inclusion
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200227T230000Z
@@ -31307,6 +31381,20 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  \, marketing\, and diversity and inclusion at various companies.\n\nLinks:
  \n[0]  http://hg.gatech.edu/node/629825#0
 LOCATION:Stein House/4th St. A\, 733 Techwood\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Designing a Secure Smartphone: Beyond Crypto
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200227T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200228T010000Z
+UID:http://hg.gatech.edu/node/632877#0
+DESCRIPTION:Intended audience: Graduate students\, Postdoc\, Undergraduate
+  students\nExtras: Free food\, Freebies\nStatus: published\n\nIoT devices 
+ are putting more and more trust into smartphones\, but all smartphones hav
+ e\nmajor security flaws. Come hear Tim Menninger share how to leverage the
+  proven security of the Green Hills operating system\, INTEGRITY\, to buil
+ d a secure smartphone.\n\nDInner will be served at the event as well.\n\nL
+ inks:\n[0]  http://hg.gatech.edu/node/632877#0
+LOCATION:Howey L5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SCPC presents Campfire Jams
@@ -31837,6 +31925,23 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nSGA's Outreach and Coll
  n campus to discuss their involvement with SGA.\n\nLinks:\n[0]  https://ga
  tech.campuslabs.com/engage/event/5621262
 LOCATION:Bill Moore Student Success Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GTSWE x Bell Helicopter Info Session
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200305T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200306T010000Z
+UID:https://gatech.campuslabs.com/engage/event/5632851
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nHear from Bell Helicopt
+ er representatives about the aerospace manufacturing industry! Connect and
+  network over a dinner representation\; dress is casual.\n\nThursday\, Mar
+ ch 5th\, 2020\n6:00pm - 8:00pm\nStudent Center room 319\n\nIf you have que
+ stions\, feel free to reach out to VP of Industry Relations\, Salmata Barr
+ ie\, at sweindustryrelations@gmail [1]\n\nPlease help us get a headcount f
+ or dinner by RSVPing at tinyurl.com/swexbell [2]\n\nLinks:\n[0]  https://g
+ atech.campuslabs.com/engage/event/5632851\n[1]  sweindustryrelations@gmail
+ .com\n[2]  https://gatech.campuslabs.com/engage/submitter/organization/soc
+ iety-of-women-engineers/eventsubmission/tinyurl.com/swexbell
+LOCATION:Student Center Room 319
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Intentional Yoga with American Monks
