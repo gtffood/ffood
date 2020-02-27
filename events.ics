@@ -2,103 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:The Oscars Viewing Party
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190225T003000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190225T040000Z
-UID:http://hg.gatech.edu/node/617845#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: published\n\nCome join SCPC on Sunday\, F
- ebruary 24 to watch the Oscars and enjoy some delicious hors d'oeuvres! Th
- e event will be from 8:00 - 11:00 at Tech Rec in the Student Center\n\nLin
- ks:\n[0]  http://hg.gatech.edu/node/617845#0
-LOCATION:Student Center - Tec Rec
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Uber Day on Campus
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190225T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190226T010000Z
-UID:http://hg.gatech.edu/node/615882#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nDay in the Lobby\nBrin
- g your resume and come chat with recruiters from Uber in the College of Co
- mputing commons anytime between 11am and 4pm.\n\nCan't make it in the morn
- ing or really want to be considered for their team?\n\nTech Talk: Reliabil
- ity Engineering @ Uber\nJoin them in CCB 16\, from 6:30pm – 8pm!\n\nHiri
- ng for Internships!\nApply Now! Click HERE [1].\n\nFree food will be provi
- ded if you come early!\n\nLinks:\n[0]  http://hg.gatech.edu/node/615882#0\
- n[1]  https://www.uber.com/careers/list/41577/
-LOCATION:11-4pm CCB commons & 6:30pm – 8pm CCB 16.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Funding Opportunities for Developing Software - IDEaS Panel Discus
- sion
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190225T190000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190225T200000Z
-UID:http://hg.gatech.edu/node/617480#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \n2 - 3 p.m. February 25\, 2019 Tech Square Research Building (TSRB) Audit
- orium Reception following Funding Opportunities for Developing Software - 
- IDEaS Panel Discussion Featuring T. Daniel Crawford\, Ph.D.\, Director\, N
- SF Molecular Sciences Software Institute\n\nNSF\, DOE\, and other agencies
-  are starting to invest heavily in software development by academic resear
- ch groups. Industry is also interested in gaining access to cutting-edge t
- echniques by using academic software. These funding opportunities are star
- ting to make more researchers think seriously about converting their in-ho
- use demonstration codes into usable software products. Academics who have 
- released software are often finding that it makes a large impact on their 
- disciplines. Please join us for a panel discussion on software development
-  by academics\, discussing benefits\, challenges\, and best practices. T. 
- Daniel Crawford\, Ph.D.\, Director of the Molecular Sciences Software Inst
- itute at Virginia Tech\, will describe how NSF is supporting academic soft
- ware through their Sustainable Software Institutes. Mark Borodovsky\, Ph.D
- . (computational genomics and bioinformatics)\, Greg Eisenhauer\, Ph.D. (h
- igh-performance data communication)\, and John Wise\, Ph.D. (computational
-  cosmology and volumetric visualization) will share their experiences with
-  academic software development at Georgia Tech.\n\nLinks:\n[0]  http://hg.
- gatech.edu/node/617480#0\n[1]  https://mailchi.mp/ab0e24928099/ideasacadem
- icsoftwarepanel
-LOCATION:Tech Square Research Building (TSRB) Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Impact Investing: What is it? How can you become an impact investo
- r?
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190225T211500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190225T230000Z
-UID:http://hg.gatech.edu/node/617477#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \nStatus: published\n\nPlease join the Scheller College of Business Net Im
- pact and Finance Club to hear from impact investment and social enterprise
-  experts:\n\n- Mark Callaway - Senior Vice President\, Financial Advisor &
-  Investing with Impact Director at Morgan Stanley\n- Alora Clark – Wealt
- h Management Analysts at Morgan Stanley\n- Mark Crosswell - Managing Direc
- tor\, Social Impact Strategy & the GoATL Fund at Community Foundation for 
- Greater Atlanta\n- Jasmine Crowe – Chief Executive Officer and Founder o
- f Goodr\n- Sydney Hulebak - Chief Operations Officer at WildArk\n- Jonny N
- ewburgh - Impact Investment Associate at Community Foundation for Greater 
- Atlanta\n\nAdditional information about the panelists can be found here.\n
- \nRefreshments will be provided from 4:15 - 4:30 pm before the start of th
- e panel at 4:30.\n\nRegister to attend [1]\n\nLinks:\n[0]  http://hg.gatec
- h.edu/node/617477#0\n[1]  https://www.eventbrite.com/e/impact-investment-p
- anel-tickets-56020339343\n[2]  https://www.eventbrite.com/e/impact-investm
- ent-panel-registration-56020339343
-LOCATION:LeCraw Auditorium\, Scheller College of Business
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ted Talk Tuesdays - February
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190226T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190226T170000Z
-UID:http://hg.gatech.edu/node/616567#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nJoin Health Initiatives for a Ted Talk discussi
- on on topics pertinent to societal influence on health and well-being - BY
- OL (bring your own lunch!) Come and discuss topics including meaning\, pur
- pose\, body image\, and self-compassion.\n\nFebruary 26 - Stop Hating Your
-  Body\, Start Living Your Life\, Taryn Brumfitt\n\nLinks:\n[0]  http://hg.
- gatech.edu/node/616567#0\n[1]  http://healthinitiatives.gatech.edu/ted
-LOCATION:Student Center Room 343
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED - Workday Day on Campus
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190226T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190227T010000Z
@@ -111,83 +14,6 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
   about their innovative technology!\n\nFree food will be provided if you c
  ome early!\n\nLinks:\n[0]  http://hg.gatech.edu/node/617191#0
 LOCATION:11am-4pm CCB commons \; 6:30pm-8pm Klaus 1116 E&W
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:C21U Seminar: Using IMS Standards to Advance Next-Generation Digit
- al Learning Environments (NGDLE) w/ Jack Suess of UMBC
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190226T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190226T180100Z
-UID:http://hg.gatech.edu/node/617588#0
-DESCRIPTION:Intended audience: Public\nStatus: published\n\nPlease join C2
- 1U on Feb. 26 for a seminar on "Using IMS Standards to Advance Next-Genera
- tion Digital Learning Environments (NGDLE)" with Jack Suess of University 
- of Maryland\, Baltimore County (UMBC).\n\nTitle: Using IMS Standards to Ad
- vance Next-Generation Digital Learning Environments (NGDLE)\n\nSpeaker: Ja
- ck Suess\, VP of IT & CIO at University of Maryland\, Baltimore County (UM
- BC)\n\nDate and Time: Feb. 26\, 2018 from 11:30 a.m. to 1:00 p.m.\n\nLocat
- ion: Klaus 2405\n\n**Please bring your own brown bag lunch.**\n\nRSVP Requ
- ired for Attendees [1]\n\nAbstract\n\nThe NGDLE is a vision for a learning
-  ecosystem not a detailed technical specification. As such\, the NGDLE wil
- l evolve over time as technology matures and the research in teaching & le
- arning identifies effective practices. This talk focuses on what Jack Sues
- s (UMBC) believes to be three essential elements for success:\n\n1. The ro
- le of standards in building a learning ecosystem\, the most important stan
- dards to follow\, and why standards such as Open Badges\, Comprehensive Le
- arning Record\, and LTI-Advantage are essential for interoperability and i
- ntegration\;\n\n2. The importance of learning analytics in advancing effec
- tive practices in course design and pedagogy\, student graduation and rete
- ntion\, and personalization of learning\; and\n\n3. The importance of univ
- ersal design principles to think more broadly about accessibility of learn
- ing resources and to move beyond a course-centric view of learning.\n\nLin
- ks:\n[0]  http://hg.gatech.edu/node/617588#0\n[1]  https://gatech.co1.qual
- trics.com/jfe/form/SV_1FlzMcfMjZeu4zH
-LOCATION:Klaus 2405
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nano@Tech : Celebrating Silicon’s Success\, its Hidden History\,
-  and its Next Act
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190226T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190226T180000Z
-UID:http://hg.gatech.edu/node/615686#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nMike Filler\nSchool of Chemical and Biomolecular Engineering at Georgia 
- Tech\n\nAbstract: The history of silicon is usually told as a history of e
- lectronic materials and devices. However\, it may be better told as a hist
- ory of manufacturing innovation. This talk will take a journey through the
-  manufacturing innovations that transformed silicon from its humble beginn
- ings as the most abundant metal in Earth’s crust to the enabler of the c
- omputer chips that underpin the modern economy. The journey begins with th
- e extraction of silicon from sand and its processing into the most composi
- tionally pure and structurally perfect human-made material. It continues t
- hrough the mid-20th century breakthroughs that allowed for the fabrication
-  and interconnection of high-quality electronic devices to form integrated
-  circuits. It is from this perspective that we can most easily appreciate 
- silicon’s impact on modern society and why it is finding increasing util
- ity in technology areas as diverse as renewable energy\, environmental sen
- sing\, and augmented reality. It is also from this perspective that we can
-  understand the limitations of today’s manufacturing paradigm and begin 
- to see what innovations might be necessary to enable silicon’s next act.
- \n\nBio: Michael A. Filler [1] is an associate professor and the Traylor F
- aculty Fellow in the School of Chemical and Biomolecular Engineering at Ge
- orgia Tech. His research program lies at the intersection of chemical engi
- neering and materials science\, focusing on the synthesis\, understanding\
- , and deployment of nanoscale materials for applications in electronics\, 
- photonics\, and energy conversion. He is co-director of the Community for 
- Research on Active Surfaces and Interfaces (CRĀSI) [2] and the host of Na
- novation [3]\, a bimonthly podcast about the intersection of nanoscience\,
-  technology\, manufacturing\, and society. Filler has received numerous aw
- ards for his research and teaching\, including the National Science Founda
- tion CAREER Award\, Georgia Tech Sigma Xi Young Faculty Award\, and the CE
- TL/BP Junior Faculty Teaching Excellence Award. He also has been recognize
- d as a Camille and Henry Dreyfus Foundation Environmental Chemistry Mentor
- .\n\nPLEASE NOTE LOCATION CHANGE: Pettit Microelectronics Building | 791 A
- tlantic Dr NW | Atlanta GA | 30332\n\nLinks:\n[0]  http://hg.gatech.edu/no
- de/615686#0\n[1]  http://www.chbe.gatech.edu/people/michael-filler\n[2]  h
- ttp://crasi.gatech.edu/\n[3]  http://www.fillerlab.com/nanovation/\n[4]  h
- ttp://ien.gatech.edu
-LOCATION:Pettit Microelectronics Building | 791 Atlantic Dr NW | Atlanta G
- A | 30332
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Find Your Fit @ Honeywell
@@ -31242,6 +31068,17 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Kessler Campanile/Student Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Is Grad School for You?
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200227T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200227T164500Z
+UID:https://gatech.campuslabs.com/engage/event/5637083
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for a panel of 
+ grad students to help you determine if grad school is in your future and l
+ unch from Alon's Bakery!\n\nLinks:\n[0]  https://gatech.campuslabs.com/eng
+ age/event/5637083
+LOCATION:Van Leer C340
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GVU Center Brown Bag: Emma Brunskill "Human-Focused Reinforcement 
  Learning"
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200227T163000Z
@@ -31361,6 +31198,37 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
  understand large scale global biogeochemical cycles.\n\nLinks:\n[0]  http:
  //hg.gatech.edu/node/632868#0
 LOCATION:Ford EST L1114
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CREATE-X Deep Startups: Qualcomm
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200227T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200228T000000Z
+UID:http://hg.gatech.edu/node/632947#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nExtras: Free food\nStatus: published\n\nThe emer
+ gence of 3G and 4G led to opportunities for new businesses and startups ne
+ ver before possible. 5G has the potential to do the same. Deep Startups is
+  hosting senior leadership from Qualcomm who are directly working with bus
+ inesses of all sizes to leverage 5G's potential and guide them based learn
+ ings from prior generation deployments. Come to Deep Startups to learn fro
+ m the leaders of 5G to spark your imagination on how it can solve real pro
+ blems for you to make an impact.\n\nLinks:\n[0]  http://hg.gatech.edu/node
+ /632947#0\n[1]  https://gatech.campuslabs.com/engage/event/5570109
+LOCATION:Room 2448\, Klaus Advanced Computing Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GTSWE x Air Liquide Professional Development Workshop
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200227T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200228T000000Z
+UID:https://gatech.campuslabs.com/engage/event/5638655
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nRepresentatives from Ai
+ r Liquide are sharing their tips and tricks to networking effectively! Rec
+ eive advice and make connections over dinner! The session is applicable to
+  all majors\; dress is casual.\n\nMore details at tinyurl.com/sweairliquid
+ e [1]\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5638655\n
+ [1]  https://gatech.campuslabs.com/engage/submitter/organization/society-o
+ f-women-engineers/eventsubmission/tinyurl.com/sweairliquide
+LOCATION:Student Center Room 332
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Book Discussion with Christen Smiley of Institute Diversity\, Equi
@@ -31817,6 +31685,33 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Savant 115\, Georgia Tech\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Political Uncertainty\, Market Structure\, and the Forms of State 
+ Capture
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200304T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200304T184500Z
+UID:http://hg.gatech.edu/node/633010#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nJoin the Global D
+ evelopment Program in the Sam Nunn School of International Affairs as it h
+ osts Leonard Wantchekon\, a professor of Politics and International Affair
+ s at Princeton.\n\nLeonard Wantchekon is a Professor of Politics and Inter
+ national Affairs at Princeton University\, as well as Associated Faculty i
+ n Economics. He has implemented pioneering studies on political institutio
+ ns and governance\, using field experiments with real politicians competin
+ g in real elections to investigate the effects of broad-based policy messa
+ ges and deliberative campaign strategies on voting behavior and election o
+ utcomes. His current work along these lines applies the methodology of ins
+ titutional experiments to study candidate selection in local elections\, b
+ ureaucratic governance and the politics of education policies.\n\nThe even
+ t in the Klaus Building room 1116W [1] is free and open to the public. Par
+ king is available in the visitor lot 4. [2]\n\nLunch will be served\, plea
+ se RSVP [3].\n\nLinks:\n[0]  http://hg.gatech.edu/node/633010#0\n[1]  http
+ s://map.concept3d.com/?id=82#!m/181222\n[2]  https://map.concept3d.com/?id
+ =82#!m/11397\n[3]  https://gatech.co1.qualtrics.com/jfe/form/SV_1M13K0nOhN
+ 2FKC1
+LOCATION:Klaus 1116W
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dr. Darshan Bryner - IEEE SPS Atlanta Lecture
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200304T180000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200304T190000Z
@@ -31871,6 +31766,40 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  engage/event/5473447\n[2]  https://www.facebook.com/events/125405329812549
  6/
 LOCATION:Room 210\, The Kendeda Building for Innovative Sustainable Design
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IEEE Power and Energy Society (PES) Kickoff Event
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200305T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200305T170000Z
+UID:https://gatech.campuslabs.com/engage/event/5638668
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us as we kick off 
+ the next exciting year of IEEE PES activities. Learn why power and energy 
+ is a growing field. We will talk about all our student engagement activiti
+ es to accelerate networking\, career opportunities\,professional developme
+ nt as well as all the fun social activities we organize.\n\nAs always ther
+ e will be free refreshments. Hoping to see you all there!\n\nLinks:\n[0]  
+ https://gatech.campuslabs.com/engage/event/5638668
+LOCATION:Van Leer E283
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring 2020 Grad Fest
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200305T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200305T190000Z
+UID:http://hg.gatech.edu/node/631781#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\, Freebies\nStatus: published\n\nGrad Fest is a one-sto
+ p shop for graduating bachelor's\, master's and Ph.D. students to complete
+  their commencement requirements. All fall graduates are encouraged to att
+ end.\n\nJoin us in the Georgia Tech Barnes and Noble bookstore to complete
+  all your Commencement needs at one easy location:\n\n- Purchase your rega
+ lia at a discounted rate\n- RSVP and reserve tickets for Commencement\n- M
+ eet with Balfour to order your class ring\n- Take professional cap and gow
+ n photos\n- Sign up for membership in the Alumni Association\n- Ask your c
+ ommencement questions\n- Free Starbucks coffee or tea with a regalia purch
+ ase\n- Win prizes\n\nLinks:\n[0]  http://hg.gatech.edu/node/631781#0\n[1] 
+  http://commencement.gatech.edu/commencement-fair\n[2]  http://www.commenc
+ ement.gatech.edu/
+LOCATION:Georgia Tech Barnes and Noble at Tech Square
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tools to Facilitate Multiple Means of Assessment
@@ -31942,6 +31871,24 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nHear from Bell Helicopt
  .com\n[2]  https://gatech.campuslabs.com/engage/submitter/organization/soc
  iety-of-women-engineers/eventsubmission/tinyurl.com/swexbell
 LOCATION:Student Center Room 319
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GT Students for Education Coalition - Interest Meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200306T161500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200307T044500Z
+UID:http://hg.gatech.edu/node/632955#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nStatus: published\n\nCome join us for an intere
+ st meeting of the Student Education Coalition!\n\nMeet like-minded student
+ s who want to support K12 education on and off campus. This new group welc
+ omes anyone who:\n\n- is considering teaching K12 as a career OR\n- enjoys
+  putting good into the world by participating in K12 education-related act
+ ivities OR\n- is simply curious OR\n- all of the above\n\nSnacks provided!
+ \n\nSEC is hosted by GT Pre-Teaching Advising (www.preteaching.gatech.edu)
+ \n\nQuestions? Rachel Meyer (student) - rachelmeyer@gatech.edu\n\nLinks:\n
+ [0]  http://hg.gatech.edu/node/632955#0
+LOCATION:GT Bill Moore Student Success Center - Hayes Conference Room (Fes
+ tival/Basement Level)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Intentional Yoga with American Monks
@@ -32168,6 +32115,50 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Stein House/4th St. A\, 733 Techwood\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Project Change: STEM Teachers @ Tech Day
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200310T130000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200310T193000Z
+UID:http://hg.gatech.edu/node/632982#0
+DESCRIPTION:Intended audience: Public\nStatus: published\n\nAre you lookin
+ g for a way to move beyond the standards and integrate STEM connections in
+ to your curriculum? Science\, technology\, engineering or math (STEM) teac
+ hers have the challenge of engaging and preparing their students for post 
+ secondary education or the workforce\, thus providing students with opport
+ unities to experience real-world applications of the curriculum is more im
+ portant than ever. Do you thirst for more knowledge to better connect and 
+ communicate to your class of future scientists\, technologists\, engineers
+ \, and mathematics?\n\nThis one day\, on-campus experience is designed to 
+ provide High School and Middle School teachers with the opportunity to exp
+ erience the cutting edge resources and research here at the Georgia Instit
+ ute of Technology with the goal of increasing their understanding of curre
+ nt\, real-world applications of their content. All participating teachers 
+ will be placed in small groups based on their respective content areas and
+  engage in:\n\n- Activities with Georgia Tech research faculty\;\n- Hands-
+ on activities designed for replication in STEM classrooms\;\n- And small g
+ roup discussions with current Georgia Tech students focused on pre-requisi
+ te skills and concepts they learned in high school.\n\nOur activities for 
+ the day will focus on the following specialty areas:\n\n- Physical\, chemi
+ cal\, and mechanical\n- Life\, earth\, and environmental\n- Computer scien
+ ce and interactive computing\n- STEM with art integration\n- Mathematics\n
+ \nDate: March 10\, 2020\n\nTime: 9:00 am to 3:30 pm\n\nLocation: Georgia T
+ ech Student Center and labs across GT campus\n\nCost: $150 (Includes - lun
+ ch\, all activities for the day\, campus parking\, and if registered befor
+ e February 10th all give-away items)\n\nRegister Here [2]\n\nRegistration 
+ Tips:\n1. Make sure to create a new account if you have not signed up for 
+ Georgia Tech programming through Ideal-Logic before.\n\n2. Registration is
+  open until March 2\, 2020.\n\n3. Registration is not complete until payme
+ nt has been received.\n\n4. During registration\, please choose one specia
+ lty area that best represents what you are currently teaching. If that sec
+ tion is full\, you are more than welcome to choose another specialty area 
+ that you feel complements your content area.\n\nIf you have any questions\
+ , please reach out to us at stemteacher@gatech.edu [3].\n\nLinks:\n[0]  ht
+ tp://hg.gatech.edu/node/632982#0\n[1]  http://hg.gatech.edu/node/632981#0\
+ n[2]  https://apps.ideal-logic.com/ceismc?key=KJM2-8KRCD_K9KH-5PTF_077ed40
+ 1\n[3]  stemteacher@gatech.edu\n[4]  https://ceismc.gatech.edu/community/s
+ ttd
+LOCATION:Georgia Tech Student Center and labs across GT campus
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Celebrating Teaching Day
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200310T140000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200310T163000Z
@@ -32200,6 +32191,21 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  0\n[1]  http://ien.gatech.edu
 LOCATION:Marcus Nanotechnology Building 1117-1118 | 345 Ferst Drive | Atla
  nta GA | 30332
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vertically Integrated Projects (VIP) Poster Session
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200310T193000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200310T213000Z
+UID:http://hg.gatech.edu/node/632993#0
+DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\n
+ Status: published\n\nThe VIP Spring Poster Session is open to all students
+  looking for research opportunities!\n\nPoster Sessions are a great way to
+  get involved in undergraduate research. Come check out more than 80 inter
+ esting research projects that are looking for students like you!\n\nLearn 
+ more at [1].\n\nRefreshments will be provided.\n\nLinks:\n[0]  http://hg.g
+ atech.edu/node/632993#0\n[1]  https://www.vip.gatech.edu/teams\n[2]  http:
+ //www.vip.gatech.edu
+LOCATION:Klaus Advanced Computing Building Atrium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Society of Women Engineers General Body Meeting
@@ -33964,6 +33970,21 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:CRC
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Faculty & Staff Honors Luncheon 2020
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200424T153000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200424T173000Z
+UID:http://hg.gatech.edu/node/632897#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\nStatus: published\n
+ \nThe Faculty & Staff Honors Luncheon recognizes those who have received a
+ ccolades and awards throughout the previous academic year. The luncheon wi
+ ll begin promptly at 11:30 a.m.\; awards presentation at noon.\n\nTo RSVP 
+ to attend\, visit our website by Wednesday\, April 15\, 2020. [1]\n\nPast 
+ awardees and programs can also be viewed on our site. [2]\n\nLinks:\n[0]  
+ http://hg.gatech.edu/node/632897#0\n[1]  http://specialevents.gatech.edu/f
+ orm/2162\n[2]  http://specialevents.gatech.edu/events/faculty-staff-honors
+LOCATION:Student Center Ballroom
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Food Distribution Volunteering
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200425T140000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200425T180000Z
@@ -34008,6 +34029,25 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  .gatech.edu/node/629972#0\n[1]  http://ien.gatech.edu
 LOCATION:Marcus Nanotechnology Building 1117-1118 | 345 Ferst Drive | Atla
  nta GA | 30332
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring President's Graduation Celebration
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200501T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200501T170000Z
+UID:http://hg.gatech.edu/node/630833#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nExtras: Free food\, Freebies\nStatus: published\
+ n\nSpring 2020 graduates\, along with their parents and friends\, are invi
+ ted to share in the excitement of Commencement at Georgia Tech’s Preside
+ nt's Graduation Celebration. Held on Friday\, May 1\, from 11 a.m.-1 p.m. 
+ on Tech Tower Lawn\, families and graduates have an opportunity to take ph
+ otos with beloved Tech mascots\, meet administrators\, faculty\, and staff
+ \, and share in unique traditions that make Georgia Tech such a cherished 
+ institution.\n\nAdmission is free to all graduates and their families. Mor
+ e information can be found at [1].\n\nLinks:\n[0]  http://hg.gatech.edu/no
+ de/630833#0\n[1]  http://commencement.gatech.edu/presidents-graduation-cel
+ ebration
+LOCATION:Tech Tower Lawn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Food Distribution Volunteering
