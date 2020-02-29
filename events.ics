@@ -2,387 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:CANCELLED - Workday Day on Campus
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190226T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190227T010000Z
-UID:http://hg.gatech.edu/node/617191#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nCANCELLED\n\nDay in th
- e Lobby\nBring your resume and come chat with recruiters from Workday in t
- he College of Computing commons anytime between 11am and 4pm.\n\nCan’t m
- ake it in the morning?\n\nTech Talk\nJoin Workday from 6:30pm-8pm to learn
-  about their innovative technology!\n\nFree food will be provided if you c
- ome early!\n\nLinks:\n[0]  http://hg.gatech.edu/node/617191#0
-LOCATION:11am-4pm CCB commons \; 6:30pm-8pm Klaus 1116 E&W
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Find Your Fit @ Honeywell
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190226T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190227T003000Z
-UID:http://hg.gatech.edu/node/617866#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nRSVP\nClick HERE [1].\
- n\nNetworking and Food\nA chance to network and talk to the employees at H
- oneywell and get a glimpse of our culture (of course\, dinner is on us).\n
- \nGenesis (Rotation Program) Participants:\nLearning about the early caree
- r experience at Honeywell followed by Q&A.\n\nThe Genesis Program is desig
- ned for those passionate about technology and its ability to improve the w
- orld.\n\n- 2 years: Three rotations\, eight months each (mobility required
- )\n- Explore agile software development methodologies\, new technologies u
- sed to differentiate products\, and domain authorities to develop creative
-  solutions.\n\nLightning Tech-Talks:\nHear from our leaders from various e
- ngineering disciplines about what they do at Honeywell.\n\nLinks:\n[0]  ht
- tp://hg.gatech.edu/node/617866#0\n[1]  https://www.surveymonkey.com/r/7N2Q
- L8B
-LOCATION:Honeywell Software Center: 715 Peachtree Street NE\, 30308\, (6th
-  Floor)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Philanthrophy is Sweet!
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190227T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190227T180000Z
-UID:http://hg.gatech.edu/node/617590#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nThe Freshmen Leadership Initiativ
- e (FLI) is hosting a 3-day tabling event — "Philanthrophy is Sweet!"\n\n
- Each day\, different sweet treats will be served (Fruit Snacks\, Candy\, D
- onuts) in keeping up with the "Philanthrophy is Sweet" theme. FLI members 
- will talk with students about Gift to Tech voting and the impact of philan
- throphy and the Georgia Tech Student Foundation here on campus.\n\nSee the
-  list of Gift to Tech Finalists [1]\n\nLinks:\n[0]  http://hg.gatech.edu/n
- ode/617590#0\n[1]  http://www.gtsf.gatech.edu/s/1481/alumni/17/interior-wi
- de.aspx?sid=1481&gid=42&pgid=14196&cid=31962&ecid=31962&crid=0&calpgid=141
- 89&calcid=31960
-LOCATION:Tech Walkway
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Salesforce Day in the Lobby
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190227T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190227T210000Z
-UID:http://hg.gatech.edu/node/615899#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nDay in the Lobby\nBrin
- g your resume and come chat with recruiters from Salesforce in the College
-  of Computing commons anytime between 11am and 4pm.\n\nHiring only for int
- ernships at this time.\n\nYour trail starts here.\nAt Salesforce\, we're d
- edicated to attracting\, retaining\, and cultivating the next generation t
- alent. Our interns and new graduates work on real projects that affect how
-  our business runs\, giving them the opportunity to make a tangible impact
-  on the future of our company. With offices all over the world\, our recru
- its have the chance to collaborate and connect with fellow employees on a 
- global scale.\n\nLinks:\n[0]  http://hg.gatech.edu/node/615899#0\n[1]  htt
- ps://salesforce.wd1.myworkdayjobs.com/External_Career_Site/0/refreshFacet/
- 318c8bb6f553100021d223d9780d30be
-LOCATION:11-4pm CCB commons
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Optimizing voice and body use in classroom lecturing
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190227T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190227T180000Z
-UID:http://hg.gatech.edu/node/611393#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \nStatus: published\n\nWallace H Coulter Department of Biomedical Engineer
- ing\n\n2018/19 Faculty Development Lunch Series\n\nTopic: Optimizing voice
-  and body use in classroom lecturing: A workshop on theater techniques\n\n
- Vincent Murphy\nProfessor\, Theater Studies\nEmory University\n\nThese are
-  open to BME faculty (all - i.e. primary and program)\, BME post docs\, an
- d PhD students participants in our Preparing Future Faculty program.\n\nLi
- nks:\n[0]  http://hg.gatech.edu/node/611393#0
-LOCATION:Rm 3115 Whitaker (GT) & Rm E182 HSRB (Emory)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Implicit Bias Workshop
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190227T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190227T183000Z
-UID:http://hg.gatech.edu/node/614983#0
-DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nInstitu
- te Diversity\, in collaboration with the Office of the Vice Provost for Gr
- aduate Education and Faculty Development and Georgia Tech’s ADVANCE Prog
- ram\, is offering four 90-minute Implicit Bias Workshops for faculty this 
- spring on January 16\, January 30\, February 12\, and February 27. All fac
- ulty who serve on reappointment\, promotion\, and/or tenure committees and
-  faculty search committees are required to participate in an Implicit Bias
-  Workshop pursuant to Provost Bras’ memo in October 2016 to academic lea
- ders. However\, all instructional and research faculty are welcomed to att
- end as space permits.\n\nThe goals of these workshops are to increase awar
- eness of the impact of implicit bias and facilitate equitable decision-mak
- ing across myriad processes related to faculty evaluations. As a participa
- nt in the workshop\, you will learn the following:\n\n- An introduction to
-  the concept of implicit bias and how these unconscious\, automatic mental
-  processes may impact behaviors such as evaluating candidates during facul
- ty search and/or RPT processes.\n- Empirical research on vitaes\, letters 
- of recommendations\, and teaching evaluations to illustrate the impact of 
- implicit bias on decisions.\n- Effective practices and strategies for facu
- lty search and RPT committees.\n\nThese workshops will be facilitated by J
- ulie Ancis\, associate vice president\, Institute Diversity\; Paul Benkese
- r\, senior associate chair and professor\, Wallace H. Coulter Department o
- f Biomedical Engineering\; Harris Dimitropoulos\, associate professor\, Sc
- hool of Architecture\; Robert Kirkman\, associate professor\, School of Pu
- blic Policy\; Mark Mitchell\, associate director\, Georgia Tech Research I
- nstitute\; and/or Michelle Rinehart\, associate dean for academic affairs 
- and outreach\, College of Design.\n\nTo register for one of the workshops\
- , visit [1]. Lunch will be provided.\n\nLinks:\n[0]  http://hg.gatech.edu/
- node/614983#0\n[1]  http://www.advance.gatech.edu/implicit-bias-workshops
-LOCATION:Bill Moore Student Success Center\, Press Room A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Safe Space: Peer Education
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190227T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190228T020000Z
-UID:http://hg.gatech.edu/node/615256#0
-DESCRIPTION:Intended audience: Graduate students\, Postdoc\, Undergraduate
-  students\nExtras: Free food\nStatus: published\n\nSafe Space: Peer Educat
- ion (SSPE) is a student version of Georgia Tech's Safe Space program. The 
- goals\, messages\, and content are the same in both programs\, but SSPE wi
- ll have more of a student focus\, equipping students with the knowledge an
- d skills to support a peer who comes out to them and to be effective allie
- s to LGBTQIA communities. We provide free dinner to all attendees.\n\nLink
- s:\n[0]  http://hg.gatech.edu/node/615256#0\n[1]  http://lgbtqia.gatech.ed
- u
-LOCATION:Register to receive the location
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GT LEAD Graduate Student Opportunities | Ice Cream Sundae Bar
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190228T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190228T010000Z
-UID:http://hg.gatech.edu/node/618349#0
-DESCRIPTION:Intended audience: Graduate students\nExtras: Free food\nStatu
- s: published\n\nGraduate Students: You're invited!\n\nJoin us over an Ice 
- Cream Sundae Bar for an interactive information session!\nNetwork with oth
- er graduate students and LEAD staff over an Ice Cream Sundae Bar while lea
- rning about a variety of paid leadership opportunities available to you. T
- he benefit is simple - Develop yourself while developing others.\n\nFeel f
- ree to invite other graduate students to attend with you!\n\nRSVP - https:
- //www.eventbrite.com/e/graduate-student-opportunities-ice-cream-bar-ticket
- s-57360601102\n\nLinks:\n[0]  http://hg.gatech.edu/node/618349#0
-LOCATION:Ferst Center for the Arts - Lobby West
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dr. Kofi Smith ~ Black History Month Speaker
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190228T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190228T013000Z
-UID:http://hg.gatech.edu/node/618181#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nThe College of Computing Office of Outreach\, Enrichment\, and Community
-  will be hosting Dr. Kofi Smith as our Black History Month Speaker this ye
- ar. Please sign up below to secure a spot!\n\nRSVP HERE [1]\n\nLinks:\n[0]
-   http://hg.gatech.edu/node/618181#0\n[1]  https://docs.google.com/forms/d
- /e/1FAIpQLSfFonUiznx6c-jT_ABOO65Pvl3eqWOwF1Y7D1pb89kHRAmSMw/viewform
-LOCATION:CCB 016
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Advancing Foundational Technologies to Improve the Bottom Line
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190228T130000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190228T190000Z
-UID:http://hg.gatech.edu/node/615125#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\nStatus: published\n\nJoin us for “Advancing Foundational Tech
- nologies to Improve the Bottom Line\,” Thursday\, Feb. 28\, 2019\, from 
- 8 a.m. to 2 p.m. at Georgia Tech’s Renewable Bioproducts Institute on th
- e Atlanta campus.\n\nDelivering our keynote address will be RAPID Manufact
- uring Institute [1] CEO and Georgia Tech alum William Grieco.\n\nIn 2016\,
-  the U.S. Department of Energy announced the establishment of the 10th Man
- ufacturing USA Institute\, the Rapid Advancement in Process Intensificatio
- n Deployment (RAPID) Manufacturing Institute. Leveraging up to $70 million
-  in federal funding\, RAPID is focused on developing breakthrough technolo
- gies to boost energy productivity and energy efficiency by 20 percent in f
- ive years. RAPID will leverage approaches to modular chemical process inte
- nsification used in a variety of industries. Its focus on renewable biopro
- ducts can be found here [2].\n\nGrieco's senior-level innovation roles hav
- e focused on process development across multiple industries. These include
-  the biofuels startup PetroAlgae\, where he and his team built the first-o
- f-a-kind intensive biomass production process to grow and convert aquatic 
- plants to purified proteins and energy feedstocks. For the biopharmaceutic
- al firm Alkermes\, he spearheaded development and commercialization of the
-  VIVITROL® and RISPERDAL®\n\nHe serves on the external advisory board fo
- r the Georgia Tech Energy Policy Innovation Center. Grieco has been a memb
- er of AIChE for 25 years\, and chaired the Nanoscale Science and Engineeri
- ng Forum in the mid-2000s.\n\nThe workshop will further explore how RBI is
-  changing the way companies look at their bottom line. Listen to RBI affil
- iated faculty present research in areas such as black liquor separation\, 
- multi-phase forming\, corrosion sciences and Factory 4.0\, as well as new 
- products for the future of packaging and barrier protection.\n\nAttendees 
- may also take advantage of one-on-one interactions with graduate students 
- as they share their research a poster session and luncheon at the Paper Tr
- icentennial Building\, home of RBI.\n\nWatch for more details in the comin
- g weeks at the workshop home page. [3]\n\nLinks:\n[0]  http://hg.gatech.ed
- u/node/615125#0\n[1]  http://www.aiche.org/rapid\n[2]  https://www.aiche.o
- rg/rapid/roadmaps/renewable-bioproducts\n[3]  http://www.rbi.gatech.edu/20
- 19-advancing-foundational-technologies-workshop
-LOCATION:Georgia Tech's Renewable Bioproducts Institute\, Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Central RA Office Hours - Coffee Break
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190228T140000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190228T153000Z
-UID:http://hg.gatech.edu/node/618009#0
-DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\nStatus: p
- ublished\n\nPlease join us for an opportunity to get to know representativ
- es from each area of our Central Research Administration teams and to ask 
- any burning questions you might have. You do not have to attend for the fu
- ll hour and a half\; simply drop by anytime to meet the team and enjoy ref
- reshments! We do ask that you register for the event to assist with refres
- hments planning. FACULTY / STAFF\n\nREGISTRATION: Attendees should registe
- r through the Research Education Learning Management Portal [1]. (IMPORTAN
- T: Be sure to click the blue "LOGIN" button to ensure that your class comp
- letion will be properly logged in your GT records). Log on to the learning
-  management portal\, then under "Search for Classes"\, click "Classes by T
- itle" or "Classes by Date". Click on the class name you wish to attend to 
- view its information. Then click on the date to register.\n\nFor more info
- rmation\, contact OSP Training at training@osp.gatech.edu [2]\n\nLinks:\n[
- 0]  http://hg.gatech.edu/node/618009#0\n[1]  https://training.osp.gatech.e
- du/\n[2]  training@osp.gatech.edu\n[3]  http://osp.gatech.edu\n[4]  https:
- //lists.gatech.edu/sympa/info/rab\n[5]  https://training.osp.gatech.edu
-LOCATION:Bill Moore Student Success Center - President's Suite
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chat Over Chicken
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190228T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190228T173000Z
-UID:http://hg.gatech.edu/node/615226#1
-DESCRIPTION:Intended audience: Faculty/Staff\, Postdoc\nStatus: published\
- n\nNetwork with GT women committed to supporting other women. Join with th
- e Women of Georgia Tech ERG (WoGT) to enjoy the conversation and the legen
- dary Ferst Place Fried Chicken! We provide the forum\, you drive the discu
- ssion. Register now for a seat at the reserved WoGT tables.\n\nDining Deta
- ils: Ferst Place is located across from the Student Center ballroom. Dinin
- g options include a buffet\, salad bar and a made-to-order station. Partic
- ipants are responsible for purchasing their own lunch at a cost of $11.66 
- including tax. Please note: Accepted payment methods include: BuzzCards\, 
- Dining Points\, debit/credit cards\, and faculty and staff meal plans. Fer
- st Place does not accept cash.\n\nRegister to attend by selecting the corr
- ect month's event below:\n\n- January 31\, 2019: [1]\n- February 28\, 2019
- : [2]\n- March 28\, 2019: [3]\n- April 25\, 2019: [4]\n- May 30\, 2019: [5
- ]\n\nLinks:\n[0]  http://hg.gatech.edu/node/615226#1\n[1]  https://sdie.ga
- tech.edu/chat-over-chicken-jan2019\n[2]  https://sdie.gatech.edu/chat-over
- -chicken-feb2019\n[3]  https://sdie.gatech.edu/chat-over-chicken-mar2019\n
- [4]  https://sdie.gatech.edu/chat-over-chicken-apr2019\n[5]  https://sdie.
- gatech.edu/chat-over-chicken-may2019
-LOCATION:Student Center\, Ferst Place Dining Hall
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Philanthrophy is Sweet!
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190228T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190228T180000Z
-UID:http://hg.gatech.edu/node/617590#1
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nThe Freshmen Leadership Initiativ
- e (FLI) is hosting a 3-day tabling event — "Philanthrophy is Sweet!"\n\n
- Each day\, different sweet treats will be served (Fruit Snacks\, Candy\, D
- onuts) in keeping up with the "Philanthrophy is Sweet" theme. FLI members 
- will talk with students about Gift to Tech voting and the impact of philan
- throphy and the Georgia Tech Student Foundation here on campus.\n\nSee the
-  list of Gift to Tech Finalists [1]\n\nLinks:\n[0]  http://hg.gatech.edu/n
- ode/617590#1\n[1]  http://www.gtsf.gatech.edu/s/1481/alumni/17/interior-wi
- de.aspx?sid=1481&gid=42&pgid=14196&cid=31962&ecid=31962&crid=0&calpgid=141
- 89&calcid=31960
-LOCATION:Tech Walkway
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UPS Day in the Lobby
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190228T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190228T210000Z
-UID:http://hg.gatech.edu/node/617876#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nDay in the Lobby\nBrin
- g your resume and come chat with recruiters from UPS in the College of Com
- puting commons anytime between 11am and 4pm.\n\nHiring for internships\, c
- o-ops and full-time positions!\n\nLinks:\n[0]  http://hg.gatech.edu/node/6
- 17876#0
-LOCATION:11am-4pm CCB commons
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GVU Center Brown Bag: Michaelanne Dye\, Caitlyn Seim\, and Stevie 
- Chancellor "Foley Scholars Research"
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190228T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190228T180000Z
-UID:http://hg.gatech.edu/node/618055#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nExtras: Free food\nStatus: published\n\nABSTRACT
- S\n\nMichaelanne Dye\, Towards Access and Beyond: Human Infrastructures in
-  Constrained Contexts\n\nMore than four billion people across the world ha
- ve yet to access the internet. Despite increasing initiatives by companies
-  and governments to bring more people online\, social\, economic\, and pol
- itical barriers continue to limit internet engagements among underrepresen
- ted groups. As a result\, people collaborate to overcome barriers to parti
- cipation\, particularly in politically and economically constrained contex
- ts. I address these concerns by focusing on the case of Cuba\, where up un
- til recently internet access was limited to just five percent of the popul
- ation. Presenting results from qualitative inquiry in Havana from 2014 to 
- 2017\, I describe how participants are receiving and engaging with the inc
- remental introduction of access to the world wide web. I also present insi
- ghts into how people have created their own versions of the internet in re
- sponse to barriers. I draw on the framework of human infrastructure to rev
- eal how people are sustaining multiple\, disconnected information networks
- \, and the tensions and opportunities that arise from these efforts. I wil
- l discuss how this work contributes to our understanding of the social ele
- ments embedded in internet adoption and participation\, and how this criti
- cal understanding has implications for the design of social media systems 
- in order to better support collaborative efforts of historically underrepr
- esented groups.\n\nCaitlyn Seim\, Wearable Tactile Stimulation for Stroke 
- Rehabilitation\n\nStroke is one of the leading causes of disability in the
-  United States and globally. Many stroke survivors lose function in their 
- upper extremities\, which can make it difficult to do everyday tasks like 
- dressing or eating. In addition to weakness and loss of sensation\, spasti
- city and tone can cause hands to be involuntarily clenched in a rigid posi
- tion — a problem for which there are few effective treatments. Getting r
- ehabilitation therapy can be a challenge and up to 50% of stroke survivors
-  do not qualify for traditional exercise-based therapies. This talk introd
- uces a novel stimulation method and mobile\, wearable devices to provide t
- herapy on-the-go and to those with very limited movement. Preliminary resu
- lts and next steps are presented. Our stimulation method may provide a pow
- erful tool to reduce disability after a stroke\, and the wearable form fac
- tor allows users to receive intensive therapy during their normal daily ro
- utine.\n\nStevie Chancellor\, Human-Centered Algorithms for Deviant Mental
-  Health Behaviors Online\n\nSocial media can provide a rich platform for t
- hose seeking better health and support through difficult experiences. Yet\
- , it can also provide space for deviant mental health behaviors\, very dan
- gerous and stigmatized behaviors related to mental health. These behaviors
-  are dangerous to participants as well as to platform health. However\, th
- e deep complexities of mental health and these clandestine behaviors resis
- t straightforward\, data-driven approaches to detection and intervention. 
- In this talk\, I will describe how human-centered algorithms can identify 
- and assess deviant mental health behaviors in pro-eating disorder communit
- ies\, bringing insights from Human Computer Interaction\, applied data sci
- ence\, and social computing. In addition\, I will show how these approache
- s can inform platform strategies for engaging with these communities. Fina
- lly\, I will briefly discuss how human-centered insights can be brought to
-  computational methods to answer our toughest questions about deviant beha
- vior online.\n\nSPEAKER BIOS\n\nMichaelanne Dye is a Ph.D. candidate in Hu
- man-Centered Computing in the School of Interactive Computing at the Georg
- ia Institute of Technology. Blending the fields of Social Computing and IC
- TD (Information and Communication Technologies and Development)\, her work
-  uses qualitative methods to study how people access and participate with 
- internet technologies in resource-constrained contexts with the goal of in
- forming the design of more equitable and inclusive technology. She receive
- d her Master’s in Sociocultural Anthropology from Georgia State Universi
- ty\, and draws heavily on this background to engage in technology research
- . Michaelanne is a Microsoft Research Ph.D. Fellow\, a three-time recipien
- t of the Herz Global Impact Award\, and an American Rewards for College Sc
- ientists (ARCS) Fellow. Her work has received Best Paper Honorable Mention
-  awards at the ACM CHI and CSCW conferences.\n\nCaitlyn Seim is a PhD cand
- idate in the School of Interactive Computing at the Georgia Institute of T
- echnology. Her concentration is Human-Centered Computing with focuses on A
- rtificial Intelligence and Neuroscience. She is an NSF Graduate Research F
- ellow and Microsoft Research PhD Fellow. Her research interests include we
- arable computing\, haptics\, HCI\, rehabilitation\, and accessibility. Mor
- e specifically\, her work examines human cognition and learning from hapti
- c interaction\, and creating new lightweight\, mobile devices for rehabili
- tation.\n\nStevie Chancellor is a PhD candidate in Human Centered Computin
- g in Interactive Computing. Her research interest lies in Social Computing
- \, Data Science\, and HCI to understand online communities and mental heal
- th. Stevie’s work has won multiple Best Paper Honorable Mention awards a
- t CHI and CSCW\, premier venues in human computer interaction. Her work ha
- s been supported by a Snap Inc. Research Fellowship and has appeared in na
- tional publications such as Wired and Gizmodo.\n\nHow to watch: If you can
- 't make the event in person you can Live Stream or watch the Recording (on
- e week after event).\n\nLinks:\n[0]  http://hg.gatech.edu/node/618055#0\n[
- 1]  http://www.tsrb.gatech.edu/
-LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
- a\, Ga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Keysight Information Session
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190228T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190301T010000Z
@@ -31220,14 +30839,16 @@ BEGIN:VEVENT
 SUMMARY:GTSWE x Air Liquide Professional Development Workshop
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200227T223000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200228T000000Z
-UID:https://gatech.campuslabs.com/engage/event/5638655
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nRepresentatives from Ai
- r Liquide are sharing their tips and tricks to networking effectively! Rec
- eive advice and make connections over dinner! The session is applicable to
-  all majors\; dress is casual.\n\nMore details at tinyurl.com/sweairliquid
- e [1]\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5638655\n
- [1]  https://gatech.campuslabs.com/engage/submitter/organization/society-o
- f-women-engineers/eventsubmission/tinyurl.com/sweairliquide
+UID:http://hg.gatech.edu/node/633069#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
+ aduate students\nExtras: Free Food\nStatus: published\n\nRepresentatives f
+ rom Air Liquide are sharing their tips and tricks to networking effectivel
+ y! Receive advice and make connections over dinner! The session is applica
+ ble to all majors\; dress is casual.\n\nMore details at tinyurl.com/sweair
+ liquide [2]\n\nLinks:\n[0]  http://hg.gatech.edu/node/633069#0\n[1]  https
+ ://gatech.campuslabs.com/engage/event/5638655\n[2]  https://gatech.campusl
+ abs.com/engage/submitter/organization/society-of-women-engineers/eventsubm
+ ission/tinyurl.com/sweairliquide\n[3]  http://tinyurl.com/sweairliquide
 LOCATION:Student Center Room 332
 END:VEVENT
 BEGIN:VEVENT
@@ -31653,6 +31274,61 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly
 LOCATION:Baptist Student Union
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PhD Defense by Steven Hickson
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200304T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200304T170000Z
+UID:http://hg.gatech.edu/node/633028#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nStatus: published\n\nTitle: Encoding 3D Contextu
+ al Information For Dynamic Scene Understanding\n\nSteven Hickson\n\nPh.D. 
+ Student in Computer Science\n\nSchool of Interactive Computing\n\nCollege 
+ of Computing\n\nGeorgia Institute of Technology\n\nDate: Wednesday March 4
+ th\, 2020\n\nTime: 10:00am - 12:00pm (EST)\n\nLocation: Coda C114 (1st flo
+ or room)\n\nBluejeans: [1]\n\nFood will be provided.\n\nCommittee:\n\n----
+ --------\n\nDr. Irfan Essa (Advisor)\, Senior Associate Dean\, School of I
+ nteractive Computing\, Georgia Institute of Technology\n\nDr. Frank Dellae
+ rt\, School of Interactive Computing\, Georgia Institute of Technology\n\n
+ Dr. Zsolt Kira\, School of Interactive Computing\, Georgia Institute of Te
+ chnology\n\nDr. Judy Hoffman\, School of Interactive Computing\, Georgia I
+ nstitute of Technology\n\nDr. Rahul Sukthankar\, Principal Scientist/Direc
+ tor at Google AI Perception / Robotics Institute\, Carnegie Mellon Univers
+ ity\n\nAbstract:\n\n-----------\n\nHumans have an inherent understanding o
+ f the shape of their environment and the objects contained in it. Given a 
+ description of a room\, a person can understand a reasonable approximation
+  of the space and the objects. However\, our current methods lack this typ
+ e of contextual understanding (i.e. a chair is shaped a particular way and
+  indicates you can sit on it). This work is motivated by the idea that the
+ re is an inherent relationship between 3D information such as shape and sc
+ ene understanding/object classification. Objects such as tables\, chairs\,
+  and cups have a specific shape and our models should leverage and learn t
+ hat information. Depth and surface normals have frequently been used as ad
+ ditional signals in semantic labeling work\; however\, there is still limi
+ ted understanding on using and learning shape and labels jointly. Our work
+  examines using 3D cues for unsupervised and supervised approaches for seg
+ mentation and semantic labeling. We show how to use 3D information for rob
+ ust unsupervised segmentation\, supervised semantic labeling using segment
+ ation\, and unsupervised object categorization. We explore this relationsh
+ ip further by showing how shape helps deep neural networks semantically la
+ bel indoor environments. We explore how joint estimation of shape and labe
+ ls improves both results when learned together and how they can both be do
+ ne with little added model capacity.\n\nThis defense aims to demonstrate h
+ ow 3D cues may be used to improve semantic labeling and object classificat
+ ion. Specifically\, we will consider depth\, surface normals\, object clas
+ sification\, and pixel-wise semantic labeling in this work. The works outl
+ ined aim to validate the following thesis statement: Shape is used as an a
+ dditional context that improves segmentation\, unsupervised clustering\, o
+ bject classification\, and semantic labeling with little computational ove
+ rhead.\n\nThe presented work will show:\n\nCombining shape and object labe
+ ls improves results (1) requires few extra parameters to do so\, (2) impro
+ ves with surface normals more than with depth\, and (3) improves accuracy 
+ for each task. We describe various methods to combine shape and object cla
+ ssification and then discuss our extensions of the proposed work which foc
+ us on surface normal prediction and semantic labeling specifically.\n\nLin
+ ks:\n[0]  http://hg.gatech.edu/node/633028#0\n[1]  https://bluejeans.com/7
+ 75408514
+LOCATION:Coda C114 (1st floor room)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mindfulness Book (Session 1)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200304T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200304T170000Z
@@ -31750,6 +31426,28 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  epartment at NSWC PCD.\n\nLinks:\n[0]  http://hg.gatech.edu/node/632525#0\
  n[1]  https://events.vtools.ieee.org/m/222947
 LOCATION:Skiles 006\, 686 Cherry St. NW Atlanta\, Georgia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Physician Assistant Club Pizza Networking Event
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200304T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200304T233000Z
+UID:http://hg.gatech.edu/node/633051#0
+DESCRIPTION:Intended audience: Undergraduate students\nStatus: published\n
+ \nThe Pizza Networking Event is coming up on Wednesday\, March 4th from 4 
+ - 6:30 p.m. in Bill Moore Press Room A. This is PAC's biggest event of the
+  year\, and it will be an amazing opportunity for all of you to network. W
+ e will have admissions directors from 4 PA schools (Emory\, Mercer\, Augus
+ ta\, and Salus)\, representatives from 2 volunteer organizations (Good Sam
+ aritan and Aurora Day Camp)\, current PA-Cs\, current PA students\, and Ka
+ plan Test Prep in attendance. We will also have free pizza at the event (v
+ egan options included). You may stop by at this event at any time between 
+ 4 and 6:30 p.m. If you are planning on coming\, please fill out this RSVP 
+ form [1]\, so we know how much food to buy. This will be an amazing time f
+ or you all to network with so many resources at once\, so please try your 
+ best to come!!!\n\nLinks:\n[0]  http://hg.gatech.edu/node/633051#0\n[1]  h
+ ttp://tinyurl.com/PACpizzaevent\n[2]  https://gatech.campuslabs.com/engage
+ /organization/physician-assistant-club-at-georgia-tech
+LOCATION:Bill Moore Student Success Center Press Room A
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Recycling & Waste
@@ -31859,17 +31557,25 @@ BEGIN:VEVENT
 SUMMARY:GTSWE x Bell Helicopter Info Session
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200305T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200306T010000Z
-UID:https://gatech.campuslabs.com/engage/event/5632851
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nHear from Bell Helicopt
- er representatives about the aerospace manufacturing industry! Connect and
-  network over a dinner representation\; dress is casual.\n\nThursday\, Mar
- ch 5th\, 2020\n6:00pm - 8:00pm\nStudent Center room 319\n\nIf you have que
- stions\, feel free to reach out to VP of Industry Relations\, Salmata Barr
- ie\, at sweindustryrelations@gmail [1]\n\nPlease help us get a headcount f
- or dinner by RSVPing at tinyurl.com/swexbell [2]\n\nLinks:\n[0]  https://g
- atech.campuslabs.com/engage/event/5632851\n[1]  sweindustryrelations@gmail
- .com\n[2]  https://gatech.campuslabs.com/engage/submitter/organization/soc
- iety-of-women-engineers/eventsubmission/tinyurl.com/swexbell
+UID:http://hg.gatech.edu/node/633055#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
+ aduate students\nExtras: Free Food\nStatus: published\n\nHear from Bell He
+ licopter representatives about the aerospace manufacturing industry! Conne
+ ct and network over a dinner representation\; dress is casual.\n\nThursday
+ \, March 5th\, 2020\n\n6:00pm - 8:00 p.m\n\nStudent Center room 319\n\nIf 
+ you have questions\, feel free to reach out to VP of Industry Relations\, 
+ Salmata Barrie\, at sweindustryrelations@gmail.com. Please help us get a h
+ eadcount for dinner by RSVPing at [2].\n\nHear from Bell Helicopter repres
+ entatives about the aerospace manufacturing industry! Connect and network 
+ over a dinner representation\; dress is casual.\n\nThursday\, March 5th\, 
+ 2020\n6:00pm - 8:00pm\nStudent Center room 319\n\nIf you have questions\, 
+ feel free to reach out to VP of Industry Relations\, Salmata Barrie\, at s
+ weindustryrelations@gmail [3]\n\nPlease help us get a headcount for dinner
+  by RSVPing at tinyurl.com/swexbell [4]\n\nLinks:\n[0]  http://hg.gatech.e
+ du/node/633055#0\n[1]  https://gatech.campuslabs.com/engage/event/5632851\
+ n[2]  http://tinyurl.com/swexbell\n[3]  sweindustryrelations@gmail.com\n[4
+ ]  https://gatech.campuslabs.com/engage/submitter/organization/society-of-
+ women-engineers/eventsubmission/tinyurl.com/swexbell
 LOCATION:Student Center Room 319
 END:VEVENT
 BEGIN:VEVENT
@@ -32074,6 +31780,22 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:GTMI 114
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SCPC presents Finance Workshop
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200309T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200309T203000Z
+UID:http://hg.gatech.edu/node/633039#0
+DESCRIPTION:Status: published\n\nThis will be a 90-minute interactive disc
+ ussion of financial considerations for students\, young professionals\, an
+ d soon-to-be new professionals.\n\nThe two 90-minute sessions are:\n\n- 1:
+ 00-2:30 pm\n- 3:00-4:30 pm\n\nLearn skills such as the right and wrong way
+  to use credit\, how to improve your credit\, long-term investment\, debt-
+ free living\, and so much more. This will be led by Ben Clark\, a certifie
+ d Financial Planner with many years of experience. There will be plenty of
+  time for Q&A\, so come prepared to get answers to YOUR questions. Snacks 
+ provided!\n\nLinks:\n[0]  http://hg.gatech.edu/node/633039#0
+LOCATION:Student Center Peachtree Room
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dinner with Dr. Michelle Rinehart
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200309T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200309T233000Z
@@ -32206,6 +31928,20 @@ DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\n
  atech.edu/node/632993#0\n[1]  https://www.vip.gatech.edu/teams\n[2]  http:
  //www.vip.gatech.edu
 LOCATION:Klaus Advanced Computing Building Atrium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VIP Poster Session - Spring 2020
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200310T193000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200310T213000Z
+UID:http://hg.gatech.edu/node/633126#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nThe VIP Spring Poster Session is open to ALL st
+ udents looking for research opportunities!\n\nPoster Sessions are a GREAT 
+ way to get involved in undergraduate research. Come check out our OVER 80 
+ interesting research projects that are looking for students like you! Lear
+ n more at [1]\n\nRefreshments will be provided.\n\nLinks:\n[0]  http://hg.
+ gatech.edu/node/633126#0\n[1]  https://www.vip.gatech.edu/teams
+LOCATION:Klaus Atrium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Society of Women Engineers General Body Meeting
@@ -33246,6 +32982,23 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  ion\n\nLinks:\n[0]  http://hg.gatech.edu/node/632560#0\n[1]  http://hg.gat
  ech.edu/node/632190#0
 LOCATION:Atlanta\, GA - Tech Square Research Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grad Student Spring Picnic
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200403T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200404T000000Z
+UID:http://hg.gatech.edu/node/633135#0
+DESCRIPTION:Intended audience: Graduate students\nExtras: Free food\, Free
+ bies\nStatus: published\n\nCome with your friends and family to enjoy the 
+ games\, music and food\, and learn a little more about Tech Traditions at 
+ the picnic!\n\nThis event is part of the Grad Student Appreciation Week ce
+ lebration. This celebration is sponsored by the Graduate Resource and Info
+ rmation Network (GRIN) and is aligned with the National Association of Gra
+ duate-Professional Students' Graduate-Professional Student Appreciation We
+ ek.\n\nFor the latest schedule of events for Grad Student Appreciation Wee
+ k\, click here. [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/633135#0\n[1
+ ]  http://grad.gatech.edu/gsaw
+LOCATION:Tech Green
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DramaTech presents A New Brain
