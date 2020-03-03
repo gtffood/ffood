@@ -2,218 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Keysight Information Session
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190228T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190301T010000Z
-UID:http://hg.gatech.edu/node/617497#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nMeet our Senior R&D Hi
- ring Manager\, Steve Chen and discuss full time and internship opportunuti
- es within Keysight. Learn about what they will be doing in the new CODA bu
- ilding!\n\nLinks:\n[0]  http://hg.gatech.edu/node/617497#0
-LOCATION:Howey L5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chick-Fil-A Breakfast Break
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190301T140000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190301T160000Z
-UID:http://hg.gatech.edu/node/618350#0
-DESCRIPTION:Intended audience: Graduate students\, Postdoc\, Undergraduate
-  students\nExtras: Free food\, Freebies\nStatus: published\n\nChick-Fil-A 
- wants to reward you after a long week with a free breakfast! Come by and g
- rab a chicken biscuit and coffee but don't forget to chat with them about 
- their internship and full time opportunuties. Ask them about their new inn
- ovation lab!\n\nLinks:\n[0]  http://hg.gatech.edu/node/618350#0
-LOCATION:CCB Commons
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Philanthrophy is Sweet!
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190301T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190301T180000Z
-UID:http://hg.gatech.edu/node/617590#2
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nThe Freshmen Leadership Initiativ
- e (FLI) is hosting a 3-day tabling event — "Philanthrophy is Sweet!"\n\n
- Each day\, different sweet treats will be served (Fruit Snacks\, Candy\, D
- onuts) in keeping up with the "Philanthrophy is Sweet" theme. FLI members 
- will talk with students about Gift to Tech voting and the impact of philan
- throphy and the Georgia Tech Student Foundation here on campus.\n\nSee the
-  list of Gift to Tech Finalists [1]\n\nLinks:\n[0]  http://hg.gatech.edu/n
- ode/617590#2\n[1]  http://www.gtsf.gatech.edu/s/1481/alumni/17/interior-wi
- de.aspx?sid=1481&gid=42&pgid=14196&cid=31962&ecid=31962&crid=0&calpgid=141
- 89&calcid=31960
-LOCATION:Tech Walkway
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:C.L. Chandler Weather Chat
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190301T161500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190301T170000Z
-UID:http://hg.gatech.edu/node/616574#6
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nStatus: published\n\nEAS will be hosting our wee
- kly C. L. Chandler Weather Chat series again this Spring 2019 semester. Th
- is event is dedicated to Chandler\, who was a meteorologist for Delta Airl
- ines during the mid- to late 20th century and helped to develop one of the
-  most successful meteorological organizations within the airline industry.
- \n\nEvery week from 11:15 a.m. - noon in L1116 of Ford ES&T\, we will have
-  informal discussions about the most exciting weather events impacting Atl
- anta\, the U.S. and beyond that day as well as investigating forecast data
-  to learn more about upcoming significant weather events. Topics range fro
- m discussing major winter storms to severe weather outbreaks\, tropical cy
- clones\, lake-effect storms\, and even small-scale events like dense fog a
- nd mountain weather events.\n\nAll are welcome to attend\, including non-E
- AS majors and the general public. Feel free to bring your lunch as well as
-  a friend or two!\n\nLinks:\n[0]  http://hg.gatech.edu/node/616574#6
-LOCATION:Room L1116\, Ford ES&T Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pizza\, Policy\, and International Affairs: Senator Sam Nunn
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190301T203000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190301T220000Z
-UID:http://hg.gatech.edu/node/617970#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nJoin the Sam Nunn School of International Affairs and the Atlanta Global
-  Studies Center (AGSC) as they host Senator Sam Nunn for an informal town 
- hall.\n\nMore about Senator Sam Nunn\n\nSam Nunn is co-chairman of the Nuc
- lear Threat Initiative (NTI)\, a nonprofit\, nonpartisan organization work
- ing to reduce the risk of use and prevent the spread of nuclear\, biologic
- al and chemical weapons. He served as a United States Senator from Georgia
-  for 24 years (1972-1996) and is retired from the law firm of King & Spald
- ing.\n\nRaised in the small town of Perry in middle Georgia\, he attended 
- Georgia Tech\, Emory University and Emory Law School\, where he graduated 
- with honors in 1962. After active duty service in the U.S. Coast Guard\, h
- e served six years in the U.S. Coast Guard Reserve. He first entered polit
- ics as a member of the Georgia House of Representatives in 1968.\n\nDuring
-  his tenure in the U.S. Senate\, Senator Nunn served as chairman of the Se
- nate Armed Services Committee and the Permanent Subcommittee on Investigat
- ions. He also served on the Intelligence and Small Business Committees. Hi
- s legislative achievements include the landmark Department of Defense Reor
- ganization Act\, drafted with the late Senator Barry Goldwater\, and the 
- “Nunn-Lugar” Cooperative Threat Reduction Program\, which provides ass
- istance to Russia and the former Soviet republics for securing and destroy
- ing their excess nuclear\, biological and chemical weapons.\n\nIn addition
-  to his work with NTI\, Senator Nunn has continued his service in the publ
- ic policy arena as a distinguished professor in the Sam Nunn School of Int
- ernational Affairs at Georgia Tech and as chairman of the board of the Cen
- ter for Strategic and International Studies in Washington\, D.C.\n\nHe is 
- a board member of The Coca-Cola Company\, General Electric Company\, and H
- ess Corporation.\n\nAbout Pizza\, Policy\, and International Affairs\n\nPi
- zza\, Policy\, and International Affairs\, are a series of town halls feat
- uring current and former executives in government\, higher education\, mil
- itary\, nonprofit and private sector. These town halls are an informal con
- versation on topics in global affairs\, global security\, the challenges f
- acing education\, media\, energy\, infrastructure\, and the future of civi
- l discourse.\n\nOngoing Dates for Pizza\, Policy\, and International Affai
- rs\n\n04/05: Admiral Sandy Winnefeld [1]\n\n04/19: Elizabeth Sherwood-Rand
- all [2]\n\nCo-sponsored by the Atlanta Global Studies Center (AGSC)\, a co
- nsortium of Georgia Institute of Technology and Georgia State University\,
-  funded in part by a US Department of Education Title VI National Resource
-  Center grant.\n\nThe event in the Hall Building [3] is free and open to t
- he public. Parking is available in visitor lot 1 [4].\n\nRSVP to Marilu Su
- arez for pizza [5]\n\nLinks:\n[0]  http://hg.gatech.edu/node/617970#0\n[1]
-   https://inta.gatech.edu/events/item/617971/pizza-policy-international-af
- fairs-admiral-winnefeld\n[2]  https://inta.gatech.edu/events/item/617972/p
- izza-policy-international-affairs-elizabeth-sherwood-randall\n[3]  https:/
- /map.concept3d.com/?id=82#!m/11005\n[4]  https://map.concept3d.com/?id=82#
- !m/14991\n[5]  marilu.suarez@inta.gatech.edu
-LOCATION:Hall Building 102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Women's Leadership Conference
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190302T133000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190302T210000Z
-UID:http://hg.gatech.edu/node/617915#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nThe Women’s Lea
- dership Conference offers women from all backgrounds the chance to come to
- gether and develop professionally and personally through workshops\, keyno
- te speakers\, and networking events. This year’s theme is “I Will” w
- hich encompasses the idea that once a woman decides to do something\, it w
- ill happen. She is confident and determined to succeed\, passionate to pur
- sue what she wishes\, and unafraid to be herself\, no matter where or who 
- she is. We hope this concept speaks to you\, and we hope that you will att
- end to learn more about what action you can take.\n\nJoin us on Saturday\,
-  March 2nd\, from 8:30am-4pm at the Historic Academy of Medicine for a day
-  of workshops and speakers to learn how you can\, and will\, be as strong 
- and successful as you can be. This year\, tickets are $10 for students and
-  $25 for non-students. Included in the registration fee are a phenomenal k
- eynote speaker\, three workshop sessions offering three choices of topics 
- each\, a networking fair\, as well as breakfast and lunch. If you are inte
- rested in buying a bundle of tickets for a discounted rate\, please let us
-  know!\n\nWe hope that you will attend to learn how to raise your voice to
-  transform your workplace\, community\, and the world. We look forward to 
- seeing you there!\n\nFacebook event page [1]\nPurchase tickets [2]\nSocial
-  Media: @gtwlc\nAdditionally\, each year at the Women's Leadership Confere
- nce\, Georgia Tech honors women of our community who demonstrate exemplary
-  leadership abilities. We’re looking for leaders who lead with passion a
- nd create innovative solutions\, while inspiring and uplifting the entire 
- GT community. The WLC seeks to honor women leaders who awaken a passion fo
- r success in those around them.\n\nThere are five categories for nominatio
- ns: undergraduate student\, graduate student/post-doc\, alumna\, staff\, a
- nd faculty. The link to the nomination form is: http://wlc.gatech.edu/awar
- d-nominations [3]. The nomination deadline has been extended until Tuesday
- \, February 19th. Choose the noteworthy women you’d like to celebrate!\n
- \nLinks:\n[0]  http://hg.gatech.edu/node/617915#0\n[1]  https://www.facebo
- ok.com/events/1223943747764526/\n[2]  https://epay.gatech.edu/C20793_ustor
- es/web/classic/store_cat.jsp?CATID=5&STOREID=8&fbclid=IwAR36FMY6FkVenIfFSk
- FlmiJ7HV7S5Bx4V6aShRK3QvZAisEI3___Sbtse8E\n[3]  https://l.facebook.com/l.p
- hp?u=http%3A%2F%2Fwlc.gatech.edu%2Faward-nominations%3Ffbclid%3DIwAR0Hlzjm
- -C9YmGjXwZwlqfeANhMjgS5rY7SLx-wl6jGelN5yW9g6d3a7AF0&h=AT2K2C1uWeqQLi5qQaIa
- -BLbbD55FNs3WjcrN2ZZcz-d06Lrac5TJ1tzbCTo9N2wmh1TKek3RgP5Y8APQgz9_BxBKDmmGl
- 85ltC4-9uVxk0Or4uHyHuCY5DLGFD8JCYPvoMlQRMquZMrtNE2WlKZO4xHA_7nUPOBmfLDdJO0
- CtdonapYUIMiH5gGdPhAchTiO56BS_rM2_subQ_v9R-5GYwrJhgaJD1mmhpF74BUy_BsK4hkp1
- VvJhcR4IPlXrUHV6Y0R167CMpF7fkhEsr-v9PxaOQAwFhapf8DpYupm5jgDbQQp1qcmY_1AEVu
- EMWoJNi9J8Dq1Jp7-IByYr_XtvcdYBzEXZZZX9BPDTcfk2krYLOW9iLOBfXBCEmzG1bqkocXkP
- RuE-GlwEkdUUP2K84CcipIRk3wywBICCQpQi-0EMWa-mfGJIo_D1RuNgC7gdbvLsySm2KqN7Hr
- D08K7eQ-bEEy5BrPdez6TMwTBYTLpGdlFQkSzydOLA5UfheKHW5Lzk_qe7a49I6QR-R_DP406Z
- e5c_yrjKhn3DjwsWyq-vXH39kakqDx0BUccYpNZL-UrN87GPVHQYSY-LcPYuvPB7VKvstlOfJz
- 15r9pgoTm5hPEfNXiWRDAxGIjkKhZ9MydAAYxOQUbi1LdksUf1AKjJwUS78kG-ozA_rY_N_CEh
- COUnrKXakQG_F6zo5b3Xpeu2Y\n[4]  http://wlc.gatech.edu/award-nominations
-LOCATION:Historic Academy of Medicine
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Women's Leadership Conference 2019
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190302T133000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190302T210000Z
-UID:http://hg.gatech.edu/node/616415#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nStatus: published\n\nWe would like to cordially 
- invite all Tech women to participate in the 2019 Women’s Leadership Conf
- erence\, which will be held on March 2nd\, 2019 from 8:30 am-4 pm at the H
- istoric Academy of Medicine in Midtown. We would be thrilled and extremely
-  honored to have you join us at this event!\n\nThe WLC offers women from a
- ll backgrounds the chance to come together and develop both professionally
-  and personally through workshops\, keynote speakers\, and networking even
- ts. This year’s theme is “I Will” which encompasses the idea that on
- ce a woman decides to do something\, it will happen. She is confident and 
- determined to succeed\, passionate to pursue what she wishes\, and unafrai
- d to be herself\, no matter where or who she is. We hope this concept spea
- ks to you\, and we hope that you will attend to learn more about what acti
- on they can take.\n\nThis year\, tickets go on sale at an early bird rate 
- on January 17th at $5 for students and $15 for non-students. On Friday\, J
- anuary 25th\, the price will increase to $10 for students and $25 for non-
- students. Included in the registration fee are a phenomenal keynote speake
- r\, three workshop sessions offering three choices of topics each\, a netw
- orking fair\, as well as breakfast and lunch.\n\nAdditional details can be
-  found on any of our social media pages (@gtwlc) or our Facebook event her
- e: [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/616415#0\n[1]  http://bit
- .ly/2G0uPij
-LOCATION:Historic Academy of Medicine
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Under the Couch - Mardi Gras Themed Showcase!
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190303T003000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190303T030000Z
-UID:http://hg.gatech.edu/node/618417#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\, Freebies\nStatus: published\n\nCome to Under the
-  Couch for a Mardi Gras themed showcase on Saturday!\n\nThere will be snac
- ks and Mardi Gras accessories! Bands will start playing at 7:30. We’d lo
- ve to have you there!\n\nLinks:\n[0]  http://hg.gatech.edu/node/618417#0
-LOCATION:Student Center - Under the Couch
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:State Farm Day on Campus
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190304T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190304T210000Z
@@ -31162,6 +30950,20 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Student Center Ballroom
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:General meeting with Walter P. Moore
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200303T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200303T170000Z
+UID:https://gatech.campuslabs.com/engage/event/5650295
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nAs enginee
+ rs\, scientists\, managers\, and technical specialists\, the people of Wal
+ ter P Moore have one vision\, and that’s to see the possibilities in our
+  clients’ objectives and make them happen\, whatever the challenge. And 
+ do this in a manner that’s rewarding to all. We’ve been helping client
+ s this way since 1931.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engag
+ e/event/5650295
+LOCATION:Mason Building - room 1133
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lunch & Learn Panel: CS Research for Social Good
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200303T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200303T170000Z
@@ -31252,6 +31054,26 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  sident@gmail.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/624549#18\n
  [1]  swepresident@gmail.com\n[2]  https://www.facebook.com/GeorgiaTechSWE/
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dinner meeting with Norfolk Southern
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200303T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200304T000000Z
+UID:https://gatech.campuslabs.com/engage/event/5650290
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nNorfolk So
+ uthern Corporation [1] (NYSE: NSC) is one of the nation’s premier transp
+ ortation companies. Its Norfolk Southern Railway Company subsidiary operat
+ es approximately 19\,500 route miles [2] in 22 states and the District of 
+ Columbia\, serves every major container port in the eastern United States\
+ , and provides efficient connections to other rail carriers. Norfolk South
+ ern is a major transporter of industrial products\, including chemicals\, 
+ agriculture\, and metals and construction materials. In addition\, the rai
+ lroad operates the most extensive intermodal network in the East and is a 
+ principal carrier of coal\, automobiles\, and automotive parts.\n\nLinks:\
+ n[0]  https://gatech.campuslabs.com/engage/event/5650290\n[1]  https://nor
+ folksoutherncorporation.gcs-web.com/\n[2]  http://www.nscorp.com/content/n
+ scorp/en/system-overview.html
+LOCATION:Mason Building - room 1133
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Velocity Worship Service
@@ -31498,6 +31320,41 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
   http://commencement.gatech.edu/commencement-fair\n[2]  http://www.commenc
  ement.gatech.edu/
 LOCATION:Georgia Tech Barnes and Noble at Tech Square
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GVU Center Brown Bag: Research and Engagement Grant Recipients
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200305T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200305T180000Z
+UID:http://hg.gatech.edu/node/633168#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nExtras: Free food\nStatus: published\n\nSpeakers
+ :\n\nBrooke Bosley [01]\, Takeria Blunt [02]\, and Jihan Sherman [03] are 
+ all second year PhD students in the Digital Media Program.\n\nPresentation
+  Title: From #hashtags to Movements: Performance\, Collective Narrative an
+ d Erasure\, a Black Feminist Perspective\n\nLelia Glass [04] is an Assisan
+ t Professor of Linguistics in the School of Modern Languages at Georgia In
+ stitute of Technology.\n\nPresentation Title: Workshop on Language\, Techn
+ ology\, and Society\n\nHaley Hart [05] is a master's candidate in the Scho
+ ol of City and Regional Planning.\n\nPresentation Title: Detecting and Mea
+ suring Food Insecurity at Georgia Tech\n\nLaura Levy [06] is a human facto
+ rs psychologist at the Institute for People and Technology at Georgia Tech
+  and Research Director of GEAR (Gaming & Esports Applied Research).\n\nPre
+ sentation Title: Getting Good: Using esports to inspire students in develo
+ ping STEM skills\n\nDr. Anne Sullivan [07] is an Assistant Professor of Di
+ gital Media in the School of Literature\, Media\, and Communication.\n\nPr
+ esentation Title: Artificial Intelligence and Interactive Digital Entertai
+ nment 2019 Conference\n\nMatthew Swarts [08] is a Senior Research Scientis
+ t at the Georgia Tech Research Institute.\n\nPresentation Title: Acoustic 
+ Sensor Deployment in the EcoCommons\n\nSchedule of Brown Bag Speakers Spri
+ ng 2020 [09]\n\nLinks:\n[00]  http://hg.gatech.edu/node/633168#0\n[01]  ht
+ tps://www.brookeportfolio.com/about\n[02]  https://www.linkedin.com/in/tak
+ eria-blunt/\n[03]  https://jihansherman.com/about/\n[04]  https://www.leli
+ aglass.com/\n[05]  https://www.linkedin.com/in/haley-hart-09975b84/\n[06] 
+  https://lauralevy.science/about\n[07]  http://www.asdesigned.com/creative
+ /\n[08]  https://www.linkedin.com/in/matthew-swarts-b517898/\n[09]  https:
+ //www.gvu.gatech.edu/events/upcoming\n[10]  http://www.tsrb.gatech.edu/
+LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
+ a\, Ga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tools to Facilitate Multiple Means of Assessment
@@ -31899,6 +31756,20 @@ DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nJoin us
 LOCATION:Student Center\, Ballroom
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:IISE Spring Picnic
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200310T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200310T180000Z
+UID:https://gatech.campuslabs.com/engage/event/5650457
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nIISE is hosting our Ann
+ ual Spring Picnic on Tech Green! Come out and have a great time with other
+  students and professors. We will have a Dunk Tank\, where you will have a
+ n opportunity to donate for charity to Dunk a professor. Also\, we will ha
+ ve free food\, field day type activities\, a Pet Area\, and a photo area. 
+ Come join IISE for a fun-filled afternoon!\n\nLinks:\n[0]  https://gatech.
+ campuslabs.com/engage/event/5650457
+LOCATION:Tech Green
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nano@Tech: Debra Rolison\, Naval Research Laboratory
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200310T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200310T170000Z
@@ -31944,6 +31815,23 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Klaus Atrium
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CREATE-X Deep Startups: Amazon Alexa
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200310T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200310T230000Z
+UID:http://hg.gatech.edu/node/633203#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nDeep Startups is an event series that features knowledgeable entrepreneu
+ rs who discuss their experiences forming companies that solve big-picture 
+ current problems. These individuals speak to the concept of ‘deep startu
+ ps’ and how to create companies that make a difference. Each Deep Startu
+ ps event focuses on a different broad topic in engineering/technology\, an
+ d allows for student Q&A at the end of the event.\n\nLinks:\n[0]  http://h
+ g.gatech.edu/node/633203#0\n[1]  https://gatech.campuslabs.com/engage/even
+ t/5650625
+LOCATION:Klaus Advanced Computing Building Room 2448
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Society of Women Engineers General Body Meeting
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200310T211500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200310T230000Z
@@ -31959,6 +31847,23 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  sident@gmail.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/624549#19\n
  [1]  swepresident@gmail.com\n[2]  https://www.facebook.com/GeorgiaTechSWE/
 LOCATION:Room 117\, Smithgall Student Services (Flag) Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CREATE-X Deep Startups: Amazon Alexa
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200310T213000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200310T230000Z
+UID:https://gatech.campuslabs.com/engage/event/5650625
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDeep Startups is an Ide
+ a Series that features knowledgeable entrepreneurs who discuss their exper
+ iences forming companies that solve big-picture current problems. These in
+ dividuals speak to the concept of ‘deep startups’ and how to create co
+ mpanies that make a difference. Each Deep Startups event focuses on a diff
+ erent broad topic in engineering/technology\, and allows for student Q&A a
+ t the end of the event.\n\n*For those interested in attending without a Ge
+ orgia Tech ID\, please RSVP here. [1]\n\nLinks:\n[0]  https://gatech.campu
+ slabs.com/engage/event/5650625\n[1]  https://gatech.co1.qualtrics.com/jfe/
+ form/SV_8eknLy5QpJnYrlP
+LOCATION:Klaus Advanced Computing Building Room 2448
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Career Services Workshop: Salary Negotiation
@@ -32495,6 +32400,22 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin Dr. David Torello
   and components.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/even
  t/5479344
 LOCATION:Top Time Coffee\, MRDC\, Georgia Tech Campus
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GT Dining & Housing Sustainability
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200325T171500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200325T180500Z
+UID:https://gatech.campuslabs.com/engage/event/5650421
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nHow is Georgia Tech Din
+ ing working to reduce food waste and the amount of unnecessary trash sent 
+ to the landfill? How about GT Housing’s current and future sustainabilit
+ y initiatives? Join us on March 25th to discuss these topics with GT Dinin
+ g Sustainability Coordinator Jordan Barron\, and GT Housing Sustainability
+  Intern\, Heeva Taghian.\n*What is composting?\n*How does Georgia Tech com
+ post?\n*How can I properly compost?\n*How can we improve housing sustainab
+ ility?\n\n*FREE FOOD WILL BE PROVIDED*\n\nLinks:\n[0]  https://gatech.camp
+ uslabs.com/engage/event/5650421
+LOCATION:Kendeda Room 210
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mindfulness Book (Session 2)
@@ -33120,6 +33041,37 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  gineering\n\nLinks:\n[0]  http://hg.gatech.edu/node/632045#0\n[1]  http://
  hg.gatech.edu/node/632043#0
 LOCATION:GTMI 114
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dinner with Dr. Munia Bhaumik\, Emory University
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200406T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200406T233000Z
+UID:http://hg.gatech.edu/node/633206#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nDr. Munia Bhaumik discusses her c
+ areer and offers career advice over dinner.\n\nMunia Bhaumik is Assistant 
+ Professor in the Dept. of Comparative Literature at Emory University. She 
+ has been a Fellow of the Cornell Society for the Humanities and Melville S
+ ociety. Her work has also appeared or is forthcoming in Yearbook of Compar
+ ative Literature\; Dialogos: A Journal of Latino Studies\; Mapocho: Revist
+ a de Humanidades\; UCLA Thinking Gender Papers\, Leviathan: A Journal of M
+ elville Studies and in the anthology Islam and Postcolonial Discourse: Pur
+ ity and Hybridity.\n\nShe is the author of the monograph In Liberty’s Sh
+ adow: The Noncitizen in American Letters and Law.\n\nIn addition\, she is 
+ currently working on two book projects:\n\n1) The Poetry of Politics which
+  engages how the "politics of extinction" impacts early and nineteenth-cen
+ tury American political philosophy\; law\; and poetry. The manuscript in p
+ rogress draws from eco-criticism\, indigenous studies\; translation studie
+ s. and critical theory.\n\n2) The Art of Peace seeks to examine literary\,
+  philosophical\, and legislative discourses about reconciliation amidst co
+ nditions of “perpetual war.”\n\nHer research and teaching interests al
+ so include theories of democracy\, citizenship\, migration\, race\, and ri
+ ghts\; literature and law\; continental and political philosophy\; early a
+ nd nineteenth-century American literature\, drawing from a range of schola
+ rship in feminist theory\, Native American\, African-American\, Latino\, a
+ nd hemispheric American studies\; critical race theory\; translation\; and
+  poetry.\n\nLinks:\n[0]  http://hg.gatech.edu/node/633206#0
+LOCATION:Stein House/4th St. A\, 753 Techwood\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Society of Women Engineers General Body Meeting
@@ -33833,6 +33785,37 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  ood4lives.org/donate.html\n[3]  https://www.facebook.com/events/1177905865
  930288/
 LOCATION:Food4Lives\, 1122 Old Chattahoochee Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CREATE-X Demo Day 2020
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200820T200000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200821T010000Z
+UID:http://hg.gatech.edu/node/633214#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free Food\nStatus: published\n
+ \nAfter weeks of interviewing hundreds of potential customers\, long night
+ s of debates\, pivots and gallons of coffee– it all comes down to Demo D
+ ay. Join us at the fabulous Fox Theatre to watch the culmination of 12 wee
+ ks of hard work from more than 40 student founded startups.\n\n- 4:00 p.m.
+ : Doors open. Make sure to grab some food and get your seat early.\n- 5:00
+  – 7:00 p.m.: Listen to how each startup will change their industry duri
+ ng one-minute pitches.\n- 7:00 – 9:00 p.m.: Visit their booths in the ex
+ po-style event. This is your chance to be their first customer\, sign up t
+ o be a beta tester\, or just learn more about their products and services.
+ \n\nThere will be startups from all industries\, ranging from fashion to B
+ 2B to agriculture. Do not miss your opportunity to be the first to hear ab
+ out 40+ industry breaking startups.\n\nAbout Startup Launch: Startup Launc
+ h is a Georgia Tech CREATE-X summer accelerator program offered to Georgia
+  Tech students and alumni. For more information visit the CREATE-X website
+ . [2]\n\nAbout the Fox Theatre: The historic Fox Theatre is one of Atlanta
+ ’s premiere venues for live entertainment. Parking is available at the f
+ ollowing lot locations. Fees vary per parking lot.\n\n*For those intereste
+ d in attending without a Georgia Tech ID\, please RSVP here. [3]\n\nLinks:
+ \n[0]  http://hg.gatech.edu/node/633214#0\n[1]  https://gatech.campuslabs.
+ com/engage/event/5651101\n[2]  http://create-x.gatech.edu/startup-launch\n
+ [3]  https://www.eventbrite.com/e/create-x-demo-day-2020-tickets-977898691
+ 31
+LOCATION:Fox Theater
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Petit Institute Distinguished Lecture
