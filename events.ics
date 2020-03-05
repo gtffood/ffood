@@ -2,83 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:State Farm Day on Campus
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190304T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190304T210000Z
-UID:http://hg.gatech.edu/node/618509#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nDay in the Lobby\nBrin
- g your resume and come chat with recruiters from State Farm in the College
-  of Computing commons anytime between 11am and 4pm.\n\nCan’t make it in 
- the morning?\n\nTech Talk - Leading with Data: Using data to drive product
-  backlogs\nJoin them in CCB 16\, from 6:30pm – 8pm! Free food will be pr
- ovided if you come early!\n\nLinks:\n[0]  http://hg.gatech.edu/node/618509
- #0
-LOCATION:11-4pm CCB commons & 6:30-8pm CCB 16
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RESCHEDULED (3/12) - Samsung Day on Campus
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190304T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190305T010000Z
-UID:http://hg.gatech.edu/node/615900#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nDay in the Lobby\nBrin
- g your resume and come chat with recruiters from ConocoPhillips in the Col
- lege of Computing commons anytime between 11am and 4pm.\n\nCan't make it i
- n the morning or really want to be considered for their team?\n\nTech Talk
- \nJoin them in Klaus 1116 E&W\, from 6:30pm – 8pm!\n\nFree food will be 
- provided if you come early!\n\nLinks:\n[0]  http://hg.gatech.edu/node/6159
- 00#0
-LOCATION:11-4pm CCB commons & 6:30pm – 8pm Klaus 1116 E&W.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Queer Coffeehouse: Asexual and Aromantic Students
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190305T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190305T170000Z
-UID:http://hg.gatech.edu/node/615261#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nThis Queer Coffeehouse is for stu
- dents who are asexual or aromantic. Please RSVP so we know how much food t
- o order. We ask that you do not RSVP unless you plan to attend so that we 
- don't create waste.\n\nLinks:\n[0]  http://hg.gatech.edu/node/615261#0\n[1
- ]  http://lgbtqia.gatech.edu
-LOCATION:LGBTQIA Resource Center\, Smithgall Student Services Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ICLAST Social Justice in the Digital Age\, DILAC Project Coordinat
- ed by Michael Hoffmann
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190305T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190305T173000Z
-UID:http://hg.gatech.edu/node/616270#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nThe Georgia Tech Ivan Allen College of Liberal Arts would like to invite
-  you to a Innovation and Collaboration in Liberal Arts\, Science\, and Tec
- hnology (ICLAST) Social Justice in the Digital Age event\, a panel discuss
- ion of the Digital Integrative Liberal Arts Center (DILAC) project coordin
- ated by Michael Hoffmann on Tuesday\, March 5\, 2019\, from 11:00 a.m. - 1
- 2:30 p.m. in Stephen C. Hall Building\, Room 102.\n\nAll graduate students
- \, post docs\, and faculty are welcome. Lunches will be provided for those
-  who RSVP.\n\nCoordinator and Panelist: Michael Hoffmann\, The Georgia Tec
- h School of Public Policy\n\nOther Panelists: Michael Best\, Nunn School o
- f International Affairs\; Robert Rosenberger\, Public Policy\; Ruthie Yow\
- , Center for Serve Learn Sustain\; Carol Colatrella\, Literature\, Media\,
-  and Communication\n\nPlease register here. [1] RSVP is required for lunch
- .\n\nThe ICLAST interdisciplinary research discussion series is designed t
- o encourage research collaborations and to disseminate research to faculty
- \, post-doctoral fellows\, and masters and undergraduate students across t
- he College and campus. Panelists from different Georgia Tech units and Atl
- anta universities present their research on a common topic linking the lib
- eral arts\, sciences\, and technology.\n\nICLAST events are supported by a
-  grant from GT-FIRE.\n\nDILAC is supported by an Ivan Allen College Mellon
-  grant.\n\nLinks:\n[0]  http://hg.gatech.edu/node/616270#0\n[1]  https://d
- ocs.google.com/forms/d/e/1FAIpQLSfWSzO19f3DoSurJJG9V8gMHQ1HTUe1rji_D5oNBdT
- 791CcuA/viewform\n[2]  https://dilac.iac.gatech.edu/overview\n[3]  https:/
- /www.iac.gatech.edu/
-LOCATION:Room 102\, Stephen C. Hall Building\, 215 Bobby Dodd Way\, Atlant
- a\, Georgia.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ConocoPhillips Day on Campus
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190305T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190306T010000Z
@@ -101,23 +24,6 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  node/616235#0\n[1]  http://careers.conocophillips.com/university-recruitme
  nt/united-states-university-recruitment-2/
 LOCATION:11-4pm CCB commons & 6:30pm – 8pm Klaus 1116 E&W.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CREATE-X Meet Your Co-Founder
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190305T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190306T000000Z
-UID:http://hg.gatech.edu/node/618364#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nHave a startup idea but no teammates to build it with? Do you have skill
- s you want to apply to a startup but don't have an idea? Come meet the co-
- founders you need to apply to Startup Launch. Students from different univ
- ersities across Georgia are invited to this CREATE-X speed networking even
- t.\n\nRegister by March 3 at 11:59 p.m. EST to guarantee your spot. Coffee
- \, tea\, and desserts will be served.\n\nLinks:\n[0]  http://hg.gatech.edu
- /node/618364#0\n[1]  https://gatech.co1.qualtrics.com/jfe/form/SV_5zOXFsjM
- bXy0dJH
-LOCATION:Klaus Advanced Computing Building Room 2448
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WST Learning Community Favorite Book Discussion 3/5/19
@@ -31288,6 +31194,18 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Room 210\, The Kendeda Building for Innovative Sustainable Design
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Talk with Dr. Hasler
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200305T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200305T164500Z
+UID:https://gatech.campuslabs.com/engage/event/5657034
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome and join us for yu
+ mmy food from Chick-Fil-A! This week we will be having a very special talk
+  with Dr. Hasler who is joining us to share about her experience as a tran
+ sgender woman in engineering!\n\nLinks:\n[0]  https://gatech.campuslabs.co
+ m/engage/event/5657034
+LOCATION:Van Leer C340
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:IEEE Power and Energy Society (PES) Kickoff Event
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200305T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200305T170000Z
@@ -31409,6 +31327,23 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nSGA's Outreach and Coll
  n campus to discuss their involvement with SGA.\n\nLinks:\n[0]  https://ga
  tech.campuslabs.com/engage/event/5621262
 LOCATION:Bill Moore Student Success Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Georgia Tech Resources - What do we offer? How can we improve?
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200305T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200306T000000Z
+UID:https://gatech.campuslabs.com/engage/event/5658520
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDo you want to know abo
+ ut LGBTQIA+ resources that Georgia Tech offers? What resources do you thin
+ k Georgia Tech should have to better serve you and the LGBTQIA+ community?
+  Come on over to our general meeting this Thursday at 6pm in Mason 3132 wh
+ ere we will have an open discussion about the available resources!\n\n---\
+ n\nY'all means all: This is an event for all LGBTQIA+ folx and their allie
+ s. Please email pride@gatech.eduis we can provide any accommodations to ma
+ ke this event more accessible or if you have any questions.\n\n[Image Text
+ ] Georgia Tech resources general meeting. March 5\, 2020. 6 to 7pm. Mason 
+ 3132.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5658520
+LOCATION:Mason 3132
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GTSWE x Bell Helicopter Info Session
@@ -31770,6 +31705,27 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nIISE is hosting our Ann
 LOCATION:Tech Green
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Building the Future: Fireside Chat with Dean Charles Isbell
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200310T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200310T160000Z
+UID:http://hg.gatech.edu/node/633267#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nStatus: published\n\nThis event is hosted by the
+  College of Computing Student Council\, features Charles Isbell (Dean of C
+ omputing/The John P. Imlay Jr. Chair)\, and is open for attendance by Geor
+ gia Tech students.\n\nDean Isbell will share his vision for shaping the fu
+ ture of the college he is leading\, insights he has gained from connecting
+  with alumni around the country\, and thoughts on the student community. T
+ he event has an open Q&A from the audience as well.\n\nLunch will be provi
+ ded. RSVPs at: [2].\n\nThe College of Computing Student Council is a stude
+ nt-led organization that works closely with the administration of Computin
+ g and students to establish a direct communication channel between them\, 
+ enabling students to help shape the future of the college.\n\nLinks:\n[0] 
+  http://hg.gatech.edu/node/633267#0\n[1]  http://hg.gatech.edu/node/633265
+ #0\n[2]  https://forms.gle/9psszSSdmbcKE1hi7
+LOCATION:Room 1447\, Klaus Advanced Computing Building
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nano@Tech: Debra Rolison\, Naval Research Laboratory
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200310T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200310T170000Z
@@ -31900,6 +31856,34 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly
  worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
  h.campuslabs.com/engage/event/5441742
 LOCATION:Baptist Student Union
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Crack\, buzz\, and plop: the coupled mechanics of jetting citrus\
+ , flying insects\, and splashing projectiles”
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200311T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200311T170000Z
+UID:http://hg.gatech.edu/node/633240#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \nStatus: published\n\nSchool of Physics\, Nonlinear Science & Mathematics
+  Seminar\, Dr. Andrew Dickerson\, University of Central Florida\nNatural s
+ ystems often inspire new methods by which to control fluids\, or conversel
+ y use fluids to control systems. Three fluid mechanic systems that might c
+ ome to mind include: the jetting of microdroplets when peeling an orange\,
+  the droplet ejection off of a mosquito wing\, and the splash suppression 
+ provided by floating toilet paper during defecation. These phenomena at th
+ e interface of biology and fluid mechanics can provide engineers with usef
+ ul\, inspired information for future designs. Here we study the explosive 
+ dispersal of oil emitted from ‘cracked’ glands in the peels of citrus 
+ fruit. The jetting oil undergoes an extreme acceleration to reach velociti
+ es in excess of 10 m/s. On a slightly larger scale\, the method mosquitoes
+  use to ‘buzz’ their wings free of deposited water drops prompts a loo
+ k into how flexible surfaces may be vibrated to self-dry. We find drop eje
+ ction is dependent on drop and wing properties\, and wing motion in this h
+ ighly-coupled system. On yet a larger scale\, the dynamics of the entry of
+  solids into liquid baths\, such as the ‘plop’ of restroom use\, is he
+ avily influenced by free surface conditions\n\nLinks:\n[0]  http://hg.gate
+ ch.edu/node/633240#0
+LOCATION:Howey - N110
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SCL IRC Seminar: Unstructured Manufacturing
