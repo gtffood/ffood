@@ -2,453 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:ConocoPhillips Day on Campus
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190305T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190306T010000Z
-UID:http://hg.gatech.edu/node/616235#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nDay in the Lobby\nBrin
- g your resume and come chat with recruiters from ConocoPhillips in the Col
- lege of Computing commons anytime between 11am and 4pm.\n\nCan't make it i
- n the morning or really want to be considered for their team?\n\nTech Talk
- : Large Scale Networking Infrastructure @ ConocoPhillips\nJoin them in Kla
- us 1116 E&W\, from 6:30pm – 8pm to learn about their innovative technolo
- gy!\n\nFree food will be provided if you come early!\n\nUniversity Recruit
- ment\nConocoPhillips has always embraced university recruitment as a key h
- iring strategy. Bringing new people with fresh ideas into our inspiring\, 
- entrepreneurial culture is vital to our future as an industry leader. When
-  you meet our University Recruiting Team\, ask them why they love their wo
- rk. Chances are that they’ll tell you it’s because they recruit for on
- e of the world’s most forward-thinking companies\, and get to meet today
- ’s best and brightest young minds.\n\nLinks:\n[0]  http://hg.gatech.edu/
- node/616235#0\n[1]  http://careers.conocophillips.com/university-recruitme
- nt/united-states-university-recruitment-2/
-LOCATION:11-4pm CCB commons & 6:30pm – 8pm Klaus 1116 E&W.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WST Learning Community Favorite Book Discussion 3/5/19
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190305T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190306T003000Z
-UID:http://hg.gatech.edu/node/614433#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: published\n\nTierra Clemmons\, Hall Direc
- tor for the Women\, Science\, and Technology Learning Community\, will con
- duct a book discussion over dinner. Books will be provided for WST Learnin
- g Community residents.\n\nLinks:\n[0]  http://hg.gatech.edu/node/614433#0
-LOCATION:Stein House/4th St. A\, Georgia Tech\, Techwood\, Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GT Night In
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190305T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190306T020000Z
-UID:http://hg.gatech.edu/node/618442#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\, Freebies\nStatus: published\n\nCome spend a nigh
- t in Vegas filled with your favorite classic games\, food\, and prizes all
-  for FREE! Come dressed in your glitziest clothes (or not) and be ready to
-  have fun! RSVP to start with more poker chips\; walk-ins are welcome! Don
- ’t forget to bring your lucky charms.\n\nLinks:\n[0]  http://hg.gatech.e
- du/node/618442#0
-LOCATION:Student Center Ballroom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Celebrating Silicon: Its Success\, Hidden History\, and Next Act
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190305T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190306T003000Z
-UID:http://hg.gatech.edu/node/616904#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nA Frontiers in Science Lecture to celebrate 2019\, the International Yea
- r of the Periodic Table\nThe history of silicon is usually told as a histo
- ry of electronic materials and devices. However\, it is better told as a h
- istory of manufacturing innovation. This talk will take a journey through 
- the manufacturing innovations that transformed silicon from its humble beg
- innings as the most abundant metal in Earth’s crust to the enabler of th
- e computer chips that underpin the modern economy.\n\nThe journey begins w
- ith the extraction of silicon from sand and its processing into the most c
- ompositionally pure and structurally perfect human-made material. It conti
- nues through the mid-20th century breakthroughs that allowed fabrication a
- nd interconnection of high-quality electronic devices to form integrated c
- ircuits.\n\nIt is from this perspective that we can most easily appreciate
-  silicon’s impact on modern society and why it is finding increasing uti
- lity in technology areas as diverse as renewable energy\, environmental se
- nsing\, and augmented reality. It is also from this perspective that we ca
- n understand silicon’s limitations and begin to see what innovations mig
- ht be necessary to enable silicon’s next act.\n\nAbout the Speaker\nMich
- ael A. Filler [2] is an associate professor and the Traylor Faculty Fellow
-  in the School of Chemical and Biomolecular Engineering at Georgia Tech. H
- is research program lies at the intersection of chemical engineering and m
- aterials science\, focusing on the synthesis\, understanding\, and deploym
- ent of nanoscale materials for applications in electronics\, photonics\, a
- nd energy conversion.\n\nHe is co-director of the Community for Research o
- n Active Surfaces and Interfaces (CRĀSI) [3] and the host of Nanovation [
- 4]\, a bimonthly podcast about the intersection of nanoscience\, technolog
- y\, manufacturing\, and society.\n\nFiller has received numerous awards fo
- r his research and teaching\, including the National Science Foundation CA
- REER Award\, Georgia Tech Sigma Xi Young Faculty Award\, and the CETL/BP J
- unior Faculty Teaching Excellence Award. He also has been recognized as a 
- Camille and Henry Dreyfus Foundation Environmental Chemistry Mentor.\n\nAb
- out Frontiers in Science Lectures\nLectures in this series are intended to
-  inform\, engage\, and inspire students\, faculty\, staff\, and the public
-  on developments\, breakthroughs\, and topics of general interest in the s
- ciences and mathematics. Lecturers tailor their talks for nonexpert audien
- ces.\n\nAbout the Periodic Table Frontiers in Science Lecture Series\nThro
- ughout 2019\, the College of Sciences will bring prominent researchers fro
- m Georgia Tech and beyond to expound on little-discussed aspects of chemic
- al elements:\n\n- Feb. 6\, James Sowell\, How the Universe Made the Elemen
- ts in the Periodic Table\n- March 5\, Michael Filler\, Celebrating Silicon
- : Its Success\, Hidden History\, and Next Act\n\n- April 2\, John Baez\, U
- niversity of California\, Riverside\, Mathematical Mysteries of the Period
- ic Table\n- April 18\, Sam Kean\, Author\, The Periodic Table: A Treasure 
- Trove of Passion\, Adventure\, Betrayal\, and Obsession\n- Sept. 12\, Moni
- ca Halka\, The Elusive End of the Periodic Table: Why Chase It?\n- October
- \, Taka Ito\, Turning Sour\, Bloated\, and Out of Breath: Ocean Chemistry 
- under Global Warming (This will take place on the Thursday of Homecoming W
- eek 2019)\n- Nov. 12\, Margaret Kosal\, The Geopolitics of Rare and Not-So
- -Rare Elements\n\nClosest public parking for the March 5 lecture is Visito
- rs Area 4\, Ferst Street and Atlantic Drive\, [5]\nRefreshments served aft
- er every lecture\n\nA Frontiers in Science Lecture to celebrate 2019\, the
-  International Year of the Periodic Table\nThe history of silicon is usual
- ly told as a history of electronic materials and devices. However\, it is 
- better told as a history of manufacturing innovation. This talk will take 
- a journey through the manufacturing innovations that transformed silicon f
- rom its humble beginnings as the most abundant metal in Earth's crust to t
- he enabler of the computer chips that underpin the modern economy.\n\nIt i
- s from this perspective that we can most easily appreciate silicon's impac
- t on modern society and why it is finding increasing utility in technology
-  areas as diverse as renewable energy\, environmental sensing\, and augmen
- ted reality. It is also from this perspective that we can understand silic
- on's limitations and begin to see what innovations might be necessary to e
- nable silicon's next act.\n\nAbout the Speaker\n\nMichael A. Filler is an 
- associate professor and the Traylor Faculty Fellow in the School of Chemic
- al and Biomolecular Engineering at Georgia Tech. His research program lies
-  at the intersection of chemical engineering and materials science\, focus
- ing on the synthesis\, understanding\, and deployment of nanoscale materia
- ls for applications in electronics\, photonics\, and energy conversion.\n\
- nHe is co-director of the Community for Research on Active Surfaces and In
- terfaces (CRASI) and the host of Nanovation\, a bimonthly podcast about th
- e intersection of nanoscience\, technology\, manufacturing\, and society.\
- n\nAbout Frontiers in Science Lectures\nLectures in this series are intend
- ed to inform\, engage\, and inspire students\, faculty\, staff\, and the p
- ublic on developments\, breakthroughs\, and topics of general interest in 
- the sciences and mathematics. Lecturers tailor their talks for nonexpert a
- udiences.\n\nAbout the Periodic Table Frontiers in Science Lecture Series\
- nThroughout 2019\, the College of Sciences will bring prominent researcher
- s from Georgia Tech and beyond to expound on little-discussed aspects of c
- hemical elements:\n\n- Feb. 6\, James Sowell\, How the Universe Made the E
- lements in the Periodic Table\n- March 5\, Michael Filler\, Celebrating Si
- licon: Its Success\, Hidden History\, and Next Act\n- April 2\, John Baez\
- , University of California\, Riverside\, Mathematical Mysteries of the Per
- iodic Table\n- April 18\, Sam Kean\, Author\, The Periodic Table: A Treasu
- re Trove of Passion\, Adventure\, Betrayal\, and Obsession\n- Sept. 12\, M
- onica Halka\, The Elusive End of the Periodic Table: Why Chase It?\n- Octo
- ber\, Taka Ito\, Turning Sour\, Bloated\, and Out of Breath: Ocean Chemist
- ry under Global Warming (This will take place on the Thursday of Homecomin
- g Week 2019)\n- Nov. 12\, Margaret Kosal\, The Geopolitics of Rare and Not
- -So-Rare Elements\n\nRefreshments served after every lecture\n\nLinks:\n[0
- ]  http://hg.gatech.edu/node/616904#0\n[1]  http://hg.gatech.edu/node/6162
- 12#0\n[2]  http://www.chbe.gatech.edu/people/michael-filler\n[3]  http://c
- rasi.gatech.edu/\n[4]  http://www.fillerlab.com/nanovation/\n[5]  http://p
- ts.gatech.edu/visitors#l3\n[6]  https://cos.gatech.edu/hg/item/592259\n[7]
-   https://periodictable.gatech.edu/
-LOCATION:Rooms 1116-1118\, Marcus Nanotechnology Building\, 345 Ferst Dr N
- W\, Atlanta\, GA 30318
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Home Depot Day in the Lobby
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190306T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190306T200000Z
-UID:http://hg.gatech.edu/node/616552#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nWe are recruiting for 
- our Summer 2019 Product Management Internship!\nTHD’s intern program was
-  recently named in the top 50 in the US!\n\nDay in the Lobby\nBring your r
- esume and come chat with recruiters from The Home Depot in the College of 
- Computing commons anytime between 11am and 3pm.\n\nThe Product Manager Int
- ern\nThe Product Manager Intern works hand in hand\, often pairing\, with 
- the other members of a product team (PM\, UX\, Engineering) to find the fa
- stest way to achieve value around business needs. The role focuses on asse
- ssing customer needs and performing qualitative and quantitative research 
- to discover feature ideas and validate them for a designated product. The 
- Product Manager Intern should aim to deliver business value to drive sales
- \, improve efficiency\, and improve customer satisfaction through the crea
- tion of quality products. The Product Manager Intern will work closely wit
- h more experienced Product Managers to gain proficiency in value creation\
- , prioritization\, defining MVP\, user story construction\, and overall pr
- oduct management.\n\nResponsibilities:\n\n- Track product features through
-  their entire creative cycle: ideation\, development\, release\, analysis\
- , and iteration\n- Identify goals\, metrics\, and analytics to determine p
- roduct value\n- Partner with UX designers to ensure a delightful user expe
- rience in the product\n- Collaborate with engineers to help guide feature 
- development\n- Communicate direction and product priorities\n- Utilize use
- r insights\, data\, and statistical analyses to inform decisions\n- Partic
- ipate in stand-ups\, iteration planning sessions\, product demos\, and ret
- rospectives\n- Foster collaboration with team members\n\nWant to learn mor
- e and apply?\nAPPLY HERE [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/616
- 552#0\n[1]  https://www.google.com/url?q=https%3A%2F%2Fcareers.peopleclick
- .com%2Fcareerscp%2Fclient_homedepot%2Fexternal%2Fgateway.do%3FfunctionName
- %3DviewFromLink%26jobPostId%3D324443%26localeCode%3Den-us&sa=D&usd=2&usg=A
- FQjCNERKdRzo-EuzqC-s-mbOE1j7imMfw
-LOCATION:11-3pm CCB commons
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:QPoC Meet Up: Taco Night
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190306T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190307T003000Z
-UID:http://hg.gatech.edu/node/617292#0
-DESCRIPTION:Intended audience: Graduate students\, Postdoc\, Undergraduate
-  students\nExtras: Free food\nStatus: published\n\nCome join other queer s
- tudents of color for a night of tacos and conversation! This is a great wa
- y to de-stress with friends and get to know other queer students of color 
- on campus. We'll have a stash of board games\, movies\, and discussion que
- stions for you to choose from if you would like to utilize those resources
- .\n\nPlease RSVP so we can plan for the food and space accordingly.\n\nNot
- e: Because of the cost involved in the catering\, we ask that you honor yo
- ur RSVP by showing up on the night. No-shows may result in you being charg
- ed for your share of the catering cost.\n\nWhat are QPoC Meet-Ups?\n\nThe 
- LGBTQIA Resource Center coordinates one to two QPoC Meet-Ups per semester 
- to provide opportuities for LGBTQIA students of color to build connections
-  and create community with one another.\n\nLinks:\n[0]  http://hg.gatech.e
- du/node/617292#0\n[1]  http://lgbtqia.gatech.edu/qpoc-meet-ups
-LOCATION:LGBTQIA Resource Center\, Smithgall Student Services Building 140
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Career Services Workshop: Leveraging your Strengths
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190306T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190307T010000Z
-UID:http://hg.gatech.edu/node/614501#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nFlex on ‘em: Leveraging your St
- rengths for Career Success\n\nPeople realize their full potential when the
- y have the opportunity to use their greatest strengths every day. Strength
- sFinder is a tool developed by Gallup\, Inc. that identifies an individual
- ’s Top Five strengths and how to develop greater knowledge and skill in 
- that area\, while leveraging those strengths into success.\n\nThis is a fr
- ee workshop for students who wish to learn more about their Top 5 strength
- s and how to prepare for the career they have chosen. RSVP [1] to attend t
- his interactive workshop and receive your FREE StrengthsFinder assessment 
- code.\n\nLinks:\n[0]  http://hg.gatech.edu/node/614501#0\n[1]  https://gat
- ech.co1.qualtrics.com/jfe/form/SV_5cY9qo25XwI6BP7
-LOCATION:Klaus 1116W
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Career Services Workshop: Global Internships
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190307T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190307T170000Z
-UID:http://hg.gatech.edu/node/618341#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nGlobal internships allow you to g
- ain experiential learning through work experience while immersing yourself
-  in another culture & community. Come learn about all the ways that you ca
- n intern abroad during this lunch 'n' learn workshop.\n\nJoin Hannah Moon\
- , OIE Global Internship Advisor\, for this info session specifically focus
- ed on your majors!\n\nLinks:\n[0]  http://hg.gatech.edu/node/618341#0
-LOCATION:CCB 101
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunch and Learn
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190307T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190307T170000Z
-UID:http://hg.gatech.edu/node/617655#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatech.edu
- /node/617655#0
-LOCATION:Old Civil Engineering Room G-10
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Research Conference 101: How to Prepare
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190307T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190307T170000Z
-UID:http://hg.gatech.edu/node/618652#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Undergraduate students\nExt
- ras: Free food\nStatus: published\n\nHave you conducted research and want 
- to share your results with the research community? This presentation by Re
- search Ambassadors who have presented their research all around the globe 
- to learn about the application process and tips and tricks on getting acce
- pted to conferences!\n\nFREE COOKIES!\n\nLinks:\n[0]  http://hg.gatech.edu
- /node/618652#0
-LOCATION:Clough Undergraduate Learning Commons\, 2nd Floor\, Clough 205Q
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GVU Center Brown Bag: Anne Sullivan\, "Crafting Stories"
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190307T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190307T180000Z
-UID:http://hg.gatech.edu/node/618198#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nExtras: Free food\nStatus: published\n\nAbstract
- :\n\nTouching on computational craft and hybrid fabrication\, this talk lo
- oks at the process of designing and creating story-based interactive exper
- iences and games through crafts and crafted or crafting interfaces. Games 
- are generally fast-paced with responsive controls\, while crafting is ofte
- n a slower\, methodical process. This leads to some interesting design cha
- llenges and novel experiences. The talk will cover some of the projects cr
- eated by the speaker\, including Loominary – a game system that runs Twi
- ne games and uses a tabletop loom as the controller. Through the act of pl
- aying\, the player’s choices are literally woven into a personalized tan
- gible artifact of the player’s game session.\n\nSpeaker Bio:\n\nDr. Anne
-  Sullivan is an Assistant Professor of Digital Media in the School of Lite
- rature\, Media\, and Communication at Georgia Tech. Her work focuses on th
- e ways in which interactive experiences and craft can co-exist with a part
- icular eye towards narrative and storytelling experiences from underrepres
- ented perspectives. Dr. Sullivan is an award winning quilter and the conce
- pt designer and producer of Loominary – a collaborative game system that
-  uses a tabletop loom as the controller - which has been shown internation
- ally\, including at the SAAM Arcade exhibit at the Smithsonian American Ar
- t Museum.\n\nHow to watch: If you can't make the event in person you can L
- ive Stream or watch the Recording (one week after event).\n\nLinks:\n[0]  
- http://hg.gatech.edu/node/618198#0\n[1]  http://www.tsrb.gatech.edu/
-LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
- a\, Ga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BME Graduate Recruiting Weekend\, March 7-9
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190307T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190307T220000Z
-UID:http://hg.gatech.edu/node/613041#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- nStatus: published\n\nDay 1: Thursday\, March 7\, 2019\n\nEmory Campus Eve
- nt: starts at noon\nChair's Welcome Message\nBME Graduate Program Overview
- \nFaculty Interviews (from both campuses)\nEvening Social Event at Fernban
- k\n\nDay 2: Friday\, March 8\, 2019\n\nGeorgia Tech Campus Event: all day\
- nFaculty Interviews (from both campuses)\nJoint Lunch with Bioengineering\
- nGraduate Student Evening Night Out\n\nDay 3: Saturday\, March 9\, 2019\n\
- nGraduate Student Atlanta Fun Day\n\nLinks:\n[0]  http://hg.gatech.edu/nod
- e/613041#0
-LOCATION:Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Materials Seminar featuring Dr. John G. Michopoulos
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190307T190000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190307T200000Z
-UID:http://hg.gatech.edu/node/617809#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: published\n\nMULTISCALE AND MULTIPHYSICS 
- INTEGRATED COMPUTATIONAL MATERIAL ENGINEERING FOR ADDITIVE MANUFACTURING\n
- John G. Michopoulos\, Research Scientist/Engineer Computational Multiphysi
- cs System Lab.\, Code 6394 Center for Materials Physics and Technology Mat
- erial Science and Technology Division US Naval Research Laboratory\n\nAbst
- ract\n\nThe presentation will focus on an overview of modeling\, simulatio
- n (M&S) and experimental activities related to the integrated computationa
- l material engineering efforts at US-NRL from the perspective of the multi
- ple length scales and multiple fields involved in layered deposition proce
- sses as they relate to Navy applications. The efforts described are a part
-  of US-NRL’s internally funded effort on the “Science of Layered Depos
- ition Processes”\, grand-challenge effort directed by the speaker.\n\nTh
- e multiscale issues associated with Additive Manufacturing (AM) will be di
- scussed first in order to lay out the scientific motivation of our efforts
- . Then\, a description of overall analytical\, experimental and computatio
- nal components of the framework under development will be presented. Vario
- us aspects and current progress on some of the elements of this framework 
- will be presented.\n\nEmphasis will be given on the solution of the multif
- ield partial differential equations (PDEs) governing the spatio-temporal b
- ehavior of AM processes by using various discretization and model order re
- duction methods. A description of NRL’s AM Multiphysics Discrete Element
-  Method\, will also be presented with emphasis on its ability to predict p
- orosity and surface roughness in addition to final part shape for powder-b
- ased AM processes. A methodology is introduce to enriched analytical solut
- ions with functionality relevant to the practicalities of AM processes wil
- l be introduced and their accuracy and efficiency will be discussed from t
- he perspective of enabling closed loop feedback control in real time. Prog
- ress on implicit slicing and multiscale topology optimization for function
- al tailoring of parts will also be presented. Multiphase field methods for
-  predicting the evolution of the polycrystalline microstructure of multi-e
- lement alloys will also be outlined. Connection of process parameters to p
- erformance requires utilizing crystal plasticity for generating data-drive
- n constitutive models enabling stress-strain response prediction\, example
- s of which will also be outlined. Finally\, AM part qualification methodol
- ogies introduced by our group will be presented via the use of automated m
- ulti-degree of freedom testing procedures.\n\nBiography\n\nAs a Research S
- cientist/Engineer and head of Computational Multiphysics Systems Lab (CMSL
- ) of the Center for Materials Physics and Technology at the US Naval Resea
- rch Laboratory (US-NRL)\, Dr. Michopoulos oversees and actively participat
- es on research efforts involving multi-physics modeling and simulation ass
- ociated with a plethora of topics in computational and experimental scienc
- es. Some of his current major initiatives include research and development
-  on the science of layered deposition processes\, linking performance to m
- aterial through data and specification driven methodologies\, model order 
- reduction for naval applications\, electromagnetic launcher dissipative da
- mage modeling and simulation\, mechatronic/robotic data-driven characteriz
- ation of continua\, and multiphysics design optimization. He is a member o
- f the editorial board of several scientific journals and is member of the 
- program committee of several international conferences and has chaired sev
- eral of them. He has served in the executive committee of the Computers an
- d Information in engineering division of the ASME among others. His techni
- cal work and leadership have been recognized by several national and inter
- national honors\, including the 2015 Excellence in Research award by ASME
- ’s CIE division\, the 2015 Innovator Award by Wolfram Inc.\, and the 201
- 3 “P.S. Theocaris” award for excellence by the National Academy of Ath
- ens. He has authored and co-authored more than 270 publications and patent
- s and his a Fellow of the ASME. Dr. Michopoulos holds an M.Sc. In Civil En
- gineering and a Ph.D. in Applied Mathematics and Mechanics from the Nation
- al Technical University of Athens\, and has pursued post-doctoral studies 
- at Lehigh University on computational multi-field modeling of continua and
-  Fracture Mechanics.\n\nLinks:\n[0]  http://hg.gatech.edu/node/617809#0\n[
- 1]  https://goo.gl/maps/3Kriw9N9PLM2
-LOCATION:MRDC Building\, Room 4211\, 801 Ferst Drive NW\, Atlanta\, Georgi
- a 30313
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Culture Fest
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190307T210000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190307T233000Z
-UID:http://hg.gatech.edu/node/618840#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nGet ready for GT MSA's first major event of Islamic 
- Awareness Month! GT MSA will again be hosting the much-awaited Culture Fes
- t this year! Join us for FREE FOOD\, FREE HENNA\, FREE CALLIGRAPHY\, FREE 
- HIJABS (if you participate in Unveiling the Veil)\, and FREE KNOWLEDGE abo
- ut Muslim inventions\, Islamic History\, and much more! Come join us at th
- e Campanile March 7th from 4-6:30 PM and tell your friends!\n\nMore inform
- ation on Facebook [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/618840#0\n
- [1]  https://www.facebook.com/events/399792967257705/
-LOCATION:Kessler Campanile
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CREATE-X Deep Startups: Demystifying Venture Capital
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190307T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190308T000000Z
-UID:http://hg.gatech.edu/node/618280#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nExtras: Free food\nStatus: published\n\nIntrodu
- cing the new Associate Director of CREATE-X Startup Launch\n\nIf you are f
- amiliar with startups\, you have probably heard the term VC or Venture Cap
- ital\, but what does it mean? How do startups gain venture capital? Startu
- p Launch Associate Director\, Rahul Saxena\, was a venture capitalist for 
- 10 years at the Seraph Group. Learn how VC's think\, operate\, and why it 
- could be the best and worst decision to partner with them.\n\nAbout Deep S
- tartups\n\nDeep Startups is an Idea Series that features knowledgeable ent
- repreneurs who discuss their experiences forming companies that solve big-
- picture current problems. These individuals speak to the concept of ‘dee
- p startups’ and how to create companies that make a difference. Each Dee
- p Startups event focuses on a different broad topic in engineering/technol
- ogy and allows for student Q&A at the end of the event.\n\nAbout Rahul Sax
- ena\n\nRahul Saxena is the Associate Director for CREATE-X Launch. In his 
- role\, he works with students to help them launch and scale successful sta
- rtups. Leading up to this role\, Rahul had a career as a Venture Capitalis
- t\, startup CEO\, entrepreneur\, mechatronic design engineer\, and publish
- ed academic researcher. He received a B.S. in Mechanical Engineering from 
- Georgia Tech where he also conducted research on the fluid mechanics of me
- chanical heart valves\, both as an undergrad and then as a research engine
- er. He then pursued a European Masters at the von Karman Institute for Flu
- id Mechanics under a NATO fellowship.\n\nAfter returning\, Rahul went to S
- ilicon Valley where he worked as a mechatronic engineer at a startup compa
- ny that was developing and selling high-throughput automation equipment fo
- r genetics research. As the bubble burst\, he moved back to Atlanta where 
- he worked on a few different startups while also pursuing his MBA at Emory
-  University's Goizueta School of Business.\n\nAfter finishing the degree\,
-  he joined an early-stage venture capital firm\, Seraph Group\, where he w
- orked for 10 years evaluating and investing in companies while also servin
- g on several Boards of companies that went on to be acquired. During this 
- time\, Rahul took a direct operating role as CEO of one of its portfolio c
- ompanies that faced numerous issues and was able to successfully exit it t
- o the leading provider in the market. The company is a SaaS provider to go
- vernment agencies for one of the leading restaurant permitting and inspect
- ions software.\n\nFood will be served.\n\nLinks:\n[0]  http://hg.gatech.ed
- u/node/618280#0\n[1]  https://orgsync.com/178387/events/2668953/occurrence
- s/6438629
-LOCATION:Klaus Advanced Computing Building Room 2448
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Flavorful Fridays - Satisfying Snacks
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190308T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190308T180000Z
@@ -31329,20 +30882,30 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nSGA's Outreach and Coll
 LOCATION:Bill Moore Student Success Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Georgia Tech Resources - What do we offer? How can we improve?
+SUMMARY:Georgia Tech Resources: What do we offer? How can we improve?
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200305T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200306T000000Z
-UID:https://gatech.campuslabs.com/engage/event/5658520
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDo you want to know abo
- ut LGBTQIA+ resources that Georgia Tech offers? What resources do you thin
- k Georgia Tech should have to better serve you and the LGBTQIA+ community?
-  Come on over to our general meeting this Thursday at 6pm in Mason 3132 wh
- ere we will have an open discussion about the available resources!\n\n---\
- n\nY'all means all: This is an event for all LGBTQIA+ folx and their allie
- s. Please email pride@gatech.eduis we can provide any accommodations to ma
- ke this event more accessible or if you have any questions.\n\n[Image Text
- ] Georgia Tech resources general meeting. March 5\, 2020. 6 to 7pm. Mason 
- 3132.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5658520
+UID:http://hg.gatech.edu/node/633318#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free Food\nStatus: published\n
+ \nDo you want to know about LGBTQIA+ resources that Georgia Tech offers? W
+ hat resources do you think Georgia Tech should have to better serve you an
+ d the LGBTQIA+ community? Come on over to our general meeting this Thursda
+ y at 6 p.m. in Mason 3132 where we will have an open discussion about the 
+ available resources!\n\nY'all means all: This is an event for all LGBTQIA+
+  folx and their allies. Please email pride@gatech.edu if we can provide an
+ y accommodations to make this event more accessible or if you have any que
+ stions.\n\nDo you want to know about LGBTQIA+ resources that Georgia Tech 
+ offers? What resources do you think Georgia Tech should have to better ser
+ ve you and the LGBTQIA+ community? Come on over to our general meeting thi
+ s Thursday at 6pm in Mason 3132 where we will have an open discussion abou
+ t the available resources!\n\n---\n\nY'all means all: This is an event for
+  all LGBTQIA+ folx and their allies. Please email pride@gatech.eduis we ca
+ n provide any accommodations to make this event more accessible or if you 
+ have any questions.\n\n[Image Text] Georgia Tech resources general meeting
+ . March 5\, 2020. 6 to 7pm. Mason 3132.\n\nLinks:\n[0]  http://hg.gatech.e
+ du/node/633318#0\n[1]  https://gatech.campuslabs.com/engage/event/5658520\
+ n[2]  https://gatech.campuslabs.com/engage/organization/pride-alliance
 LOCATION:Mason 3132
 END:VEVENT
 BEGIN:VEVENT
@@ -31629,6 +31192,23 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Stein House/4th St. A\, 733 Techwood\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sanjay Sehgal\, CEO of Msys Technologies: Talk on the role of AI a
+ nd Data Analytics in technology and entrepreneurship
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200309T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200309T233000Z
+UID:http://hg.gatech.edu/node/633341#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nJoin us for InVenture Prize Week! Our keynote speaker will be Sanjay Seh
+ gal\, CEO of Msys Technologies. He will be giving a talk on the role of AI
+  and Data Analytics in technology and entrepreneurship.\n\nWe will have a 
+ taco bar for you.\n\nWe need your RSVP to ensure we have enough.\n\nLinks:
+ \n[0]  http://hg.gatech.edu/node/633341#0\n[1]  https://gatech.campuslabs.
+ com/engage/event/5662111\n[2]  http://week.events/innovation\n[3]  https:/
+ /innovation.cae.gatech.edu\n[4]  https://inventureprize.gatech.edu
+LOCATION:Clough 205Q (same floor as Starbucks\, near the elevators)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Project Change: STEM Teachers @ Tech Day
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200310T130000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200310T193000Z
@@ -31822,6 +31402,25 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDeep Startups is an Ide
 LOCATION:Klaus Advanced Computing Building Room 2448
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Women in Entrepreneurship Panel
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200310T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200310T233000Z
+UID:http://hg.gatech.edu/node/633342#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nJoin us for a lively discussion with leading women in innovation!\n\nJoi
+ n us for InVenture Prize Week! Our panel of women leading innovation in At
+ lana will include Brandy Nagel of ATDC\, Farah Allen (CEO of The Labz)\, S
+ hila Nieves Burney (Founder\, ZANE Venture Fund)\, and Shaun Chavis (CEO\,
+  LVNGBook). Discussion on women in the entrepreneurship space and how they
+  rose to success in their careers.\n\nWe will have a sandwiches for you. W
+ e need your RSVP to ensure we have enough.\n\nLinks:\n[0]  http://hg.gatec
+ h.edu/node/633342#0\n[1]  https://gatech.campuslabs.com/engage/event/56621
+ 53\n[2]  http://week.events/innovation\n[3]  https://innovation.cae.gatech
+ .edu\n[4]  https://inventureprize.gatech.edu
+LOCATION:Clough 205Q (same floor as Starbucks\, near the elevators)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Career Services Workshop: Salary Negotiation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200310T223000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200310T233000Z
@@ -31956,6 +31555,25 @@ DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nInstitu
 LOCATION:Student Center\, Peachtree Room
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:From GA Tech to Inception: Road from GT to creating an impact in A
+ tlanta
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200312T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200312T233000Z
+UID:http://hg.gatech.edu/node/633344#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nJoin us for InVenture Prize Week! Participate in this discussion with Gr
+ aham Gintz from Techstars Atlanta and Octavia Warren Gilmore\, CEO of Crea
+ tive Juice and The Millennial\, talk about the process to become an entrep
+ reneur and successful founder through taking advantage of Atlanta resource
+ s.\n\nWe will have Southern Fair food for you (chicken tenders\, mac & che
+ ese\, garden vegetables). We need your RSVP to ensure we have enough.\n\nL
+ inks:\n[0]  http://hg.gatech.edu/node/633344#0\n[1]  http://week.events/in
+ novation\n[2]  https://innovation.cae.gatech.edu\n[3]  https://inventurepr
+ ize.gatech.edu
+LOCATION:Clough 205Q (same floor as Starbucks\, near the elevators)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:IEN Technical Seminar: Electron Beam Lithography
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200313T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200313T180000Z
@@ -31976,6 +31594,22 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  com/elitho2020
 LOCATION:Marcus Nanotechnology Building 1116-1118 | 345 Ferst Drive | Atla
  nta GA | 30332
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mix n Mingle with Georgia Tech Innovators
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200313T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200313T190000Z
+UID:http://hg.gatech.edu/node/633345#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nJoin us for InVenture Prize Week! Take part in this networking event wit
+ h other innovators and startups around campus. Learn what others are worki
+ ng on or simply find your co-founder!\n\nWe will have heavy hors d'oeuvres
+  and drinks! We need your RSVP to ensure we have enough.\n\nLinks:\n[0]  h
+ ttp://hg.gatech.edu/node/633345#0\n[1]  https://gatech.campuslabs.com/enga
+ ge/event/5662236\n[2]  http://week.events/innovation\n[3]  https://innovat
+ ion.cae.gatech.edu\n[4]  https://inventureprize.gatech.edu
+LOCATION:Clough 205Q (same floor as Starbucks\, near the elevators)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:8th Annual GoSTEM Latino College & STEM Fair
@@ -32137,6 +31771,24 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  a07egwkxor28258fc17&llr=m48bm8rab
 LOCATION:Marcus Nanotechnology Building | 345 Ferst Drive | Atlanta GA | 3
  03332
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:International TA Workshop: Small Talk 101
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200318T153000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200318T170000Z
+UID:http://hg.gatech.edu/node/633306#0
+DESCRIPTION:Intended audience: Graduate students\nExtras: Free food\nStatu
+ s: published\n\nInternational graduate students -\n\nAre you nervous about
+  talking to your students while waiting for class/lab to begin? Don’t kn
+ ow what to say when you meet your professor in the hallway or elevator?\n\
+ nCome practice your “small talk” skills!\n\nJoin us for lunch & and a 
+ workshop on "small talk"-- a practical tool for interacting with students 
+ in labs\, tutoring\, or recitations. We’ll explore common rules and topi
+ cs of small talk\, then practice it together.\n\nExpand your rapport with 
+ students and colleagues -- join us for small talk (and lunch)!\n\nREGISTER
+  [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/633306#0\n[1]  https://cetl
+ .gatech.edu/content/small-talk-101-workshop-international-tas-march-18
+LOCATION:Clough Commons Room 262
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spring 2020 IEN Micro-Fabrication Short Course
@@ -32307,6 +31959,22 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAshlee Flinn\, Internat
 LOCATION:Stein House/4th St. A
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Indigenous Students Meet and Greet
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200324T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200324T160000Z
+UID:http://hg.gatech.edu/node/633313#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
+ aduate students\nStatus: published\n\nThe offices of Hispanic Initiatives 
+ and Student Diversity Programs would like to invite students who identify 
+ as Indigenous Peoples\, Native Peoples\, or First Nation Peoples to a meet
+  and greet on Tuesday\, March 24 to identify common interests. We'll meet 
+ at 11 a.m. in the Bill Moore Student Success Center\, President's Suites C
+  and D. Lunch will be served.\n\nLinks:\n[0]  http://hg.gatech.edu/node/63
+ 3313#0\n[1]  https://gatech.campuslabs.com/engage/organization/office-of-s
+ tudent-diversity-programs
+LOCATION:Bill Moore Student Success Center President's Suites C and D
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nano@Tech: David Myers - Wallace H. Coulter Department of Biomedic
  al Engineering\, Georgia Tech
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200324T160000Z
@@ -32384,6 +32052,24 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin Dr. David Torello
   and components.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/even
  t/5479344
 LOCATION:Top Time Coffee\, MRDC\, Georgia Tech Campus
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GT Dining and Housing Sustainability
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200325T171500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200325T180500Z
+UID:http://hg.gatech.edu/node/633310#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nHow is Georgia Te
+ ch Dining working to reduce food waste and the amount of unnecessary trash
+  sent to the landfill? How about GT Housing’s current and future sustain
+ ability initiatives? Join us on March 25 to discuss these topics with GT D
+ ining Sustainability Coordinator Jordan Barron\, and GT Housing Sustainabi
+ lity Intern\, Heeva Taghian.\n\n- What is composting?\n- How does Georgia 
+ Tech compost?\n- How can I properly compost?\n- How can we improve housing
+  sustainability?\n\nFREE FOOD WILL BE PROVIDED\n\nLinks:\n[0]  http://hg.g
+ atech.edu/node/633310#0\n[1]  https://www.facebook.com/events/179587039982
+ 240/
+LOCATION:Kendeda Building Room 210
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GT Dining & Housing Sustainability
@@ -32517,6 +32203,20 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  QiA\, and NOMAS\n\nLinks:\n[0]  http://hg.gatech.edu/node/632133#0\n[1]  h
  ttps://arch.gatech.edu/2020-graduate-open-house
 LOCATION:Georgia Tech School of Architecture
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shabbat 360
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200327T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200328T000000Z
+UID:http://hg.gatech.edu/node/633331#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
+ aduate students\nStatus: published\n\nThe most anticipated Jewish event of
+  the year returns! Join 360 students and faculty from Georgia Tech in an e
+ normous tent at the Chabad Student Center. Celebrate the unity with a gour
+ met 'Global' Shabbat dinner & festivities like never before!\n\nLinks:\n[0
+ ]  http://hg.gatech.edu/node/633331#0\n[1]  http://www.chabaddtu.com/shabb
+ at360
+LOCATION:Rohr Chabad House (471 10th St NW\, Atlanta\, GA 30318)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Food Distribution Volunteering
@@ -32700,6 +32400,43 @@ DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\nStatus: p
  orm/SV_0pMQP7EqznzDSK1\n[2]  https://healthinitiatives.gatech.edu/well-bei
  ng/mental/mindfulness
 LOCATION:Room 301\, Student Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2020 Ideas to Serve (I2S) Competition Finals
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200401T203000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200401T230000Z
+UID:http://hg.gatech.edu/node/633189#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\, Freebies\nStatus: 
+ published\n\nJoin us to see what social issues GT students are exploring a
+ nd solving at this year’s Ideas to Serve Finals. Vote for your favorite 
+ projects\, enjoy some pops\, get a cool t-shirt\, take a fun pic at the ph
+ oto booth\, and win some raffle prizes.\n\nFinals Schedule\n\n- Poster Ses
+ sion - 6:00 PM\n- Raffle Drawing - 7:15 PM\n- Team Pitches and Audience Vo
+ te 7:30 PM\n- Awards Ceremony - 8:00 PM\n\nWe are excited to announce a ne
+ w philosophy for our competition – one that focuses on an in-depth under
+ standing of the social/environmental issue a student is passionate about.\
+ n\nWe are morphing our previous tracks - Ideas and Advanced - into two new
+  tracks: Problem Discovery Track - for students who are exploring a social
+ /environmental issue with the intent of gaining a deep understanding of th
+ at space and where their skills fit in\, and Solutions Discovery Track - f
+ or students who are more advanced on their discovery journey and are formu
+ lating community-based solutions.\n\nWe will award several teams in both t
+ racks and all teams are eligible to compete in our specialty awards (Best 
+ Video\, Best Poster\, People's Choice).\n\nParticipating in I2S also fulfi
+ lls the Final Deliverable requirement for the Serve-Learn-Sustain Innovati
+ ng for Social Impact Program.\n\nList of teams and judges will be availabl
+ e shortly.\n\nI2S funding is made possible through the generous support of
+  our Georgia Tech and Community Partners:\n\nThe Cecil B. Day Program for 
+ Business Ethics (Solution Discovery Track Awards)\n\nCenter for Serve - Le
+ arn - Sustain (Problem Discovery Track Awards)\n\nSteven A. Denning Techno
+ logy and Management Program\n\nDesign Bloc Georgia Tech\n\nLEAD Program\n\
+ nRay C. Anderson Center for Sustainable Business\n\nSpeechworks\n\nJoin us
+  for an afternoon of immersion\, innovation\, and ice-cold pops.\n\nLinks:
+ \n[0]  http://hg.gatech.edu/node/633189#0\n[1]  https://serve-learn-sustai
+ n.gatech.edu/innovating-social-impact-program\n[2]  https://www.scheller.g
+ atech.edu/centers-initiatives/ile/i2s/index.html
+LOCATION:Scheller College of Business Atrium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Phi Alpha Theta Keynote
@@ -33484,6 +33221,76 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  e yearns to produce.\n\nLinks:\n[0]  http://hg.gatech.edu/node/621372#0\n[
  1]  https://dramatech.org/event/a-new-brain/
 LOCATION:DramaTech Theatre\, north side of the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GTMI Distinguished Lecture Dr. Carmelo Lo Faro President - Solvay 
+ Composite Materials
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200417T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200417T161500Z
+UID:http://hg.gatech.edu/node/633346#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nComposite Materials: The growing pains of a "young technology" destined 
+ for a very bright future\n\nComposites are a young and unique class of mat
+ erials that provide engineering freedom and integration of parts and funct
+ ions. In the last 30 years\, composites have evolved from niche to mainstr
+ eam thanks to major advances in chemistry\, material science and automatio
+ n. However\, the industry is still not extracting the full potential of th
+ e technology to maximize performance\, increase production rates and reduc
+ e total cost of ownership. The future widespread adoption of composites ac
+ ross multiple markets will be driven by innovations in high throughput man
+ ufacturing\, multi-functionality\, environmental sustainability\, simulati
+ on and modelling.\n\nDate: Friday\, April 17th\nTime: 11AM – 12:15 PM (l
+ unch following in the GTMI atrium)\nLocation:\nGTMI Auditorium #101\nGeorg
+ ia Tech Manufacturing Institute\nCallaway Manufacturing Research Center Bu
+ ilding\n813 Ferst Drive\, NW\nAtlanta GA 30332\n\nSpeaker Biography\nDr. C
+ armelo Lo Faro is the President of Solvay Composite Materials\, a technolo
+ gy and innovation leader that provides advanced composite materials and ad
+ hesives to the aerospace\, defense\, energy and automotive markets. He was
+  appointed to his current role in February 2017.\n\nLo Faro joined the bus
+ iness in 1999. Prior to his current position\, he served as EVP Industrial
+  Business Line and Strategy for Solvay Composite Materials. In 2015 he was
+  the Chief Technology Officer of Cytec Industries at the time the company 
+ was acquired by Solvay. He also served as VP of Technology for Cytec Aeros
+ pace Materials from 2010 to 2014 and Product Development Director from 200
+ 5 to 2010. Early in his career\, Lo Faro had leadership roles in R&D\, Eng
+ ineering\, and Operational Improvement and was instrumental in introducing
+  novel advanced materials and processes on multiple aerospace\, defense an
+ d automotive programs. He holds nine international patents and has authore
+ d several technical papers. He serves on the Board of Governors of the Aer
+ ospace Industry Association and the Board of Directors of JEC.\n\nLo Faro 
+ holds a Doctorate of Science in Material Science and a Master in Mechanica
+ l Engineering from Catania University in Italy and a Master of Business Ad
+ ministration from Arizona State University. He is also a certified Six Sig
+ ma Master Black Belt.\n\nRSVP [1]\nAdd to Calendar [2]\n\nAbout Solvay:\nS
+ olvay is a global leader in advanced materials [3] and specialty chemicals
+ . Our materials and innovation help to design everyday solutions in clean 
+ mobility and resource efficiency. Our tailor-made range of products [4] an
+ d constantly evolving market solutions [5] answer unmet needs in soaring a
+ erospace and automotive industry\, power the future of batteries and energ
+ y efficiency\; Solvay’s technology aids mineral and oil extraction as we
+ ll as applications in consumer goods to easily accommodate every single on
+ e of the ever-changing demands. Innovation [6] is our driver towards an im
+ pactful circular economy\, collaborating with game-changers to spark succe
+ ss of sustainable solutions [7] globally. Diverse\, entrepreneurial\, and 
+ bright talent [8] has been Solvay’s beacon since its very foundation\, m
+ ore than 150 years ago. We are constantly stretching scientific boundaries
+  to continue the journey as the leading hub housing the best minds for hum
+ ankind advancement.\n\nLinks:\n[0]  http://hg.gatech.edu/node/633346#0\n[1
+ ]  https://gatech.us7.list-manage.com/track/click?u=789c2f71dc30a8bdcaeff7
+ e62&id=30e699a0eb&e=c70fda1746\n[2]  https://gatech.us7.list-manage.com/tr
+ ack/click?u=789c2f71dc30a8bdcaeff7e62&id=a557637a9d&e=c70fda1746\n[3]  htt
+ ps://gatech.us7.list-manage.com/track/click?u=789c2f71dc30a8bdcaeff7e62&id
+ =42cc5064cc&e=c70fda1746\n[4]  https://gatech.us7.list-manage.com/track/cl
+ ick?u=789c2f71dc30a8bdcaeff7e62&id=c7eaff1345&e=c70fda1746\n[5]  https://g
+ atech.us7.list-manage.com/track/click?u=789c2f71dc30a8bdcaeff7e62&id=8edc9
+ fdbb4&e=c70fda1746\n[6]  https://gatech.us7.list-manage.com/track/click?u=
+ 789c2f71dc30a8bdcaeff7e62&id=b3da453462&e=c70fda1746\n[7]  https://gatech.
+ us7.list-manage.com/track/click?u=789c2f71dc30a8bdcaeff7e62&id=416a65c6cf&
+ e=c70fda1746\n[8]  https://gatech.us7.list-manage.com/track/click?u=789c2f
+ 71dc30a8bdcaeff7e62&id=f8fff38173&e=c70fda1746
+LOCATION:GTMI Auditorium #101\, Callaway Manufacturing Research Center Bui
+ lding 813 Ferst Drive\, NW Atlanta GA 30332
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:29th Annual College of Computing Awards Ceremony
