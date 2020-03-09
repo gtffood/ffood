@@ -2,200 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Flavorful Fridays - Satisfying Snacks
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190308T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190308T180000Z
-UID:http://hg.gatech.edu/node/615455#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nFor national nutrition month\, try a selection 
- of sweet and savory snacks that will satisfy you and your senses. When con
- sidering your food choices set aside the shoulds and the should nots and c
- onsider each of your senses – taste\, texture\, aroma\, temperature\, ap
- pearance\, volume - and what will be most satisfying to you. Research show
- s that choosing the foods that are most satisfying to you is positively co
- rrelated with higher well-being.\n\nLinks:\n[0]  http://hg.gatech.edu/node
- /615455#0
-LOCATION:Student Center - Healthy Space
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:C.L. Chandler Weather Chat
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190308T161500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190308T170000Z
-UID:http://hg.gatech.edu/node/616574#7
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nStatus: published\n\nEAS will be hosting our wee
- kly C. L. Chandler Weather Chat series again this Spring 2019 semester. Th
- is event is dedicated to Chandler\, who was a meteorologist for Delta Airl
- ines during the mid- to late 20th century and helped to develop one of the
-  most successful meteorological organizations within the airline industry.
- \n\nEvery week from 11:15 a.m. - noon in L1116 of Ford ES&T\, we will have
-  informal discussions about the most exciting weather events impacting Atl
- anta\, the U.S. and beyond that day as well as investigating forecast data
-  to learn more about upcoming significant weather events. Topics range fro
- m discussing major winter storms to severe weather outbreaks\, tropical cy
- clones\, lake-effect storms\, and even small-scale events like dense fog a
- nd mountain weather events.\n\nAll are welcome to attend\, including non-E
- AS majors and the general public. Feel free to bring your lunch as well as
-  a friend or two!\n\nLinks:\n[0]  http://hg.gatech.edu/node/616574#7
-LOCATION:Room L1116\, Ford ES&T Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CTL Book Club
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190308T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190308T173000Z
-UID:http://hg.gatech.edu/node/615680#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \nStatus: published\n\nThe Center for Teaching and Learning's book club of
- fers an opportunity to meet with a diverse group of faculty\, postdocs\, a
- nd graduate students to discuss books that focus on issues related to teac
- hing and learning in higher education. A lively and relaxed setting with a
-  Friday brownbag lunch provides an ideal setting in which to share teachin
- g experiences and to gather new teaching ideas.\n\nThis semester we're rea
- ding Creating the Path to Success in the Classroom [2] by Kathleen F. Gabr
- iel (2018) and The Neuroscience of Learning and Development [3] edited by 
- Marilee J. Bresciani Ludvik (2016).\n\nThis will be our second discussion 
- of the second book.\n\nFollow this link for more information and to regist
- er. [4]\n\nLinks:\n[0]  http://hg.gatech.edu/node/615680#0\n[1]  http://hg
- .gatech.edu/node/615657#0\n[2]  http://styluspub.presswarehouse.com/browse
- /book/9781579225575/Creating%20the%20Path%20to%20Success%20in%20the%20Clas
- sroom\n[3]  https://styluspub.presswarehouse.com/browse/book/9781620362846
- /The%20Neuroscience%20of%20Learning%20and%20Development\n[4]  http://ctl.g
- atech.edu/book-club-reg
-LOCATION:Clough 466A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Islamic Banking and Finance seminar
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190308T190000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190308T223000Z
-UID:http://hg.gatech.edu/node/616874#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nThe Georgia State University’s Global Studies
-  Institute\, Middle East Studies Center\, Law School and the Atlanta Globa
- l Studies Center will host a seminar on Islamic Banking and Finance on Fri
- day\, March 8 from 2:00pm - 5:30pm at the GSU Law School in Room College o
- f Law 304. Keynote speaker will be Dr. Patricia Sloane-White\, chair of An
- thropology at the University of Delaware. Sessions also include Dr. Zachar
- ias Pieri\, University of Southern Florida\, Dr. Michael Herb\, Georgia St
- ate and Dr. Jack Williams\, also of Georgia State. Afternoon refreshments 
- will be served. Contact afromherz@gsu.edu [1] with questions.\n\nLinks:\n[
- 0]  http://hg.gatech.edu/node/616874#0\n[1]  afromherz@gsu.edu
-LOCATION:Georgia State's College of Law\, Room 304
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Peer Coaching Program Open House / Meet and Greet
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190308T193000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190308T213000Z
-UID:http://hg.gatech.edu/node/617911#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nThe Counseling Center is looking for undergraduate a
- nd graduate students to join the Peer Coaching Program as coaches. Stop by
-  our Open House / Meet and Greet to find out more. Snacks and beverages wi
- ll be provided. Applications for the program are due on April 5.\n\nLinks:
- \n[0]  http://hg.gatech.edu/node/617911#0\n[1]  http://www.counseling.gate
- ch.edu/content/become-coach
-LOCATION:Counseling Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Georgia Tech American Medical Student Association Pre-Health Confe
- rence
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190309T130000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190309T220000Z
-UID:http://hg.gatech.edu/node/618000#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nWe are proud to introduce to you Georgia Tech AMSA's
-  13th Annual Pre-Health Conference\, which will take place from 8 AM to 5 
- PM on Saturday\, March 9th\, 2019. The Conference will be held in the Klau
- s Advanced Computing Building. The theme for this year's conference is "Se
- rvice through Medicine." Breakfast and lunch are provided for everyone in 
- attendance. The dress code is business formal.\n\nWhy should you attend?\n
- Here are some valuable reasons as to why this event is an incredible exper
- ience for Pre-Health students:\n\n- International Medicine Panel with prac
- ticing physicians\n- Mock Interviews with representatives from professiona
- l schools for students interested in pursuing any Pre-Health path (MD\, DO
- \, Optometry\, PA\, PT\, etc.)\n- Keynote address from renowned OB/GYN\, D
- r. Gregory Moore.\n- Professional School Health Fair\n- Networking Lunch\n
- - Suture Labs\n- And more!\n\nRegister gtamsa.org/conference [1].\nGT AMSA
- 's Pre-Health Conference is one of the largest Pre-Health events on campus
- . Conference is an event unlike any other\, where a wealth of information 
- and resources are at your disposal to make the most out of your journey to
- wards professional school. We hope you consider attending this year's conf
- erence because this is an opportunity you do not want to miss! We look for
- ward to seeing you on March 9th!\n\nLinks:\n[0]  http://hg.gatech.edu/node
- /618000#0\n[1]  https://www.gtamsa.org/conference\n[2]  https://form.jotfo
- rm.com/82635937284165\n[3]  https://www.gtamsa.org\n[4]  https://www.gtams
- a.org/conference/
-LOCATION:Klaus Advanced Computing Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2019 GT WAN Women's Day Forum
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190309T133000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190309T210000Z
-UID:http://hg.gatech.edu/node/617044#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nJoin us for the A
- nnual Women's Day Forum!\n\nThis year the theme is around How Women Rise a
- nd we'll have keynote speakers\, interactive workshops\, and a panel aroun
- d these topics followed by a networking hour.\n\nBreakfast\, lunch\, happy
-  hour\, and parking are included with your ticket.\n\n- $20 for students (
- early bird rate through Feb. 8)\n- $30 recent graduates (early bird rate t
- hrough Feb. 8)\n- $40 general admission (early bird rate through Feb. 8)\n
- \nLearn more and purchase tickets [1]\n\nLinks:\n[0]  http://hg.gatech.edu
- /node/617044#0\n[1]  https://www.eventbrite.com/e/2019-gt-wan-womens-day-f
- orum-tickets-53399802246
-LOCATION:GTRI Conference Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2nd Annual Wikipedia Edit-A-Thon
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190309T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190309T190000Z
-UID:http://hg.gatech.edu/node/617499#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nA Wikipedia Edit-A-Thon is a large\, scheduled social event that gathers
-  individuals with varying levels of experience in Wikipedia together to ad
- d to\, improve\, copyedit and “Wikify” articles on a given topic. The 
- event gives newcomers insight and experience into how Wikipedia works and 
- (maybe even more importantly) improves one of the largest public-facing re
- ference resources on the Internet.\n\nThis event will empower students\, f
- aculty and staff to join the community of Wikipedia editors and add to one
-  of the world’s largest and most popular reference texts. Working side-b
- y-side with other editors with a variety of writing and editing expertise\
- , participants can get tips and advice on how to start\, write\, edit\, an
- d “Wikifiy” Wikipedia pages. Participants can use their diverse knowle
- dge\, research skills\, and digital editing abilities to contribute their 
- existing expertise or engage in new research during the event.\n\nParticip
- ants can share their research\, exercise their social responsibilities as 
- members of a prestigious technical institute\, and expand the influence of
-  diverse voices in STEM (while eating free bagels!)\n\nHelp edit\, expand\
- , and create Wikipedia pages for those underrepresented in STEM. Make Wiki
- pedia a more inclusive space\, while learning digital editing skills!\n\nN
- o experience needed!\n\nWhere: CULC 447 and adjoining rooms\n\nWhen: Satur
- day\, March 9th from 10-2\n\nBring a laptop and charger.\n\nBreakfast and 
- lunch provided!\n\nSponsored by: Curricular Innovation Committee\, Writing
-  and Communication Program\, Women's Resource Center\, The Naugle CommLab\
- , The School of Literature\, Media\, and Communicaton and Art + Feminism.\
- n\nFollow us @WCP_Innovation\n\nLinks:\n[0]  http://hg.gatech.edu/node/617
- 499#0\n[1]  http://hg.gatech.edu/node/617334#0
-LOCATION:Naugle Communication Center\, Clough Commons 447
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Super Smash Bros. Tournament Fundraiser
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190309T151500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190309T161500Z
-UID:http://hg.gatech.edu/node/618670#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nThe Society of Physics Students h
- ost an Open Tournament Fundraiser\n\nRegister 30 minutes before events sta
- rt to be guaranteed in.\n\nPizza and refreshments will be served!\n\nEvent
- s:\n- Singles*\n- Melee\n- Project M\n- Ultimate\n\n- Doubles\n- Melee\n- 
- Ultimate\n\n- Crew Battle**\n- Ultimate\n\nRegistration:\n- Venue fee: $5\
- n- Per event fee: $5\n- **Crew battles free\n\nPay with cash at the event 
- or venmo @Martino-Stino with subject “Smash”\n\n1st place trophies\n\n
- Cash prizes!\n\n1st place: $25\n\n2nd place: $15\n\n3rd place: $20\n\nLink
- s:\n[0]  http://hg.gatech.edu/node/618670#0
-LOCATION:Howey L1 and L2
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EHS Lunch & Learn covering Eye Protection
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190311T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190311T160000Z
@@ -31516,6 +31322,21 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
  node/623645#0\n[1]  https://www.scl.gatech.edu/sclirc/seminars/register\n[
  2]  http://www.manufacturing.gatech.edu/directions
 LOCATION:GTMI: 1st floor Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pancakes & Posters
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200312T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200312T160000Z
+UID:https://gatech.campuslabs.com/engage/event/5664937
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nInterested in presentin
+ g your research? Not sure how to create or present a poster?\n\nJoin the U
+ ndergraduate Research Ambassadors in learning how to make both pancakes an
+ d research posters! Come find out the Dos and Don'ts of poster-making and 
+ learn how to physically print your poster.\n\nPancakes & Posters will be h
+ eld on Thursday\, March 12th\, from 11am-12pm in Clough 205Q. Free pancake
+ s\, example posters\, & peer feedback will also be available!\n\nLinks:\n[
+ 0]  https://gatech.campuslabs.com/engage/event/5664937
+LOCATION:Clough 205Q
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Implicit Bias Workshop
