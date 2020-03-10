@@ -30957,6 +30957,18 @@ DESCRIPTION:Status: published\n\nThis will be a 90-minute interactive disc
 LOCATION:Student Center Peachtree Room
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GT ARCC General Meeting 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200309T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200309T230000Z
+UID:https://gatech.campuslabs.com/engage/event/5665119
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nMonday\, March 9th the 
+ GT Red Cross Club will be have a general meeting! Come out to hear about h
+ ow you can get involved with the exec board and learn about the Red Cross 
+ through a game of Kahoot. Treats will be provided!\n\nLocation: Kendeda 23
+ 0.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5665119
+LOCATION:Kendeda 230
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dinner with Dr. Michelle Rinehart
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200309T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200309T233000Z
@@ -31339,6 +31351,47 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nInterested in presentin
 LOCATION:Clough 205Q
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GVU Center Brown Bag: David Reitter "Modeling Language in its Visu
+ al Context"
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200312T153000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200312T170000Z
+UID:http://hg.gatech.edu/node/633417#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nExtras: Free food\nStatus: published\n\nAbstract
+ :\n\nWords are always spoken and understood in context. Linguists\, psycho
+ logists and computer scientists have recognized this when they defined wor
+ d meaning using their aggregate linguistic contexts across large samples. 
+ Early examples include Latent Semantic Indexing (Landauer & Dumais 1997)\,
+  while recently\, some computational models have become vastly successful 
+ in NLP\, such as Word2Vec (Mikolov et al\, 2013) or BERT (Devlin et al.\, 
+ 2018).\n\nHowever\, when young children learn to speak\, they refer to a m
+ uch richer context than language alone. Their parents expose them to a ric
+ h visual world\, and that is also a common context for adult language use.
+  In this talk\, I argue that modern models for commonsense reasoning and n
+ atural language processing should therefore learn from visual and linguist
+ ic data.\n\nI will present two examples of multimodal neural models that c
+ an bring together visual and linguistic context. One is a language model t
+ hat predicts next words better when trained on image embeddings in additio
+ n to their captions (Ororbia et al.\, ACL 2019). The other is a BERT-based
+  model that set a new state-of-the-art in visual commonsense reasoning\, c
+ hoosing answers to questions about movie stills and also giving a reason f
+ or these answers (Alberti et al.\, EMNLP 2019). It is pre-trained on a WWW
+  corpus of images and ALT tags (texts added for accessibility purposes) be
+ fore learning to answer questions about the movie screenshots.\n\nSpeaker 
+ Bio:\n\nDavid Reitter is a senior research scientist at Google Research\, 
+ New York City\, where he works on modeling conversational and multimodal i
+ nteraction using very large-scale data. Until recently\, he was an associa
+ te professor of information sciences at Penn State. There\, his research g
+ roup carried out NSF-funded research on computational models of human cogn
+ ition. David did his postdoc in psychology at Carnegie Mellon University a
+ nd holds a PhD in informatics from the University of Edinburgh (2008).\n\n
+ Schedule of Brown Bag Speakers Spring 2020 [1]\n\nLinks:\n[0]  http://hg.g
+ atech.edu/node/633417#0\n[1]  https://www.gvu.gatech.edu/events/upcoming\n
+ [2]  http://www.tsrb.gatech.edu/
+LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
+ a\, Ga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Implicit Bias Workshop
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200312T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200312T173000Z
@@ -31374,6 +31427,23 @@ DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nInstitu
  gatech.edu/implicit-bias-workshops\n[2]  https://global.hgncloud.com/ga_in
  stitute_tech/ts/home\n[3]  http://sarah.cockrell@gtri.gatech.edu/
 LOCATION:Student Center\, Peachtree Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pride Alliance General Meeting: HIV. Let's talk about that.
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200312T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200312T230000Z
+UID:https://gatech.campuslabs.com/engage/event/5666514
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us this Thursday t
+ o learn about the impact of HIV on women\, how we can work to reduce the s
+ tigma towards people living with HIV\, and advocating for prevention and t
+ reatment by sharing current best practices and available healthcare option
+ s.\n\nAs always\, there will be food and fun times for everyone! Feel free
+  to invite your friends!\n\n---\n\nY'all means all: this is an event for a
+ ll LGBTQIA+ folks and their allies. Please email pride@gatech.edu if we ca
+ n provide any accommodations to make this event more accessible or if you 
+ have any questions.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/e
+ vent/5666514
+LOCATION:Mason 3132
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:From GA Tech to Inception: Road from GT to creating an impact in A
@@ -32154,6 +32224,22 @@ DESCRIPTION:Intended audience: Graduate students\nExtras: Free food\nStatu
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Graduate Student Stipend Town Hall
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200331T203000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200331T220000Z
+UID:http://hg.gatech.edu/node/633396#0
+DESCRIPTION:Intended audience: Graduate students\nExtras: Free food\nStatu
+ s: published\n\nGraduate Student Stipend Town Hall\nJoin the College of Sc
+ iences Graduate Student Diversity Council (GSDC) and United Campus Workers
+  of Georgia (UCWGA) at Georgia Tech to discuss how you can advocate for st
+ ipend increases within your program. All graduate students from across cam
+ pus are invited. There will be a panel of representatives from Georgia Tec
+ h and other campuses who have successfully received stipend raises. Food w
+ ill be provided.\n\nLinks:\n[0]  http://hg.gatech.edu/node/633396#0\n[1]  
+ https://forms.gle/k4sj4b9nAnnN7NCH6
+LOCATION:Mason 3133
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Society of Women Engineers General Body Meeting
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200331T211500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200331T230000Z
@@ -32492,6 +32578,17 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome by the BCM for FRE
  ing from 10 PM - 2 AM and all are welcome to stop by!\n\nLinks:\n[0]  http
  s://gatech.campuslabs.com/engage/event/5441687
 LOCATION:Baptist Student Union
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GW 2020: Tech Beautification Day Participants
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200404T130000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200404T160000Z
+UID:https://gatech.campuslabs.com/engage/event/5665120
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nTech Beautification Day
+  participants who wish to earn points for their organization or alliance f
+ or Greek Week 2020 must check in to this event via a Buzzcard swipe.\n\nLi
+ nks:\n[0]  https://gatech.campuslabs.com/engage/event/5665120
+LOCATION:Campanile
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Annual Inclusive Leadership Conference
