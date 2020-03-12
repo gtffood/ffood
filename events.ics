@@ -2,248 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:EHS Lunch & Learn covering Eye Protection
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190311T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190311T160000Z
-UID:http://hg.gatech.edu/node/618765#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nExtras: Free food\, Freebies\nStatus: published
- \n\nEHS has partnered with vendors to provide talks on a variety of person
- al protective clothing topics. Join us as we hear from Grainger and Honeyw
- ell on the subject of eye protection. Lunch is provided\, and the winner o
- n the end-of-session quiz will receive a $25 gift card to Barnes & Noble!\
- n\nLinks:\n[0]  http://hg.gatech.edu/node/618765#0\n[1]  https://ebb.gatec
- h.edu/node/116/
-LOCATION:EBB CHOA seminar room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nutrition Focus Group - Students Wanted!
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190311T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190311T160000Z
-UID:http://hg.gatech.edu/node/618900#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nPlan the future of nutrition at Georgia Tech! V
- olunteers are needed for focus groups to discuss nutrition programming and
-  outreach on campus. Your opinions will help shape future planning so come
-  ready to discuss your opinions! Food will be provided for all attendees. 
- Registration is required.\n\nLinks:\n[0]  http://hg.gatech.edu/node/618900
- #0\n[1]  https://gatech.co1.qualtrics.com/jfe/form/SV_8Cc4xxdoJXVVWC1
-LOCATION:Stamps Health Services Classroom 230
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bloomberg Day in The Lobby
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190311T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190311T180000Z
-UID:http://hg.gatech.edu/node/618551#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nBloomberg will be recr
- uiting in the College of Computing Commons area from 11am-2pm so bring you
- r resume and spot by if you are interested in working with them!\n\nLinks:
- \n[0]  http://hg.gatech.edu/node/618551#0
-LOCATION:CCB Commons 11-2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Turner Tech Internship Meetup
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190311T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190311T180000Z
-UID:http://hg.gatech.edu/node/617925#0
-DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\,
-  Freebies\nStatus: published\n\nTech Internship Meetup\nLearn about Techno
- logy Careers @ Turner\n\nRSVP\nClick HERE [1]\n\n11am - Tech Leadership Pa
- nel\nDon Browning: VP\, Cloud Architecture\n\nRachel Drucker: Privacy Arch
- itect\, Information Security\n\nDanielle Scarborough: Program Manager\, St
- rategic Planning\n\n12pm - Lunch & Studios Tour\n\n1pm - Tech Career Panel
- \nA.D. Slaton: Principal Architect\, CNN.com\n\nShelly Pritzer: SR. Techni
- cal Manager\, CNN Digital\n\nAbdul Hagi: Sr. Systems/SFT Developer\, Conte
- nt Platforms\n\nBhargavi Trivedi: Software Application Developer\, TDC\n\n
- Links:\n[0]  http://hg.gatech.edu/node/617925#0\n[1]  https://docs.google.
- com/forms/d/e/1FAIpQLSc13i52_EGFoQLs6VsySXkbyppWbRsJAlAjzXFsqhFY0XBPzg/vie
- wform?usp=sf_link
-LOCATION:Techwood Campus: 1050 Techwood Drive NW\, Atlanta\, Ga 30318
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bloomberg BPuzzled Challenge
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190311T213000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190312T010000Z
-UID:http://hg.gatech.edu/node/618635#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nBloomberg Bpuzzled @ G
- eorgia Tech!\nBloomberg will be hosting a puzzle competition\, Bpuzzled\, 
- created by programmers at Bloomberg Engineering\, where teams of up to 4 a
- cross campus compete against each other to race to the finish. Each member
-  on the winning team will receive an Oculus Go!\nDate: Monday\, March 11th
- \nTime: Dinner@ 5:30pm\, Competition @ 6:00pm\nLocation: Klaus 1116EW\nPre
- p Link: puzl.ink/howto [1]\nTeam Sign-up: [2]\n\nCreate or join a team pri
- or to the event\, or at the event! Bring a\nlaptop if you have one!\n\nLin
- ks:\n[0]  http://hg.gatech.edu/node/618635#0\n[1]  http://puzl.ink/howto \
- n[2]  http://puzl.ink/gt
-LOCATION:Klaus 1116EW
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:No Memory of the Past\, No Memories for the Future
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190311T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190312T000000Z
-UID:http://hg.gatech.edu/node/618243#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nMike Lemonick\, C
- hief Opinion Editor at Scientific American and author visits ATLSciFest! J
- oin us to hear him share research from his latest book\, The Perpetual Now
- \, where he'll tell the tale of a victim of profound\, irreversible amnesi
- a and how she is helping neuroscientists deepen their understanding of how
-  and why we remember.\n\nFree parking is available on site. Dinner and dri
- nks will be available for purchase during the talk.\n\nPresented by Georgi
- a Tech\n\nMore information [1]\nThis event is part of the Atlanta Science 
- Festival\n\nLinks:\n[0]  http://hg.gatech.edu/node/618243#0\n[1]  https://
- atlantasciencefestival.org/events-2019/no-memory-of-the-past-no-memories-f
- or-the-future/
-LOCATION:Manuel's Tavern\, 602 North Highland Ave. NE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SCL March 2019 Supply Chain Day
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190312T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190312T180000Z
-UID:http://hg.gatech.edu/node/617075#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
- aduate students\nStatus: published\n\nGeorgia Tech Supply Chain students\,
-  please join us for our second Supply Chain Day of the spring semester! Th
- e 3-hour session will host supply chain representatives from Bridgestone\,
-  BMW\, Carters Oshkosh\, Chainalytics\, Convoy\, Ebco\, Intel Corp\, LLama
- soft\, Parker Hannifin Corporation\, Pilot Flying J\, TRC Staffing Service
- s\, Verusen\, Walmart eCommerce\, APICS Atlanta Chapter\, and APICS GT Stu
- dent Chapter who will be on campus to educate supply chain students about 
- their organizations and available employment and networking opportunities.
- \n\nWe strongly encourage students to act now to seek full-time employment
- \, internships\, and projects (rather than waiting until the end of the se
- mester). Plus\, enjoy a free pizza lunch!\n\nEVENT DETAILS\nWhere: ISyE Ma
- in Bldg [1]\, 2nd Floor Atrium\n\nWhen: Tuesday\, March 12 | 11am - 2pm\n\
- nWhat: The session will include:\n\n- Networking opportunities in the ISyE
-  atrium\n- Food and refreshments\n\nPlease plan on staying for the duratio
- n of the event and bring copies of your resume and business cards. Dress i
- s business casual.\n\nREGISTER ONLINE [2] by noon March 7th and upload you
- r resume to be forwarded to the organization representatives!\nEVENT SPONS
- OR\n\nThe event is sponsored through the generosity and support of JP Morg
- an Chase & Co. [3] and APICS - Atlanta Chapter [4]. APICS is a non-profit 
- educational organization addressing operations management and supply chain
-  management issues\, and providing professional development opportunities 
- to its members. APICS Membership is free for full time students. Join toda
- y at [5] and start networking at local APIC Atlanta events. Also make sure
-  to stop by the APICS table at the event.\n\nLinks:\n[0]  http://hg.gatech
- .edu/node/617075#0\n[1]  https://www.isye.gatech.edu/about/maps-directions
- /isye-building-complex\n[2]  https://www.scl.gatech.edu/supplychainday/stu
- dents\n[3]  https://www.jpmorganchase.com/\n[4]  http://www.apicsatlanta.o
- rg/\n[5]  http://www.apics.org/join\n[6]  http://bit.ly/isye-complex\n[7] 
-  https://www.scl.gatech.edu\n[8]  https://www.scl.gatech.edu/supplychainda
- y
-LOCATION:ISyE Main Bldg\, 2nd Floor Atrium and Executive Classroom 228
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED - Samsung Day on Campus
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190312T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190313T000000Z
-UID:http://hg.gatech.edu/node/615951#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nCANCELLED\n\nDay in th
- e Lobby\nBring your resume and come chat with recruiters from Samsung in t
- he College of Computing commons anytime between 11am and 4pm.\n\nCan't mak
- e it in the morning or really want to be considered for their team?\n\nTec
- h Talk\nJoin them in Klaus 1443\, from 6:30pm – 8pm!\n\nFree food will b
- e provided if you come early!\n\nLinks:\n[0]  http://hg.gatech.edu/node/61
- 5951#0
-LOCATION:11-4pm CCB commons & 6:30pm – 8pm Klaus 1443.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nano@Tech: Organic Semiconductors in the Fourth Industrial Revolut
- ion
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190312T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190312T170000Z
-UID:http://hg.gatech.edu/node/615688#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nBernard Kippelen\nSchool of Electrical and Computer Engineering at Georg
- ia Tech\nAbstract: In this talk\, we will discuss how printable organic co
- njugated semiconducting molecules and polymers are creating new disruptive
-  technologies that are impacting all industries. We will present recent ad
- vances in various solid-state device platforms including\, organic light-e
- mitting diodes (OLEDs)\, organic photodetectors (OPDs)\, organic photovolt
- aic devices (OPVs)\, and organic thin-film transistors (OTFTs). We will em
- phasize the importance of interfaces in devices and show examples on how t
- o engineer their electrical properties. We will present a simple processin
- g technique for the electrical doping of organic semiconductors over a lim
- ited depth near the surface of the film that is based on immersing the fil
- m into a polyoxometalate solution. Such approached can drastically reduce 
- the fabrication cost of such devices\, simplify device architecture\, and 
- lead to all-organic devices fabricated by all-additive printing techniques
- . As an illustration of the simplicity and versatility of this process we 
- will discuss how high-performance organic solar cells with simplified arch
- itecture can be implemented. Finally\, we will present the results of a de
- tailed operational lifetime study of OTFTs showing that organic photonics 
- and electronics can yield a stability level superior to that of amorphous 
- silicon.\n\nBio: Bernard Kippelen is the Joseph M. Pettit Professor of Ele
- ctrical and Computer Engineering at Georgia Tech. His research interests r
- ange from the investigation of fundamental physical processes (nonlinear o
- ptical activity\, charge transport\, light harvesting and emission) in org
- anic-based nanostructured thin films\, to the design\, fabrication and tes
- ting of light-weight flexible optoelectronic devices based on hybrid print
- able materials. He is a co-founder and co-President of the Institut Lafaye
- tte\, an innovation platform located on Georgia Tech’s European campus G
- eorgia Tech Lorraine (Metz\, France)\, and he serves as Director of the Ce
- nter for Organic Photonics and Electronics\n\nLinks:\n[0]  http://hg.gatec
- h.edu/node/615688#0\n[1]  http://ien.gatech.edu
-LOCATION:Marcus Nanotechnology Building 1117-1118 | 345 Ferst Drive | Atla
- nta GA | 30332
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MilliporeSigma Distinguished Lecture Series  Professor Cherie R. K
- agan
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190312T200000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190312T210000Z
-UID:http://hg.gatech.edu/node/618594#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nABSTRACT\n\nSemiconductor and plasmonic nanocrystals are known for their
-  size and shape dependent photo-luminescence and localized surface plasmon
-  resonances\, respectively. In this talk\, I will describe the use of semi
- conductor and plasmonic nanocrystals as building blocks of mesoscale mater
- ials for semiconductor electronics and optoelectronics and plasmonic optic
- al metamaterials. Chemical exchange of the long ligands used in nanocrysta
- l synthesis with more compact ligand chemistries brings neighboring nanocr
- ystals into proximity and increases interparticle coupling. In semiconduct
- or nanocrystal solids\, we show strong electronic coupling in combination 
- with doping allows us to control the carrier type and concentration to des
- ign high mobility n- and p-type materials. I will give examples where n- a
- nd p-type nanocrystal solids are used to construct field-effect transistor
- s and integrated circuits and solar photovoltaics. In metal nanocrystals\,
-  ligand-controlled coupling allows us to tailor a dielectric-to-metal phas
- e transition seen by a 1010 range in DC conductivity and a dielectric perm
- ittivity ranging from everywhere positive to everywhere negative across th
- e whole range of optical frequencies. We realize a "diluted metal" with op
- tical properties not found in the bulk metal analog\, presenting a new axi
- s in plasmonic materials design and the realization of optical properties 
- akin to next-generation metamaterials. We harness the properties of metal 
- nanocrystals by using nanoimprint lithography to print large-area metamate
- rials on glass and plastics with widely tailorable optical properties that
-  are used to realize near-infrared optical devices.\n\nABOUT THE SPEAKER\n
- \nCherie R. Kagan is the Stephen J. Angello Professor of Electrical and Sy
- stems Engineering\, Professor of Materials Science and Engineering\, and P
- rofessor of Chemistry at the University of Pennsylvania. Kagan is also an 
- Associate Editor of ACS Nano. She graduated from the University of Pennsyl
- vania in 1991 with a BSE in Materials Science and Engineering and a BA Mat
- hematics and earned her PhD in Materials Science and Engineering from the 
- Massachusetts Institute of Technology in 1996. In 1996\, she went to Bell 
- Labs as a postdoctoral fellow and in 1998\, she joined IBM’s T. J. Watso
- n Research Center\, where she most recently managed the “Molecular Assem
- blies and Devices Group.” In 2007\, she joined the faculty of the Univer
- sity of Pennsylvania. The Kagan group’s research is focused on studying 
- the chemical and physical properties of nanostructured materials and in in
- tegrating these materials in electronic\, optoelectronic\, and optical dev
- ices. The group combines the flexibility of chemistry and bottom-up assemb
- ly with top-down fabrication techniques to design novel materials and devi
- ces and explores the structure and function of these materials and their d
- evices.\n\nLinks:\n[0]  http://hg.gatech.edu/node/618594#0\n[1]  http://st
- ami.gatech.edu
-LOCATION:Marcus Nanotechnology Building\, Room 1116
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ivan Allen College of Liberal Arts 2019 Distinguished Alumni Award
  s
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190312T213000Z
@@ -324,33 +82,6 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  .gatech.edu/
 LOCATION:The Historic Academy of Medicine\, 875 West Peachtree Street\, NW
   Atlanta\, GA 30309
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Safe Spring Break Week - Trivia Night
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190312T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190313T000000Z
-UID:http://hg.gatech.edu/node/618244#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nJoin Health Initiatives for a night of trivia a
- nd pizza! Prizes will be awarded to all trivia winners.\n\nLinks:\n[0]  ht
- tp://hg.gatech.edu/node/618244#0
-LOCATION:West Village Ensemble Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Career Services Workshop: Evaluating your Offers
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190312T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190313T000000Z
-UID:http://hg.gatech.edu/node/614496#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nBoi Bye: Declining Offers and Muc
- h More\n\nSometimes it feels as if campus recruiting is kind of like datin
- g\, which can be a very stressful process. How do you politely say "Thank 
- you\, next" or "I will accept this rose." Come learn how to evaluate which
-  job offer is right for you and how you should approach declining offers. 
- In addition\, you can hear the best strategies to use when handling offer 
- deadlines and negotiating terms.\n\nLinks:\n[0]  http://hg.gatech.edu/node
- /614496#0
-LOCATION:Klaus 1116W
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Night of Diversity
@@ -31336,6 +31067,16 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
 LOCATION:GTMI: 1st floor Auditorium
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Enercon Info Session
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200312T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200312T154500Z
+UID:https://gatech.campuslabs.com/engage/event/5668214
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome join us for free l
+ unch from Willy's and an info session with Enercon!\n\nLinks:\n[0]  https:
+ //gatech.campuslabs.com/engage/event/5668214
+LOCATION:Van Leer C340
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pancakes & Posters
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200312T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200312T160000Z
@@ -31392,6 +31133,48 @@ LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
  a\, Ga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2020-2021 Parking Permit Renewals and Sales Brown Bag
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200312T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200312T170000Z
+UID:http://hg.gatech.edu/node/633491#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nBring your lunch to one of PTS’s Brown Bag Se
+ ssions to learn more about this year’s permit registration season and pa
+ rking updates. Participants in each session will be entered in drawings fo
+ r $100 discount on next year’s permit! Click here for rules. [1]\n\n- Th
+ urs.\, March 12\, 12:00 p.m.\, West Village Dining Commons-Ensemble Room\n
+ - Wed.\, March 18\, 12:00 p.m.\, Technology Square Research Building (TSRB
+ )-Banquet Hall\n- Fri.\, March 27\, 12:00 p.m.\, Student Center-Room 321\n
+ - Tues.\, March 31\, 12:00 p.m.\, Student Center-Room 321\n\nEmail Torise 
+ Young at torise.young@gatech.edu [2] to schedule a private info session fo
+ r your department or organization.\n\nClick here for more information abou
+ t 2020-2021 parking permit renewals and sales. [3]\n\nLinks:\n[0]  http://
+ hg.gatech.edu/node/633491#0\n[1]  http://pts.gatech.edu/rules-100-permit-d
+ iscount-winners\n[2]  torise.young@gatech.edu\n[3]  http://pts.gatech.edu/
+ news/2020-2021-parking-permit-renewals-and-sales
+LOCATION:West Village Dining Commons-Ensemble Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clone of 2020-2021 Parking Permit Renewals and Sales Brown Bag
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200312T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200312T170000Z
+UID:http://hg.gatech.edu/node/633497#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: archived\n\nBring your lunch to one of PTS’s Brown Bag Ses
+ sions to learn more about this year’s permit registration season and par
+ king updates. Participants in each session will be entered in drawings for
+  $100 discount on next year’s permit! Click here for rules. [1]\n\n- Thu
+ rs.\, March 12\, 12:00 p.m.\, West Village Dining Commons-Ensemble Room\n-
+  Wed.\, March 18\, 12:00 p.m.\, Technology Square Research Building (TSRB)
+ -Banquet Hall\n- Fri.\, March 27\, 12:00 p.m.\, Student Center-Room 321\n-
+  Tues.\, March 31\, 12:00 p.m.\, Student Center-Room 321\n\nEmail Torise Y
+ oung at torise.young@gatech.edu [2] to schedule a private info session for
+  your department or organization.\n\nLinks:\n[0]  http://hg.gatech.edu/nod
+ e/633497#0\n[1]  http://pts.gatech.edu/rules-100-permit-discount-winners\n
+ [2]  torise.young@gatech.edu
+LOCATION:West Village Dining Commons-Ensemble Room
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Implicit Bias Workshop
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200312T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200312T173000Z
@@ -31429,6 +31212,16 @@ DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nInstitu
 LOCATION:Student Center\, Peachtree Room
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pi Day Celebration
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200312T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200312T230000Z
+UID:https://gatech.campuslabs.com/engage/event/5668213
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nEnjoy our annual Pi Day
+  celebration complete with lots of free pie!\n\nLinks:\n[0]  https://gatec
+ h.campuslabs.com/engage/event/5668213
+LOCATION:Petit 102 A&B
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pride Alliance General Meeting: HIV. Let's talk about that.
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200312T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200312T230000Z
@@ -31463,6 +31256,21 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  novation\n[2]  https://innovation.cae.gatech.edu\n[3]  https://inventurepr
  ize.gatech.edu
 LOCATION:Clough 205Q (same floor as Starbucks\, near the elevators)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCPC Presents: Harry Potter Magicthon
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200312T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200313T010000Z
+UID:https://gatech.campuslabs.com/engage/event/5670513
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on March 12th a
+ t the Student Center Theater for the continuation of Harry Potter Magictho
+ n for a FREE showing of Harry Potter and the Chamber of Secrets. Wear your
+  house colors and costumes! Butterbeer and games will be provided starting
+  at 6pm\, and the movie will begin at 7!\n\nPlease contact movies@scpc.gat
+ ech.edu if we can provide any accommodations to make this event more acces
+ sible or if you have any questions.\n\nLinks:\n[0]  https://gatech.campusl
+ abs.com/engage/event/5670513
+LOCATION:Student Center Theater
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:IEN Technical Seminar: Electron Beam Lithography
@@ -31520,7 +31328,8 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  TEM majors and programs of study\; and interesting panel conversations wit
  h Latino college students\, parents\, professors\, and other professionals
  .\n\nLinks:\n[0]  http://hg.gatech.edu/node/632389#0\n[1]  http://hg.gatec
- h.edu/node/632390#0\n[2]  https://gostem.gatech.edu/en/lcsf
+ h.edu/node/632390#0\n[2]  http://hg.gatech.edu/node/633487#0\n[3]  https:/
+ /gostem.gatech.edu/en/lcsf
 LOCATION:Georgia Tech Student Center 350 Ferst Drive Atlanta\, GA 30332
 END:VEVENT
 BEGIN:VEVENT
@@ -31680,6 +31489,29 @@ DESCRIPTION:Intended audience: Graduate students\nExtras: Free food\nStatu
   [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/633306#0\n[1]  https://cetl
  .gatech.edu/content/small-talk-101-workshop-international-tas-march-18
 LOCATION:Clough Commons Room 262
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2020-2021 Parking Permit Renewals and Sales Brown Bag
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200318T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200318T170000Z
+UID:http://hg.gatech.edu/node/633498#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nBring your lunch to one of PTS’s Brown Bag Se
+ ssions to learn more about this year’s permit registration season and pa
+ rking updates. Participants in each session will be entered in drawings fo
+ r $100 discount on next year’s permit! Click here for rules. [2]\n\n- Th
+ urs.\, March 12\, 12:00 p.m.\, West Village Dining Commons-Ensemble Room\n
+ - Wed.\, March 18\, 12:00 p.m.\, Technology Square Research Building (TSRB
+ )-Banquet Hall\n- Fri.\, March 27\, 12:00 p.m.\, Student Center-Room 321\n
+ - Tues.\, March 31\, 12:00 p.m.\, Student Center-Room 321\n\nEmail Torise 
+ Young at torise.young@gatech.edu [3] to schedule a private info session fo
+ r your department or organization.\n\nClick here for more information abou
+ t 2020-2021 parking permit renewals and sales. [4]\n\nLinks:\n[0]  http://
+ hg.gatech.edu/node/633498#0\n[1]  http://hg.gatech.edu/node/633494#0\n[2] 
+  http://pts.gatech.edu/rules-100-permit-discount-winners\n[3]  torise.youn
+ g@gatech.edu\n[4]  http://pts.gatech.edu/news/2020-2021-parking-permit-ren
+ ewals-and-sales
+LOCATION:Technology Square Research Building (TSRB)-Banquet Hall
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spring 2020 IEN Micro-Fabrication Short Course
@@ -32053,6 +31885,16 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Petit Biotechnology Building\, Room 1128 - Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sting Break 2020: Once Upon a Sting Break
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200326T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200327T020000Z
+UID:http://hg.gatech.edu/node/633462#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
+ aduate students\nExtras: Free food\, Freebies\nStatus: published\n\nLinks:
+ \n[0]  http://hg.gatech.edu/node/633462#0
+LOCATION:Tech Green & Area 2 Parking Lot
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Faculty Fellows - Dr. Matt McDowell
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200327T140000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200327T150000Z
@@ -32094,6 +31936,28 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  QiA\, and NOMAS\n\nLinks:\n[0]  http://hg.gatech.edu/node/632133#0\n[1]  h
  ttps://arch.gatech.edu/2020-graduate-open-house
 LOCATION:Georgia Tech School of Architecture
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2020-2021 Parking Permit Renewals and Sales Brown Bag
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200327T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200327T170000Z
+UID:http://hg.gatech.edu/node/633499#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nBring your lunch to one of PTS’s Brown Bag Se
+ ssions to learn more about this year’s permit registration season and pa
+ rking updates. Participants in each session will be entered in drawings fo
+ r $100 discount on next year’s permit! Click here for rules. [1]\n\n- Th
+ urs.\, March 12\, 12:00 p.m.\, West Village Dining Commons-Ensemble Room\n
+ - Wed.\, March 18\, 12:00 p.m.\, Technology Square Research Building (TSRB
+ )-Banquet Hall\n- Fri.\, March 27\, 12:00 p.m.\, Student Center-Room 321\n
+ - Tues.\, March 31\, 12:00 p.m.\, Student Center-Room 321\n\nEmail Torise 
+ Young at torise.young@gatech.edu [2] to schedule a private info session fo
+ r your department or organization.\n\nClick here for more information abou
+ t 2020-2021 parking permit renewals and sales. [3]\n\nLinks:\n[0]  http://
+ hg.gatech.edu/node/633499#0\n[1]  http://pts.gatech.edu/rules-100-permit-d
+ iscount-winners\n[2]  torise.young@gatech.edu\n[3]  http://pts.gatech.edu/
+ news/2020-2021-parking-permit-renewals-and-sales
+LOCATION:Student Center-Room 321
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shabbat 360
@@ -32222,6 +32086,28 @@ UID:http://hg.gatech.edu/node/632106#0
 DESCRIPTION:Intended audience: Graduate students\nExtras: Free food\nStatu
  s: published\n\nLinks:\n[0]  http://hg.gatech.edu/node/632106#0
 LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2020-2021 Parking Permit Renewals and Sales Brown Bag
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200331T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200331T170000Z
+UID:http://hg.gatech.edu/node/633501#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nBring your lunch to one of PTS’s Brown Bag Se
+ ssions to learn more about this year’s permit registration season and pa
+ rking updates. Participants in each session will be entered in drawings fo
+ r $100 discount on next year’s permit! Click here for rules. [1]\n\n- Th
+ urs.\, March 12\, 12:00 p.m.\, West Village Dining Commons-Ensemble Room\n
+ - Wed.\, March 18\, 12:00 p.m.\, Technology Square Research Building (TSRB
+ )-Banquet Hall\n- Fri.\, March 27\, 12:00 p.m.\, Student Center-Room 321\n
+ - Tues.\, March 31\, 12:00 p.m.\, Student Center-Room 321\n\nEmail Torise 
+ Young at torise.young@gatech.edu [2] to schedule a private info session fo
+ r your department or organization.\n\nClick here for more information abou
+ t 2020-2021 parking permit renewals and sales. [3]\n\nLinks:\n[0]  http://
+ hg.gatech.edu/node/633501#0\n[1]  http://pts.gatech.edu/rules-100-permit-d
+ iscount-winners\n[2]  torise.young@gatech.edu\n[3]  http://pts.gatech.edu/
+ news/2020-2021-parking-permit-renewals-and-sales
+LOCATION:Student Center-Room 321
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Graduate Student Stipend Town Hall
@@ -32550,6 +32436,22 @@ DESCRIPTION:Intended audience: Graduate students\nExtras: Free food\, Free
 LOCATION:Tech Green
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Grand Challenges Hawks Night! 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200403T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200404T020000Z
+UID:https://gatech.campuslabs.com/engage/event/5669806
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for the Grand C
+ hallenges LLC College Night NBA game on Friday\, April 3rd for the Hawks v
+ s Heat game starting at 7:30pm. We will have a bus that will be outside of
+  Cloudman Residence Hall from 6:15pm-6:30pm\, so please arrive on time. Ea
+ ch ticket has a free $10 voucher! I have 31 tickets available for Grand Ch
+ allenges students. The bus will be picking you back up after the game and 
+ returning you to Cloudman.\n\nYou will be getting an e-ticket - mobile ent
+ ry only! Your $10 food voucher is linked with your e-ticke t.\n\nLinks:\n[
+ 0]  https://gatech.campuslabs.com/engage/event/5669806
+LOCATION:State Farm Arena
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:DramaTech presents A New Brain
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200404T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200404T030000Z
@@ -32767,6 +32669,55 @@ DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\nStatus: p
 LOCATION:Room 301\, Student Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2020 WST Distinguished Lecture: Professor Abigail Stewart\, "Creat
+ ing an Inclusive Culture: Recruiting and Retaining the Faculty We Need"
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200409T200000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200409T220000Z
+UID:http://hg.gatech.edu/node/633364#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nRSVP: If you'd like to attend this free event\, please email: mary.fox@g
+ atech.edu\n\nPlease join the College of Sciences and the Center for the St
+ udy of Women\, Science\, and Technology for the 2020 WST Distinguished Lec
+ ture with Professor Abigail Stewart\, who will speak on "Creating an Inclu
+ sive Culture: Recruiting and Retaining the Faculty We Need."\n\nEveryone i
+ s welcome to attend and enjoy a reception following the lecture!\n\nAbout 
+ Abigail J. Stewart\nDr. Abigail J. Stewart is the Sandra Schwartz Tangri D
+ istinguished University Professor of Psychology and Women's Studies at the
+  University of Michigan. She served as director of the University of Michi
+ gan ADVANCE Program\, 2001-2016\, before which she held a number of other 
+ administrative positions. She holds degrees from Wesleyan University\, Lon
+ don School of Economics\, and Harvard University. Her current research foc
+ uses on academic and life experiences related to race\, class and gender\,
+  and on political attitudes and activision.\n\nDr. Stewart's recent book\,
+  with Virginia Valian\, is called An Inclusive Academy: Achieving Diversit
+ y and Excellence (MIT Press\, 2018):\n\nHow colleges and universities can 
+ live up to their ideals of diversity\, and why inclusivity and excellence 
+ go hand in hand.\n\nMost colleges and universities embrace the ideals of d
+ iversity and inclusion\, but many fall short\, especially in the hiring\, 
+ retention\, and advancement of faculty who would more fully represent our 
+ diverse world—in particular women and people of color. In this book\, Ab
+ igail Stewart and Virginia Valian argue that diversity and excellence go h
+ and in hand and provide guidance for achieving both.\n\nStewart and Valian
+ \, themselves senior academics\, support their argument with comprehensive
+  data from a range of disciplines. They show why merit is often overlooked
+ \; they offer statistics and examples of individual experiences of exclusi
+ on\, such as being left out of crucial meetings\; and they outline institu
+ tional practices that keep exclusion invisible\, including reliance on pro
+ xies for excellence\, such as prestige\, that disadvantage outstanding can
+ didates who are not members of the white male majority.\n\nPerhaps most im
+ portant\, Stewart and Valian provide practical advice for overcoming obsta
+ cles to inclusion. This advice is based on their experiences at their own 
+ universities\, their consultations with faculty and administrators at many
+  other institutions\, and data on institutional change. Stewart and Valian
+  offer recommendations for changing structures and practices so that peopl
+ e become successful in ways that benefit everyone. They describe better wa
+ ys of searching for job candidates\; evaluating candidates for hiring\, te
+ nure\, and promotion\; helping faculty succeed\; and broadening rewards an
+ d recognition.\n\nLinks:\n[0]  http://hg.gatech.edu/node/633364#0
+LOCATION:Gordy Dining Room\, Wardlaw Center\, Georgia Tech\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:2020 WST Distinguished Lecture: Professor Abigail Stuart\, "Creati
  ng an Inclusive Culture: Recruiting and Retaining the Faculty We Need"
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200409T200000Z
@@ -32968,6 +32919,38 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  ve real-world problems.\n\nLinks:\n[0]  http://hg.gatech.edu/node/631480#0
  \n[1]  http://petitinstitute.gatech.edu/
 LOCATION:Petit Biotechnology Building\, Atrium - Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pediatric Tech Talk Webinar
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200415T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200415T163000Z
+UID:http://hg.gatech.edu/node/633434#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nOverheating light
+ ing instruments coupled with human error are a leading cause of intraopera
+ tive fires and patient burns. The healthcare system refers to these as “
+ never events” so they should never happen\, right? But\, data suggests t
+ hat they occur more than twice a day. This was a red flag for Jackson Medi
+ cal Co-founders James Rains and Kamil Makhnejia.\n\nAt the Georgia Institu
+ te of Technology\, Rains and Makhnejia began conceptualizing GloShield™ 
+ to address this safety issue. They then brought on to the team Dr. Spencer
+  Kozin\, a local Atlanta urologist\, who not only resonated with the safet
+ y issue being addressed\, but also provided clinical expertise to the team
+ .\n\nTogether\, the future Jackson Medical team knew they had a great base
+  concept but to successfully commercialize the idea\, they would need an a
+ dditional outside design and development perspective. “We knew that we h
+ ad an innovative concept and that there is nothing like GloShield currentl
+ y on the market\, but needed to ensure that we were taking the correct ste
+ ps that would help us reach commercialization in a timely and cost-efficie
+ nt manner\,” Rains said.\n\nProfessor Rains\, Dr. Kozin\, Mr. Makhnejia 
+ will discuss the questions researchers and innovators must answer and what
+  they should anticipate from a funding and development timeline standpoint
+  at the earliest stages of the pathway in their medical product concept’
+ s journey toward commercialization.\n\nLunch will be provided free of char
+ ge for those who attend in person.\n\nLinks:\n[0]  http://hg.gatech.edu/no
+ de/633434#0\n[1]  https://attendee.gotowebinar.com/register/24636574179707
+ 30252
+LOCATION:Seminar Room\, Engineered Biosystems Building
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SCL IRC Seminar: Interpreting GPS Generated By Logistics Operation
