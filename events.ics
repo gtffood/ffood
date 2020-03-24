@@ -2,28 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:C.L. Chandler Weather Chat
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190322T151500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190322T160000Z
-UID:http://hg.gatech.edu/node/616574#9
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nStatus: published\n\nEAS will be hosting our wee
- kly C. L. Chandler Weather Chat series again this Spring 2019 semester. Th
- is event is dedicated to Chandler\, who was a meteorologist for Delta Airl
- ines during the mid- to late 20th century and helped to develop one of the
-  most successful meteorological organizations within the airline industry.
- \n\nEvery week from 11:15 a.m. - noon in L1116 of Ford ES&T\, we will have
-  informal discussions about the most exciting weather events impacting Atl
- anta\, the U.S. and beyond that day as well as investigating forecast data
-  to learn more about upcoming significant weather events. Topics range fro
- m discussing major winter storms to severe weather outbreaks\, tropical cy
- clones\, lake-effect storms\, and even small-scale events like dense fog a
- nd mountain weather events.\n\nAll are welcome to attend\, including non-E
- AS majors and the general public. Feel free to bring your lunch as well as
-  a friend or two!\n\nLinks:\n[0]  http://hg.gatech.edu/node/616574#9
-LOCATION:Room L1116\, Ford ES&T Building
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nuclear Security Enterprise Day
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190325T133000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190325T180000Z
