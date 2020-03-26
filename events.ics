@@ -2,280 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Nuclear Security Enterprise Day
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190325T133000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190325T180000Z
-UID:http://hg.gatech.edu/node/619298#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nRepresentatives from 10 National Laboratories will be at the Student Cen
- ter on Monday\, March 25. Each organization will have a recruiting booth a
- nd will present a short talk on their opportunities. They are looking for 
- candidates for full-time\, internship\, and fellowship positions at all le
- vels.\n\nThe schedule of flash talks is listed below. Students (both under
- graduate and graduate) and postdoctoral scholars may drop by at any time\,
-  and snacks will be provided.\n\nFlash Talks (in the Peachtree Room)\n\n- 
- 9:30am Nuclear Security Enterprise Overview - Frank Lowery (Associate Admi
- nistrator for Management and Budget)\n- 9:50am Lawrence Livermore National
-  Labs - Tony Baylis (Director of the Office Strategic Diversity and Inclus
- ion)\n- 10:10am Los Alamos National Labs - Jon Ventura (Office of Nuclear 
- and Military Affairs)\n- 10:30am Sandia National Labs - Andre Claudet (R&D
-  Science Engineer Manager and GATech Alum)\n- 10:45am Nevada National Secu
- rity Site - John Contardi (Director of Nuclear Assurance at Mission Suppor
- t and Test Services)\n- 11:05am Kansas City National Security Campus - Eri
- k Timpson (Technology Leader)\n- 11:25am Consolidated Nuclear Security (Pa
- ntex/Y12) - Kristan McCoid Wessels (Criticality Safety Manager and Alum)\n
- - 11:45am National Nuclear Security Administration - Frank Lowery (Associa
- te Administrator for Management and Budget)\n\nRecruiting booths (and snac
- ks) will be set up in the Piedmont Room from 9 a.m. to 2 p.m.\n\nLinks:\n[
- 0]  http://hg.gatech.edu/node/619298#0
-LOCATION:Peachtree and Piedmont Rooms\, Student Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aging and Memory: Attentional Resources and Cognitive Control
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190325T190000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190325T203000Z
-UID:http://hg.gatech.edu/node/618520#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nExtras: Free food\nStatus: published\n\nSchool 
- of Psychology\n\nOptimal Aging Series\n\nDr. Fergus I.M. Craik\nRotman Res
- earch Institute\nProfessor Emeritus\nUniversity of Toronto\n\nThis talk wi
- ll examine the proposition that age-related memory problems are largely at
- tributable to declines in attentional resources and executive control. It 
- will illustrate the arguments with experimental results from Fergus Craik'
- s lab.\n\nThe questions discussed will include the notions\n\n- that divis
- ion of attention in young adults mimics the effects of aging on memory\,\n
- - that such effects are largely at encoding\, and\n- that divided attentio
- n has surprisingly little effect on retrieval despite the fact that retrie
- val processes are resource-demanding\, especially in older adults.\n\nOthe
- r topics will consider\n\n- age differences in working memory and how such
-  differences may vary with task demands and\n- age-related problems with s
- elf-initiation and with retrieval of highly specific information\n- to wha
- t extent retrieval difficulties in older adults are reflective of problems
-  of executive control\n- how do reductions in encoding efficiency affect l
- ater implicit and explicit retrieval\, and\n- are ‘attentional resources
- ’ and ‘cognitive control’ simply two labels for the same concept?\n\
- nReception to follow\n\nLinks:\n[0]  http://hg.gatech.edu/node/618520#0\n[
- 1]  http://psychology.gatech.edu
-LOCATION:Room 250\, J.S. Coon Building\, 654 Cherry Street\, Atlanta Georg
- ia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ADP Tech Talk: Quatlity Automation\, Data Science and Agile Teams
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190325T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190326T000000Z
-UID:http://hg.gatech.edu/node/618822#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nADP Tech Talk\n\nJoin 
- engineers and recruiters from ADP to learn about Quality Automation and th
- eir challenges\, Data Science applied to client implementation\, and Softw
- are Engineering practices in Agile Teams.\n\nRSVP\nClick HERE [1].\n\nWho 
- We Are\nAt ADP\, what we do is about people. Although we have a strong his
- tory of providing solutions for human resource challenges\, we strive to d
- o more than that. We challenge ourselves to anticipate\, think forward and
-  take action in a way that empowers us to shape the changing world of work
- .\n\nFor nearly 70 years\, we’ve led the way in defining the future of b
- usiness solutions. ADP is proud to be named to FORTUNE Magazine’s “ Wo
- rld’s Most Admired Companies®” list for 12 consecutive years*.\n\nWe 
- are a comprehensive global provider of cloud-based human capital managemen
- t (HCM) solutions that unite HR\, payroll\, talent\, time\, tax and benefi
- ts administration\, and a leader in business outsourcing services\, analyt
- ics and compliance expertise. Our unmatched experience\, deep insights and
-  cutting-edge technology have transformed human resources from a back-offi
- ce administrative function to a strategic business advantage.\n\nChange = 
- Impact\nWe make the world’s busiest professionals more productive and ha
- ppier at work. That’s our sole purpose at ADP. Because everything we do 
- is about people. Starting with our own.\n\nWhy ADP?\nBecause this is the p
- lace. The place where you come to challenge yourself\, take risks and have
-  fun. Where you grow your future and feel really good about it. #workhappy
- \n\nOne-of-a-Kind Culture\nWe’re changing the world of work\, where stay
- ing a step ahead means creating a collaborative and agile environment with
- in a company known for its stability\, ethics\, and integrity. Our down-to
- -earth culture welcomes diverse perspectives and creates a place where car
- eers can flourish. We are on a transformative journey to advance human pot
- ential in powerful way\, and the strength of our team comes from what each
-  of us has to offer. What can you bring to ADP?\n\nLinks:\n[0]  http://hg.
- gatech.edu/node/618822#0\n[1]  https://docs.google.com/forms/d/e/1FAIpQLSe
- AJprol-mw5zAnDedYlkobU97j3Nz6VBMVMGeicXBeY2qIpg/viewform?usp=sf_link\n[2] 
-  https://jobs.adp.com/job-search-results/?language=en~English&location=USA
- &country=US&radius=200
-LOCATION:College of Computing Building Room 16
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nutanix Day in the Lobby
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190326T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190326T200000Z
-UID:http://hg.gatech.edu/node/618833#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nDay in the Lobby\nWe a
- re looking for the next group of innovative and passionate students to joi
- n our family. Interested in learning more Stop by the College of Computing
-  Commons on March 26th to connect with our team.\n\nTime: 11am-4pm\n\nWhat
-  We Do\nNutanix enables IT teams to build and operate powerful multi-cloud
-  architectures. Our Enterprise Cloud OS software melds private\, public an
- d distributed cloud operating environments and provides a single point of 
- control to manage IT infrastructure and applications at any scale.\n\nCome
-  Work With Us\nNutanix is the fastest growing infrastructure and enterpris
- e cloud company of the decade and we aren't slowing down!\n\nLinks:\n[0]  
- http://hg.gatech.edu/node/618833#0
-LOCATION:11-4pm CCB commons
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eddie Stewart | School of Building Construction Lunch Lecture
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190326T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190326T170000Z
-UID:http://hg.gatech.edu/node/615912#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: archived\n\
- nLecture Topic | Focused on the Future\n\nAs Associated General Contractor
- s of America (AGC) recently celebrated its Centennial year\, we took this 
- milestone as an opportunity to not only look back at the achievements of o
- ur association and its members over the last 100 years\, but also an oppor
- tunity to evaluate what we will need to do to be relevant to our members f
- or the next century.\n\nOur industry is undergoing quite a bit of disrupti
- on\, due in large part to exponential changes in technology and innovation
- . We are simultaneously being challenged by a severe shortage of qualified
-  labor\, both in the trades and in our supervisory ranks.\n\nWe must embra
- ce the technological advances and innovation as a means to continue to put
-  work in place with the reduced workforce. Our colleges and universities w
- ill need to adapt to these changes as well and will need to be closely ali
- gned with the needs of our industry to provide graduates with the tools th
- ey need to be successful.\n\nAbout Eddie Stewart\n\nMr. Stewart is current
- ly in his 40th year of a rich and varied construction career. He earned a 
- B.S. Degree in Building Construction from the Georgia Institute of Technol
- ogy and later completed the Executive Program at the Darden School of Busi
- ness\, University of Virginia. His diverse domestic and international proj
- ect background includes U.S embassies\, correctional facilities\, courthou
- ses\, barracks\, airports\, power plants\, research and development comple
- xes\, hospitals\, and other commercial and industrial initiatives.\n\nA me
- mber of the original 1983 founding team at Caddell\, Mr. Stewart has held 
- various positions of increasing responsibility\, including Vice President 
- of Estimating and Purchasing\, Executive Vice President\, President & Chie
- f Operating Officer\, and his current role as President & Chief Executive 
- Officer.\n\nMr. Stewart is very active in the Associated General Contracto
- rs of America\, at both the state and national levels. He is past presiden
- t of the Alabama AGC and serves on the State Board of Directors. On the na
- tional level\, Mr. Stewart is active on numerous committees and task force
- s and has served as Chairman of the NAVFAC Committee\, Chairman of the Fed
- eral & Heavy Division\, and three terms on the National Executive Board. H
- e is currently the National AGC Vice President and will be invested as the
-  National AGC President in February 2018.\n\nA native of Atlanta\, Georgia
- \, and longtime resident of Montgomery\, Alabama\, Eddie and his wife Robi
- n of 42 years have raised five children and are enjoying their eleven gran
- dchildren.\n\nB.E. Stewart | President & CEO\nCaddell Construction Co. (DE
- )\, LLC\n\nPresident\, Associated General Contractors of America (AGC)\n20
- 18 Inductee\, National Academy of Construction\nAlumnus\, BC ‘78\n\nEven
- t Location\nCaddell Building | School of Building Construction\nCollege of
-  Design | Georgia Institute of Technology\n280 Ferst Drive\, Atlanta\, GA 
- 30332-0680\nLocation Info: https://bc.gatech.edu/visit-us [1]\n\nLinks:\n[
- 0]  http://hg.gatech.edu/node/615912#0\n[1]  https://bc.gatech.edu/visit-u
- s?fbclid=IwAR3EobxKyyrKA9-PVeYakiRJiXT2dK9A8i3wfm6aUaDeHecVSoO8v2NnqHY
-LOCATION:Flex Space\, Caddell Building\, 280 Ferst Drive\, Atlanta\, GA 30
- 332-0680
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nano@Tech: Dimensional Control of Light-Matter Interaction in Pero
- vskite Chalcogenides
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190326T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190326T170000Z
-UID:http://hg.gatech.edu/node/615692#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nJayakanth Ravichandran\nUniv. Southern California - Chemical Engineering
-  and Materials Science\nAbstract: Perovskite Chalcogenides are a new class
-  of semiconductors which have tunable band gap in the visible to infrared 
- part of the electromagnetic spectrum. Besides this band gap tunability\, t
- hey offer a unique opportunity to realize large density of states semicond
- uctors with high carrier mobility. In this talk\, I will discuss some of t
- he experimental advances made both in my research group and in the researc
- h community on the theory\, synthesis of these materials and understanding
-  their optoelectronic properties. Perovskite chalcogenides have a large st
- ructural and chemical phase\, which allows us finer knobs to tailor light-
- matter interaction precisely over a broad energy range spanning the visibl
- e to infrared spectrum. I will show that controlling dimensionality of the
- se materials has profound influence on the light-matter interaction\, whic
- h results in novel properties such as highly anisotropic absorption and re
- fraction\, unconventional band gap evolution. Finally\, I will provide a g
- eneral outlook for future studies on these exciting new class of materials
- \n\nBio: Jayakanth Ravichandran is an Assistant Professor in the Mork Fami
- ly Department of Chemical Engineering and Materials Science with courtesy 
- appointment in Ming Hsieh Department of Electrical and Computer Engineerin
- g at the University of Southern California. He received his Ph.D. degree f
- rom University of California\, Berkeley in 2011. He performed post-doctora
- l research at Columbia University and briefly at Harvard University\, befo
- re beginning this current position. His research interests are in material
- s design\, synthesis\, characterization\, and physical properties of compl
- ex materials for electronic\, photonic\, and energy applications. He was n
- amed an Early Career Scholar by the Journal of Materials Research in 2017 
- and was a Link Energy Fellow.\n\nLinks:\n[0]  http://hg.gatech.edu/node/61
- 5692#0\n[1]  http://ien.gatech.edu
-LOCATION:Marcus Nanotechnology Building 1117-1118 | 345 Ferst Drive | Atla
- nta GA | 30332
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SMI Distinguished Lecture Series  Professor Sarah L. Keller
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190326T200000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190326T210000Z
-UID:http://hg.gatech.edu/node/618599#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: draft\n\nLi
- nks:\n[0]  http://hg.gatech.edu/node/618599#0\n[1]  http://stami.gatech.ed
- u
-LOCATION:Marcus Nanotechnology Building\, Room 1116
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:STAMI Distinguished Lecture Series Professor Timothy M. Swager
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190326T200000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190326T210000Z
-UID:http://hg.gatech.edu/node/618087#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Postdoc\, Public\nExtras: F
- ree food\nStatus: published\n\nABSTRACT\n\nThis lecture will focus on the 
- design of systems wherein reconfiguration of complex liquid emulsions (dro
- plets) can be triggered chemically or biochemically. The utility of these 
- methods is to generate new transduction mechanisms by which chemical and b
- iological sensors can be developed. Complex liquid droplets behave as opti
- cal lens systems and small changes in surface tensions can change focal le
- ngths or cause systems to switch between optically transmissive or scatter
- ing states. Central to this scheme is that the fluids in the droplets have
-  different densities and hence are aligned by the earth’s gravity. The i
- nduced optical changes can be triggered with chemical\, photochemical\, or
-  biochemical stimuli and thereby create new generations of sensors. Demons
- trations of these methods for the detection of enzyme concentrations and p
- athogens will be presented.\n\nABOUT THE SPEAKER\n\nTimothy M. Swager is t
- he John D. MacArthur Professor of Chemistry and the Director\, Deshpande C
- enter for Technological Innovation at the Massachusetts Institute of Techn
- ology. A native of Montana\, he received a BS from Montana State Universit
- y in 1983 and a Ph.D. from the California Institute of Technology in 1988.
-  After a postdoctoral appointment at MIT he was on the chemistry faculty a
- t the University of Pennsylvania 1990-1996 and returned to MIT in 1996 as 
- a Professor of Chemistry and served as the Head of Chemistry from 2005-201
- 0. He has published more than 450 peer-reviewed papers and more than 90 is
- sued/pending patents. Swager’s honors include: Election to the National 
- Academy of Sciences\, an Honorary Doctorate from Montana State University\
- , The Pauling Medal\, The Lemelson-MIT Award for Invention and Innovation\
- , Election to the American Academy of Arts and Sciences\, The American Che
- mical Society Award for Creative Invention\, The American Chemical Society
-  Award in Polymer Chemistry\, The Christopher Columbus Foundation Homeland
-  Security Award\, and The Carl S. Marvel Creative Polymer Chemistry Award 
- (ACS).\n\nSwager’s research interests are in design\, synthesis\, and st
- udy of organic-based electronic\, sensory\, high-strength and liquid cryst
- alline materials. His liquid crystal designs demonstrated shape complement
- arity to generate specific interactions between molecules and includes fun
- damental mechanisms for increasing liquid crystal order by a new mechanism
-  referred to as minimization of free volume. Swager’s research in electr
- onic polymers has been mainly directed at the demonstration of new concept
- ual approaches to the construction of sensory materials. These methods are
-  the basis of the FidoTM explosives detectors (FLIR Systems Inc)\, which h
- ave the highest sensitivity of any explosives sensor. Other areas actively
-  investigated by the Swager group include radicals for dynamic nuclear pol
- arization\, applications of nano-carbon materials\, organic photovoltaic m
- aterials\, polymer actuators\, and luminescent molecular probes for medica
- l diagnostics. He is the cofounder of 3 companies and has served on a numb
- er of corporate and government boards.\n\nLinks:\n[0]  http://hg.gatech.ed
- u/node/618087#0
-LOCATION:Engineered Biosystems Building (EBB)\, Seminar Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Samsung Day on Campus
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190327T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190328T000000Z
@@ -32270,6 +31996,52 @@ DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\nStatus: p
  orm/SV_0pMQP7EqznzDSK1\n[2]  https://healthinitiatives.gatech.edu/well-bei
  ng/mental/mindfulness
 LOCATION:Room 301\, Student Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2020 Ideas to Serve (I2S) Competition Finals (Virtual)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200415T203000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200415T230000Z
+UID:http://hg.gatech.edu/node/633774#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\, Freebies\nStatus: 
+ published\n\nIdeas to Serve is going virtual this year! For more informati
+ on\, visit our ILE Facebook page.\n\nAre you working on a project that can
+  improve a social/environmental problem? Are you working on a project with
+  a nonprofit and want to amplify their message? Submit your project for th
+ e Ideas to Serve Competition!\n\nYour application package should include: 
+ an Executive Summary [1] of the social issue area you are exploring and a 
+ short video pitch. For more details about the application process please r
+ eview the Application section on the I2S website [2]. Here you can also fi
+ nd resources and information about Prizes\, judges\, and the format of the
+  Finals Poster Showcase.\n\nIdeas 2 Serve focuses on the in-depth understa
+ nding of a social/environmental issue a student is passionate about\, supp
+ orting an in-depth discovery of that particular problem.\n\nStudents who a
+ re interested in understanding complex problems and/or involved in communi
+ ty - based grassroots efforts to address such problems but don't have an "
+ innovation" can be part of I2S - strengthening the "serve" component of it
+ .\n\nParticipation in the Ideas to Serve Competition fulfills the Final De
+ liverable requirement for the SLS Innovating for Social Impact Program [3]
+ .\n\nJoin us to see what social issues GT students are exploring and solvi
+ ng at this year’s Ideas to Serve Finals. Vote for your favorite projects
+ \, enjoy some pops\, get a cool t-shirt\, take a fun pic at the photo boot
+ h\, and win some raffle prizes.\n\nWe will award several teams in both tra
+ cks and all teams are eligible to compete in our specialty awards (Best Vi
+ deo\, People's Choice).\n\nParticipating in I2S also fulfills the Final De
+ liverable requirement for the Serve-Learn-Sustain Innovating for Social Im
+ pact Program.\n\nList of teams and judges will be available shortly.\n\nI2
+ S funding is made possible through the generous support of our Georgia Tec
+ h and Community Partners:\n\nThe Cecil B. Day Program for Business Ethics 
+ (Solution Discovery Track Awards)\n\nCenter for Serve - Learn - Sustain (P
+ roblem Discovery Track Awards)\n\nSteven A. Denning Technology and Managem
+ ent Program\n\nDesign Bloc Georgia Tech\n\nLEAD Program\n\nRay C. Anderson
+  Center for Sustainable Business\n\nSpeechworks\n\nJoin us for a.\n\nLinks
+ :\n[0]  http://hg.gatech.edu/node/633774#0\n[1]  https://www.scheller.gate
+ ch.edu/centers-initiatives/ile/i2s/other-files/2019-I2S-Executive-Summary-
+ Template\n[2]  https://www.scheller.gatech.edu/centers-initiatives/ile/i2s
+ /index.html'\n[3]  https://serve-learn-sustain.gatech.edu/innovating-socia
+ l-impact-program\n[4]  https://www.scheller.gatech.edu/centers-initiatives
+ /ile/i2s/index.html
+LOCATION:Scheller College of Business Atrium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EWH General Body Meeting 04/16
