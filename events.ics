@@ -2,26 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:In the Time of the Butterflies @ 4:28pm
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190331T202800Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190331T215900Z
-UID:http://hg.gatech.edu/node/619332#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nOn November 25\, 1960\, the bodies of three sis
- ters were found near the bottom of a cliff on the north coast of the Domin
- ican Republic. The official daily 'El Caribe' reports that it had been an 
- accident\, but it does not mention that a fourth sister lives. Nor does it
-  mention the sisters' fierce opposition to the General Trujillo's dictator
- ship. This is their story: how Minerva started the tragedy by refusing Tru
- jillo\; how Patria became an opponent from the church itself\; how Maria T
- eresa joined the revolution through the love. And how they lost their wing
- s\, but not their courage. They were Las Mariposas - "The Butterflies".\n\
- nGTCN Movie Schedule [1]\n\nIn the Time of the Butterflies (2001) - IMDb [
- 2]\n\nLinks:\n[0]  http://hg.gatech.edu/node/619332#0\n[1]  https://upto.c
- om/s/dHhO\n[2]  https://www.imdb.com/title/tt0263467/?ref_=nv_sr_1
-LOCATION:GTCN channel 2.3
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:#BrunchIsBetter Event
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190401T140000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190401T160000Z
