@@ -2,200 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:#BrunchIsBetter Event
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190401T140000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190401T160000Z
-UID:http://hg.gatech.edu/node/618795#0
-DESCRIPTION:Intended audience: Graduate students\nExtras: Free food\nStatu
- s: published\n\nTo kick off Graduate Student Appreciation Week (GSAW) at G
- eorgia Tech (April 1-5)\, all graduate students at Tech are invited to att
- end a complimentary brunch\, catered by Sun In My Belly. (Plus\, get your 
- picture taken in front of the Reck!) This event is sponsored by the Office
-  of Graduate Studies\, Office of the Vice Provost for Graduate Education a
- nd Faculty Development\, the Student Center\, and the Student Alumni Assoc
- iation.\n\nBe sure to arrive early\, as food will be served until it runs 
- out. Register here. [1]\n\nGSAW is sponsored by the Graduate Resource and 
- Information Network (GRIN) at Tech\, including the Student Center\, Studen
- t Alumni Association\, and Graduate Student Government Association.\n\nIt 
- is also aligned with the National Association of Graduate-Professional Stu
- dents' Graduate-Professional Student Appreciation Week.\n\nFor the latest 
- schedule of events\, click here. [2]\n\nLinks:\n[0]  http://hg.gatech.edu/
- node/618795#0\n[1]  https://gatech.universitytickets.com/w/event.aspx?id=1
- 505&p=1\n[2]  http://grad.gatech.edu/gsaw\n[3]  http://grad.gatech.edu/gra
- d-student-appreciation
-LOCATION:Suddath Room\, Petit Institute
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Master and Certificate of Sustainable Energy and Environmental Man
- agement Open House
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190401T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190401T170000Z
-UID:http://hg.gatech.edu/node/619536#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nThe Georgia Institute of Technology is launching a new Master’s degree
-  in Sustainable Energy and Environmental Management (MSEEM) — the only g
- raduate degree in Georgia fully dedicated to sustainability issues. The hi
- ghly technical\, science-based\, and interdisciplinary program will prepar
- e students to deliver fact-based policy expertise through robust analytica
- l techniques and a deep understanding of energy and environmental issues a
- nd sustainability practices.\n\nThe MSEEM program is designed to serve a b
- road range of students interested in sustainability issues. Students can c
- omplete the degree on campus or online as a full-time student. Students al
- so have the option to enroll part-time and complete their degree online. T
- he program is designed to serve working professionals and others who want 
- to participate part-time and earn their degree over several years.\n\nMSEE
- M students will study topics such as sustainable energy and voluntary envi
- ronmental commitments\, cost-benefit analysis\, utility regulation and pol
- icy\, Earth systems\, economics of environmental policy\, big data and pol
- icy analytics\, climate policy\, and environmental management. Students wi
- ll aslo learn analytical techniques used to estimate and evaluate sustaina
- bility metrics\, learn to expertly assess the context of energy and enviro
- nmental problems\, and learn environmental ethics and its implications for
-  sustainability practice.\n\nApplications are being accepted through June 
- 15 for the inaugural class of MSEEM students\, who will begin study in Aug
- ust 2019.\n\nClick here [1] to RSVP for the MSEEM open house.\n\nLinks:\n[
- 0]  http://hg.gatech.edu/node/619536#0\n[1]  https://goo.gl/forms/bbrJAI6a
- 8miwTaxm2
-LOCATION:DM Smith Room 108\, Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lyft Office Hours
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190402T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190402T163000Z
-UID:http://hg.gatech.edu/node/619256#0
-DESCRIPTION:Intended audience: Graduate students\, Postdoc\, Undergraduate
-  students\nExtras: Free food\, Freebies\nStatus: published\n\nOn Tuesday A
- pril 2nd Lyft engineers will be holding office hours to answer student que
- stions about opportunuties and the culture. Come by any time between 11am-
- 2pm in CCB 340\n\nInterns\nDuring your internship\, you’ll be fully inte
- grated into a team where you’ll work on challenging and gratifying proje
- cts. Intern cohorts are kept intentionally small and everyone is paired wi
- th a mentor. Plus\, we offer regular lunch and learns with interns and exe
- cutives. Throughout your time here\, you’ll be immersed in our welcoming
- \, friendly culture where everyone has a significant impact.\n\nNew Gradua
- tes\nStart your career by reimagining tomorrow’s transportation. At Lyft
- \, you’ll hit the ground running\, trusted with critical projects and em
- powered to learn\, build\, and grow. Every day you'll collaborate with tea
- mmates to solve real-world problems\, dream up new ideas\, and work with p
- roducts from design to implementation.\n\nLinks:\n[0]  http://hg.gatech.ed
- u/node/619256#0\n[1]  https://www.lyft.com/careers/university
-LOCATION:College of Computing Room 340
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ted Talk Tuesdays - April
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190402T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190402T180000Z
-UID:http://hg.gatech.edu/node/616569#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nJoin Health Initiatives for a Ted Talk discussi
- on on topics pertinent to societal influence on health and well-being - BY
- OL (bring your own lunch!) Come and discuss topics including meaning\, pur
- pose\, body image\, and self-compassion.\n\nApril 2 - The Danger of a Sing
- le Story\, Chimamanda Ngozi Adichie\n\nLinks:\n[0]  http://hg.gatech.edu/n
- ode/616569#0\n[1]  http://healthinitiatives.gatech.edu/ted
-LOCATION:Student Center Room 343
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Advancing Gender Equity Across the Solar System
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190402T200000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190402T210000Z
-UID:http://hg.gatech.edu/node/618054#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nThe 2019 Women in Science and Technology (WST) Distinguished Lecturer is
-  Maria Zuber.\n\nMaria Zuber is the E.A. Griswold Professor of Geophysics 
- at Massachusetts Institute of Technology (MIT). She is also MIT's vice pre
- sident for research\, responsible for research administration and policy. 
- She oversees the MIT Lincoln Laboratory and more than a dozen interdiscipl
- inary research laboratories and centers.\n\nZuber's research bridges plane
- tary geophysics and the technology of space-based laser and radio systems.
-  Since 1990\, she has held leadership roles with scientific experiments or
-  instrumentation on 10 NASA missions\, mapping the Moon\, Mars\, Mercury\,
-  and several asteroids. Notably\, she was principal investigator of the Gr
- avity Recovery and Interior Laboratory or GRAIL mission.\n\nHer numerous a
- wards include MIT's James R. Killian Jr. Faculty Achievement Award\, the h
- ighest honor MIT bestows to its faculty. She is a member of the National A
- cademy of Sciences and the American Philosophical Society\,. She is a fell
- ow of the American Academy of Arts and Sciences\, the American Association
-  for the Advancement of Science\, the Geological Society\, and the America
- n Geophysical Union.\n\nZuber is the first woman to lead a science departm
- ent at MIT and to lead a NASA planetary mission. In 2013\, President Obama
-  appointed her to the National Science Board. In 2018\,she was reappointed
-  by President Trump. She served as board chair from 2016 to 2018.\n\nThis 
- lecture is co-sponsored by the College of Sciences.\n\nReception follows l
- ecture. RSVP: mary.fox@gatech.edu\n\nAbout the WST Distinguished Lecture S
- eries\nThis lecture series honors outstanding contributors to understandin
- gs of\, and positive impact for\, women\, science\, and technology. It is 
- an annual event open to the Georgia Tech community and the public.\n\nLink
- s:\n[0]  http://hg.gatech.edu/node/618054#0
-LOCATION:Clary Theater\, Bill Moore Student Success Center\, 225 N Ave NW\
- , Atlanta\, GA 30332
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WST 2019 Distinguished Lecture: Dr. Maria Zuber\, MIT
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190402T200000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190402T213000Z
-UID:http://hg.gatech.edu/node/614437#0
-DESCRIPTION:Intended audience: Public\nExtras: Free food\nStatus: publishe
- d\n\nWST 2019 Distinguished Lecture: Dr. Maria Zubar\, E. A. Griswold Prof
- essor of Geophysics and Vice President for Research\, Massachusetts Instit
- ute of Technology. Clary Theatre\, Student Success Center\, with reception
- . RSVP to mary.fox@pubpolicy.gatech.edu\n\nLinks:\n[0]  http://hg.gatech.e
- du/node/614437#0
-LOCATION:Bill Moore Student Success Center\, Georgia Tech\, Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mathematical Mysteries of the Periodic Table
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190402T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190402T233000Z
-UID:http://hg.gatech.edu/node/619765#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\, Freebies\nStatus: 
- published\n\nA Frontiers in Science Lecture to celebrate 2019\, the Intern
- ational Year of the Periodic Table\nWhy do atoms behave the way they do? W
- hy do electrons form “shells\,” as seen in the periodic table?\n\nWhy 
- does the first shell hold 2 electrons\, the second 8\, and the third 18: t
- wice the square numbers 1\, 4\, and 9?\n\nIt took many years to solve thes
- e mysteries\, and a lot of detective work in chemistry\, physics\, and ult
- imately – once the relevant laws of physics were known – mathematics.\
- n\nOther mysteries remain unsolved\, like the mass of the heaviest possibl
- e element. This talk will give a quick tour of these puzzles and some of t
- he answers.\n\nAbout the Speaker\nJohn Baez [2] is a professor of mathemat
- ics at the University of California\, Riverside\, who also works at the Ce
- ntre for Quantum Technologies [3]\, in Singapore. His Internet column “T
- his Week’s Finds” [4] dates back to 1993 and is sometimes called the w
- orld’s first blog.\n\nBaez used to work on quantum gravity and pure math
- ematics. In 2010\, concerned about climate change and the future of the pl
- anet\, he switched to working on a general theory of networks that appear 
- in human-engineered and biological systems.\n\nAbout Frontiers in Science 
- Lectures\nLectures in this series are intended to inform\, engage\, and in
- spire students\, faculty\, staff\, and the public on developments\, breakt
- hroughs\, and topics of general interest in the sciences and mathematics. 
- Lecturers tailor their talks for nonexpert audiences.\n\nAbout the Periodi
- c Table Frontiers in Science Lecture Series\nThroughout 2019\, the College
-  of Sciences will bring prominent researchers from Georgia Tech and beyond
-  to expound on little-discussed aspects of chemical elements:\n\n- Feb. 6\
- , James Sowell\, How the Universe Made the Elements in the Periodic Table\
- n- March 5\, Michael Filler\, Celebrating Silicon: Its Success\, Hidden Hi
- story\, and Next Act\n- April 2\, John Baez\, University of California\, R
- iverside\, Mathematical Mysteries of the Periodic Table\n- April 18\, Sam 
- Kean\, Author\, The Periodic Table: A Treasure Trove of Passion\, Adventur
- e\, Betrayal\, and Obsession\n- Sept. 12\, Monica Halka\, The Elusive End 
- of the Periodic Table: Why Chase It\n- October 31\, Taka Ito\, Turning Sou
- r\, Bloated\, and Out of Breath: Ocean Chemistry under Global Warming\n- N
- ov. 12\, Margaret Kosal\, The Geopolitics of Rare and Not-So-Rare Elements
- \n\nClosest public parking for the April 2 lecture is Visitors Area 4\, Fe
- rst Street and Atlantic Drive\, [5]\nRefreshments are served\, and periodi
- c table t-shirts are given away\, after every lecture\n\nLinks:\n[0]  http
- ://hg.gatech.edu/node/619765#0\n[1]  http://hg.gatech.edu/node/618924#0\n[
- 2]  https://mathdept.ucr.edu/faculty/baez.html\n[3]  https://www.quantumla
- h.org/\n[4]  http://math.ucr.edu/home/baez/this.week.html\n[5]  http://pts
- .gatech.edu/visitors#l3\n[6]  https://periodictable.gatech.edu/
-LOCATION:Room 1128 (Suddath Room)\, Institute for Bioengineering and Biosc
- ience (IBB) Building\, 315 Ferst Dr NW\, Atlanta\, GA 30332
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:A Half Century as a Psychologist
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190403T190000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190403T200000Z
@@ -30914,6 +30720,30 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  nd hemispheric American studies\; critical race theory\; translation\; and
   poetry.\n\nLinks:\n[0]  http://hg.gatech.edu/node/633206#0
 LOCATION:Stein House/4th St. A\, 753 Techwood\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Keep Teaching: Advice from Thank a(n Online) Teacher Recipients
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200407T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200407T170000Z
+UID:http://hg.gatech.edu/node/633929#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \nStatus: published\n\nKeep Teaching: Advice from Thank a(n Online) Teache
+ r Recipients\n\nCurious how to handle some of the behind-the-scenes aspect
+ s of teaching remotely? There are many resources out there to support you 
+ in the more obvious teaching activities\, but what about managing your own
+  time in this new environment? Or providing timely but effective feedback 
+ on student work? The Center for Teaching and Learning will explore these q
+ uestions and others with a panel of Tech faculty who have experience with 
+ online instruction and have received Thank-a-Teacher recognitions for thei
+ r excellent teaching.\n\nJoin us on Tuesday April 7th from 12:00-1:00pm fo
+ r an engaging discussion with our colleagues. Grab your lunch\, bring your
+  own questions to ask the panel\, and meet us in BlueJeans!\n\nPanelists:\
+ nPolo Chau\, Associate Professor\, Computational Science and Engineering\n
+ Michael Schatz\, Professor\, Physics\nJoel Sokol\, Professor\, Industrial 
+ and Systems Engineering\n\nLinks:\n[0]  http://hg.gatech.edu/node/633929#0
+ \n[1]  http://ctl.gatech.edu/content/keep-teaching-advice-thank-online-tea
+ cher-recipients
+LOCATION:Webinar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Society of Women Engineers General Body Meeting
