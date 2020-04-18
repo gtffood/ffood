@@ -2,165 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:WST Learning Community Dinner with Alumnae
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190416T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190417T003000Z
-UID:http://hg.gatech.edu/node/614434#0
-DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\n
- Status: published\n\nWST Learning community alumnae Erin Robinson Stewart 
- (GT 2004) and Komal Patel Mathew (GT 2003) offer remarks over dinner about
-  their career choices and life-work decisions.\n\nLinks:\n[0]  http://hg.g
- atech.edu/node/614434#0
-LOCATION:Stein House/4th St. A\, Georgia Tech\, Techwood\, Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CRC Appreciation Week - Morning Coffee Break
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190417T110000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190417T130000Z
-UID:http://hg.gatech.edu/node/619889#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\, Freebies\nStatus: published\n\nWe appreciate all
-  of our members and we want to say thanks during a week-long celebration a
- t CRC Appreciation Week. The week kicks off Monday\, April 15th through Ap
- ril 19th and will feature sunrise yoga\, a morning coffee break\, smoothie
-  “happy hour”\, free zip lining and more! Check out all the events and
-  prizes for the week at [1].\n\nLinks:\n[0]  http://hg.gatech.edu/node/619
- 889#0\n[1]  https://crc.gatech.edu/appreciation
-LOCATION:CRC Lobby
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ride Out in Style
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190417T130000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190417T173000Z
-UID:http://hg.gatech.edu/node/619880#1
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nCalling all graduating seniors! Come out to the Clou
- gh Turnaround to have a final ride in the Reck before you graduate! To fin
- d details on how to sign up\, go to [1]\n\nYou must be a graduating senior
-  to participate. Snacks and refreshments will be provided. Walk-ins will b
- e accommodated only if there is space\, so reserve your spot ahead of time
-  to guarantee a ride!\n\nMore information [1]\n\nLinks:\n[0]  http://hg.ga
- tech.edu/node/619880#1\n[1]  https://www.rideoutinstyle.com/
-LOCATION:Clough Commons Turnaround
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CRC Appreciation Week - Self-Defense Course
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190417T180000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190417T190000Z
-UID:http://hg.gatech.edu/node/619891#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\, Freebies\nStatus: published\n\nWe appreciate all
-  of our members and we want to say thanks during a week-long celebration a
- t CRC Appreciation Week. The week kicks off Monday\, April 15th through Ap
- ril 19th and will feature sunrise yoga\, a morning coffee break\, smoothie
-  “happy hour”\, free zip lining and more! Check out all the events and
-  prizes for the week at [1].\n\nLinks:\n[0]  http://hg.gatech.edu/node/619
- 891#0\n[1]  https://crc.gatech.edu/appreciation
-LOCATION:CRC Studio C
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TA and Future Faculty Awards Day
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190417T203000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190417T220000Z
-UID:http://hg.gatech.edu/node/618216#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nExtras: Free food\nStatus: published\n\nThe TA a
- nd Future Faculty Awards Day will recognize outstanding graduate and under
- graduate TAs from schools across campus and will announce the campus-wide 
- winners. In addition\, graduate students and postdoctoral scholars earning
-  the Tech to Teaching and CIRTL certificates will be recognized. Graduate 
- students\, faculty\, and staff who support TAs and future faculty programs
-  are invited to attend the reception and awards ceremony. Register by [1] 
- Monday\, April 8. [2]\n\nLinks:\n[0]  http://hg.gatech.edu/node/618216#0\n
- [1]  http://ctl.gatech.edu/grad-students/awards\n[2]  http://ctl.gatech.ed
- u/content/2019-ta-and-future-faculty-awards-day-registration
-LOCATION:Bill Moore Student Success Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sustain 101: Make Your Own Reusable Cutlery Pouch + Giveaways!
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190417T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190417T233000Z
-UID:http://hg.gatech.edu/node/620307#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nStatus: published\n\nEnjoy FREE Vegan Snacks an
- d a FREE Tutorial on making a customized pouch to keep your reusable cutle
- ry!\n\nOur student interns will also be giving a crash course on being sus
- tainable at Tech\, including how\, what\, and where to recycle and compost
- !\n\nFirst 25 attendees receive a complimentary set of bamboo utensils or 
- a stainless steel straw.\n\nKeeping a set of utensils in your bag is a ver
- y simple and impactful way to cut down on waste\, especially if you dine o
- ut frequently and use disposable plastic utensils.\n\nAll material will be
-  provided\, please bring your appetite and enthusiasm!\n\nLinks:\n[0]  htt
- p://hg.gatech.edu/node/620307#0\n[1]  https://www.facebook.com/events/1682
- 293358580966/
-LOCATION:Crescent Room\, Student Center Commons
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Conducting Effective Meetings Workshop with WoB
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190418T143000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190418T153000Z
-UID:http://hg.gatech.edu/node/620277#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Postdoc\nStatus: published\
- n\nJoin the Web of Brilliance ERG and LaTrese Ferguson of GT Workplace Lea
- rning and Professional Development as we presents a special workshop on ho
- w to conduct efficient and purposeful meetings.\n\nMeetings are a necessar
- y function of almost any organization\, but can also be a common source of
-  frustration and stress\, particularly for us as introverts. This workshop
-  will provide insights into preparing for a successful meeting and avoidin
- g the pitfalls associated with those fretful meetings we all dread. Refres
- hments will be provided.\n\nWeb of Brilliance (WoB) is an Employee Resourc
- e Group (ERG) within Georgia Tech that promotes the interests of individua
- ls who self-identify as introverts and educates those who work with or oth
- erwise interact with introverts. Non-introverted allies are always welcome
-  to attend any of our programming.\n\nLinks:\n[0]  http://hg.gatech.edu/no
- de/620277#0\n[1]  http://www.eventbrite.com/e/web-of-brilliance-conducting
- -effective-meetings-workshop-tickets-58744506400
-LOCATION:Room 323\, Clough Commons
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Study Abroad Advising with Donuts!
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190418T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190418T160000Z
-UID:http://hg.gatech.edu/node/620133#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nThe application for exchanges for
-  Spring 2020 has opened! Come and ask your exchange questions and have a d
- onut on us!\n\nLinks:\n[0]  http://hg.gatech.edu/node/620133#0
-LOCATION:Tech Walkway
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:28th Annual College of Computing Awards Celebration
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190418T153000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190418T173000Z
-UID:http://hg.gatech.edu/node/618325#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
- aduate students\nExtras: Free food\nStatus: published\n\nPlease join us fo
- r the 28th annual college of computing awards celebration on Thursday\, Ap
- ril 18\, 2019 at 11:30 a.m. This event will be a buffet lunch in the Klaus
-  Atrium\n\nPlease RSVP [1] by April 8!\n\nLinks:\n[0]  http://hg.gatech.ed
- u/node/618325#0\n[1]  https://gatech.co1.qualtrics.com/jfe/form/SV_8bJJZlp
- fvpWX2EB
-LOCATION:Klaus Atrium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Break Bread with GRIOT - April 2019
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190418T153000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190418T173000Z
-UID:http://hg.gatech.edu/node/616556#0
-DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nJoin us
-  at Ferst Place located on the 3rd floor of the Student Center to fellowsh
- ip with your GRIOT members. Register now for a seat at the reserved tables
-  in room 321.\n\nDining Details: Ferst Place is located across from the St
- udent Center ballroom. Dining options include a buffet\, salad bar and a m
- ade-to-order station. Participants are responsible for purchasing their ow
- n lunch at a cost of $11.66 including tax. Please note: Accepted payment m
- ethods include: BuzzCards\, Dining Points\, debit/credit cards\, and facul
- ty and staff meal plans. Ferst Place does not accept cash.\n\nPlease RSVP 
- to reserve your spot at [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/6165
- 56#0\n[1]  https://sdie.gatech.edu/break-bread-april2019
-LOCATION:Student Center\, 321
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Periodic Table: A Treasure Trove of Passion\, Adventure\, Betr
  ayal & Obsession
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190418T233000Z
@@ -30010,6 +29851,34 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  ood4lives.org/donate.html\n[3]  https://www.facebook.com/events/1177905865
  930288/
 LOCATION:Food4Lives\, 1122 Old Chattahoochee Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:International Opportunities Open House
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200818T143000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200818T160000Z
+UID:http://hg.gatech.edu/node/634444#0
+DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\n
+ Status: published\n\nPlease come meet OIE advisors and learn about study a
+ broad opportunities\, Global Internships\, the International Plan\, schola
+ rships\, and more. This is a great time to ask questions about Tech's many
+  programs in one place and indulge in some tasty refreshments.\n\nWe hope 
+ to see you there!\n\nLinks:\n[0]  http://hg.gatech.edu/node/634444#0\n[1] 
+  https://oie.gatech.edu/
+LOCATION:Student Success center: President's Suite C & D
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:International Opportunities Open House
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200820T143000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200820T160000Z
+UID:http://hg.gatech.edu/node/634445#0
+DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\n
+ Status: published\n\nPlease come meet OIE advisors and learn about study a
+ broad opportunities\, Global Internships\, the International Plan\, schola
+ rships\, and more. This is a great time to ask questions about Tech's many
+  programs in one place and indulge in some tasty refreshments.\n\nWe hope 
+ to see you there!\n\nLinks:\n[0]  http://hg.gatech.edu/node/634445#0\n[1] 
+  https://oie.gatech.edu/
+LOCATION:Klaus Atrium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CREATE-X Demo Day 2020
