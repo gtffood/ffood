@@ -2,130 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:IEEE SPS Atlanta Distinguished Industry Lecture - Dr. Tao Zhang
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190429T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190429T173000Z
-UID:http://hg.gatech.edu/node/620897#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nTackling the Cocktail Party Problem for Hearing Devices: Solutions\, Cha
- llenges and Opportunities\nAbstract. The cocktail party problem has remain
- ed to be one of the most challenging problems for hearing devices even aft
- er decades of extensive research. In this talk\, we will introduce and dis
- cuss our research on the multi-microphone speech enhancement with an empha
- sis on robust and practical real-time algorithms for hearing devices. We w
- ill first present our research on multiple-microphone speech enhancement u
- sing a microphone array alone. Secondly\, we will present our latest resea
- rch on the multimodal speech enhancement using both brain signals (i.e. EE
- G) and microphone signals in a single joint-optimization framework. In bot
- h cases\, we will use objective and subjective evaluation to demonstrate t
- he algorithms’ effectiveness. Finally\, we will discuss the challenges a
- nd opportunities in deploying these algorithms in the real-world.\n\nBiogr
- aphy.\n\nTao Zhang received his B.S. degree in physics from Nanjing Univer
- sity\, Nanjing\, China in 1986\, M.S. degree in electrical engineering fro
- m Peking University\, Beijing\, China in 1989\, and Ph.D. degree in speech
-  and hearing science from the Ohio-State University\, Columbus\, OH\, USA 
- in 1995. He joined the Advanced Research Department at Starkey Laboratorie
- s\, Inc. as in 2001 and since 2014\, he has been Director of the Signal Pr
- ocessing Research department at Starkey Hearing Technologies. He is a seni
- or member of IEEE and the Signal Processing Society and the Engineering in
-  Medicine and Biology Society. He is an IEEE SPS Distinguished Industry Sp
- eaker\, the Chair of IEEE Twin-cities Signal Processing and Communication 
- Chapter and a Member of IEEE ComSoc North America Region Board. He serves 
- on the IEEE AASP Technical Committee and the IEEE Industrial Relationships
-  Committee.\n\nLinks:\n[0]  http://hg.gatech.edu/node/620897#0\n[1]  https
- ://events.vtools.ieee.org/m/178884\n[2]  https://events.vtools.ieee.org/m/
- 198226
-LOCATION:Technology Square Research Building\, Auditorium\, 85 5th Street 
- NW\, Atlanta\, GA 30308
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:New! GLUE Lecture Series - April 29
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190429T161500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190429T171500Z
-UID:http://hg.gatech.edu/node/620222#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nStatus: published\n\n"Translation of Medical De
- vices: How to bring your device to market"\n\nDavid Ku\, MD\, PhD\nL.P. Hu
- ang Chair Professor\nfor Engineering Entrepreneurship\nRegents’ Professo
- r\, Georgia Tech\nProfessor of Surgery\, Emory\n\nMonday\, April 29\n12:15
-  - 1:15 pm\nWhitaker 3115 (moved from rm 1103)\nLunch Provided.\n\nVideoco
- nference\nEmory: HSRB E160\nGeorgia Tech: TEP (stream from PC)\nhttps://bl
- uejeans.com/270645627\n\nMeeting ID 270 645 627\n\nWant to dial in from a 
- phone?\nDial one of the following numbers:\n+1.408.740.7256 (US (San Jose)
- )\n+1.408.317.9253 (US (Primary\, San Jose))\n(see all numbers - https://w
- ww.bluejeans.com/premium-numbers)\n\nLinks:\n[0]  http://hg.gatech.edu/nod
- e/620222#0
-LOCATION:Whitaker 3115\; Videoconference Emory: HSRB E160 / Georgia Tech: 
- TEP\, stream from your PC\, https://bluejeans.com/270645627
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Johnna Temenoff - Flanagan Lecture
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190429T190000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190429T210000Z
-UID:http://hg.gatech.edu/node/619019#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nStatus: published\n\nInformation for the Carol 
- Ann and David D. Flanagan Professorship Talk/Reception:\n\nSpeaker: Johnna
-  Temenoff\n\nTalk Title: " Delivery of Cells and Biomolecules for Tissue R
- epair After Shoulder Injury"\n\nEvent Date: April 29th\n\nTime: 3-5pm\n\nL
- ocation: IBB\, Suddath Room and Atrium\n\nAdditional details: light refres
- hments will be served in the atrium following the presentation\n\nLinks:\n
- [0]  http://hg.gatech.edu/node/619019#0
-LOCATION:Krone IBB\, Suddath Room and Atrium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:COPE Distinguished Lecture - George Malliaras
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190429T200000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190429T210000Z
-UID:http://hg.gatech.edu/node/618092#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Postdoc\, Public\nExtras: F
- ree food\nStatus: published\n\nABSTRACT\n\nOne of the most important scien
- tific and technological frontiers of our time is the interfacing of electr
- onics with the human brain. This endeavour promises to help understand how
-  the brain works and deliver new tools for diagnosis and treatment of path
- ologies including epilepsy and Parkinson’s disease. Current solutions\, 
- however\, are limited by the materials that are brought in contact with th
- e tissue and transduce signals across the biotic/abiotic interface. Recent
-  advances in organic electronics have made available materials with a uniq
- ue combination of attractive properties\, including mechanical flexibility
- \, mixed ionic/electronic conduction\, enhanced biocompatibility\, and cap
- ability for drug delivery. I will present examples of novel devices for re
- cording and stimulation of neurons and show that organic electronic materi
- als offer tremendous opportunities to study the brain and treat its pathol
- ogies.\n\nABOUT THE SPEAKER\n\nGeorge Malliaras is the Prince Philip Profe
- ssor of Technology at the University of Cambridge. He received a PhD from 
- the University of Groningen and did a postdoc at the IBM Almaden Research 
- Center. Before joining Cambridge\, he was a faculty member at Ecole des Mi
- nes de St. Etienne and at Cornell University\, and served as the Director 
- of the Cornell NanoScale Facility. His research has been recognized with a
- wards from the New York Academy of Sciences\, the US National Science Foun
- dation\, and DuPont. He is a Fellow of the Materials Research Society and 
- of the Royal Society of Chemistry.\n\nLinks:\n[0]  http://hg.gatech.edu/no
- de/618092#0
-LOCATION:Engineered Biosystems Building (EBB)\, Seminar Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Midnight Breakfast
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190429T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190430T035900Z
-UID:http://hg.gatech.edu/node/620842#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\, Freebies\nStatus: published\n\nTake a break from
-  studying and grab some FREE breakfast with friends at the food court or p
- articipate in a free massage or some fun activities on the third floor of 
- the SC.\n\nNo reservation needed to participate in the de-stress activitie
- s from 7pm-10pm on the third floor of the Student Center.\n\nHowever\, don
- 't forget to pick your time slot for the free breakfast food from 9pm-12am
-  served by the wonderful faculty and staff of Georgia Tech!\n\nFor questio
- ns or assistance\, please contact ramblin@scpc.gatech.edu\nRSVP at the lin
- k below:\nhttps://gatech.universitytickets.com/w/event.aspx?id=1510 [1]\n\
- nLinks:\n[0]  http://hg.gatech.edu/node/620842#0\n[1]  https://gatech.univ
- ersitytickets.com/w/event.aspx?id=1510&fbclid=IwAR3MM67WELOg6TPneRIc19sdm1
- l6859uInM0s3mOjM8IZ7vV8vOKhFW1pTg
-LOCATION:Student Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Spin & Screen - Jumanji (2017)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190501T213000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190501T233000Z
@@ -28897,6 +28773,60 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  ood4lives.org/donate.html\n[3]  https://www.facebook.com/events/1177905865
  930288/
 LOCATION:Food4Lives\, 1122 Old Chattahoochee Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Webinar: "Enabling Together Smarter Pandemic Supply Chain Rea
+ diness and Response"
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200528T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200528T170000Z
+UID:http://hg.gatech.edu/node/634763#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nOverview\nDr. Benoit Montreuil [01] will emphas
+ ize the impactful interplay between supply chains and pandemics\, across t
+ he world and in each locality. The impact of collectively improving pandem
+ ic supply chain readiness and response in each of the five world states - 
+ healthy\, outbreak\, epidemics\, pandemics\, and recovery - will be highli
+ ghted.\n\nThe focus will be on critical and essential supply chains to dem
+ onstrate the capital importance of supply chains in fighting and surviving
+  a pandemics\, as revealed by the COVID-19 crisis.\n\n- Critical supply ch
+ ains support the fight against the pandemic disease by supporting the boom
+ ing demand for testing kits\, masks\, respirators\, etc.\, to hospitals an
+ d health centers.\n- Essential supply chains provide the food\, health pro
+ ducts and goods necessary to ensure survival\, quality of life and recover
+ y capability of pandemic-affected populations and economies\, notably subj
+ ect to distancing and containment measures.\n\nKey avenues for collectivel
+ y and comprehensively enabling effective and efficient pandemic supply cha
+ in readiness and response in each of the world states will be presented. T
+ hese avenues combine common-sense pragmatic practices to leading-edge conc
+ epts and technologies\, notably based on Artificial Intelligence and the P
+ hysical Internet. They notably enable:\n\n- Critical and essential supply 
+ chain visibility and predictability\;\n- Smart fair decisions relative to 
+ critical and essential product allocation\, deployment\, and transportatio
+ n\;\n- Keeping a healthy and efficient supply chain workforce\;\n- Repurpo
+ sing supply chains and facilities to provide boost in critical and essenti
+ al product availability\;\n- Vector-free logistics eliminating disease pro
+ pagation through goods and food production\, packaging\, distribution and 
+ delivery.\n\nThe presentation results from the interdisciplinary collabora
+ tion of 28 professors from Georgia Tech Supply Chain and Logistics Institu
+ te.\n\nRegister Online to Attend\nPlease register online via Eventbrite [0
+ 2] if you plan to attend.\n\nAbout the #SMARTer Together Webinar Series\nT
+ he webinar series [03] aims to challenge us beyond the immediate crisis an
+ d onto a newer state where we have another chance to build strong communit
+ y-research partnerships for good. By focusing on complex\, societal proble
+ ms that communities all over GA and the rest of the world face\, we aim to
+  provide innovative research and create partnerships to empower all. We ad
+ here to GT’s Strategic Plan and Mission [04] on “developing leaders wh
+ o advance technology and improve the human condition.”\n\nLet's all be #
+ SMARTer Together.\n\nLinks:\n[00]  http://hg.gatech.edu/node/634763#0\n[01
+ ]  http://www.isye.gatech.edu/users/benoit-montreuil\n[02]  https://www.ev
+ entbrite.com/e/smarter-together-webinar-series-tickets-102593243152\n[03] 
+  https://smartcities.ipat.gatech.edu/smarter-together\n[04]  https://www.g
+ atech.edu/about/strategic-plan\n[05]  https://b.gatech.edu/3eZbwYk\n[06]  
+ https://bluejeans.com/417369217\n[07]  https://picenter.gatech.edu\n[08]  
+ https://smartcities.gatech.edu/\n[09]  https://www.eventbrite.com/e/smarte
+ r-together-webinar-series-tickets-102566039786\n[10]  https://www.scl.gate
+ ch.edu
+LOCATION:Online Webinar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:International Opportunities Open House
