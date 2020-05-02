@@ -2,65 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Spin & Screen - Jumanji (2017)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190501T213000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190501T233000Z
-UID:http://hg.gatech.edu/node/620673#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
- aduate students\nExtras: Free food\nStatus: draft\n\nNeed a break to relea
- se some stress from finals? The Georgia Tech Recreation Complex (CRC) can 
- help!\n\nTwo sessions being offered for Spring 2019:\n\n- April 24th\, 5:3
- 0p - 7:30p: Goonies\n- May 1st\,\, 5:30p - 7:30p: Jumanji (2017)\n\nThis c
- lass is free for all CRC members. Snacks and refreshments are provided. Sp
- ace is limited\, pre-registration and a wait-list are available.\n\nClick 
- here to pre-register and reserve your spot! [1]\n\nLinks:\n[0]  http://hg.
- gatech.edu/node/620673#0\n[1]  https://mycrc.gatech.edu/Program/GetProgram
- Details?courseId=7c512024-cd2d-49b6-af78-e1523a50a10b&semesterId=7b4682df-
- c8c5-4214-a4b8-d7976a130ea6\n[2]  http://crc.gatech.edu/spin-screen
-LOCATION:Campus Recreation Center\, 4th Floor
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Campus Center Project Launch
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190502T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190502T160000Z
-UID:http://hg.gatech.edu/node/620605#0
-DESCRIPTION:Intended audience: Public\nExtras: Free food\nStatus: publishe
- d\n\n4\, 3\, 2\, 1 LIFT OFF!!! The Campus Center Project is not just break
- ing ground\, it’s taking off! The entire campus community is invited to 
- join us for this momentous occasion as we launch the project.\n\nThe launc
- h event will be held on the IC lawn on Thursday\, May 2\, 2019 from 11 a.m
- . – noon. The event we will begin with remarks from campus leadership\, 
- including President Peterson. There will be popsicles and giveaways while 
- supplies last\, and the opportunity to learn more from our project ambassa
- dors.\n\nThe Campus Center Project\, the Student Center's re(in)novation a
- nd expansion\, will bring our campus transformational opportunities and sp
- aces that promote inclusivity\, well-being\, and community building. Const
- ruction on the first phase will begin in May.\n\nFor more details about th
- e Campus Center Project\, visit [1].\n\nLinks:\n[0]  http://hg.gatech.edu/
- node/620605#0\n[1]  https://studentcenter.gatech.edu/reinnovation
-LOCATION:IC Lawn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OMSCS Five-Year Anniversary Luncheon and Celebration of Dean Zvi G
- alil
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190502T153000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190502T170000Z
-UID:http://hg.gatech.edu/node/618651#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: published\n\nAs the OMSCS program celebra
- tes its fifth anniversary\, we will also celebrate Dean Zvi Galil for his 
- key role in creating the program. Georgia Tech's College of Computing and 
- Udacity partnered in 2014 to launch this affordable and competitive online
-  degree\, which has been revolutionary in the field of computer science ed
- ucation. This is Dr. Galil’s last year as dean – he will return to fac
- ulty next year. Please help us honor his accomplishments and thank him for
-  his service to the College of Computing\, to its students\, and to the fi
- eld as a whole.\n\n*Please RSVP [1] for this luncheon*\n\nLinks:\n[0]  htt
- p://hg.gatech.edu/node/618651#0\n[1]  https://gatech.co1.qualtrics.com/jfe
- /form/SV_7PAtzQujxqaNhAN
-LOCATION:Klaus Atrium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Spring 2019 Dean's New Graduate Alumni Celebration
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190502T210000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190503T003000Z
@@ -28773,6 +28714,57 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  ood4lives.org/donate.html\n[3]  https://www.facebook.com/events/1177905865
  930288/
 LOCATION:Food4Lives\, 1122 Old Chattahoochee Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PhD Defense by Taofiq Amoloye
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200505T180000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200505T200000Z
+UID:http://hg.gatech.edu/node/634939#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nStatus: published\n\nTaofiq Amoloye\n(Advisor: P
+ rof. Marilyn Smith]\n\nwill defend a doctoral thesis entitled\,\n\nA Refin
+ ed Potential Theory for the Incompressible Unsteady Subcritical-Reynolds n
+ umber Flows on Canonical Bluff Bodies\n\nOn\n\nTuesday\, May 5 at 2:00 p.m
+ .\nBluejeans: [1]\n\nAbstract\n\nClassical potential theory falls short of
+  reconciling the actions of fluid viscosity and frictional forces in an ac
+ tual flow with the theoretical analysis of such a flow. As such\, it is un
+ able to predict the important phenomenon of flow separation that leads\, i
+ n part\, to the pressure drag experienced by the body in an actual flow. H
+ owever\, analytical solutions that theories provide offer huge advantages 
+ over numerical and experimental solutions in the understanding of fluid fl
+ ows and in design. These are in terms of cost and time consumption.\n\nThe
+ refore\, a refinement of Classical potential theory of the flow over a cir
+ cular cylinder was carried out to bridge this gap. It was achieved by intr
+ oducing a viscous sink-source-vortex sheet on the surface of the cylinder.
+  These singularities are modeled as concentric at every location. The vort
+ ices are modeled as Burgers vortices\, and analytic expressions for their 
+ strengths and those of the sinks/sources are obtained from the classical t
+ heory. These are employed to obtain a Reynolds-number-and-time-dependent s
+ tream function that captures important qualitative features of the flow. A
+  viscous potential function that satisfies the governing equations is then
+  derived. It is obtained by defining the viscous stream function on a prin
+ cipal axis of the flow about which the vorticity vector is identically zer
+ o. Strategies have also been developed to account for the finite extent of
+  the cylinder\, to introduce dynamic unsteadiness\, to predict separation/
+ reattachment/transition\, to obtain forces\, and to apply the solution to 
+ an arbitrary geometry with a focus on spheres and spheroids.\n\nThe refine
+ d potential theory was verified against experimental and numerical data on
+  the cylinder in an incompressible crossflow at. Its drag prediction is wi
+ thin the error bound of measured data. The prediction of other quantities 
+ is also within acceptable ranges. Its prediction of the force coefficients
+  over the range was validated against experimental data on the cylinder in
+  crossflow. There is a good agreement in the trend with slight disparity i
+ n magnitude that is in favor of safety for design purposes. The energy spe
+ ctra of the wake velocity display the Kolmogorov's Five-Thirds law of homo
+ geneous isotropic turbulence. This verifies and validates the unsteadiness
+  in refined potential theory as turbulent in nature.\n\nCommittee\n\n- Pro
+ fessor Marilyn J. Smith – School of Aerospace Engineering (advisor)\n- P
+ rofessor Jechiel Jagoda – School of Aerospace Engineering\n- Professor S
+ tephen M. Ruffin – School of Aerospace Engineering\n- Professor Brian Ge
+ rman – School of Aerospace Engineering\n- Professor John McCuan – Scho
+ ol of Mathematics\n\nLinks:\n[0]  http://hg.gatech.edu/node/634939#0\n[1] 
+  https://bluejeans.com/487890767
+LOCATION:REMOTE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Free Webinar: "Enabling Together Smarter Pandemic Supply Chain Rea
