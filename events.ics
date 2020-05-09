@@ -2,138 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Seattle Area Georgia Tech Supply Chain Alumni Happy Hour
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190507T213000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190508T003000Z
-UID:http://hg.gatech.edu/node/621218#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nExtras: Free food\nStatus: published\n\nGT Suppl
- y Chain & Logistics Institute Directors Benoit Montreuil and Tim Brown wil
- l be visiting Seattle and hosting a Happy Hour for Supply Chain Alum and f
- riends of SCL on Tuesday\, May 7\, beginning at 5:30 PM at the Brave Horse
-  Tavern.\n\nParking: Free after 4pm (garage entrance is on Harrison\, betw
- een Terry and Boren on the north side of the building).\n\nFood & Drink: G
- T will be providing the room and snacks\; a cash bar and additional food a
- re available for purchase.\n\nPlease RSVP via Evite [1] to let us know you
-  are coming!\n\nGo Jackets!\n\nLinks:\n[0]  http://hg.gatech.edu/node/6212
- 18#0\n[1]  http://evite.me/qhBPN8uM1f\n[2]  https://www.bravehorsetavern.c
- om/
-LOCATION:Seattle\, WA (Brave Horse Tavern)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PACE Seminar
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190508T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190508T160000Z
-UID:http://hg.gatech.edu/node/621302#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nExtras: Free food\nStatus: published\n\nTime: T
- hursday\, May 9th 11:00am – 12:00pm\n\nLocation: CODA Room 114\n\nHost: 
- PACE\n\nTitle: Advanced Computing Approaches for Studying Lipid Membrane B
- iophysics\n\nAbstract:\n\nEnabling researchers\, by giving them access to 
- the tools\, technology\, and techniques\, is the key component to facilita
- ting the innovations of modern research. High-performance and high-through
- put computing are very important tools in modern research and are essentia
- l to making meaningful process on many important problems.\n\nIn this semi
- nar\, lessons learned in the course of serving a large and vibrant computa
- tional research community is described. Examples of troubleshooting and op
- timization of serial and parallel programs are shown. In addition\, the us
- e of optimization and benchmarking is used to show how technical data can 
- be developed to guide users in determination of their research resource re
- quirements and use. An example of using containerization technology to ena
- ble a specialized software stack is also detailed. In conclusion\, some of
-  the lessons learned and skills developed during the previous 4 years will
-  be shared.\n\nBiography:\n\nDr. Christopher Blanton is an experienced HPC
-  professional who has worked with some of the most exciting and innovative
-  computational researchers.\n\nHe earned his Ph.D. from Syracuse Universit
- y in Computational and Theoretical Chemistry. During his studies\, he firs
- t became deeply interested in computational research and HPC. After gradua
- tion\, he joined the Pennsylvania State University's Institute for CyberSc
- ience. Dr. Blanton has worked most closely with members of the materials s
- cience community\, as a co-appointed staff member of the Materials Researc
- h Institute and the Institute for CyberScience as well as serving as an IC
- S Associate and member of the ICS Coordinating Committee. He looks forward
-  to sharing some of his experiences with the Georgia Institute of Technolo
- gy's computational research community.\n\nLinks:\n[0]  http://hg.gatech.ed
- u/node/621302#0
-LOCATION:Coda Building\, Conference Room 114
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Finding Contentment: Working Toward Inner Peace and Global Harmony
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190508T200000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190508T230000Z
-UID:http://hg.gatech.edu/node/621489#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nStatus: published\n\nFree yoga lessons from 4 t
- o 6 p.m.\, followed by a free Indian dinner in Clough Commons.\n\n- 4 PM t
- o 6 PM: Yoga workshop (explaining the benefits and teaching asanas) on Tec
- h Green (by a trained yoga instructor)\n- 6 PM to 7 PM: Amma's conversatio
- n with students\n- 7 PM: Refreshments for students in Clough Commons\n\nLi
- nks:\n[0]  http://hg.gatech.edu/node/621489#0
-LOCATION:Tech Green and Room 144\, Clough Undergraduate Learning Commons
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PACE Seminar
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190509T153000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190509T163000Z
-UID:http://hg.gatech.edu/node/621311#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nExtras: Free food\nStatus: published\n\nDate an
- d Time: Thursday\, May 9th 11:30am – 12:30pm\n\nLocation: CODA Room 114\
- n\nHost: PACE\n\nTitle: Advanced Computing Approaches for Studying Lipid M
- embrane Biophysics\n\nAbstract:\n\nModern advanced computing has allowed s
- cientists to apply a “computational microscope” to numerous biological
-  systems and uncover their physical underpinnings in a manner not feasible
-  on smaller computing resources. This seminar will detail the use of super
- computers\, including XSEDE’s Bridges and D.E. Shaw Research’s Anton2\
- , both located at the Pittsburgh Supercomputing Center\, to conduct large-
- scale simulations of lipid bilayers. Why advanced computing resources were
-  necessary will be discussed\, as will steps taken to maximize the computa
- tional efficiency of these simulations.\n\nThis approach\, at the nexus of
-  computational science\, physics\, chemistry\, and biology\, may be employ
- ed to understand the behavior of cell membranes\, the lipid bilayers that 
- form the boundary of living cells and control their interaction with the s
- urrounding world. Lipid rafts\, regions of the membrane with distinct phys
- ical properties\, may be modeled in a system of coexisting liquid phases a
- nd simulated by Molecular Dynamics. Extracting lipid physical properties f
- rom the studies’ numerical data revealed new insights into coupling of l
- ipid rafts and communication across the membrane.\n\nBiography:\n\nDr. Mic
- hael Weiner received his undergraduate degree in physics from Yale Univers
- ity and his doctorate\, also in physics\, from Cornell University. He comp
- leted his doctoral research in computational biophysics in the laboratory 
- of Gerald Feigenson\, where he focused on Molecular Dynamics simulations o
- f the biophysical chemistry of lipid bilayers as models of cell membranes.
-  Dr. Weiner is interested applying advanced computing techniques to questi
- ons throughout the sciences.\n\nLinks:\n[0]  http://hg.gatech.edu/node/621
- 311#0
-LOCATION:Coda Building\, Conference Room 114
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:6th Annual BioE Day
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190509T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190509T230000Z
-UID:http://hg.gatech.edu/node/620527#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nCome celebrate th
- e Petit Institute's Bioengineering Interdisciplinary Graduate Program!\n\n
- AGENDA\n12:30 p.m. Posters in atrium - refreshments served\n\n1:15 p.m. Ke
- ynote Presentation - “Cast a Wide Net or Thread the Needle\, Balancing Y
- our BioE Skill Set for Success in Industry” - Ivan Cáceres\, Ph.D.\, Se
- nior Principal Data Analytics & Cognitive Autonomy Engineer\, Northrop Gru
- mman\n\n2:15 p.m. Rapid Fire\n\n3:15 p.m. Coffee break\n\n3:30 p.m. Gradua
- te student presentation\n\n3:40 p.m. Graduate student presentation\n\n3:50
-  p.m. Graduate student presentation\n\n4:00 p.m. Outstanding Advisor Prese
- ntation - "Just (Bio)Eing Yourself" - Susan Thomas\, Ph.D.\, Associate Pro
- fessor\, George W. Woodruff School of Mechanical Engineering\n\n4:30 p.m. 
- Outstanding Paper Presentation - "Microfluidic Generation of Transient Cel
- l Volume Exchange for Convectively Driven Intracellular Delivery of Large 
- Macromolecules" - Anna Liu\, doctoral candidate\; Todd Sulchek\, Ph.D.\, A
- dvisor\n\n5:00 p.m. Awards\n\n5:15 p.m. Fun and Games on the Bioquad - ref
- reshments served\n\nLinks:\n[0]  http://hg.gatech.edu/node/620527#0\n[1]  
- http://bioengineering.gatech.edu/
-LOCATION:Petit Biotechnology Building - 315 Ferst Drive NW\, Atlanta\, GA 
- 30332
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Spring 2019 NanoFANS (Focusing on Advanced Nanobio Systems) FORUM
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190510T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190510T183000Z
@@ -9813,18 +9681,18 @@ BEGIN:VEVENT
 SUMMARY:Global Climate Action Symposium
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190927T130000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190927T220000Z
-UID:http://hg.gatech.edu/node/625664#0
+UID:http://hg.gatech.edu/node/635189#0
 DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  \, Public\, Undergraduate students\nExtras: Free Food\nStatus: published\n
  \nThe Global Climate Action Symposium will bring together a wide range of 
  experts to showcase climate change engagement by local student activists\,
   scientists and engineers\, business and policy experts\, and artists. Joi
  ntly sponsored by Georgia Tech and six European consulates during European
-  Climate Diplomacy Week [3]\, the event will be held in the brand new Kend
- eda Building for Innovative Sustainable Design [4]\, where guests can lear
+  Climate Diplomacy Week [4]\, the event will be held in the brand new Kend
+ eda Building for Innovative Sustainable Design [5]\, where guests can lear
  n about how the building will produce more energy than it uses\, collect a
  nd recycle water for its operations\, and promote a just and equitable wor
- ld.\n\n[5]\n\nRegistration is free:\n\n[6]\n\nSchedule of Events\n9 - 9:30
+ ld.\n\n[6]\n\nRegistration is free:\n\n[7]\n\nSchedule of Events\n9 - 9:30
   AM\n\nRegistration and coffee\n\nKendeda Building atrium\nPart 1 – Scie
  nce\, Technology\, and Policies\n9:30 AM - 10:00 AM\n\nOpening remarks\nKe
  ndeda Building auditorium\n- Shan Arora\, Director\, The Kendeda Building\
@@ -9881,7 +9749,7 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  Chair and Professor\, School of Modern Languages\; Founding co-Director\, 
  the Atlanta Global Studies Center\, Georgia Institute of Technology\n\nPar
  t 4 – Reception\n5:00 PM - 6:00 PM\n\nReception\nKendeda Building atrium
- \n\nRegistration is free. [6]\n\nThe Global Climate Action Symposium will 
+ \n\nRegistration is free. [7]\n\nThe Global Climate Action Symposium will 
  bring together a wide range of experts to showcase climate change engageme
  nt by local student activists\, scientists and engineers\, business and po
  licy experts\, and artists. Jointly sponsored by Georgia Tech and six Euro
@@ -9891,7 +9759,7 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  han it uses\, collect and recycle water for its operations\, and promote a
   just and equitable world.\n\n- Part 1 - Science\, Technology\, and Polici
  es\n- Part 2 – Student Engagement\, "Fridays for Future"\n- Part 3 – A
- rt\n- Part 4 – Tour of the Kendeda Building\n\nView the full agenda [7]\
+ rt\n- Part 4 – Tour of the Kendeda Building\n\nView the full agenda [8]\
  n\nThe Global Climate Action Symposium will bring together a wide range of
   experts to showcase climate change engagement by local student activists\
  , scientists and engineers\, business and policy experts\, and artists. Jo
@@ -9902,15 +9770,16 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  cle water for its operations\, and promote a just and equitable world. Reg
  istration is FREE.\n\n- Part 1 - Science\, Technology\, and Policies\n- Pa
  rt 2 - Student Engagement\, "Fridays for Future"\n- Part 3 - Art\n- Part 4
-  - Tour of the Kendeda Building\n\nRegister Here [5]\n\nLinks:\n[0]  http:
- //hg.gatech.edu/node/625664#0\n[1]  http://hg.gatech.edu/node/625071#0\n[2
- ]  https://gatech.campuslabs.com/engage/event/4928135\n[3]  https://ec.eur
- opa.eu/clima/events/climate-diplomacy-weeks_en\n[4]  https://livingbuildin
- g.gatech.edu/kendeda-building-innovative-sustainable-design\n[5]  https://
- globalchange.gatech.edu/events/global-climate-action-symposium/\n[6]  http
- s://www.eventbrite.com/e/global-climate-action-symposium-european-climate-
- diplomacy-week-registration-69731806711\n[7]  https://globalchange.gatech.
- edu/GCAS\n[8]  https://livingbuilding.gatech.edu
+  - Tour of the Kendeda Building\n\nRegister Here [6]\n\nLinks:\n[0]  http:
+ //hg.gatech.edu/node/635189#0\n[1]  http://hg.gatech.edu/node/625071#0\n[2
+ ]  http://hg.gatech.edu/node/625664#0\n[3]  https://gatech.campuslabs.com/
+ engage/event/4928135\n[4]  https://ec.europa.eu/clima/events/climate-diplo
+ macy-weeks_en\n[5]  https://livingbuilding.gatech.edu/kendeda-building-inn
+ ovative-sustainable-design\n[6]  https://globalchange.gatech.edu/events/gl
+ obal-climate-action-symposium/\n[7]  https://www.eventbrite.com/e/global-c
+ limate-action-symposium-european-climate-diplomacy-week-registration-69731
+ 806711\n[8]  https://globalchange.gatech.edu/GCAS\n[9]  https://livingbuil
+ ding.gatech.edu
 LOCATION:Kendeda Building for Innovative Sustainable Design
 END:VEVENT
 BEGIN:VEVENT
