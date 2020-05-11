@@ -2,31 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Spring 2019 NanoFANS (Focusing on Advanced Nanobio Systems) FORUM
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190510T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190510T183000Z
-UID:http://hg.gatech.edu/node/620614#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nYou are cordially invited to participate in the Spring 2019 Meeting of t
- he NanoFANS Forum to be held on Friday\, May 10\, 2019 from 11:00 AM - 2:3
- 0 PM. A box lunch is included at no cost to the participants.\n\nSpeakers:
- \n\n* Dr. Todd Sulchek (Professor of Mechanical Engineering at Georgia Tec
- h) will speak on: "Reconstruction of interfacial energy landscapes using B
- rownian fluctuations of atomic force microscopy."\n\n* Dr. Harold Kim (Pro
- fessor of Physics at Georgia Tech) will speak on: "Nanoscale mechanics of 
- rigid DNA loops.”\n\n* Dr. Xianqiao Wang (Professor of Mechanical Engine
- ering at the University of Georgia) will speak on: "Computational Interrog
- ation into Nanoparticle-Cell Membrane Interfacial Mechanics."\n\n* Dr. Yuh
- ang Hu (Professor of Mechanical Engineering at Georgia Tech) will speak on
- : "Chemomechanics of Soft Living Materials."\n\nPlease register on or befo
- re May 8\, 2019 to ensure your lunch reservations (no cost to the particip
- ants). [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/620614#0\n[1]  http:/
- /spring2019nanofans.doattend.com/\n[2]  http://ien.gatech.edu/
-LOCATION:Marcus Nanotechnology Building 1116 | 345 Ferst Drive | Atlanta G
- A | 30332
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CREATE-X Idea to Prototype (I2P) Information Session
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190513T210000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190513T230000Z
