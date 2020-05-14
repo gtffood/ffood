@@ -2,42 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:CREATE-X Idea to Prototype (I2P) Information Session
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190513T210000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190513T230000Z
-UID:http://hg.gatech.edu/node/621529#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
- aduate students\nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http
- ://hg.gatech.edu/node/621529#0\n[1]  http://gatech.co1.qualtrics.com/jfe/f
- orm/SV_2meX2KP4kdXG2wJ
-LOCATION:Klaus Advanced Computing Building Room 2448
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BERNARD M. GORDON PRIZE AWARD CEREMONY
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190514T200000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190514T223000Z
-UID:http://hg.gatech.edu/node/618210#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nStatus: published\n\nTHE BERNARD M. GORDON PRIZE
-  FOR INNOVATION IN ENGINEERING AND TECHNOLOGY EDUCATION\n\nMAY 14\, 2019\n
- \n4:00-5:00pm\nA Panel Discussion: Problem-Driven Engineering Education to
-  Create Leaders in Biomedical Engineering.\n\n- Remarks by Larry Jacobs\, 
- Associate Dean for Academic Affairs and Professor\, Georgia Institute of T
- echnology\n- Panelists:\n- Wendy Newstetter\, Gordon Prize recipient\n- Pa
- ul Benkeser\, Gordon Prize recipient\n- Joseph Le Doux\, Gordon Prize reci
- pient\n- Angela Gill Nelms\, BME ‘07\n- Arun Kumar\, BME ‘14\n- Modera
- tor: Susan Margulies\, Chair of the Wallace H. Coulter Department\n\n5:00-
- 5:30pm\nPRESENTATION OF THE BERNARD M. GORDON PRIZE\n\nAcademy of Medicine
-  Lecture Hall\n\n- Award presentation by Dr. C.D. “Dan” Mote\, Preside
- nt\, NAE\n- Acceptance of award by Gordon Prize recipients\; Wendy Newstet
- ter\, Paul Benkeser and Joseph Le Doux\n- Remarks\n- Closing remarks by Dr
- . C.D. “Dan” Mote\, President\, NAE\n\n5:30-6:30pm\nRECEPTION WITH THE
-  GEORGIA TECH COMMUNITY\n\nAcademy of Medicine Atrium\n\n6:30-9:00pm\nDINN
- ER (by invitation)\n\nAcademy of Medicine\, Crystal Dining Room\n\nLinks:\
- n[0]  http://hg.gatech.edu/node/618210#0
-LOCATION:Academy of Medicine Lecture Hall at Georgia Tech
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mindful Mentoring: Enhance productivity through better graduate st
  udent advising
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190515T123000Z
