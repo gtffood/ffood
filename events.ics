@@ -28432,6 +28432,1234 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Online Webinar
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Test Event Multiple Days
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200608T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200608T173000Z
+UID:http://hg.gatech.edu/node/634272#1
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\nStatus: published\n\nBob says...\nIf we make a bo
+ o-boo\, it's right here -- but that's alright\, because we don't make mist
+ akes in our world. Just make little criss-cross strokes. Remember where yo
+ ur finger's been before you scratch your nose. The joy of painting really 
+ is universal. We'll make those decisions later. Let's start with an almigh
+ ty sky here. You can determine what your world is like. Don't worry about 
+ it -- just sort of throw it in.\n\nI'm a nature freak. The only thing I'm 
+ good at is falling down. We'll put a few little nicety things in there. We
+ 'll just sort of see what happens. Give this ol' windmill a leg! You do wh
+ atever works for you. They think you're magic! This is where you take out 
+ all your frustrations and all your hostilities\, and just have a good time
+ .\n\nHowever you want to change this\, that's the way it should be. Just g
+ o around and try them all. You need to understand nature. Don't just throw
+  it up there and think that a cloud will appear. All you do is just go bac
+ k with it. Shoot\, I've got to get a little crazy. That's about all we nee
+ d. I want some happy little things happening up here in the sky.\n\nLinks:
+ \n[0]  http://hg.gatech.edu/node/634272#1\n[1]  http://google.com\n[2]  ht
+ tps://www.google.com
+LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test Event Multiple Days
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200609T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200609T173000Z
+UID:http://hg.gatech.edu/node/634272#2
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\nStatus: published\n\nBob says...\nIf we make a bo
+ o-boo\, it's right here -- but that's alright\, because we don't make mist
+ akes in our world. Just make little criss-cross strokes. Remember where yo
+ ur finger's been before you scratch your nose. The joy of painting really 
+ is universal. We'll make those decisions later. Let's start with an almigh
+ ty sky here. You can determine what your world is like. Don't worry about 
+ it -- just sort of throw it in.\n\nI'm a nature freak. The only thing I'm 
+ good at is falling down. We'll put a few little nicety things in there. We
+ 'll just sort of see what happens. Give this ol' windmill a leg! You do wh
+ atever works for you. They think you're magic! This is where you take out 
+ all your frustrations and all your hostilities\, and just have a good time
+ .\n\nHowever you want to change this\, that's the way it should be. Just g
+ o around and try them all. You need to understand nature. Don't just throw
+  it up there and think that a cloud will appear. All you do is just go bac
+ k with it. Shoot\, I've got to get a little crazy. That's about all we nee
+ d. I want some happy little things happening up here in the sky.\n\nLinks:
+ \n[0]  http://hg.gatech.edu/node/634272#2\n[1]  http://google.com\n[2]  ht
+ tps://www.google.com
+LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test Event Multiple Days
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200610T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200610T173000Z
+UID:http://hg.gatech.edu/node/634272#3
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\nStatus: published\n\nBob says...\nIf we make a bo
+ o-boo\, it's right here -- but that's alright\, because we don't make mist
+ akes in our world. Just make little criss-cross strokes. Remember where yo
+ ur finger's been before you scratch your nose. The joy of painting really 
+ is universal. We'll make those decisions later. Let's start with an almigh
+ ty sky here. You can determine what your world is like. Don't worry about 
+ it -- just sort of throw it in.\n\nI'm a nature freak. The only thing I'm 
+ good at is falling down. We'll put a few little nicety things in there. We
+ 'll just sort of see what happens. Give this ol' windmill a leg! You do wh
+ atever works for you. They think you're magic! This is where you take out 
+ all your frustrations and all your hostilities\, and just have a good time
+ .\n\nHowever you want to change this\, that's the way it should be. Just g
+ o around and try them all. You need to understand nature. Don't just throw
+  it up there and think that a cloud will appear. All you do is just go bac
+ k with it. Shoot\, I've got to get a little crazy. That's about all we nee
+ d. I want some happy little things happening up here in the sky.\n\nLinks:
+ \n[0]  http://hg.gatech.edu/node/634272#3\n[1]  http://google.com\n[2]  ht
+ tps://www.google.com
+LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test Event Multiple Days
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200615T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200615T173000Z
+UID:http://hg.gatech.edu/node/634272#4
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\nStatus: published\n\nBob says...\nIf we make a bo
+ o-boo\, it's right here -- but that's alright\, because we don't make mist
+ akes in our world. Just make little criss-cross strokes. Remember where yo
+ ur finger's been before you scratch your nose. The joy of painting really 
+ is universal. We'll make those decisions later. Let's start with an almigh
+ ty sky here. You can determine what your world is like. Don't worry about 
+ it -- just sort of throw it in.\n\nI'm a nature freak. The only thing I'm 
+ good at is falling down. We'll put a few little nicety things in there. We
+ 'll just sort of see what happens. Give this ol' windmill a leg! You do wh
+ atever works for you. They think you're magic! This is where you take out 
+ all your frustrations and all your hostilities\, and just have a good time
+ .\n\nHowever you want to change this\, that's the way it should be. Just g
+ o around and try them all. You need to understand nature. Don't just throw
+  it up there and think that a cloud will appear. All you do is just go bac
+ k with it. Shoot\, I've got to get a little crazy. That's about all we nee
+ d. I want some happy little things happening up here in the sky.\n\nLinks:
+ \n[0]  http://hg.gatech.edu/node/634272#4\n[1]  http://google.com\n[2]  ht
+ tps://www.google.com
+LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Responsive Supply Chain Design and Operations Course
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200616T133000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200616T170000Z
+UID:http://hg.gatech.edu/node/625086#1
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nStatus: published\n\nNote: This course has been 
+ transitioned to an online format for 2020.\n\nClasses will be taught by LI
+ VE video instruction similar to the experience you would receive in person
+  with the same interactive components.\n\nCourse Description\nMeeting dema
+ nd in a timely and cost-effective manner is important both in public and p
+ rivate supply chains\, and heavily depend on the design and operation of t
+ hese supply chains. Demand is affected by ongoing factors such as local ec
+ onomy\, infrastructure\, and geographic location\, as well as unexpected e
+ vents such as natural or manmade disasters or other large-scale disruption
+ s. Designing and operating responsive supply chains requires the considera
+ tion of uncertainty in timing\, scope\, scale\, and understanding of vario
+ us topics such as forecasting\, distribution network design\, and inventor
+ y management. This course will examine methods and models for making suppl
+ y chain design and operational decisions and explore the significant value
+  that is obtained through informed decision-making in advance of an unpred
+ ictable event or long-term strategy for meeting the need of customers and 
+ beneficiaries.\n\nWho Should Attend\nThis course is designed for represent
+ atives from governmental or non-governmental organizations\, private corpo
+ rations\, military\, and foundations\, including but not limited to senior
+  executives overseeing administrative and operational functions of an orga
+ nization\, logistics and supply chain managers\, program managers\, direct
+ ors of field operations\, directors of emergency/disaster preparedness and
+  response\, and public health professionals.\n\nHow You Will Benefit\n- Pr
+ ovide immediate impact to your organization through learnings gained from 
+ applied and real-world case studies.\n- Learn to bring NGOs\, businesses\,
+  or government entities together to enhance collaboration\, cooperation\, 
+ and communication.\n- Discover current trends and procedures to help organ
+ izations and team members get and stay ahead of the curve.\n- Build a crit
+ ical knowledge base to make tactical decisions around inventory\, routing\
+ , and distribution.\n- Deliver best practices to measure and evaluate the 
+ efficiency\, impact\, and outcomes of focused initiatives or ongoing logis
+ tics and supply chain operations.\n- Transform the health and humanitarian
+  sectors with increased capacity to participate in planning and strategic 
+ decision-making for effective supply-chain management.\n\nWhat Is Covered\
+ n- Network modeling approaches\n- Forecasting techniques\n- Strategies for
+  making decisions under uncertainty\n- Other data-driven analytical approa
+ ches\n\nPre-Course Activities (2.5 hrs) - Online via GTPE platform\nClassr
+ oom Activities (2 days) - Georgia Tech Global Learning Center\n**online cl
+ ass format (4 days) - Online GTPE platform\nNOTE: Pre-course activities wi
+ ll conducted online using the CANVAS online learning management system. Ac
+ cess instructions will be provided to registrants when details become avai
+ lable.\n\nPre-Course Activities - Conducted online via GTPE online platfor
+ m\n- Distribution Network Design – 2 hours\n- Forecasting – 1.5 hours\
+ n\nCourse Materials\nProvided\n\n- Participants receive readings\, case st
+ udies\, spreadsheet files\, and lecture slides\, and will be given access 
+ to the pre-course web-based activities.\n\nRecommended\n\n- Students need 
+ a laptop with Microsoft Excel and the ability to connect to a high-speed i
+ nternet connection (internet access is provided for onsite portions of cou
+ rse).\n\nCourse Prerequisite and Related Certificate Information\nFor thos
+ e interested in earning the Health and Humanitarian Supply Chain Managemen
+ t Certificate\, this course is the first of the three-course certificate p
+ rogram. To earn the certificate\, participants must register and complete 
+ the following courses within three years:\n\n- Responsive Supply Chain Des
+ ign and Operations\n- Inventory Management and Resource Allocation in Supp
+ ly Chains [01]\n- Systems Operations and Strategic Interactions in Supply 
+ Chains [02]\nThe Georgia Tech Health and Humanitarian Logistics Profession
+ al Certificate Program [03] is an executive education program designed for
+  practitioners in non-governmental organizations (NGOs)\, government\, ind
+ ustry\, and the military who are active participants in health and humanit
+ arian sectors. The courses are developed for practitioners seeking to buil
+ d skills to improve decision making in preparedness\, response operations 
+ planning\, and system design. Courses include many interactive components\
+ , such as case studies and games\, which help professionals in the humanit
+ arian world to link the challenges and decision-making tradeoffs they face
+  in practice with the systematic approaches\, tools\, and techniques prese
+ nted.\n\nCourse CEUs\nThis course provides for 1.40 continuing education u
+ nits (CEUs).\n\nCourse Instructors\nJulie Swann [04]\, Pinar Keskinocak [0
+ 5]\, Ozlem Ergun [06]\n\nCourse Fees\nStandard: $2\,400.00\, Alumni/Org Di
+ scount: $2\,160.00\, Certificate: $1\,992.00 (cost of each course when sig
+ ning up for and paying for a multi-course certificate program).\n\nFirst t
+ ime attendees pay the listed course fee. If you are a returning student of
+  the Supply Chain & Logistics Institute (SCL) courses\, you will receive a
+  10% discount which you will enter at the "Check Out" page. Use Coupon Cod
+ e SCL-Alum.\n\nThere are also discounts available for multiple-team member
+  registrations\, to those who prepay for all the courses in a specific cer
+ tificate\, to active/retired military\, or to members of certain organizat
+ ions ( click this link [07] for a listing).\n\nDiscounts cannot be combine
+ d or used for online formatted courses. To receive the coupon code for the
+ se discounts\, call 404-385-8663 or send us an email [08] prior to registr
+ ation\n\nThe program fee for In Person courses (non-online) includes conti
+ nental breakfasts\, lunches\, breaks\, parking\, internet access\, and all
+  classroom materials.\n\nIf CHHS must cancel a program\, registrants will 
+ receive a full refund. Georgia Tech\, however\, cannot assume the responsi
+ bility for other costs incurred. Due to program enrollment limits\, early 
+ registration is encouraged. Registrations will be acknowledged by a letter
+  of confirmation from Professional Education.\n\n** The 2020 Virtual Progr
+ am\, will also be offered at a reduced cost of $4\,200 (originally $6\,000
+ ). Courses taken individually (not the full 3 course program) will be $180
+ 0 each rather than the original fee of $2400.\n\nIn Person Course Times\nO
+ n the first day\, please check in at least 30 minutes before the class sta
+ rt time.\n\n- Morning session (8:30am-12:30pm)\n- Lunch (12:30am-1:30pm)\n
+ - Afternoon session (1:30am-5:00pm)\n\nOnline Course Times\nEach course wi
+ ll run for 1-week Monday through Thursday from 9:30am to 1:00pm EST each d
+ ay.\n\nLinks:\n[00]  http://hg.gatech.edu/node/625086#1\n[01]  https://chh
+ s.gatech.edu/education/professional-education/course/humtdm\n[02]  https:/
+ /chhs.gatech.edu/education/professional-education/course/humso\n[03]  http
+ s://pe.gatech.edu/certificates/supply-chain-logistics/health-and-humanitar
+ ian-logistics-certificate\n[04]  https://chhs.gatech.edu/users/julie-swann
+ \n[05]  https://chhs.gatech.edu/users/pinar-keskinocak\n[06]  https://chhs
+ .gatech.edu/users/ozlem-ergun\n[07]  https://chhs.gatech.edu/education/pro
+ fessional-education/discounts\n[08]  https://chhs.gatech.edu/contact/Profe
+ ssional_Education_Offerings\n[09]  https://chhs.gatech.edu\n[10]  https://
+ pe.gatech.edu/global-learning-center
+LOCATION:Georgia Tech Global Learning Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test Event Multiple Days
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200616T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200616T173000Z
+UID:http://hg.gatech.edu/node/634272#5
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\nStatus: published\n\nBob says...\nIf we make a bo
+ o-boo\, it's right here -- but that's alright\, because we don't make mist
+ akes in our world. Just make little criss-cross strokes. Remember where yo
+ ur finger's been before you scratch your nose. The joy of painting really 
+ is universal. We'll make those decisions later. Let's start with an almigh
+ ty sky here. You can determine what your world is like. Don't worry about 
+ it -- just sort of throw it in.\n\nI'm a nature freak. The only thing I'm 
+ good at is falling down. We'll put a few little nicety things in there. We
+ 'll just sort of see what happens. Give this ol' windmill a leg! You do wh
+ atever works for you. They think you're magic! This is where you take out 
+ all your frustrations and all your hostilities\, and just have a good time
+ .\n\nHowever you want to change this\, that's the way it should be. Just g
+ o around and try them all. You need to understand nature. Don't just throw
+  it up there and think that a cloud will appear. All you do is just go bac
+ k with it. Shoot\, I've got to get a little crazy. That's about all we nee
+ d. I want some happy little things happening up here in the sky.\n\nLinks:
+ \n[0]  http://hg.gatech.edu/node/634272#5\n[1]  http://google.com\n[2]  ht
+ tps://www.google.com
+LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Responsive Supply Chain Design and Operations Course
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200617T133000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200617T170000Z
+UID:http://hg.gatech.edu/node/625086#2
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nStatus: published\n\nNote: This course has been 
+ transitioned to an online format for 2020.\n\nClasses will be taught by LI
+ VE video instruction similar to the experience you would receive in person
+  with the same interactive components.\n\nCourse Description\nMeeting dema
+ nd in a timely and cost-effective manner is important both in public and p
+ rivate supply chains\, and heavily depend on the design and operation of t
+ hese supply chains. Demand is affected by ongoing factors such as local ec
+ onomy\, infrastructure\, and geographic location\, as well as unexpected e
+ vents such as natural or manmade disasters or other large-scale disruption
+ s. Designing and operating responsive supply chains requires the considera
+ tion of uncertainty in timing\, scope\, scale\, and understanding of vario
+ us topics such as forecasting\, distribution network design\, and inventor
+ y management. This course will examine methods and models for making suppl
+ y chain design and operational decisions and explore the significant value
+  that is obtained through informed decision-making in advance of an unpred
+ ictable event or long-term strategy for meeting the need of customers and 
+ beneficiaries.\n\nWho Should Attend\nThis course is designed for represent
+ atives from governmental or non-governmental organizations\, private corpo
+ rations\, military\, and foundations\, including but not limited to senior
+  executives overseeing administrative and operational functions of an orga
+ nization\, logistics and supply chain managers\, program managers\, direct
+ ors of field operations\, directors of emergency/disaster preparedness and
+  response\, and public health professionals.\n\nHow You Will Benefit\n- Pr
+ ovide immediate impact to your organization through learnings gained from 
+ applied and real-world case studies.\n- Learn to bring NGOs\, businesses\,
+  or government entities together to enhance collaboration\, cooperation\, 
+ and communication.\n- Discover current trends and procedures to help organ
+ izations and team members get and stay ahead of the curve.\n- Build a crit
+ ical knowledge base to make tactical decisions around inventory\, routing\
+ , and distribution.\n- Deliver best practices to measure and evaluate the 
+ efficiency\, impact\, and outcomes of focused initiatives or ongoing logis
+ tics and supply chain operations.\n- Transform the health and humanitarian
+  sectors with increased capacity to participate in planning and strategic 
+ decision-making for effective supply-chain management.\n\nWhat Is Covered\
+ n- Network modeling approaches\n- Forecasting techniques\n- Strategies for
+  making decisions under uncertainty\n- Other data-driven analytical approa
+ ches\n\nPre-Course Activities (2.5 hrs) - Online via GTPE platform\nClassr
+ oom Activities (2 days) - Georgia Tech Global Learning Center\n**online cl
+ ass format (4 days) - Online GTPE platform\nNOTE: Pre-course activities wi
+ ll conducted online using the CANVAS online learning management system. Ac
+ cess instructions will be provided to registrants when details become avai
+ lable.\n\nPre-Course Activities - Conducted online via GTPE online platfor
+ m\n- Distribution Network Design – 2 hours\n- Forecasting – 1.5 hours\
+ n\nCourse Materials\nProvided\n\n- Participants receive readings\, case st
+ udies\, spreadsheet files\, and lecture slides\, and will be given access 
+ to the pre-course web-based activities.\n\nRecommended\n\n- Students need 
+ a laptop with Microsoft Excel and the ability to connect to a high-speed i
+ nternet connection (internet access is provided for onsite portions of cou
+ rse).\n\nCourse Prerequisite and Related Certificate Information\nFor thos
+ e interested in earning the Health and Humanitarian Supply Chain Managemen
+ t Certificate\, this course is the first of the three-course certificate p
+ rogram. To earn the certificate\, participants must register and complete 
+ the following courses within three years:\n\n- Responsive Supply Chain Des
+ ign and Operations\n- Inventory Management and Resource Allocation in Supp
+ ly Chains [01]\n- Systems Operations and Strategic Interactions in Supply 
+ Chains [02]\nThe Georgia Tech Health and Humanitarian Logistics Profession
+ al Certificate Program [03] is an executive education program designed for
+  practitioners in non-governmental organizations (NGOs)\, government\, ind
+ ustry\, and the military who are active participants in health and humanit
+ arian sectors. The courses are developed for practitioners seeking to buil
+ d skills to improve decision making in preparedness\, response operations 
+ planning\, and system design. Courses include many interactive components\
+ , such as case studies and games\, which help professionals in the humanit
+ arian world to link the challenges and decision-making tradeoffs they face
+  in practice with the systematic approaches\, tools\, and techniques prese
+ nted.\n\nCourse CEUs\nThis course provides for 1.40 continuing education u
+ nits (CEUs).\n\nCourse Instructors\nJulie Swann [04]\, Pinar Keskinocak [0
+ 5]\, Ozlem Ergun [06]\n\nCourse Fees\nStandard: $2\,400.00\, Alumni/Org Di
+ scount: $2\,160.00\, Certificate: $1\,992.00 (cost of each course when sig
+ ning up for and paying for a multi-course certificate program).\n\nFirst t
+ ime attendees pay the listed course fee. If you are a returning student of
+  the Supply Chain & Logistics Institute (SCL) courses\, you will receive a
+  10% discount which you will enter at the "Check Out" page. Use Coupon Cod
+ e SCL-Alum.\n\nThere are also discounts available for multiple-team member
+  registrations\, to those who prepay for all the courses in a specific cer
+ tificate\, to active/retired military\, or to members of certain organizat
+ ions ( click this link [07] for a listing).\n\nDiscounts cannot be combine
+ d or used for online formatted courses. To receive the coupon code for the
+ se discounts\, call 404-385-8663 or send us an email [08] prior to registr
+ ation\n\nThe program fee for In Person courses (non-online) includes conti
+ nental breakfasts\, lunches\, breaks\, parking\, internet access\, and all
+  classroom materials.\n\nIf CHHS must cancel a program\, registrants will 
+ receive a full refund. Georgia Tech\, however\, cannot assume the responsi
+ bility for other costs incurred. Due to program enrollment limits\, early 
+ registration is encouraged. Registrations will be acknowledged by a letter
+  of confirmation from Professional Education.\n\n** The 2020 Virtual Progr
+ am\, will also be offered at a reduced cost of $4\,200 (originally $6\,000
+ ). Courses taken individually (not the full 3 course program) will be $180
+ 0 each rather than the original fee of $2400.\n\nIn Person Course Times\nO
+ n the first day\, please check in at least 30 minutes before the class sta
+ rt time.\n\n- Morning session (8:30am-12:30pm)\n- Lunch (12:30am-1:30pm)\n
+ - Afternoon session (1:30am-5:00pm)\n\nOnline Course Times\nEach course wi
+ ll run for 1-week Monday through Thursday from 9:30am to 1:00pm EST each d
+ ay.\n\nLinks:\n[00]  http://hg.gatech.edu/node/625086#2\n[01]  https://chh
+ s.gatech.edu/education/professional-education/course/humtdm\n[02]  https:/
+ /chhs.gatech.edu/education/professional-education/course/humso\n[03]  http
+ s://pe.gatech.edu/certificates/supply-chain-logistics/health-and-humanitar
+ ian-logistics-certificate\n[04]  https://chhs.gatech.edu/users/julie-swann
+ \n[05]  https://chhs.gatech.edu/users/pinar-keskinocak\n[06]  https://chhs
+ .gatech.edu/users/ozlem-ergun\n[07]  https://chhs.gatech.edu/education/pro
+ fessional-education/discounts\n[08]  https://chhs.gatech.edu/contact/Profe
+ ssional_Education_Offerings\n[09]  https://chhs.gatech.edu\n[10]  https://
+ pe.gatech.edu/global-learning-center
+LOCATION:Georgia Tech Global Learning Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test Event Multiple Days
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200617T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200617T173000Z
+UID:http://hg.gatech.edu/node/634272#6
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\nStatus: published\n\nBob says...\nIf we make a bo
+ o-boo\, it's right here -- but that's alright\, because we don't make mist
+ akes in our world. Just make little criss-cross strokes. Remember where yo
+ ur finger's been before you scratch your nose. The joy of painting really 
+ is universal. We'll make those decisions later. Let's start with an almigh
+ ty sky here. You can determine what your world is like. Don't worry about 
+ it -- just sort of throw it in.\n\nI'm a nature freak. The only thing I'm 
+ good at is falling down. We'll put a few little nicety things in there. We
+ 'll just sort of see what happens. Give this ol' windmill a leg! You do wh
+ atever works for you. They think you're magic! This is where you take out 
+ all your frustrations and all your hostilities\, and just have a good time
+ .\n\nHowever you want to change this\, that's the way it should be. Just g
+ o around and try them all. You need to understand nature. Don't just throw
+  it up there and think that a cloud will appear. All you do is just go bac
+ k with it. Shoot\, I've got to get a little crazy. That's about all we nee
+ d. I want some happy little things happening up here in the sky.\n\nLinks:
+ \n[0]  http://hg.gatech.edu/node/634272#6\n[1]  http://google.com\n[2]  ht
+ tps://www.google.com
+LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Responsive Supply Chain Design and Operations Course
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200618T133000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200618T170000Z
+UID:http://hg.gatech.edu/node/625086#3
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nStatus: published\n\nNote: This course has been 
+ transitioned to an online format for 2020.\n\nClasses will be taught by LI
+ VE video instruction similar to the experience you would receive in person
+  with the same interactive components.\n\nCourse Description\nMeeting dema
+ nd in a timely and cost-effective manner is important both in public and p
+ rivate supply chains\, and heavily depend on the design and operation of t
+ hese supply chains. Demand is affected by ongoing factors such as local ec
+ onomy\, infrastructure\, and geographic location\, as well as unexpected e
+ vents such as natural or manmade disasters or other large-scale disruption
+ s. Designing and operating responsive supply chains requires the considera
+ tion of uncertainty in timing\, scope\, scale\, and understanding of vario
+ us topics such as forecasting\, distribution network design\, and inventor
+ y management. This course will examine methods and models for making suppl
+ y chain design and operational decisions and explore the significant value
+  that is obtained through informed decision-making in advance of an unpred
+ ictable event or long-term strategy for meeting the need of customers and 
+ beneficiaries.\n\nWho Should Attend\nThis course is designed for represent
+ atives from governmental or non-governmental organizations\, private corpo
+ rations\, military\, and foundations\, including but not limited to senior
+  executives overseeing administrative and operational functions of an orga
+ nization\, logistics and supply chain managers\, program managers\, direct
+ ors of field operations\, directors of emergency/disaster preparedness and
+  response\, and public health professionals.\n\nHow You Will Benefit\n- Pr
+ ovide immediate impact to your organization through learnings gained from 
+ applied and real-world case studies.\n- Learn to bring NGOs\, businesses\,
+  or government entities together to enhance collaboration\, cooperation\, 
+ and communication.\n- Discover current trends and procedures to help organ
+ izations and team members get and stay ahead of the curve.\n- Build a crit
+ ical knowledge base to make tactical decisions around inventory\, routing\
+ , and distribution.\n- Deliver best practices to measure and evaluate the 
+ efficiency\, impact\, and outcomes of focused initiatives or ongoing logis
+ tics and supply chain operations.\n- Transform the health and humanitarian
+  sectors with increased capacity to participate in planning and strategic 
+ decision-making for effective supply-chain management.\n\nWhat Is Covered\
+ n- Network modeling approaches\n- Forecasting techniques\n- Strategies for
+  making decisions under uncertainty\n- Other data-driven analytical approa
+ ches\n\nPre-Course Activities (2.5 hrs) - Online via GTPE platform\nClassr
+ oom Activities (2 days) - Georgia Tech Global Learning Center\n**online cl
+ ass format (4 days) - Online GTPE platform\nNOTE: Pre-course activities wi
+ ll conducted online using the CANVAS online learning management system. Ac
+ cess instructions will be provided to registrants when details become avai
+ lable.\n\nPre-Course Activities - Conducted online via GTPE online platfor
+ m\n- Distribution Network Design – 2 hours\n- Forecasting – 1.5 hours\
+ n\nCourse Materials\nProvided\n\n- Participants receive readings\, case st
+ udies\, spreadsheet files\, and lecture slides\, and will be given access 
+ to the pre-course web-based activities.\n\nRecommended\n\n- Students need 
+ a laptop with Microsoft Excel and the ability to connect to a high-speed i
+ nternet connection (internet access is provided for onsite portions of cou
+ rse).\n\nCourse Prerequisite and Related Certificate Information\nFor thos
+ e interested in earning the Health and Humanitarian Supply Chain Managemen
+ t Certificate\, this course is the first of the three-course certificate p
+ rogram. To earn the certificate\, participants must register and complete 
+ the following courses within three years:\n\n- Responsive Supply Chain Des
+ ign and Operations\n- Inventory Management and Resource Allocation in Supp
+ ly Chains [01]\n- Systems Operations and Strategic Interactions in Supply 
+ Chains [02]\nThe Georgia Tech Health and Humanitarian Logistics Profession
+ al Certificate Program [03] is an executive education program designed for
+  practitioners in non-governmental organizations (NGOs)\, government\, ind
+ ustry\, and the military who are active participants in health and humanit
+ arian sectors. The courses are developed for practitioners seeking to buil
+ d skills to improve decision making in preparedness\, response operations 
+ planning\, and system design. Courses include many interactive components\
+ , such as case studies and games\, which help professionals in the humanit
+ arian world to link the challenges and decision-making tradeoffs they face
+  in practice with the systematic approaches\, tools\, and techniques prese
+ nted.\n\nCourse CEUs\nThis course provides for 1.40 continuing education u
+ nits (CEUs).\n\nCourse Instructors\nJulie Swann [04]\, Pinar Keskinocak [0
+ 5]\, Ozlem Ergun [06]\n\nCourse Fees\nStandard: $2\,400.00\, Alumni/Org Di
+ scount: $2\,160.00\, Certificate: $1\,992.00 (cost of each course when sig
+ ning up for and paying for a multi-course certificate program).\n\nFirst t
+ ime attendees pay the listed course fee. If you are a returning student of
+  the Supply Chain & Logistics Institute (SCL) courses\, you will receive a
+  10% discount which you will enter at the "Check Out" page. Use Coupon Cod
+ e SCL-Alum.\n\nThere are also discounts available for multiple-team member
+  registrations\, to those who prepay for all the courses in a specific cer
+ tificate\, to active/retired military\, or to members of certain organizat
+ ions ( click this link [07] for a listing).\n\nDiscounts cannot be combine
+ d or used for online formatted courses. To receive the coupon code for the
+ se discounts\, call 404-385-8663 or send us an email [08] prior to registr
+ ation\n\nThe program fee for In Person courses (non-online) includes conti
+ nental breakfasts\, lunches\, breaks\, parking\, internet access\, and all
+  classroom materials.\n\nIf CHHS must cancel a program\, registrants will 
+ receive a full refund. Georgia Tech\, however\, cannot assume the responsi
+ bility for other costs incurred. Due to program enrollment limits\, early 
+ registration is encouraged. Registrations will be acknowledged by a letter
+  of confirmation from Professional Education.\n\n** The 2020 Virtual Progr
+ am\, will also be offered at a reduced cost of $4\,200 (originally $6\,000
+ ). Courses taken individually (not the full 3 course program) will be $180
+ 0 each rather than the original fee of $2400.\n\nIn Person Course Times\nO
+ n the first day\, please check in at least 30 minutes before the class sta
+ rt time.\n\n- Morning session (8:30am-12:30pm)\n- Lunch (12:30am-1:30pm)\n
+ - Afternoon session (1:30am-5:00pm)\n\nOnline Course Times\nEach course wi
+ ll run for 1-week Monday through Thursday from 9:30am to 1:00pm EST each d
+ ay.\n\nLinks:\n[00]  http://hg.gatech.edu/node/625086#3\n[01]  https://chh
+ s.gatech.edu/education/professional-education/course/humtdm\n[02]  https:/
+ /chhs.gatech.edu/education/professional-education/course/humso\n[03]  http
+ s://pe.gatech.edu/certificates/supply-chain-logistics/health-and-humanitar
+ ian-logistics-certificate\n[04]  https://chhs.gatech.edu/users/julie-swann
+ \n[05]  https://chhs.gatech.edu/users/pinar-keskinocak\n[06]  https://chhs
+ .gatech.edu/users/ozlem-ergun\n[07]  https://chhs.gatech.edu/education/pro
+ fessional-education/discounts\n[08]  https://chhs.gatech.edu/contact/Profe
+ ssional_Education_Offerings\n[09]  https://chhs.gatech.edu\n[10]  https://
+ pe.gatech.edu/global-learning-center
+LOCATION:Georgia Tech Global Learning Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test Event Multiple Days
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200622T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200622T173000Z
+UID:http://hg.gatech.edu/node/634272#7
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\nStatus: published\n\nBob says...\nIf we make a bo
+ o-boo\, it's right here -- but that's alright\, because we don't make mist
+ akes in our world. Just make little criss-cross strokes. Remember where yo
+ ur finger's been before you scratch your nose. The joy of painting really 
+ is universal. We'll make those decisions later. Let's start with an almigh
+ ty sky here. You can determine what your world is like. Don't worry about 
+ it -- just sort of throw it in.\n\nI'm a nature freak. The only thing I'm 
+ good at is falling down. We'll put a few little nicety things in there. We
+ 'll just sort of see what happens. Give this ol' windmill a leg! You do wh
+ atever works for you. They think you're magic! This is where you take out 
+ all your frustrations and all your hostilities\, and just have a good time
+ .\n\nHowever you want to change this\, that's the way it should be. Just g
+ o around and try them all. You need to understand nature. Don't just throw
+  it up there and think that a cloud will appear. All you do is just go bac
+ k with it. Shoot\, I've got to get a little crazy. That's about all we nee
+ d. I want some happy little things happening up here in the sky.\n\nLinks:
+ \n[0]  http://hg.gatech.edu/node/634272#7\n[1]  http://google.com\n[2]  ht
+ tps://www.google.com
+LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Inventory Management and Resource Allocation in Supply Chai
+ ns Course
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200623T133000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200623T170000Z
+UID:http://hg.gatech.edu/node/625085#1
+DESCRIPTION:Intended audience: Public\nStatus: published\n\nNote: This cou
+ rse has been transitioned to an online format for 2020.\n\nClasses will be
+  taught by LIVE video instruction similar to the experience you would rece
+ ive in person with the same interactive components.\n\nCourse Description\
+ nMany Supply Chain decisions are concerned with the timely and efficient p
+ rocurement\, allocation\, and distribution of resources (e.g. funds\, supp
+ lies\, volunteers\, money\, employees) through a supply chain network. Thi
+ s course will explore methodologies for “medium term” decision making 
+ including procurement and inventory policies\, strategies for distribution
+  and allocation of limited resources\, and supply chain design.\n\nWho Sho
+ uld Attend\nThis course is designed for representatives from governmental 
+ or non-governmental organizations\, private corporations\, military\, and 
+ foundations\, including but not limited to senior executives overseeing ad
+ ministrative and operational functions of an organization\, logistics and 
+ supply chain managers\, program managers\, directors of field operations\,
+  directors of emergency/disaster preparedness and response\, and public he
+ alth professionals.\n\nHow You Will Benefit\n- Provide immediate impact to
+  your organization through applied and real-world case studies.\n- Learn t
+ o bring NGOs\, businesses\, or government entities together to enhance col
+ laboration\, cooperation\, and communication.\n- Discover current trends a
+ nd procedures to help your organization and team members get and stay ahea
+ d of the curve.\n\nWhat Is Covered\n- Procurement decisions\n- Inventory m
+ anagement techniques for a single event versus ongoing operations under un
+ certainty\n- Strategies for resource allocation geographically and over ti
+ me\n\nPre-Course Activities (2.5 hrs) - Online via GTPE platform\nClassroo
+ m Activities (2 days) - Georgia Tech Global Learning Center\n**online clas
+ s format (4 days) - Online GTPE platform\nNOTE: Pre-course activities will
+  conducted online using the CANVAS online learning management system. Acce
+ ss instructions will be provided to registrants when details become availa
+ ble.\n\nPre-Course Activities - Conducted online via GTPE online platform\
+ n- Game Theory/Incentives- “Game Theory in Supply Chain\,” on Game The
+ ory and SCM – 2 hours\n- System Dynamics- “System Dynamics” pre-read
+ ing and VenSim SARS data – 2 hours\n\nCourse Materials\nProvided\n\n- Re
+ adings\, case studies\, spreadsheet files and lecture slides\n\nRecommende
+ d\n\n- Laptop with Microsoft Excel and wi-fi capability\n\nCourse Prerequi
+ site and Related Certificate Information\nFor those interested in earning 
+ the Health and Humanitarian Supply Chain Management Certificate\, this cou
+ rse is the second of the three-course certificate program. To earn the cer
+ tificate\, participants must register and complete the following courses w
+ ithin three years:\n\n- Responsive Supply Chain Design and Operations [1]\
+ n- Inventory Management and Resource Allocation in Supply Chains\n- System
+ s Operations and Strategic Interactions in Supply Chains [2]\nThe Georgia 
+ Tech Health and Humanitarian Logistics Professional Certificate Program [3
+ ] is an executive education program designed for practitioners in non-gove
+ rnmental organizations (NGOs)\, government\, industry\, and the military w
+ ho are active participants in health and humanitarian sectors. The courses
+  are developed for practitioners seeking to build skills to improve decisi
+ on making in preparedness\, response operations planning\, and system desi
+ gn. Courses include many interactive components\, such as case studies and
+  games\, which help professionals in the humanitarian world to link the ch
+ allenges and decision-making tradeoffs they face in practice with the syst
+ ematic approaches\, tools\, and techniques presented.\n\nCourse CEUs\nThis
+  course provides for 1.40 continuing education units (CEUs).\n\nCourse Ins
+ tructors\nJulie Swann [4]\, Pinar Keskinocak [5]\n\nCourse Fees\nStandard:
+  $2\,400.00\, Alumni/Org Discount: $2\,160.00\, Certificate: $1\,992.00 (c
+ ost of each course when signing up for and paying for a multi-course certi
+ ficate program).\n\nFirst time attendees pay the listed course fee. If you
+  are a returning student of the Supply Chain & Logistics Institute (SCL) c
+ ourses\, you will receive a 10% discount which you will enter at the "Chec
+ k Out" page. Use Coupon Code SCL-Alum.\n\nThere are also discounts availab
+ le for multiple-team member registrations\, to those who prepay for all th
+ e courses in a specific certificate\, to active/retired military\, or to m
+ embers of certain organizations ( click this link [6] for a listing).\n\nD
+ iscounts cannot be combined or used for online formatted courses. To recei
+ ve the coupon code for these discounts\, call 404-385-8663 or send us an e
+ mail [7] prior to registration\n\nThe program fee for In Person courses (n
+ on-online) includes continental breakfasts\, lunches\, breaks\, parking\, 
+ internet access\, and all classroom materials.\n\nIf CHHS must cancel a pr
+ ogram\, registrants will receive a full refund. Georgia Tech\, however\, c
+ annot assume the responsibility for other costs incurred. Due to program e
+ nrollment limits\, early registration is encouraged. Registrations will be
+  acknowledged by a letter of confirmation from Professional Education.\n\n
+ ** The 2020 Virtual Program\, will also be offered at a reduced cost of $4
+ \,200 (originally $6\,000). Courses taken individually (not the full 3 cou
+ rse program) will be $1800 each rather than the original fee of $2400.\n\n
+ In Person Course Times\nOn the first day\, please check in at least 30 min
+ utes before the class start time.\n\n- Morning session (8:30am-12:30pm)\n-
+  Lunch (12:30am-1:30pm)\n- Afternoon session (1:30am-5:00pm)\n\nOnline Cou
+ rse Times\nEach course will run for 1-week Monday through Thursday from 9:
+ 30am to 1:00pm EST each day.\n\nLinks:\n[0]  http://hg.gatech.edu/node/625
+ 085#1\n[1]  https://chhs.gatech.edu/education/professional-education/cours
+ e/humpps\n[2]  https://chhs.gatech.edu/education/professional-education/co
+ urse/humso\n[3]  https://pe.gatech.edu/certificates/supply-chain-logistics
+ /health-and-humanitarian-logistics-certificate\n[4]  https://chhs.gatech.e
+ du/users/julie-swann\n[5]  https://chhs.gatech.edu/users/pinar-keskinocak\
+ n[6]  https://chhs.gatech.edu/education/professional-education/discounts\n
+ [7]  https://chhs.gatech.edu/contact/Professional_Education_Offerings\n[8]
+   https://pe.gatech.edu/courses/tactical-decision-making-inventory-and-sup
+ ply-chain-management\n[9]  https://pe.gatech.edu/global-learning-center
+LOCATION:Georgia Tech Global Learning Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test Event Multiple Days
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200623T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200623T173000Z
+UID:http://hg.gatech.edu/node/634272#8
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\nStatus: published\n\nBob says...\nIf we make a bo
+ o-boo\, it's right here -- but that's alright\, because we don't make mist
+ akes in our world. Just make little criss-cross strokes. Remember where yo
+ ur finger's been before you scratch your nose. The joy of painting really 
+ is universal. We'll make those decisions later. Let's start with an almigh
+ ty sky here. You can determine what your world is like. Don't worry about 
+ it -- just sort of throw it in.\n\nI'm a nature freak. The only thing I'm 
+ good at is falling down. We'll put a few little nicety things in there. We
+ 'll just sort of see what happens. Give this ol' windmill a leg! You do wh
+ atever works for you. They think you're magic! This is where you take out 
+ all your frustrations and all your hostilities\, and just have a good time
+ .\n\nHowever you want to change this\, that's the way it should be. Just g
+ o around and try them all. You need to understand nature. Don't just throw
+  it up there and think that a cloud will appear. All you do is just go bac
+ k with it. Shoot\, I've got to get a little crazy. That's about all we nee
+ d. I want some happy little things happening up here in the sky.\n\nLinks:
+ \n[0]  http://hg.gatech.edu/node/634272#8\n[1]  http://google.com\n[2]  ht
+ tps://www.google.com
+LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Inventory Management and Resource Allocation in Supply Chai
+ ns Course
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200624T133000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200624T170000Z
+UID:http://hg.gatech.edu/node/625085#2
+DESCRIPTION:Intended audience: Public\nStatus: published\n\nNote: This cou
+ rse has been transitioned to an online format for 2020.\n\nClasses will be
+  taught by LIVE video instruction similar to the experience you would rece
+ ive in person with the same interactive components.\n\nCourse Description\
+ nMany Supply Chain decisions are concerned with the timely and efficient p
+ rocurement\, allocation\, and distribution of resources (e.g. funds\, supp
+ lies\, volunteers\, money\, employees) through a supply chain network. Thi
+ s course will explore methodologies for “medium term” decision making 
+ including procurement and inventory policies\, strategies for distribution
+  and allocation of limited resources\, and supply chain design.\n\nWho Sho
+ uld Attend\nThis course is designed for representatives from governmental 
+ or non-governmental organizations\, private corporations\, military\, and 
+ foundations\, including but not limited to senior executives overseeing ad
+ ministrative and operational functions of an organization\, logistics and 
+ supply chain managers\, program managers\, directors of field operations\,
+  directors of emergency/disaster preparedness and response\, and public he
+ alth professionals.\n\nHow You Will Benefit\n- Provide immediate impact to
+  your organization through applied and real-world case studies.\n- Learn t
+ o bring NGOs\, businesses\, or government entities together to enhance col
+ laboration\, cooperation\, and communication.\n- Discover current trends a
+ nd procedures to help your organization and team members get and stay ahea
+ d of the curve.\n\nWhat Is Covered\n- Procurement decisions\n- Inventory m
+ anagement techniques for a single event versus ongoing operations under un
+ certainty\n- Strategies for resource allocation geographically and over ti
+ me\n\nPre-Course Activities (2.5 hrs) - Online via GTPE platform\nClassroo
+ m Activities (2 days) - Georgia Tech Global Learning Center\n**online clas
+ s format (4 days) - Online GTPE platform\nNOTE: Pre-course activities will
+  conducted online using the CANVAS online learning management system. Acce
+ ss instructions will be provided to registrants when details become availa
+ ble.\n\nPre-Course Activities - Conducted online via GTPE online platform\
+ n- Game Theory/Incentives- “Game Theory in Supply Chain\,” on Game The
+ ory and SCM – 2 hours\n- System Dynamics- “System Dynamics” pre-read
+ ing and VenSim SARS data – 2 hours\n\nCourse Materials\nProvided\n\n- Re
+ adings\, case studies\, spreadsheet files and lecture slides\n\nRecommende
+ d\n\n- Laptop with Microsoft Excel and wi-fi capability\n\nCourse Prerequi
+ site and Related Certificate Information\nFor those interested in earning 
+ the Health and Humanitarian Supply Chain Management Certificate\, this cou
+ rse is the second of the three-course certificate program. To earn the cer
+ tificate\, participants must register and complete the following courses w
+ ithin three years:\n\n- Responsive Supply Chain Design and Operations [1]\
+ n- Inventory Management and Resource Allocation in Supply Chains\n- System
+ s Operations and Strategic Interactions in Supply Chains [2]\nThe Georgia 
+ Tech Health and Humanitarian Logistics Professional Certificate Program [3
+ ] is an executive education program designed for practitioners in non-gove
+ rnmental organizations (NGOs)\, government\, industry\, and the military w
+ ho are active participants in health and humanitarian sectors. The courses
+  are developed for practitioners seeking to build skills to improve decisi
+ on making in preparedness\, response operations planning\, and system desi
+ gn. Courses include many interactive components\, such as case studies and
+  games\, which help professionals in the humanitarian world to link the ch
+ allenges and decision-making tradeoffs they face in practice with the syst
+ ematic approaches\, tools\, and techniques presented.\n\nCourse CEUs\nThis
+  course provides for 1.40 continuing education units (CEUs).\n\nCourse Ins
+ tructors\nJulie Swann [4]\, Pinar Keskinocak [5]\n\nCourse Fees\nStandard:
+  $2\,400.00\, Alumni/Org Discount: $2\,160.00\, Certificate: $1\,992.00 (c
+ ost of each course when signing up for and paying for a multi-course certi
+ ficate program).\n\nFirst time attendees pay the listed course fee. If you
+  are a returning student of the Supply Chain & Logistics Institute (SCL) c
+ ourses\, you will receive a 10% discount which you will enter at the "Chec
+ k Out" page. Use Coupon Code SCL-Alum.\n\nThere are also discounts availab
+ le for multiple-team member registrations\, to those who prepay for all th
+ e courses in a specific certificate\, to active/retired military\, or to m
+ embers of certain organizations ( click this link [6] for a listing).\n\nD
+ iscounts cannot be combined or used for online formatted courses. To recei
+ ve the coupon code for these discounts\, call 404-385-8663 or send us an e
+ mail [7] prior to registration\n\nThe program fee for In Person courses (n
+ on-online) includes continental breakfasts\, lunches\, breaks\, parking\, 
+ internet access\, and all classroom materials.\n\nIf CHHS must cancel a pr
+ ogram\, registrants will receive a full refund. Georgia Tech\, however\, c
+ annot assume the responsibility for other costs incurred. Due to program e
+ nrollment limits\, early registration is encouraged. Registrations will be
+  acknowledged by a letter of confirmation from Professional Education.\n\n
+ ** The 2020 Virtual Program\, will also be offered at a reduced cost of $4
+ \,200 (originally $6\,000). Courses taken individually (not the full 3 cou
+ rse program) will be $1800 each rather than the original fee of $2400.\n\n
+ In Person Course Times\nOn the first day\, please check in at least 30 min
+ utes before the class start time.\n\n- Morning session (8:30am-12:30pm)\n-
+  Lunch (12:30am-1:30pm)\n- Afternoon session (1:30am-5:00pm)\n\nOnline Cou
+ rse Times\nEach course will run for 1-week Monday through Thursday from 9:
+ 30am to 1:00pm EST each day.\n\nLinks:\n[0]  http://hg.gatech.edu/node/625
+ 085#2\n[1]  https://chhs.gatech.edu/education/professional-education/cours
+ e/humpps\n[2]  https://chhs.gatech.edu/education/professional-education/co
+ urse/humso\n[3]  https://pe.gatech.edu/certificates/supply-chain-logistics
+ /health-and-humanitarian-logistics-certificate\n[4]  https://chhs.gatech.e
+ du/users/julie-swann\n[5]  https://chhs.gatech.edu/users/pinar-keskinocak\
+ n[6]  https://chhs.gatech.edu/education/professional-education/discounts\n
+ [7]  https://chhs.gatech.edu/contact/Professional_Education_Offerings\n[8]
+   https://pe.gatech.edu/courses/tactical-decision-making-inventory-and-sup
+ ply-chain-management\n[9]  https://pe.gatech.edu/global-learning-center
+LOCATION:Georgia Tech Global Learning Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test Event Multiple Days
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200624T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200624T173000Z
+UID:http://hg.gatech.edu/node/634272#9
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\nStatus: published\n\nBob says...\nIf we make a bo
+ o-boo\, it's right here -- but that's alright\, because we don't make mist
+ akes in our world. Just make little criss-cross strokes. Remember where yo
+ ur finger's been before you scratch your nose. The joy of painting really 
+ is universal. We'll make those decisions later. Let's start with an almigh
+ ty sky here. You can determine what your world is like. Don't worry about 
+ it -- just sort of throw it in.\n\nI'm a nature freak. The only thing I'm 
+ good at is falling down. We'll put a few little nicety things in there. We
+ 'll just sort of see what happens. Give this ol' windmill a leg! You do wh
+ atever works for you. They think you're magic! This is where you take out 
+ all your frustrations and all your hostilities\, and just have a good time
+ .\n\nHowever you want to change this\, that's the way it should be. Just g
+ o around and try them all. You need to understand nature. Don't just throw
+  it up there and think that a cloud will appear. All you do is just go bac
+ k with it. Shoot\, I've got to get a little crazy. That's about all we nee
+ d. I want some happy little things happening up here in the sky.\n\nLinks:
+ \n[0]  http://hg.gatech.edu/node/634272#9\n[1]  http://google.com\n[2]  ht
+ tps://www.google.com
+LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Inventory Management and Resource Allocation in Supply Chai
+ ns Course
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200625T133000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200625T170000Z
+UID:http://hg.gatech.edu/node/625085#3
+DESCRIPTION:Intended audience: Public\nStatus: published\n\nNote: This cou
+ rse has been transitioned to an online format for 2020.\n\nClasses will be
+  taught by LIVE video instruction similar to the experience you would rece
+ ive in person with the same interactive components.\n\nCourse Description\
+ nMany Supply Chain decisions are concerned with the timely and efficient p
+ rocurement\, allocation\, and distribution of resources (e.g. funds\, supp
+ lies\, volunteers\, money\, employees) through a supply chain network. Thi
+ s course will explore methodologies for “medium term” decision making 
+ including procurement and inventory policies\, strategies for distribution
+  and allocation of limited resources\, and supply chain design.\n\nWho Sho
+ uld Attend\nThis course is designed for representatives from governmental 
+ or non-governmental organizations\, private corporations\, military\, and 
+ foundations\, including but not limited to senior executives overseeing ad
+ ministrative and operational functions of an organization\, logistics and 
+ supply chain managers\, program managers\, directors of field operations\,
+  directors of emergency/disaster preparedness and response\, and public he
+ alth professionals.\n\nHow You Will Benefit\n- Provide immediate impact to
+  your organization through applied and real-world case studies.\n- Learn t
+ o bring NGOs\, businesses\, or government entities together to enhance col
+ laboration\, cooperation\, and communication.\n- Discover current trends a
+ nd procedures to help your organization and team members get and stay ahea
+ d of the curve.\n\nWhat Is Covered\n- Procurement decisions\n- Inventory m
+ anagement techniques for a single event versus ongoing operations under un
+ certainty\n- Strategies for resource allocation geographically and over ti
+ me\n\nPre-Course Activities (2.5 hrs) - Online via GTPE platform\nClassroo
+ m Activities (2 days) - Georgia Tech Global Learning Center\n**online clas
+ s format (4 days) - Online GTPE platform\nNOTE: Pre-course activities will
+  conducted online using the CANVAS online learning management system. Acce
+ ss instructions will be provided to registrants when details become availa
+ ble.\n\nPre-Course Activities - Conducted online via GTPE online platform\
+ n- Game Theory/Incentives- “Game Theory in Supply Chain\,” on Game The
+ ory and SCM – 2 hours\n- System Dynamics- “System Dynamics” pre-read
+ ing and VenSim SARS data – 2 hours\n\nCourse Materials\nProvided\n\n- Re
+ adings\, case studies\, spreadsheet files and lecture slides\n\nRecommende
+ d\n\n- Laptop with Microsoft Excel and wi-fi capability\n\nCourse Prerequi
+ site and Related Certificate Information\nFor those interested in earning 
+ the Health and Humanitarian Supply Chain Management Certificate\, this cou
+ rse is the second of the three-course certificate program. To earn the cer
+ tificate\, participants must register and complete the following courses w
+ ithin three years:\n\n- Responsive Supply Chain Design and Operations [1]\
+ n- Inventory Management and Resource Allocation in Supply Chains\n- System
+ s Operations and Strategic Interactions in Supply Chains [2]\nThe Georgia 
+ Tech Health and Humanitarian Logistics Professional Certificate Program [3
+ ] is an executive education program designed for practitioners in non-gove
+ rnmental organizations (NGOs)\, government\, industry\, and the military w
+ ho are active participants in health and humanitarian sectors. The courses
+  are developed for practitioners seeking to build skills to improve decisi
+ on making in preparedness\, response operations planning\, and system desi
+ gn. Courses include many interactive components\, such as case studies and
+  games\, which help professionals in the humanitarian world to link the ch
+ allenges and decision-making tradeoffs they face in practice with the syst
+ ematic approaches\, tools\, and techniques presented.\n\nCourse CEUs\nThis
+  course provides for 1.40 continuing education units (CEUs).\n\nCourse Ins
+ tructors\nJulie Swann [4]\, Pinar Keskinocak [5]\n\nCourse Fees\nStandard:
+  $2\,400.00\, Alumni/Org Discount: $2\,160.00\, Certificate: $1\,992.00 (c
+ ost of each course when signing up for and paying for a multi-course certi
+ ficate program).\n\nFirst time attendees pay the listed course fee. If you
+  are a returning student of the Supply Chain & Logistics Institute (SCL) c
+ ourses\, you will receive a 10% discount which you will enter at the "Chec
+ k Out" page. Use Coupon Code SCL-Alum.\n\nThere are also discounts availab
+ le for multiple-team member registrations\, to those who prepay for all th
+ e courses in a specific certificate\, to active/retired military\, or to m
+ embers of certain organizations ( click this link [6] for a listing).\n\nD
+ iscounts cannot be combined or used for online formatted courses. To recei
+ ve the coupon code for these discounts\, call 404-385-8663 or send us an e
+ mail [7] prior to registration\n\nThe program fee for In Person courses (n
+ on-online) includes continental breakfasts\, lunches\, breaks\, parking\, 
+ internet access\, and all classroom materials.\n\nIf CHHS must cancel a pr
+ ogram\, registrants will receive a full refund. Georgia Tech\, however\, c
+ annot assume the responsibility for other costs incurred. Due to program e
+ nrollment limits\, early registration is encouraged. Registrations will be
+  acknowledged by a letter of confirmation from Professional Education.\n\n
+ ** The 2020 Virtual Program\, will also be offered at a reduced cost of $4
+ \,200 (originally $6\,000). Courses taken individually (not the full 3 cou
+ rse program) will be $1800 each rather than the original fee of $2400.\n\n
+ In Person Course Times\nOn the first day\, please check in at least 30 min
+ utes before the class start time.\n\n- Morning session (8:30am-12:30pm)\n-
+  Lunch (12:30am-1:30pm)\n- Afternoon session (1:30am-5:00pm)\n\nOnline Cou
+ rse Times\nEach course will run for 1-week Monday through Thursday from 9:
+ 30am to 1:00pm EST each day.\n\nLinks:\n[0]  http://hg.gatech.edu/node/625
+ 085#3\n[1]  https://chhs.gatech.edu/education/professional-education/cours
+ e/humpps\n[2]  https://chhs.gatech.edu/education/professional-education/co
+ urse/humso\n[3]  https://pe.gatech.edu/certificates/supply-chain-logistics
+ /health-and-humanitarian-logistics-certificate\n[4]  https://chhs.gatech.e
+ du/users/julie-swann\n[5]  https://chhs.gatech.edu/users/pinar-keskinocak\
+ n[6]  https://chhs.gatech.edu/education/professional-education/discounts\n
+ [7]  https://chhs.gatech.edu/contact/Professional_Education_Offerings\n[8]
+   https://pe.gatech.edu/courses/tactical-decision-making-inventory-and-sup
+ ply-chain-management\n[9]  https://pe.gatech.edu/global-learning-center
+LOCATION:Georgia Tech Global Learning Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test Event Multiple Days
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200629T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200629T173000Z
+UID:http://hg.gatech.edu/node/634272#10
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\nStatus: published\n\nBob says...\nIf we make a bo
+ o-boo\, it's right here -- but that's alright\, because we don't make mist
+ akes in our world. Just make little criss-cross strokes. Remember where yo
+ ur finger's been before you scratch your nose. The joy of painting really 
+ is universal. We'll make those decisions later. Let's start with an almigh
+ ty sky here. You can determine what your world is like. Don't worry about 
+ it -- just sort of throw it in.\n\nI'm a nature freak. The only thing I'm 
+ good at is falling down. We'll put a few little nicety things in there. We
+ 'll just sort of see what happens. Give this ol' windmill a leg! You do wh
+ atever works for you. They think you're magic! This is where you take out 
+ all your frustrations and all your hostilities\, and just have a good time
+ .\n\nHowever you want to change this\, that's the way it should be. Just g
+ o around and try them all. You need to understand nature. Don't just throw
+  it up there and think that a cloud will appear. All you do is just go bac
+ k with it. Shoot\, I've got to get a little crazy. That's about all we nee
+ d. I want some happy little things happening up here in the sky.\n\nLinks:
+ \n[0]  http://hg.gatech.edu/node/634272#10\n[1]  http://google.com\n[2]  h
+ ttps://www.google.com
+LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online: Systems Operations and Strategic Interactions in Supply Ch
+ ains Course
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200630T133000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200630T170000Z
+UID:http://hg.gatech.edu/node/625084#1
+DESCRIPTION:Intended audience: Public\nStatus: published\n\nNote: This cou
+ rse has been transitioned to an online format for 2020.\n\nClasses will be
+  taught by LIVE video instruction similar to the experience you would rece
+ ive in person with the same interactive components.\n\nCourse Description\
+ nOften the lack of cooperation and coordination between organizations or s
+ takeholders lead to inefficiencies\, despite having common goals. A system
+ s view is needed to ensure appropriate use of scarce resources to meet the
+  multiple\, and often conflicting\, short- and long-term goals from multip
+ le constituents. This course will focus on conceptual and modeling skills 
+ to understand and effectively manage supply chains and operations from a s
+ ystems perspective. Models will address system characteristics (e.g.\, dem
+ and dependencies) that drive system dynamics and policies to regulate perf
+ ormance. Course topics include methods for improving coordination and coll
+ aboration\, addressing demand dependencies\, and reliably measuring and ev
+ aluating system performance.\n\nWho Should Attend\nThis course is designed
+  for representatives from governmental or non-governmental organizations\,
+  private corporations\, military\, and foundations\, including but not lim
+ ited to senior executives overseeing administrative and operational functi
+ ons of an organization\, logistics and supply chain managers\, program man
+ agers\, directors of field operations\, directors of emergency/disaster pr
+ eparedness and response\, and public health professionals.\n\nHow You Will
+  Benefit\n- Identify opportunities for coordination within organizations a
+ nd collaboration across organizations for increased efficiency and improve
+ d outcomes.\n- Describe the strategic behavior of decision-makers and the 
+ impact of the market (or contract) structure on the participant's actions 
+ and the overall system dynamics.\n- Define evaluation metrics in alignment
+  with the system goals and structure system operations and incentives that
+  address and evaluate these metrics.\n\nWhat Is Covered\n- How coordinatio
+ n and collaboration can improve supply chain efficiency and effectiveness\
+ n- How events\, decisions and actions in one part of a system\, such as a 
+ supply chain\, impact other parts of the system\n- System-wide inventory v
+ ariability and costs mitigation and reduction\n- Evaluation metrics\n\nPre
+ -Course Activities (5 hrs) - Online via GTPE platform\nIn Classroom Activi
+ ties (2 days) - Georgia Tech Global Learning Center\n**online class format
+  (4 days) - Online GTPE platform\nNOTE: Pre-course activities will be cond
+ ucted online using the Canvas platform online learning management system. 
+ Access instructions will be provided to registrants when details become av
+ ailable.\n\nPre-Course Activities - Conducted online via GTPE platform\n\n
+ Coordination and Collaboration – 2 hours\nGame Theory/Incentives – 1 h
+ our\nSystem Dynamics - 2 hour\n\nCourse Materials\nProvided\n\n- Participa
+ nts receive readings\, case studies\, spreadsheet files\, and lecture slid
+ es\, and will be given access to the pre-course web-based activities.\n\nR
+ ecommended\n\n- Students need a laptop with Microsoft Excel and the abilit
+ y to connect to a high-speed internet connection (internet access is provi
+ ded for onsite portions of course).\n\nCourse Prerequisite and Related Cer
+ tificate Information\nFor those interested in earning the Health and Human
+ itarian Supply Chain Management Certificate\, this course is the third and
+  final of the three-course certificate program. To earn the certificate\, 
+ participants must register and complete the following courses within three
+  years:\n\n- Responsive Supply Chain Design and Operations [1]\n- Inventor
+ y Management and Resource Allocation in Supply Chains [2]\n- Systems Opera
+ tions and Strategic Interactions in Supply Chains\nThe Georgia Tech Health
+  and Humanitarian Logistics Professional Certificate Program [3] is an exe
+ cutive education program designed for practitioners in non-governmental or
+ ganizations (NGOs)\, government\, industry\, and the military who are acti
+ ve participants in health and humanitarian sectors. The courses are develo
+ ped for practitioners seeking to build skills to improve decision making i
+ n preparedness\, response operations planning\, and system design. Courses
+  include many interactive components\, such as case studies and games\, wh
+ ich help professionals in the humanitarian world to link the challenges an
+ d decision-making tradeoffs they face in practice with the systematic appr
+ oaches\, tools\, and techniques presented.\n\nCourse CEUs\nThis course pro
+ vides for 1.40 continuing education units (CEUs).\n\nCourse Instructors\nJ
+ ulie Swann [4]\, Pinar Keskinocak [5]\n\nCourse Fees\nStandard: $2\,400.00
+ \, Alumni/Org Discount: $2\,160.00\, Certificate: $1\,992.00 (cost of each
+  course when signing up for and paying for a multi-course certificate prog
+ ram).\n\nFirst time attendees pay the listed course fee. If you are a retu
+ rning student of the Supply Chain & Logistics Institute (SCL) courses\, yo
+ u will receive a 10% discount which you will enter at the "Check Out" page
+ . Use Coupon Code SCL-Alum.\n\nThere are also discounts available for mult
+ iple-team member registrations\, to those who prepay for all the courses i
+ n a specific certificate\, to active/retired military\, or to members of c
+ ertain organizations ( click this link [6] for a listing).\n\nDiscounts ca
+ nnot be combined or used for online formatted courses. To receive the coup
+ on code for these discounts\, call 404-385-8663 or send us an email [7] pr
+ ior to registration\n\nThe program fee for In Person courses (non-online) 
+ includes continental breakfasts\, lunches\, breaks\, parking\, internet ac
+ cess\, and all classroom materials.\n\nIf CHHS must cancel a program\, reg
+ istrants will receive a full refund. Georgia Tech\, however\, cannot assum
+ e the responsibility for other costs incurred. Due to program enrollment l
+ imits\, early registration is encouraged. Registrations will be acknowledg
+ ed by a letter of confirmation from Professional Education.\n\n** The 2020
+  Virtual Program\, will also be offered at a reduced cost of $4\,200 (orig
+ inally $6\,000). Courses taken individually (not the full 3 course program
+ ) will be $1800 each rather than the original fee of $2400.\n\nIn Person C
+ ourse Times\nOn the first day\, please check in at least 30 minutes before
+  the class start time.\n\n- Morning session (8:30am-12:30pm)\n- Lunch (12:
+ 30am-1:30pm)\n- Afternoon session (1:30am-5:00pm)\n\nOnline Course Times\n
+ Each course will run for 1 week Monday through Thursday from 9:30am to 1:0
+ 0pm EST each day.\n\nLinks:\n[0]  http://hg.gatech.edu/node/625084#1\n[1] 
+  https://chhs.gatech.edu/education/professional-education/course/humpps\n[
+ 2]  https://chhs.gatech.edu/education/professional-education/course/humtdm
+ \n[3]  https://pe.gatech.edu/certificates/supply-chain-logistics/health-an
+ d-humanitarian-logistics-certificate\n[4]  https://chhs.gatech.edu/users/j
+ ulie-swann\n[5]  https://chhs.gatech.edu/users/pinar-keskinocak\n[6]  http
+ s://chhs.gatech.edu/education/professional-education/discounts\n[7]  https
+ ://chhs.gatech.edu/contact/Professional_Education_Offerings\n[8]  https://
+ pe.gatech.edu/global-learning-center
+LOCATION:Georgia Tech Global Learning Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test Event Multiple Days
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200630T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200630T173000Z
+UID:http://hg.gatech.edu/node/634272#11
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\nStatus: published\n\nBob says...\nIf we make a bo
+ o-boo\, it's right here -- but that's alright\, because we don't make mist
+ akes in our world. Just make little criss-cross strokes. Remember where yo
+ ur finger's been before you scratch your nose. The joy of painting really 
+ is universal. We'll make those decisions later. Let's start with an almigh
+ ty sky here. You can determine what your world is like. Don't worry about 
+ it -- just sort of throw it in.\n\nI'm a nature freak. The only thing I'm 
+ good at is falling down. We'll put a few little nicety things in there. We
+ 'll just sort of see what happens. Give this ol' windmill a leg! You do wh
+ atever works for you. They think you're magic! This is where you take out 
+ all your frustrations and all your hostilities\, and just have a good time
+ .\n\nHowever you want to change this\, that's the way it should be. Just g
+ o around and try them all. You need to understand nature. Don't just throw
+  it up there and think that a cloud will appear. All you do is just go bac
+ k with it. Shoot\, I've got to get a little crazy. That's about all we nee
+ d. I want some happy little things happening up here in the sky.\n\nLinks:
+ \n[0]  http://hg.gatech.edu/node/634272#11\n[1]  http://google.com\n[2]  h
+ ttps://www.google.com
+LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online: Systems Operations and Strategic Interactions in Supply Ch
+ ains Course
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200701T133000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200701T170000Z
+UID:http://hg.gatech.edu/node/625084#2
+DESCRIPTION:Intended audience: Public\nStatus: published\n\nNote: This cou
+ rse has been transitioned to an online format for 2020.\n\nClasses will be
+  taught by LIVE video instruction similar to the experience you would rece
+ ive in person with the same interactive components.\n\nCourse Description\
+ nOften the lack of cooperation and coordination between organizations or s
+ takeholders lead to inefficiencies\, despite having common goals. A system
+ s view is needed to ensure appropriate use of scarce resources to meet the
+  multiple\, and often conflicting\, short- and long-term goals from multip
+ le constituents. This course will focus on conceptual and modeling skills 
+ to understand and effectively manage supply chains and operations from a s
+ ystems perspective. Models will address system characteristics (e.g.\, dem
+ and dependencies) that drive system dynamics and policies to regulate perf
+ ormance. Course topics include methods for improving coordination and coll
+ aboration\, addressing demand dependencies\, and reliably measuring and ev
+ aluating system performance.\n\nWho Should Attend\nThis course is designed
+  for representatives from governmental or non-governmental organizations\,
+  private corporations\, military\, and foundations\, including but not lim
+ ited to senior executives overseeing administrative and operational functi
+ ons of an organization\, logistics and supply chain managers\, program man
+ agers\, directors of field operations\, directors of emergency/disaster pr
+ eparedness and response\, and public health professionals.\n\nHow You Will
+  Benefit\n- Identify opportunities for coordination within organizations a
+ nd collaboration across organizations for increased efficiency and improve
+ d outcomes.\n- Describe the strategic behavior of decision-makers and the 
+ impact of the market (or contract) structure on the participant's actions 
+ and the overall system dynamics.\n- Define evaluation metrics in alignment
+  with the system goals and structure system operations and incentives that
+  address and evaluate these metrics.\n\nWhat Is Covered\n- How coordinatio
+ n and collaboration can improve supply chain efficiency and effectiveness\
+ n- How events\, decisions and actions in one part of a system\, such as a 
+ supply chain\, impact other parts of the system\n- System-wide inventory v
+ ariability and costs mitigation and reduction\n- Evaluation metrics\n\nPre
+ -Course Activities (5 hrs) - Online via GTPE platform\nIn Classroom Activi
+ ties (2 days) - Georgia Tech Global Learning Center\n**online class format
+  (4 days) - Online GTPE platform\nNOTE: Pre-course activities will be cond
+ ucted online using the Canvas platform online learning management system. 
+ Access instructions will be provided to registrants when details become av
+ ailable.\n\nPre-Course Activities - Conducted online via GTPE platform\n\n
+ Coordination and Collaboration – 2 hours\nGame Theory/Incentives – 1 h
+ our\nSystem Dynamics - 2 hour\n\nCourse Materials\nProvided\n\n- Participa
+ nts receive readings\, case studies\, spreadsheet files\, and lecture slid
+ es\, and will be given access to the pre-course web-based activities.\n\nR
+ ecommended\n\n- Students need a laptop with Microsoft Excel and the abilit
+ y to connect to a high-speed internet connection (internet access is provi
+ ded for onsite portions of course).\n\nCourse Prerequisite and Related Cer
+ tificate Information\nFor those interested in earning the Health and Human
+ itarian Supply Chain Management Certificate\, this course is the third and
+  final of the three-course certificate program. To earn the certificate\, 
+ participants must register and complete the following courses within three
+  years:\n\n- Responsive Supply Chain Design and Operations [1]\n- Inventor
+ y Management and Resource Allocation in Supply Chains [2]\n- Systems Opera
+ tions and Strategic Interactions in Supply Chains\nThe Georgia Tech Health
+  and Humanitarian Logistics Professional Certificate Program [3] is an exe
+ cutive education program designed for practitioners in non-governmental or
+ ganizations (NGOs)\, government\, industry\, and the military who are acti
+ ve participants in health and humanitarian sectors. The courses are develo
+ ped for practitioners seeking to build skills to improve decision making i
+ n preparedness\, response operations planning\, and system design. Courses
+  include many interactive components\, such as case studies and games\, wh
+ ich help professionals in the humanitarian world to link the challenges an
+ d decision-making tradeoffs they face in practice with the systematic appr
+ oaches\, tools\, and techniques presented.\n\nCourse CEUs\nThis course pro
+ vides for 1.40 continuing education units (CEUs).\n\nCourse Instructors\nJ
+ ulie Swann [4]\, Pinar Keskinocak [5]\n\nCourse Fees\nStandard: $2\,400.00
+ \, Alumni/Org Discount: $2\,160.00\, Certificate: $1\,992.00 (cost of each
+  course when signing up for and paying for a multi-course certificate prog
+ ram).\n\nFirst time attendees pay the listed course fee. If you are a retu
+ rning student of the Supply Chain & Logistics Institute (SCL) courses\, yo
+ u will receive a 10% discount which you will enter at the "Check Out" page
+ . Use Coupon Code SCL-Alum.\n\nThere are also discounts available for mult
+ iple-team member registrations\, to those who prepay for all the courses i
+ n a specific certificate\, to active/retired military\, or to members of c
+ ertain organizations ( click this link [6] for a listing).\n\nDiscounts ca
+ nnot be combined or used for online formatted courses. To receive the coup
+ on code for these discounts\, call 404-385-8663 or send us an email [7] pr
+ ior to registration\n\nThe program fee for In Person courses (non-online) 
+ includes continental breakfasts\, lunches\, breaks\, parking\, internet ac
+ cess\, and all classroom materials.\n\nIf CHHS must cancel a program\, reg
+ istrants will receive a full refund. Georgia Tech\, however\, cannot assum
+ e the responsibility for other costs incurred. Due to program enrollment l
+ imits\, early registration is encouraged. Registrations will be acknowledg
+ ed by a letter of confirmation from Professional Education.\n\n** The 2020
+  Virtual Program\, will also be offered at a reduced cost of $4\,200 (orig
+ inally $6\,000). Courses taken individually (not the full 3 course program
+ ) will be $1800 each rather than the original fee of $2400.\n\nIn Person C
+ ourse Times\nOn the first day\, please check in at least 30 minutes before
+  the class start time.\n\n- Morning session (8:30am-12:30pm)\n- Lunch (12:
+ 30am-1:30pm)\n- Afternoon session (1:30am-5:00pm)\n\nOnline Course Times\n
+ Each course will run for 1 week Monday through Thursday from 9:30am to 1:0
+ 0pm EST each day.\n\nLinks:\n[0]  http://hg.gatech.edu/node/625084#2\n[1] 
+  https://chhs.gatech.edu/education/professional-education/course/humpps\n[
+ 2]  https://chhs.gatech.edu/education/professional-education/course/humtdm
+ \n[3]  https://pe.gatech.edu/certificates/supply-chain-logistics/health-an
+ d-humanitarian-logistics-certificate\n[4]  https://chhs.gatech.edu/users/j
+ ulie-swann\n[5]  https://chhs.gatech.edu/users/pinar-keskinocak\n[6]  http
+ s://chhs.gatech.edu/education/professional-education/discounts\n[7]  https
+ ://chhs.gatech.edu/contact/Professional_Education_Offerings\n[8]  https://
+ pe.gatech.edu/global-learning-center
+LOCATION:Georgia Tech Global Learning Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online: Systems Operations and Strategic Interactions in Supply Ch
+ ains Course
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200702T133000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200702T170000Z
+UID:http://hg.gatech.edu/node/625084#3
+DESCRIPTION:Intended audience: Public\nStatus: published\n\nNote: This cou
+ rse has been transitioned to an online format for 2020.\n\nClasses will be
+  taught by LIVE video instruction similar to the experience you would rece
+ ive in person with the same interactive components.\n\nCourse Description\
+ nOften the lack of cooperation and coordination between organizations or s
+ takeholders lead to inefficiencies\, despite having common goals. A system
+ s view is needed to ensure appropriate use of scarce resources to meet the
+  multiple\, and often conflicting\, short- and long-term goals from multip
+ le constituents. This course will focus on conceptual and modeling skills 
+ to understand and effectively manage supply chains and operations from a s
+ ystems perspective. Models will address system characteristics (e.g.\, dem
+ and dependencies) that drive system dynamics and policies to regulate perf
+ ormance. Course topics include methods for improving coordination and coll
+ aboration\, addressing demand dependencies\, and reliably measuring and ev
+ aluating system performance.\n\nWho Should Attend\nThis course is designed
+  for representatives from governmental or non-governmental organizations\,
+  private corporations\, military\, and foundations\, including but not lim
+ ited to senior executives overseeing administrative and operational functi
+ ons of an organization\, logistics and supply chain managers\, program man
+ agers\, directors of field operations\, directors of emergency/disaster pr
+ eparedness and response\, and public health professionals.\n\nHow You Will
+  Benefit\n- Identify opportunities for coordination within organizations a
+ nd collaboration across organizations for increased efficiency and improve
+ d outcomes.\n- Describe the strategic behavior of decision-makers and the 
+ impact of the market (or contract) structure on the participant's actions 
+ and the overall system dynamics.\n- Define evaluation metrics in alignment
+  with the system goals and structure system operations and incentives that
+  address and evaluate these metrics.\n\nWhat Is Covered\n- How coordinatio
+ n and collaboration can improve supply chain efficiency and effectiveness\
+ n- How events\, decisions and actions in one part of a system\, such as a 
+ supply chain\, impact other parts of the system\n- System-wide inventory v
+ ariability and costs mitigation and reduction\n- Evaluation metrics\n\nPre
+ -Course Activities (5 hrs) - Online via GTPE platform\nIn Classroom Activi
+ ties (2 days) - Georgia Tech Global Learning Center\n**online class format
+  (4 days) - Online GTPE platform\nNOTE: Pre-course activities will be cond
+ ucted online using the Canvas platform online learning management system. 
+ Access instructions will be provided to registrants when details become av
+ ailable.\n\nPre-Course Activities - Conducted online via GTPE platform\n\n
+ Coordination and Collaboration – 2 hours\nGame Theory/Incentives – 1 h
+ our\nSystem Dynamics - 2 hour\n\nCourse Materials\nProvided\n\n- Participa
+ nts receive readings\, case studies\, spreadsheet files\, and lecture slid
+ es\, and will be given access to the pre-course web-based activities.\n\nR
+ ecommended\n\n- Students need a laptop with Microsoft Excel and the abilit
+ y to connect to a high-speed internet connection (internet access is provi
+ ded for onsite portions of course).\n\nCourse Prerequisite and Related Cer
+ tificate Information\nFor those interested in earning the Health and Human
+ itarian Supply Chain Management Certificate\, this course is the third and
+  final of the three-course certificate program. To earn the certificate\, 
+ participants must register and complete the following courses within three
+  years:\n\n- Responsive Supply Chain Design and Operations [1]\n- Inventor
+ y Management and Resource Allocation in Supply Chains [2]\n- Systems Opera
+ tions and Strategic Interactions in Supply Chains\nThe Georgia Tech Health
+  and Humanitarian Logistics Professional Certificate Program [3] is an exe
+ cutive education program designed for practitioners in non-governmental or
+ ganizations (NGOs)\, government\, industry\, and the military who are acti
+ ve participants in health and humanitarian sectors. The courses are develo
+ ped for practitioners seeking to build skills to improve decision making i
+ n preparedness\, response operations planning\, and system design. Courses
+  include many interactive components\, such as case studies and games\, wh
+ ich help professionals in the humanitarian world to link the challenges an
+ d decision-making tradeoffs they face in practice with the systematic appr
+ oaches\, tools\, and techniques presented.\n\nCourse CEUs\nThis course pro
+ vides for 1.40 continuing education units (CEUs).\n\nCourse Instructors\nJ
+ ulie Swann [4]\, Pinar Keskinocak [5]\n\nCourse Fees\nStandard: $2\,400.00
+ \, Alumni/Org Discount: $2\,160.00\, Certificate: $1\,992.00 (cost of each
+  course when signing up for and paying for a multi-course certificate prog
+ ram).\n\nFirst time attendees pay the listed course fee. If you are a retu
+ rning student of the Supply Chain & Logistics Institute (SCL) courses\, yo
+ u will receive a 10% discount which you will enter at the "Check Out" page
+ . Use Coupon Code SCL-Alum.\n\nThere are also discounts available for mult
+ iple-team member registrations\, to those who prepay for all the courses i
+ n a specific certificate\, to active/retired military\, or to members of c
+ ertain organizations ( click this link [6] for a listing).\n\nDiscounts ca
+ nnot be combined or used for online formatted courses. To receive the coup
+ on code for these discounts\, call 404-385-8663 or send us an email [7] pr
+ ior to registration\n\nThe program fee for In Person courses (non-online) 
+ includes continental breakfasts\, lunches\, breaks\, parking\, internet ac
+ cess\, and all classroom materials.\n\nIf CHHS must cancel a program\, reg
+ istrants will receive a full refund. Georgia Tech\, however\, cannot assum
+ e the responsibility for other costs incurred. Due to program enrollment l
+ imits\, early registration is encouraged. Registrations will be acknowledg
+ ed by a letter of confirmation from Professional Education.\n\n** The 2020
+  Virtual Program\, will also be offered at a reduced cost of $4\,200 (orig
+ inally $6\,000). Courses taken individually (not the full 3 course program
+ ) will be $1800 each rather than the original fee of $2400.\n\nIn Person C
+ ourse Times\nOn the first day\, please check in at least 30 minutes before
+  the class start time.\n\n- Morning session (8:30am-12:30pm)\n- Lunch (12:
+ 30am-1:30pm)\n- Afternoon session (1:30am-5:00pm)\n\nOnline Course Times\n
+ Each course will run for 1 week Monday through Thursday from 9:30am to 1:0
+ 0pm EST each day.\n\nLinks:\n[0]  http://hg.gatech.edu/node/625084#3\n[1] 
+  https://chhs.gatech.edu/education/professional-education/course/humpps\n[
+ 2]  https://chhs.gatech.edu/education/professional-education/course/humtdm
+ \n[3]  https://pe.gatech.edu/certificates/supply-chain-logistics/health-an
+ d-humanitarian-logistics-certificate\n[4]  https://chhs.gatech.edu/users/j
+ ulie-swann\n[5]  https://chhs.gatech.edu/users/pinar-keskinocak\n[6]  http
+ s://chhs.gatech.edu/education/professional-education/discounts\n[7]  https
+ ://chhs.gatech.edu/contact/Professional_Education_Offerings\n[8]  https://
+ pe.gatech.edu/global-learning-center
+LOCATION:Georgia Tech Global Learning Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:International Opportunities Open House
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200818T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200818T160000Z
