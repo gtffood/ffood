@@ -2,34 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Staff Council May Meet & Greet
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190522T153000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190522T170000Z
-UID:http://hg.gatech.edu/node/620160#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nInviting all Staff Members\n\nMeet & Greet Spri
- ng Splash\n\n- Snacks\n- Giveaways\n- Fun Games\n\nCouch Park (Burger Bowl
- )\nMust Bring Your Buzz Card!\n\nLinks:\n[0]  http://hg.gatech.edu/node/62
- 0160#0
-LOCATION:Couch Park
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Memorial Day Recognition
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190523T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190523T190000Z
-UID:http://hg.gatech.edu/node/621194#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nStatus: published\n\nMemorial Day Recognition h
- osted by the Veterans Resource Center. [1] Join us on May 23 from 1:00 p.m
- . to 3:00 p.m. in the Student Center Piedmont Room as we recognize Memoria
- l Day. With displays and information about Tech’s Military History and a
- n opportunity to honor and remember those who lost their lives in service 
- to the United States.\n\nPlease feel free to stop by any time! Refreshment
- s will be served.\n\nLinks:\n[0]  http://hg.gatech.edu/node/621194#0\n[1] 
-  http://veterans.gatech.edu/
-LOCATION:Student Center\, Piedmont Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Little Italy (2018) @ 2:13 p.m.
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190601T181300Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190601T195500Z
