@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Summer Swarm
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190603T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190603T190000Z
-UID:http://hg.gatech.edu/node/622022#0
-DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\,
-  Freebies\nStatus: published\n\nThis event is open to all students so come
-  by after or before class! There will be free food\, drinks\, and fun acti
- vities. You can even win some cool prizes!\n\nLinks:\n[0]  http://hg.gatec
- h.edu/node/622022#0
-LOCATION:Student Center Ballroom
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:High Performance Computing Birds of a Feather
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190606T123000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190606T150000Z
