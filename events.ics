@@ -3,41 +3,6 @@ VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
 SUMMARY:Machine Learning in Science and Engineering (MLSE) Conference
-DTSTART;VALUE=DATE:20190609
-DTEND;VALUE=DATE:20190610
-UID:http://hg.gatech.edu/node/620263#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nThe second-annual
-  Machine Learning in Science and Engineering (MLSE) Conference highlights 
- advances in research that utilize methods of artificial intelligence\, the
-  development of new machine learning algorithms designed for science and e
- ngineering problems\, and the ways these methods lead to innovations acros
- s various fields. Researchers from academia\, government\, and industry wi
- ll gather to explore the future of research in science and engineering.\n\
- nProgram of Events\nSunday\, June 9\, 2019\n3:00–5:00 Parallel Short Cou
- rses\n\nMonday\, June 10\, 2019\n8:00–9:00 Continental Breakfast\n9:00
- –12:00 Parallel Sessions\n12:00–1:30 Lunch (Ballroom) plus Plenary Tal
- k\n1:30–2:00 Poster Session\n2:00–3:30 Parallel Sessions\n3:30–4:00 
- Break\n4:00–5:30 Parallel Sessions\n6:00–7:00 Reception\n\nTuesday\, J
- une 11\, 2019\n8:00–9:00 Continental Breakfast\n9:00–12:00 Parallel Se
- ssions\n12:00–1:30 Lunch (Ballroom) plus Plenary Talk\n1:30—2:00 Poste
- r Session\n2:00–3:30 Parallel Sessions\n3:30–4:00 Break\n4:00–5:30 P
- arallel Sessions\n\nWednesday\, June 12\, 2019\n8:00–9:00 Continental Br
- eakfast\n9:00–10:00 Plenary Talk\n10:00–11:00 Plenary Talk\n11:00–12
- :00 Parallel Discussions\n12:00–2:00 Lunch on Your Own\n2:00–3:00 Plen
- ary Talk\n3:00–5:00 Self-organized Breakouts and Discussions\n\nTracks\n
- - Biomedical Engineering\n- Civil and Environmental Engineering\n- Chemica
- l Engineering\n- Chemistry\n- Electrical and Computer Engineering\n- Indus
- trial Engineering and Operations Research\n- Materials Science and Enginee
- ring\n- Mechanical Engineering\n- Physics\n- Public Policy\n\nLinks:\n[0] 
-  http://hg.gatech.edu/node/620263#0\n[1]  http://bit.ly/MLSE19-registratio
- n\n[2]  http://dsf.ideas.gatech.edu/\n[3]  http://dsf.ideas.gatech.edu/abs
- tracts\n[4]  http://dsf.ideas.gatech.edu/events/MLSE/grants\n[5]  http://d
- sf.ideas.gatech.edu/events/mlse\n[6]  https://www.gatechhotel.com/
-LOCATION:Georgia Tech Hotel and Conference Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Machine Learning in Science and Engineering (MLSE) Conference
 DTSTART;VALUE=DATE:20190610
 DTEND;VALUE=DATE:20190611
 UID:http://hg.gatech.edu/node/620263#1
