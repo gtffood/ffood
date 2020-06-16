@@ -4856,6 +4856,22 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Kessler Campanile
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Clone of Career Services Workshop: To Tailor or Not to Tailor? We'
+ re Talking Resumes!
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20190903T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20190903T233000Z
+UID:http://hg.gatech.edu/node/636231#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\nStatus: draft\n\nWill your current resume land yo
+ u your dream job? If not\, learn how to build a resume that will let your 
+ experience shine. Receive feedback from your Career Advisor and your peers
+ \, and learn strategies that will allow you to market yourself for future 
+ opportunities at any stage of your collegiate career.\n\nRSVP Here [1]\n\n
+ Links:\n[0]  http://hg.gatech.edu/node/636231#0\n[1]  https://gatech.co1.q
+ ualtrics.com/jfe/form/SV_6hwvlJeupusKYJL
+LOCATION:Klaus 1116E
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Career Services Workshop: University Recruiting Exposed
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190903T223000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190904T000000Z
@@ -29450,6 +29466,38 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  [3]  https://www.eventbrite.com/e/create-x-demo-day-2020-tickets-977898691
  31
 LOCATION:Fox Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Career Services Workshop: Interviewing- Avoid Being a Scary Candid
+ ate
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201001T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201001T233000Z
+UID:http://hg.gatech.edu/node/636230#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\nStatus: draft\n\nWhen did talking about yourself 
+ become such a challenge? What do recruiters really want to know when they 
+ ask you about your interest in the position? What is the difference betwee
+ n a technical interview and a behavioral one? Learn how to master your int
+ erviewing skills and land your dream job.\n\nRSVP here [1]\n\nLinks:\n[0] 
+  http://hg.gatech.edu/node/636230#0\n[1]  https://gatech.co1.qualtrics.com
+ /jfe/form/SV_3a3CAiVPzXvr5bL
+LOCATION:Klaus 1116
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Career Services Workshop: Salary Negotiation
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201013T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201013T233000Z
+UID:http://hg.gatech.edu/node/636227#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\nStatus: draft\n\nLanding the perfect full-time/in
+ ternship position is something worth celebration! But what happens when yo
+ u receive an offer that is not equally as exciting? Learn how to professio
+ nally negotiate your salary and strategies for declining an offer that you
+  are no longer interested in. Practice your negotiation skills to ensure t
+ hat you are professional and confident when the time comes!\n\nRSVP here [
+ 1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/636227#0\n[1]  https://app.jo
+ inhandshake.com/events/419479
+LOCATION:Klaus 1116
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Petit Institute Distinguished Lecture
