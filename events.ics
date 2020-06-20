@@ -2,121 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:ML@GT CVPR Luncheon
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190619T153000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190619T173000Z
-UID:http://hg.gatech.edu/node/621934#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nStatus: published\n\nCVPR is a great opportunit
- y for the ML@GT community to come together as a community. We hope that yo
- u will join us for lunch on Wednesday\, June 19 for community\, collaborat
- ion\, and more. The restaurant will be walking distance from the conventio
- n center.\n\nLunch is from 11:30-1:30.\n\nAll ML@GT students\, faculty\, a
- nd alumni are welcome.\n\nPlease RSVP [1] no later than Monday\, June 10 -
-  http://bit.ly/CVPRLunch2019\n\nLinks:\n[0]  http://hg.gatech.edu/node/621
- 934#0\n[1]  http://bit.ly/CVPRLunch2019
-LOCATION:King Fish House\, 100 West Broadway\, Long Beach\, CA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Postdoc Chat
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190619T180000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190619T190000Z
-UID:http://hg.gatech.edu/node/622472#0
-DESCRIPTION:Intended audience: Postdoc\nStatus: published\n\n“Postdoc Ch
- ats" is our informal social event series for GT postdocs. We know that pos
- tdocs have similar concerns\, and would like to have more opportunities to
-  talk with other postdocs. Each chat will feature a discussion topic\, and
-  we will also invite a knowledgeable faculty/staff member who can answer q
- uestions about the subject. Expect a space to talk openly\, meet postdocs 
- like you\, and have a snack!\n\nThis month's date and topic:\n\nWednesday\
- , June 19\, 2-3 pm – Career plans and job searching\n\n- Location: MRDC\
- , conference room 3510\n- Guest: Jana Stone\, director of professional dev
- elopment and postdoctoral services\n\nRSVP:\n\nPlease let us know that you
-  plan to attend so that we be sure to have enough snacks and space! Sign u
- p for any or all dates here. [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node
- /622472#0\n[1]  http://postdocs.gatech.edu/postdoc-chats-sign\n[2]  http:/
- /postdocs.gatech.edu/postdoc-chats
-LOCATION:MRDC\, conference room 3510
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Research Administration Buzz
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190620T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190620T170000Z
-UID:http://hg.gatech.edu/node/620078#0
-DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\nStatus: p
- ublished\n\nThe Research Administration Buzz is a town hall meeting where 
- those who provide research administrative support discuss current topics\,
-  including changes that may impact how we do business and updates from fed
- eral sponsor agencies. If you are unable to attend in person\, you may sig
- n up for the online version at the link below. FACULTY/STAFF ONLY\n\nLunch
-  will be provided to those who register for the in-person session\, courte
- sy of the Office of the Executive Vice President for Research!\n\nAttendee
- s should register through the Research Education Learning Management Porta
- l [1]. (IMPORTANT: Be sure to click the blue "LOGIN" button to ensure that
-  your class completion will be properly logged in your GT records). Log on
-  to the learning management portal\, then under "Search for Classes"\, cli
- ck "Classes by Title" or "Classes by Date". Click on the class name you wi
- sh to attend to view its information. Then click on the date to register.\
- n\nFor more information\, contact OSP Training at training@osp.gatech.edu 
- [2]\n\nLinks:\n[0]  http://hg.gatech.edu/node/620078#0\n[1]  https://train
- ing.osp.gatech.edu/\n[2]  training@osp.gatech.edu\n[3]  http://osp.gatech.
- edu\n[4]  https://lists.gatech.edu/sympa/info/rab\n[5]  https://training.o
- sp.gatech.edu\n[6]  https://www.google.com/maps/place/505+10th+St+NW\,+Atl
- anta\,+GA+30318/@33.781898\,-84.403862\,17z/data=!3m1!4b1!4m2!3m1!1s0x88f5
- 04f3294718c1:0x49aff93cd81e1e0
-LOCATION:Research Administration Building - Seminar Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELED: Break Bread with GRIOT - June 2019
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190620T153000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190620T173000Z
-UID:http://hg.gatech.edu/node/616557#0
-DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nJoin us
-  at Ferst Place located on the 3rd floor of the Student Center to fellowsh
- ip with your GRIOT members. Register now for a seat at the reserved tables
-  in room 321.\n\nDining Details: Ferst Place is located across from the St
- udent Center ballroom. Dining options include a buffet\, salad bar and a m
- ade-to-order station. Participants are responsible for purchasing their ow
- n lunch at a cost of $11.66 including tax. Please note: Accepted payment m
- ethods include: BuzzCards\, Dining Points\, debit/credit cards\, and facul
- ty and staff meal plans. Ferst Place does not accept cash.\n\nPlease regis
- ter to attend at [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/616557#0\n[
- 1]  https://sdie.gatech.edu/break-bread-june2019
-LOCATION:Student Center\, 321
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heart Matters
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190620T153000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190620T173000Z
-UID:http://hg.gatech.edu/node/622584#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Postdoc\nStatus: published\
- n\nThe GRIOT ERG invites you to join for a brown bag lunch & learn. Heart 
- Matters will be a reflective journaling session focusing on self-care\, gr
- owth\, and compassion.\n\nRegister to attend [1]\n\nLinks:\n[0]  http://hg
- .gatech.edu/node/622584#0\n[1]  https://sdie.gatech.edu/heart-matters
-LOCATION:Student Center\, 343
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stretch out the Stress
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190620T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190620T230000Z
-UID:http://hg.gatech.edu/node/622561#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nStatus: published\n\nSKY at Georgia Tech invite
- s you to celebrate the International Day of Yoga.\n\nIn this amazing sessi
- on\, we will discover yoga beyond just physical exercise. We will unravel 
- how Yoga is a way to unite the mind\, body and spirit through a combinatio
- n of asanas (yogic stretches)\, breathing exercises and meditation. We exp
- lore how Yoga helps us develop "Skill in Action" and reduce stress\, anxie
- ty and depression leading us to a relaxed\, productive and joyful state of
-  mind.\n\nWe will be serving refreshments as well.\n\nFeel free to reach o
- ut to yesplusgt@gmail.com [1] for more details.\n\nLinks:\n[0]  http://hg.
- gatech.edu/node/622561#0\n[1]  yesplusgt@gmail.com\n[2]  https://www.event
- brite.com/e/stretch-out-the-stress-tickets-63473433749\n[3]  https://www.f
- acebook.com/events/358296614875462/
-LOCATION:Piedmont Room\, Student Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Biomaterials-based Optical Metabolite Sensing
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190621T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190621T170000Z
@@ -28651,6 +28536,44 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
  ssional_Education_Offerings\n[09]  https://chhs.gatech.edu\n[10]  https://
  pe.gatech.edu/global-learning-center
 LOCATION:Georgia Tech Global Learning Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Juneteenth Webinar with Serve-Learn-Sustain
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200619T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200619T170000Z
+UID:http://hg.gatech.edu/node/636335#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nLearn about and discuss Juneteenth with Serve-L
+ earn-Sustain [1]! From 12pm-1pm at this link [2]. (Full call-in informatio
+ n is below)\n\nNo RSVP Required\, just click and join!\n\nWe’ll have a 
+ “brown bag” lunch and discussion of the significance and history of Ju
+ neteenth\, how it is celebrated across the country\, its connection to con
+ temporary justice struggles\, and an overview of exciting ways to gather v
+ irtually and celebrate Juneteenth in Atlanta via art\, music\, and local s
+ peakers. Please join Jamie White-Jones [3] and Ruthie Yow [4] who will fac
+ ilitate the conversation- all are welcome- no preparation necessary\, plea
+ se just come to enjoy\, learn\, and share!\n\nBluejeans Link\n\n[2]\n\nMee
+ ting ID\n\n269 273 213\n\nWant to dial in from a phone?\n\n+1.408.419.1715
+  (United States(San Jose))\n\n+1.408.915.6290 (United States(San Jose))\n\
+ nWhat Is Juneteenth?\nThis story by Elixabeth Nix was originally published
+  on History.com. [5] The story has been adapted for the College of Science
+ s.\n\nJuneteenth (short for "June Nineteenth") marks the day when federal 
+ troops arrived in Galveston\, Texas in 1865 to take control of the state a
+ nd ensure that all enslaved people be freed. The troops' arrival came a fu
+ ll two and a half years after signing the Emancipation Proclamation. Junet
+ eenth honors the end to slavery in the United States and is considered the
+  longest-running African American holiday.\n\nConfederate General Robert E
+ . Lee had surrendered at Appomattox Court House two months earlier in Virg
+ inia\, but slavery had remained relatively unaffected in Texas - until U.S
+ . General Gordon Granger stood on Texas soil and read General Orders No. 3
+ : "The people of Texas are informed that\, in accordance with a proclamati
+ on from the Executive of the United States\, all slaves are free."\n\nRead
+  more on History.com. [5]\n\nLinks:\n[0]  http://hg.gatech.edu/node/636335
+ #0\n[1]  https://serve-learn-sustain.gatech.edu/\n[2]  https://bluejeans.c
+ om/269273213\n[3]  https://serve-learn-sustain.gatech.edu/jamie-white-jone
+ s\n[4]  https://serve-learn-sustain.gatech.edu/ruthie-yow\n[5]  https://ww
+ w.history.com/news/what-is-juneteenth
+LOCATION:Bluejeans
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Test Event Multiple Days
