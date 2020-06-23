@@ -2,56 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Biomaterials-based Optical Metabolite Sensing
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190621T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190621T170000Z
-UID:http://hg.gatech.edu/node/622641#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nBiomaterials-based Optical Metabolite Sensing\n\nFriday June 21st\, 2019
-  Noon-1pm\; Room 3029 3rd Floor Krone EBB (with Pizza)\nProfessor Mike McS
- hane\, Department Head\, Biomedical Engineering\, Texas A&M University\nPe
- rsonal health monitoring is becoming increasingly accessible as the ease o
- f producing low-cost\, low-power embedded systems has fueled a rapid growt
- h in consumer products aimed at “measuring me.” Yet\, a major technolo
- gy gap is in the space of continuous chemical sensing. The majority of thi
- s talk will focus on describing our materials-focused solutions and relate
- d optical instrumentation aimed at closing this gap\; it will also describ
- e examples of how the same technology is being applied to various other ap
- plications\, particularly bioreactors for cell manufacturing to and tumor-
- egg models. Our research emphasis has been towards developing miniature\, 
- injectable biosensor implants with microscale and nanoscale organization t
- o enable observation of interstitial biochemistry. These materials provide
-  specificity through use of various receptors and enhance sensitivity thro
- ugh optical amplification by phosphorescence or Raman scattering. Further\
- , they employ materials that can integrate naturally with tissue\, such as
-  porous gels\, enhancing prospects for accurate\, rapid response and long-
- term monitoring. These studies pave the way for modular sensing systems ba
- sed on sensing microdomains embedded in hydrogels\; the former serve as th
- e selective responsive elements whereas the latter act to immobilize the s
- ensing domains while providing a “friendly” surface to interface with 
- the body. Prototype miniaturized\, dedicated instrumentation to interrogat
- e the implants will also be discussed. Examples of current and potential t
- ranslational activities will be provided and some major remaining challeng
- es to long-term in vitro and in vivo biochemical monitoring will be highli
- ghted.\n\nDr. Mike McShane is James J. Cain Professor II in Biomedical Eng
- ineering at Texas A&M University\, where he serves as Department Head and 
- is also affiliated with Materials Science & Engineering and the Center for
-  Remote Health Technologies and Systems. Prof McShane’s primary research
-  interests are in biomedical instrumentation and optics\, biosensor techno
- logy\, and biomaterials with emphasis on micro/nanofabrication for respons
- ive materials. In this work\, he has pioneered the use of micro/nanopartic
- les\, capsules\, and hydrogel-particle composites for development of optic
- al biosensing systems and has assisted in commercialization of related pro
- ducts. Professor McShane is a fellow of AIMBE and is a Senior Member of SP
- IE and also IEEE\, for which he has served in numerous elected and appoint
- ed leadership positions including his current role as Past-President of th
- e IEEE Sensors Council.\n\nPizza and Drinks Will be Provided\n\nHost: Shui
- chi Takayama (takayama@gatech.edu)\n\nLinks:\n[0]  http://hg.gatech.edu/no
- de/622641#0
-LOCATION:Krone Building Room 3029
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SCL Course: APICS Certified Supply Chain Professional (CSCP) Boot 
  Camp
 DTSTART;VALUE=DATE:20190624
@@ -28945,6 +28895,29 @@ DESCRIPTION:Intended audience: Public\nStatus: published\n\nNote: This cou
 LOCATION:Georgia Tech Global Learning Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kirtan - Yoga of Sound
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200627T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200627T010000Z
+UID:http://hg.gatech.edu/node/636394#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nEcstatic Kirtan! 
+ the Yoga of sound. Join our live stream or in-person (seats limited).\n\nT
+ his is a FREE event. Donation to serve COVID affected communities are welc
+ ome at https://food4lives.org/ [1]\n\nPlease tune in via our "Bhakti Yoga 
+ Club at GeorgiaTech” Facebook page - we’d love for you to join us!\n\n
+ Learn to chant mantras that give clarity of mind\, purity of heart and sin
+ cerity of action. This sacred form of call and response helps you connect 
+ with the divine and each other. We experience the vibrations of communal s
+ inging\, emanating loving energy of the universe.\n\nCome sing your heart 
+ out and prepare to be mesmerized at 7:30 p.m. every Friday.\n\nBringing yo
+ ur own instrument is encouraged.\n\n.....\n\nWe can't for you to join our 
+ Bhakti Yoga family of LOVE & SERVICE.\n\nLinks:\n[0]  http://hg.gatech.edu
+ /node/636394#0\n[1]  https://food4lives.org/?fbclid=IwAR0UPfXdVo688nsNzpGR
+ PdvhZXbLgGV-1x6A8VNRAVNuQ_H3socPdQ9sz5Y\n[2]  https://www.facebook.com/eve
+ nts/714805419344982/
+LOCATION:Food4Lives\, 1122 Chattahoochee Avenue NW\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Test Event Multiple Days
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200629T163000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200629T173000Z
@@ -29313,6 +29286,121 @@ DESCRIPTION:Intended audience: Public\nStatus: published\n\nNote: This cou
  ://chhs.gatech.edu/contact/Professional_Education_Offerings\n[8]  https://
  pe.gatech.edu/global-learning-center
 LOCATION:Georgia Tech Global Learning Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kirtan - Yoga of Sound
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200704T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200704T010000Z
+UID:http://hg.gatech.edu/node/636394#1
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nEcstatic Kirtan! 
+ the Yoga of sound. Join our live stream or in-person (seats limited).\n\nT
+ his is a FREE event. Donation to serve COVID affected communities are welc
+ ome at https://food4lives.org/ [1]\n\nPlease tune in via our "Bhakti Yoga 
+ Club at GeorgiaTech” Facebook page - we’d love for you to join us!\n\n
+ Learn to chant mantras that give clarity of mind\, purity of heart and sin
+ cerity of action. This sacred form of call and response helps you connect 
+ with the divine and each other. We experience the vibrations of communal s
+ inging\, emanating loving energy of the universe.\n\nCome sing your heart 
+ out and prepare to be mesmerized at 7:30 p.m. every Friday.\n\nBringing yo
+ ur own instrument is encouraged.\n\n.....\n\nWe can't for you to join our 
+ Bhakti Yoga family of LOVE & SERVICE.\n\nLinks:\n[0]  http://hg.gatech.edu
+ /node/636394#1\n[1]  https://food4lives.org/?fbclid=IwAR0UPfXdVo688nsNzpGR
+ PdvhZXbLgGV-1x6A8VNRAVNuQ_H3socPdQ9sz5Y\n[2]  https://www.facebook.com/eve
+ nts/714805419344982/
+LOCATION:Food4Lives\, 1122 Chattahoochee Avenue NW\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kirtan - Yoga of Sound
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200711T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200711T010000Z
+UID:http://hg.gatech.edu/node/636394#2
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nEcstatic Kirtan! 
+ the Yoga of sound. Join our live stream or in-person (seats limited).\n\nT
+ his is a FREE event. Donation to serve COVID affected communities are welc
+ ome at https://food4lives.org/ [1]\n\nPlease tune in via our "Bhakti Yoga 
+ Club at GeorgiaTech” Facebook page - we’d love for you to join us!\n\n
+ Learn to chant mantras that give clarity of mind\, purity of heart and sin
+ cerity of action. This sacred form of call and response helps you connect 
+ with the divine and each other. We experience the vibrations of communal s
+ inging\, emanating loving energy of the universe.\n\nCome sing your heart 
+ out and prepare to be mesmerized at 7:30 p.m. every Friday.\n\nBringing yo
+ ur own instrument is encouraged.\n\n.....\n\nWe can't for you to join our 
+ Bhakti Yoga family of LOVE & SERVICE.\n\nLinks:\n[0]  http://hg.gatech.edu
+ /node/636394#2\n[1]  https://food4lives.org/?fbclid=IwAR0UPfXdVo688nsNzpGR
+ PdvhZXbLgGV-1x6A8VNRAVNuQ_H3socPdQ9sz5Y\n[2]  https://www.facebook.com/eve
+ nts/714805419344982/
+LOCATION:Food4Lives\, 1122 Chattahoochee Avenue NW\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kirtan - Yoga of Sound
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200718T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200718T010000Z
+UID:http://hg.gatech.edu/node/636394#3
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nEcstatic Kirtan! 
+ the Yoga of sound. Join our live stream or in-person (seats limited).\n\nT
+ his is a FREE event. Donation to serve COVID affected communities are welc
+ ome at https://food4lives.org/ [1]\n\nPlease tune in via our "Bhakti Yoga 
+ Club at GeorgiaTech” Facebook page - we’d love for you to join us!\n\n
+ Learn to chant mantras that give clarity of mind\, purity of heart and sin
+ cerity of action. This sacred form of call and response helps you connect 
+ with the divine and each other. We experience the vibrations of communal s
+ inging\, emanating loving energy of the universe.\n\nCome sing your heart 
+ out and prepare to be mesmerized at 7:30 p.m. every Friday.\n\nBringing yo
+ ur own instrument is encouraged.\n\n.....\n\nWe can't for you to join our 
+ Bhakti Yoga family of LOVE & SERVICE.\n\nLinks:\n[0]  http://hg.gatech.edu
+ /node/636394#3\n[1]  https://food4lives.org/?fbclid=IwAR0UPfXdVo688nsNzpGR
+ PdvhZXbLgGV-1x6A8VNRAVNuQ_H3socPdQ9sz5Y\n[2]  https://www.facebook.com/eve
+ nts/714805419344982/
+LOCATION:Food4Lives\, 1122 Chattahoochee Avenue NW\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kirtan - Yoga of Sound
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200725T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200725T010000Z
+UID:http://hg.gatech.edu/node/636394#4
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nEcstatic Kirtan! 
+ the Yoga of sound. Join our live stream or in-person (seats limited).\n\nT
+ his is a FREE event. Donation to serve COVID affected communities are welc
+ ome at https://food4lives.org/ [1]\n\nPlease tune in via our "Bhakti Yoga 
+ Club at GeorgiaTech” Facebook page - we’d love for you to join us!\n\n
+ Learn to chant mantras that give clarity of mind\, purity of heart and sin
+ cerity of action. This sacred form of call and response helps you connect 
+ with the divine and each other. We experience the vibrations of communal s
+ inging\, emanating loving energy of the universe.\n\nCome sing your heart 
+ out and prepare to be mesmerized at 7:30 p.m. every Friday.\n\nBringing yo
+ ur own instrument is encouraged.\n\n.....\n\nWe can't for you to join our 
+ Bhakti Yoga family of LOVE & SERVICE.\n\nLinks:\n[0]  http://hg.gatech.edu
+ /node/636394#4\n[1]  https://food4lives.org/?fbclid=IwAR0UPfXdVo688nsNzpGR
+ PdvhZXbLgGV-1x6A8VNRAVNuQ_H3socPdQ9sz5Y\n[2]  https://www.facebook.com/eve
+ nts/714805419344982/
+LOCATION:Food4Lives\, 1122 Chattahoochee Avenue NW\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kirtan - Yoga of Sound
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200801T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200801T010000Z
+UID:http://hg.gatech.edu/node/636394#5
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nEcstatic Kirtan! 
+ the Yoga of sound. Join our live stream or in-person (seats limited).\n\nT
+ his is a FREE event. Donation to serve COVID affected communities are welc
+ ome at https://food4lives.org/ [1]\n\nPlease tune in via our "Bhakti Yoga 
+ Club at GeorgiaTech” Facebook page - we’d love for you to join us!\n\n
+ Learn to chant mantras that give clarity of mind\, purity of heart and sin
+ cerity of action. This sacred form of call and response helps you connect 
+ with the divine and each other. We experience the vibrations of communal s
+ inging\, emanating loving energy of the universe.\n\nCome sing your heart 
+ out and prepare to be mesmerized at 7:30 p.m. every Friday.\n\nBringing yo
+ ur own instrument is encouraged.\n\n.....\n\nWe can't for you to join our 
+ Bhakti Yoga family of LOVE & SERVICE.\n\nLinks:\n[0]  http://hg.gatech.edu
+ /node/636394#5\n[1]  https://food4lives.org/?fbclid=IwAR0UPfXdVo688nsNzpGR
+ PdvhZXbLgGV-1x6A8VNRAVNuQ_H3socPdQ9sz5Y\n[2]  https://www.facebook.com/eve
+ nts/714805419344982/
+LOCATION:Food4Lives\, 1122 Chattahoochee Avenue NW\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:International Opportunities Open House
