@@ -2,23 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Student Center Programs Council and GT Salsa Club Presents Summer 
- Salsa Classes!
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190702T210000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190702T230000Z
-UID:http://hg.gatech.edu/node/622409#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: published\n\nStudent Center Programs Coun
- cil and GT Salsa Club Presents Summer Salsa Classes!\n\nBeginners are more
-  than welcome to join us in salsa dancing. All that we ask is that you RSV
- P and bring comfortable clothes and socks. We’ll provide water\, chips a
- nd salsa. Bring a friend for more fun! You can sign up for one or all. We 
- will also accept walk-ins if space permits.\n\nPlease send questions to su
- mmer@scpc.gatech.edu.\n\nRSVP: tinyurl.com/SummerSalsaClass\n\nLinks:\n[0]
-   http://hg.gatech.edu/node/622409#0
-LOCATION:Student Center Ballroom
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ivan Allen College Summer Social 2019
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190709T190000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190709T210000Z
