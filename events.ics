@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Focus Group for Professional Development Program
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190712T193000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190712T203000Z
-UID:http://hg.gatech.edu/node/622957#0
-DESCRIPTION:Intended audience: Graduate students\nExtras: Free food\nStatu
- s: archived\n\nHave an opinion on professional development resources on to
- pics like time management and leadership? Want to have an impact on future
-  plans? Join us for a focus group on a new online professional development
-  program that is being developed by and for Georgia Tech graduate students
- . Whether you are a first year Master's student or about to earn your Ph.D
- .\, we are looking for your opinion! Snacks will be provided.\n\nSign up h
- ere [1].\n\nLinks:\n[0]  http://hg.gatech.edu/node/622957#0\n[1]  https://
- gatech.co1.qualtrics.com/jfe/form/SV_5tgtcIRQI6QpKi9
-LOCATION:Library (room provided to particpants)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Student Center Programs Council and GT Salsa Club Presents Summer 
  Salsa Classes!
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190714T220000Z
