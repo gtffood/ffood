@@ -2,23 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:A Luau in the Ballroom
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190720T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190721T030000Z
-UID:http://hg.gatech.edu/node/623197#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nHappy July!! BDC@
- GT is so excited to be hosting another FABULOUS summer social dance on Jul
- y 20th!\n\nTango and mambo lesson from 7-8 pm\, and general dancing for th
- e rest of the night! We hope you can come hang out with us and enjoy the a
- wesome Hawaiian Luau drinks\, snacks\, and fun!\n\n-----------------------
- ---\n\nFree for Spring 2019 members\n$5 for students\, faculty\, staff\, a
- nd their spouses\n$10 for community\n\nLinks:\n[0]  http://hg.gatech.edu/n
- ode/623197#0\n[1]  https://ballroomdance.gtorg.gatech.edu\n[2]  https://ww
- w.facebook.com/events/343092642995498/
-LOCATION:Student Center Ballroom
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:GLUE Lecture - July 22
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190722T161500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190722T171500Z
@@ -28975,6 +28958,71 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  inks:\n[0]  http://hg.gatech.edu/node/636145#7\n[1]  https://bluejeans.com
  /612744357\n[2]  https://youtu.be/_jHWq6n6WNM
 LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asst. Professor Levi Wood: Systems Analysis of Neural Immune Signa
+ ling in Neurodegenerative Diseases
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200730T200000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200730T210000Z
+UID:https://www.chemistry.gatech.edu/event/asst-professor-levi-wood
+DESCRIPTION:Status: unknown\n\nDysregulated neural immune activity contrib
+ utes to the pathogenesis of diverse diseases\, including Alzheimer’s dis
+ ease\, traumatic brain injury\, and lysosomal storage disorders\, among ot
+ hers. Understanding neural immune function and identification of strategie
+ s to restore healthy or homeostatic immune activity holds the potential to
+  transform our ability to treat neurodegenerative diseases. Neural immune 
+ activity is a complex system\, consisting of intracellular regulation of d
+ iverse immune genes by phospho-signaling cascades that ultimately control 
+ glial phenotypes and expression of extra-cellular signaling factors\, such
+  as cytokines\, that communicate between cells and exacerbate dysfunction.
+  This talk will consist of two parts.\n\nIn the first part\, I will discus
+ s our work\, in collaboration with Dr. Amit Reddi\, to illuminate the role
+  of the blood factors heme and hemoglobin in potentiating Alzheimer’s di
+ sease pathogenesis. We have found that elevation of these factors in Alzhe
+ imer’s disease suppresses immune function of the brain’s immune cells\
+ , astrocytes and microglia\, including their abilities to clear amyloid be
+ ta\, which is the hallmark protein that forms plaques in Alzheimer’s bra
+ ins. By integrating extracellular (cytokine) and intracellular (phospho-pr
+ otein) signaling data\, we have determined that heme and hemoglobin attenu
+ ate normal immune function by stimulating the PI3K/Akt pathway. Moreover\,
+  attenuation of the heme biosynthetic pathway reduced amyloid beta patholo
+ gy in 5xFAD Alzheimer’s disease mice. Together\, these data illuminate a
+ n entirely new aspect of Alzheimer’s disease pathogenesis and suggest a 
+ novel mechanism resulting in brain immune cell “fatigue\,” which may b
+ e treated by attenuating heme synthesis.\n\nIn the second part\, I will di
+ scuss our work to identify neuroinflammatory signaling responsible for cog
+ nitive deficit after repetitive mild traumatic brain injury (mTBI). We use
+  a weight drop closed head injury mouse model relevant to sports injury in
+  which a subset of mice experience cognitive deficit despite having no ove
+ rt signs of neuronal injury. Using a non-invasive optical cerebral blood f
+ low sensor\, we found that mice with acutely low cerebral blood flow after
+  mTBI would suffer long term memory deficit and had elevated acute microgl
+ ial activation. Surprisingly\, microglial activation was accompanied by ne
+ uronal pro-inflammatory phospho-signaling and cytokine expression\, sugges
+ ting for the first time that neural immunity and cognitive deficit depends
+  on the interplay between glia and neurons. Moreover\, our ongoing studies
+  suggest that inhibition of phospho-signaling using translationally releva
+ nt small molecules has the potential to restore cognitive function after r
+ epetitive mTBI.\n\nDr. Wood has been an assistant professor in the Institu
+ te for Bioengineering and Bioscience at Georgia Tech since August 2015. He
+  completed his PhD at MIT where he developed novel microfluidics to identi
+ fy mechanisms governing blood vessel geometry during angiogenesis. For his
+  postdoc\, Levi\, joined the signaling systems biology laboratories of Kev
+ in Haigis and Douglas Lauffenburger at MGH and MIT. While there\, he used 
+ engineering systems methods to identify new mechanisms of cell death in Al
+ zheimer’s disease and the inflamed intestine. The Wood lab combines engi
+ neering systems analysis with multi-dimensional datasets from human tissue
+ s\, mouse models\, and 2D and 3D cell culture models to understand the rol
+ es of neural immune activity in promoting healthy brain function and in dr
+ iving diverse neurological disorders. In addition to identifying underlyin
+ g mechanisms of disease\, Dr. Wood has a particular interest in identifyin
+ g rapidly translatable treatment approaches using re-purposed drugs for ca
+ ncer and other conditions that may already be commercially available or la
+ te stage development. Dr. Wood’s areas of study include traumatic brain 
+ injury\, Alzheimer’s disease\, and the lysosomal storage disorder\, muco
+ lipidosis IV.\n\nLinks:\n[0]  https://www.chemistry.gatech.edu/event/asst-
+ professor-levi-wood
+LOCATION:https://bluejeans.com/764447847
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kirtan - Yoga of Sound
