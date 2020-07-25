@@ -2,36 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Introversion as an Ally workshop with Neith Sankofa
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190725T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190725T163000Z
-UID:http://hg.gatech.edu/node/623627#0
-DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nThe Web
-  of Brilliance ERG and Institute Diversity present the workshop "Introvers
- ion as an Ally\," with Neith Sankofa.\n\nInteracting with leaders and infl
- uencers across many social and cultural lines is a marker of a seasoned pr
- ofessional. Being able to be present\, flexible and “in-the-moment” wh
- ile doing so is a marker of a fully empowered\, exceptional professional.\
- n\nBut what happens when there are challenges… like being an introvert? 
- It begins with recognizing introversion as an ally to the type of insights
-  that create full empowerment because of an introvert’s innate ability t
- o be or become internally aware.\n\nIn this workshop participants will rec
- ognize when they (and others) have switched to “automatic” in their in
- teractions. Through integration exercises\, participants will uncover how 
- to counterbalance the tendency to fall into unconscious role-playing (due 
- to the stress of introversion) by authentically engaging their target audi
- ences for maximum success. By getting in touch with what they need and fee
- l\, and creating a toolkit for counterbalancing\, they will begin to creat
- e more ideal conditions for themselves in any situation through expanded i
- nternal awareness.\n\nFree and open to Georgia Tech Staff and Faculty\, bu
- t seats are very limited. You must register to attend.\n\nRefreshments pro
- vided. Introverts\, Extroverts\, and everyone in between are welcome.\n\nR
- SVP to attend [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/623627#0\n[1] 
-  https://www.eventbrite.com/e/web-of-brilliance-introversion-as-an-ally-wo
- rkshop-tickets-65130026663
-LOCATION:Room 102\, Clough Commons
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Savannah Campus - FREE Code.org Training
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190727T123000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190727T200000Z
@@ -29090,18 +29060,353 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Food4Lives\, 1122 Chattahoochee Avenue NW\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lunch Time "Tapping" for Calm\, Centering & Clarity
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200804T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200804T163000Z
+UID:http://hg.gatech.edu/node/636145#8
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nStatus: published\n\nLet's get together for som
+ e self-care Tapping\, breathing and centering\, to better manage stress\, 
+ and access more calm and clarity.\n\nWhen: Tuesdays & Thursdays in July\, 
+ Noon ~ 12:30\, (August ~ TBD)\nWhere: Drop In Zoom (Initial download/setup
+  might be required) [01]\nWhat: 1. Casual chat on stress & Tapping intro (
+ as needed)\n2. "Tapping" similar to this video " Trauma Tapping Technique 
+ [02]."\n\nThe self-help technique to be shared may provide you with some w
+ ays to calm down stress and other emotions. However\, it is not a treatmen
+ t or prescription for any medial or mental health issues\, nor a substitut
+ e for regular medical or psychological care. If you have a medical or psyc
+ hological condition\, please consult your doctor or other appropriate lice
+ nsed health practitioner. Joining the Tapping session does not constitute 
+ a professional relationship between the viewers and the presenters. Choosi
+ ng to Tap along means you are taking responsibility for your own self. We 
+ hope the session will contain some helpful information to you.\n\n- Mental
+  Health Resources @ GT [03]\n- Mental Health Support Events via the Counse
+ ling Center @ GT [04]\n- Video: " Trauma Tapping Technique [02] " - Simila
+ r style to our Lunch Time Tapping\n- " Your Immune System Is Your Greatest
+  Asset — Here’s How to Care for It [05] " by Dr. Jeffrey Rediger\, M.D
+ .\, MDiv [06]\n- Video: " How to Make Stress Your Friend [07] " by Psychol
+ ogist Kelly McGonigal\n".... the harmful effects of stress on your health 
+ are not inevitable. How you think and how you act can transform your exper
+ ience of stress. When you choose to view your stress response as helpful\,
+  you create the biology of courage. And when you choose to connect with ot
+ hers under stress\, you can create resilience....Stress gives us access to
+  our hearts. The compassionate heart that finds joy and meaning in connect
+ ing with others\, and yes\, your pounding physical heart\, working so hard
+  to give you strength and energy. And when you choose to view stress in th
+ is way\, you're not just getting better at stress\, you're actually making
+  a pretty profound statement. You're saying that you can trust yourself to
+  handle life's challenges. And you're remembering that you don't have to f
+ ace them alone. "\n- Video: " First Aid for Emotional Distress - Trauma Ta
+ pping Technique (TTT) [08] "\n- Peaceful Heart Network [09]\n- Video: " Ch
+ aplain Foster - Interview on Tapping etc [10] "\n- "The Body Keeps the Sco
+ re" - Dr. Bessel Van der Kolk\n- "Waking the Tiger" - Dr. Peter Levine\n- 
+ "The Science Behind Tapping" - Dr. Peta Stapleton\n- " Evaluating a 3-Week
+  Model for Reducing Symptoms of Stress in Traumatised Youth Using the Trau
+ ma Tapping Technique (TTT) for Self-help: A Pilot Trial [11] " - Dr. Peta 
+ Stapleton\, Ulf Sandstrom\, & Gunilla Hamne\n- " Clinical EFT Improves Phy
+ siological Markers of Health [12] " - Donna Bach\, ND\, et al.\n- Recent R
+ esearch Studies on (EFT Tapping) [13] compiled by Dr. Craig Weiner\n\n"Kno
+ wing others is intelligence\; knowing yourself is true wisdom. Mastering o
+ thers is strength\; mastering yourself is true power.”\n- Lao Tzu\, Tao 
+ Te Ching\n\n------------\n\nIn addition to the many trainers\, mentors\, a
+ nd colleagues who practice EFT Tapping the following individuals have been
+  kind to personally spend their time to support these Tapping efforts on G
+ T Campus - Thank you:)\n\nAndrea Lewis: Solace4me.com (under construction\
+ , almost done) [14]\nNancy Gnecco: NancyGnecco.com [15]\nKatie Nall: NallE
+ dgeCo.com [16] | " A Technique to Eliminate Math Anxiety [17] "\nLori Lamo
+ nt: FemaleEmpowermentEFT.com [18] |\nFree Tapping Calls [19] (3rd Fri@10am
+  & Last Mon@Noon EST)\nLaurie Heyl: LaurieHeyl.com [20]\nSilke Johnson: Me
+ lodyCenter.de [21]\nTrina Markusson: [22] | [23]\nSuzanne Velasquez-Sheehy
+ : BoltToSuccess.com [24]\n\n(If you are a Tapping practitioner who wishes 
+ to co-lead Lunch Time Tapping\, please reach out to mito6@gatech.edu.)\n\n
+ Links:\n[00]  http://hg.gatech.edu/node/636145#8\n[01]  https://zoom.us/j/
+ 96236201459?pwd=dVJuOTNlRGVMdUNDL1FpTGdVNTNoQT09\n[02]  https://youtu.be/_
+ jHWq6n6WNM\n[03]  https://www.news.gatech.edu/2020/06/15/mental-health-res
+ ources-available-during-challenging-times\n[04]  https://counseling.gatech
+ .edu/support-mental-health-events\n[05]  https://elemental.medium.com/your
+ -immune-system-is-your-greatest-asset-heres-how-to-care-for-it-4356cee6598
+ c\n[06]  https://elemental.medium.com/@drjeffreyrediger?source=post_page--
+ ---4356cee6598c----------------------\n[07]  https://www.ted.com/talks/kel
+ ly_mcgonigal_how_to_make_stress_your_friend/transcript?language=en#t-72724
+ 4\n[08]  https://youtu.be/UcyaudlgkGo\n[09]  https://peacefulheart.se\n[10
+ ]  https://vimeo.com/434759839\n[11]  http://www.lidsen.com/journals/icm/i
+ cm-03-04-036\n[12]  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6381429/\
+ n[13]  https://www.efttappingtraining.com/eft-research/\n[14]  http://www.
+ solace4me.com/?fbclid=IwAR2SW3IfRmYg5HDPpMfhZIf_Jrtb8eZjOAovsBJghmVpWVjB9j
+ MZ0Y-bFXo\n[15]  http://www.nancygnecco.com\n[16]  http://www.nalledgeco.c
+ om/\n[17]  https://youtu.be/KZNdBxdNGIE\n[18]  http://www.femaleempowermen
+ teft.com\n[19]  https://femaleempowermenteft.as.me/Freetappingcall\n[20]  
+ http://laurieheyl.com\n[21]  https://www.melodycenter.de/en/about-us/#Silk
+ e\n[22]  http://www.presentmomentliving.ca/\n[23]  http://thereleaseapp.co
+ m/\n[24]  https://www.bolttosuccess.com
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch Time "Tapping" for Calm\, Centering & Clarity
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200806T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200806T163000Z
+UID:http://hg.gatech.edu/node/636145#9
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nStatus: published\n\nLet's get together for som
+ e self-care Tapping\, breathing and centering\, to better manage stress\, 
+ and access more calm and clarity.\n\nWhen: Tuesdays & Thursdays in July\, 
+ Noon ~ 12:30\, (August ~ TBD)\nWhere: Drop In Zoom (Initial download/setup
+  might be required) [01]\nWhat: 1. Casual chat on stress & Tapping intro (
+ as needed)\n2. "Tapping" similar to this video " Trauma Tapping Technique 
+ [02]."\n\nThe self-help technique to be shared may provide you with some w
+ ays to calm down stress and other emotions. However\, it is not a treatmen
+ t or prescription for any medial or mental health issues\, nor a substitut
+ e for regular medical or psychological care. If you have a medical or psyc
+ hological condition\, please consult your doctor or other appropriate lice
+ nsed health practitioner. Joining the Tapping session does not constitute 
+ a professional relationship between the viewers and the presenters. Choosi
+ ng to Tap along means you are taking responsibility for your own self. We 
+ hope the session will contain some helpful information to you.\n\n- Mental
+  Health Resources @ GT [03]\n- Mental Health Support Events via the Counse
+ ling Center @ GT [04]\n- Video: " Trauma Tapping Technique [02] " - Simila
+ r style to our Lunch Time Tapping\n- " Your Immune System Is Your Greatest
+  Asset — Here’s How to Care for It [05] " by Dr. Jeffrey Rediger\, M.D
+ .\, MDiv [06]\n- Video: " How to Make Stress Your Friend [07] " by Psychol
+ ogist Kelly McGonigal\n".... the harmful effects of stress on your health 
+ are not inevitable. How you think and how you act can transform your exper
+ ience of stress. When you choose to view your stress response as helpful\,
+  you create the biology of courage. And when you choose to connect with ot
+ hers under stress\, you can create resilience....Stress gives us access to
+  our hearts. The compassionate heart that finds joy and meaning in connect
+ ing with others\, and yes\, your pounding physical heart\, working so hard
+  to give you strength and energy. And when you choose to view stress in th
+ is way\, you're not just getting better at stress\, you're actually making
+  a pretty profound statement. You're saying that you can trust yourself to
+  handle life's challenges. And you're remembering that you don't have to f
+ ace them alone. "\n- Video: " First Aid for Emotional Distress - Trauma Ta
+ pping Technique (TTT) [08] "\n- Peaceful Heart Network [09]\n- Video: " Ch
+ aplain Foster - Interview on Tapping etc [10] "\n- "The Body Keeps the Sco
+ re" - Dr. Bessel Van der Kolk\n- "Waking the Tiger" - Dr. Peter Levine\n- 
+ "The Science Behind Tapping" - Dr. Peta Stapleton\n- " Evaluating a 3-Week
+  Model for Reducing Symptoms of Stress in Traumatised Youth Using the Trau
+ ma Tapping Technique (TTT) for Self-help: A Pilot Trial [11] " - Dr. Peta 
+ Stapleton\, Ulf Sandstrom\, & Gunilla Hamne\n- " Clinical EFT Improves Phy
+ siological Markers of Health [12] " - Donna Bach\, ND\, et al.\n- Recent R
+ esearch Studies on (EFT Tapping) [13] compiled by Dr. Craig Weiner\n\n"Kno
+ wing others is intelligence\; knowing yourself is true wisdom. Mastering o
+ thers is strength\; mastering yourself is true power.”\n- Lao Tzu\, Tao 
+ Te Ching\n\n------------\n\nIn addition to the many trainers\, mentors\, a
+ nd colleagues who practice EFT Tapping the following individuals have been
+  kind to personally spend their time to support these Tapping efforts on G
+ T Campus - Thank you:)\n\nAndrea Lewis: Solace4me.com (under construction\
+ , almost done) [14]\nNancy Gnecco: NancyGnecco.com [15]\nKatie Nall: NallE
+ dgeCo.com [16] | " A Technique to Eliminate Math Anxiety [17] "\nLori Lamo
+ nt: FemaleEmpowermentEFT.com [18] |\nFree Tapping Calls [19] (3rd Fri@10am
+  & Last Mon@Noon EST)\nLaurie Heyl: LaurieHeyl.com [20]\nSilke Johnson: Me
+ lodyCenter.de [21]\nTrina Markusson: [22] | [23]\nSuzanne Velasquez-Sheehy
+ : BoltToSuccess.com [24]\n\n(If you are a Tapping practitioner who wishes 
+ to co-lead Lunch Time Tapping\, please reach out to mito6@gatech.edu.)\n\n
+ Links:\n[00]  http://hg.gatech.edu/node/636145#9\n[01]  https://zoom.us/j/
+ 96236201459?pwd=dVJuOTNlRGVMdUNDL1FpTGdVNTNoQT09\n[02]  https://youtu.be/_
+ jHWq6n6WNM\n[03]  https://www.news.gatech.edu/2020/06/15/mental-health-res
+ ources-available-during-challenging-times\n[04]  https://counseling.gatech
+ .edu/support-mental-health-events\n[05]  https://elemental.medium.com/your
+ -immune-system-is-your-greatest-asset-heres-how-to-care-for-it-4356cee6598
+ c\n[06]  https://elemental.medium.com/@drjeffreyrediger?source=post_page--
+ ---4356cee6598c----------------------\n[07]  https://www.ted.com/talks/kel
+ ly_mcgonigal_how_to_make_stress_your_friend/transcript?language=en#t-72724
+ 4\n[08]  https://youtu.be/UcyaudlgkGo\n[09]  https://peacefulheart.se\n[10
+ ]  https://vimeo.com/434759839\n[11]  http://www.lidsen.com/journals/icm/i
+ cm-03-04-036\n[12]  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6381429/\
+ n[13]  https://www.efttappingtraining.com/eft-research/\n[14]  http://www.
+ solace4me.com/?fbclid=IwAR2SW3IfRmYg5HDPpMfhZIf_Jrtb8eZjOAovsBJghmVpWVjB9j
+ MZ0Y-bFXo\n[15]  http://www.nancygnecco.com\n[16]  http://www.nalledgeco.c
+ om/\n[17]  https://youtu.be/KZNdBxdNGIE\n[18]  http://www.femaleempowermen
+ teft.com\n[19]  https://femaleempowermenteft.as.me/Freetappingcall\n[20]  
+ http://laurieheyl.com\n[21]  https://www.melodycenter.de/en/about-us/#Silk
+ e\n[22]  http://www.presentmomentliving.ca/\n[23]  http://thereleaseapp.co
+ m/\n[24]  https://www.bolttosuccess.com
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch Time "Tapping" for Calm\, Centering & Clarity
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200811T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200811T163000Z
+UID:http://hg.gatech.edu/node/636145#10
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nStatus: published\n\nLet's get together for som
+ e self-care Tapping\, breathing and centering\, to better manage stress\, 
+ and access more calm and clarity.\n\nWhen: Tuesdays & Thursdays in July\, 
+ Noon ~ 12:30\, (August ~ TBD)\nWhere: Drop In Zoom (Initial download/setup
+  might be required) [01]\nWhat: 1. Casual chat on stress & Tapping intro (
+ as needed)\n2. "Tapping" similar to this video " Trauma Tapping Technique 
+ [02]."\n\nThe self-help technique to be shared may provide you with some w
+ ays to calm down stress and other emotions. However\, it is not a treatmen
+ t or prescription for any medial or mental health issues\, nor a substitut
+ e for regular medical or psychological care. If you have a medical or psyc
+ hological condition\, please consult your doctor or other appropriate lice
+ nsed health practitioner. Joining the Tapping session does not constitute 
+ a professional relationship between the viewers and the presenters. Choosi
+ ng to Tap along means you are taking responsibility for your own self. We 
+ hope the session will contain some helpful information to you.\n\n- Mental
+  Health Resources @ GT [03]\n- Mental Health Support Events via the Counse
+ ling Center @ GT [04]\n- Video: " Trauma Tapping Technique [02] " - Simila
+ r style to our Lunch Time Tapping\n- " Your Immune System Is Your Greatest
+  Asset — Here’s How to Care for It [05] " by Dr. Jeffrey Rediger\, M.D
+ .\, MDiv [06]\n- Video: " How to Make Stress Your Friend [07] " by Psychol
+ ogist Kelly McGonigal\n".... the harmful effects of stress on your health 
+ are not inevitable. How you think and how you act can transform your exper
+ ience of stress. When you choose to view your stress response as helpful\,
+  you create the biology of courage. And when you choose to connect with ot
+ hers under stress\, you can create resilience....Stress gives us access to
+  our hearts. The compassionate heart that finds joy and meaning in connect
+ ing with others\, and yes\, your pounding physical heart\, working so hard
+  to give you strength and energy. And when you choose to view stress in th
+ is way\, you're not just getting better at stress\, you're actually making
+  a pretty profound statement. You're saying that you can trust yourself to
+  handle life's challenges. And you're remembering that you don't have to f
+ ace them alone. "\n- Video: " First Aid for Emotional Distress - Trauma Ta
+ pping Technique (TTT) [08] "\n- Peaceful Heart Network [09]\n- Video: " Ch
+ aplain Foster - Interview on Tapping etc [10] "\n- "The Body Keeps the Sco
+ re" - Dr. Bessel Van der Kolk\n- "Waking the Tiger" - Dr. Peter Levine\n- 
+ "The Science Behind Tapping" - Dr. Peta Stapleton\n- " Evaluating a 3-Week
+  Model for Reducing Symptoms of Stress in Traumatised Youth Using the Trau
+ ma Tapping Technique (TTT) for Self-help: A Pilot Trial [11] " - Dr. Peta 
+ Stapleton\, Ulf Sandstrom\, & Gunilla Hamne\n- " Clinical EFT Improves Phy
+ siological Markers of Health [12] " - Donna Bach\, ND\, et al.\n- Recent R
+ esearch Studies on (EFT Tapping) [13] compiled by Dr. Craig Weiner\n\n"Kno
+ wing others is intelligence\; knowing yourself is true wisdom. Mastering o
+ thers is strength\; mastering yourself is true power.”\n- Lao Tzu\, Tao 
+ Te Ching\n\n------------\n\nIn addition to the many trainers\, mentors\, a
+ nd colleagues who practice EFT Tapping the following individuals have been
+  kind to personally spend their time to support these Tapping efforts on G
+ T Campus - Thank you:)\n\nAndrea Lewis: Solace4me.com (under construction\
+ , almost done) [14]\nNancy Gnecco: NancyGnecco.com [15]\nKatie Nall: NallE
+ dgeCo.com [16] | " A Technique to Eliminate Math Anxiety [17] "\nLori Lamo
+ nt: FemaleEmpowermentEFT.com [18] |\nFree Tapping Calls [19] (3rd Fri@10am
+  & Last Mon@Noon EST)\nLaurie Heyl: LaurieHeyl.com [20]\nSilke Johnson: Me
+ lodyCenter.de [21]\nTrina Markusson: [22] | [23]\nSuzanne Velasquez-Sheehy
+ : BoltToSuccess.com [24]\n\n(If you are a Tapping practitioner who wishes 
+ to co-lead Lunch Time Tapping\, please reach out to mito6@gatech.edu.)\n\n
+ Links:\n[00]  http://hg.gatech.edu/node/636145#10\n[01]  https://zoom.us/j
+ /96236201459?pwd=dVJuOTNlRGVMdUNDL1FpTGdVNTNoQT09\n[02]  https://youtu.be/
+ _jHWq6n6WNM\n[03]  https://www.news.gatech.edu/2020/06/15/mental-health-re
+ sources-available-during-challenging-times\n[04]  https://counseling.gatec
+ h.edu/support-mental-health-events\n[05]  https://elemental.medium.com/you
+ r-immune-system-is-your-greatest-asset-heres-how-to-care-for-it-4356cee659
+ 8c\n[06]  https://elemental.medium.com/@drjeffreyrediger?source=post_page-
+ ----4356cee6598c----------------------\n[07]  https://www.ted.com/talks/ke
+ lly_mcgonigal_how_to_make_stress_your_friend/transcript?language=en#t-7272
+ 44\n[08]  https://youtu.be/UcyaudlgkGo\n[09]  https://peacefulheart.se\n[1
+ 0]  https://vimeo.com/434759839\n[11]  http://www.lidsen.com/journals/icm/
+ icm-03-04-036\n[12]  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6381429/
+ \n[13]  https://www.efttappingtraining.com/eft-research/\n[14]  http://www
+ .solace4me.com/?fbclid=IwAR2SW3IfRmYg5HDPpMfhZIf_Jrtb8eZjOAovsBJghmVpWVjB9
+ jMZ0Y-bFXo\n[15]  http://www.nancygnecco.com\n[16]  http://www.nalledgeco.
+ com/\n[17]  https://youtu.be/KZNdBxdNGIE\n[18]  http://www.femaleempowerme
+ nteft.com\n[19]  https://femaleempowermenteft.as.me/Freetappingcall\n[20] 
+  http://laurieheyl.com\n[21]  https://www.melodycenter.de/en/about-us/#Sil
+ ke\n[22]  http://www.presentmomentliving.ca/\n[23]  http://thereleaseapp.c
+ om/\n[24]  https://www.bolttosuccess.com
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch Time "Tapping" for Calm\, Centering & Clarity
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200813T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200813T163000Z
+UID:http://hg.gatech.edu/node/636145#11
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nStatus: published\n\nLet's get together for som
+ e self-care Tapping\, breathing and centering\, to better manage stress\, 
+ and access more calm and clarity.\n\nWhen: Tuesdays & Thursdays in July\, 
+ Noon ~ 12:30\, (August ~ TBD)\nWhere: Drop In Zoom (Initial download/setup
+  might be required) [01]\nWhat: 1. Casual chat on stress & Tapping intro (
+ as needed)\n2. "Tapping" similar to this video " Trauma Tapping Technique 
+ [02]."\n\nThe self-help technique to be shared may provide you with some w
+ ays to calm down stress and other emotions. However\, it is not a treatmen
+ t or prescription for any medial or mental health issues\, nor a substitut
+ e for regular medical or psychological care. If you have a medical or psyc
+ hological condition\, please consult your doctor or other appropriate lice
+ nsed health practitioner. Joining the Tapping session does not constitute 
+ a professional relationship between the viewers and the presenters. Choosi
+ ng to Tap along means you are taking responsibility for your own self. We 
+ hope the session will contain some helpful information to you.\n\n- Mental
+  Health Resources @ GT [03]\n- Mental Health Support Events via the Counse
+ ling Center @ GT [04]\n- Video: " Trauma Tapping Technique [02] " - Simila
+ r style to our Lunch Time Tapping\n- " Your Immune System Is Your Greatest
+  Asset — Here’s How to Care for It [05] " by Dr. Jeffrey Rediger\, M.D
+ .\, MDiv [06]\n- Video: " How to Make Stress Your Friend [07] " by Psychol
+ ogist Kelly McGonigal\n".... the harmful effects of stress on your health 
+ are not inevitable. How you think and how you act can transform your exper
+ ience of stress. When you choose to view your stress response as helpful\,
+  you create the biology of courage. And when you choose to connect with ot
+ hers under stress\, you can create resilience....Stress gives us access to
+  our hearts. The compassionate heart that finds joy and meaning in connect
+ ing with others\, and yes\, your pounding physical heart\, working so hard
+  to give you strength and energy. And when you choose to view stress in th
+ is way\, you're not just getting better at stress\, you're actually making
+  a pretty profound statement. You're saying that you can trust yourself to
+  handle life's challenges. And you're remembering that you don't have to f
+ ace them alone. "\n- Video: " First Aid for Emotional Distress - Trauma Ta
+ pping Technique (TTT) [08] "\n- Peaceful Heart Network [09]\n- Video: " Ch
+ aplain Foster - Interview on Tapping etc [10] "\n- "The Body Keeps the Sco
+ re" - Dr. Bessel Van der Kolk\n- "Waking the Tiger" - Dr. Peter Levine\n- 
+ "The Science Behind Tapping" - Dr. Peta Stapleton\n- " Evaluating a 3-Week
+  Model for Reducing Symptoms of Stress in Traumatised Youth Using the Trau
+ ma Tapping Technique (TTT) for Self-help: A Pilot Trial [11] " - Dr. Peta 
+ Stapleton\, Ulf Sandstrom\, & Gunilla Hamne\n- " Clinical EFT Improves Phy
+ siological Markers of Health [12] " - Donna Bach\, ND\, et al.\n- Recent R
+ esearch Studies on (EFT Tapping) [13] compiled by Dr. Craig Weiner\n\n"Kno
+ wing others is intelligence\; knowing yourself is true wisdom. Mastering o
+ thers is strength\; mastering yourself is true power.”\n- Lao Tzu\, Tao 
+ Te Ching\n\n------------\n\nIn addition to the many trainers\, mentors\, a
+ nd colleagues who practice EFT Tapping the following individuals have been
+  kind to personally spend their time to support these Tapping efforts on G
+ T Campus - Thank you:)\n\nAndrea Lewis: Solace4me.com (under construction\
+ , almost done) [14]\nNancy Gnecco: NancyGnecco.com [15]\nKatie Nall: NallE
+ dgeCo.com [16] | " A Technique to Eliminate Math Anxiety [17] "\nLori Lamo
+ nt: FemaleEmpowermentEFT.com [18] |\nFree Tapping Calls [19] (3rd Fri@10am
+  & Last Mon@Noon EST)\nLaurie Heyl: LaurieHeyl.com [20]\nSilke Johnson: Me
+ lodyCenter.de [21]\nTrina Markusson: [22] | [23]\nSuzanne Velasquez-Sheehy
+ : BoltToSuccess.com [24]\n\n(If you are a Tapping practitioner who wishes 
+ to co-lead Lunch Time Tapping\, please reach out to mito6@gatech.edu.)\n\n
+ Links:\n[00]  http://hg.gatech.edu/node/636145#11\n[01]  https://zoom.us/j
+ /96236201459?pwd=dVJuOTNlRGVMdUNDL1FpTGdVNTNoQT09\n[02]  https://youtu.be/
+ _jHWq6n6WNM\n[03]  https://www.news.gatech.edu/2020/06/15/mental-health-re
+ sources-available-during-challenging-times\n[04]  https://counseling.gatec
+ h.edu/support-mental-health-events\n[05]  https://elemental.medium.com/you
+ r-immune-system-is-your-greatest-asset-heres-how-to-care-for-it-4356cee659
+ 8c\n[06]  https://elemental.medium.com/@drjeffreyrediger?source=post_page-
+ ----4356cee6598c----------------------\n[07]  https://www.ted.com/talks/ke
+ lly_mcgonigal_how_to_make_stress_your_friend/transcript?language=en#t-7272
+ 44\n[08]  https://youtu.be/UcyaudlgkGo\n[09]  https://peacefulheart.se\n[1
+ 0]  https://vimeo.com/434759839\n[11]  http://www.lidsen.com/journals/icm/
+ icm-03-04-036\n[12]  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6381429/
+ \n[13]  https://www.efttappingtraining.com/eft-research/\n[14]  http://www
+ .solace4me.com/?fbclid=IwAR2SW3IfRmYg5HDPpMfhZIf_Jrtb8eZjOAovsBJghmVpWVjB9
+ jMZ0Y-bFXo\n[15]  http://www.nancygnecco.com\n[16]  http://www.nalledgeco.
+ com/\n[17]  https://youtu.be/KZNdBxdNGIE\n[18]  http://www.femaleempowerme
+ nteft.com\n[19]  https://femaleempowermenteft.as.me/Freetappingcall\n[20] 
+  http://laurieheyl.com\n[21]  https://www.melodycenter.de/en/about-us/#Sil
+ ke\n[22]  http://www.presentmomentliving.ca/\n[23]  http://thereleaseapp.c
+ om/\n[24]  https://www.bolttosuccess.com
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:International Opportunities Open House
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200818T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200818T160000Z
-UID:http://hg.gatech.edu/node/634444#0
-DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\n
- Status: published\n\nPlease come meet OIE advisors and learn about study a
- broad opportunities\, Global Internships\, the International Plan\, schola
- rships\, and more. This is a great time to ask questions about Tech's many
-  programs in one place and indulge in some tasty refreshments.\n\nWe hope 
- to see you there!\n\nLinks:\n[0]  http://hg.gatech.edu/node/634444#0\n[1] 
-  https://oie.gatech.edu/
-LOCATION:Student Success center: President's Suite C & D
+UID:http://hg.gatech.edu/node/637255#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Undergraduate students\nExt
+ ras: Free food\nStatus: published\n\nPlease join OIE advisors to learn abo
+ ut study abroad opportunities\, global research and internship programs\, 
+ the International Plan\, scholarships\, and more. This is a great time to 
+ ask questions about Tech's many programs in one place and we hope to see y
+ ou there!\n\nPlease register [2] for the BlueJeans events and BlueJeans wi
+ ll send you a follow up email with your link to access the meeting.\n\nPle
+ ase come meet OIE advisors and learn about study abroad opportunities\, Gl
+ obal Internships\, the International Plan\, scholarships\, and more. This 
+ is a great time to ask questions about Tech's many programs in one place a
+ nd indulge in some tasty refreshments.\n\nWe hope to see you there!\n\nLin
+ ks:\n[0]  http://hg.gatech.edu/node/637255#0\n[1]  http://hg.gatech.edu/no
+ de/634444#0\n[2]  https://primetime.bluejeans.com/a2m/register/hdbfvsks\n[
+ 3]  https://oie.gatech.edu/\n[4]  https://oie.gatech.edu/hg/events/634444
+LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:International Opportunities Open House
