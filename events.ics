@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Sundae Night
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190731T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190731T030000Z
-UID:https://gatech.campuslabs.com/engage/event/4604159
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome join us for a nigh
- t of fellowship and free Sundaes after the 9pm mass!\n\nLinks:\n[0]  https
- ://gatech.campuslabs.com/engage/event/4604159
-LOCATION:The Catholic Center at Georgia Tech
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Student Center Faculty & Staff Open House
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190806T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190806T170000Z
