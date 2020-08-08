@@ -2,24 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Dining Services Faculty/Staff Appreciation Lunch
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190808T143000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190808T183000Z
-UID:http://hg.gatech.edu/node/624023#0
-DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Freebies\nStatus: pu
- blished\n\nFor $5 Georgia Tech staff and faculty will enjoy the Fried Chic
- ken Thursday menu as well as many other options. Enjoy prize giveaways and
-  information about the Faculty & Staff Dining Funds!\n\nJoin fellow facult
- y and staff at North Avenue Dining Hall on August 8 from 10:30 a.m. to 2:3
- 0 p.m. for an appreciation lunch from Georgia Tech Dining Services. The do
- or rate is $5 and they'll be offering the Fried Chicken Thursday menu as w
- ell as many other options. Enjoy prize giveaways and information about the
-  Faculty & Staff Dining Funds!\n\nLinks:\n[0]  http://hg.gatech.edu/node/6
- 24023#0\n[1]  http://hg.gatech.edu/node/623999#0\n[2]  https://georgiatech
- .campusdish.com/
-LOCATION:North Avenue Dining Hall
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Carbon Reduction Challenge
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190813T190000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190813T203000Z
@@ -29239,6 +29221,31 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chalk the Walk
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200812T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200813T003000Z
+UID:http://hg.gatech.edu/node/637662#0
+DESCRIPTION:Intended audience: Undergraduate students\nStatus: published\n
+ \nIt may only be your first week at Tech\, but it’s not too early to lea
+ ve your mark on campus—literally! Come out to Tech Green to decorate the
+  surrounding Tech Walkways while jamming out to some music and make campus
+  beautiful before classes begin. Each attendee will be provided chalk and 
+ one of the approximately 140 squares surrounding Tech Green to decorate ov
+ er the span of a 50-minute time slot. Individually wrapped snacks and drin
+ ks will be provided\, along with gloves for all attendees.\n\nFace masks a
+ re required to attend\, and the event will be split into two time slots to
+  allow for adequate social distancing: 6:30-7:20 p.m. and 7:30-8:20 p.m. T
+ o register for the event\, you MUST RSVP on Engage AND complete this suppl
+ emental registration form to select a time slot: [1]. The event is limited
+  to 70 people per time slot. More details regarding check-in and event flo
+ w will be provided following registration.\n\nIf the event has to be cance
+ lled due to rain or other unforeseen circumstances\, the rain date for the
+  event will be Wednesday\, Aug. 19 from 7-9 p.m.\n\nLinks:\n[0]  http://hg
+ .gatech.edu/node/637662#0\n[1]  https://gatech.co1.qualtrics.com/jfe/form/
+ SV_0V7oZXUyGJuD5hX
+LOCATION:Tech Green
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lunch Time "Tapping" for Calm\, Centering & Clarity
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200813T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200813T163000Z
@@ -29387,6 +29394,78 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Fox Theater
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BPU Meeting 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200820T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200821T013000Z
+UID:https://gatech.campuslabs.com/engage/event/6155487
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is the weekly gath
+ ering time for the College Ministry of Blueprint Church. During our gather
+ ing\, we will sing\, listen to teaching from the Bible\, and spend time in
+  fellowship with one another.\n\nLinks:\n[0]  https://gatech.campuslabs.co
+ m/engage/event/6155487
+LOCATION:Blueprint Church
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BPU Meeting 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200827T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200828T013000Z
+UID:https://gatech.campuslabs.com/engage/event/6155488
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is the weekly gath
+ ering time for the College Ministry of Blueprint Church. During our gather
+ ing\, we will sing\, listen to teaching from the Bible\, and spend time in
+  fellowship with one another.\n\nLinks:\n[0]  https://gatech.campuslabs.co
+ m/engage/event/6155488
+LOCATION:Blueprint Church
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BPU Meeting 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200903T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200904T013000Z
+UID:https://gatech.campuslabs.com/engage/event/6155489
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is the weekly gath
+ ering time for the College Ministry of Blueprint Church. During our gather
+ ing\, we will sing\, listen to teaching from the Bible\, and spend time in
+  fellowship with one another.\n\nLinks:\n[0]  https://gatech.campuslabs.co
+ m/engage/event/6155489
+LOCATION:Blueprint Church
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BPU Meeting 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200910T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200911T013000Z
+UID:https://gatech.campuslabs.com/engage/event/6155490
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is the weekly gath
+ ering time for the College Ministry of Blueprint Church. During our gather
+ ing\, we will sing\, listen to teaching from the Bible\, and spend time in
+  fellowship with one another.\n\nLinks:\n[0]  https://gatech.campuslabs.co
+ m/engage/event/6155490
+LOCATION:Blueprint Church
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BPU Meeting 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200917T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200918T013000Z
+UID:https://gatech.campuslabs.com/engage/event/6155491
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is the weekly gath
+ ering time for the College Ministry of Blueprint Church. During our gather
+ ing\, we will sing\, listen to teaching from the Bible\, and spend time in
+  fellowship with one another.\n\nLinks:\n[0]  https://gatech.campuslabs.co
+ m/engage/event/6155491
+LOCATION:Blueprint Church
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BPU Meeting 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200924T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200925T013000Z
+UID:https://gatech.campuslabs.com/engage/event/6155492
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is the weekly gath
+ ering time for the College Ministry of Blueprint Church. During our gather
+ ing\, we will sing\, listen to teaching from the Bible\, and spend time in
+  fellowship with one another.\n\nLinks:\n[0]  https://gatech.campuslabs.co
+ m/engage/event/6155492
+LOCATION:Blueprint Church
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Career Services Workshop: Interviewing- Avoid Being a Scary Candid
  ate
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201001T223000Z
@@ -29403,6 +29482,30 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Klaus 1116
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BPU Meeting 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201001T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201002T013000Z
+UID:https://gatech.campuslabs.com/engage/event/6155493
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is the weekly gath
+ ering time for the College Ministry of Blueprint Church. During our gather
+ ing\, we will sing\, listen to teaching from the Bible\, and spend time in
+  fellowship with one another.\n\nLinks:\n[0]  https://gatech.campuslabs.co
+ m/engage/event/6155493
+LOCATION:Blueprint Church
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BPU Meeting 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201008T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201009T013000Z
+UID:https://gatech.campuslabs.com/engage/event/6155494
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is the weekly gath
+ ering time for the College Ministry of Blueprint Church. During our gather
+ ing\, we will sing\, listen to teaching from the Bible\, and spend time in
+  fellowship with one another.\n\nLinks:\n[0]  https://gatech.campuslabs.co
+ m/engage/event/6155494
+LOCATION:Blueprint Church
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Career Services Workshop: Salary Negotiation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201013T223000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201013T233000Z
@@ -29417,6 +29520,42 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/636227#0\n[1]  https://app.jo
  inhandshake.com/events/419479
 LOCATION:Klaus 1116
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BPU Meeting 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201015T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201016T013000Z
+UID:https://gatech.campuslabs.com/engage/event/6155495
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is the weekly gath
+ ering time for the College Ministry of Blueprint Church. During our gather
+ ing\, we will sing\, listen to teaching from the Bible\, and spend time in
+  fellowship with one another.\n\nLinks:\n[0]  https://gatech.campuslabs.co
+ m/engage/event/6155495
+LOCATION:Blueprint Church
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BPU Meeting 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201022T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201023T013000Z
+UID:https://gatech.campuslabs.com/engage/event/6155496
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is the weekly gath
+ ering time for the College Ministry of Blueprint Church. During our gather
+ ing\, we will sing\, listen to teaching from the Bible\, and spend time in
+  fellowship with one another.\n\nLinks:\n[0]  https://gatech.campuslabs.co
+ m/engage/event/6155496
+LOCATION:Blueprint Church
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BPU Meeting 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201029T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201030T013000Z
+UID:https://gatech.campuslabs.com/engage/event/6155497
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is the weekly gath
+ ering time for the College Ministry of Blueprint Church. During our gather
+ ing\, we will sing\, listen to teaching from the Bible\, and spend time in
+  fellowship with one another.\n\nLinks:\n[0]  https://gatech.campuslabs.co
+ m/engage/event/6155497
+LOCATION:Blueprint Church
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Petit Institute Distinguished Lecture
@@ -29477,5 +29616,41 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  titinstitute.gatech.edu/
 LOCATION:Parker H. Petit Institute for Bioengineering and Bioscience\, Atr
  ium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BPU Meeting 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201106T001500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201106T023000Z
+UID:https://gatech.campuslabs.com/engage/event/6155498
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is the weekly gath
+ ering time for the College Ministry of Blueprint Church. During our gather
+ ing\, we will sing\, listen to teaching from the Bible\, and spend time in
+  fellowship with one another.\n\nLinks:\n[0]  https://gatech.campuslabs.co
+ m/engage/event/6155498
+LOCATION:Blueprint Church
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BPU Meeting 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201113T001500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201113T023000Z
+UID:https://gatech.campuslabs.com/engage/event/6155499
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is the weekly gath
+ ering time for the College Ministry of Blueprint Church. During our gather
+ ing\, we will sing\, listen to teaching from the Bible\, and spend time in
+  fellowship with one another.\n\nLinks:\n[0]  https://gatech.campuslabs.co
+ m/engage/event/6155499
+LOCATION:Blueprint Church
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BPU Meeting 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201120T001500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201120T023000Z
+UID:https://gatech.campuslabs.com/engage/event/6155500
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is the weekly gath
+ ering time for the College Ministry of Blueprint Church. During our gather
+ ing\, we will sing\, listen to teaching from the Bible\, and spend time in
+  fellowship with one another.\n\nLinks:\n[0]  https://gatech.campuslabs.co
+ m/engage/event/6155500
+LOCATION:Blueprint Church
 END:VEVENT
 END:VCALENDAR
