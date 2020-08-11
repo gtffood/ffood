@@ -29139,6 +29139,27 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Freshman Events: Hang Out on Tech Green
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200810T200000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200810T210000Z
+UID:https://gatech.campuslabs.com/engage/event/6158628
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nEnjoy Popsicles\, CanJa
+ m\, Spikeball\, & other games out on Tech Green. Put on by the CSO's Fresh
+ man Events Team.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/even
+ t/6158628
+LOCATION:Tech Green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Morning Prayer
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200811T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200811T150000Z
+UID:https://gatech.campuslabs.com/engage/event/6158626
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us in the Wesley p
+ rayer garden for a morning prayer and snacks!\n\nLinks:\n[0]  https://gate
+ ch.campuslabs.com/engage/event/6158626
+LOCATION:Wesley Prayer Garden 
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lunch Time "Tapping" for Calm\, Centering & Clarity
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200811T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200811T163000Z
@@ -29219,6 +29240,17 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  ke\n[22]  http://www.presentmomentliving.ca/\n[23]  http://thereleaseapp.c
  om/\n[24]  https://www.bolttosuccess.com
 LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Morning Yoga and DIY Dorm Decor
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200812T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200812T160000Z
+UID:https://gatech.campuslabs.com/engage/event/6158625
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us in
+  the Wesley Prayer Garden for a morning yoga session led by one of our TW 
+ students! Stay afterwards for some fun DIY dorm decor design with our staf
+ f!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6158625
+LOCATION:Wesley Prayer Garden
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chalk the Walk
@@ -29328,6 +29360,37 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Movie Night Outside
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200815T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200815T020000Z
+UID:https://gatech.campuslabs.com/engage/event/6158622
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us Fr
+ iday Night for an outdoor movie!\n\nLinks:\n[0]  https://gatech.campuslabs
+ .com/engage/event/6158622
+LOCATION:Wesley Prayer Garden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scavenger Hunt 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200815T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200815T170000Z
+UID:https://gatech.campuslabs.com/engage/event/6158621
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nMeet us at
+  Tech Wesley Saturday Morning for a Scavenger Hunt! Play by yourself or te
+ am up!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6158621
+LOCATION:Tech Wesley
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunday Morning Worship
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200816T143000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200816T153000Z
+UID:https://gatech.campuslabs.com/engage/event/6158608
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Sunday Morni
+ ng to Worship together! Follow our social media or join our slack channel 
+ for up-to-date information (online vs. in-person\, speakers\, etc.).\n\nLi
+ nks:\n[0]  https://gatech.campuslabs.com/engage/event/6158608
+LOCATION:Tech Wesley
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:International Opportunities Open House
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200818T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200818T160000Z
@@ -29347,6 +29410,17 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Undergraduate students\nExt
  de/634444#0\n[2]  https://primetime.bluejeans.com/a2m/register/hdbfvsks\n[
  3]  https://oie.gatech.edu/\n[4]  https://oie.gatech.edu/hg/events/634444
 LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tuesday Night Worship
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200818T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200819T010000Z
+UID:https://gatech.campuslabs.com/engage/event/6158595
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us Tu
+ esday night for dinner and Worship! Follow our social media or join or sla
+ ck channel for up-to-date information (online vs. in-person\, speakers\, e
+ tc.).\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6158595
+LOCATION:Tech Wesley
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:International Opportunities Open House
@@ -29406,6 +29480,17 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is the weekly gath
 LOCATION:Blueprint Church
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tuesday Night Worship
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200825T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200826T010000Z
+UID:https://gatech.campuslabs.com/engage/event/6158596
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us Tu
+ esday night for dinner and Worship! Follow our social media or join or sla
+ ck channel for up-to-date information (online vs. in-person\, speakers\, e
+ tc.).\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6158596
+LOCATION:Tech Wesley
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BPU Meeting 
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200827T231500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200828T013000Z
@@ -29416,6 +29501,28 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is the weekly gath
   fellowship with one another.\n\nLinks:\n[0]  https://gatech.campuslabs.co
  m/engage/event/6155488
 LOCATION:Blueprint Church
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunday Morning Worship
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200830T143000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200830T153000Z
+UID:https://gatech.campuslabs.com/engage/event/6158609
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Sunday Morni
+ ng to Worship together! Follow our social media or join our slack channel 
+ for up-to-date information (online vs. in-person\, speakers\, etc.).\n\nLi
+ nks:\n[0]  https://gatech.campuslabs.com/engage/event/6158609
+LOCATION:Tech Wesley
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tuesday Night Worship
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200901T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200902T010000Z
+UID:https://gatech.campuslabs.com/engage/event/6158597
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us Tu
+ esday night for dinner and Worship! Follow our social media or join or sla
+ ck channel for up-to-date information (online vs. in-person\, speakers\, e
+ tc.).\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6158597
+LOCATION:Tech Wesley
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BPU Meeting 
@@ -29430,6 +29537,28 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is the weekly gath
 LOCATION:Blueprint Church
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sunday Morning Worship
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200906T143000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200906T153000Z
+UID:https://gatech.campuslabs.com/engage/event/6158610
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Sunday Morni
+ ng to Worship together! Follow our social media or join our slack channel 
+ for up-to-date information (online vs. in-person\, speakers\, etc.).\n\nLi
+ nks:\n[0]  https://gatech.campuslabs.com/engage/event/6158610
+LOCATION:Tech Wesley
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tuesday Night Worship
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200908T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200909T010000Z
+UID:https://gatech.campuslabs.com/engage/event/6158598
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us Tu
+ esday night for dinner and Worship! Follow our social media or join or sla
+ ck channel for up-to-date information (online vs. in-person\, speakers\, e
+ tc.).\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6158598
+LOCATION:Tech Wesley
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BPU Meeting 
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200910T231500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200911T013000Z
@@ -29440,6 +29569,28 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is the weekly gath
   fellowship with one another.\n\nLinks:\n[0]  https://gatech.campuslabs.co
  m/engage/event/6155490
 LOCATION:Blueprint Church
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunday Morning Worship
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200913T143000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200913T153000Z
+UID:https://gatech.campuslabs.com/engage/event/6158611
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Sunday Morni
+ ng to Worship together! Follow our social media or join our slack channel 
+ for up-to-date information (online vs. in-person\, speakers\, etc.).\n\nLi
+ nks:\n[0]  https://gatech.campuslabs.com/engage/event/6158611
+LOCATION:Tech Wesley
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tuesday Night Worship
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200915T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200916T010000Z
+UID:https://gatech.campuslabs.com/engage/event/6158599
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us Tu
+ esday night for dinner and Worship! Follow our social media or join or sla
+ ck channel for up-to-date information (online vs. in-person\, speakers\, e
+ tc.).\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6158599
+LOCATION:Tech Wesley
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BPU Meeting 
@@ -29454,6 +29605,28 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is the weekly gath
 LOCATION:Blueprint Church
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sunday Morning Worship
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200920T143000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200920T153000Z
+UID:https://gatech.campuslabs.com/engage/event/6158612
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Sunday Morni
+ ng to Worship together! Follow our social media or join our slack channel 
+ for up-to-date information (online vs. in-person\, speakers\, etc.).\n\nLi
+ nks:\n[0]  https://gatech.campuslabs.com/engage/event/6158612
+LOCATION:Tech Wesley
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tuesday Night Worship
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200922T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200923T010000Z
+UID:https://gatech.campuslabs.com/engage/event/6158600
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us Tu
+ esday night for dinner and Worship! Follow our social media or join or sla
+ ck channel for up-to-date information (online vs. in-person\, speakers\, e
+ tc.).\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6158600
+LOCATION:Tech Wesley
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BPU Meeting 
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200924T231500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200925T013000Z
@@ -29464,6 +29637,28 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is the weekly gath
   fellowship with one another.\n\nLinks:\n[0]  https://gatech.campuslabs.co
  m/engage/event/6155492
 LOCATION:Blueprint Church
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunday Morning Worship
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200927T143000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200927T153000Z
+UID:https://gatech.campuslabs.com/engage/event/6158613
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Sunday Morni
+ ng to Worship together! Follow our social media or join our slack channel 
+ for up-to-date information (online vs. in-person\, speakers\, etc.).\n\nLi
+ nks:\n[0]  https://gatech.campuslabs.com/engage/event/6158613
+LOCATION:Tech Wesley
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tuesday Night Worship
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200929T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200930T010000Z
+UID:https://gatech.campuslabs.com/engage/event/6158601
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us Tu
+ esday night for dinner and Worship! Follow our social media or join or sla
+ ck channel for up-to-date information (online vs. in-person\, speakers\, e
+ tc.).\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6158601
+LOCATION:Tech Wesley
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Career Services Workshop: Interviewing- Avoid Being a Scary Candid
@@ -29494,6 +29689,28 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is the weekly gath
 LOCATION:Blueprint Church
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sunday Morning Worship
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201004T143000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201004T153000Z
+UID:https://gatech.campuslabs.com/engage/event/6158614
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Sunday Morni
+ ng to Worship together! Follow our social media or join our slack channel 
+ for up-to-date information (online vs. in-person\, speakers\, etc.).\n\nLi
+ nks:\n[0]  https://gatech.campuslabs.com/engage/event/6158614
+LOCATION:Tech Wesley
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tuesday Night Worship
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201006T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201007T010000Z
+UID:https://gatech.campuslabs.com/engage/event/6158602
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us Tu
+ esday night for dinner and Worship! Follow our social media or join or sla
+ ck channel for up-to-date information (online vs. in-person\, speakers\, e
+ tc.).\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6158602
+LOCATION:Tech Wesley
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BPU Meeting 
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201008T231500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201009T013000Z
@@ -29504,6 +29721,17 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is the weekly gath
   fellowship with one another.\n\nLinks:\n[0]  https://gatech.campuslabs.co
  m/engage/event/6155494
 LOCATION:Blueprint Church
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunday Morning Worship
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201011T143000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201011T153000Z
+UID:https://gatech.campuslabs.com/engage/event/6158615
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Sunday Morni
+ ng to Worship together! Follow our social media or join our slack channel 
+ for up-to-date information (online vs. in-person\, speakers\, etc.).\n\nLi
+ nks:\n[0]  https://gatech.campuslabs.com/engage/event/6158615
+LOCATION:Tech Wesley
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Career Services Workshop: Salary Negotiation
@@ -29522,6 +29750,17 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Klaus 1116
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tuesday Night Worship
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201013T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201014T010000Z
+UID:https://gatech.campuslabs.com/engage/event/6158603
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us Tu
+ esday night for dinner and Worship! Follow our social media or join or sla
+ ck channel for up-to-date information (online vs. in-person\, speakers\, e
+ tc.).\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6158603
+LOCATION:Tech Wesley
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BPU Meeting 
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201015T231500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201016T013000Z
@@ -29532,6 +29771,28 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is the weekly gath
   fellowship with one another.\n\nLinks:\n[0]  https://gatech.campuslabs.co
  m/engage/event/6155495
 LOCATION:Blueprint Church
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunday Morning Worship
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201018T143000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201018T153000Z
+UID:https://gatech.campuslabs.com/engage/event/6158616
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Sunday Morni
+ ng to Worship together! Follow our social media or join our slack channel 
+ for up-to-date information (online vs. in-person\, speakers\, etc.).\n\nLi
+ nks:\n[0]  https://gatech.campuslabs.com/engage/event/6158616
+LOCATION:Tech Wesley
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tuesday Night Worship
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201020T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201021T010000Z
+UID:https://gatech.campuslabs.com/engage/event/6158604
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us Tu
+ esday night for dinner and Worship! Follow our social media or join or sla
+ ck channel for up-to-date information (online vs. in-person\, speakers\, e
+ tc.).\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6158604
+LOCATION:Tech Wesley
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BPU Meeting 
@@ -29546,6 +29807,28 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is the weekly gath
 LOCATION:Blueprint Church
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sunday Morning Worship
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201025T143000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201025T153000Z
+UID:https://gatech.campuslabs.com/engage/event/6158617
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Sunday Morni
+ ng to Worship together! Follow our social media or join our slack channel 
+ for up-to-date information (online vs. in-person\, speakers\, etc.).\n\nLi
+ nks:\n[0]  https://gatech.campuslabs.com/engage/event/6158617
+LOCATION:Tech Wesley
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tuesday Night Worship
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201027T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201028T010000Z
+UID:https://gatech.campuslabs.com/engage/event/6158605
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us Tu
+ esday night for dinner and Worship! Follow our social media or join or sla
+ ck channel for up-to-date information (online vs. in-person\, speakers\, e
+ tc.).\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6158605
+LOCATION:Tech Wesley
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BPU Meeting 
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201029T231500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201030T013000Z
@@ -29556,6 +29839,28 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is the weekly gath
   fellowship with one another.\n\nLinks:\n[0]  https://gatech.campuslabs.co
  m/engage/event/6155497
 LOCATION:Blueprint Church
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunday Morning Worship
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201101T153000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201101T163000Z
+UID:https://gatech.campuslabs.com/engage/event/6158618
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Sunday Morni
+ ng to Worship together! Follow our social media or join our slack channel 
+ for up-to-date information (online vs. in-person\, speakers\, etc.).\n\nLi
+ nks:\n[0]  https://gatech.campuslabs.com/engage/event/6158618
+LOCATION:Tech Wesley
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tuesday Night Worship
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201104T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201104T020000Z
+UID:https://gatech.campuslabs.com/engage/event/6158606
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us Tu
+ esday night for dinner and Worship! Follow our social media or join or sla
+ ck channel for up-to-date information (online vs. in-person\, speakers\, e
+ tc.).\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6158606
+LOCATION:Tech Wesley
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Petit Institute Distinguished Lecture
@@ -29630,6 +29935,17 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is the weekly gath
 LOCATION:Blueprint Church
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sunday Morning Worship
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201108T153000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201108T163000Z
+UID:https://gatech.campuslabs.com/engage/event/6158619
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Sunday Morni
+ ng to Worship together! Follow our social media or join our slack channel 
+ for up-to-date information (online vs. in-person\, speakers\, etc.).\n\nLi
+ nks:\n[0]  https://gatech.campuslabs.com/engage/event/6158619
+LOCATION:Tech Wesley
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BPU Meeting 
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201113T001500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201113T023000Z
@@ -29640,6 +29956,17 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is the weekly gath
   fellowship with one another.\n\nLinks:\n[0]  https://gatech.campuslabs.co
  m/engage/event/6155499
 LOCATION:Blueprint Church
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunday Morning Worship
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201115T153000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201115T163000Z
+UID:https://gatech.campuslabs.com/engage/event/6158620
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Sunday Morni
+ ng to Worship together! Follow our social media or join our slack channel 
+ for up-to-date information (online vs. in-person\, speakers\, etc.).\n\nLi
+ nks:\n[0]  https://gatech.campuslabs.com/engage/event/6158620
+LOCATION:Tech Wesley
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BPU Meeting 
