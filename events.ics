@@ -2,156 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Carbon Reduction Challenge
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190813T190000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190813T203000Z
-UID:http://hg.gatech.edu/node/622576#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nPlease join the R
- ay C. Anderson Center for Sustainable Business [1] at the Scheller College
-  of Business and the Georgia Tech College of Sciences [2] to the Carbon Re
- duction Challenge Poster Presentation!\n\nWith support from the Ray C. And
- erson Foundation NextGen Fund [3] and the Sheth Foundation [4]\, Professor
- s Kim Cobb and Beril Toktay collaborated to expand Professor Cobb’s succ
- essful Carbon Reduction Challenge class to enable students participating i
- n an internship or co-op to plan and implement a carbon reduction project 
- with their employers. Individual students or a team took the initiative to
-  identify and execute a plan that reduces their employer’s carbon emissi
- ons\, most often saving their employer money\, over the course of their in
- ternship. Project examples from the class range from creating employee cha
- llenges to reduce their personal carbon emissions\, to changes in building
-  lighting schedules\, to more capital-intensive projects such as HVAC modi
- fications.\n\nThe winners of the Carbon Reduction Challenge will be decide
- d based on i) the amount of carbon emissions avoided (whether actual or po
- tential)\, and ii) the level of awareness fostered through the project. Th
- e winning team(s) will be announced at the conclusion of the Finalist Post
- er Expo and awarded cash prizes for their work. First prize is $5\,000\, s
- econd place is $3\,000 and third place is $1\,000.\n\nRead more about the 
- Carbon Reduction Challenge Program on our website [5].\n\nRefreshments wil
- l be available.\n\nLinks:\n[0]  http://hg.gatech.edu/node/622576#0\n[1]  h
- ttps://www.scheller.gatech.edu/centers-initiatives/ray-c-anderson-center-f
- or-sustainable-business/index.html\n[2]  http://www.eas.gatech.edu/\n[3]  
- http://www.raycandersonfoundation.org/news/topic/nextgen/\n[4]  https://ww
- w.shethfoundation.org/\n[5]  https://www.carbonreductionchallenge.org/\n[6
- ]  https://www.scheller.gatech.edu/why-scheller/visit-campus/directions-pa
- rking.html
-LOCATION:Scheller College of Business Atrium\, 800 W. Peachtree St. NW\, A
- tlanta\, GA 30308
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Carbon Reduction Challenge Summer 2019 Poster Expo
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190813T190000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190813T203000Z
-UID:http://hg.gatech.edu/node/623663#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nJoin the Ray C. Anderson Center for Sustainable Business [1] at the Sche
- ller College of Business and the Georgia Tech College of Sciences [2] at t
- he 2019 Carbon Reduction Challenge poster presentations.\n\nWith support f
- rom the Ray C. Anderson Foundation NextGen Fund [3] and the Sheth Foundati
- on [4]\, Kim Cobb and Beril Toktay collaborated to expand Cobb’s success
- ful Carbon Reduction Challenge class to enable students participating in a
- n internship or co-op to plan and implement a carbon reduction project wit
- h their employers. Individual students or a team took the initiative to id
- entify and execute a plan that reduces their employer’s carbon emissions
- \, most often saving their employer money\, over the course of their inter
- nship. Project examples from the class range from creating employee challe
- nges to reduce their personal carbon emissions\, to changes in building li
- ghting schedules\, to more capital-intensive projects such as HVAC modific
- ations.\n\nThe winners of the Carbon Reduction Challenge will be decided b
- ased on i) the amount of carbon emissions avoided (whether actual or poten
- tial)\, and ii) the level of awareness fostered through the project. The w
- inning team(s) will be announced at the conclusion of the Finalist Poster 
- Expo and awarded cash prizes for their work. First prize is $5\,000\, seco
- nd place is $3\,000 and third place is $1\,000.\n\nRead more about the Car
- bon Reduction Challenge Program on our website [5].\n\nRefreshments will b
- e available.\n\nLinks:\n[0]  http://hg.gatech.edu/node/623663#0\n[1]  http
- s://www.scheller.gatech.edu/centers-initiatives/ray-c-anderson-center-for-
- sustainable-business/index.html\n[2]  http://www.eas.gatech.edu/\n[3]  htt
- p://www.raycandersonfoundation.org/news/topic/nextgen/\n[4]  https://www.s
- hethfoundation.org/\n[5]  https://www.carbonreductionchallenge.org/\n[6]  
- https://www.scheller.gatech.edu/why-scheller/visit-campus/directions-parki
- ng.html
-LOCATION:Scheller College of Business Atrium\, 800 W. Peachtree St. NW\, A
- tlanta\, GA 30308
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Carbon Reduction Challenge Summer Poster Expo
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190813T190000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190813T203000Z
-UID:http://hg.gatech.edu/node/622818#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nPlease join the R
- ay C. Anderson Center for Sustainable Business [1] at the Scheller College
-  of Business and the Georgia Tech College of Sciences [2] to the Carbon Re
- duction Challenge Poster Presentation!\n\nWith support from the Ray C. And
- erson Foundation NextGen Fund [3] and the Sheth Foundation [4]\, Professor
- s Kim Cobb and Beril Toktay collaborated to expand Professor Cobb’s succ
- essful Carbon Reduction Challenge class to enable students participating i
- n an internship or co-op to plan and implement a carbon reduction project 
- with their employers. Individual students or a team took the initiative to
-  identify and execute a plan that reduces their employer’s carbon emissi
- ons\, most often saving their employer money\, over the course of their in
- ternship. Project examples from the class range from creating employee cha
- llenges to reduce their personal carbon emissions\, to changes in building
-  lighting schedules\, to more capital-intensive projects such as HVAC modi
- fications.\n\nThe winners of the Carbon Reduction Challenge will be decide
- d based on i) the amount of carbon emissions avoided (whether actual or po
- tential)\, and ii) the level of awareness fostered through the project. Th
- e winning team(s) will be announced at the conclusion of the Finalist Post
- er Expo and awarded cash prizes for their work. First prize is $5\,000\, s
- econd place is $3\,000 and third place is $1\,000.\n\nRead more about the 
- Carbon Reduction Challenge Program on our website [5].\n\nRefreshments wil
- l be available.\n\nLinks:\n[0]  http://hg.gatech.edu/node/622818#0\n[1]  h
- ttps://www.scheller.gatech.edu/centers-initiatives/ray-c-anderson-center-f
- or-sustainable-business/index.html\n[2]  http://www.eas.gatech.edu/\n[3]  
- http://www.raycandersonfoundation.org/news/topic/nextgen/\n[4]  https://ww
- w.shethfoundation.org/\n[5]  https://www.carbonreductionchallenge.org/\n[6
- ]  https://www.scheller.gatech.edu/why-scheller/visit-campus/directions-pa
- rking.html
-LOCATION:Scheller College of Business Atrium\, 800 W. Peachtree St. NW\, A
- tlanta\, GA 30308
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IEEE SSCS/CAS Seminar
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190813T200000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190813T210000Z
-UID:http://hg.gatech.edu/node/624140#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nExtras: Free food\nStatus: published\n\nTitle: 
- Near-Field Integrated Magnetic Sensing System for Hardware Security\n\nSpe
- aker: Professor Mai-Khanh N. Nguyen\, VLSI Design and Education Center (VD
- EC)\, The University of Tokyo\, JAPAN\n\nAbstract: Hardware Trojan or spyw
- are circuits operating as hardware backdoors can be implemented and integr
- ated into computer chips\, smart-cards\, and other crypto processors. Hard
- ware Trojan circuits inside a chip is generally harmless in normal operati
- on until they get triggered by a preset internal or external signal to ste
- al data or override and even control the system. Detection of hardware Tro
- jans is very difficult as they are normally in nano-scale sizes and integr
- ated into ICs with high complexity system inside and a huge number of gate
- s. Therefore\, Trojan inspection through destructive reverse engineering m
- ay not ensure the absence of hardware Trojans. In this talk\, I present a 
- demonstration to non-invasively detect hardware Trojan\, analyze and ident
- ify vulnerable portions of cryptographic chips based on magnetic sensing t
- owards cybersecurity applications.\n\nSpeaker Bio: Dr. Mai-Khanh is curren
- tly is an assistant professor at VLSI Design and Education Center (VDEC)\,
-  the University of Tokyo\, Japan. He received the Ph.D. degree in Electric
- al Engineering and Information Systems\, The University of Tokyo\, Japan i
- n 2011. He was a lecturer of Faculty of Electrical and Electronic Engineer
- ing\, University of Technology\, National University\, Vietnam from 2006 t
- o 2013. Dr. Mai-Khanh worked as a post-doctoral researcher in from 2011 to
-  2013 in VDEC. His research interests include integrated RF/mm-Wave circui
- ts\, and magnetic sensing. He is a recipient of Best Paper Awards of the A
- sian Symposium on Quality Electronic Design Symp. in 2010\, the third rank
-  of the 9th IEEE NEWCAS 2011\, and of IEEE NEWCAS 2017. He servered as a T
- PC chair of Vietnam-Japan Science and Technology Symp. 2019\, The First In
- t’l Workshop on Hardware Oriented Cybersecurity 2018\, and Vietnam-­Jap
- an Scientific Exchange Meeting 2017 and also a TPC member of Intl. Conf. o
- n Integrated Circuits\, Design\, and Verification 2017.\n\nLinks:\n[0]  ht
- tp://hg.gatech.edu/node/624140#0
-LOCATION:TSRB 509
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:OIE Welcome Party
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190815T203000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190815T213000Z
@@ -29378,6 +29228,16 @@ DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nMeet us at
   Tech Wesley Saturday Morning for a Scavenger Hunt! Play by yourself or te
  am up!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6158621
 LOCATION:Tech Wesley
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Impact Fall 2020 Sample Event
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200815T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200815T180000Z
+UID:https://gatech.campuslabs.com/engage/event/6163243
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nSample event posted for
+  Fall 2020 Impact LLC retreat!\n\nLinks:\n[0]  https://gatech.campuslabs.c
+ om/engage/event/6163243
+LOCATION:Atlanta Botanical Garden
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sunday Morning Worship
