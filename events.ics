@@ -2,50 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:OIE Welcome Party
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190815T203000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190815T213000Z
-UID:http://hg.gatech.edu/node/624138#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nExtras: Free food\nStatus: published\n\nAll new
-  international students are invited to attend OIE’s Annual Welcome Party
- . This event is a great opportunity for new international students to meet
-  one another and the OIE staff. Free food and drinks will be served. Take 
- a picture with Buzz\, GT’s mascot. Music provided by Georgia Tech's WREK
-  radio.\n\nLinks:\n[0]  http://hg.gatech.edu/node/624138#0
-LOCATION:Skiles Building Walkway
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Welcome FEstival
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190815T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190816T000000Z
-UID:https://gatech.campuslabs.com/engage/event/4776791
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nHello new 
- first-years! First-year Experience (FE) is so excited to welcome you all t
- o campus that we're throwing you a "FEstival" to prove it!\n\nOnce you're 
- all moved in on Thursday\, August 15\, make your way to Tech Green for inf
- latables\, free popcorn and cotton candy\, and a chance to meet other firs
- t-years!\n\nCurious about First-year Leadership Organizations (FLOs)? At t
- he event\, you'll find representatives from First-year Activities Board (F
- AB)\, Emerging Leaders (EL)\, and Suit Up Professional Preparation (SUPP)\
- , ready to talk to you about the amazing opportunity of joining their FLOs
- . Make sure to meet and greet with these organizations to find out how joi
- ning a FLO could shape your personal first-year journey!\n\nPlease take a 
- quick second to RSVP so we know to expect you! We can't wait to see you th
- ere!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/4776791
-LOCATION:Tech Green
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Phi Kappa Psi Rush
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190815T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190816T000000Z
-UID:https://gatech.campuslabs.com/engage/event/4777949
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nRecruitment Event fo rP
- hi Kappa Psi\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/47
- 77949
-LOCATION:4th Streeet Lawn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Catholic Student Organization Freshmen Welcome Dinner
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190815T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190816T023000Z
@@ -29297,6 +29253,46 @@ DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\n
 LOCATION:Klaus Atrium
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Workday Grants Lunch and Learn Webinar
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200820T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200820T170000Z
+UID:http://hg.gatech.edu/node/637825#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nInvitation: Workday Grants Lunch & Learn\nRegis
+ ter today for the Workday Grants Lunch & Learn. The Grants Lunch and Learn
+  will focus on the grants process area\, review key issues\, and share ins
+ ights on improvements and the roadmap.\n\n- When: Thursday\, August 20th f
+ rom 12:00pm-1:00pm\n- Where: BlueJeans Events [1]\n\nThis session is facil
+ itated by members of Grants & Contracts and the ERP team. The agenda inclu
+ des an overview of the award\, award line\, grant functionality and report
+ ing\, and covers special topics such as prior year salary transfers and th
+ e request framework.\n\nLinks:\n[0]  http://hg.gatech.edu/node/637825#0\n[
+ 1]  https://gatech.us18.list-manage.com/track/click?u=ca86ad1a9ad890a0a6fd
+ 553e2&id=3dfd105e92&e=a336d3d4a1\n[2]  http://transformation.gatech.edu\n[
+ 3]  https://gatech.co1.qualtrics.com/jfe/form/SV_9ug17WTYGYLC54F
+LOCATION:BlueJeans Webinar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CRC RecFest
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200820T200000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200820T230000Z
+UID:http://hg.gatech.edu/node/637870#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nDon't miss out on this year's RECFEST! Join us for i
+ nteractive tables\, food\, giveaways and more! Also\, while supplies last\
+ , included is this year's highly coveted CRC t-shirt! Grab one before they
+  are gone! RecFest is hosted by the CRC and provides students an opportuni
+ ty to become involved in student organizations\, sport clubs\, and receive
+  information about other programs and services provided to students on cam
+ pus. This year will feel a lot different as we navigate the guidelines for
+  precautions against Covid-19. RecFest tabling is from 4pm-7pm on Roe Stam
+ ps Field. Reservations are required (sign up at mycrc.gatech.edu)\, masks 
+ and social distancing will be strictly enforced.\n\nMore information at [1
+ ].\n\nLinks:\n[0]  http://hg.gatech.edu/node/637870#0\n[1]  http://crc.gat
+ ech.edu/recfest
+LOCATION:Roe Stamps Field
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CREATE-X Demo Day 2020
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200820T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200821T010000Z
@@ -29326,6 +29322,22 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  [3]  https://www.eventbrite.com/e/create-x-demo-day-2020-tickets-977898691
  31
 LOCATION:Fox Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Get to Know Women's Book Club
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200820T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200821T003000Z
+UID:http://hg.gatech.edu/node/637840#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nCome out and learn about Women's 
+ Book Club\, ask any questions you have\, and get to know other women! We a
+ re hosting this open house from 6:30 to 8:30pm on Tech Green\, so feel fre
+ e to stop by at any time and stay for however long you want. We'll have sn
+ acks and copies of our first book for you to look at. Please wear a mask.\
+ n\nLinks:\n[0]  http://hg.gatech.edu/node/637840#0\n[1]  https://gatech.ca
+ mpuslabs.com/engage/event/6165714\n[2]  https://gatech.campuslabs.com/enga
+ ge/organization/womensbookclub
+LOCATION:Tech Green
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BPU Meeting 
@@ -29440,6 +29452,32 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Sunday Morni
  for up-to-date information (online vs. in-person\, speakers\, etc.).\n\nLi
  nks:\n[0]  https://gatech.campuslabs.com/engage/event/6158611
 LOCATION:Tech Wesley
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Entrepreneurship in Advanced Manufacturing: From Lab to Market
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200914T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200914T170000Z
+UID:http://hg.gatech.edu/node/637837#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nLunch and Learn Speaker Series Fall 2020 Speake
+ r:\nChristopher Oberste\nFounder and CEO\nWeav3D\, Inc.\n\n> Additional de
+ tails (talk abstract) forthcoming....\n\nBio:\nChristopher Oberste holds a
+  Ph.D. in Materials Science and Engineering from Georgia Tech and a Bachel
+ or of Polymer and Fiber Engineering from Auburn University. Christopher sp
+ ent 1.5 years as a process engineer at GKN Aerospace North America as part
+  of the Auburn University co-op program\, gaining hands-on experience with
+  state-of-the art composite manufacturing techniques. As a result of his e
+ xperiences\, Christopher chose to focus his Ph.D. thesis on developing nov
+ el\, low-cost composite forming technologies\, including the WEAV3D compos
+ ite forming machine. He is named as the lead inventor on one issued patent
+  and two patent applications related to his Ph.D. research. While completi
+ ng his Ph.D.\, he participated in the Georgia Tech Technological Innovatio
+ n: Generating Economic Results (TI:GER) program\, receiving a doctoral min
+ or in technology commercialization. TI:GER involved working with a multidi
+ sciplinary team of MBA and JD students to develop a commercialization plan
+  for the WEAV3D technology.\n\nLinks:\n[0]  http://hg.gatech.edu/node/6378
+ 37#0
+LOCATION:Virtual Event - Details forthcoming
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tuesday Night Worship
