@@ -2,517 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Alpha Epsilon Pi Fall Rush 2019
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190820T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190821T020000Z
-UID:https://gatech.campuslabs.com/engage/event/4775367
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAlpha Epsilon Pi Fall R
- ush 2019\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/477536
- 7
-LOCATION:AEPi House\, 714 Techwood Dr.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alpha Sigma Phi Fall Rush 2019
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190820T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190821T020000Z
-UID:https://gatech.campuslabs.com/engage/event/4774488
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFall Rush at Alpha Sig 
- house\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/4774488
-LOCATION:Alpha Sigma Phi House
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alpha Tau Omega Fall Rush 2019
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190820T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190821T020000Z
-UID:https://gatech.campuslabs.com/engage/event/4778093
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFall Rush Days 1-6.\n\n
- Links:\n[0]  https://gatech.campuslabs.com/engage/event/4778093
-LOCATION:Alpha Tau Omega - Georgia Tech
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Delta Chi Rush
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190820T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190821T020000Z
-UID:https://gatech.campuslabs.com/engage/event/4774407
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDelta Chi Rush\n\nLinks
- :\n[0]  https://gatech.campuslabs.com/engage/event/4774407
-LOCATION:Delta Chi House
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fall Rush 2019
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190820T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190821T020000Z
-UID:https://gatech.campuslabs.com/engage/event/4780765
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nRush DELT!\n\nLinks:\n[
- 0]  https://gatech.campuslabs.com/engage/event/4780765
-LOCATION:Delta Tau Delta - Gamma Psi Chapter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kappa Alpha Order Rush 2019
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190820T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190821T020000Z
-UID:https://gatech.campuslabs.com/engage/event/4779399
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFormal rush at the KA h
- ouse from August 15-20.\n\nLinks:\n[0]  https://gatech.campuslabs.com/enga
- ge/event/4779399
-LOCATION:KA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kappa Sigma Rush
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190820T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190821T020000Z
-UID:https://gatech.campuslabs.com/engage/event/4775375
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFall 2019 Formal Rush f
- or the Alpha Tau chapter of the Kappa Sigma fraternity.\n\nLinks:\n[0]  ht
- tps://gatech.campuslabs.com/engage/event/4775375
-LOCATION:Kappa Sigma
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Phi Delta Theta Fall Rush
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190820T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190821T020000Z
-UID:https://gatech.campuslabs.com/engage/event/4779391
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFall 2019 rush for Phi 
- Delta Theta\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/477
- 9391
-LOCATION:Georgia Delta - Phi Delta Theta Chapter House
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Phi Gamma Delta (FIJI) Fall Rush
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190820T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190821T020000Z
-UID:https://gatech.campuslabs.com/engage/event/4777946
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nLinks:\n[0]  https://ga
- tech.campuslabs.com/engage/event/4777946
-LOCATION:Chapter House
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Phi Kappa Psi Rush
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190820T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190821T020000Z
-UID:https://gatech.campuslabs.com/engage/event/4777954
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nRecruitment Event fo rP
- hi Kappa Psi\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/47
- 77954
-LOCATION:Student Center room 319
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Phi Kappa Sigma Fall Rush 2019
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190820T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190821T020000Z
-UID:https://gatech.campuslabs.com/engage/event/4774145
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFall 2019 Rush for Phi 
- Kappa Sigma\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/477
- 4145
-LOCATION:Phi Kappa Sigma Fraternity House
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Phi Kappa Theta Fall Rush 2019
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190820T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190821T020000Z
-UID:https://gatech.campuslabs.com/engage/event/4775357
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nRush for Gamma Tau Chap
- ter of Phi Kappa Theta Fraternity.\n\nLinks:\n[0]  https://gatech.campusla
- bs.com/engage/event/4775357
-LOCATION:Phi Kappa Theta House
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Phi Sigma Kappa Rush
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190820T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190821T020000Z
-UID:https://gatech.campuslabs.com/engage/event/4777968
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome check us out on th
- e corner of Techwood and 5th street\n\nLinks:\n[0]  https://gatech.campusl
- abs.com/engage/event/4777968
-LOCATION:Phi Sigma Kappa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pi Kappa Phi Fall 2019 Rush
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190820T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190821T020000Z
-UID:https://gatech.campuslabs.com/engage/event/4774431
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nPi Kappa Phi Rush\n\nLi
- nks:\n[0]  https://gatech.campuslabs.com/engage/event/4774431
-LOCATION:Pi Kappa Phi
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Psi Upsilon Gamma Tau Rush
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190820T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190821T020000Z
-UID:https://gatech.campuslabs.com/engage/event/4774420
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nPsi Upsilon Gamma Tau F
- all 2019 Rush\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/4
- 774420
-LOCATION:Psi Upsilon Gamma Tau
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sigma Chi Fall Rush 2019
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190820T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190821T020000Z
-UID:https://gatech.campuslabs.com/engage/event/4777962
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFeel free to stop by Si
- gma Chi to meet some brothers and learn about our fraternity.\n\nLinks:\n[
- 0]  https://gatech.campuslabs.com/engage/event/4777962
-LOCATION:Sigma Chi 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sigma Nu Rush
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190820T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190821T020000Z
-UID:https://gatech.campuslabs.com/engage/event/4774478
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nRecruitment for the Gam
- ma Alpha Chapter of Sigma Nu\n\nLinks:\n[0]  https://gatech.campuslabs.com
- /engage/event/4774478
-LOCATION:Sigma Nu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sigma Phi Epsilon 2019 Fall Rush
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190820T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190821T020000Z
-UID:https://gatech.campuslabs.com/engage/event/4774286
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nSigEp Fall Rush.\n\nLin
- ks:\n[0]  https://gatech.campuslabs.com/engage/event/4774286
-LOCATION:Sigma Phi Epsilon
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tau Kappa Epsilon Rush
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190820T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190821T020000Z
-UID:https://gatech.campuslabs.com/engage/event/4774229
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nTau Kappa Epsilon Rush\
- n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/4774229
-LOCATION:Tau Kappa Epsilon
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theta Chi Fall Rush 2019
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190820T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190821T020000Z
-UID:https://gatech.campuslabs.com/engage/event/4774657
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFall Recruitment\n\nLin
- ks:\n[0]  https://gatech.campuslabs.com/engage/event/4774657
-LOCATION:Theta Chi
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zeta Beta Tau Rush
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190820T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190821T020000Z
-UID:https://gatech.campuslabs.com/engage/event/4774207
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAugust 15th - Korean BB
- Q and meet the Brothers\n\nAugust 16th - Poker Night and Chick-Fil-A\n\nAu
- gust 17th - Basketball\, Pizza\, and Rootbeer Floats\n\nAugust 18th - Top 
- Golf and Zaxby's\n\nAugust 19th - Cornhole and BBQ\n\nAugust 20th - Dinner
-  at Marlowe's Tavern (Invite Only)\n\nLinks:\n[0]  https://gatech.campusla
- bs.com/engage/event/4774207
-LOCATION:Zeta Beta Tau
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beta Theta Pi Rush
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190820T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190821T030000Z
-UID:https://gatech.campuslabs.com/engage/event/4774455
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFormal Rush for the Gam
- ma Eta Chapter of Beta Theta Pi.\n\nLinks:\n[0]  https://gatech.campuslabs
- .com/engage/event/4774455
-LOCATION:Beta Theta Pi
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sigma Alpha Epsilon Fall Rush 2019
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190820T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190821T030000Z
-UID:https://gatech.campuslabs.com/engage/event/4777939
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFall Rush\n\nLinks:\n[0
- ]  https://gatech.campuslabs.com/engage/event/4777939
-LOCATION:SAE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:#RATS Digital Scavenger Hunt in the Library Aug. 19-23
-DTSTART;VALUE=DATE:20190821
-DTEND;VALUE=DATE:20190822
-UID:http://hg.gatech.edu/node/623906#2
-DESCRIPTION:Intended audience: Undergraduate students\nStatus: published\n
- \nGet to know your Georgia Tech Library the first week of school and celeb
- rate with a pizza party on the seventh floor complete with loads of vintag
- e video games.\n\nThe #RATS Digital Scavenger Hunt is open to everyone on 
- campus. All you need to do is post pictures of the following areas to your
-  social accounts\, all tagged #RATS.\n\n- Sci-fi Lounge (1st floor)\n- Cla
- ssroom 2130 (2nd floor)\n- Data Viz Lab (3rd floor)\n- Gadgets check-out (
- 3rd floor)\n- Multimedia Studio (4th floor)\n- Seventh Floor Reading Room 
- (7th floor)\n\nOn Friday\, Aug. 23 from 3-5\, everyone who can verify they
- ’ve taken the photos can come to a pizza party in the seventh floor read
- ing room. We’ll have all the projection screens down running retroTECH
- ’s Time Machine emulator and several vintage systems.\n\nQuestions? Just
-  hit up the Georgia Tech Library on social ( Facebook [1]\, Twitter [2] or
-  Instagram [3] )\, DM us on the Georgia Tech sub-Reddit [4] or e-mail jaso
- n.wright@library.gatech.edu [5].\n\nLinks:\n[0]  http://hg.gatech.edu/node
- /623906#2\n[1]  https://www.facebook.com/GeorgiaTechLibrary/\n[2]  https:/
- /twitter.com/GTLibrary\n[3]  https://www.instagram.com/gtlibrary/?hl=en\n[
- 4]  https://www.reddit.com/r/gatech/\n[5]  jason.wright@library.gatech.edu
-LOCATION:Georgia Tech Library: Crosland Tower
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IRIM Fall Research Symposium
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190821T133000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190821T200000Z
-UID:http://hg.gatech.edu/node/623077#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nTo begin the fall
-  semester with a lot of enthusiasm and opportunities to learn more about t
- he many areas of robotics research\, IRIM will host a full day symposium o
- n Wednesday\, August 21.\n\nPresentations will be held in 1116 E&W and a p
- oster session will be located in the Klaus Atrium.\n\nPlease RSVP to atten
- d no later than Sunday\, August 18. [1]\n\nAgenda (PDF Copy) [2]\n9:30 Reg
- istration (includes coffee and snacks)\n\n10:00 Seth Hutchinson\nOpening R
- emarks\n10:15 Panos Tsiotras\nAutonomy Research in IRIM\n10:35 Zsolt Kira\
- nChallenges and Opportunities for Deep Learning in Robotics\n10:50 Ani Maz
- umdar\nMulti-scale Adaptation for Versatile Autonomy\n11:05 Greg Sawicki\n
- Merging Terradynamics and Musculotendon Neuromechanics: Toward\nWearable R
- obots for Augmented Human Locomotion on Non-Uniform\nSurfaces\n11:20 Maggi
- e Kosal\nEmerging Technologies and International Security\n11:35 Gary McMu
- rray\nIRIM Research in GTRI\n\n11:55 Lunch/Poster Session\n\n1:00 Jaydev D
- esai\nMedical Robotics and Human Augmentation in IRIM\n1:20 Annie Anton\nP
- rivacy and Robotics\n1:35 Frank Dellaert\nFactor Graphs for Dynamics and C
- ontrol\n1:50 Ye Zhao\nSafe Robot Planning and Decision — And Why Physics
-  Matters?\n2:05 Ai-Ping Hu\nHigh-Precision MRI-guided Direct Cell Injectio
- n Robot\n2:20 Christopher Rozell\nMachine Learning for Human Interaction w
- ith Autonomous Systems\n2:35 Mick West\nHomogenous Undersea Network Teamin
- g (HUNT) with Lagrangian Profilers\n2:50 Dhruv Bhatra\nReproducible Roboti
- cs Research via Simulation (or Why Vision People\nBelieve They Can Do Robo
- tics Better than Robotics People)\n\n3:05 Poster Session (includes coffee 
- and snacks)\n\nLinks:\n[0]  http://hg.gatech.edu/node/623077#0\n[1]  http:
- //robotics.gatech.edu/symposium2019\n[2]  https://robotics.gatech.edu/site
- s/default/files/pdfs/ IRIM-Fall-Symposium-2019-Agenda.pdf\n[3]  http://rob
- otics.gatech.edu/\n[4]  http://robotics.gatech.edu/seminars\n[5]  https://
- www.google.com/maps/place/Klaus+Advanced+Computing+Building/@33.7772854\,-
- 84.3983513\,17z/data=!3m1!4b1!4m5!3m4!1s0x87b781ec0ab42ea5:0x16eec927f37b4
- 0ec!8m2!3d33.777281!4d-84.3961626
-LOCATION:Klaus Advanced Computing Building\, Rooms 1116 E&W
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Postdoc Chat
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190821T180000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190821T190000Z
-UID:http://hg.gatech.edu/node/622475#0
-DESCRIPTION:Intended audience: Postdoc\nStatus: published\n\n“Postdoc Ch
- ats" is our informal social event series for GT postdocs. We know that pos
- tdocs have similar concerns\, and would like to have more opportunities to
-  talk with other postdocs. Each chat will feature a discussion topic\, and
-  we will also invite a knowledgeable faculty/staff member who can answer q
- uestions about the subject. Expect a space to talk openly\, meet postdocs 
- like you\, and have a snack!\n\nThis month's date and topic:\n\nWednesday\
- , August 21\, 2-3 pm – Building a mentoring team\n\n- Location: TBD\n- G
- uest: TBD\n\nRSVP:\n\nPlease let us know that you plan to attend so that w
- e be sure to have enough snacks and space! Sign up for any or all dates he
- re. [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/622475#0\n[1]  http://po
- stdocs.gatech.edu/postdoc-chats-sign\n[2]  http://postdocs.gatech.edu/post
- doc-chats
-LOCATION:Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:First Meeting Wednesday\, August 21th 7 to 8 pm
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190821T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190822T000000Z
-UID:https://gatech.campuslabs.com/engage/event/4793289
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nHello Eagles at GT!\nI 
- hope you have all had a great summer. I'm looking forward to doing my best
-  to make this year a great year for Eagles at GT.\nOur first meeting will 
- be this Wednesday August 21th from 7 to 8 pm. At the West Village Fire Pit
- s. We will talk about:\n• Sailing August 31st! Whooooo hoooooo\n• Recr
- uitment plan for this year\n• Mountain Biking\n• Helping with an Altan
- ta Council Leadership training this September\n• AND EAT SMORES\nIf you 
- have any questions feel free to contact me at dgee3@gatech.edu. I hope to 
- see you on Wednesday and invite your friends!\n\nLinks:\n[0]  https://gate
- ch.campuslabs.com/engage/event/4793289
-LOCATION:West Village Fire Pits
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:#RATS Digital Scavenger Hunt in the Library Aug. 19-23
-DTSTART;VALUE=DATE:20190822
-DTEND;VALUE=DATE:20190823
-UID:http://hg.gatech.edu/node/623906#3
-DESCRIPTION:Intended audience: Undergraduate students\nStatus: published\n
- \nGet to know your Georgia Tech Library the first week of school and celeb
- rate with a pizza party on the seventh floor complete with loads of vintag
- e video games.\n\nThe #RATS Digital Scavenger Hunt is open to everyone on 
- campus. All you need to do is post pictures of the following areas to your
-  social accounts\, all tagged #RATS.\n\n- Sci-fi Lounge (1st floor)\n- Cla
- ssroom 2130 (2nd floor)\n- Data Viz Lab (3rd floor)\n- Gadgets check-out (
- 3rd floor)\n- Multimedia Studio (4th floor)\n- Seventh Floor Reading Room 
- (7th floor)\n\nOn Friday\, Aug. 23 from 3-5\, everyone who can verify they
- ’ve taken the photos can come to a pizza party in the seventh floor read
- ing room. We’ll have all the projection screens down running retroTECH
- ’s Time Machine emulator and several vintage systems.\n\nQuestions? Just
-  hit up the Georgia Tech Library on social ( Facebook [1]\, Twitter [2] or
-  Instagram [3] )\, DM us on the Georgia Tech sub-Reddit [4] or e-mail jaso
- n.wright@library.gatech.edu [5].\n\nLinks:\n[0]  http://hg.gatech.edu/node
- /623906#3\n[1]  https://www.facebook.com/GeorgiaTechLibrary/\n[2]  https:/
- /twitter.com/GTLibrary\n[3]  https://www.instagram.com/gtlibrary/?hl=en\n[
- 4]  https://www.reddit.com/r/gatech/\n[5]  jason.wright@library.gatech.edu
-LOCATION:Georgia Tech Library: Crosland Tower
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Formal Foundations of Algorithmic Matter and Emergent Computation 
- MURI Kickoff Meeting
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190822T123000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190822T210000Z
-UID:http://hg.gatech.edu/node/624430#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nAgenda\n\n8:30-9:15: Continental breakfast\n\n9
- :15-9:40: Welcome and introductions:\n\n- Dana Randall (GT)\n- Sam Stanton
-  (ARO)\n- Chaouki Abdallah (GT EVPR)\n\n9:40-10:30: Convergent visions of 
- emergent computation\n\n10:30-10:45: Coffee break\n\n10:45-11:15: Aim 1: I
- dentifying and predicting emergent computation\n\n11:15-11:30: Discussion\
- n\n11:30-12:00: Aim 2: Actively evolving systems\n\n12:00-12:15: Discussio
- n\n\n12:15-1:45: Lunch and poster session\n\n1:45-2:15: Aim 3: Determining
-  optimal design and control\n\n2:15-2:30: Discussion\n\n2:30-3:00: Coffee 
- break\n\n3:00- 3:20: Student panel\n\n3:20 -4:00: Group discussion: revisi
- ting convergence of aims and steps forward\n\n4:00 -5:00: Goldman Lab tour
- \n\n6:00: Dinner\n\nLinks:\n[0]  http://hg.gatech.edu/node/624430#0\n[1]  
- http://ideas.gatech.edu\n[2]  http://ideas.gatech.edu/muri-kickoff/schedul
- e\n[3]  https://www.google.com/maps/place/Coda/@33.7752695\,-84.3898313\,1
- 7z/data=!3m1!4b1!4m5!3m4!1s0x88f5046677950223:0x7fd1ad077b382c98!8m2!3d33.
- 7752651!4d-84.3876426
-LOCATION:Georgia Tech—Coda Building\, Room C1215
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:International Opportunities Open House
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190822T143000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190822T160000Z
-UID:http://hg.gatech.edu/node/622060#0
-DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\n
- Status: published\n\nPlease come meet OIE advisors and learn about study a
- broad opportunities\, Global Internships\, the International Plan\, schola
- rships\, and more. This is a great time to ask questions about Tech's many
-  programs in one place and indulge in some tasty refreshments.\n\nWe hope 
- to see you there!\n\nLinks:\n[0]  http://hg.gatech.edu/node/622060#0\n[1] 
-  https://oie.gatech.edu/
-LOCATION:Student Center Peachtree Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IEEE EDS/PHO Atlanta Chapter Seminar: Hybrid Colloidal Quantum Dot
-  Photonic Devices
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190822T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190822T160000Z
-UID:http://hg.gatech.edu/node/624341#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nSpeaker: Professor Chien-Chung Lin\, National C
- hiao-Tung University & ITRI\, Taiwan\n\nAbstract:\n\nColloidal Quantum Dot
- s (CQDs) have been working their ways into the next-generation photonic de
- vices. Highly efficient light emitters and absorbers made of CQDs can be d
- emonstrated among various types of materials including CdSe/CdS/CdTe and p
- erovskites. The wavelength tunability\, according to their physical sizes\
- , can be readily suitable for LED displays and solar spectrum management p
- urposes. Meanwhile\, the reliability of these nanocrystals remains one of 
- the most important issues before their full-scale commercialization. In th
- is talk\, we will present our latest work on the improvement of the reliab
- ility of hybrid CQD photonic devices. A brief review on previous achieveme
- nts will also be provided. The compact package and long lifetime features 
- will be the key factors for future successful deployment of such materials
-  and devices.\n\nSpeaker's Biography:\n\nDr. Chien-Chung Lin was born in T
- aipei\, Taiwan\, in 1970. He received his B.S.E.E. degree from National Ta
- iwan University\, Taipei\, in 1993\, and the M.S. and Ph.D. degrees in ele
- ctrical engineering from Stanford University\, Stanford\, CA\, USA\, in 19
- 97 and 2002\, respectively. His thesis work focused on design\, modeling\,
-  and fabrication of micromachined-tunable optoelectronic devices. He joine
- d E2O Communications Inc.\, Calabasas\, CA\, USA\, as a Senior Optoelectro
- nic Engineer in 2002. His main research interests then were in optically a
- nd electrically pumped long-wavelength vertical cavity surface emitting la
- sers. In 2004\, he joined Santur Corporation\, Fremont\, CA\, where he ini
- tially worked as a member of technical staff and became a Manager of Laser
-  Chip Engineering later. He had worked on monolithic multi-wavelength DFB 
- Laser arrays for data and telecommunications\, yield and reliability analy
- sis of DFB Laser arrays\, etc. In2009\, he joined the National Chiao Tung 
- University (NCTU) in Tainan\, Taiwan\, where he currently holds the positi
- on of a full Professor. His major research interests are in the design and
-  fabrication of novel semiconductor optoelectronic devices\, including LED
- s\, solar cells\, and lasers. Since 2016\, he has been jointly appointed b
- y the Industrial Technology Research Institute (ITRI)\, where he participa
- tes in and leads several key projects in micro-LEDs\, 3D ICs\, and silicon
-  photonics. Prof. Lin has published more than 200 journal and conference p
- apers and is a senior member of the IEEE and the Optical Society of Americ
- a.\n\n(Pizzas will be served after the seminar presentation)\n\nLinks:\n[0
- ]  http://hg.gatech.edu/node/624341#0
-LOCATION:Marcus Nanotechnology Building\, Room 1116
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Meet Career Services
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190822T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190822T160000Z
-UID:http://hg.gatech.edu/node/624374#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\, Freebies\nStatus: published\n\nStop by and get t
- o know the CoC Career Services Office! Learn about upcoming events and the
-  services our team offers! Grab a snack and get ready for an amazing start
-  to your fall semester!\n\nLinks:\n[0]  http://hg.gatech.edu/node/624374#0
-LOCATION:CCB Commons
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:14th Annual Latino Welcome Celebration
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190822T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190822T170000Z
-UID:http://hg.gatech.edu/node/623309#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\, Freebies\nStatus: 
- published\n\nThe Latino Welcome Celebration will provide incoming and curr
- ent Hispanic/Latino students with an opportunity to experience the Hispani
- c atmosphere at Georgia Tech and network with other students\, faculty\, s
- taff\, and corporate representatives. Supported by BP and MailChimp\, this
-  year's event will consist of free food\, music\, raffles\, live entertain
- ment\, and informational tables for student organizations\, Georgia Tech o
- ffices\, and corporate sponsors.\n\nRepresenting student organizations inc
- lude BRASA\, GTIA\, HRT\, LOGRAS\, LTA\, LUL\, Lambda Theta Phi\, GT-SHPE\
- , and SSO.\n\nNo registration required\, but please bring your Buzz Card.\
- n\nFor more information\, visit [1].\n\nLinks:\n[0]  http://hg.gatech.edu/
- node/623309#0\n[1]  http://www.hispanicoffice.gatech.edu/events/latino-wel
- come-celebration
-LOCATION:Student Center Ballroom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wreck Camp Reunion Lunch
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190822T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190822T170000Z
-UID:http://hg.gatech.edu/node/623978#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nLunch\, socialization\, and games
-  for Wreck Camp 2019 staff and campers! Come join to reconnect to the Wrec
- k Camp community and catch up with old friends. Please RSVP and include an
- y dietary restrictions.\n\nLinks:\n[0]  http://hg.gatech.edu/node/623978#0
- \n[1]  https://transitionprograms.gatech.edu/content/wreck-camp-0
-LOCATION:Ferst Center Lobby
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GVU Center Brown Bag: GVU Center Overview and Funded Research Proj
- ects
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190822T153000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190822T170000Z
-UID:http://hg.gatech.edu/node/624527#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nExtras: Free food\nStatus: published\n\nAbstract
- :\n\nIn the first GVU Brown Bag Seminar of the academic year\, Keith Edwar
- ds\, GVU Center Director and Professor of Interactive Computing\, will kic
- k off our talk series with an overview of the GVU Center detailing its uni
- que resources and opportunities\, and previewing some of the events coming
-  up this semester. Come\, enjoy lunch\, and learn about some of the ways y
- ou can connect with GVU.\n\nAlso\, each year\, the GVU Center and IPaT ann
- ounce funding for the Research and Engagement Grants\, which support early
-  stage work by Georgia Tech researchers. This year’s winners will give b
- rief overviews of the work they will be doing over the coming academic yea
- r.\n\nFollowing the brown bag talk\, stick around for our fall ice cream s
- ocial.\n\nSpeaker Bio:\n\nKeith Edwards is a Professor in the College of C
- omputing at Georgia Tech and Director of the GVU Center. His research inte
- rests focus primarily on driving human-centered concerns into core computi
- ng infrastructure. He is a pioneer in the exploration of human-centered pe
- rspectives on computer networking\, particularly in the home and has been 
- active in developing more usable approaches to information security system
- s. Lately\, his research has expanded into a number of explorations of the
-  social impacts of computing technology\, and understanding how technology
-  can support the work of non-profits and NGOs. While he is a technologist 
- at heart\, he enjoys working with designers\, as well as ethnographers and
-  other social scientists.\n\nLinks:\n[0]  http://hg.gatech.edu/node/624527
- #0\n[1]  http://www.tsrb.gatech.edu/
-LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
- a\, Ga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CREATE-X Startup Launch Demo Day 2019
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190822T203000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190823T013000Z
@@ -533,37 +22,6 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  out 40+ industry breaking startups.\n\nLinks:\n[0]  http://hg.gatech.edu/n
  ode/621912#0\n[1]  https://create-x-demo-day-2019.eventbrite.com
 LOCATION:The Fox Theatre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gt Computing Welcome Back Beach Bash and Student Org. Fair
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190822T210000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190822T230000Z
-UID:http://hg.gatech.edu/node/624689#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\, Freebies\nStatus: 
- published\n\nThe College of Computing is excited for another great year at
-  Tech and we are celebrating by hosting our annual back to school festival
-  and student organization fair. Are you interested in joining a student or
- ganization or at least see what options are out there? Well\, here is your
-  chance! Come by Noonan Courtyard (the grassy areas outside of Klaus) and 
- join in the festivities while talking to Org leaders\, playing games and e
- ating delicous food. You may even win a prize and and score an interview f
- rom our corproate recruiters attending!\n\nLinks:\n[0]  http://hg.gatech.e
- du/node/624689#0
-LOCATION:Noonan Courtyard ( Outside Klaus Advanced Computing Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:First-Year Women's Welcome
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190822T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190822T230000Z
-UID:http://hg.gatech.edu/node/624046#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nAll first-year undergraduate wome
- n are invited to come together in community to enjoy a delicious dessert r
- eception with the Women's Resource Center and First-Year Experience and le
- arn about student organizations supporting women at Georgia Tech.\n\nLinks
- :\n[0]  http://hg.gatech.edu/node/624046#0
-LOCATION:Smithgall (Flag) Building\, Room 117
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SCPC Presents: Avengers Endgame
@@ -27749,6 +27207,25 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Burger Bowl Field or Online
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:WST Lrn C Fall 2020 Virtual Orientation
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200824T213000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200824T223000Z
+UID:http://hg.gatech.edu/node/638174#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nOrientation: Residents of the WST
+  Learning Community will meet virtually to discuss plans for 2020-21 on Mo
+ nday\, 8/24\, 5:30-6:30pm\, via BlueJeans. The link to join the meeting is
+ \nhttps://bluejeans.com/688164829/2578\nResidents will be provided with in
+ dividually boxed meals in Stein about 5pm.\nOther students are welcome to 
+ join the virtual meeting.\n\nUpcoming WST Lrn C event: Discussion with Pro
+ fessor Narin Hassan\, Director of the Global Media and Culture MS Program\
+ , LMC\, speaking in a virtual meeting about de-stressing on Tuesday\, 9/15
+ \, 4:30-5:30pm.\n\nInformation about Covid health precautions and testing:
+  [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/638174#0\n[1]  https://heal
+ th.gatech.edu/coronavirus/prevention-wellbeing
+LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tuesday Night Worship
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200825T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200826T010000Z
@@ -28004,6 +27481,41 @@ DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us Tu
  ck channel for up-to-date information (online vs. in-person\, speakers\, e
  tc.).\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6158602
 LOCATION:Tech Wesley
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Where There's a Krill\, There's a Way!
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201008T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201008T160000Z
+UID:http://hg.gatech.edu/node/638135#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nNicole Hellessey\
+ , Ph.D.\nSchool of Biological Sciences\nGeorgia Institute of Technology\n\
+ nJoin the BlueJeans Meeting [1]\n\nABSTRACT\nAntarctic krill (Euphausia su
+ perba) is a key component of the Antarctic food web with considerable lipi
+ d reserves that are vital for both their own and higher predator survival.
+  Krill feed on diatoms\, dinoflagellates and other algal species year-roun
+ d\, resulting in high omega-3 polyunsaturated fatty acids which are essent
+ ial for krill health\, growth and reproduction. Krill-derived omega-3 cont
+ aining products (particularly eicosapentacnoic acid (20:5w3) and docosahex
+ aenoic acid (22:6w3)) are sold as nutraceuticals for human consumption. Kr
+ ill oil tablets (sold as an omega-3 supplement) are now one of the fastest
+  growing nutraceuticals globally. However\, few attempts have been made to
+  link the spatial and temporal variations in krill lipids to those in thei
+ r food supply. Knowledge of krill diet and krill lipid dynamics is lacking
+  for the Indian and Pacific Oceans\, as most studies have focused on the S
+ outh Atlantic Ocean sector where the krill fishery is based. Most research
+  voyages are conducted during the summer and all scientific studies are re
+ stricted in their spatial and temporal scales. Another major gap in curren
+ t Antarctic ecosystem models is the link between environmental drivers and
+  their impact on primary production and therefore food availability. Satel
+ lite-derived data for biological and ecological measures is still developi
+ ng as a tool although outputs such as ocean colour data which can be conve
+ rted into chlorophyll a concentrations (a proxy for primary production)\, 
+ are becoming more common. This seminar will cover recent developments in t
+ he knowledge of spatiotemporal fluctuations of krill lipid biochemistry in
+  relation to their environment.\n\nLinks:\n[0]  http://hg.gatech.edu/node/
+ 638135#0\n[1]  https://bluejeans.com/528183560
+LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BPU Meeting 
