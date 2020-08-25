@@ -2,179 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:CREATE-X Startup Launch Demo Day 2019
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190822T203000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190823T013000Z
-UID:http://hg.gatech.edu/node/621912#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nAfter weeks of interviewing hundreds of potential customers\, long night
- s of debates\, pivots and gallons of coffee– it all comes down to Demo D
- ay. Join us at the fabulous Fox Theatre to watch the culmination of 12 wee
- ks of hard work from more than 40 student founded startups.\n\n- 4:30 p.m.
- : Doors open. Make sure to grab some food and get your seat early.\n- 5:30
-  – 7:30 p.m.: Listen to how each startup will change their industry duri
- ng one-minute pitches.\n- 7:30 – 9:30 p.m.: Visit their booths in the ex
- po-style event. This is your chance to be their first customer\, sign up t
- o be a beta tester\, or just learn more about their products and services.
- \n\nThere will be startups from all industries\, ranging from fashion to B
- 2B to agriculture. Do not miss your opportunity to be the first to hear ab
- out 40+ industry breaking startups.\n\nLinks:\n[0]  http://hg.gatech.edu/n
- ode/621912#0\n[1]  https://create-x-demo-day-2019.eventbrite.com
-LOCATION:The Fox Theatre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SCPC Presents: Avengers Endgame
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190822T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190823T020000Z
-UID:http://hg.gatech.edu/node/624106#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\, Freebies\nStatus: published\n\nAfter Rec Fest\, 
- gates open at 6 pm. Chairs are not permitted so bring a blanket or towel. 
- Free refeshments and givaways!\n\nLinks:\n[0]  http://hg.gatech.edu/node/6
- 24106#0
-LOCATION:Roe Stamps Recreational Field
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:#RATS Digital Scavenger Hunt in the Library Aug. 19-23
-DTSTART;VALUE=DATE:20190823
-DTEND;VALUE=DATE:20190824
-UID:http://hg.gatech.edu/node/623906#4
-DESCRIPTION:Intended audience: Undergraduate students\nStatus: published\n
- \nGet to know your Georgia Tech Library the first week of school and celeb
- rate with a pizza party on the seventh floor complete with loads of vintag
- e video games.\n\nThe #RATS Digital Scavenger Hunt is open to everyone on 
- campus. All you need to do is post pictures of the following areas to your
-  social accounts\, all tagged #RATS.\n\n- Sci-fi Lounge (1st floor)\n- Cla
- ssroom 2130 (2nd floor)\n- Data Viz Lab (3rd floor)\n- Gadgets check-out (
- 3rd floor)\n- Multimedia Studio (4th floor)\n- Seventh Floor Reading Room 
- (7th floor)\n\nOn Friday\, Aug. 23 from 3-5\, everyone who can verify they
- ’ve taken the photos can come to a pizza party in the seventh floor read
- ing room. We’ll have all the projection screens down running retroTECH
- ’s Time Machine emulator and several vintage systems.\n\nQuestions? Just
-  hit up the Georgia Tech Library on social ( Facebook [1]\, Twitter [2] or
-  Instagram [3] )\, DM us on the Georgia Tech sub-Reddit [4] or e-mail jaso
- n.wright@library.gatech.edu [5].\n\nLinks:\n[0]  http://hg.gatech.edu/node
- /623906#4\n[1]  https://www.facebook.com/GeorgiaTechLibrary/\n[2]  https:/
- /twitter.com/GTLibrary\n[3]  https://www.instagram.com/gtlibrary/?hl=en\n[
- 4]  https://www.reddit.com/r/gatech/\n[5]  jason.wright@library.gatech.edu
-LOCATION:Georgia Tech Library: Crosland Tower
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chinese Student Welcome Party
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190823T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190824T020000Z
-UID:http://hg.gatech.edu/node/623693#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free Stuff\, Free food\, Freeb
- ies\nStatus: published\n\nChinese Christian Fellowship hosts a welcome par
- ty mainly for new Chinese students. Some team-building activities and the 
- introduction of the fellowship will take place.\n\nIt's a welcome party ma
- inly for the new Chinese students. Some team-building activities and the i
- ntroduction of the fellowship will be held to them. http://u83743.viewer.m
- aka.im/ k/YBFZCNI9W83743?from= groupmessage&isappinstalled=0\n\nLinks:\n[0
- ]  http://hg.gatech.edu/node/623693#0\n[1]  https://gatech.campuslabs.com/
- engage/event/4491728
-LOCATION:Festival Level\, Bill Moore Student Success Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grocery Bingo Night at Tech Rec
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190824T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190824T020000Z
-UID:http://hg.gatech.edu/node/624766#0
-DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\n
- Status: published\n\nNeed to get groceries from the store? There's no need
-  with Tech Rec's Grocery Bingo Night! Join us Friday\, August 23rd from 8 
- - 10 p.m. in Tech Rec for a chance to get five in a row and win some much 
- needed grocery items to stock your fridge. It is free to play Bingo\, just
-  be sure to bring your BuzzCard!\n\nLinks:\n[0]  http://hg.gatech.edu/node
- /624766#0\n[1]  http://techrec.gatech.edu
-LOCATION:Tech Rec\, Ground Floor of Student Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Engagement Week 2019] Into the Streets
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190824T114500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190824T170000Z
-UID:https://gatech.campuslabs.com/engage/event/4075811
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis event fulfills a r
- equirement of the GOLD Route. To learn more about the GOLD Route\, click h
- ere. [1]\n\nInto the Streets is an annual day of service hosted by Mobiliz
- ing Opportunities for Volunteer Experiences (MOVE). This event occurs each
-  fall semester with the goal of helping new and returning Georgia Tech stu
- dents meet fellow students\, learn about community service opportunities a
- t Georgia Tech\, and to serve the larger Atlanta communtiy! Into the Stree
- ts 2019 will be our 9th annual event.\n\nInto the Streets 2019 will take p
- lace on Saturday\, August 24\, 2019. We will be offering three morning pro
- jects at the Historic Oakland Foundation\, Trees Atlanta\, and Gateway Cen
- ter along with a full day project with Habitat for Humanity!\n\nLearn more
-  at civic-engagement.gatech.edu [2]\n\nSign-up to serve by Thursday\, Augu
- st 22 at noon at [3]\n\nTag your photos on Facebook\, instagram\, and Twit
- ter with #GTIntoTheStreets and #engageGT.\n\nLinks:\n[0]  https://gatech.c
- ampuslabs.com/engage/event/4075811\n[1]  https://student-organizations.gat
- ech.edu/content/gold-route-overview\n[2]  https://gatech.campuslabs.com/en
- gage/submitter/organization/Student-Engagement/eventsubmission/change/civi
- c-engagement.gatech.edu\n[3]  https://gatech.campuslabs.com/engage/submitt
- er/form/start/335400
-LOCATION:Georgia Tech Campanile
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Meet Greet N' Munch
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190824T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190825T013000Z
-UID:http://hg.gatech.edu/node/624695#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free Food\, Free Stuff\nStatus: published\n\nMeet Greet N' Munch 
- is the first social event in the Fall 2019 hosted by Asha for Education GT
-  chapter for welcoming the new students on campus. We will have fun games\
- , including a spinoff of the famous game Family Feud\, a GT trivia and kar
- aoke night. Expect some delicious Indian snacks too!\n\nMeet Greet N' Munc
- h is the first socail event in the Fall 2019 hosted by Asha for Education 
- GT chapter for welocming the new students on campus. We will have fun game
- s\, including a spin off of the famous game Family Feud\, a GT trivia and 
- karaoke night. Expect some delicious Indian snacks too!\n\nLinks:\n[0]  ht
- tp://hg.gatech.edu/node/624695#0\n[1]  https://gatech.campuslabs.com/engag
- e/event/4776793\n[2]  https://gatech.campuslabs.com/engage/actioncenter/or
- ganization/asha-for-education
-LOCATION:Activity Room\, 10th and Home\, 251 10th St NW
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELED: Second Saturday
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190825T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190825T030000Z
-UID:http://hg.gatech.edu/node/622923#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Undergraduate students\nExt
- ras: Free food\nStatus: published\n\nEVENT CANCELED: Due to the possibilit
- y of inclement weather\, Second Saturday 2019 is canceled. Although we are
-  disappointed\, we’ve worked closely with the Georgia Tech Office of Eme
- rgency Preparedness to make this decision and are following their recommen
- dation. We were very excited to bring this event to campus and look forwar
- d to hosting this event with SCPC next Fall!\n\nSecond Saturday is the Div
- ision of Student Life's welcome back celebration for all incoming and cont
- inuing students. Students are invited to a carnival-style evening of food 
- and fun!\n\nLinks:\n[0]  http://hg.gatech.edu/node/622923#0
-LOCATION:Tech Green
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Traditions Night
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190825T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190826T000000Z
-UID:http://hg.gatech.edu/node/625050#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nExtras: Free food\, Freebies\nStatus: published
- \n\nRamblin' Reck Club is proud to present this year's Traditions Night at
-  Bobby Dodd Stadium! EVERY member of the GT community is invited to join u
- s in our grand celebration of Georgia Tech's time-honored traditions. The 
- celebration will start with our festival beginning at 6pm in Callaway Plaz
- a\, where you can snag swag\, eat free food and play Georgia Tech games! F
- ollowing the festival will be our show in Bobby Dodd stadium\, featuring p
- erformances from Band and Cheer\, along with an interactive opportunity to
-  learn our chants\, cheers\, and other lively traditions!\n\nLinks:\n[0]  
- http://hg.gatech.edu/node/625050#0\n[1]  http://www.reckclub.org/\n[2]  ht
- tps://www.facebook.com/RamblinReckClub/\n[3]  https://www.facebook.com/eve
- nts/375432173174320/
-LOCATION:Callaway Plaza and Bobby Dodd Stadium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:International Opportunities Open House
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190826T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190826T160000Z
@@ -27224,6 +27051,36 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
   [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/638174#0\n[1]  https://heal
  th.gatech.edu/coronavirus/prevention-wellbeing
 LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Student Affiliates of the American Chemical Society - Welcome Meet
+ ing
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200825T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200825T160000Z
+UID:http://hg.gatech.edu/node/638286#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Undergraduate students\nSta
+ tus: published\n\nYou’re invited to join the Student Affiliates of the A
+ merican Chemical Society at Georgia Tech! All majors are welcome\; all you
+  need is an interest in chemistry!\n\nWhat do we do?\n\nSAACS is an academ
+ ic organization at Georgia Tech dedicated to facilitating interest in chem
+ istry\, coordinating student-faculty interactions\, and providing guidance
+  for future career paths.\n\nOur most popular activity is our “dinner wi
+ th a professor” program. Once a month\, a small group of students will g
+ et to spend an evening with a professor in the School of Chemistry and Bio
+ chemistry – asking any questions they may have about the professor’s r
+ esearch and experiences. These will be conducted over BlueJeans.\n\nDuring
+  the school year\, we also host several high school and campus outreach ev
+ ents\, professional development workshops\, community service activities\,
+  and fun activities involving chemistry!\n\nHow do I join?\n\nCome to meet
+ ings! We hold BlueJeans meetings at 11 AM every 2nd and 4th Tuesday of the
+  month\, starting on Aug. 25! The first meeting will be an information ses
+ sion\, and we’ll also have some chemistry-themed trivia!\n\n[1]\n\nJoin 
+ our Slack workspace! For consistent updates on meetings and activities\, t
+ his is the best way to go. Make sure to turn on notifications!\n\n[2]\n\nL
+ inks:\n[0]  http://hg.gatech.edu/node/638286#0\n[1]  https://bluejeans.com
+ /887991881\n[2]  https://join.slack.com/t/gtsaacs/shared_invite/zt-govazh8
+ 3-wX4fsv7FB7KfeZwt5F5faA\n[3]  https://www.facebook.com/groups/2200944686
+LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tuesday Night Worship
