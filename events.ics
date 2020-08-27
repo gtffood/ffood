@@ -2,498 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:International Opportunities Open House
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190826T143000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190826T160000Z
-UID:http://hg.gatech.edu/node/622061#0
-DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\n
- Status: published\n\nPlease come meet OIE advisors and learn about study a
- broad opportunities\, Global Internships\, the International Plan\, schola
- rships\, and more. This is a great time to ask questions about Tech's many
-  programs in one place and indulge in some tasty refreshments.\n\nWe hope 
- to see you there!\n\nLinks:\n[0]  http://hg.gatech.edu/node/622061#0\n[1] 
-  https://oie.gatech.edu/
-LOCATION:Student Center Peachtree Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Engagement Week 2019] Engagement Week Fairs
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190826T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190826T170000Z
-UID:https://gatech.campuslabs.com/engage/event/4075813
-DESCRIPTION:Extras: Credit\, Free Food\, Free Stuff\nStatus: approved\n\nT
- his event fulfills a requirement of the GOLD Route. To learn more about th
- e GOLD Route\, click here. [1]\n\nEngagement Week Fairs are an opportunity
-  for students to explore their interests and passions and find new opportu
- nities to get involved with on campus. During these fairs\, students can m
- eet with student leaders from our 500+ Registered Student Organizations\, 
- learn more about opportunities and events with GT departments\, and check 
- out other engagement ideas like snagging a photo with the Reck or Buzz and
-  enjoying a free dessert with new friends on Tech Green.\n\nWhere: Tech Wa
- lkway\nWhen: Monday August 26th and Tuesday\, August 27th\nEvent Time: 11:
- 00 AM to 1:00 PM\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/even
- t/4075813\n[1]  https://student-organizations.gatech.edu/content/gold-rout
- e-overview
-LOCATION:Tech Walkway
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Salesforce Day in the Lobby
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190826T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190826T200000Z
-UID:http://hg.gatech.edu/node/624663#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nDay in the Lobby\nBrin
- g your resume and come chat with recruiters from Salesforce in the College
-  of Computing commons anytime between 11am and 4pm.\n\nOpen Posiions\nSumm
- er 2020 Intern - Software Engineer [1]\n\nSummer 2020 Intern - Associate P
- roduct Manager [2]\n\nSummer 2020 Intern - Technical Writer [3]\n\nYour tr
- ail starts here.\nAt Salesforce\, we're dedicated to attracting\, retainin
- g\, and cultivating the next generation talent. Our interns and new gradua
- tes work on real projects that affect how our business runs\, giving them 
- the opportunity to make a tangible impact on the future of our company. Wi
- th offices all over the world\, our recruits have the chance to collaborat
- e and connect with fellow employees on a global scale.\n\nUniversity Recru
- iting\nOpen Positions Click HERE [4] to apply for open positions!\n\nThe p
- erks of launching your career at Salesforce.\nGet paid to give back.\nInte
- rns and new grads receive seven days (56 hours!) of paid Volunteer Time Of
- f (VTO) to devote to causes they believe in.\n\nDo meaningful work.\nFrom 
- day one\, interns and new grads work on real projects that go into product
- ion\, giving them the opportunity to significantly impact the future of ou
- r company.\n\nBuild a network while having fun.\nInterns and new grads hav
- e endless opportunities to mix and mingle\, with social calendars full of 
- networking nights\, sporting events\, city tours\, and more.\n\nGain expos
- ure to senior leaders.\nThrough our Executive Lunch & Learn and Speaker Se
- ries programs\, interns and new grads have unprecedented access to our Sal
- esforce leadership team.\n\nRepresent Salesforce on campus.\nOnce interns 
- are back at school\, they can serve as campus ambassadors\, working with o
- ur recruiters to generate awareness of Salesforce among new\, diverse stud
- ent groups.\n\nContinue learning new Salesforce skills.\nWith Trailhead\, 
- the fun way to learn Salesforce\, interns and new grads can explore new Sa
- lesforce skills through guided learning paths.\n\nLinks:\n[0]  http://hg.g
- atech.edu/node/624663#0\n[1]  https://salesforce.wd1.myworkdayjobs.com/en-
- US/External_Career_Site/job/California---San-Francisco/Summer-2020-Intern-
- --Software-Engineer_JR45627-1\n[2]  https://salesforce.wd1.myworkdayjobs.c
- om/en-US/External_Career_Site/job/California---San-Francisco/Summer-2020-I
- ntern---Associate-Product-Manager_JR46392-1\n[3]  https://salesforce.wd1.m
- yworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco
- /Summer-2020-Intern---Technical-Writer_JR46250-1\n[4]  https://salesforce.
- wd1.myworkdayjobs.com/External_Career_Site
-LOCATION:11am-4pm CCB commons
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Materials Science and Engineering Seminar Series featuring Dr. Lor
- raine F. Francis
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190826T184500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190826T200000Z
-UID:http://hg.gatech.edu/node/624395#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nExtras: Free food\nStatus: published\n\nMateria
- ls Processing Fundamentals for the Self-Aligned Capillarity Assisted Litho
- graphy for Electronics (SCALE) Process Lorraine F. Francis - Professor and
-  3M Chair in Experiential Learning University of Minnesota Department of C
- EMS\n\nAbstract:\n\nApplications for circuits and devices printed on flexi
- ble substrates abound\, ranging from wearable diagnostic sensors to large 
- area\, roll-up displays. Continuous printing processes are attractive for 
- manufacturing flexible electronics. However\, two challenges typically ari
- se in this pursuit: (1) creating small feature sizes\, and (2) achieving r
- egistration of multiple functional layers. This presentation will cover ou
- r efforts to address these challenges using a new approach – Self-Aligne
- d Capillarity-Assisted Lithography for Electronics (or SCALE). SCALE invol
- ves imprinting a multilevel open network of reservoirs\, capillaries and d
- evice structures into a UV-curable coating deposited on a flexible substra
- te\, delivering electronically functional inks into the reservoirs by inkj
- et printing\, and using capillarity to selectively fill capillaries and de
- vice structures attached to the reservoirs. The single imprint step create
- s all the structural features needed in the devices and capillary flow cre
- ates self-aligned\, multimaterial devices. To-date we have used SCALE to c
- reate conductive networks\, resistors\, capacitors\, diodes and transistor
- s. This presentation will show advances in device architecture and perform
- ance\, and explore the key processing steps. Special attention will be giv
- en to the continuous roll-to-roll imprinting process\, experiments and vis
- ualizations of liquid flow in open capillary channels\, and unique flow co
- ntrol methods such as a microfluidic diode.\n\nBiography:\n\nLorraine F. F
- rancis is Professor of Chemical Engineering and Materials Science and curr
- ently holds the 3M Chair in Experiential Learning in the College of Scienc
- e and Engineering at the University of Minnesota. She received a B.S. in C
- eramic Engineering from Alfred University in 1985\, and M.S. and Ph.D. in 
- Ceramic Engineering from the University of Illinois in 1987 and 1990\, res
- pectively. She then joined the University of Minnesota. Professor Francis 
- has research interests broadly in the area of materials processing\, inclu
- ding coating and printing processes and microstructure development studies
- . She is also very involved in undergraduate education\, including develop
- ing a project-based learning class for freshmen and authoring a textbook. 
- Professor Francis has received several awards. In 2019\, she was named Col
- lege of Science and Engineering Distinguished Professor\, and in 2014 she 
- received the Horace T. Morse - University of Minnesota Alumni Association 
- Award for Outstanding Contributions to Undergraduate Education.\n\nRecepti
- on at 2:45 p.m. in the Howey Physics Atrium.\n\nClick here for Professor L
- orraine F. Francis' Research Group page [1]\n\nLinks:\n[0]  http://hg.gate
- ch.edu/node/624395#0\n[1]  https://francis.cems.umn.edu/\n[2]  https://goo
- .gl/maps/bHn5bZ8BkiYKSPRq5
-LOCATION:School of Physics (Howey Building)\, Room L2\, 837 State Street A
- tlanta\, Georgia 30332
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ivan Allen College Kickoff
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190826T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190826T230000Z
-UID:http://hg.gatech.edu/node/623940#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Undergraduate students\nExt
- ras: Free food\nStatus: published\n\nThe 'Ivan Allen College Kickoff' is a
- n event to welcome all incoming Ivan Allen College first year students wit
- h a dinner and a chance to mingle with each other and with faculty and cur
- rent students!\n\nThe event is organized by the Ivan Allen College Student
-  Advisory Board.\n\nLinks:\n[0]  http://hg.gatech.edu/node/623940#0
-LOCATION:Bill Moore Student Success Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Salesforce Tech Talk: The Forces Behind Salesforce: The Lightning 
- Platform\, the Formula Engine\,and Web App Defense
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190826T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190827T000000Z
-UID:http://hg.gatech.edu/node/624685#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nTech Talk - The Forces
-  Behind Salesforce: The Lightning Platform\, the Formula Engine\, and Web 
- App Defense\nJoin Salesforce to learn more about their innovative technolo
- gies!\n\nSummer 2020 Intern - Software Engineer [1]\n\nSummer 2020 Intern 
- - Associate Product Manager [2]\n\nSummer 2020 Intern - Technical Writer [
- 3]\n\nYour trail starts here.\nAt Salesforce\, we're dedicated to attracti
- ng\, retaining\, and cultivating the next generation talent. Our interns a
- nd new graduates work on real projects that affect how our business runs\,
-  giving them the opportunity to make a tangible impact on the future of ou
- r company. With offices all over the world\, our recruits have the chance 
- to collaborate and connect with fellow employees on a global scale.\n\nUni
- versity Recruiting\nOpen Positions Click HERE [4] to apply for open positi
- ons!\n\nThe perks of launching your career at Salesforce.\nGet paid to giv
- e back.\nInterns and new grads receive seven days (56 hours!) of paid Volu
- nteer Time Off (VTO) to devote to causes they believe in.\n\nDo meaningful
-  work.\nFrom day one\, interns and new grads work on real projects that go
-  into production\, giving them the opportunity to significantly impact the
-  future of our company.\n\nBuild a network while having fun.\nInterns and 
- new grads have endless opportunities to mix and mingle\, with social calen
- dars full of networking nights\, sporting events\, city tours\, and more.\
- n\nGain exposure to senior leaders.\nThrough our Executive Lunch & Learn a
- nd Speaker Series programs\, interns and new grads have unprecedented acce
- ss to our Salesforce leadership team.\n\nRepresent Salesforce on campus.\n
- Once interns are back at school\, they can serve as campus ambassadors\, w
- orking with our recruiters to generate awareness of Salesforce among new\,
-  diverse student groups.\n\nContinue learning new Salesforce skills.\nWith
-  Trailhead\, the fun way to learn Salesforce\, interns and new grads can e
- xplore new Salesforce skills through guided learning paths.\n\nLinks:\n[0]
-   http://hg.gatech.edu/node/624685#0\n[1]  https://salesforce.wd1.myworkda
- yjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer
- -2020-Intern---Software-Engineer_JR45627-1\n[2]  https://salesforce.wd1.my
- workdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/
- Summer-2020-Intern---Associate-Product-Manager_JR46392-1\n[3]  https://sal
- esforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---
- San-Francisco/Summer-2020-Intern---Technical-Writer_JR46250-1\n[4]  https:
- //salesforce.wd1.myworkdayjobs.com/External_Career_Site
-LOCATION:6:30pm – 8pm Klaus 1116 E&W.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IEEE Kickoff Meeting
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190827T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190827T160000Z
-UID:http://hg.gatech.edu/node/625083#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nCome grab some pizza and learn about what IEEE @ Geo
- rgia Tech has to offer! We'll go over different groups under IEEE and the 
- professional events that we host with different companies.\n\nLinks:\n[0] 
-  http://hg.gatech.edu/node/625083#0\n[1]  https://gatech.campuslabs.com/en
- gage/organization/institute-of-electrical-and-electronics-engineers
-LOCATION:Klaus 1447
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Undergraduate Consulting Club Fall 2019 Information Session
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190827T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190827T160000Z
-UID:http://hg.gatech.edu/node/625218#0
-DESCRIPTION:Intended audience: Undergraduate students\nStatus: published\n
- \nCome out to the Bill Moore Student Success Center Press Room A on Tuesda
- y\, August 27th at 12pm to learn more about the Undergraduate Consulting C
- lub. Pizza will be served\, so you don't want to miss it! Email ucc.gatech
- .i@gmail.com [1] if you have any questions. Apply today: [2]\n\nLinks:\n[0
- ]  http://hg.gatech.edu/node/625218#0\n[1]  ucc.gatech.i@gmail.com\n[2]  h
- ttps://forms.gle/NAwYNo4YGB9YGdFt5\n[3]  https://www.uccgt.com/
-LOCATION:Press Room A\, Bill Moore Student Success Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Engagement Week 2019] Engagement Week Fairs
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190827T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190827T170000Z
-UID:https://gatech.campuslabs.com/engage/event/4780340
-DESCRIPTION:Extras: Credit\, Free Food\, Free Stuff\nStatus: approved\n\nE
- ngagement Week Fairs are an opportunity for students to explore their inte
- rests and passions and find new opportunities to get involved with on camp
- us. During these fairs\, students can meet with student leaders from our 5
- 00+ Registered Student Organizations\, learn more about opportunities and 
- events with GT departments\, and check out other engagement ideas like sna
- gging a photo with the Reck or Buzz and enjoying a free dessert with new f
- riends on Tech Green.\n\nWhere: Tech Walkway\nWhen: Monday August 26th and
-  Tuesday\, August 27th\nEvent Time: 11:00 AM to 1:00 PM\n\nLinks:\n[0]  ht
- tps://gatech.campuslabs.com/engage/event/4780340
-LOCATION:Tech Walkway
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Graduate Women’s Welcome
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190827T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190827T170000Z
-UID:http://hg.gatech.edu/node/624603#0
-DESCRIPTION:Intended audience: Graduate students\nExtras: Free food\nStatu
- s: published\n\nDrop by the Women's Resource Center to learn about our pro
- grams and services\, meet other graduate women\, and enjoy free dessert!\n
- \nLinks:\n[0]  http://hg.gatech.edu/node/624603#0
-LOCATION:Women’s Resource Center\, Smithgall (Flag) Building\, Suite 131
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NCR Day in the Lobby
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190827T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190827T200000Z
-UID:http://hg.gatech.edu/node/624687#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nDay in the Lobby\nBrin
- g your resume and come chat with recruiters from NCR in the College of Com
- puting commons anytime between 11am and 4pm.\n\nInternships & Early Career
- s Collaborators\nChallenge-Seekers. Continual Learners. These are a few wo
- rds that come to mind when we describe the individuals that participate in
-  many of our internships and early careers programs.\n\nSummer interns and
-  rotational Co-op iNCRedibles touch real project work\, dive into ongoing 
- training and often use the knowledge and experience gained to apply for fu
- ll-time opportunities.\n\nOur innovative rotational program\, Graduate Gat
- eway\, provides recently graduated employees a unique 2-year experience. D
- uring their time in the program\, they are immersed in different full-time
-  positions across the enterprise and also given the opportunity to partici
- pate in a variety of networking and learning events. The rotational positi
- ons in this program sit in various internal teams aligned to Information S
- ystems\, Finance\, Software\, Analytics\, Machine Learning\, Hardware\, Sa
- les\, Marketing\, Human Resources\, and Consulting. The Graduate Gateway i
- nitiative enables long-term career growth and an amazing jumpstart to your
-  NCR story.\n\nBeing a part of these programs means you have the opportuni
- ty to contribute to our NCR story and our vision for the future of connect
- ed experiences. Check out the below video to learn more about our internsh
- ip program specifically.\n\nExplore Opportunities - Click HERE [1].\n\nLin
- ks:\n[0]  http://hg.gatech.edu/node/624687#0\n[1]  https://www.ncr.com/car
- eers
-LOCATION:11am-4pm CCB commons
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nano@Tech: System Scaling through Heterogeneous Integration
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190827T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190827T170000Z
-UID:http://hg.gatech.edu/node/622284#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nMadhavan Swaminathan\nJohn Pippin Chair in Microsystems Packaging & Elec
- tromagnetics\nSchool of Electrical and Computer Engingeering\nAbstact: A c
- ombination of "Moore" (IC) and "More than Moore" (package) scaling has led
-  to the shrinking of electronic systems over the last several decades. As 
- scaling continues beyond CMOS to include advanced devices\, scaling of the
-  package needs to continue to enable system scaling\, leading to the integ
- ration and miniaturization of systems. This requires new technologies for 
- package integration which when connected to assembled ICs leads to System 
- on Package (SoP) solutions that have superior performance and size as comp
- ared to current technologies. This presentation will discuss advanced SoP 
- platforms for integration with a focus on heterogeneity for a variety of a
- pplications that include AI\, HPC\, Power Electronics\, mmWave to name a f
- ew. The inter-disciplinary nature of the research will be highlighted base
- d on faculty interactions between four different schools at GT.\n\nBio: Ma
- dhavan Swaminathan is the John Pippin Chair in Microsystems Packaging & El
- ectromagnetics in the School of Electrical and Computer Engineering (ECE) 
- with a joint appointment in the School of Materials Science and Engineerin
- g (MSE)\, and was recently appointed Director of the 3D Systems Packaging 
- Research Center (PRC)\, GT. He also serves as the Site Director for the NS
- F Center for Advanced Electronics through Machine Learning (CAEML). He for
- merly held the position of Founding Director\, Center for Co-Design of Chi
- p\, Package\, System (C3PS)\, Joseph M. Pettit Professor in Electronics in
-  ECE and Deputy Director of the Packaging Research Center (NSF ERC)\, GT. 
- Prior to joining GT\, he was with IBM working on packaging for supercomput
- ers. He is the author of 500+ refereed technical publications\, holds 30 p
- atents\, primary author and co-editor of 3 books\, founder and co-founder 
- of two start-up companies\, and founder of the IEEE Conference Electrical 
- Design of Advanced Packaging and Systems (EDAPS)\, a premier conference sp
- onsored by the EPS society. He is an IEEE Fellow and has served as the Dis
- tinguished Lecturer for the IEEE EMC society. He received his MS/PhD degre
- es in Electrical Engineering from Syracuse University in 1989 and 1991\, r
- espectively.\n\nLinks:\n[0]  http://hg.gatech.edu/node/622284#0\n[1]  http
- ://ien.gatech.edu
-LOCATION:Marcus Nanotechnology Building 1117-1118 | 345 Ferst Drive | Atla
- nta GA | 30332
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ECE Rush
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190827T183000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190827T210000Z
-UID:http://hg.gatech.edu/node/623521#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\, Freebies\nStatus: published\n\nECE first-years\,
-  transfer students\, and undecided engineering majors: Learn how your imag
- ination and ingenuity can change the world in this interesting\, diverse\,
-  and high-paying field.\n\nSee cool research and hands-on demos\; visit wi
- th ECE student organizations\, faculty\, & staff\;\nenjoy free food & be e
- ligible for door prizes\, including a San Disk SSD 1TB portable hard drive
- !\n\nECE Rush is sponsored by Women in Electrical and Computer Engineering
-  and the School of Electrical and Computer Engineering at Georgia Tech.\n\
- nLinks:\n[0]  http://hg.gatech.edu/node/623521#0\n[1]  http://www.ece.gate
- ch.edu
-LOCATION:Klaus Building Atrium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Undergraduate Research Ambassador Open House
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190827T210000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190827T220000Z
-UID:http://hg.gatech.edu/node/609822#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: published\n\nCome meet Undergraduate Rese
- arch Ambassadors and learn about our undergraduate research opportunities\
- , how to get started in research at Tech\, and much more! This is a great 
- time to ask questions about Tech’s many programs and indulge in some FRE
- E Tiff's Treats Cookies!\n\nLinks:\n[0]  http://hg.gatech.edu/node/609822#
- 0\n[1]  http://urop.gatech.edu
-LOCATION:Clough Undergraduate Learning Commons\, 2nd Floor\, Clough 205Q
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Society of Women Engineers General Body Meeting
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190827T211500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190827T230000Z
-UID:http://hg.gatech.edu/node/624549#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nCome out to our general body meeting every Tues
- day from 5:15 to 7 PM in Smithgall Student Services (Flag Building) Room 1
- 17.\n\n5:15-5:45 PM Free dinner and social time with our members and offic
- ers\n\n5:45-6 PM: Announcements and Upcoming Events Reminders\n\n6-7 PM: S
- ocial Hour or Company Sponsored Event (Please check our weekly newletter f
- or the upcoming company or activity of the week!)\n\nIf you have any quest
- ions\, please feel free to email our President\, Toral Kadakia\, at swepre
- sident@gmail.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/624549#0\n[
- 1]  swepresident@gmail.com\n[2]  https://www.facebook.com/GeorgiaTechSWE/
-LOCATION:Room 117\, Smithgall Student Services (Flag) Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DSGT Fall 2019 Kickoff!
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190827T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190827T230000Z
-UID:https://gatech.campuslabs.com/engage/event/4797810
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nInterested in how to ma
- nipulate and gain insights from data? Eager to get more hands-on experienc
- e in data science through projects? Looking for a community that shares th
- e same passion as you for data science?\n\nCome find out more about our wo
- rkshops\, projects\, internship opportunities and much more!\n\nLinks:\n[0
- ]  https://gatech.campuslabs.com/engage/event/4797810
-LOCATION:Klaus Advanced Computing Building Room 2443
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NCR "Innovation Lab" Tech Talk
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190827T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190827T230000Z
-UID:http://hg.gatech.edu/node/624703#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nTech-savvy-innovators.
-  Challenge-seekers. Boundary-pushers. Agile-design thinkers.\nOur software
-  engineering iNCRedibles embody each of these traits and see the world dif
- ferently than most. NCR’s Innovation Lab is a key to vibrant innovation 
- developing game-changing technologies that will shape our future.\nNCR Inn
- ovation Lab keeps NCR at the forefront of new technologies and innovations
- \, including in the areas of artificial intelligence\, mobile\, big-data\,
-  cloud\, machine learning\, and predictive analytics\, to leverage NCR to 
- deliver innovative solutions for digital commerce in a wide variety of ind
- ustries.\n\nJoin the Innovation Lab team to learn more about the different
-  opportunities that NCR has to offer.\n\nRSVP\nClick HERE [1] to RSVP for 
- this event. All students attending must RSVP by Monday\, August 26th.\n\nL
- inks:\n[0]  http://hg.gatech.edu/node/624703#0\n[1]  https://forms.office.
- com/Pages/ResponsePage.aspx?id=9_FNrh5hT0SJfvlk4SBRcTib0uqf1WZClYHFDsgICLB
- UQU5ZT09XWEo1SUlURTlTSkYxRktQUlhIUy4u
-LOCATION:864 Spring Street NW Atlanta\, GA 30308
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WST Learning Community Orientation
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190827T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190828T000000Z
-UID:http://hg.gatech.edu/node/621695#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nOn Tuesday\, August 27\, 2019\, 6
- -8pm\, in Stein study lounge\, WST Learning Community residents and WST co
- directors and partners will meet to plan activities for the term. Committe
- es will form\, and their members will develop and share initiatives. Dinne
- r will be served.\n\nAttendance at the WST Lrn C Orientation is required f
- or all Stein and Goldin residents. If you have a class conflict\, contact 
- Dr. Carol Colatrella (carol.colatrella@lmc.gatech.edu) to set up an altern
- ate meeting time.\n\nLinks:\n[0]  http://hg.gatech.edu/node/621695#0
-LOCATION:Stein House/4th St. At\, Georgia Tech\, Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Energy Club 2019-20 Kickoff Meeting
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190827T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190827T233000Z
-UID:http://hg.gatech.edu/node/624543#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nJoin for our kick off meeting on August 27 at 6:30 p
- m in the Student Center Room 301. We'll walk through our goals for the clu
- b\, how you can get involved\, and what to expect this year. Free food and
-  a BIG prize guaranteed at this first meeting.\n\nLinks:\n[0]  http://hg.g
- atech.edu/node/624543#0\n[1]  http://www.energyclub.gatech.edu/
-LOCATION:Room 301\, Student Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GT SASE Kickoff
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190827T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190828T000000Z
-UID:https://gatech.campuslabs.com/engage/event/4797800
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome to our kickoff to 
- learn more about membership in the Society of Asian Scientists and Enginee
- rs! We will be having free food at the event as well as general informatio
- n.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/4797800
-LOCATION:Instructional Center Room 209
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Meeting
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190827T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190828T000000Z
-UID:https://gatech.campuslabs.com/engage/event/4797785
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nHi everyone\, I hope ev
- eryone is having a great start of the semester!\n\nWe're having a meeting 
- next Tuesday 8/27 at 7pm at MoSE G021 to discuss the status of the club an
- d possible future trips. It is a highly important meeting to attend as we 
- really need to address the club's status.\n\nWe're in need of students who
-  are interested in leadership roles\, as I'm co-oping this semester. If yo
- u're interested\, please feel free to let me know. (sohyunkwag@gatech.edu)
-  No experience is required and I will be helping you out as much as possib
- le.\n\nAlso\, we'll provide pizza for the meeting. 🍕 🍕 🍕 See you 
- all on Tuesday!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event
- /4797785
-LOCATION:Molecular Science & Engineering Building\, G021
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Society of Asian Scientists and Engineers Kickoff
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190827T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190828T000000Z
-UID:http://hg.gatech.edu/node/624906#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nCome to our kickoff to learn more about membership i
- n the Society of Asian Scientists and Engineers! We will be having free fo
- od at the event as well as general information.\n\nLinks:\n[0]  http://hg.
- gatech.edu/node/624906#0\n[1]  https://docs.google.com/forms/d/e/1FAIpQLSd
- 0VOISNzzSr9sccXWclJy3eu7NLN1GPJvTVDdBf5dJUMxZ_A/viewform?usp=sf_link\n[2] 
-  https://www.facebook.com/GtSASE/
-LOCATION:Room 209\, Instructional Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Waterski and Wakeboard Club Meeting
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190827T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190828T000000Z
-UID:http://hg.gatech.edu/node/624935#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nThe Waterski and Wakeboard Club w
- ill discuss the status of the club and possible future trips. It is a high
- ly important meeting to address the club's status\, and the club is in nee
- d of students who are interested in leadership roles.\n\nIf you're interes
- ted\, please feel free to contact sohyunkwag@gatech.edu [1]. No experience
-  is required and you will have help and support.\n\nAlso\, we'll provide p
- izza for the meeting.\n\nLinks:\n[0]  http://hg.gatech.edu/node/624935#0\n
- [1]  sohyunkwag@gatech.edu\n[2]  https://www.facebook.com/groups/GaTechWat
- erski/
-LOCATION:Room G021\, Molecular Science and Engineering Building
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Microsoft Innovation Fair
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190828T140000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190828T190000Z
@@ -27151,6 +26659,18 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Sunday Morni
 LOCATION:Tech Wesley
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Service Night with Omega Phi Alpha
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200908T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200908T233000Z
+UID:http://hg.gatech.edu/node/638437#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nJoin us for a free-rice-a-thon to meet our sisters\,
+  where teams will compete to answer trivia questions and donate funds to p
+ rovide food to communities around the world!\n\nLinks:\n[0]  http://hg.gat
+ ech.edu/node/638437#0\n[1]  https://bluejeans.com/570423627
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tuesday Night Worship
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200908T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200909T010000Z
@@ -27160,6 +26680,24 @@ DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us Tu
  ck channel for up-to-date information (online vs. in-person\, speakers\, e
  tc.).\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6158598
 LOCATION:Tech Wesley
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LGBTQIA Student Welcome Reception
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200909T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200909T233000Z
+UID:http://hg.gatech.edu/node/638360#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
+ aduate students\nExtras: Free food\nStatus: published\n\nThis is an opport
+ unity to get to know your queer peers while enjoying free food and drinks.
+  Representatives from the LGBTQIA Resource Center\, [1] Health Initiatives
+ \, [2] Counseling Center\, [3] Pride Alliance\, [4] Q Chats\, [5] and more
+  will give short 2-minute presentations about the resources\, support\, an
+ d programs they offer.\n\n[6]\n\nLinks:\n[0]  http://hg.gatech.edu/node/63
+ 8360#0\n[1]  http://lgbtqia.gatech.edu/\n[2]  http://healthpromotion.gatec
+ h.edu/\n[3]  http://counseling.gatech.edu/\n[4]  http://pride.gatech.edu/\
+ n[5]  http://lgbtqia.gatech.edu/content/49/q-chats\n[6]  https://lgbtqia.g
+ atech.edu/lgbtqia-student-welcome-reception
+LOCATION:Register to receive link
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BPU Meeting 
@@ -27245,6 +26783,19 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Sunday Morni
 LOCATION:Tech Wesley
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Robotic Fabrication of Vascularized Tissues
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200921T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200921T170000Z
+UID:http://hg.gatech.edu/node/638383#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nLunch and Learn Speaker Series Fall 2020 Speake
+ r:\nJames Hoying\nChief Scientist\nAdvanced Solutions Life Sciences\n\nAbs
+ tract:\n> Additional details posted closer to event\n\nBio:\n> Additional 
+ details posted closer to event\n\nLinks:\n[0]  http://hg.gatech.edu/node/6
+ 38383#0
+LOCATION:Virtual Event - Details forthcoming
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tuesday Night Worship
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200922T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200923T010000Z
@@ -27277,6 +26828,19 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Sunday Morni
  for up-to-date information (online vs. in-person\, speakers\, etc.).\n\nLi
  nks:\n[0]  https://gatech.campuslabs.com/engage/event/6158613
 LOCATION:Tech Wesley
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shaw’s Approach to Sustainability: Safe & Circular
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200928T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200928T170000Z
+UID:http://hg.gatech.edu/node/638384#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nLunch and Learn Speaker Series Fall 2020 Speake
+ r:\nKellie Ballew\nDirector of Sustainability\nShaw Industries Group\, Inc
+ .\n\nAbstract:\n> Additional details posted closer to event\n\nBio:\n> Add
+ itional details posted closer to event\n\nLinks:\n[0]  http://hg.gatech.ed
+ u/node/638384#0
+LOCATION:Virtual Event - Details forthcoming
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tuesday Night Worship
@@ -27327,6 +26891,22 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Sunday Morni
  for up-to-date information (online vs. in-person\, speakers\, etc.).\n\nLi
  nks:\n[0]  https://gatech.campuslabs.com/engage/event/6158614
 LOCATION:Tech Wesley
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TBD\, (CELLINK: Overview of Tools and Capabilities)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201005T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201005T170000Z
+UID:http://hg.gatech.edu/node/638391#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nLunch and Learn Speaker Series Fall 2020 Speake
+ r:\nNicole Diamantides\nBioprinting Solutions Architect\nCELLINK\, Inc.\n\
+ nAbstract:\n> Additional details posted closer to event\n\nBio:\n> Additio
+ nal details posted closer to event\n\nLunch and Learn Speaker Series Fall 
+ 2020 Speaker:\nPatrick Thayer\nBioprinting Solutions Architect\nCELLINK\, 
+ Inc.\n\nAbstract:\n> Additional details posted closer to event\n\nBio:\n> 
+ Additional details posted closer to event\n\nLinks:\n[0]  http://hg.gatech
+ .edu/node/638391#0\n[1]  http://hg.gatech.edu/node/638385#0
+LOCATION:Virtual Event - Details forthcoming
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tuesday Night Worship
@@ -27398,6 +26978,18 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Sunday Morni
 LOCATION:Tech Wesley
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Next Generation Composite Structures Maintenance
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201012T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201012T170000Z
+UID:http://hg.gatech.edu/node/638388#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nLunch and Learn Speaker Series Fall 2020 Speake
+ r:\nChuck Zhang\nProfessor\nGeorgia Tech\, School of ISYE\n\nAbstract:\n> 
+ Additional details posted closer to event\n\nBio:\n> Additional details po
+ sted closer to event\n\nLinks:\n[0]  http://hg.gatech.edu/node/638388#0
+LOCATION:Virtual Event - Details forthcoming
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Career Services Workshop: Salary Negotiation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201013T223000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201013T233000Z
@@ -27448,6 +27040,19 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Sunday Morni
 LOCATION:Tech Wesley
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cell Therapy Facility Design
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201019T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201019T170000Z
+UID:http://hg.gatech.edu/node/638389#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nLunch and Learn Speaker Series Fall 2020 Speake
+ r:\nErich Bozenhardt\nBioprocess Subject Matter Expert & Process Manager\n
+ Integrated Project Services\, LLC\n\nAbstract:\n> Additional details poste
+ d closer to event\n\nBio:\n> Additional details posted closer to event\n\n
+ Links:\n[0]  http://hg.gatech.edu/node/638389#0
+LOCATION:Virtual Event - Details forthcoming
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tuesday Night Worship
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201020T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201021T010000Z
@@ -27482,6 +27087,19 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Sunday Morni
 LOCATION:Tech Wesley
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:High-Throughput Nanoscale Additive Manufacturing
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201026T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201026T170000Z
+UID:http://hg.gatech.edu/node/638390#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nLunch and Learn Speaker Series Fall 2020 Speake
+ r:\nSourabh Saha\nAssistant Professor\nGeorgia Tech\, School of ME\n\nAbst
+ ract:\n> Additional details posted closer to event\n\nBio:\n> Additional d
+ etails posted closer to event\n\nLinks:\n[0]  http://hg.gatech.edu/node/63
+ 8390#0
+LOCATION:Virtual Event - Details forthcoming
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tuesday Night Worship
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201027T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201028T010000Z
@@ -27514,6 +27132,19 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Sunday Morni
  for up-to-date information (online vs. in-person\, speakers\, etc.).\n\nLi
  nks:\n[0]  https://gatech.campuslabs.com/engage/event/6158618
 LOCATION:Tech Wesley
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Impact of COVID-19 on Manufacturing Supply Chain Design & Operatio
+ ns
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201102T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201102T180000Z
+UID:http://hg.gatech.edu/node/638393#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nLunch and Learn Speaker Series Fall 2020 Speake
+ r:\nChip White\nProfessor\nGeorgia Tech\, School of ISYE\n\nAbstract:\n> A
+ dditional details posted closer to event\n\nBio:\n> Additional details pos
+ ted closer to event\n\nLinks:\n[0]  http://hg.gatech.edu/node/638393#0
+LOCATION:Virtual Event - Details forthcoming
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tuesday Night Worship
@@ -27610,6 +27241,21 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Sunday Morni
 LOCATION:Tech Wesley
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Ecommerce Waterfall: Insights on Supply Chains in a Post-COVID
+  World
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201109T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201109T180000Z
+UID:http://hg.gatech.edu/node/638394#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nLunch and Learn Speaker Series Fall 2020 Speake
+ r:\nAlan Amling\nCEO\, Former VP of Corporate Strategy\, and\nFormer VP of
+  Marketing for UPS Global Logistics & Distribution\nThrive and Advance\, L
+ LC\; UPS\;\nExecutive Advisory Board Member of GTMI\n\nAbstract:\n> Additi
+ onal details posted closer to event\n\nBio:\n> Additional details posted c
+ loser to event\n\nLinks:\n[0]  http://hg.gatech.edu/node/638394#0
+LOCATION:Virtual Event - Details forthcoming
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BPU Meeting 
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201113T001500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201113T023000Z
@@ -27631,6 +27277,18 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Sunday Morni
  for up-to-date information (online vs. in-person\, speakers\, etc.).\n\nLi
  nks:\n[0]  https://gatech.campuslabs.com/engage/event/6158620
 LOCATION:Tech Wesley
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Network Enabled Manufacturing and Supply Chain
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201116T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201116T180000Z
+UID:http://hg.gatech.edu/node/638395#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nLunch and Learn Speaker Series Fall 2020 Speake
+ r:\nAl Salour\nTechnical Fellow\nBoeing\n\nAbstract:\n> Additional details
+  posted closer to event\n\nBio:\n> Additional details posted closer to eve
+ nt\n\nLinks:\n[0]  http://hg.gatech.edu/node/638395#0
+LOCATION:Virtual Event - Details forthcoming
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BPU Meeting 
