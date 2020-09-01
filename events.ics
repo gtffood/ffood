@@ -2,21 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Fall Into Dance
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190831T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190901T030000Z
-UID:https://gatech.campuslabs.com/engage/event/4825179
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nIt's a new school year\
- , and we can't think of a better way to kick off the new year than with a 
- social dance! We will be teaching a beginner-friendly lesson on foxtrot\, 
- cha-cha\, and rumba from 7 - 8:45 pm\, and general dancing will follow rig
- ht after and last until 11 pm. No partner or dance experience is necessary
- \; we just want you to come out and have fun! This social dance is FREE\, 
- and we'll be providing free snacks and drinks as well. Hope to see you the
- re!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/4825179
-LOCATION:Student Center Ballroom
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Alpha Chi Sigma Rush
 DTSTART;VALUE=DATE:20190903
 DTEND;VALUE=DATE:20190904
