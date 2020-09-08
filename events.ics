@@ -2,69 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Dhol Baje | Garba 2019
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190907T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190908T030000Z
-UID:https://gatech.campuslabs.com/engage/event/4854244
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nIndia Club at Georgia T
- ech Presents Dhol Baje | Garba 2019!\nDates: September 7th // September 21
- st\nTime: 6:00 PM - 11:00 PM\nLocation: Student Center Ballroom\nTicketing
-  Site: tickets.gtindiaclub.com/garba [1]\n-------------------------\nEvent
-  Details\n-------------------------\nIf you want to celebrate a night of f
- estivities\, dance and delicious Indian food\, come out to India Club at G
- eorgia Tech's annual Garba!\n\nTimeline: Garba/Raas (6:45) // Bollywood (1
- 0:00)\n\n- Garba and Bollywood dancing\n- Indian Dinner for ALL attendees\
- n- Limited Dandiyas will be available for purchase\n\nWe have two garbas t
- his year in order to accommodate everybody! The first one is on Saturday\,
-  September 7th and the second one is on Saturday\, September 21st. We offe
- r both Single Event Tickets (for one Garba) and Double Event Packages (for
-  both the Garba events).\n\nLinks:\n[0]  https://gatech.campuslabs.com/eng
- age/event/4854244\n[1]  http://tickets.gtindiaclub.com/garba?fbclid=IwAR1z
- 492H4lDtYYwHKDZDtxP1uHeEz0_-S-amxzV3vlAICq5cV6r_Kw2qwuw
-LOCATION:SC Ballroom 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:India Club Dhol Baje | Garba 2019
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190907T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190908T030000Z
-UID:http://hg.gatech.edu/node/625522#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nStatus: published\n\nPurchase tickets at [1]\n\
- nIf you want to celebrate a night of festivities\, dance and delicious Ind
- ian food\, come out to India Club at Georgia Tech's annual Garba!\n\nTimel
- ine:\n\n6:45 p.m. — Garba/Raas\n\n10 p.m. — Bollywood\n\nIndian Dinner
-  for ALL attendees\n\nLimited Dandiyas will be available for purchase\n\nW
- e have two garbas this year in order to accommodate everybody!\n\nThe firs
- t one is on Saturday\, September 7th and the second one is on Saturday\, S
- eptember 21st. We offer both Single Event Tickets (for one Garba) and Doub
- le Event Packages (for both the Garba events).\n\nLinks:\n[0]  http://hg.g
- atech.edu/node/625522#0\n[1]  http://tickets.gtindiaclub.com/garba
-LOCATION:Student Center Ballroom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pancake Breakfast
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190908T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190908T183000Z
-UID:https://gatech.campuslabs.com/engage/event/4604167
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome join us for fellow
- ship and free pancakes following the 11:30 am mass!\n\nLinks:\n[0]  https:
- //gatech.campuslabs.com/engage/event/4604167
-LOCATION:The Catholic Center at Georgia Tech
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wreck Camp Reunion Games Trial
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190908T190000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190908T210000Z
-UID:http://hg.gatech.edu/node/623980#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nCome join us for the Wreck Camp r
- eunion games! We will re-enact some of the games from the Wreck Camp Games
-  and socializing on Tech Green! Come to re-connect with your Wreck Camp fr
- iends and counselors!\n\nLinks:\n[0]  http://hg.gatech.edu/node/623980#0\n
- [1]  https://transitionprograms.gatech.edu/content/wreck-camp-0
-LOCATION:Tech Green
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Georgia Tech Supply Chain and Logistics Institute Celebrates the 5
  0th Anniversary of the Project Management Institute
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190909T160000Z
@@ -25658,6 +25595,26 @@ DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us Tu
 LOCATION:Tech Wesley
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Socially-Distanced Donation Sorting with Atlanta Mission
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200917T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200917T191500Z
+UID:https://gatech.campuslabs.com/engage/event/6401115
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin Grand Challenges i
+ n serving Atlantans experiencing homelessness Thursday\, September 17th 1-
+ 3PM by assisting staff at Atlanta Mission in sorting donated goods.\n\nTra
+ nsportation to ATL Mission's nearby administrative office will be reimburs
+ ed or provided for interested volunteers. We will be carpooling in a sanit
+ ized staff vehicle or traveling via Ubers. More information will be provid
+ ed to registered volunteers in the days before the event via email!\n\nVol
+ unteers must RSVP on Engage\, as well as create a volunteer profile and re
+ gister to serve at https://atlantamission.volunteerhub.com/event/index/118
+ 42935. Volunteers will be asked to wear gloves\, masks\, and maintain six 
+ feet of distance between themselves and other volunteers at all time. Any 
+ students\, staff\, or alumni interested in serving are welcome!\n\nLinks:\
+ n[0]  https://gatech.campuslabs.com/engage/event/6401115
+LOCATION:Atlanta Mission Administrative Building
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BPU Meeting 
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200917T231500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200918T013000Z
@@ -25909,6 +25866,30 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  [25]  http://www.presentmomentliving.ca/\n[26]  http://thereleaseapp.com/\
  n[27]  https://www.bolttosuccess.com
 LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Socially-Distanced Meal and Cooler Packing with OpenHand Atlanta
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200925T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200925T194500Z
+UID:https://gatech.campuslabs.com/engage/event/6401175
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin Grand Challenges S
+ eptember 25 in packing meals with Open Hand Atlanta\, a nonprofit providin
+ g packaged meals and snacks to Atlantans who may not be able to access foo
+ d otherwise.\n\nVolunteers will put meals & snacks into bags to get them r
+ eady for meal delivery\, assist with cleaning and organizing the kitchen\,
+  and may pack boxes or take inventory a packing area!\n\nTransportation wi
+ ll be provided via reimbursed Ubers. Volunteers should plan to meet at Bri
+ tain Rec. by 12:15PM so that we can travel as a group. Grand Challenges wi
+ ll provide dinner nearby for any students interested in a group dinner aft
+ er our volunteer shift.\n\nVolunteers must RSVP below and sign up with Ope
+ n Hand online: https://openhandatlanta.volunteerhub.com/event/index/123812
+ 92 before the shift to serve with our group. You will be prompted to creat
+ e a profile if you have not served with Open Hand Atlanta before.\n\nVolun
+ teers will be asked to wear a mask and gloves\, and maintain 6 feet of dis
+ tance between themselves and other volunteers at all times.\n\nPlease dire
+ ct any and all questions to mreddic3@gatech.edu!\n\nLinks:\n[0]  https://g
+ atech.campuslabs.com/engage/event/6401175
+LOCATION:OpenHand Atlanta\, Main Campus
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sunday Morning Worship
