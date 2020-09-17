@@ -2,691 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Sundae Night
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190916T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190916T030000Z
-UID:https://gatech.campuslabs.com/engage/event/4604160
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome join us for a nigh
- t of fellowship and free Sundaes after the 9pm mass!\n\nLinks:\n[0]  https
- ://gatech.campuslabs.com/engage/event/4604160
-LOCATION:The Catholic Center at Georgia Tech
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2019 Hispanic Heritage Month Kickoff
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190916T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190916T170000Z
-UID:http://hg.gatech.edu/node/624375#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\, Freebies\nStatus: 
- published\n\nHispanic Heritage Month (HHM) events at Georgia Tech celebrat
- e and recognize the economic\, scientific\, cultural\, and social contribu
- tions of Latinos in the United States. OHI advises a student committee to 
- coordinate efforts with several Hispanic/Latino student organizations in o
- rganizing the Hispanic Heritage Month celebration from mid-September to mi
- d-October.\n\nCelebrating Hispanic culture and endeavors\, the HHM Kickoff
-  offers live music and food\, while guests network and learn more about Hi
- spanic and Latino student organizations.\n\nLinks:\n[0]  http://hg.gatech.
- edu/node/624375#0\n[1]  http://hispanicoffice.gatech.edu\n[2]  https://his
- panicoffice.gatech.edu/HispanicHeritageMonthLecture
-LOCATION:Student Center Ballroom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Capital One Day in the Lobby
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190916T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190916T200000Z
-UID:http://hg.gatech.edu/node/626022#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nDay in the Lobby\nJoin
-  engineers and recruiters from Mastercard in the College of Computing Comm
- ons from 11am-4pm to network and learn about their open roles!\n\nTechnolo
- gy Development Program\nWe recruit for three technical roles within our Te
- chnology Internship Program:\n\nSoftware Engineer\n\n- Chart the digital f
- rontier in one of our Mobile (Native)\, Web\, or API developments\n\n- Dev
- elop your skills in a variety of languages and frameworks including: Java/
- Spring\,JavaScript\, AngularJS\, Python\, Serverless\, Kubernetes\, Go\, K
- otlin and Swift in the cloud and on devices\n\nData Engineer\n\n- Build ou
- t our analytic capabilities using modern data technologies\n\n- Deploy rob
- ust data products and services\, as well as enable rich visualization\, da
- ta exploratory\, and machine learning capabilities\n\n- Use open-source te
- chnologies (Serverless\, Kubernetes\, Hadoop/MapReduce\, Spark\, Kafka\, G
- o\, Python\, NoSQL databases\, etc.) and deploy applications in the cloud 
- (AWS\, GCP\, Azure)\n\nCyber Security Engineer\n\n- Support cyber security
-  monitoring and response capabilities to thwart attacks on Capital One\n\n
- - Develop your skills in a variety of areas including security operations\
- , penetration testing\, malware analysis and building and supporting emerg
- ing security solutions emerging security solutions to protect and empower 
- the Capital One workforce\n\nWe recruit for three technical roles within o
- ur Technology Development Program:\n\nSoftware Engineer\n\n- Chart the dig
- ital frontier in one of our Mobile (Native)\, Web\, or API developments\n\
- n- Develop your skills in a variety of languages and frameworks including:
-  Java/Spring\,JavaScript\, AngularJS\, Python\, Serverless\, Kubernetes\, 
- Go\, Kotlin and Swift in the cloud and on devices\n\nData Engineer\n\n- Bu
- ild out our analytic capabilities using modern data technologies\n\n- Depl
- oy robust data products and services\, as well as enable rich visualizatio
- n\, data exploratory\, and machine learning capabilities\n\n- Use open-sou
- rce technologies (Serverless\, Kubernetes\, Hadoop/MapReduce\, Spark\, Kaf
- ka\, Go\, Python\, NoSQL databases\, etc.) and deploy applications in the 
- cloud (AWS\, GCP\, Azure)\n\nCyber Security Engineer\n\n- Support cyber se
- curity monitoring and response capabilities to thwart attacks on Capital O
- ne\n\n- Develop your skills in a variety of areas including security opera
- tions\, penetration testing\, malware analysis and building and supporting
-  emerging security solutions emerging security solutions to protect and em
- power the Capital One workforce\n\nAbout Capital One\nAt Capital One\, we 
- consider ourselves the bank a technology company would build. We’re deli
- vering best-in-class innovation so that our 65 million customers - and cou
- nting - can manage their finances with ease. Our reality and vision empowe
- r our engineers to use artificial intelligence and machine learning to tra
- nsform real-time data\, software\, and algorithms into financial clarity. 
- That’s what sets us apart - and we want you to join our journey.\n\nWe
- ’re all-in on the cloud and are a leader in the adoption of open source\
- , RESTful APIs\, microservices\, and containers. We build our own products
-  and release them with a speed and agility that allows us to get new custo
- mer experiences to market quickly.\n\nLinks:\n[0]  http://hg.gatech.edu/no
- de/626022#0
-LOCATION:11am-4pm CCB commons
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Planning Meeting: Georgia Tech's Response to the DOE Quantum EFRC 
- Call
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190916T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190916T183000Z
-UID:http://hg.gatech.edu/node/625973#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nRSVP for this event [1]\nPlease join us for a p
- lanning meeting on the anticipated fall release of the DOE Energy Frontier
-  Research Center (EFRC) call. These grants are up to $5 million a year for
-  5-year centers\, and one of the anticipated call areas is quantum energy.
-  Georgia Tech currently has one EFRC led by Krista Walton in ChBE.\n\nThe 
- purpose of this meeting is to describe an EFRC and how it differs from oth
- er centers\, and identify potential proposal focus areas. Rich Simmons of 
- the Strategic Energy Institute and EPICenter\, Alexa Harter of the Georgia
-  Tech Research Institute\, and Julia Kubanek of the School of Biological S
- ciences\, will discuss the anticipated call and current federal and quantu
- m center landscapes\, followed by a brainstorming session. We'll provide r
- efreshments.\n\nAgenda (subject to revision)\n\n1:00 p.m. - Welcome and in
- troductions\n\n1:10 p.m. - What are Energy Frontier Research Centers?\n\nR
- ich Simmons\, SEI Senior Research Engineer and EPICenter Director\n\n1:20 
- p.m. - Current federal landscape surrounding EFRCs and quantum\n\nRich Sim
- mons\, SEI Senior Research Engineer and EPICenter Director\n\n1:30 p.m. - 
- Current landscape regarding quantum centers\n\nAlexa Harter\, Director\, C
- ybersecurity\, Information Protection\, and Hardware Evaluation Research (
- CIPHER) Laboratory\, Georgia Tech Research Institute\n\nJulia Kubanek\, Pr
- ofessor & Associate Dean CoS\, School of Biological Sciences\n\nRich Simmo
- ns\, SEI Senior Research Engineer and EPICenter Director\n\n1:40 p.m. - Br
- ainstorm possible Georgia Tech responses the EFRC call\n\n2:20 p.m.- Next 
- steps\n\nHosted by: The Strategic Energy Institute\, Georgia Tech Research
-  Institute\, College of Sciences\, and the Institute for Materials\n\nLink
- s:\n[0]  http://hg.gatech.edu/node/625973#0\n[1]  https://www.eventbrite.c
- om/e/planning-meeting-georgia-techs-response-to-the-doe-quantum-efrc-call-
- registration-72133736949
-LOCATION:Georgia Tech Student Center\, 350 Ferst Drive Northwest Room 301 
- Atlanta\, GA 30313
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Science.Art.Wonder Info Session
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190916T203000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190916T213000Z
-UID:http://hg.gatech.edu/node/625718#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nThis is our info session where we will be going over
-  what Science.Art.Wonder is and our general timeline. This is a great oppo
- rtunity to learn more about the club and ask questions. There will be pizz
- a!\n\nLinks:\n[0]  http://hg.gatech.edu/node/625718#0\n[1]  https://www.fa
- cebook.com/events/2399787603681137/
-LOCATION:Cypress Room\, Student Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GameNight - CarbonSim
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190916T203000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190916T233000Z
-UID:http://hg.gatech.edu/node/625413#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nExtras: Free food\nStatus: published\n\nStudent
- s & Faculty can try their hand managing a firm's energy portfolio using th
- e CarbonSim software. Students must register ahead of time - link below. W
- inning teams will receive prizes! Pizza served.\n\nLinks:\n[0]  http://hg.
- gatech.edu/node/625413#0
-LOCATION:Room B5\, Boggs Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stretch out the Stress
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190916T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190916T233000Z
-UID:http://hg.gatech.edu/node/625715#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free Food\nStatus: published\n\nSKY at Georgia Tech invites you t
- o discover Yoga!\n\nIn this amazing session\, we will discover yoga beyond
-  just physical exercise. We will unravel how Yoga is a way to unite the mi
- nd\, body and spirit through a combination of asanas (yogic stretches)\, b
- reathing exercises and meditation. We explore how Yoga helps us develop "S
- kill in Action" and reduce stress\, anxiety and depression leading us to a
-  relaxed\, productive and joyful state of mind.We will be serving refreshm
- ents as well.\n\nSKY at Georgia Tech invites you to discover Yoga!\n\nIn t
- his amazing session\, we will discover yoga beyond just physical exercise.
-  We will unravel how Yoga is a way to unite the mind\, body and spirit thr
- ough a combination of asanas (yogic stretches)\, breathing exercises and m
- editation. We explore how Yoga helps us develop "Skill in Action" and redu
- ce stress\, anxiety and depression leading us to a relaxed\, productive an
- d joyful state of mind.\n\nWe will be serving refreshments as well.\n\nLin
- ks:\n[0]  http://hg.gatech.edu/node/625715#0\n[1]  https://gatech.campusla
- bs.com/engage/event/4810781\n[2]  https://gatech.campuslabs.com/engage/org
- anization/sky\n[3]  https://www.facebook.com/skyatgt
-LOCATION:Room 319\, Student Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Capital One Technology Development Program Overview and Demo
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190916T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190917T000000Z
-UID:http://hg.gatech.edu/node/626023#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nCome learn about the T
- echnology Development Program at Capital One. Current TDP Associates will 
- be on campus to talk through Life at Capital One and share demos on the pr
- ojects that they have been working on across their rotational programs.\n\
- nTechnology Development Program\nWe recruit for three technical roles with
- in our Technology Internship Program:\n\nSoftware Engineer\n\n- Chart the 
- digital frontier in one of our Mobile (Native)\, Web\, or API developments
- \n\n- Develop your skills in a variety of languages and frameworks includi
- ng: Java/Spring\,JavaScript\, AngularJS\, Python\, Serverless\, Kubernetes
- \, Go\, Kotlin and Swift in the cloud and on devices\n\nData Engineer\n\n-
-  Build out our analytic capabilities using modern data technologies\n\n- D
- eploy robust data products and services\, as well as enable rich visualiza
- tion\, data exploratory\, and machine learning capabilities\n\n- Use open-
- source technologies (Serverless\, Kubernetes\, Hadoop/MapReduce\, Spark\, 
- Kafka\, Go\, Python\, NoSQL databases\, etc.) and deploy applications in t
- he cloud (AWS\, GCP\, Azure)\n\nCyber Security Engineer\n\n- Support cyber
-  security monitoring and response capabilities to thwart attacks on Capita
- l One\n\n- Develop your skills in a variety of areas including security op
- erations\, penetration testing\, malware analysis and building and support
- ing emerging security solutions emerging security solutions to protect and
-  empower the Capital One workforce\n\nWe recruit for three technical roles
-  within our Technology Development Program:\n\nSoftware Engineer\n\n- Char
- t the digital frontier in one of our Mobile (Native)\, Web\, or API develo
- pments\n\n- Develop your skills in a variety of languages and frameworks i
- ncluding: Java/Spring\,JavaScript\, AngularJS\, Python\, Serverless\, Kube
- rnetes\, Go\, Kotlin and Swift in the cloud and on devices\n\nData Enginee
- r\n\n- Build out our analytic capabilities using modern data technologies\
- n\n- Deploy robust data products and services\, as well as enable rich vis
- ualization\, data exploratory\, and machine learning capabilities\n\n- Use
-  open-source technologies (Serverless\, Kubernetes\, Hadoop/MapReduce\, Sp
- ark\, Kafka\, Go\, Python\, NoSQL databases\, etc.) and deploy application
- s in the cloud (AWS\, GCP\, Azure)\n\nCyber Security Engineer\n\n- Support
-  cyber security monitoring and response capabilities to thwart attacks on 
- Capital One\n\n- Develop your skills in a variety of areas including secur
- ity operations\, penetration testing\, malware analysis and building and s
- upporting emerging security solutions emerging security solutions to prote
- ct and empower the Capital One workforce\n\nAbout Capital One\nAt Capital 
- One\, we consider ourselves the bank a technology company would build. We
- ’re delivering best-in-class innovation so that our 65 million customers
-  - and counting - can manage their finances with ease. Our reality and vis
- ion empower our engineers to use artificial intelligence and machine learn
- ing to transform real-time data\, software\, and algorithms into financial
-  clarity. That’s what sets us apart - and we want you to join our journe
- y.\n\nWe’re all-in on the cloud and are a leader in the adoption of open
-  source\, RESTful APIs\, microservices\, and containers. We build our own 
- products and release them with a speed and agility that allows us to get n
- ew customer experiences to market quickly.\n\nLinks:\n[0]  http://hg.gatec
- h.edu/node/626023#0
-LOCATION:6:30pm\, Klaus 1116EW
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2nd Meeting of Fall 2019 - Undergraduate Research
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190917T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190917T160000Z
-UID:http://hg.gatech.edu/node/626239#0
-DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free Food\n
- Status: published\n\nHey everyone! The Student Affiliates of the American 
- Chemical Society (SAACS) is the primary campus organization for students w
- ith a passion for chemistry. SAACS focuses on building the professional sk
- ills of our members\, engaging in outreach events\, and creating a communi
- ty for students that love chemistry. We welcome students from all majors\,
-  as long as you like chemistry! At our second meeting\, we will have a pre
- sentation on getting involved in undergraduate research\, pick our first g
- uest for the popular "Dinner with a Professor" event\, and give prizes to 
- the winners from last week's Jeopardy game! Come by to meet friends\, eat 
- pizza\, and learn about undergraduate research! Please RSVP so that we can
-  ensure that we have enough pizza for everyone. Feel free to reach out to 
- me at v.amitej@gatech.edu or to Yifan Liang at yliang92@gatech.edu if you 
- have any questions!\n\nFacebook group: https://www.facebook.com/groups/220
- 0944686/\n\nWebsite: saacs.gtorg.gatech.edu\n\nLinks:\n[0]  http://hg.gate
- ch.edu/node/626239#0\n[1]  https://gatech.campuslabs.com/engage/event/4934
- 902\n[2]  https://www.facebook.com/groups/2200944686/
-LOCATION:Whitaker 1214
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Biomicrofluidic Seminar Series
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190917T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190917T160000Z
-UID:http://hg.gatech.edu/node/625922#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \nStatus: draft\n\nShuichi Takayama\, Ph.D\nProfessor\nGRA Eminent Scholar
- \nPrice Gilbert\, Jr. Chair in Regenerative Engineering and Medicine\nGeor
- gia Tech/Emory University\n\nMicrofluidics & International Research Collab
- orations\n\nThis seminars-plus-lunch program aims to catalyze scientific a
- nd cultural exchange between Georgia Tech students and 12 visiting undergr
- ads from Japan. It will also provide GaTech students a brief preview of a 
- planned international exchange program for summer 2020 and beyond. My pres
- entation will start with description of an interesting microfluidic phenom
- enon and its application to microfluidic sperm sorting used for in vitro f
- ertilization. This was an international industry-academia collaboration th
- at led to an FDA-cleared medical device that is used clinically.\n\nThe pr
- esentation will also describe a computer-controlled microfluidic pumping t
- echnology that was developed by an undergraduate student\, then applied to
-  biomedical needs such as microfluidic embryo culture\, another device tha
- t has been tested clinically. A final microfluidic topic will be efforts\,
-  including work by Ga Tech Undergrads\, to construct microscale intestine 
- models with human intestinal organoids and a microbiome.\nThe presentation
-  will also give a short preview of two components of the planned exchange 
- program:\n\n(i) Mentoring opportunity for GRADUATE STUDENTS to host a Japa
- nese Undergrad Researcher for ~5 weeks in Aug/Sept 2020. Mentors will be i
- nvited to cultural exchange programs and also receive $3000 to be used for
-  travel to scientific conferences or materials and supplies for the lab.\n
- \n(ii) Another component is an opportunity for Georgia Tech BME UNDERGRADS
-  to do a fully-sponsored Global Internship Program (GIP) in Japan in summe
- r 2020 (mid May - July) doing research at leading Japanese Universities.\n
- \nAnna Liu\nPh.D. Candidate The Wallace H Coulter Department of Biomedical
-  Engineering\nGeorgia Tech\n\nUltrafast Microfluidic Cell Compression for 
- Convective Intracellular Macromolecule Delivery\n\nEfficient intracellular
-  delivery of target macromolecules remains a major obstacle in cell engine
- ering\, cell labeling\, and other biomedical applications. Our lab has dis
- covered the unique cell biophysical phenomenon of convective intracellular
-  macromolecule delivery using mechanically induced\, transient cell volume
-  exchange. Ultrafast microfluidic cell compressions are used to cause brie
- f\, deformation­induced cell volume loss followed by volume recovery thro
- ugh uptake of surrounding fluid. Macromolecules suspended in the surroundi
- ng fluid enter the cell on convective fluid currents. We harness this cell
-  volume exchange behavior for high-throughput\, convective intracellular d
- elivery of large macromolecules\, including plasmids (>10 kb) and particle
- s (>30 nm)\, while maintaining high cell viability (>95%). Successful expe
- riments in transfection and intracellular labeling demonstrate potential t
- o overcome the most prohibitive challenges in intracellular delivery for c
- ell engineering.\n\nJenni Li\nUndergraduate Researcher\nGeorgia Tech\n\nIn
- vestigating Health Effects of Aerosol Particles on Single-cells in a High-
- throughput Air-liquid Interface Platform\n\nAir pollution and its detrimen
- tal health effects have been an increasingly alarming concern for the worl
- d. Cardiovascular diseases\, chronic respiratory diseases\, and different 
- types of cancers can all be linked to air pollution effects. Furthermore\,
-  over 4 million people die per year from the direct effects of ambient par
- ticulate matter. One conventional method for studying the health effects o
- f aerosol particles is to collect particulate matter (PM) from the atmosph
- ere\, resuspend the PM in cell culture media\, add the PM/media to cell cu
- ltures\, and assess single cell oxidative stress. However\, this method do
- es not resemble the in vivo conditions of alveolar macrophages. Alveolar m
- acrophages are found in the alveoli of the lungs where the oxygen and carb
- on dioxide exchange between blood and air takes place and are a key cell t
- ype that is affected by PM. In this project\, we aim to create a microflui
- dic air-liquid interface environment that mimics how alveolar macrophages 
- are exposed to PM in order to study effects of PM at a single-cell level. 
- Utilizing a microfluidic platform provides uniform microenvironment and en
- ables high-throughput and high content single-cell analysis for hundreds o
- f cells. We adapted a previously developed microfluidic single-cell analys
- is technology and developed a method for exposing cells to an air-liquid i
- nterface. We then characterized cells by microscopy and LIVE/DEAD staining
-  to assess if cells remain viable during air exposure. Following this vali
- dation of the air-liquid interface platform\, we will use it to study the 
- single cell responses of intracellular reactive oxygen species in exposure
-  to aerosol particles.\n\nLinks:\n[0]  http://hg.gatech.edu/node/625922#0\
- n[1]  https://forms.gle/dy3nd2xpfrql5dmb
-LOCATION:Krone Engineered Biosystems Building\, Room 1005 - Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:General Lunch Meeting - Astra Group 
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190917T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190917T160000Z
-UID:https://gatech.campuslabs.com/engage/event/4935859
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nCelebratin
- g our 25th anniversary this year\, Astra Group\, Inc.\, is a leader in the
-  Southeast in the delivery of general contracting and job order contractin
- g to private\, commercial\, government and municipal entities. We operate 
- from our headquarters in Woodstock with other offices in Atlanta and Savan
- nah\, Georgia\, and Tampa\, Florida\, and employ more than 160 people with
-  revenues of more than $100 million. We are comprised of three divisions 
- – Astra Group\, Inc.\, Astra Grading and Pipe\, LLC\, and Astra Construc
- tion Services\, LLC.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/
- event/4935859
-LOCATION:Mason Building - room 1133
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Micro-Physiological System Seminar Series
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190917T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190917T160000Z
-UID:http://hg.gatech.edu/node/625784#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nThis seminars-plus-lunch program aims to cataly
- ze scientific and cultural exchange between Georgia Tech students and 12 v
- isiting undergrads from Japan.\n\nDr. Takayami will talk about microfluidi
- cs and international research collaboration. Ph.D. candidate Anna Liu will
-  speak on "Ultrafast microfluidic cell compression for convective intracel
- lular macromolecule delivery. Undergraduate researcher Jenni Li will speak
-  on "Investigating health effects of aerosol particles on single-cells in 
- a high-throughput air-liquid interface platform."\n\nTo RSVP for this semi
- nar\, please visit [1]. It may also be viewed on BlueJeans at [2].\n\nSee 
- the attached flyer for more details.\n\nLinks:\n[0]  http://hg.gatech.edu/
- node/625784#0\n[1]  https://forms.gle/Dy3ND2XpFRqL5DmbA\n[2]  https://blue
- jeans.com/947188326
-LOCATION:Krone EBB\, 1st Floor CHOA Conference Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mass Cytometry Seminar
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190917T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190917T170000Z
-UID:http://hg.gatech.edu/node/625234#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \nStatus: published\n\nSchedule:\n11:00–12:00 pm Seminar\n12:00 pm Lunch
-  will be served\n12:00–1:00 pm Step-right-up Q&A Table\nBring your quest
- ions and project ideas for the new Fluidigm Helios CyTOF Instrument\n\nGet
- ting Started with Mass Cytometry (CyTOF®)\nPresented by Azucena Gomez-Cab
- rero\, Ph.D.\nField Application Scientist\, Fluidigm Mass Cytometry\n\nHig
- h-dimensional single-cell analysis has become critical to basic and clinic
- al research. In traditional flow cytometry\, the spectral overlap between 
- fluorophores requires complicated data compensation and limits the number 
- of markers measured\, thus creating speed\, labor and reproducibility bott
- lenecks. Mass Cytometry overcomes these limitations by utilizing antibodie
- s labelled with rare earth metals. 2019 has been the most active year yet 
- in the mass cytometry community with over 200 publications to date. CyTOF
- ® technology has also been adopted by multiple consortia and in more than
-  40 clinical trials.\nThe Helios™\, a CyTOF® system permits the analysi
- s of 37+ unique targets on a per-cell basis enabling unparalleled insight 
- into the phenotype and function of cell populations from normal and diseas
- ed states in a single tube. Additionally\, barcoding for Mass Cytometry al
- lows combining up to 20 samples in one tube for increased efficiency and t
- o eliminate sample to sample variation.\nIn this seminar\, we will describ
- e the workflow for the Helios™ system\, how to get started with your own
-  mass cytometry experiments\, and the resources that are available to you 
- to ensure your success.\n\nQuantitative Single Cell Dissection of Tumor Mi
- croenvironments with Mass Cytometry Analysis\nPresented by Deon B. Doxie\,
-  Ph.D.\nWinship Cancer Institute\, Emory University\n\nLinks:\n[0]  http:/
- /hg.gatech.edu/node/625234#0
-LOCATION:Petit Biotechnology Building\, Room 1128 - Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Micro-Physiological System Seminar Series—Microfluidic and Inter
- national Research Collaboration
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190917T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190917T170000Z
-UID:http://hg.gatech.edu/node/625815#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nMicro-Physiological System Seminar Series—Microfluidic and Internation
- al Research Collaboration\nMicrofluidics & International Research Collabor
- ations --Shuichi Takayama\nThis seminars-plus-lunch program aims to cataly
- ze scientific and cultural exchange between Georgia Tech students and 12 v
- isiting undergrads from Japan. It will also provide GaTech students a brie
- f preview of a planned international exchange program for summer 2020 and 
- beyond. My presentation will start with description of an interesting micr
- ofluidic phenomenon and its application to microfluidic sperm sorting used
-  for in vitro fertilization. This was an international industry-academia c
- ollaboration that led to an FDA-cleared medical device that is used clinic
- ally. The presentation will also describe a computer-controlled microfluid
- ic pumping technology that was developed by an undergraduate student\, the
- n applied to biomedical needs such as microfluidic embryo culture\, anothe
- r device that has been tested clinically. A final microfluidic topic will 
- be efforts\, including work by Ga Tech Undergrads\, to construct microscal
- e intestine models with human intestinal organoids and a microbiome.\n\nTh
- e presentation will also give a short preview of two components of the pla
- nned exchange program:\n(i) Mentoring opportunity for GRADUATE STUDENTS to
-  host a Japanese Undergrad Researcher for ~5 weeks in Aug/Sept 2020. Mento
- rs will be invited to cultural exchange programs and also receive $3000 to
-  be used for travel to scientific conferences or materials and supplies fo
- r the lab.\n(ii) Another component is an opportunity for Georgia Tech BME 
- UNDERGRADS to do a fully-sponsored Global Internship Program\n(GIP) in Jap
- an in summer 2020 (mid May - July) doing research at leading Japanese Univ
- ersities.\n\nUltrafast microfluidic cell compression for convective intrac
- ellular macromolecule delivery--Anna Liu\nEfficient intracellular delivery
-  of target macromolecules remains a major obstacle in cell engineering\, c
- ell labeling\, and other biomedical applications. Our lab has discovered t
- he unique cell biophysical phenomenon of convective intracellular macromol
- ecule delivery using mechanically induced\, transient cell volume exchange
- . Ultrafast microfluidic cell compressions are used to cause brief\, defor
- mation­induced cell volume loss followed by volume recovery through uptak
- e of surrounding fluid. Macromolecules suspended in the surrounding fluid 
- enter the cell on convective fluid currents. We harness this cell volume e
- xchange behavior for high-throughput\, convective intracellular delivery o
- f large macromolecules\, including plasmids (>10 kb) and particles (>30 nm
- )\, while maintaining high cell viability (>95%). Successful experiments i
- n transfection and intracellular labeling demonstrate potential to overcom
- e the most prohibitive challenges in intracellular delivery for cell engin
- eering.\n\nInvestigating health effects of aerosol particles on single-cel
- ls in a high-throughput air-liquid interface platform --Jenni Li\nAir poll
- ution and its detrimental health effects have been an increasingly alarmin
- g concern for the world. Cardiovascular diseases\, chronic respiratory dis
- eases\, and different types of cancers can all be linked to air pollution 
- effects. Furthermore\, over 4 million people die per year from the direct 
- effects of ambient particulate matter. One conventional method for studyin
- g the health effects of aerosol particles is to collect particulate matter
-  (PM) from the atmosphere\, resuspend the PM in cell culture media\, add t
- he PM/media to cell cultures\, and assess single cell oxidative stress. Ho
- wever\, this method does not resemble the in vivo conditions of alveolar m
- acrophages. Alveolar macrophages are found in the alveoli of the lungs whe
- re the oxygen and carbon dioxide exchange between blood and air takes plac
- e and are a key cell type that is affected by PM. In this project\, we aim
-  to create a microfluidic air-liquid interface environment that mimics how
-  alveolar macrophages are exposed to PM in order to study effects of PM at
-  a single-cell level. Utilizing a microfluidic platform provides uniform m
- icroenvironment and enables high-throughput and high content single-cell a
- nalysis for hundreds of cells. We adapted a previously developed microflui
- dic single-cell analysis technology and developed a method for exposing ce
- lls to an air-liquid interface. We then characterized cells by microscopy 
- and LIVE/DEAD staining to assess if cells remain viable during air exposur
- e. Following this validation of the air-liquid interface platform\, we wil
- l use it to study the single cell responses of intracellular reactive oxyg
- en species in exposure to aerosol particles.\n\nPlease RSVP at: [1]\n\nBlu
- eJeans session: [2]\n\nLinks:\n[0]  http://hg.gatech.edu/node/625815#0\n[1
- ]  https://forms.gle/Dy3ND2XpFRqL5DmbA\n[2]  https://bluejeans.com/9471883
- 26
-LOCATION:Krone Building | CHOA Conference Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Research Administration Buzz
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190917T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190917T170000Z
-UID:http://hg.gatech.edu/node/622478#0
-DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\nStatus: p
- ublished\n\nThe Research Administration Buzz is a town hall meeting where 
- those who provide research administrative support discuss current topics\,
-  including changes that may impact how we do business and updates from fed
- eral sponsor agencies. If you are unable to attend in person\, you may sig
- n up for the online version at the link below. FACULTY/STAFF ONLY\n\nLunch
-  will be provided to those who register for the in-person session\, courte
- sy of the Office of the Executive Vice President for Research!\n\nAttendee
- s should register through the Research Education Learning Management Porta
- l [1]. (IMPORTANT: Be sure to click the blue "LOGIN" button to ensure that
-  your class completion will be properly logged in your GT records). Log on
-  to the learning management portal\, then under "Search for Classes"\, cli
- ck "Classes by Title" or "Classes by Date". Click on the class name you wi
- sh to attend to view its information. Then click on the date to register.\
- n\nFor more information\, contact OSP Training at training@osp.gatech.edu 
- [2]\n\nLinks:\n[0]  http://hg.gatech.edu/node/622478#0\n[1]  https://train
- ing.osp.gatech.edu/\n[2]  training@osp.gatech.edu\n[3]  http://osp.gatech.
- edu\n[4]  https://lists.gatech.edu/sympa/info/rab\n[5]  https://training.o
- sp.gatech.edu\n[6]  https://www.google.com/maps/place/505+10th+St+NW\,+Atl
- anta\,+GA+30318/@33.781898\,-84.403862\,17z/data=!3m1!4b1!4m2!3m1!1s0x88f5
- 04f3294718c1:0x49aff93cd81e1e0
-LOCATION:Research Administration Building - Seminar Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chick-fil-A Day in the Lobby
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190917T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190917T200000Z
-UID:http://hg.gatech.edu/node/626025#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nDay in the Lobby\nJoin
-  engineers and recruiters from Chick-fil-A in the College of Computing Com
- mons from 11am-4pm to network and learn about their open roles!\n\nLinks:\
- n[0]  http://hg.gatech.edu/node/626025#0
-LOCATION:11am-4pm CCB commons
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Intelligent Transportation Society Monthly Technical Session
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190917T154500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190917T164500Z
-UID:http://hg.gatech.edu/node/626184#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nThe Georgia Tech student chapter 
- of the Intelligent Transportation Society is having a technical session on
-  Tuesday- September 17\, 2019\, in Physics Howey Building Room: S106.\n\nB
- rief introduction about the speaker: Natalie Smusz- Mengelkoch works at Ki
- mley Horn and she graduated from the University of Texas at Austin. She be
- gan her career at Kimley Horn as an intern in 2000. She has a diverse back
- ground with TSMO/ITS engineering and planning- having led projects within 
- all implementation phases from programming\, planning\, and preliminary en
- gineering to design\, integration\, and operations. She would be talking a
- bout the career path in the transportation industry\, and an overview of h
- ow an ITS project gets planned\, programmed\, designed\, deployed and oper
- ated with an example of ARC TSMO project. Join us for an engaging technica
- l session!\n\nFREE LUNCH PROVIDED\n\nLinks:\n[0]  http://hg.gatech.edu/nod
- e/626184#0
-LOCATION:Room S106\, Howey Physics Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Implicit Bias Workshop
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190917T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190917T173000Z
-UID:http://hg.gatech.edu/node/623187#0
-DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nInstitu
- te Diversity\, in collaboration with the Office of the Vice Provost for Gr
- aduate Education and Faculty Development and Georgia Tech’s ADVANCE Prog
- ram\, is offering four 90-minute Implicit Bias Workshops for faculty this 
- fall on August 29\, September 6\, September 17\, and September 27. All fac
- ulty who serve on reappointment\, promotion\, and/or tenure committees and
-  faculty search committees are required to participate in an Implicit Bias
-  Workshop pursuant to Provost Bras’ memo in October 2016 to academic lea
- ders. However\, all instructional and research faculty are welcomed to att
- end as space permits.\n\nThe goals of these workshops are to increase awar
- eness of the impact of implicit bias and facilitate equitable decision-mak
- ing across myriad processes related to faculty evaluations. As a participa
- nt in the workshop\, you will learn the following:\n\n• An introduction 
- to the concept of implicit bias and how these unconscious\, automatic ment
- al processes may impact behaviors such as evaluating candidates during fac
- ulty search and/or RPT processes.\n\n• Empirical research on vitaes\, le
- tters of recommendations\, and teaching evaluations to illustrate the impa
- ct of implicit bias on decisions.\n\n• Effective practices and strategie
- s for faculty search and RPT committees.\n\nThese workshops will be facili
- tated by Julie Ancis\, associate vice president\, Institute Diversity\; Pa
- ul Benkeser\, senior associate chair and professor\, Wallace H. Coulter De
- partment of Biomedical Engineering\; Harris Dimitropoulos\, associate prof
- essor\, School of Architecture\; Robert Kirkman\, associate professor\, Sc
- hool of Public Policy\; Mark Mitchell\, associate director\, Georgia Tech 
- Research Institute\; and/or Michelle Rinehart\, associate dean for academi
- c affairs and outreach\, College of Design.\n\nTo register for one of the 
- workshops\, visit [1]. Lunch will be provided.\n\nLinks:\n[0]  http://hg.g
- atech.edu/node/623187#0\n[1]  http://www.advance.gatech.edu/implicit-bias-
- workshops
-LOCATION:Student Center: Room 321
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:New Women Faculty and Staff Welcome
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190917T190000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190917T210000Z
-UID:http://hg.gatech.edu/node/624049#0
-DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\nStatus: p
- ublished\n\nJoin the Women’s Resource Center\, Women in Engineering\, an
- d the Center for Women\, Science\, and Technology as we welcome new women 
- faculty and staff to Georgia Tech! Light refreshments will be served.\n\nL
- inks:\n[0]  http://hg.gatech.edu/node/624049#0
-LOCATION:Student Center - Peachtree Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Women’s Programs Annual Reception 
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190917T190000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190917T210000Z
-UID:https://gatech.campuslabs.com/engage/event/4928264
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nWelcoming new women fac
- ulty and staff and celebrating student leaders and women’s programs. Co-
- sponsored by Women in Engineering\, Women’s Resource Center\, and the Ce
- nter for the Study of Women\, Science\, and Technology\, Institute Diversi
- ty. Peachtree Room\, Student Center. Refreshments served. Open to GT commu
- nity.\n\nBy 9/10/19\, RSVP [1]\n\nLinks:\n[0]  https://gatech.campuslabs.c
- om/engage/event/4928264\n[1]  https://forms.coe.gatech.edu/content/annual-
- womens-programs-reception
-LOCATION:Peachtree Room\, Student Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Society of Women Engineers General Body Meeting
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190917T211500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190917T230000Z
-UID:http://hg.gatech.edu/node/624549#2
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nCome out to our general body meeting every Tues
- day from 5:15 to 7 PM in Smithgall Student Services (Flag Building) Room 1
- 17.\n\n5:15-5:45 PM Free dinner and social time with our members and offic
- ers\n\n5:45-6 PM: Announcements and Upcoming Events Reminders\n\n6-7 PM: S
- ocial Hour or Company Sponsored Event (Please check our weekly newletter f
- or the upcoming company or activity of the week!)\n\nIf you have any quest
- ions\, please feel free to email our President\, Toral Kadakia\, at swepre
- sident@gmail.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/624549#2\n[
- 1]  swepresident@gmail.com\n[2]  https://www.facebook.com/GeorgiaTechSWE/
-LOCATION:Room 117\, Smithgall Student Services (Flag) Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Career Services Workshop: Career Fair Prep
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190917T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190917T233000Z
-UID:http://hg.gatech.edu/node/623965#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: published\n\nIt’s that time of the year
- ! Learn how to network with recruiters and hiring managers. Polish your el
- evate pitch and enter the fair with confidence. Obtain the best strategies
-  for navigating the career floor and capturing the attention of your favor
- ite companies.\n\nRSVP Here [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/
- 623965#0\n[1]  https://gatech.co1.qualtrics.com/jfe/form/SV_6hwvlJeupusKYJ
- L
-LOCATION:Klaus 1116E
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Energy Chat | Cree Wolfspeed
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190917T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190917T233000Z
-UID:http://hg.gatech.edu/node/625968#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nExtras: Free food\nStatus: published\n\nHosted 
- by the Energy Club\n\nAdam Barkley\, Solutions Architect in the Power Elec
- tronics Systems R&D team at Wolfspeed\, will be presenting an overview of 
- recent advances in Silicon Carbide (SiC) MOSFET power semiconductor device
- s and packaging technology. The talk will provide a short introduction to 
- Wolfspeed\, some history of the evolution of SiC power devices over the la
- st 20+ years\, and insight into how this wide bandgap technology is enabli
- ng many of today’s power electronics applications ranging from renewable
-  energy to electric vehicles. Several of the key electrical characteristic
- s of the SiC MOSFET will be reviewed and compared to competing Silicon pow
- er semiconductor devices. Significant focus will be placed on the system-l
- evel benefits achievable when utilizing this technology\; generally some c
- ombination of improved energy efficiency\, smaller size\, and lighter weig
- ht. Next\, several medium voltage (3.3kV to 10kV) MOSFET devices will be p
- resented which promise some radical new possibilities in the grid-connecte
- d power electronics and renewable energy spaces. Finally\, Adam will discu
- ss the Cree | Wolfspeed internship program and encourage participation in 
- the Career Fair. Questions and interactivity are highly encouraged through
- out the talk.\n\nLinks:\n[0]  http://hg.gatech.edu/node/625968#0\n[1]  htt
- p://www.energyclub.gatech.edu/
-LOCATION:Room 332\, Student Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Capital One Technical Mock Interview Prep Workshop
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190917T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190918T000000Z
-UID:http://hg.gatech.edu/node/626027#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nCapital One will be on
-  campus to help students prep for Tech Case Interviews! Please join Capita
- l One Associates for a prep session where they will walk through an exampl
- e of a case and the best way to approach a case interview!\n\nLinks:\n[0] 
-  http://hg.gatech.edu/node/626027#0
-LOCATION:6:30pm\, Klaus 1447.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chick-fil-A Presentation & Intern Panel: Work Full of Life
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190917T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190918T000000Z
-UID:http://hg.gatech.edu/node/626026#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nJoin representatives f
- rom Chick-fil-A as they discuss Chick-fil-A values and culture! Current an
- d former IT interns will be present to share about their projects\, too!\n
- \nLinks:\n[0]  http://hg.gatech.edu/node/626026#0
-LOCATION:6:30pm\, CCB 16
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Workshop - Material Informatics 101: Data Science Literacy
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190918T120000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20190918T210000Z
@@ -24280,6 +23595,32 @@ DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us Tu
 LOCATION:Tech Wesley
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SAA Alumni Connections Committee Meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200917T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200917T160000Z
+UID:http://hg.gatech.edu/node/639168#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nThis committee is made up of students who are Dinner
+  Jackets facilitators and Expert Jackets and IMPACT Meet & Greet event lea
+ ds. Anyone is welcome to join the committee\, and all new members will be 
+ trained on skills like writing a professional email\, communicating with a
+ lumni and GT faculty members\, and event planning. As a member of this com
+ mittee\, you will have the opportunity to:\n\n* Serve as a Dinner Jackets 
+ student facilitator.\n* Communicate with alumni as dinner plans are made -
+  letting alumni know who is coming\, special needs\, and answer questions.
+ \n* Communicate plans to student attendees - letting students know alumni 
+ backgrounds\, directions\, organize transportation\, and answer questions.
+ \n* Act as the student host at events - assist alumni onsite\, make introd
+ uctions\, and keep conversation flowing.\n* Help plan and execute all logi
+ stics associated with the events.\n* Find alumni at the top of their field
+  who would be popular for Expert Jackets or Dinner Jackets.\n\nPlease emai
+ l the committee chairs at expertjackets@gtsaa.com [1] if you would like mo
+ re information!\n\nLinks:\n[0]  http://hg.gatech.edu/node/639168#0\n[1]  e
+ xpertjackets@gtsaa.com\n[2]  https://bluejeans.com/611690607?src=calendarL
+ ink\n[3]  https://bluejeans.com/611690607?src=calendarLink\;
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Socially-Distanced Donation Sorting with Atlanta Mission
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200917T163000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200917T191500Z
@@ -24409,6 +23750,33 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Student Center and SCPC Presents: Fall Flicks!
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200918T224500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200919T020000Z
+UID:http://hg.gatech.edu/node/639149#0
+DESCRIPTION:Status: published\n\nThe Student Center and SCPC Presents Fall
+  Flicks\, an outdoor movie series\, featuring free showings of campus sele
+ cted movies. Join us on Friday\, September 18 at Stamps Field for a FREE s
+ howing of Onward.\n\nSafety is our number one priority\, so we will be enf
+ orcing social distancing rules and all attendees will be required to wear 
+ a mask. In order to make sure all attendees are sitting the appropriate di
+ stance\, blankets will be set out on the field before the start of the eve
+ nt. Upon arrival\, students will select the blanket that they would like t
+ o sit on\, so you are encouraged to arrive early to pick your seat. At the
+  end of the night\, the blanket is your to take with you for future outdoo
+ r movies.\n\nThe Student Center recommends sitting on a blanket by yoursel
+ f. However\, if you have a roommate or other friend that you have been in 
+ close contact with and are comfortable sitting with\, please reserve an ad
+ ditional ticket and indicate the name of your guest. Your guest must be a 
+ GA Tech student and will be required to present their student ID. Family m
+ embers and non-GT students will not be permitted in the venue. The name yo
+ u enter and the name on their BuzzCard must match. Up to 2 students will b
+ e able to sit on the same blanket.\n\nIf you have any questions or need ac
+ commodations\, please email president@scpc.gatech.edu.\n\nLinks:\n[0]  htt
+ p://hg.gatech.edu/node/639149#0
+LOCATION:Stamps Field
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sunday Morning Worship
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200920T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200920T153000Z
@@ -24442,6 +23810,32 @@ DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us Tu
  ck channel for up-to-date information (online vs. in-person\, speakers\, e
  tc.).\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6158600
 LOCATION:Tech Wesley
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SAA Alumni Connections Committee Meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200924T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200924T160000Z
+UID:http://hg.gatech.edu/node/639168#1
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nThis committee is made up of students who are Dinner
+  Jackets facilitators and Expert Jackets and IMPACT Meet & Greet event lea
+ ds. Anyone is welcome to join the committee\, and all new members will be 
+ trained on skills like writing a professional email\, communicating with a
+ lumni and GT faculty members\, and event planning. As a member of this com
+ mittee\, you will have the opportunity to:\n\n* Serve as a Dinner Jackets 
+ student facilitator.\n* Communicate with alumni as dinner plans are made -
+  letting alumni know who is coming\, special needs\, and answer questions.
+ \n* Communicate plans to student attendees - letting students know alumni 
+ backgrounds\, directions\, organize transportation\, and answer questions.
+ \n* Act as the student host at events - assist alumni onsite\, make introd
+ uctions\, and keep conversation flowing.\n* Help plan and execute all logi
+ stics associated with the events.\n* Find alumni at the top of their field
+  who would be popular for Expert Jackets or Dinner Jackets.\n\nPlease emai
+ l the committee chairs at expertjackets@gtsaa.com [1] if you would like mo
+ re information!\n\nLinks:\n[0]  http://hg.gatech.edu/node/639168#1\n[1]  e
+ xpertjackets@gtsaa.com\n[2]  https://bluejeans.com/611690607?src=calendarL
+ ink\n[3]  https://bluejeans.com/611690607?src=calendarLink\;
+LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BPU Meeting 
@@ -24612,6 +24006,32 @@ DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us Tu
 LOCATION:Tech Wesley
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SAA Alumni Connections Committee Meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201001T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201001T160000Z
+UID:http://hg.gatech.edu/node/639168#2
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nThis committee is made up of students who are Dinner
+  Jackets facilitators and Expert Jackets and IMPACT Meet & Greet event lea
+ ds. Anyone is welcome to join the committee\, and all new members will be 
+ trained on skills like writing a professional email\, communicating with a
+ lumni and GT faculty members\, and event planning. As a member of this com
+ mittee\, you will have the opportunity to:\n\n* Serve as a Dinner Jackets 
+ student facilitator.\n* Communicate with alumni as dinner plans are made -
+  letting alumni know who is coming\, special needs\, and answer questions.
+ \n* Communicate plans to student attendees - letting students know alumni 
+ backgrounds\, directions\, organize transportation\, and answer questions.
+ \n* Act as the student host at events - assist alumni onsite\, make introd
+ uctions\, and keep conversation flowing.\n* Help plan and execute all logi
+ stics associated with the events.\n* Find alumni at the top of their field
+  who would be popular for Expert Jackets or Dinner Jackets.\n\nPlease emai
+ l the committee chairs at expertjackets@gtsaa.com [1] if you would like mo
+ re information!\n\nLinks:\n[0]  http://hg.gatech.edu/node/639168#2\n[1]  e
+ xpertjackets@gtsaa.com\n[2]  https://bluejeans.com/611690607?src=calendarL
+ ink\n[3]  https://bluejeans.com/611690607?src=calendarLink\;
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Career Services Workshop: Interviewing- Avoid Being a Scary Candid
  ate
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201001T223000Z
@@ -24773,6 +24193,32 @@ DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us Tu
  ck channel for up-to-date information (online vs. in-person\, speakers\, e
  tc.).\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6158602
 LOCATION:Tech Wesley
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SAA Alumni Connections Committee Meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201008T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201008T160000Z
+UID:http://hg.gatech.edu/node/639168#3
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nThis committee is made up of students who are Dinner
+  Jackets facilitators and Expert Jackets and IMPACT Meet & Greet event lea
+ ds. Anyone is welcome to join the committee\, and all new members will be 
+ trained on skills like writing a professional email\, communicating with a
+ lumni and GT faculty members\, and event planning. As a member of this com
+ mittee\, you will have the opportunity to:\n\n* Serve as a Dinner Jackets 
+ student facilitator.\n* Communicate with alumni as dinner plans are made -
+  letting alumni know who is coming\, special needs\, and answer questions.
+ \n* Communicate plans to student attendees - letting students know alumni 
+ backgrounds\, directions\, organize transportation\, and answer questions.
+ \n* Act as the student host at events - assist alumni onsite\, make introd
+ uctions\, and keep conversation flowing.\n* Help plan and execute all logi
+ stics associated with the events.\n* Find alumni at the top of their field
+  who would be popular for Expert Jackets or Dinner Jackets.\n\nPlease emai
+ l the committee chairs at expertjackets@gtsaa.com [1] if you would like mo
+ re information!\n\nLinks:\n[0]  http://hg.gatech.edu/node/639168#3\n[1]  e
+ xpertjackets@gtsaa.com\n[2]  https://bluejeans.com/611690607?src=calendarL
+ ink\n[3]  https://bluejeans.com/611690607?src=calendarLink\;
+LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Where There's a Krill\, There's a Way!
@@ -24969,6 +24415,32 @@ DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us Tu
 LOCATION:Tech Wesley
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SAA Alumni Connections Committee Meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201015T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201015T160000Z
+UID:http://hg.gatech.edu/node/639168#4
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nThis committee is made up of students who are Dinner
+  Jackets facilitators and Expert Jackets and IMPACT Meet & Greet event lea
+ ds. Anyone is welcome to join the committee\, and all new members will be 
+ trained on skills like writing a professional email\, communicating with a
+ lumni and GT faculty members\, and event planning. As a member of this com
+ mittee\, you will have the opportunity to:\n\n* Serve as a Dinner Jackets 
+ student facilitator.\n* Communicate with alumni as dinner plans are made -
+  letting alumni know who is coming\, special needs\, and answer questions.
+ \n* Communicate plans to student attendees - letting students know alumni 
+ backgrounds\, directions\, organize transportation\, and answer questions.
+ \n* Act as the student host at events - assist alumni onsite\, make introd
+ uctions\, and keep conversation flowing.\n* Help plan and execute all logi
+ stics associated with the events.\n* Find alumni at the top of their field
+  who would be popular for Expert Jackets or Dinner Jackets.\n\nPlease emai
+ l the committee chairs at expertjackets@gtsaa.com [1] if you would like mo
+ re information!\n\nLinks:\n[0]  http://hg.gatech.edu/node/639168#4\n[1]  e
+ xpertjackets@gtsaa.com\n[2]  https://bluejeans.com/611690607?src=calendarL
+ ink\n[3]  https://bluejeans.com/611690607?src=calendarLink\;
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BPU Meeting 
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201015T231500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201016T013000Z
@@ -25113,6 +24585,32 @@ DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us Tu
 LOCATION:Tech Wesley
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SAA Alumni Connections Committee Meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201022T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201022T160000Z
+UID:http://hg.gatech.edu/node/639168#5
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nThis committee is made up of students who are Dinner
+  Jackets facilitators and Expert Jackets and IMPACT Meet & Greet event lea
+ ds. Anyone is welcome to join the committee\, and all new members will be 
+ trained on skills like writing a professional email\, communicating with a
+ lumni and GT faculty members\, and event planning. As a member of this com
+ mittee\, you will have the opportunity to:\n\n* Serve as a Dinner Jackets 
+ student facilitator.\n* Communicate with alumni as dinner plans are made -
+  letting alumni know who is coming\, special needs\, and answer questions.
+ \n* Communicate plans to student attendees - letting students know alumni 
+ backgrounds\, directions\, organize transportation\, and answer questions.
+ \n* Act as the student host at events - assist alumni onsite\, make introd
+ uctions\, and keep conversation flowing.\n* Help plan and execute all logi
+ stics associated with the events.\n* Find alumni at the top of their field
+  who would be popular for Expert Jackets or Dinner Jackets.\n\nPlease emai
+ l the committee chairs at expertjackets@gtsaa.com [1] if you would like mo
+ re information!\n\nLinks:\n[0]  http://hg.gatech.edu/node/639168#5\n[1]  e
+ xpertjackets@gtsaa.com\n[2]  https://bluejeans.com/611690607?src=calendarL
+ ink\n[3]  https://bluejeans.com/611690607?src=calendarLink\;
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Teaching with Technology
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201022T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201022T161500Z
@@ -25240,6 +24738,44 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Georgia Tech's CEISMC STEAM Workshops - October Sessions
+DTSTART;VALUE=DATE:20201024
+DTEND;VALUE=DATE:20201025
+UID:http://hg.gatech.edu/node/639155#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\nStatus: published\n
+ \nGeorgia Tech's CEISMC STEAM (Science\, Technology\, Engineering\, Art\, 
+ and Math) Workshops are workshops for students in 6th through 12th grade. 
+ STEAM Workshops encourages students to study and pursue a career in the ST
+ EAM fields by exposing them to many different science and engineering topi
+ cs and technology. Students participate in various hands-on activities tha
+ t promote creativity\, problem-solving\, and teamwork in 6th through 12th-
+ grade students during each session. STEAM Workshops will be held online.\n
+ \nSaturday October 24\, 2020\nOption 1: 11:45AM – 1:15PM\nOption 2: 1:30
+ PM – 3:00PM\n\nApp & Game Development\nGrades: 6th - 8th\nCost: $20\nIs 
+ your student interested in creating mobile apps and games? This fun-filled
+  week for students teaches the basics of App/Game creation for a variety o
+ f mobile (iOS and Android) and computer platforms (Mac\, Windows\, Linux) 
+ using the free visual development environment Construct 3.\n\nScary Circui
+ ts\nGrades: 6th - 8th\nCost: $20\nGet into the Halloween “spirit” by c
+ reating these fun light-up paper circuits. These projects are not only fun
+  but educational. Participants will learn how to create different kinds of
+  conductive circuits using copper tape\, LEDs\, and a coin cell battery.\n
+ \nNeuroscience: The Brain\nGrades: 6th - 8th\nCost: $20\nExplore the myste
+ ries of the brain through neuroscience. Participants will learn you will l
+ earn the different parts of the brain and what they do for you every singl
+ e day.\n\nSaturday\, October 24\, 2020\n12:00PM – 3:00PM\n\n3D Model Fut
+ ure Design\nGrade: 9th - 12th Grade\nCost: $40\nTurn the light on with 3D 
+ modeling. In this project\, attendees will design a desktop lamp\, attach 
+ a canvas of the lampshade profile\, create a parametric solid model of the
+  lampshade and stem\, create a sculpted free form body of the stand\, asse
+ mble the lamp\, create orthographic drawings\, and export an STL file of a
+  component for production on a 3D printer.\n\nLearn more and Register here
+  [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/639155#0\n[1]  https://ceis
+ mc.gatech.edu/studentprograms/steamworkshop\n[2]  https://ceismc.gatech.ed
+ u\n[3]  https://ceismc.gatech.edu/studentprograms/steamworkshops
+LOCATION:Virtual - Online Program
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sunday Morning Worship
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201025T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201025T153000Z
@@ -25273,6 +24809,32 @@ DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us Tu
  ck channel for up-to-date information (online vs. in-person\, speakers\, e
  tc.).\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6158605
 LOCATION:Tech Wesley
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SAA Alumni Connections Committee Meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201029T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201029T160000Z
+UID:http://hg.gatech.edu/node/639168#6
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nThis committee is made up of students who are Dinner
+  Jackets facilitators and Expert Jackets and IMPACT Meet & Greet event lea
+ ds. Anyone is welcome to join the committee\, and all new members will be 
+ trained on skills like writing a professional email\, communicating with a
+ lumni and GT faculty members\, and event planning. As a member of this com
+ mittee\, you will have the opportunity to:\n\n* Serve as a Dinner Jackets 
+ student facilitator.\n* Communicate with alumni as dinner plans are made -
+  letting alumni know who is coming\, special needs\, and answer questions.
+ \n* Communicate plans to student attendees - letting students know alumni 
+ backgrounds\, directions\, organize transportation\, and answer questions.
+ \n* Act as the student host at events - assist alumni onsite\, make introd
+ uctions\, and keep conversation flowing.\n* Help plan and execute all logi
+ stics associated with the events.\n* Find alumni at the top of their field
+  who would be popular for Expert Jackets or Dinner Jackets.\n\nPlease emai
+ l the committee chairs at expertjackets@gtsaa.com [1] if you would like mo
+ re information!\n\nLinks:\n[0]  http://hg.gatech.edu/node/639168#6\n[1]  e
+ xpertjackets@gtsaa.com\n[2]  https://bluejeans.com/611690607?src=calendarL
+ ink\n[3]  https://bluejeans.com/611690607?src=calendarLink\;
+LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BPU Meeting 
@@ -25479,6 +25041,32 @@ LOCATION:Parker H. Petit Institute for Bioengineering and Bioscience\, Atr
  ium
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SAA Alumni Connections Committee Meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201105T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201105T170000Z
+UID:http://hg.gatech.edu/node/639168#7
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nThis committee is made up of students who are Dinner
+  Jackets facilitators and Expert Jackets and IMPACT Meet & Greet event lea
+ ds. Anyone is welcome to join the committee\, and all new members will be 
+ trained on skills like writing a professional email\, communicating with a
+ lumni and GT faculty members\, and event planning. As a member of this com
+ mittee\, you will have the opportunity to:\n\n* Serve as a Dinner Jackets 
+ student facilitator.\n* Communicate with alumni as dinner plans are made -
+  letting alumni know who is coming\, special needs\, and answer questions.
+ \n* Communicate plans to student attendees - letting students know alumni 
+ backgrounds\, directions\, organize transportation\, and answer questions.
+ \n* Act as the student host at events - assist alumni onsite\, make introd
+ uctions\, and keep conversation flowing.\n* Help plan and execute all logi
+ stics associated with the events.\n* Find alumni at the top of their field
+  who would be popular for Expert Jackets or Dinner Jackets.\n\nPlease emai
+ l the committee chairs at expertjackets@gtsaa.com [1] if you would like mo
+ re information!\n\nLinks:\n[0]  http://hg.gatech.edu/node/639168#7\n[1]  e
+ xpertjackets@gtsaa.com\n[2]  https://bluejeans.com/611690607?src=calendarL
+ ink\n[3]  https://bluejeans.com/611690607?src=calendarLink\;
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BPU Meeting 
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201106T001500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201106T023000Z
@@ -25614,6 +25202,32 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Virtual Event - Details forthcoming
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SAA Alumni Connections Committee Meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201112T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201112T170000Z
+UID:http://hg.gatech.edu/node/639168#8
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nThis committee is made up of students who are Dinner
+  Jackets facilitators and Expert Jackets and IMPACT Meet & Greet event lea
+ ds. Anyone is welcome to join the committee\, and all new members will be 
+ trained on skills like writing a professional email\, communicating with a
+ lumni and GT faculty members\, and event planning. As a member of this com
+ mittee\, you will have the opportunity to:\n\n* Serve as a Dinner Jackets 
+ student facilitator.\n* Communicate with alumni as dinner plans are made -
+  letting alumni know who is coming\, special needs\, and answer questions.
+ \n* Communicate plans to student attendees - letting students know alumni 
+ backgrounds\, directions\, organize transportation\, and answer questions.
+ \n* Act as the student host at events - assist alumni onsite\, make introd
+ uctions\, and keep conversation flowing.\n* Help plan and execute all logi
+ stics associated with the events.\n* Find alumni at the top of their field
+  who would be popular for Expert Jackets or Dinner Jackets.\n\nPlease emai
+ l the committee chairs at expertjackets@gtsaa.com [1] if you would like mo
+ re information!\n\nLinks:\n[0]  http://hg.gatech.edu/node/639168#8\n[1]  e
+ xpertjackets@gtsaa.com\n[2]  https://bluejeans.com/611690607?src=calendarL
+ ink\n[3]  https://bluejeans.com/611690607?src=calendarLink\;
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BPU Meeting 
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201113T001500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201113T023000Z
@@ -25744,6 +25358,32 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
   posted closer to event\n\nBio:\n> Additional details posted closer to eve
  nt\n\nLinks:\n[0]  http://hg.gatech.edu/node/638395#0
 LOCATION:Virtual Event - Details forthcoming
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SAA Alumni Connections Committee Meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201119T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201119T170000Z
+UID:http://hg.gatech.edu/node/639168#9
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nThis committee is made up of students who are Dinner
+  Jackets facilitators and Expert Jackets and IMPACT Meet & Greet event lea
+ ds. Anyone is welcome to join the committee\, and all new members will be 
+ trained on skills like writing a professional email\, communicating with a
+ lumni and GT faculty members\, and event planning. As a member of this com
+ mittee\, you will have the opportunity to:\n\n* Serve as a Dinner Jackets 
+ student facilitator.\n* Communicate with alumni as dinner plans are made -
+  letting alumni know who is coming\, special needs\, and answer questions.
+ \n* Communicate plans to student attendees - letting students know alumni 
+ backgrounds\, directions\, organize transportation\, and answer questions.
+ \n* Act as the student host at events - assist alumni onsite\, make introd
+ uctions\, and keep conversation flowing.\n* Help plan and execute all logi
+ stics associated with the events.\n* Find alumni at the top of their field
+  who would be popular for Expert Jackets or Dinner Jackets.\n\nPlease emai
+ l the committee chairs at expertjackets@gtsaa.com [1] if you would like mo
+ re information!\n\nLinks:\n[0]  http://hg.gatech.edu/node/639168#9\n[1]  e
+ xpertjackets@gtsaa.com\n[2]  https://bluejeans.com/611690607?src=calendarL
+ ink\n[3]  https://bluejeans.com/611690607?src=calendarLink\;
+LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BPU Meeting 
