@@ -2,103 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Dhol Baje | Garba 2019 
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190921T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190922T030000Z
-UID:https://gatech.campuslabs.com/engage/event/4878010
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nIndia Club at Georgia T
- ech Presents Dhol Baje | Garba 2019!\nDates: September 7th // September 21
- st\nTime: 6:00 PM - 11:00 PM\nLocation: Student Center Ballroom\nTicketing
-  Site: tickets.gtindiaclub.com/garba [1]\n-------------------------\nEvent
-  Details\n-------------------------\nIf you want to celebrate a night of f
- estivities\, dance and delicious Indian food\, come out to India Club at G
- eorgia Tech's annual Garba!\n\nTimeline: Garba/Raas (6:45) // Bollywood (1
- 0:00)\n\n- Garba and Bollywood dancing\n- Indian Dinner for ALL attendees\
- n- Limited Dandiyas will be available for purchase\n\nWe have two garbas t
- his year in order to accommodate everybody! The first one is on Saturday\,
-  September 7th and the second one is on Saturday\, September 21st. We offe
- r both Single Event Tickets (for one Garba) and Double Event Packages (for
-  both the Garba events).\n\nLinks:\n[0]  https://gatech.campuslabs.com/eng
- age/event/4878010\n[1]  http://tickets.gtindiaclub.com/garba?fbclid=IwAR1z
- 492H4lDtYYwHKDZDtxP1uHeEz0_-S-amxzV3vlAICq5cV6r_Kw2qwuw
-LOCATION:SC Ballroom 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:India Club Dhol Baje | Garba 2019
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190921T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190922T030000Z
-UID:http://hg.gatech.edu/node/626237#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nStatus: published\n\nPurchase tickets at [1]\n\
- nIf you want to celebrate a night of festivities\, dance and delicious Ind
- ian food\, come out to India Club at Georgia Tech's annual Garba!\n\nTimel
- ine:\n\n6:45 p.m. — Garba/Raas\n\n10 p.m. — Bollywood\n\nIndian Dinner
-  for ALL attendees\n\nLimited Dandiyas will be available for purchase\n\nW
- e have two garbas this year in order to accommodate everybody!\n\nThe firs
- t one is on Saturday\, September 7th and the second one is on Saturday\, S
- eptember 21st. We offer both Single Event Tickets (for one Garba) and Doub
- le Event Packages (for both the Garba events).\n\nLinks:\n[0]  http://hg.g
- atech.edu/node/626237#0\n[1]  http://tickets.gtindiaclub.com/garba
-LOCATION:Student Center Ballroom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SKY Happiness Retreat
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190922T133000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190922T190000Z
-UID:https://gatech.campuslabs.com/engage/event/4883232
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nSKY at Georgia Tech bri
- ngs to you\, its signature workshop\, SKY Happiness Retreat! We envision a
-  stress-free community where people can be happy and smiling irrespective 
- of the circumstances around them.\n\nStress can come in any forms - deadli
- nes at work\, straining relationships\, work-life balance or just traffic!
-  Yesplus brings to you a dynamic workshop which combines ancient yoga and 
- breathing techniques with life-skills building activities and games that a
- re designed to reduce stress\, increase efficiency and enhance creativity.
-  SKY Happiness Retreat is a ~20-hour immersive self-development retreat wh
- ich has been conducted on more than 40 US university campuses including MI
- T\, Purdue and Harvard.\n\nSKY Happiness Retreat introduces the Sudarshan 
- Kriya Yoga technique\, a scientifically validated breathing practice that 
- significantly increases one's well-being and calmness and reduces anxiety 
- and depression. Students all across the country have reported overcoming n
- egative patterns\, increasing self-esteem\, better relationships and a sen
- se of responsibility for themselves and the society. The retreat also cons
- ists of essential life skills such as teamwork\, leadership\, time-managem
- ent\, relationships\, etc.\n\nSo jump into a stress-free life\, right now!
- \n\nSpecial discounts for bringing along friends!\n\nDates-\nSept 21 - 23\
- , 2019\n\nTime-\n9:30 a.m. - 3:00 p.m. (Sat-Sun\, Sept 21-22)\n6.30 p.m. -
-  9.30 p.m. (Monday\, Sept 23)\n\nRegistration ( tinyurl.com/skyatgt [1] )\
- n\nContact -\nyesplusgt@gmail.com\n\nLinks:\n[0]  https://gatech.campuslab
- s.com/engage/event/4883232\n[1]  https://gatech.campuslabs.com/engage/subm
- itter/organization/sky/eventsubmission/tinyurl.com/skyatgt
-LOCATION:North Ave Apartments (Centennial Room)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:National Hazing Prevention Week: Crossing The Line Workshop
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190922T140000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190922T180000Z
-UID:https://gatech.campuslabs.com/engage/event/4820037
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nExplore the impact of h
- azing culture and challenge your community to break their dangerous tradit
- ions. Facilitated by Fred Hodges the Director of the Office of Multicultur
- al Student Services at Robert Morris University. Our Fraternity and Sorori
- ty Life students will spend 4 hours diving into the culture of hazing and 
- how to work against it. CHapter risk managers and membership education cha
- irs encouraged to come\, all welcomed to attened. Seats are limited to the
-  first 75. Lunch will be provided.\n\nLinks:\n[0]  https://gatech.campusla
- bs.com/engage/event/4820037
-LOCATION:Peachtree Room 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Community Dinner
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190922T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190922T230000Z
-UID:https://gatech.campuslabs.com/engage/event/4604164
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome join us for a nigh
- t of fellowship and a free Community Dinner after the 5pm mass!\n\nLinks:\
- n[0]  https://gatech.campuslabs.com/engage/event/4604164
-LOCATION:The Catholic Center at Georgia Tech
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Meg Sonstroem (OIE) dinner discussion of study abroad & exchange p
  rograms
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20190923T220000Z
@@ -23527,6 +23430,50 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  Additional details posted closer to event\n\nBio:\n> Additional details po
  sted closer to event\n\nLinks:\n[0]  http://hg.gatech.edu/node/638388#0
 LOCATION:Virtual Event - Details forthcoming
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:10/12/20 dinner with Dr. Mary Lynn Realff
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201012T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201012T230000Z
+UID:http://hg.gatech.edu/node/639344#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nOn Monday 10/12/20 Dr. Mary Lynn 
+ Realff will discuss strengths\, resilience\, and thriving. Dr. Realff is A
+ ssociate Professor of Materials Science and Engineering at Georgia Institu
+ te of Technology. She is also Associate Chair for Undergraduate Programs i
+ n the School of Materials Science and Engineering at Georgia Tech\, a Co-D
+ irector of the Center for the Study of Women\, Science and Technology\, an
+ d a Fellow of the Center for Deliberate Innovation.\nWST Learning Communit
+ y residents can pick up meals in Stein before the meeting.\n\nThe meeting 
+ will begin about 5:55pm in Blue Jeans: https://bluejeans.com/999677949\n\n
+ About Dr. Realff:\n\nShe received her BS Textile Engineering from Georgia 
+ Tech and her PhD in Mechanical Engineering and Polymer Science & Engineeri
+ ng from the Massachusetts Institute of Technology (MIT).\n\nHer current re
+ search is focused on Effective Team Dynamics for both undergraduate and gr
+ aduate students. The Effective Team Dynamics Initiative develops curriculu
+ m and workshops that enable students to gain the competencies to work effe
+ ctively in teams and for faculty to gain the competencies to guide student
+ s through challenging team dynamics is making a positive impacts at Georgi
+ a Tech.\n\nAt Georgia Tech\, she also teaches graduate and undergraduate c
+ ourses in the mechanics of textile structures and polymer science areas. D
+ r. Realff has made a significant contribution to the understanding of the 
+ mechanical behavior of woven fabrics. She is continuing her work in modeli
+ ng the mechanical behavior of textile structures utilizing both theoretica
+ l and experimental approaches.\n\nDr. Realff also facilitates a student/in
+ dustry mentoring program which matches industry mentors with Georgia Tech 
+ undergraduate students for 9 month mentoring relationships. The program ha
+ s been shown to increase the retention of students.\n\nDr. Realff is a mem
+ ber of The Fiber Society\, American Association of Textile Colorists and C
+ hemists\, the American Society of Engineering Educators\, and the Society 
+ of Women Engineers. She is currently Fellow and a Governor on the Board of
+  the American Society of Mechanical Engineers.\n\nDr. Realff is a Gallup C
+ ertified Strengths Coach\, on the board of the Center for Puppetry Arts in
+  Atlanta\, GA and volunteers at Inman Middle School (directing the GEMS gi
+ rls’ science club) and at Buckhead Church. She lives in Atlanta with her
+  husband (a professor at Georgia Tech). They have two children: a daughter
+  that lives in Wisconsin and a son who lives in Japan.\n\nLinks:\n[0]  htt
+ p://hg.gatech.edu/node/639344#0
+LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Career Services Workshop: Salary Negotiation
