@@ -2,61 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Fall into Fall
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190928T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190929T020000Z
-UID:http://hg.gatech.edu/node/626592#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nCelebrate the beginnin
- g of fall with fun inflatables\, mini-golf\, and crafts. Experience the th
- rill of our bungee jump and enjoy some free cotton candy!\n\nLinks:\n[0]  
- http://hg.gatech.edu/node/626592#0
-LOCATION:Tech Green
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beauty and the Ballroom
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190928T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190929T030000Z
-UID:http://hg.gatech.edu/node/626235#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free Food\nStatus: published\n
- \nThe Ballroom Dance Club at Georgia Tech is excited to present another ma
- gical social dance on September 28th! Join us for a free waltz and East Co
- ast swing lesson at 7 p.m. and general dancing with your favorite Disney c
- haracters from 8 - 11p.m. No experience or partner is required! Along with
-  fun music and dancing and themed refreshments\, we will also be having a 
- costume contest (with a prize)\, so come dazzling in your best Disney cost
- ume for a chance to win. For more information\, visit our website [2] or c
- heck out our Facebook or Instagram.\n\nPrice:\n\n- Free for social members
- \n- $5 for students\, faculty\, staff\, and their spouses from any school 
- or university\n- $10 for community\n\nWe can't wait to see the magic you b
- ring to the dance floor!\n\nThe Ballroom Dance Club at Georgia Tech is exc
- ited to present another magical social dance on September 28th!\n\nJoin us
-  for a free waltz and East Coast swing lesson at 7pm and general dancing w
- ith your favorite Disney characters from 8-11pm\, no experience or partner
-  required!\n\nAlong with fun music and dancing and themed refreshments\, w
- e will also be having a costume contest (with a prize!)\, so come dazzling
-  in your best Disney costume for a chance to win.\n\nFor more information\
- , visit our website at [3] or check out our Facebook or Instagram.\n------
- --------------------\nPrice:\nFree for social members\n$5 for students\, f
- aculty\, staff and their spouses from any school or university\n$10 for co
- mmunity\n\nWe can't wait to see the magic you bring to the dance floor!\n\
- nLinks:\n[0]  http://hg.gatech.edu/node/626235#0\n[1]  https://gatech.camp
- uslabs.com/engage/event/4934906\n[2]  http://ballroomdance.gtorg.gatech.ed
- u\n[3]  http://ballroomdance.gtorg.gatech.edu/
-LOCATION:Student Center Ballroom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pancake Breakfast
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190929T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190929T173000Z
-UID:https://gatech.campuslabs.com/engage/event/4604168
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome join us for fellow
- ship and free pancakes following the 11:30 am mass!\n\nLinks:\n[0]  https:
- //gatech.campuslabs.com/engage/event/4604168
-LOCATION:The Catholic Center at Georgia Tech
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Clough Commons Art Crawl Submissions Due
 DTSTART;VALUE=DATE:20190930
 DTEND;VALUE=DATE:20191001
@@ -22237,6 +22182,37 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  p://laurieheyl.com\n[24]  https://www.melodycenter.de/en/about-us/#Silke\n
  [25]  http://www.presentmomentliving.ca/\n[26]  http://thereleaseapp.com/\
  n[27]  https://www.bolttosuccess.com
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cooking and Community
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201002T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201003T000000Z
+UID:http://hg.gatech.edu/node/639649#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
+ aduate students\nExtras: Free Food\nStatus: published\n\nEating well toget
+ her is an essential element to the Christian life!\n\nGrab your roomies th
+ is Friday\, Oct. 2nd\, for some great food and discussion (Catholic\, non-
+ Catholic\, doesn't matter) over Zoom for food and fellowship as Fr. Branso
+ n hosts a cooking class. Grab a friend or two as we bake a fantastic home 
+ recipe for chili\, biscuits\, and dirt cake!\n\nNote: you don’t have to 
+ join us for all parts of the meal if you don’t have a kitchen (our desse
+ rt does not require a stove or an oven!!)\n\nDetails and ingredients: gtcc
+ .co/Cooking2020 [2].\nZoom link: gtcc.co/Cooking2020Zoom [3].\n\nEating we
+ ll together is an essential element to the Christian life!\n\nGrab your ro
+ omies this Friday\, October 2nd\, for some great food and discussion (Cath
+ olic/ non-Catholic\, doesn't matter) over Zoom for food and fellowship as 
+ Fr. Branson hosts a cooking class. Grab a friend or two as we bake a fanta
+ stic home recipe for Chili\, Biscuits\, and Dirt Cake!\n\nNote: you don’
+ t have to join us for all parts of the meal if you don’t have a kitchen 
+ (our dessert does not require a stove or an oven!!)\n\nDetails and ingredi
+ ents: gtcc.co/Cooking2020 [2]\nZoom link: gtcc.co/Cooking2020Zoom [3]\n\nL
+ inks:\n[0]  http://hg.gatech.edu/node/639649#0\n[1]  https://gatech.campus
+ labs.com/engage/event/6484938\n[2]  https://gtcatholic.us6.list-manage.com
+ /track/click?u=205d723e4464db28390ad7630&id=7f6a500196&e=3640566b56\n[3]  
+ https://gtcatholic.us6.list-manage.com/track/click?u=205d723e4464db28390ad
+ 7630&id=29fcf5eb2b&e=3640566b56\n[4]  https://gatech.campuslabs.com/engage
+ /organization/cso\n[5]  https://zoom.us/j/93037601874
 LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
