@@ -2,345 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Clough Commons Art Crawl Submissions Due
-DTSTART;VALUE=DATE:20190930
-DTEND;VALUE=DATE:20191001
-UID:http://hg.gatech.edu/node/625887#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nCalling all student artists: submissions for the fal
- l 2019 Clough Commons Art Crawl has been extended through Friday\, Sept. 3
- 0.\n\nThe theme for the fall 2019 exhibition is “ Of the Future.” Arti
- sts should submit works of art that raise awareness or display a unique so
- lution to issues that will affect society. This can include climate contro
- l\, social justice\, evolution of technology\, the economy\, and more.\n\n
- We are accepting submissions from undergraduate and graduate students in t
- he following categories:\n\nDrawings/Paintings\nPhotography\nDigital Art/ 
- Code-based Art\nStructural Art (i.e. sculpture\, architecture\, crafts\, a
- nd textiles)\nLiterary Works (i.e. poetry/prose\, comics\, and short stori
- es)\nFilm/Video (i.e. animation\, short film\, experimental film)\n\nAll c
- urrently enrolled Georgia Tech undergraduate and graduate students are enc
- ouraged to submit work. Each student may submit one piece.\n\nVisual artwo
- rk can be provided in either digital or physical format. Submissions will 
- be reviewed by the Office of the Arts and the Library. If your piece is ap
- proved\, it will be included in the show and on display in the Clough Comm
- ons until early in the spring semester.\n\nThe 2019 fall Art Crawl show wi
- ll open Thursday\, October 24.\n\nFor full information and to submit your 
- work\, visit arts.gatech.edu/cloughartcrawl [1].\n\nThe Clough Art Crawl i
- s coordinated by the Georgia Tech Office of the Arts in partnership with t
- he Georgia Tech Library.\n\nLinks:\n[0]  http://hg.gatech.edu/node/625887#
- 0\n[1]  https://arts.gatech.edu/content/clough-art-crawl-4\n[2]  http://ar
- ts.gatech.edu/cloughartcrawl
-LOCATION:Clough Undergraduate Learning Commons
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VMware Day in the Lobby
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190930T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190930T200000Z
-UID:http://hg.gatech.edu/node/626848#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nJoin engineers and rec
- ruiters from VMware to learn about their open opportunities for Bachelor's
- \, Master's and PhD students!\n\nVMware Product Intern and New Graduate Op
- portunities:\nVMware recognizes that today’s students are tomorrow’s t
- railblazers and we value the opportunity to benefit from your fresh perspe
- ctive. If you thrive in an open\, innovative\, technology-driven culture\,
-  VMware could be the place for you! You will be exposed to a wide range of
-  software platform technologies that are utilized by customers all over th
- e world.\n\nAbout VMware\nVMware is a global leader in cloud infrastructur
- e and business mobility. VMware accelerates customers’ digital transform
- ation journey by enabling enterprises to master a software-defined approac
- h to business and IT. With VMware solutions\, organizations are building e
- xtraordinary experiences by mobilizing everything\, responding faster to o
- pportunities with modern data and apps hosted across hybrid clouds\, and s
- afeguarding customer trust with a defense-in-depth approach to cybersecuri
- ty. At the core of what we do are our people who deeply value execution\, 
- passion\, integrity\, customers\, and community. Do you dare to do the stu
- ff you’ve always dreamed about? Dare to explore at [1].\n\nVMware offers
-  cutting-edge cloud infrastructure and security services to companies of a
- ll shapes and sizes. Our world is all about technology\, and that world is
-  growing because the imagination\, ingenuity and talent of our teams knows
-  no bounds. We believe that creativity sparks innovation and inspires our 
- employees to think of VMware differently and change the world around them.
- \n\nAre you interested in working on one of the below teams?\n\nStorage Ap
- plications\, Networking Security\, Cloud Platform\, Cloud Native\, Cloud M
- anagement Business Unit\, Cloud Foundation\, Office of the CTO\n\nJob Role
-  and Responsibilities:\nAs an Intern or New Graduate at VMware\, you’ll 
- create innovative solutions and solve complex problems. You’ll take owne
- rship of meaningful\, big-picture projects and springboard into an impactf
- ul career. At VMware\, you will become immersed in all aspects of our inno
- vative and collaborative culture\, and ensure you get the full VMware expe
- rience. You’ll interact with industry thought leaders at one of our worl
- d class campuses and enjoy networking\, community service\, and career dev
- elopment events.\n\nRequired Skills:\n• Pursuing Bachelor’s\, Master
- ’s or PhD in Computer Science or equivalent\n\n• Coursework (in some) 
- of the following: Algorithms\, Data Structures\, Storage and\\or Operating
-  Systems\, Computer Architecture\, Machine Learning\, Compilers\, Networki
- ng\, Distributed Systems\, Analytics\, Web Development\n\n• Knowledge in
-  one or more of the programming languages: C\, C++\, Java\, or Go programm
- ing\n\n• Knowledge in Python\, Perl\, shell\, or other scripting languag
- es\n\n• Knowledge in Flex\, HCI\, wireframes\, mockups\n\n• Knowledge 
- in CSS\, HTML\, XML\, Flash\, JavaScript\n\n• School and/or industry pro
- jects involving significant design and development\n\nPreferred Skills:\n
- • Experience developing client-server or distributed\, multithreaded app
- lications\n\n• Experience developing user space and kernel modules\n\n
- • Exposure to SaaS or FaaS\, modeling/optimization techniques\n\n• Pre
- vious internship experience is a plus\n\n• Ability to work independently
- \n\n• Strong teamwork and communication skills\n\n• Knowledge of avail
- ability/fault domains\n\n• Knowledge of ML/heuristics analysis\n\n• Ex
- posure to container technologies - container orchestrators (Kubernetes\, M
- esos\, Docker Swarm Mode) is a plus\n\n• Experience with Cloud based ser
- vices\, Microservices a Cloud Computing class or similar experience\n\n•
-  Knowledge of NoSQL technologies (e.g. Cassandra\, MongoDB\, Redis\, etc.)
-  and/or search-based datastores and libraries (Lucene\, Solr\, etc.\n\n•
-  Willingness to contribute to open source projects is a plus\n\nLinks:\n[0
- ]  http://hg.gatech.edu/node/626848#0\n[1]  http://careers.vmware.com
-LOCATION:11am-4pm\, CCB Commons
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Impact Lunch and Learn with SLS
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190930T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190930T170000Z
-UID:https://gatech.campuslabs.com/engage/event/4966116
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome and join us for ou
- r first Impact Community lunch and learn with the GT Serve-Learn-Sustain o
- ffice. Dr. Ruthie Yow will be joining us for a discussion about involvemen
- t opportunities within SLS\, updates about sustainable practices on campus
- \, as well as other community engagement events that Impact students can b
- e involved with. All attendees will be provided a free lunch per RSVP. We 
- look forward to seeing you on Monday\, September 30th at noon in the Field
-  Ground Floor Lounge. RSVP asap!\n\nLinks:\n[0]  https://gatech.campuslabs
- .com/engage/event/4966116
-LOCATION:Field Residence Hall
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dennis Lindsey (C2D2) speaks about internships
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190930T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20190930T230000Z
-UID:http://hg.gatech.edu/node/625354#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nDennis Lindsey of the Center for 
- Career Discovery and Development will speak with WST Learning Community re
- sidents and their guests about internships and how to find them. This even
- t is open to all Georgia Tech students. Dinner will be provided for those 
- who RSVP: wst.lrn.c@gmail.com.\n\nThe WST Learning Community offers progra
- ms addressing academic and professional issues for women students. Typical
- ly\, it includes 48 students living in Stein and Goldin Houses (4th St. Ap
- artments A and B)\, who connect with one another and faculty through month
- ly dinners\, bi-weekly lunches\, campus receptions\, and research panels. 
- All Georgia Tech students and WST mentors are welcome to attend WST Learni
- ng Community events. WST Learning Community residents may also be paired w
- ith a faculty/staff mentor (optional). WST also sponsors undergraduate res
- earch partnerships for WST Learning Community students pursuing topics rel
- ated to gender\, science\, and technology\; faculty research sponsors shou
- ld inquire with Dr. Mary Frank Fox (mary.fox@pubpolicy.gatech.edu).\n\nLin
- ks:\n[0]  http://hg.gatech.edu/node/625354#0\n[1]  https://gatech.campusla
- bs.com/engage/event/4945871
-LOCATION:WST Learning Community\, Stein/4th St. A Apts.\, Georgia Tech\, 7
- 33 Techwood Dr.\, Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EducAsian
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190930T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191001T000000Z
-UID:https://gatech.campuslabs.com/engage/event/4984220
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome check out the pan-
- Asian organizations on campus while enjoying some free pizza! See what org
- anizations are right for you at this meet and greet event! All students ar
- e welcome\, both undergraduate and graduate of all races\, ethnicities\, e
- tc.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/4984220
-LOCATION:Student Center Ballroom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VMware Networking Night
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190930T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191001T000000Z
-UID:http://hg.gatech.edu/node/626851#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nJoin VMware for a nigh
- t of networking to learn about their open opportunities for undergraduate 
- and graduate students!\n\nTime: 6pm-8pm\n\nLocation: Klaus Atrium\n\nPleas
- e bring your BuzzCard and ID (driver's license\, passport\, etc.).\n\nVMwa
- re Product Intern and New Graduate Opportunities:\nVMware recognizes that 
- today’s students are tomorrow’s trailblazers and we value the opportun
- ity to benefit from your fresh perspective. If you thrive in an open\, inn
- ovative\, technology-driven culture\, VMware could be the place for you! Y
- ou will be exposed to a wide range of software platform technologies that 
- are utilized by customers all over the world.\n\nAbout VMware\nVMware is a
-  global leader in cloud infrastructure and business mobility. VMware accel
- erates customers’ digital transformation journey by enabling enterprises
-  to master a software-defined approach to business and IT. With VMware sol
- utions\, organizations are building extraordinary experiences by mobilizin
- g everything\, responding faster to opportunities with modern data and app
- s hosted across hybrid clouds\, and safeguarding customer trust with a def
- ense-in-depth approach to cybersecurity. At the core of what we do are our
-  people who deeply value execution\, passion\, integrity\, customers\, and
-  community. Do you dare to do the stuff you’ve always dreamed about? Dar
- e to explore at http://careers.vmware.com [1].\n\nVMware offers cutting-ed
- ge cloud infrastructure and security services to companies of all shapes a
- nd sizes. Our world is all about technology\, and that world is growing be
- cause the imagination\, ingenuity and talent of our teams knows no bounds.
-  We believe that creativity sparks innovation and inspires our employees t
- o think of VMware differently and change the world around them.\n\nAre you
-  interested in working on one of the below teams?\n\nStorage Applications\
- , Networking Security\, Cloud Platform\, Cloud Native\, Cloud Management B
- usiness Unit\, Cloud Foundation\, Office of the CTO\n\nJob Role and Respon
- sibilities:\nAs an Intern or New Graduate at VMware\, you’ll create inno
- vative solutions and solve complex problems. You’ll take ownership of me
- aningful\, big-picture projects and springboard into an impactful career. 
- At VMware\, you will become immersed in all aspects of our innovative and 
- collaborative culture\, and ensure you get the full VMware experience. You
- ’ll interact with industry thought leaders at one of our world class cam
- puses and enjoy networking\, community service\, and career development ev
- ents.\n\nRequired Skills:\n• Pursuing Bachelor’s\, Master’s or PhD i
- n Computer Science or equivalent\n\n• Coursework (in some) of the follow
- ing: Algorithms\, Data Structures\, Storage and\\or Operating Systems\, Co
- mputer Architecture\, Machine Learning\, Compilers\, Networking\, Distribu
- ted Systems\, Analytics\, Web Development\n\n• Knowledge in one or more 
- of the programming languages: C\, C++\, Java\, or Go programming\n\n• Kn
- owledge in Python\, Perl\, shell\, or other scripting languages\n\n• Kno
- wledge in Flex\, HCI\, wireframes\, mockups\n\n• Knowledge in CSS\, HTML
- \, XML\, Flash\, JavaScript\n\n• School and/or industry projects involvi
- ng significant design and development\n\nPreferred Skills:\n• Experience
-  developing client-server or distributed\, multithreaded applications\n\n
- • Experience developing user space and kernel modules\n\n• Exposure to
-  SaaS or FaaS\, modeling/optimization techniques\n\n• Previous internshi
- p experience is a plus\n\n• Ability to work independently\n\n• Strong 
- teamwork and communication skills\n\n• Knowledge of availability/fault d
- omains\n\n• Knowledge of ML/heuristics analysis\n\n• Exposure to conta
- iner technologies - container orchestrators (Kubernetes\, Mesos\, Docker S
- warm Mode) is a plus\n\n• Experience with Cloud based services\, Microse
- rvices a Cloud Computing class or similar experience\n\n• Knowledge of N
- oSQL technologies (e.g. Cassandra\, MongoDB\, Redis\, etc.) and/or search-
- based datastores and libraries (Lucene\, Solr\, etc.\n\n• Willingness to
-  contribute to open source projects is a plus\n\nLinks:\n[0]  http://hg.ga
- tech.edu/node/626851#0\n[1]  http://careers.vmware.com/
-LOCATION:6pm-8pm Klaus Atrium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zillow Tech Talk
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20190930T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191001T000000Z
-UID:http://hg.gatech.edu/node/626859#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nPlease join Zillow’s
-  Android Mobile Apps Engineer\, Sivakumar Chellamuthu\, for a discussion o
- n the various innovations within the Zillow Rental Manager.\n\nTime: 6:30p
- m\n\nLocation: Bill Moore Student Success Center President's Suite B\n\nRS
- VP: [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/626859#0\n[1]  https://z
- illow.events/GTTechTalk
-LOCATION:Bill Moore Student Success Center President's Suite B
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Study Abroad Fair 2019
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191001T140000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191001T180000Z
-UID:http://hg.gatech.edu/node/619467#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
- aduate students\nExtras: Free food\, Freebies\nStatus: published\n\nOIE is
-  hosting the 24th Annual Study Abroad Fair on October 1 from 10 a.m. - 2 p
- .m. in the Student Center Ballroom. The Fair showcases the wide variety of
-  international opportunities open to undergraduate students like exchanges
-  abroad\, faculty-led study abroad programs (like the Pacific Spring Study
-  Abroad Program or the China Summer Program)\, Global Internships\, and mo
- re. This is the best chance for students to meet program directors\, stude
- nt alumni from these programs\, and also get information on how financial 
- aid and scholarships will work when they study abroad.\n\nWe hope to see y
- ou there!\n\nLinks:\n[0]  http://hg.gatech.edu/node/619467#0
-LOCATION:Student Center Ballroom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:General Meeting - Gannett Fleming\, Inc.
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191001T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191001T160000Z
-UID:https://gatech.campuslabs.com/engage/event/4995340
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nFor more t
- han 100 years\, we’ve been a leader in global infrastructure solutions w
- ith a focus on planning\, design\, technology\, and construction managemen
- t services for a diverse array of markets and disciplines. Across more tha
- n 60 offices\, 2\,500+ highly qualified professionals are united in an uny
- ielding commitment to deliver excellence to every client and every project
- \, every day.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/4
- 995340
-LOCATION:Mason Building - room 1133
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Uber Day in the Lobby
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191001T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191001T200000Z
-UID:http://hg.gatech.edu/node/626852#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nJoin engineers and rec
- ruiters from Uber to learn about their open internship and new graduate op
- portunities!\n\nOpen Opportunities\n- Software Engineer Internship\n- Soft
- ware Engineer University Grad\n- Data Science Internship\n- Data Science U
- niversity Grad\n\nApply Now!\nClick here [1] to apply for their open oppor
- tunities.\n\nLinks:\n[0]  http://hg.gatech.edu/node/626852#0\n[1]  https:/
- /www.uber.com/us/en/careers/teams/university/
-LOCATION:11am-4pm\, CCB Commons
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Google Networking Session and LGBTQ+ "Ask Me Anything" Panel
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191001T180100Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191001T190100Z
-UID:http://hg.gatech.edu/node/626676#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nHosted by Pride Alliance and CS for Social Good\n\nW
- ant to know what its like to be LGBTQ+ at Google? Or how to prepare yourse
- lf to transition from Georgia Tech to the working world? Join us September
-  26th for our Google Networking Session and "Ask Me Anything" Panel!\n\nBr
- ing your questions and hear stories from Googlers (LGBTQ+ and Allies) abou
- t their experiences post-grad. Food will be provided!\n\nRSVP here! [1]\n\
- nLinks:\n[0]  http://hg.gatech.edu/node/626676#0\n[1]  https://docs.google
- .com/forms/d/e/1FAIpQLSfA0R9O3HtxTeEwQEBM9TF6B1uVB7efNaPGlqHEPj6pBGMIYg/vi
- ewform\n[2]  https://gatech.campuslabs.com/engage/organization/cs-social-g
- ood-at-georgia-tech
-LOCATION:Room 2456\, Klaus Advanced Computing Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spanish Speaking Organization General Meeting
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191001T210000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191001T220000Z
-UID:https://gatech.campuslabs.com/engage/event/4994143
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis week's general boa
- rd meeting will be Taco Tuesday! We will provide conversation topics for p
- eople to practice their Spanish conversational skills while we all eat tac
- os.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/4994143
-LOCATION:Student Center room 343
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Society of Women Engineers General Body Meeting
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191001T211500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191001T230000Z
-UID:http://hg.gatech.edu/node/624549#4
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nCome out to our general body meeting every Tues
- day from 5:15 to 7 PM in Smithgall Student Services (Flag Building) Room 1
- 17.\n\n5:15-5:45 PM Free dinner and social time with our members and offic
- ers\n\n5:45-6 PM: Announcements and Upcoming Events Reminders\n\n6-7 PM: S
- ocial Hour or Company Sponsored Event (Please check our weekly newletter f
- or the upcoming company or activity of the week!)\n\nIf you have any quest
- ions\, please feel free to email our President\, Toral Kadakia\, at swepre
- sident@gmail.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/624549#4\n[
- 1]  swepresident@gmail.com\n[2]  https://www.facebook.com/GeorgiaTechSWE/
-LOCATION:Room 117\, Smithgall Student Services (Flag) Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lockheed Martin Digital Workplace Workshop
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191001T214500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191002T000000Z
-UID:http://hg.gatech.edu/node/626872#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nIn this workshop\, you
-  will use Minecraft and LEGO to explore what it will be like to work in a 
- completely digital future. This will be a fun\, high-energy\, audience par
- ticipation workshop where attendees will experience firsthand what it migh
- t be like to live and work in a digitally enabled\, fully connected engine
- ering and production environment.\n\nRSVP\nClick here [1] to RSVP!\n\nLink
- s:\n[0]  http://hg.gatech.edu/node/626872#0\n[1]  http:// https://gatech.c
- o1.qualtrics.com/jfe/form/SV_9p0GuFDUYV9m8F7
-LOCATION:Klaus 1116 EW
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Institute Retirement Dinner
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191001T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191002T010000Z
@@ -355,21 +16,6 @@ DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nThe cam
  /node/622902#0\n[1]  http://www.specialevents.gatech.edu/retirement-dinner
  \n[2]  https://academy.gatech.edu/
 LOCATION:Historic Academy of Medicine
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Uber Tech Talk
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191001T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191002T000000Z
-UID:http://hg.gatech.edu/node/626855#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nJoin engineers and rec
- ruiters from Uber to learn about the unique projects Uber is working on!\n
- \nOpen Opportunities\n- Software Engineer Internship\n- Software Engineer 
- University Grad\n- Data Science Internship\n- Data Science University Grad
- \n\nApply Now!\nClick here [1] to apply for their open opportunities.\n\nL
- inks:\n[0]  http://hg.gatech.edu/node/626855#0\n[1]  https://www.uber.com/
- us/en/careers/teams/university/
-LOCATION:6:30pm CCB16
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lockheed Martin Day
@@ -22060,6 +21706,20 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Staff Appreciation Day
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201001T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201001T210000Z
+UID:http://hg.gatech.edu/node/639725#0
+DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\, Freebies
+ \nStatus: published\n\nAll Georgia Tech employees are invited to come out 
+ and enjoy free food\, music\, and giveaways. Face coverings are required\,
+  and safety protocols will be in place. You must register in advance at ga
+ tech.universitytickets.com [1].\n\nLinks:\n[0]  http://hg.gatech.edu/node/
+ 639725#0\n[1]  https://gatech.universitytickets.com/w/event.aspx?id=1703&p
+ =1\n[2]  http://gatech.universitytickets.com
+LOCATION:Tech Green and Tech Walkway
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Career Services Workshop: Interviewing- Avoid Being a Scary Candid
  ate
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201001T223000Z
@@ -22086,6 +21746,23 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is the weekly gath
   fellowship with one another.\n\nLinks:\n[0]  https://gatech.campuslabs.co
  m/engage/event/6155493
 LOCATION:Blueprint Church
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Outdoor Open Office Hours
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201002T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201002T160000Z
+UID:http://hg.gatech.edu/node/639683#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\, Freebies\nStatus: published\n\nThe Office of Und
+ ergraduate Education welcomes all students to meet and chat with Georgia T
+ ech faculty\, staff\, and administration in a safe\, socially-distanced en
+ vironment.\n\nJoin us 11a-12p Tuesdays and Fridays (in October/November) a
+ t the Tech Green for conversation and refreshment. Come for the snacks—s
+ tay for the conversations!\n\n*In case of inclement weather\, meetings wil
+ l take place in the Clough Lounge (Suite 205Q)\n\nLinks:\n[0]  http://hg.g
+ atech.edu/node/639683#0\n[1]  http://instagram.com/gtoue\n[2]  http://oue.
+ gatech.edu
+LOCATION:Tech Green
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Popu-up - Mindfulness\, Movement & Tapping
@@ -22243,6 +21920,23 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Virtual Event - Details forthcoming
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Outdoor Open Office Hours
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201006T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201006T160000Z
+UID:http://hg.gatech.edu/node/639683#1
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\, Freebies\nStatus: published\n\nThe Office of Und
+ ergraduate Education welcomes all students to meet and chat with Georgia T
+ ech faculty\, staff\, and administration in a safe\, socially-distanced en
+ vironment.\n\nJoin us 11a-12p Tuesdays and Fridays (in October/November) a
+ t the Tech Green for conversation and refreshment. Come for the snacks—s
+ tay for the conversations!\n\n*In case of inclement weather\, meetings wil
+ l take place in the Clough Lounge (Suite 205Q)\n\nLinks:\n[0]  http://hg.g
+ atech.edu/node/639683#1\n[1]  http://instagram.com/gtoue\n[2]  http://oue.
+ gatech.edu
+LOCATION:Tech Green
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tuesday Night Worship
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201006T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201007T010000Z
@@ -22325,6 +22019,23 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is the weekly gath
   fellowship with one another.\n\nLinks:\n[0]  https://gatech.campuslabs.co
  m/engage/event/6155494
 LOCATION:Blueprint Church
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Outdoor Open Office Hours
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201009T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201009T160000Z
+UID:http://hg.gatech.edu/node/639683#2
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\, Freebies\nStatus: published\n\nThe Office of Und
+ ergraduate Education welcomes all students to meet and chat with Georgia T
+ ech faculty\, staff\, and administration in a safe\, socially-distanced en
+ vironment.\n\nJoin us 11a-12p Tuesdays and Fridays (in October/November) a
+ t the Tech Green for conversation and refreshment. Come for the snacks—s
+ tay for the conversations!\n\n*In case of inclement weather\, meetings wil
+ l take place in the Clough Lounge (Suite 205Q)\n\nLinks:\n[0]  http://hg.g
+ atech.edu/node/639683#2\n[1]  http://instagram.com/gtoue\n[2]  http://oue.
+ gatech.edu
+LOCATION:Tech Green
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Popu-up - Mindfulness\, Movement & Tapping
@@ -22491,6 +22202,23 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Outdoor Open Office Hours
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201013T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201013T160000Z
+UID:http://hg.gatech.edu/node/639683#3
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\, Freebies\nStatus: published\n\nThe Office of Und
+ ergraduate Education welcomes all students to meet and chat with Georgia T
+ ech faculty\, staff\, and administration in a safe\, socially-distanced en
+ vironment.\n\nJoin us 11a-12p Tuesdays and Fridays (in October/November) a
+ t the Tech Green for conversation and refreshment. Come for the snacks—s
+ tay for the conversations!\n\n*In case of inclement weather\, meetings wil
+ l take place in the Clough Lounge (Suite 205Q)\n\nLinks:\n[0]  http://hg.g
+ atech.edu/node/639683#3\n[1]  http://instagram.com/gtoue\n[2]  http://oue.
+ gatech.edu
+LOCATION:Tech Green
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Career Services Workshop: Salary Negotiation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201013T223000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201013T233000Z
@@ -22554,6 +22282,23 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is the weekly gath
   fellowship with one another.\n\nLinks:\n[0]  https://gatech.campuslabs.co
  m/engage/event/6155495
 LOCATION:Blueprint Church
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Outdoor Open Office Hours
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201016T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201016T160000Z
+UID:http://hg.gatech.edu/node/639683#4
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\, Freebies\nStatus: published\n\nThe Office of Und
+ ergraduate Education welcomes all students to meet and chat with Georgia T
+ ech faculty\, staff\, and administration in a safe\, socially-distanced en
+ vironment.\n\nJoin us 11a-12p Tuesdays and Fridays (in October/November) a
+ t the Tech Green for conversation and refreshment. Come for the snacks—s
+ tay for the conversations!\n\n*In case of inclement weather\, meetings wil
+ l take place in the Clough Lounge (Suite 205Q)\n\nLinks:\n[0]  http://hg.g
+ atech.edu/node/639683#4\n[1]  http://instagram.com/gtoue\n[2]  http://oue.
+ gatech.edu
+LOCATION:Tech Green
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Popu-up - Mindfulness\, Movement & Tapping
@@ -22677,6 +22422,23 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Virtual Event - Details forthcoming
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Outdoor Open Office Hours
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201020T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201020T160000Z
+UID:http://hg.gatech.edu/node/639683#5
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\, Freebies\nStatus: published\n\nThe Office of Und
+ ergraduate Education welcomes all students to meet and chat with Georgia T
+ ech faculty\, staff\, and administration in a safe\, socially-distanced en
+ vironment.\n\nJoin us 11a-12p Tuesdays and Fridays (in October/November) a
+ t the Tech Green for conversation and refreshment. Come for the snacks—s
+ tay for the conversations!\n\n*In case of inclement weather\, meetings wil
+ l take place in the Clough Lounge (Suite 205Q)\n\nLinks:\n[0]  http://hg.g
+ atech.edu/node/639683#5\n[1]  http://instagram.com/gtoue\n[2]  http://oue.
+ gatech.edu
+LOCATION:Tech Green
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tuesday Night Worship
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201020T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201021T010000Z
@@ -22742,6 +22504,23 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is the weekly gath
   fellowship with one another.\n\nLinks:\n[0]  https://gatech.campuslabs.co
  m/engage/event/6155496
 LOCATION:Blueprint Church
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Outdoor Open Office Hours
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201023T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201023T160000Z
+UID:http://hg.gatech.edu/node/639683#6
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\, Freebies\nStatus: published\n\nThe Office of Und
+ ergraduate Education welcomes all students to meet and chat with Georgia T
+ ech faculty\, staff\, and administration in a safe\, socially-distanced en
+ vironment.\n\nJoin us 11a-12p Tuesdays and Fridays (in October/November) a
+ t the Tech Green for conversation and refreshment. Come for the snacks—s
+ tay for the conversations!\n\n*In case of inclement weather\, meetings wil
+ l take place in the Clough Lounge (Suite 205Q)\n\nLinks:\n[0]  http://hg.g
+ atech.edu/node/639683#6\n[1]  http://instagram.com/gtoue\n[2]  http://oue.
+ gatech.edu
+LOCATION:Tech Green
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Popu-up - Mindfulness\, Movement & Tapping
@@ -22903,6 +22682,23 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Virtual Event - Details forthcoming
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Outdoor Open Office Hours
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201027T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201027T160000Z
+UID:http://hg.gatech.edu/node/639683#7
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\, Freebies\nStatus: published\n\nThe Office of Und
+ ergraduate Education welcomes all students to meet and chat with Georgia T
+ ech faculty\, staff\, and administration in a safe\, socially-distanced en
+ vironment.\n\nJoin us 11a-12p Tuesdays and Fridays (in October/November) a
+ t the Tech Green for conversation and refreshment. Come for the snacks—s
+ tay for the conversations!\n\n*In case of inclement weather\, meetings wil
+ l take place in the Clough Lounge (Suite 205Q)\n\nLinks:\n[0]  http://hg.g
+ atech.edu/node/639683#7\n[1]  http://instagram.com/gtoue\n[2]  http://oue.
+ gatech.edu
+LOCATION:Tech Green
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tuesday Night Worship
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201027T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201028T010000Z
@@ -22963,6 +22759,23 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is the weekly gath
   fellowship with one another.\n\nLinks:\n[0]  https://gatech.campuslabs.co
  m/engage/event/6155497
 LOCATION:Blueprint Church
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Outdoor Open Office Hours
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201030T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201030T160000Z
+UID:http://hg.gatech.edu/node/639683#8
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\, Freebies\nStatus: published\n\nThe Office of Und
+ ergraduate Education welcomes all students to meet and chat with Georgia T
+ ech faculty\, staff\, and administration in a safe\, socially-distanced en
+ vironment.\n\nJoin us 11a-12p Tuesdays and Fridays (in October/November) a
+ t the Tech Green for conversation and refreshment. Come for the snacks—s
+ tay for the conversations!\n\n*In case of inclement weather\, meetings wil
+ l take place in the Clough Lounge (Suite 205Q)\n\nLinks:\n[0]  http://hg.g
+ atech.edu/node/639683#8\n[1]  http://instagram.com/gtoue\n[2]  http://oue.
+ gatech.edu
+LOCATION:Tech Green
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Popu-up - Mindfulness\, Movement & Tapping
@@ -23086,6 +22899,23 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Virtual Event - Details forthcoming
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Outdoor Open Office Hours
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201103T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201103T170000Z
+UID:http://hg.gatech.edu/node/639683#9
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\, Freebies\nStatus: published\n\nThe Office of Und
+ ergraduate Education welcomes all students to meet and chat with Georgia T
+ ech faculty\, staff\, and administration in a safe\, socially-distanced en
+ vironment.\n\nJoin us 11a-12p Tuesdays and Fridays (in October/November) a
+ t the Tech Green for conversation and refreshment. Come for the snacks—s
+ tay for the conversations!\n\n*In case of inclement weather\, meetings wil
+ l take place in the Clough Lounge (Suite 205Q)\n\nLinks:\n[0]  http://hg.g
+ atech.edu/node/639683#9\n[1]  http://instagram.com/gtoue\n[2]  http://oue.
+ gatech.edu
+LOCATION:Tech Green
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tuesday Night Worship
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201104T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201104T020000Z
@@ -23193,6 +23023,23 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is the weekly gath
   fellowship with one another.\n\nLinks:\n[0]  https://gatech.campuslabs.co
  m/engage/event/6155498
 LOCATION:Blueprint Church
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Outdoor Open Office Hours
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201106T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201106T170000Z
+UID:http://hg.gatech.edu/node/639683#10
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\, Freebies\nStatus: published\n\nThe Office of Und
+ ergraduate Education welcomes all students to meet and chat with Georgia T
+ ech faculty\, staff\, and administration in a safe\, socially-distanced en
+ vironment.\n\nJoin us 11a-12p Tuesdays and Fridays (in October/November) a
+ t the Tech Green for conversation and refreshment. Come for the snacks—s
+ tay for the conversations!\n\n*In case of inclement weather\, meetings wil
+ l take place in the Clough Lounge (Suite 205Q)\n\nLinks:\n[0]  http://hg.g
+ atech.edu/node/639683#10\n[1]  http://instagram.com/gtoue\n[2]  http://oue
+ .gatech.edu
+LOCATION:Tech Green
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Popu-up - Mindfulness\, Movement & Tapping
@@ -23318,6 +23165,23 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Virtual Event - Details forthcoming
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Outdoor Open Office Hours
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201110T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201110T170000Z
+UID:http://hg.gatech.edu/node/639683#11
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\, Freebies\nStatus: published\n\nThe Office of Und
+ ergraduate Education welcomes all students to meet and chat with Georgia T
+ ech faculty\, staff\, and administration in a safe\, socially-distanced en
+ vironment.\n\nJoin us 11a-12p Tuesdays and Fridays (in October/November) a
+ t the Tech Green for conversation and refreshment. Come for the snacks—s
+ tay for the conversations!\n\n*In case of inclement weather\, meetings wil
+ l take place in the Clough Lounge (Suite 205Q)\n\nLinks:\n[0]  http://hg.g
+ atech.edu/node/639683#11\n[1]  http://instagram.com/gtoue\n[2]  http://oue
+ .gatech.edu
+LOCATION:Tech Green
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SAA Alumni Connections Committee Meeting
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201112T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201112T170000Z
@@ -23354,6 +23218,23 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is the weekly gath
   fellowship with one another.\n\nLinks:\n[0]  https://gatech.campuslabs.co
  m/engage/event/6155499
 LOCATION:Blueprint Church
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Outdoor Open Office Hours
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201113T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201113T170000Z
+UID:http://hg.gatech.edu/node/639683#12
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\, Freebies\nStatus: published\n\nThe Office of Und
+ ergraduate Education welcomes all students to meet and chat with Georgia T
+ ech faculty\, staff\, and administration in a safe\, socially-distanced en
+ vironment.\n\nJoin us 11a-12p Tuesdays and Fridays (in October/November) a
+ t the Tech Green for conversation and refreshment. Come for the snacks—s
+ tay for the conversations!\n\n*In case of inclement weather\, meetings wil
+ l take place in the Clough Lounge (Suite 205Q)\n\nLinks:\n[0]  http://hg.g
+ atech.edu/node/639683#12\n[1]  http://instagram.com/gtoue\n[2]  http://oue
+ .gatech.edu
+LOCATION:Tech Green
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Popu-up - Mindfulness\, Movement & Tapping
@@ -23476,6 +23357,23 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Virtual Event - Details forthcoming
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Outdoor Open Office Hours
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201117T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201117T170000Z
+UID:http://hg.gatech.edu/node/639683#13
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\, Freebies\nStatus: published\n\nThe Office of Und
+ ergraduate Education welcomes all students to meet and chat with Georgia T
+ ech faculty\, staff\, and administration in a safe\, socially-distanced en
+ vironment.\n\nJoin us 11a-12p Tuesdays and Fridays (in October/November) a
+ t the Tech Green for conversation and refreshment. Come for the snacks—s
+ tay for the conversations!\n\n*In case of inclement weather\, meetings wil
+ l take place in the Clough Lounge (Suite 205Q)\n\nLinks:\n[0]  http://hg.g
+ atech.edu/node/639683#13\n[1]  http://instagram.com/gtoue\n[2]  http://oue
+ .gatech.edu
+LOCATION:Tech Green
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SAA Alumni Connections Committee Meeting
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201119T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201119T170000Z
@@ -23512,5 +23410,39 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is the weekly gath
   fellowship with one another.\n\nLinks:\n[0]  https://gatech.campuslabs.co
  m/engage/event/6155500
 LOCATION:Blueprint Church
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Outdoor Open Office Hours
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201120T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201120T170000Z
+UID:http://hg.gatech.edu/node/639683#14
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\, Freebies\nStatus: published\n\nThe Office of Und
+ ergraduate Education welcomes all students to meet and chat with Georgia T
+ ech faculty\, staff\, and administration in a safe\, socially-distanced en
+ vironment.\n\nJoin us 11a-12p Tuesdays and Fridays (in October/November) a
+ t the Tech Green for conversation and refreshment. Come for the snacks—s
+ tay for the conversations!\n\n*In case of inclement weather\, meetings wil
+ l take place in the Clough Lounge (Suite 205Q)\n\nLinks:\n[0]  http://hg.g
+ atech.edu/node/639683#14\n[1]  http://instagram.com/gtoue\n[2]  http://oue
+ .gatech.edu
+LOCATION:Tech Green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Outdoor Open Office Hours
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201124T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201124T170000Z
+UID:http://hg.gatech.edu/node/639683#15
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\, Freebies\nStatus: published\n\nThe Office of Und
+ ergraduate Education welcomes all students to meet and chat with Georgia T
+ ech faculty\, staff\, and administration in a safe\, socially-distanced en
+ vironment.\n\nJoin us 11a-12p Tuesdays and Fridays (in October/November) a
+ t the Tech Green for conversation and refreshment. Come for the snacks—s
+ tay for the conversations!\n\n*In case of inclement weather\, meetings wil
+ l take place in the Clough Lounge (Suite 205Q)\n\nLinks:\n[0]  http://hg.g
+ atech.edu/node/639683#15\n[1]  http://instagram.com/gtoue\n[2]  http://oue
+ .gatech.edu
+LOCATION:Tech Green
 END:VEVENT
 END:VCALENDAR
