@@ -2,341 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Institute Retirement Dinner
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191001T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191002T010000Z
-UID:http://hg.gatech.edu/node/622902#0
-DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nThe cam
- pus community is invited to support Georgia Tech's 2019 fiscal year retire
- es by attending this year's retirement dinner on Tuesday\, October 1\, 201
- 9.\n\nThis year's retirees will be honored at 6:00 p.m. in the Historic Ac
- ademy of Medicine. Guest tickets are $25 and professional attire is encour
- aged. For more information or to register to attend\, please visit the Geo
- rgia Tech Special Events website [1].\n\nLinks:\n[0]  http://hg.gatech.edu
- /node/622902#0\n[1]  http://www.specialevents.gatech.edu/retirement-dinner
- \n[2]  https://academy.gatech.edu/
-LOCATION:Historic Academy of Medicine
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lockheed Martin Day
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191002T140000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191002T200000Z
-UID:http://hg.gatech.edu/node/626961#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nBring your resume - we
- 're hiring! Meet with Lockheed Martin engineers\, business & operations pr
- ofessionals and executives.\n\nExperience interactive displays and Virtual
-  Reality!\n\nRSVP: [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/626961#0\
- n[1]  https://www.lockheedmartinjobs.com/georgia-tech
-LOCATION:Klaus Atrium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atlanta Global Studies Center (AGSC) Meet & Greet
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191002T203000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191002T220000Z
-UID:http://hg.gatech.edu/node/625428#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \nExtras: Free food\nStatus: published\n\nJoin us at the AGSC Meet-and-Gre
- et reception for GeorgiaTech and GSU faculty and students.\n\nAll Georgia 
- Tech and Georgia State faculty\, staff and students are invited!\n\nMeet w
- ith colleagues working on global issues\, cross-cultural communication\, a
- dvanced language learning\, UN Sustainable Development Goals (UN SDGs) and
-  Education for Sustainable Development\, and learn about opportunities ava
- ilable from the AGSC!\n\nWednesday\, October 2\n4:30 - 6:00 p.m.\nAGSC Off
- ices at Georgia Tech\n781 Marietta St. NW\nHabersham Bldg.\, Suite 115\n\n
- ----------------\n\nThe Atlanta Global Studies Center (AGSC) builds intern
- ational awareness\, global competence\, and advanced language capacity in 
- higher education\, the private & public sector\, and the K-12 community to
-  empower the region’s global agenda.\nWe integrate and emphasize princip
- les of Education for Sustainable Development and UN Sustainable Developmen
- t Goals (UN SDGs).\n\nEstablished in 2018\, the AGSC is partnership of Geo
- rgia Tech and GSU\, funded by a Title VI grant from the U.S. Department of
-  Education. The award is one of only seven awards in the nation supporting
-  centers with a focus on international and global studies.\n\nThe interdis
- ciplinary Center engages faculty\, students\, private and public sector\, 
- and K-12 community throughout Atlanta and supports research\, curriculum e
- nhancement\, and professional development in global studies and language l
- earning\, including in collaboration with Emory University\, Spelman Colle
- ge\, the University of Georgia\, University of North Georgia\, and Agnes S
- cott.\n\nLinks:\n[0]  http://hg.gatech.edu/node/625428#0\n[1]  http://atla
- ntaglobalstudies.gatech.edu
-LOCATION:AGSC\, 781 Marietta St. NW\, Suite 115\, Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The 6 Stages of Cultural Mastery Workshop
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191002T203000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191003T003000Z
-UID:http://hg.gatech.edu/node/626496#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\, Freebies\nStatus: 
- published\n\nAn interactive workshop by Mr. Ricardo Gonzalez that creates 
- meaningful internal transformation regarding our approach to diverse cultu
- res and also teaches the specific skill set of connecting\, creating\, and
-  collaborating with people different from ourselves. A unique opportunity 
- to network with Georgia Tech students\, faculty and staff and many non-GT 
- professionals from several companies. Co-sponsored by Georgia Tech’s Ins
- titute Diversity and HOLA Employee Resource Group\, and Coca-Cola’s Hisp
- anic Leadership Business Resource Group. Free food. Limited seating.\n\nPr
- e-registration is required: https://www.eventbrite.com/e/6-stages-of-cultu
- ral-mastery-registration-69035481985 [1]\n\nLinks:\n[0]  http://hg.gatech.
- edu/node/626496#0\n[1]  https://www.eventbrite.com/e/6-stages-of-cultural-
- mastery-registration-69035481985 
-LOCATION:Georgia Tech Student Center\, Ballroom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CREATE-X Deep Startups feat. Shachar Oren
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191002T213000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191002T230000Z
-UID:http://hg.gatech.edu/node/626480#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nThe topic for the first Deep Startups of the Fall 2019 semester is Music
-  Technology featuring Shachar Oren\, previous Peloton executive for music 
- innovation.\n\nShachar Oren is a thought leader in music business and tech
- nology and founder of the company\, Neurotic Media\, which he grew to bein
- g a leading force in music distribution for all the major music labels. In
-  2018\, he sold the company to Peloton and served as VP of Music in charge
-  of music innovation for a year. Shachar stepped down from Peloton in May 
- and has been advising TechStars and ATDC companies and while also serving 
- as volunteer President of Georgia Music Partners.\n\nDeep Startups is an e
- vent series that features knowledgeable entrepreneurs who discuss their ex
- periences forming companies that solve big-picture current problems. These
-  individuals speak to the concept of ‘deep startups’ and how to create
-  companies that make a difference. Each Deep Startups event focuses on a d
- ifferent broad topic in engineering/technology\, and allows for student Q&
- A at the end of the event.\n\nLinks:\n[0]  http://hg.gatech.edu/node/62648
- 0#0\n[1]  https://gatech.campuslabs.com/engage/event/4938762
-LOCATION:Klaus Advanced Computing Building Room 2448
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hewlett Packard Enterprise Info Session
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191003T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191003T154500Z
-UID:https://gatech.campuslabs.com/engage/event/4985736
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome hear from HP about
-  opportunities there and enjoy free lunch!\n\nLinks:\n[0]  https://gatech.
- campuslabs.com/engage/event/4985736
-LOCATION:Van Leer C340
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:First Generation to Attend College or Graduate School
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191003T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191003T160000Z
-UID:http://hg.gatech.edu/node/625837#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\, Freebies\nStatus: 
- published\n\nFirst Generation College & Graduate Students are the first in
-  their families to continue their education beyond the mandated 12 years i
- n the USA. They encountered questions and\, maybe resistance\, from family
-  and friends while making the transition to the academic environment.\n\nT
- hese panelists will discuss how their decision to have learn more has affe
- cted their lives.\n\nIn terms of Diversity\, First Gen have had a differen
- t lived experience (from those who have many generations of attending coll
- eges) and can provide insights to student who are now starting this proces
- s at Georgia Tech.\n\nThe panelists are:\n\n• Dr. Emily Weigel - first i
- n the family to receive a PhD [1]\n\nTerminal Degrees: Dual Ph.D.s\, Zoolo
- gy and Ecology\, Evolutionary Biology & Behavior (EEBB)\, Michigan State U
- niversity\,\n\n• Dr. Gerome Stephens - First Generation - College [2]\n\
- nTerminal Degree: University of Louisville\, PhD\, Higher Education Leader
- ship & Organizational Development\n\n• Michelle Canales\, MS - First Gen
- eration College she also identifies as Afro-Caribbean [3]\n\nTerminal Degr
- ee: Nova Southeastern University: M.S. -College Student Affairs\n\nFacilit
- ator:\n\n• Isabel Altamirano\, MLIS (first in the North American Contine
- nt) [4]\n\nTerminal Degree: Louisiana State University\, MLIS (Masters of 
- Library and Information Science)\n\nPlease register for the event here [5]
- .\n\nIf you were not able to obtain a ticket\, please come to the check-in
-  area on the 7th floor\, in case someone does not attend.\n\nLinks:\n[0]  
- http://hg.gatech.edu/node/625837#0\n[1]  http://biosci.gatech.edu/people/e
- mily-weigel\n[2]  https://about.me/gerome\n[3]  https://explorellc.cos.gat
- ech.edu/staff\n[4]  https://www.library.gatech.edu/isabel-altamirano\n[5] 
-  https://www.eventbrite.com/e/first-generation-to-attend-college-or-gradua
- te-school-crosland-tower-7130-tickets-71046378631
-LOCATION:Georgia Tech Library Crosland Tower\, Room 7130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:General Meeting: New South Construction
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191003T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191003T160000Z
-UID:https://gatech.campuslabs.com/engage/event/4976052
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome and join us for ou
- r general meeting on Thursday\, October 3rd at 10:50 AM in Mason 2117 wher
- e we will hear from New South. If you would like to learn more about this 
- firm you can check out their website here. [1] Lunch will be provided so p
- lease RSVP. We hope to see you there!\n\nLinks:\n[0]  https://gatech.campu
- slabs.com/engage/event/4976052\n[1]  http://www.newsouthconstruction.com/
-LOCATION:Mason 2117
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Georgia Tech Minor Fair & Showcase
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191003T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191003T170000Z
-UID:http://hg.gatech.edu/node/626636#0
-DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free Stuff\
- , Free food\nStatus: published\n\nChat with current students\, faculty and
-  staff in each of the minors and check out academic projects completed by 
- students in their respective minors. By attending\, you'll be able to make
-  better-informed decisions about what academic minor programs you would li
- ke to pursue.\n\nThere will be free King of Pops and fun raffles as well a
- s an appearance from Buzz! Check in will be in front of the Ferst Center f
- or the Arts and on the 2nd floor of the Student Center. See you there!\n\n
- 60+ minors will be present at the fair:\nAerospace Engineering\nArchitectu
- re\nBiology\nBiomedical Engineering\nChemistry & Biochemistry\nChinese\nCo
- mputing & Business\nComputing & Devices\nComputing & Informational Interne
- tworks\nComputing & Intelligence\nComputing & Media\nComputing & People\nC
- omputing & Systems and Architecture\nComputing & Theory\nComputational Dat
- a Analysis\nEarth & Atmospheric Sciences\nEast Asian Studies\nEngineering 
- & Business\nFilm and Media Studies\nFrench\nGerman\nGlobal Development\nHe
- alth & Medical Sciences\nHealth\, Medicine\, and Society\nHistory\nIndustr
- ial Design\nInternational Affairs\nInternational Business\, Language\, and
-  Culture\nJapanese\nKorean\nLaw\, Science\, and Technology\nLeadership Stu
- dies\nLinguistics\nMath\nMiddle Eastern & North African Studies\nMusic Tec
- hnology\nNaval Science\nNuclear & Radiological Engineering\nPhilosophy\nPh
- ysiology\nPolitical Science\nPublic Policy\nRobotics\nRussian\nScience Fic
- tion\nScience\, Technology\, and Society\nScientific Engineering and Compu
- ting\nSocial Justice\nSociology\nSpanish\nSports\, Society\, and Technolog
- y\nSustainable Cities\nTechnology & Business\nWomen\, Science\, & Technolo
- gy\n& more!\n\nCome attend Georgia Tech’s first ever Minor Fair where yo
- u can learn about the 60+ minors that Georgia Tech has to offer\, all in o
- ne location at one time! Through this event\, you will have the opportunit
- y to chat with current students in the minor as well as faculty and staff.
-  Academic projects will be on display for you to see the opportunity prese
- nt within minor programs. By attending\, you'll be able to make better-inf
- ormed decisions about what academic minor programs you would like to pursu
- e.\n\nWe will also have King of Pops and fun raffles as well as an appeara
- nce from Buzz! There will also be an opportunity to win our one-of-a-kind 
- Buzz flashdrives! Follow us on our social media channels to be the first t
- o hear how you can win GT swag!\n\nCheck in will be in front of the Ferst 
- Center for the Arts and on the 2nd floor of the Student Center. See you th
- ere!\n\n50+ minors will be present at the fair:\nAerospace Engineering\nAr
- chitecture\nBiology\nBiomedical Engineering\nChemistry & Biochemistry\nChi
- nese\nComputing & Business\nComputing & Devices\nComputing & Informational
-  Internetworks\nComputing & Intelligence\nComputing & Media\nComputing & P
- eople\nComputing & Systems and Architecture\nComputing & Theory\nComputati
- onal Data Analysis\nEarth & Atmospheric Sciences\nEast Asian Studies\nEngi
- neering & Business\nFilm and Media Studies\nFrench\nGerman\nGlobal Develop
- ment\nHealth & Medical Sciences\nHealth\, Medicine\, and Society\nHistory\
- nIndustrial Design\nInternational Affairs\nInternational Business\, Langua
- ge\, and Culture\nJapanese\nKorean\nLaw\, Science\, and Technology\nLeader
- ship Studies\nLinguistics\nMath\nMiddle Eastern & North African Studies\nM
- usic Technology\nNaval Science\nNuclear & Radiological Engineering\nPhilos
- ophy\nPhysiology\nPolitical Science\nPublic Policy\nRobotics\nRussian\nSci
- ence Fiction\nScience\, Technology\, and Society\nScientific Engineering a
- nd Computing\nSocial Justice\nSociology\nSpanish\nSports\, Society\, and T
- echnology\nSustainable Cities\nTechnology & Business\nWomen\, Science\, & 
- Technology\n& more!\n\nLinks:\n[0]  http://hg.gatech.edu/node/626636#0\n[1
- ]  https://gatech.campuslabs.com/engage/event/4968389
-LOCATION:Ferst Center for the Arts and the Student Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kenneth Hyatt Distinguished Alumni Leadership Speaker Series
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191003T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191003T170000Z
-UID:http://hg.gatech.edu/node/626062#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: published\n\nCEEatGT presents distinguish
- ed alumnus John Huff\, CE 68\, who will share highlights from his extraord
- inary career in business\, engineering and exploration. In three decades o
- f leadership\, Huff has helped Oceaneering International become the premie
- r organization in underwater technologies. His pioneering advancements hav
- e served customers operating in a wide variety of harsh environments—fro
- m deep ocean basins to outer space. Huff began his career working for offs
- hore drilling companies after graduating from Georgia Tech. This experienc
- e\, and his penchant for adventure\, eventually led him to became presiden
- t and CEO of Oceaneering\, which he transformed from a small offshore oil 
- and diving company into a highly successful multinational corporation. Huf
- f achieved this by tying oil exploration with deep sea exploration. In add
- ition to many other achievements\, the company developed the remote-operat
- ed vehicles that assisted in the exploration of the Titanic\, the wreckage
-  of the Challenger capsule\, and the remains of the H.L. Hunley\, a Civil 
- War-era submarine.\n\nLinks:\n[0]  http://hg.gatech.edu/node/626062#0\n[1]
-   http://ce.gatech.edu/hyatt
-LOCATION:Mason Building\, room 1133
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Verizon Connect Day in the Lobby
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191003T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191003T200000Z
-UID:http://hg.gatech.edu/node/626990#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nJoin engineers and rec
- ruiters from Verizon Connect to learn about their open internship and new 
- graduate opportunities!\n\nOpen Opportunities\n- Software Engineer Interns
- hip\n- Software Engineer University Grad\n- Data Science Internship\n- Dat
- a Science University Grad\n\nLinks:\n[0]  http://hg.gatech.edu/node/626990
- #0\n[1]  http://hg.gatech.edu/node/626880#0
-LOCATION:11am-4pm\, CCB Commons
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GVU Center Brown Bag: Lining Yao "Materialized AI: Robotic Morphin
- g Matter"
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191003T153000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191003T170000Z
-UID:http://hg.gatech.edu/node/626769#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nExtras: Free food\nStatus: published\n\nAbstract
- :\n\nMorphing matter harnesses the programmability in material structures 
- and compositions to achieve transformative behaviors and integrates sensin
- g\, actuation\, and computation to create adaptive and responsive material
-  systems. These material systems can be leveraged to design soft robots\, 
- self-assembling furniture\, adaptive fabrics\, and self-folding foods. In 
- this talk\, Lining presents the recent works in the Morphing Matter Lab\, 
- Human-Computer Interaction Institute at Carnegie Mellon University and hig
- hlights several robotic morphing materials that weave advanced manufacturi
- ng with computational tools. Her team believes that the term “robotics
- ” does not only refer to conventional robotic forms and controls but als
- o connects to the artifacts’ ability to make decisions\, adapt\, move\, 
- and respond to different stimuli. More information from the lab site: http
- s://morphingmatter.cs.cmu.edu/.\n\nSpeaker Bio:\n\nLining Yao is an Assist
- ant Professor of Human-Computer Interaction Institute (HCII) at Carnegie M
- ellon University\, School of Computer Science\, directing the Morphing Mat
- ter Lab. Morphing Matter lab develops materials\, tools\, and applications
-  of adaptive\, dynamic and intelligent morphing matter from nano to macro 
- scales. Research often combines material science\, computational fabricati
- on and creative design practices. Lining and her lab work anti-disciplinar
- ily\, publishing and exhibiting across science\, engineering\, design and 
- art. Lining gained her PhD at MIT Media Lab\, where she combined biologica
- l and engineering approaches to develop physical materials with dynamic an
- d tunable properties including shape\, color\, stiffness\, texture and den
- sity. Beyond her teaching and research in the School of Computer Science\,
-  Lining holds courtesy appointments at Mechanical Engineering\, as well as
-  Material Sciences and Engineering. She is supervising undergraduate and g
- raduate students across the College of Engineering and College of Art.\n\n
- Schedule of Brown Bag Speakers Fall 2019 [1]\n\nLinks:\n[0]  http://hg.gat
- ech.edu/node/626769#0\n[1]  https://www.gvu.gatech.edu/events/upcoming\n[2
- ]  http://www.tsrb.gatech.edu/
-LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
- a\, Ga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Understanding and Using Analytics in Canvas
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191003T153000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191003T170000Z
-UID:http://hg.gatech.edu/node/626294#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Postdoc\nStatus: published\
- n\nPlease register [1] to attend this upcoming teaching with technology wo
- rkshop!\n\nIt’s a few weeks into the semester. Do you wonder how your st
- udents are doing and what it will take to support their success? Who is ex
- celling--and may need more of a challenge? Who is struggling--and may need
-  some help?\n\nThe course and student analytics in Canvas can be useful to
- ols to help you address these questions. The analytics enable you to gain 
- insight into how your students are engaging with course content\, particip
- ating in course activities\, and performing in course assessments.\n\nIn t
- his workshop\, we will explore the analytics tools in Canvas\, We will wor
- k to make sense of the data available\, and discuss how you can use them a
- s a means for observing\, analyzing\, and reflecting on what’s happening
-  with your students\, and what actions you might take to support their lea
- rning. In addition\, we will introduce LTI Insights [2]\, a new analytics 
- platform that is currently under development at Georgia Tech to aggregate 
- student interaction data from various digital learning tools.\n\nJoin your
-  colleagues to explore opportunities to support student learning with an e
- vidence-based approach\, and discuss how the new platform could be develop
- ed to meet your needs of making data-informed teaching decisions.\n\nLunch
-  will be provided. Please register [1] to join us!\n\nLinks:\n[0]  http://
- hg.gatech.edu/node/626294#0\n[1]  https://www.ctl.gatech.edu/ttw/canvas-an
- alytics\n[2]  https://www.imsglobal.org/lti-insights
-LOCATION:Student Center\, Piedmont Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Betty Blocks No Code Atlanta
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191003T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191004T010000Z
@@ -351,51 +16,6 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  s:\n[0]  http://hg.gatech.edu/node/626873#0\n[1]  https://www.bettyblocks.
  com/no-code-event-usa
 LOCATION:Georgia Tech Student Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SLS Open House: Sustainable Cities Minor and Innovating for Social
-  Impact Program
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191003T210000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191003T220000Z
-UID:http://hg.gatech.edu/node/625499#0
-DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\n
- Status: published\n\nJoin SLS and our partners from the Institute for Lead
- ership and Entrepreneurship and the School of City and Regional Planning t
- o learn more about the Sustainable Cities Minor and the SLS Innovating for
-  Social Impact Program. Drop by for pizza - and speak with faculty\, staff
- \, and students about these programs!\n\nLinks:\n[0]  http://hg.gatech.edu
- /node/625499#0\n[1]  https://gatech.campuslabs.com/engage/event/4928136
-LOCATION:Clough Lounge (Clough 205)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Personal Statement & Statement of Purpose Boot Camp
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191003T210000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191004T000000Z
-UID:http://hg.gatech.edu/node/625088#0
-DESCRIPTION:Intended audience: Public\, Undergraduate students\nExtras: Fr
- ee food\nStatus: published\n\nHaving trouble getting starting or finishing
-  your statements of purpose for graduate school applications? Come write i
- n a facilitated work session with GT communication professionals from the 
- Naugle CommLab. Registration is required. You are expected to stay for the
-  entire 3-hour session.\n\nDinner is provided.\n\nSign up by October 1 at 
- [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/625088#0\n[1]  https://b.gat
- ech.edu/2ZkTy9z
-LOCATION:Georgia Tech Bill Moore Student Success Center\, President Suites
-  C & D
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Verizon Connect Tech Talk
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191003T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191004T000000Z
-UID:http://hg.gatech.edu/node/626882#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nJoin engineers and rec
- ruiters from Verizon Connect to learn about their innovative technologies 
- and open opportunities!\n\nTime: 6:30pm\n\nLocation: Klaus 1443\n\nOpen Op
- portunities\n- Software Engineer Internship\n- Software Engineer Universit
- y Grad\n- Data Science Internship\n- Data Science University Grad\n\nLinks
- :\n[0]  http://hg.gatech.edu/node/626882#0
-LOCATION:6:30pm Klaus 1443
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ivan Allen College Family Weekend Reception
@@ -21862,6 +21482,33 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SCPC Presents: Around Atlanta in 8 Days!
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201002T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201003T000000Z
+UID:https://gatech.campuslabs.com/engage/event/6507443
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us September 25th 
+ - October 2nd for SCPC Presents: Around Atlanta in 8 Days! This is a virtu
+ al scavenger hunt taking place around Atlanta for the week\, where you and
+  your friends can gain points to win prizes.\n\nDownload the GooseChase ap
+ p and log in with the game code KK1Z4L. You can register starting Monday\,
+  September 21st and the game starts Friday\, September 25th.\n\nWe will an
+ nounce the winners on October 2nd at our in person portion of the event at
+  the CRC Roe Stamps Field\, starting at 6:30pm.\n\nSCPC will be taking a n
+ umber of precautions following the guidelines of both the CDC and Georgia 
+ Tech Campus Services\, with the number one priority of all our events bein
+ g the safety and well-being of our attendants. The following list document
+  lists the current steps we are taking to make events safer for students. 
+ However\, this list may not be comprehensive\, and we will continue to upd
+ ate this list with more information as we receive additional guidelines: [
+ 1]\n\nFor any questions\, concerns\, or if there is any way we can make th
+ e event more accommodating or comfortable for you\, please email atlantali
+ fe@scpc.gatech.edu.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/e
+ vent/6507443\n[1]  https://docs.google.com/document/d/1KmnlBqYMctvEUp5IBaj
+ gtguVG2IOXWHxDh6iCRvQm2I/edit?fbclid=IwAR3U_WXLiMnFj1zApoDPMTOnR1TT2kpA7sR
+ sOh3hod7MEPyZ0lqndyXvDHI
+LOCATION:CRC Roe Stamps Field
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cooking and Community
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201002T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201003T000000Z
@@ -21918,6 +21565,18 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  Additional details posted closer to event\n\nLinks:\n[0]  http://hg.gatech
  .edu/node/638391#0\n[1]  http://hg.gatech.edu/node/638385#0
 LOCATION:Virtual Event - Details forthcoming
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Movie Night
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201005T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201006T010000Z
+UID:https://gatech.campuslabs.com/engage/event/6500938
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nGeorgia Tech Students a
+ re welcome to attend a free screening of the movie Divided Hearts of Ameri
+ ca on Monday\, October 5th in Skiles 202. Social distancing will be applie
+ d and pre-packaged snacks and drinks will be provided.\n\nLinks:\n[0]  htt
+ ps://gatech.campuslabs.com/engage/event/6500938
+LOCATION:Skiles 202
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Outdoor Open Office Hours
