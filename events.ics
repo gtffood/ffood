@@ -2,284 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Sundae Night
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191007T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191007T030000Z
-UID:https://gatech.campuslabs.com/engage/event/4604161
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome join us for a nigh
- t of fellowship and free Sundaes after the 9pm mass!\n\nLinks:\n[0]  https
- ://gatech.campuslabs.com/engage/event/4604161
-LOCATION:The Catholic Center at Georgia Tech
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Big Gay Brunch
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191007T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191007T163000Z
-UID:http://hg.gatech.edu/node/624520#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nExtras: Free food\nStatus: published\n\nJoin us
-  during OUT Week for an awesome brunch served by GT faculty and staff in o
- rder to increase visibility of LGBTQIA employees on campus to foster a gre
- ater sense of community and support for and among LGBTQIA students\, build
-  connections across queer generations at Tech\, and create space for stude
- nts\, faculty\, and staff to learn from one another about issues facing th
- em on campus and off. RSVP Only: [1]\n\nLinks:\n[0]  http://hg.gatech.edu/
- node/624520#0\n[1]  http://lgbtqia.gatech.edu/big-gay-brunch
-LOCATION:Peachtree Room\, Student Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AGSC Careers Workshop: Careers in Global Health and International 
- Development
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191007T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191007T170000Z
-UID:http://hg.gatech.edu/node/626528#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nAGSC Careers Workshop: Careers in
-  Global Health and International Development\n\nSpeaker: Hannah Taylor\, D
- irector of Community Engagement at Global Health Corps.\n\n-- Learn about 
- internships\, fellowships and other career opportunities\n\n-- Hear expert
-  opinions about global\, technical and interpersonal competencies leading 
- organizations in the field highlight in their hiring and leadership progra
- ms\n\nLinks:\n[0]  http://hg.gatech.edu/node/626528#0\n[1]  http://atlanta
- globalstudies.gatech.edu
-LOCATION:AGSC\, 781 Marietta St. NW\, Suite 115\, Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Viasat Mid-Terms King of Pops Break!
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191007T180000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191007T210000Z
-UID:http://hg.gatech.edu/node/627133#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nAny career is popsicle
- .....with Viasat! Need a break from mid-term studying? Interested in an in
- ternship or university grad position? Want to learn more about transitioni
- ng from school life to work life after you graduate? Curious about Viasat 
- culture? Or do you just really want some King of Pops?\n\nStop by Noonan c
- ourtyard any time from 2:00pm – 5:00pm to hang out with Viasat and enjoy
-  some free King of Pops!\n\nLinks:\n[0]  http://hg.gatech.edu/node/627133#
- 0
-LOCATION:Noonan Courtyard (outside of Klaus Building)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SCPC Presents: Ben Seidman
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191007T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191008T000000Z
-UID:http://hg.gatech.edu/node/626971#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatech.edu
- /node/626971#0
-LOCATION:Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Our Lady of the Rosary Mass
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191007T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191008T000000Z
-UID:https://gatech.campuslabs.com/engage/event/4994149
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\n7pm mass for the feast 
- of Our Lady of the Rosary. Music by the GTCC Schola. Party afterwards.\n\n
- Links:\n[0]  https://gatech.campuslabs.com/engage/event/4994149
-LOCATION:GTCC
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AGSC Tuesday Collaboratorium: Global Citizenship and Service Learn
- ing -- Best Practices at Georgia Tech
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191008T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191008T155000Z
-UID:http://hg.gatech.edu/node/626996#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \nExtras: Free food\nStatus: published\n\nAGSC Collaboratorium: Global Cit
- izenship and Service Learning -- Best Practices at Georgia Tech\n\nSpeaker
- s:\nKelly Comfort\, Spanish\, Modern Languages\nMichael Goodisman\, Biolog
- ical Sciences\nTatiana Kozhanova\, French & Russian\, Modern Languages\nDo
- ri Pap\, Institute for Leadership and Entrepreneurship\n\nLight lunch serv
- ed. All interested faculty\, students and community members are invited.\n
- \nLinks:\n[0]  http://hg.gatech.edu/node/626996#0\n[1]  http://atlantaglob
- alstudies.gatech.edu\n[2]  https://atlantaglobalstudies.gatech.edu/collabo
- ratorium
-LOCATION:AGSC\, 781 Marietta St. NW\, Suite 115\, Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:General Meeting - Long Engineering 
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191008T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191008T160000Z
-UID:https://gatech.campuslabs.com/engage/event/5018978
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nLong Engin
- eering is a land surveying and civil engineering firm headquartered in Atl
- anta\, Georgia. The firm employs 100+ professional\, technical\, and suppo
- rt personnel within three offices. As the firm has grown\, it has remained
-  focused on their employees\, clients\, and commitment to doing the best j
- ob they can on every project they undertake. The firm engages in captivati
- ng projects and offers superior benefit and compensation packages. LONG pr
- ovides professional and career development opportunities combined with an 
- unmatched culture of personable\, empowered\, and valued employees focused
-  on meeting our client’s needs.\n\nLinks:\n[0]  https://gatech.campuslab
- s.com/engage/event/5018978
-LOCATION:Mason Building - room 1133
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asurion Day in the Lobby
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191008T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191008T200000Z
-UID:http://hg.gatech.edu/node/627135#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nJoin Asurion in the CC
- B Commons from 11am-4pm to learn about the following open opportunities!\n
- \nOpen Opportunities\n- Software Engineer\n- Global Security Intern\n- Pri
- vacy Intern\n- Product Management\n- Cloud Software Engineer (AWS)\n- Data
-  Science\n- UX Design\n- Digital Experience Engineer\n- DevOps Engineer\n-
-  Mechanical or Industrial Engineer\n- Supply Chain Management\n\nLinks:\n[
- 0]  http://hg.gatech.edu/node/627135#0
-LOCATION:CCB Commons
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nano@Tech: Applications of Molecular Dopants and Interface Modifie
- rs for Electronic and Opto-Electronic Applications
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191008T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191008T170000Z
-UID:http://hg.gatech.edu/node/622285#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nSeth Marder\nRegents Professor\; Georgia Power Chair of Energy Efficienc
- y\nSchool of Chemistry & Biochemistry\nGeorgia Institute of Technology\n\n
- Abstract: Organic\, hybrid\, and 2D materials have attracted interest for 
- electronic applications due to their potential for use in low-cost\, large
- -area\, flexible electronic devices. Here we will report on recent develop
- ments pertaining to surface modifiers and dopants that could impact the ch
- arge injection/collection/transport processes in organic light emitting di
- odes\, organic field effect transistors\, and photovoltaic devices. In par
- ticular\, we will examine how N-heterocylic carbenes assemble on gold subs
- trates\, the impact of the surface dipole on the work function of the gold
- . We will also discuss the development of metallocenes-based dimers as n-d
- opants and very briefly describe metal dithiolene complexes as p-dopants f
- or organic semiconductors and their impact of device performance.\n\nBio: 
- Seth Marder is currently the Georgia Power Chair of Energy Efficiency and 
- Regents’ Professor in the School of Chemistry and Biochemistry and a Pro
- fessor of Materials Science and Engineering (courtesy) at Georgia Tech. He
-  is the director of Georgia Tech’s Center for the Science and Technology
-  of Advanced Materials and Interfaces as well as an Office of Naval Resear
- ch Center for Advanced Organic Photovoltaics. Dr. Marder received his BA i
- n Chemistry from MIT and his Ph.D. from the U. of Wisconsin-Madison. After
-  completing his postdoctoral work at the University of Oxford\, he moved t
- o the Jet Propulsion Laboratory at Caltech. Prof. Marder has served on num
- erous advisory boards for journals and is the Founding Chair of the Editor
- ial Board for the Royal Society of Chemistry premier materials journal. He
-  is a fellow of the National Academy of Inventors\, American Physical Soci
- ety\, Royal Society of Chemistry\, Materials Research Society\, Photo-Opti
- cal Instrumentation Engineers (SPIE)\, Optical Society of America and Amer
- ican Association for the Advancement of Science. He received an NSF Specia
- l Creativity Award Extension\, the Lew Allen Award for Research\, from JPL
- \, the MRS Mid-Career Award\, the American Chemical Society\, Arthur C. Co
- pe Scholar Award\, and Georgia Tech’s Class of 1934 Distinguished Profes
- sor Award. He was Co-Chair of the 2014 Gordon Research Conference of Elect
- ronic Processes in the Organic Solid State. He has an H-index of 105\, wit
- h > 56\,000 citations (Google Scholar)\, has 39 granted patents\, and serv
- ed as a mentor for ~250 students\, postdoctoral and visiting researchers.\
- n\nLinks:\n[0]  http://hg.gatech.edu/node/622285#0\n[1]  http://ien.gatech
- .edu
-LOCATION:Pettit Microelectronics Building 102 A&B | 791 Atlantic Drive | A
- tlanta GA | 30332
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FirstGen Coffee and Donut Meet and Greet
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191008T190000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191008T200000Z
-UID:http://hg.gatech.edu/node/626912#0
-DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\n
- Status: published\n\nWe will be having a social with free coffee and donut
- s\, as well as a discussion on what it means to be first-generation at Geo
- rgia Tech! Come out and meet your fellow first-generation students!\n\nLin
- ks:\n[0]  http://hg.gatech.edu/node/626912#0\n[1]  https://gatech.campusla
- bs.com/engage/event/4994148\n[2]  https://www.facebook.com/gtfirstgen/
-LOCATION:Ford ES&T L1116
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Energy Club Business Fair
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191008T200000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191008T220000Z
-UID:http://hg.gatech.edu/node/627036#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nCome to the 4th Annual
-  Energy Club Business Fair. This FREE event is a reception where local com
- panies and startups in the energy field will be answering your questions\,
-  showcasing their products and ideas\, and networking with students\, and 
- offer information about their company. Hors-d'oeuvres and drinks will be p
- rovided. The keynote speaker is Shan Arora\, Director of the Kendeda Build
- ing.\n\nLinks:\n[0]  http://hg.gatech.edu/node/627036#0\n[1]  https://gate
- ch.campuslabs.com/engage/event/5000479\n[2]  https://gatech.campuslabs.com
- /engage/organization/energy-club-at-georgia-tech
-LOCATION:Bill Moore Student Success Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Society of Women Engineers General Body Meeting
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191008T211500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191008T230000Z
-UID:http://hg.gatech.edu/node/624549#5
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nCome out to our general body meeting every Tues
- day from 5:15 to 7 PM in Smithgall Student Services (Flag Building) Room 1
- 17.\n\n5:15-5:45 PM Free dinner and social time with our members and offic
- ers\n\n5:45-6 PM: Announcements and Upcoming Events Reminders\n\n6-7 PM: S
- ocial Hour or Company Sponsored Event (Please check our weekly newletter f
- or the upcoming company or activity of the week!)\n\nIf you have any quest
- ions\, please feel free to email our President\, Toral Kadakia\, at swepre
- sident@gmail.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/624549#5\n[
- 1]  swepresident@gmail.com\n[2]  https://www.facebook.com/GeorgiaTechSWE/
-LOCATION:Room 117\, Smithgall Student Services (Flag) Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kashi Atlanta Street Meals Preparation
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191008T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191008T233000Z
-UID:http://hg.gatech.edu/node/627032#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nHosted by Gamma Beta Phi\n\nPlease join us Tuesday e
- venings from 6:00 to 7:30 p.m. at Kashi Atlanta [1] in Candler Park to mak
- e lunch for homeless men\, women\, and children in downtown Atlanta. We wi
- ll be doing food preparation\, including chopping vegetables\, and cooking
-  as we prepare a healthy\, vegetarian meal to serve 100+ on Wednesday afte
- rnoon. This is an opportunity to interact with positive people\, intent on
-  making a difference. We practice the yogic principles of nurturing\, heal
- ing\, compassion\, inner growth\, and community service.\n\nYou will need 
- to register individually [2] and provide your own transportation. (This ev
- ent is about 3 miles away from campus.)\n\nThere are multiple days on whic
- h this event is offered\, so if one day is full/has no more room for volun
- teers\, you still have many other opportunities to get your service point 
- another week.\n\nGo to this link to find a day to sign up: [2]\n\nAfter yo
- u volunteer\, please email Kylie McArthur at kmcarthur3@gatech.edu with a 
- picture of yourself at the event or some other credible proof of attendanc
- e so you can recieve your service point for the semester.\n\nLinks:\n[0]  
- http://hg.gatech.edu/node/627032#0\n[1]  http://www.kashiatlanta.org\n[2] 
-  https://volunteer.handsonatlanta.org/opportunity/a0C1H000019hyPcUAI
-LOCATION:Kashi Atlanta
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asurion Ice Cream Float Social and Tech Talk: Tech Life Balance & 
- Engagement
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191008T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191009T000000Z
-UID:http://hg.gatech.edu/node/627137#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nJoin Asurion for dinne
- r and an ice cream float social as they discuss essential tips for achievi
- ng tech life balance and ways to engage while working full-time!\n\nLinks:
- \n[0]  http://hg.gatech.edu/node/627137#0
-LOCATION:Marcus Nanotechnology Building Room 1116-1118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Career Services Workshop: LinkedIn
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191008T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191008T233000Z
-UID:http://hg.gatech.edu/node/623972#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: published\n\nWho is in your professional 
- network? Learn how to digitally market yourself and make the best use of p
- rofessional social media. Expand career opportunities through building rel
- ationships and growing your professional connections.\n\nRSVP Here [1]\n\n
- Links:\n[0]  http://hg.gatech.edu/node/623972#0\n[1]  https://gatech.co1.q
- ualtrics.com/jfe/form/SV_byIl3SMLmr6OOnb
-LOCATION:Klaus 1116E
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ray C. Anderson Center for Sustainable Business Drop-By Info Sessi
  on
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191009T150000Z
@@ -21827,6 +21549,58 @@ DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us Tu
  ck channel for up-to-date information (online vs. in-person\, speakers\, e
  tc.).\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6158603
 LOCATION:Tech Wesley
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PhD Defense by Manish Pokhrel
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201014T180000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201014T200000Z
+UID:http://hg.gatech.edu/node/639982#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nStatus: published\n\nManish Pokhrel\n(Advisor: P
+ rof. Dimitri Mavris]\n\nwill defend a doctoral thesis entitled\,\n\nA Fram
+ ework for Fan Stage Conceptual Design Under Distortion\n\nInduced by Bound
+ ary Layer Ingestion\n\nWednesday\, October 14 at 12:00 p.m.\nMeeting Link:
+  [1]\n\nAbstract\nVarious tightly integrated aircraft concepts have emerge
+ d as a result of aggressive performance goals set forth by various organiz
+ ations. Most integrated aircraft system configurations exploit the concept
+  of Boundary Layer Ingestion (BLI). While the potential benefits of BLI ar
+ e huge\, several significant challenges - both on the modeling and design 
+ fronts - appear due to BLI. This dissertation focuses on addressing the im
+ pacts of BLI induced circumferential flow distortion on the conceptual des
+ ign of a fan stage.\n\nDistortion introduces extra losses in both rotors a
+ nd stators in addition to increased unsteady rotor response. In presence o
+ f incidence swings\, conventional conceptual design tools are inadequate t
+ o design optimal rotor blades and generate non-axisymmetric stators\, a co
+ ncept that has shown promise in alleviating stage losses due to distortion
+ . Besides\, concerns of structural integrity also arise for rotor blades d
+ ue to the unsteady loading they experience when rotating in a distorted fl
+ ow field. Parametric effects of these phenomena with varying levels of dis
+ tortion are quantified\, and a significant portion of the fan stage losses
+  are shown to be recoverable using the aero-structural design framework in
+ troduced and developed in this dissertation.\n\nThe aerodynamic design fra
+ mework is developed through several extensions to the conventionally used 
+ multi-meanline method. The inclusion of additional features accounts for f
+ low asymmetry\, parametric blade angle optimization\, rotor unsteady perfo
+ rmance\, and non-axisymmetric stator design. The model is verified\, and e
+ xperiments are performed to evaluate the effectiveness of each modeling el
+ ement. Similarly\, the Variational Asymptotic Method (VAM) is proposed as 
+ a computationally efficient technique to perform transient structural anal
+ ysis of rotor blades. VAM is validated for a variety of loading scenarios 
+ and is leveraged to demonstrate the nature of vibratory stresses and highl
+ ight the concerns of resonance on a test case. The framework encapsulating
+  both aerodynamic design and structural analysis is finally utilized to ex
+ plore the design space to minimize vibratory stresses on the blades with a
+  small trade-off in the stage efficiency. The fan stage design resulting f
+ rom the framework proposed and formulated in this dissertation aims to ser
+ ve as a starting point for the preliminary design of a distortion-tolerant
+  fan.\n\nCommittee\n\n- Prof. Dimitri Mavris – School of Aerospace Engin
+ eering (Advisor and Committee Chair)\n- Prof. Lakshmi N. Sankar – School
+  of Aerospace Engineering\n- Prof. Dewey H. Hodges – School of Aerospace
+  Engineering\n- Dr. Jonathan Gladin – Research Engineer II\, School of A
+ erospace Engineering\n- Dr. Mohit Gupta – Department of Aerospace Engine
+ ering Sciences\, University of Colorado Boulder\n\nLinks:\n[0]  http://hg.
+ gatech.edu/node/639982#0\n[1]  https://bluejeans.com/424060103
+LOCATION:BLUEJEANS: REMOTE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SAA Alumni Connections Committee Meeting
