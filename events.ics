@@ -2,141 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:2nd Annual Pridefest
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191011T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191011T170000Z
-UID:http://hg.gatech.edu/node/627060#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Credit\, Free Food\, Free Stuff\nStatus: published\n\nJoin P
- ride Alliance a number of on campus student organizations and departments 
- as we welcome Atlanta Pride on Campus. Participants will have the chance t
- o get t-shirts and free King of Pops!\n\n------\nY'all means all: this is 
- an event for at LGBTQIA+ folks and their allies. Please email pride@gatech
- .edu if we can provide any accommodations to make this event more accessib
- le or if you have any questions.\n\nLinks:\n[0]  http://hg.gatech.edu/node
- /627060#0\n[1]  https://gatech.campuslabs.com/engage/event/5000439\n[2]  h
- ttps://gatech.campuslabs.com/engage/organization/pride-alliance\n[3]  http
- s://www.facebook.com/events/397251444271670/
-LOCATION:Kessler Campanile
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Flavorful Fridays - Fruit-Full Fall
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191011T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191011T170000Z
-UID:http://hg.gatech.edu/node/624883#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\, Freebies\nStatus: published\n\nExperiment with a
-  new fruit-filled recipe to start your fall off right with Flavorful Frida
- ys. This program occurs once a month with the Health Initiatives' dietitia
- ns in the Student Center healthy space. You can enjoy a new theme every mo
- nth.\n\nLinks:\n[0]  http://hg.gatech.edu/node/624883#0
-LOCATION:Student Center - Healthy Space
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SCS Distinguished Lecture: Mahadev (Satya) Satyanarayanan
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191011T180000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191011T190000Z
-UID:http://hg.gatech.edu/node/625978#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nTITLE: Edge Computing: A New Disruptive Force\n\nABSTRACT:\n\nAt the hei
- ght of its success\, cloud computing is yielding to edge computing. Why is
-  this happening? What is the unique value proposition of edge computing? A
- s real-world deployments of edge computing appear\, how will the lives of 
- end users be improved? What new applications and capabilities will they se
- e? Which applications run best at the edge\, which run best in the cloud\,
-  and which should straddle the edge and cloud? How do we build systems tha
- t are seamless to the user but leverage all the available tiers of computi
- ng to best effect? Based on my team’s decade-long exploration of edge co
- mputing\, I will share my insights on these questions. Of particular inter
- est is a new class of “wearable cognitive assistance” applications tha
- t lie at the convergence of edge computing\, wearable devices\, and cognit
- ive algorithms (e.g. computer vision\, speech recognition\, natural langua
- ge processing). Drawing upon insights from these edge-native applications\
- , I will explore what hardware and software infrastructure is needed for e
- dge computing.\n\nBIO:\n\nSatya’s multi-decade research career has focus
- ed on the challenges of performance\, scalability\, availability\, and tru
- st in information systems that reach from the cloud to the mobile edge of 
- the internet. In the course of this work\, he has pioneered many advances 
- in distributed systems\, mobile computing\, pervasive computing\, and the 
- internet of things (IoT). As described in How we created edge computing\, 
- Satya’s seminal 2009 publication The Case for VM-based Cloudlets in Mobi
- le Computing\, and the ensuing research has led to the emergence of edge c
- omputing (also known as fog computing). Satya is the Carnegie Group Profes
- sor of Computer Science at Carnegie Mellon University. He received his Ph.
- D. in computer science from Carnegie Mellon after bachelor’s and master
- ’s degrees from the Indian Institute of Technology\, Madras. He is a Fel
- low of the ACM and the IEEE. For a more detailed bio\, see Satya’s Wikip
- edia entry.\n\nLinks:\n[0]  http://hg.gatech.edu/node/625978#0
-LOCATION:KACB 1116
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yoga for the Soul
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191011T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191012T010000Z
-UID:http://hg.gatech.edu/node/625251#6
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nStatus: published\n\nWe at Bhakti Yoga Club at 
- Georgia Tech want to improve the quality of living of students and faculty
-  by teaching them principles for a stress-free\, happy and meaningful life
- . We offer free classes on various forms of yoga and vegan cooking every F
- riday in the Student Center from 7 PM! We do simple exercises followed by 
- yoga practices\, go deep into our consciousness and end with vegan snacks.
-  Don't miss this opportunity to learn Intentional Living\, Conscious Eatin
- g and Mindful Co-existence - this might be the point your life changed for
-  the better!\n\nLinks:\n[0]  http://hg.gatech.edu/node/625251#6\n[1]  http
- s://gatech.campuslabs.com/engage/organization/bhakti-yoga-gt\n[2]  https:/
- /www.facebook.com/BYCGT
-LOCATION:Piedmont Room\, Student Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fall Break Trip to Cloudland Canyon
-DTSTART;VALUE=DATE:20191012
-DTEND;VALUE=DATE:20191013
-UID:http://hg.gatech.edu/node/626105#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nGT Trailblazers invites you to our Fall Break trip t
- o Cloudland Canyon State Park!\n\nMore information [1]\n\nBrimming with st
- unning waterfalls\, gorgeous canyons\, and forest as far as the eye can se
- e\, this land in the heart of the North Georgia is the perfect getaway for
-  the busy Georgia Tech student. Our trip includes an afternoon exploring t
- he charming town of Chattanooga\, two days of taking in the views through 
- scenic day hikes\, followed by a day of service work to support keeping th
- e State Park beautiful and accessible for all visitors.\n\nAlongside a par
- k ranger\, our work may involve building needed trail infrastructure\, mai
- ntaining existing trails\, and removing damaging invasive species. Trails 
- we will hike will take around the canyon rims exposing panoramic views of 
- forested mountains\, scenic rivers and waterfalls\, and will be accessible
-  to all skill levels. In addition to hiking and trail service\, there will
-  be ample opportunity for stargazing\, campfire songs\, getting to know yo
- ur fellow Tech students\, and unwinding from the hustle and bustle of scho
- ol.\n\nThis is a great alternative break option which includes important a
- nd purposeful service activity\, a stress relieving getaway from school\, 
- and the chance to meet some great new people.\n\nThere are a total of 15 s
- pots available so tell your friends and sign up as soon as possible to res
- erve your spot. The cost of the trip is in the range of $50-100 (depending
-  on number of people signed up) which includes everything required- the ca
- mping fee\, food (excluding lunch in Chattanooga)\, transportation\, recre
- ation\, and shelter! The $20 payment to reserve your spot will go towards 
- your trip payment.\n\nLogistics-wise\, we will be leaving campus Saturday 
- morning October 12th\, camping in tents at a car-accessible campsite in th
- e forest\, and returning Tuesday October 15th in the afternoon.\n\nLearn m
- ore about Cloudland Canyon State Park [2]\nUse the payment link and form b
- elow to submit your payment information for consideration for the trip. Th
- ere will be a $20 dollar down payment to hold your spot that goes toward y
- our trip payment. Your submission for this trip will not be complete until
-  both the payment and the form information have been received. You will ne
- ed to submit a scanned copy of your driver's license/picture ID and health
-  insurance card in the Google Form.\n\nPayment Link [3]\nRegistration Goog
- le Form [4]\n\nLinks:\n[0]  http://hg.gatech.edu/node/626105#0\n[1]  http:
- //georgiatechtrailblazers.com/2019/09/17/alternative-break-trip-to-cloudla
- nd-canyon-state-park/\n[2]  https://gastateparks.org/CloudlandCanyon\n[3] 
-  https://epay.gatech.edu:443/C20793_ustores/web/product_detail.jsp?PRODUCT
- ID=4651&FROMQRCODE=true\n[4]  https://forms.gle/gKVnBdtqcx8eiECQ9\n[5]  ht
- tps://gatech.campuslabs.com/engage/organization/trailblazers
-LOCATION:Cloudland Canyon State Park
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fall Break Trip to Cloudland Canyon
 DTSTART;VALUE=DATE:20191013
 DTEND;VALUE=DATE:20191014
@@ -21226,6 +21091,64 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  p://laurieheyl.com\n[24]  https://www.melodycenter.de/en/about-us/#Silke\n
  [25]  http://www.presentmomentliving.ca/\n[26]  http://thereleaseapp.com/\
  n[27]  https://www.bolttosuccess.com
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DramaTech Fall Festival 2020 ONLINE!
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201017T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201017T013000Z
+UID:http://hg.gatech.edu/node/640083#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nIt’s finally Fa
+ ll and DramaTech would like to invite you to celebrate with us at our firs
+ t ever Fall Festival!\nDramaTech's Fall Festival is a fully virtual event 
+ hosted by DT's Outreach Committee. It will be held over two nights (Octobe
+ r 16th and 17th) with a few different opportunities to come out for some F
+ all fun.\n\nOn Night One (October 16th @ 8pm)\, join us for a *gourd* time
+  as we put on a virtual variety show. Performers from the GT community hav
+ e submitted their acts and are excited for you to tune in and see their wi
+ de array of talents!\n\nOn Night Two (October 17th @ 6pm)\, join us for di
+ nner and a show! You can breathe a sigh of re*leaf* if you’re wondering 
+ what to do for dinner that night\, as one of DT’s own will be hosting a 
+ Cook-A-Long at 6pm! You can learn how to cook a delicious meal and ask any
+  and all DT related questions you may have along the way! After dinner is 
+ prepared and we’re all settled in at 7:30pm\, movie night will commence.
+  Join current DT members and many more from the GT community as we watch a
+  movie together and relax for the rest of the evening.\n\nWe hope to see y
+ ou all there! Check back here before showtime for the streaming links.\n\n
+ To recap\, here's the schedule of events:\n\nFriday\, October 16th @ 8:00p
+ m: Virtual Variety Show\n\nSaturday\, October 17th @ 6:00pm: Cook-A-Long a
+ nd a movie\n\nLinks:\n[0]  http://hg.gatech.edu/node/640083#0\n[1]  http:/
+ /www.dramatech.org
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DramaTech Fall Festival 2020 ONLINE!
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201018T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201018T013000Z
+UID:http://hg.gatech.edu/node/640083#1
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nIt’s finally Fa
+ ll and DramaTech would like to invite you to celebrate with us at our firs
+ t ever Fall Festival!\nDramaTech's Fall Festival is a fully virtual event 
+ hosted by DT's Outreach Committee. It will be held over two nights (Octobe
+ r 16th and 17th) with a few different opportunities to come out for some F
+ all fun.\n\nOn Night One (October 16th @ 8pm)\, join us for a *gourd* time
+  as we put on a virtual variety show. Performers from the GT community hav
+ e submitted their acts and are excited for you to tune in and see their wi
+ de array of talents!\n\nOn Night Two (October 17th @ 6pm)\, join us for di
+ nner and a show! You can breathe a sigh of re*leaf* if you’re wondering 
+ what to do for dinner that night\, as one of DT’s own will be hosting a 
+ Cook-A-Long at 6pm! You can learn how to cook a delicious meal and ask any
+  and all DT related questions you may have along the way! After dinner is 
+ prepared and we’re all settled in at 7:30pm\, movie night will commence.
+  Join current DT members and many more from the GT community as we watch a
+  movie together and relax for the rest of the evening.\n\nWe hope to see y
+ ou all there! Check back here before showtime for the streaming links.\n\n
+ To recap\, here's the schedule of events:\n\nFriday\, October 16th @ 8:00p
+ m: Virtual Variety Show\n\nSaturday\, October 17th @ 6:00pm: Cook-A-Long a
+ nd a movie\n\nLinks:\n[0]  http://hg.gatech.edu/node/640083#1\n[1]  http:/
+ /www.dramatech.org
 LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
