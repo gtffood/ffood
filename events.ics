@@ -3,53 +3,6 @@ VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
 SUMMARY:Fall Break Trip to Cloudland Canyon
-DTSTART;VALUE=DATE:20191013
-DTEND;VALUE=DATE:20191014
-UID:http://hg.gatech.edu/node/626105#1
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nGT Trailblazers invites you to our Fall Break trip t
- o Cloudland Canyon State Park!\n\nMore information [1]\n\nBrimming with st
- unning waterfalls\, gorgeous canyons\, and forest as far as the eye can se
- e\, this land in the heart of the North Georgia is the perfect getaway for
-  the busy Georgia Tech student. Our trip includes an afternoon exploring t
- he charming town of Chattanooga\, two days of taking in the views through 
- scenic day hikes\, followed by a day of service work to support keeping th
- e State Park beautiful and accessible for all visitors.\n\nAlongside a par
- k ranger\, our work may involve building needed trail infrastructure\, mai
- ntaining existing trails\, and removing damaging invasive species. Trails 
- we will hike will take around the canyon rims exposing panoramic views of 
- forested mountains\, scenic rivers and waterfalls\, and will be accessible
-  to all skill levels. In addition to hiking and trail service\, there will
-  be ample opportunity for stargazing\, campfire songs\, getting to know yo
- ur fellow Tech students\, and unwinding from the hustle and bustle of scho
- ol.\n\nThis is a great alternative break option which includes important a
- nd purposeful service activity\, a stress relieving getaway from school\, 
- and the chance to meet some great new people.\n\nThere are a total of 15 s
- pots available so tell your friends and sign up as soon as possible to res
- erve your spot. The cost of the trip is in the range of $50-100 (depending
-  on number of people signed up) which includes everything required- the ca
- mping fee\, food (excluding lunch in Chattanooga)\, transportation\, recre
- ation\, and shelter! The $20 payment to reserve your spot will go towards 
- your trip payment.\n\nLogistics-wise\, we will be leaving campus Saturday 
- morning October 12th\, camping in tents at a car-accessible campsite in th
- e forest\, and returning Tuesday October 15th in the afternoon.\n\nLearn m
- ore about Cloudland Canyon State Park [2]\nUse the payment link and form b
- elow to submit your payment information for consideration for the trip. Th
- ere will be a $20 dollar down payment to hold your spot that goes toward y
- our trip payment. Your submission for this trip will not be complete until
-  both the payment and the form information have been received. You will ne
- ed to submit a scanned copy of your driver's license/picture ID and health
-  insurance card in the Google Form.\n\nPayment Link [3]\nRegistration Goog
- le Form [4]\n\nLinks:\n[0]  http://hg.gatech.edu/node/626105#1\n[1]  http:
- //georgiatechtrailblazers.com/2019/09/17/alternative-break-trip-to-cloudla
- nd-canyon-state-park/\n[2]  https://gastateparks.org/CloudlandCanyon\n[3] 
-  https://epay.gatech.edu:443/C20793_ustores/web/product_detail.jsp?PRODUCT
- ID=4651&FROMQRCODE=true\n[4]  https://forms.gle/gKVnBdtqcx8eiECQ9\n[5]  ht
- tps://gatech.campuslabs.com/engage/organization/trailblazers
-LOCATION:Cloudland Canyon State Park
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fall Break Trip to Cloudland Canyon
 DTSTART;VALUE=DATE:20191014
 DTEND;VALUE=DATE:20191015
 UID:http://hg.gatech.edu/node/626105#2
@@ -20965,6 +20918,18 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  re information!\n\nLinks:\n[0]  http://hg.gatech.edu/node/639168#4\n[1]  e
  xpertjackets@gtsaa.com\n[2]  https://bluejeans.com/611690607?src=calendarL
  ink\n[3]  https://bluejeans.com/611690607?src=calendarLink\;
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coffee and Policy
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201015T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201015T233000Z
+UID:http://hg.gatech.edu/node/640127#0
+DESCRIPTION:Intended audience: Undergraduate students\nStatus: published\n
+ \nBring your coffee or your dinner and join us for a casual discussion of 
+ health policy!\n\nLinks:\n[0]  http://hg.gatech.edu/node/640127#0\n[1]  ht
+ tps://bluejeans.com/303937266\n[2]  https://sites.google.com/view/gtpublic
+ health/home
 LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
