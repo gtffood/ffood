@@ -2,140 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Nerdy Bones Summit 2019
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191018T130000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191019T020000Z
-UID:http://hg.gatech.edu/node/625594#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\, Freebies\nStatus: 
- published\n\nCisco and Georgia Tech's College of Computing are proud to sp
- onsor this year's Nerdy Bones summit! Nerdy Bones\, the student organizati
- on for women in the OMSCS program\, would like to invite you to a one-day 
- workshop designed to inspire\, connect\, engage and empower women in compu
- ting. Come network with other women and allies in the program. We’ll hav
- e Tech Talks\, panels to inspire and support your journey\, and some fun a
- nd games along the way!\n\nWhat: All day conference\nWhere: Klaus Building
- \nWhen: Friday\, October 18\, 2019\n9 a.m. - 5 p.m. Conference in Klaus 11
- 16 e/w\n1 - 2 p.m. Lunch in Klaus Atrium\n6 - 8 p.m. Dinner at Mary Mac's 
- Tea Room [1] *\n\n*transportation provided by a Georgia Tech Trolley to an
- d from dinner.\n\nPlease RSVP [2] quickly as space is limited to 50 guests
- !\n\nLinks:\n[0]  http://hg.gatech.edu/node/625594#0\n[1]  https://www.mar
- ymacs.com/\n[2]  https://gatech.co1.qualtrics.com/jfe/form/SV_0Vawy5VHKOst
- Cnj
-LOCATION:Klaus 1116 e/w
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SCPC Presents: Harry Potter Magicthon
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191018T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191019T023000Z
-UID:http://hg.gatech.edu/node/627331#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nSCPC Presents a free showing of Harry Potter and the Sorcerer's Stone! J
- oin us on Friday\, October 18 at the Student Center Theater. Come dressed 
- in your house colors/costumes and arrive at 6:30pm to participate in all o
- f our Harry Potter themed activities! The movie will begin at 7:30pm and p
- opcorn will be provided.\n\nOnce you reserve your ticket\, you will be ask
- ed to come pickup a physical ticket More information for ticket pick up wi
- ll be sent out on 10/14/2019.\n\nReserve your tickets here: https://gatech
- .universitytickets.com/w/event.aspx?id=1577\n\nPlease contact movies@scpc.
- gatech.edu if we can provide any accommodations to make this event more ac
- cessible or if you have any questions.\n\nLinks:\n[0]  http://hg.gatech.ed
- u/node/627331#0
-LOCATION:Student Center Theater
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yoga for the Soul
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191018T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191019T010000Z
-UID:http://hg.gatech.edu/node/625251#7
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nStatus: published\n\nWe at Bhakti Yoga Club at 
- Georgia Tech want to improve the quality of living of students and faculty
-  by teaching them principles for a stress-free\, happy and meaningful life
- . We offer free classes on various forms of yoga and vegan cooking every F
- riday in the Student Center from 7 PM! We do simple exercises followed by 
- yoga practices\, go deep into our consciousness and end with vegan snacks.
-  Don't miss this opportunity to learn Intentional Living\, Conscious Eatin
- g and Mindful Co-existence - this might be the point your life changed for
-  the better!\n\nLinks:\n[0]  http://hg.gatech.edu/node/625251#7\n[1]  http
- s://gatech.campuslabs.com/engage/organization/bhakti-yoga-gt\n[2]  https:/
- /www.facebook.com/BYCGT
-LOCATION:Piedmont Room\, Student Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:JDRF One Walk\, Atlanta 2019
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191019T110000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191019T150000Z
-UID:http://hg.gatech.edu/node/626879#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free Food\, Free Stuff\nStatus
- : published\n\nHosted by the College Diabetes Network at Georgia Tech\n\nJ
- DRF One Walk\, Atlanta 2019\n\nCDN@GT is participating in this year’s JD
- RF One Walk to Cure Diabetes\, and we need you to join us in raising money
-  for a cure! The One Walk is a 2.5 mile walk through Atlanta dedicated tow
- ards raising money towards type one diabetes research. The event raises aw
- areness about type one diabetes and supports life-changing breakthroughs t
- hat give hope to everyone impacted by this disease. You'll walk with a com
- mitted community that is passionate about doing whatever it takes to help 
- turn Type One into Type None.\n\nCDN@GT will be meeting up at 7:00am on Sa
- turday\, October 19th at the North Ave Apartments Turnaround to walk to Ce
- ntennial Olympic Park. The event itself takes place at 9:00am\, with food\
- , refreshments\, and activities offered afterwards.\n\nIf you can make it\
- , join our team online at [2]!\n\nLinks:\n[0]  http://hg.gatech.edu/node/6
- 26879#0\n[1]  https://gatech.campuslabs.com/engage/event/4979025\n[2]  htt
- p://www2.jdrf.org/goto/cdngt2019\n[3]  https://gatech.campuslabs.com/engag
- e/organization/college-diabetes-network-at-georgia-tech
-LOCATION:Meet at North Ave Apartments Turnaround
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Civic Engagement Initiative Regional Event: Atlanta
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191019T130000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191019T190000Z
-UID:http://hg.gatech.edu/node/627667#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nPAAIA’s Civic E
- ngagement Initiative is a program committed to encouraging and enabling Ir
- anian Americans to get involved as concerned members of their communities\
- , both nationally and locally. We aim to highlight the success stories of 
- Iranian Americans actively involved in public service and to encourage oth
- er Iranian Americans to participate in this space.\n\nAs part of the initi
- ative\, we're bringing civic engagement programs to cities throughout the 
- country. Our first regional event will be hosted in Atlanta\, Georgia at G
- eorgia Institute of Technology. The program will include some incredible s
- peakers and panels. Learn about how to tell your story effectively and use
-  it to enact change in your community. Hear from elected officials about t
- heir experiences running for office and how you can make a difference on t
- he local level.\n\nTicket Includes:\n\n- Five Panels and Keynote Speakers\
- n- Lunch\n- Take-home tips\n\nEarly Bird ticket sales end on October 16th.
-  General Admission is $35. Students may attend for $15\, but must have a s
- chool ID.\n\nTo attend\, please register online on the PAAIA website. [1]\
- n\nThe Event is sponsored by Sam Nunn School of International Affairs\, At
- lanta Global Studies Center\, Georgia Tech School of Modern Languages\, Ge
- orgia Tech School of History and Sociology\, Georgia Tech Iranian Student 
- Association\, Georgia Tech Iranian Studies Initiative\, Persian-American R
- esource Society (PARS).\n\nLinks:\n[0]  http://hg.gatech.edu/node/627667#0
- \n[1]  http://ceforum.paaia.org/register/
-LOCATION:Bill Moore Student Success Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saturday Food Distribution Volunteering
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191019T140000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191019T180000Z
-UID:https://gatech.campuslabs.com/engage/event/5053231
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFood4Lives is a service
-  family founded by students from Georgia Tech and Emory in 2017 to feed\, 
- educate and empower the homeless of Atlanta.\n\nWe all meet at 1122 old Ch
- attahoochee ave\, Atlanta @ 10:00 AM. We will car pool together to down to
- wn to gateWay center first to Serve out\, then to hurt park after we finis
- h cooking.\n\nOur menu usually is:\n\nYellow rice\nSandwiches (tomato’s\
- , cucumber\, lettuce\, cheese\, mustard\, ketchup\, hummus)\nLemonade\ncho
- colate milk\nchips & snacks\nSalad\nMacaroni and cheese\nQuesadillas\nFrui
- t salad\nGranola & Milk\nPancakes\n\nLinks:\n[0]  https://gatech.campuslab
- s.com/engage/event/5053231
-LOCATION:Food4lives Kitchen
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Community Dinner
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191020T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191020T230000Z
@@ -20297,6 +20163,30 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Virtual Event - Details forthcoming
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fall 2020 Grad Fest
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201020T130000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201020T210000Z
+UID:http://hg.gatech.edu/node/639943#1
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\, Freebies\nStatus: published\n\nGrad Fest is a one-sto
+ p shop for graduating bachelor's\, master's and Ph.D. students to complete
+  their commencement requirements. All fall graduates are encouraged to par
+ ticipate online.\n\nJoin us on the Grad Fest website to complete all your 
+ Commencement needs:\n\n- Purchase your regalia online at a discounted rate
+  for pick-up at the Georgia Tech Bookstore\n- RSVP and reserve tickets for
+  Commencement\n- Learn more about Balfour and the new virtual ring orderin
+ g process\n- Take professional cap and gown photos at the Exhibition Hall\
+ n- Attend virtual sessions hosted by the Career Center\, the Alumni Associ
+ ation and Balfour\n- Sign up for membership in the Alumni Association\n- D
+ iscounted Starbucks beverages when picking up regalia at the Georgia Tech 
+ Bookstore\n- Enter a raffle for a Georgia Tech Bookstore Alumni gift baske
+ t by ordering your regalia online\n\nLinks:\n[0]  http://hg.gatech.edu/nod
+ e/639943#1\n[1]  http://commencement.gatech.edu/commencement-fair\n[2]  ht
+ tp://www.commencement.gatech.edu/
+LOCATION:Grad Fest Website\, the Georgia Tech Barnes and Noble Bookstore a
+ nd Exhibition Hall
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Outdoor Open Office Hours
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201020T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201020T160000Z
@@ -20323,6 +20213,54 @@ DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us Tu
  ck channel for up-to-date information (online vs. in-person\, speakers\, e
  tc.).\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6158604
 LOCATION:Tech Wesley
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fall 2020 Grad Fest
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201021T130000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201021T210000Z
+UID:http://hg.gatech.edu/node/639943#2
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\, Freebies\nStatus: published\n\nGrad Fest is a one-sto
+ p shop for graduating bachelor's\, master's and Ph.D. students to complete
+  their commencement requirements. All fall graduates are encouraged to par
+ ticipate online.\n\nJoin us on the Grad Fest website to complete all your 
+ Commencement needs:\n\n- Purchase your regalia online at a discounted rate
+  for pick-up at the Georgia Tech Bookstore\n- RSVP and reserve tickets for
+  Commencement\n- Learn more about Balfour and the new virtual ring orderin
+ g process\n- Take professional cap and gown photos at the Exhibition Hall\
+ n- Attend virtual sessions hosted by the Career Center\, the Alumni Associ
+ ation and Balfour\n- Sign up for membership in the Alumni Association\n- D
+ iscounted Starbucks beverages when picking up regalia at the Georgia Tech 
+ Bookstore\n- Enter a raffle for a Georgia Tech Bookstore Alumni gift baske
+ t by ordering your regalia online\n\nLinks:\n[0]  http://hg.gatech.edu/nod
+ e/639943#2\n[1]  http://commencement.gatech.edu/commencement-fair\n[2]  ht
+ tp://www.commencement.gatech.edu/
+LOCATION:Grad Fest Website\, the Georgia Tech Barnes and Noble Bookstore a
+ nd Exhibition Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fall 2020 Grad Fest
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201022T130000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201022T210000Z
+UID:http://hg.gatech.edu/node/639943#3
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\, Freebies\nStatus: published\n\nGrad Fest is a one-sto
+ p shop for graduating bachelor's\, master's and Ph.D. students to complete
+  their commencement requirements. All fall graduates are encouraged to par
+ ticipate online.\n\nJoin us on the Grad Fest website to complete all your 
+ Commencement needs:\n\n- Purchase your regalia online at a discounted rate
+  for pick-up at the Georgia Tech Bookstore\n- RSVP and reserve tickets for
+  Commencement\n- Learn more about Balfour and the new virtual ring orderin
+ g process\n- Take professional cap and gown photos at the Exhibition Hall\
+ n- Attend virtual sessions hosted by the Career Center\, the Alumni Associ
+ ation and Balfour\n- Sign up for membership in the Alumni Association\n- D
+ iscounted Starbucks beverages when picking up regalia at the Georgia Tech 
+ Bookstore\n- Enter a raffle for a Georgia Tech Bookstore Alumni gift baske
+ t by ordering your regalia online\n\nLinks:\n[0]  http://hg.gatech.edu/nod
+ e/639943#3\n[1]  http://commencement.gatech.edu/commencement-fair\n[2]  ht
+ tp://www.commencement.gatech.edu/
+LOCATION:Grad Fest Website\, the Georgia Tech Barnes and Noble Bookstore a
+ nd Exhibition Hall
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SAA Alumni Connections Committee Meeting
@@ -20379,6 +20317,30 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is the weekly gath
   fellowship with one another.\n\nLinks:\n[0]  https://gatech.campuslabs.co
  m/engage/event/6155496
 LOCATION:Blueprint Church
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fall 2020 Grad Fest
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201023T130000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201023T210000Z
+UID:http://hg.gatech.edu/node/639943#4
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\, Freebies\nStatus: published\n\nGrad Fest is a one-sto
+ p shop for graduating bachelor's\, master's and Ph.D. students to complete
+  their commencement requirements. All fall graduates are encouraged to par
+ ticipate online.\n\nJoin us on the Grad Fest website to complete all your 
+ Commencement needs:\n\n- Purchase your regalia online at a discounted rate
+  for pick-up at the Georgia Tech Bookstore\n- RSVP and reserve tickets for
+  Commencement\n- Learn more about Balfour and the new virtual ring orderin
+ g process\n- Take professional cap and gown photos at the Exhibition Hall\
+ n- Attend virtual sessions hosted by the Career Center\, the Alumni Associ
+ ation and Balfour\n- Sign up for membership in the Alumni Association\n- D
+ iscounted Starbucks beverages when picking up regalia at the Georgia Tech 
+ Bookstore\n- Enter a raffle for a Georgia Tech Bookstore Alumni gift baske
+ t by ordering your regalia online\n\nLinks:\n[0]  http://hg.gatech.edu/nod
+ e/639943#4\n[1]  http://commencement.gatech.edu/commencement-fair\n[2]  ht
+ tp://www.commencement.gatech.edu/
+LOCATION:Grad Fest Website\, the Georgia Tech Barnes and Noble Bookstore a
+ nd Exhibition Hall
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Outdoor Open Office Hours
@@ -21247,6 +21209,22 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
   posted closer to event\n\nBio:\n> Additional details posted closer to eve
  nt\n\nLinks:\n[0]  http://hg.gatech.edu/node/638395#0
 LOCATION:Virtual Event - Details forthcoming
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WST Lrn C with Meg Sonstroem\, International Education
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201116T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201117T000000Z
+UID:http://hg.gatech.edu/node/640307#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nMeg Sonstroem (International Educ
+ ation) will speak about study abroad and exchange opportunities with WST L
+ earning Community residents and any other interested students. Blue Jeans 
+ link: https://bluejeans.com/813148070\n\nWST Learning Community residents 
+ can pick up meals in Stein at 5:30pm on Monday\, November 16.\nOIE's websi
+ te: https://oie.gatech.edu/\nSearch countries and programs:\nhttps://atlas
+ .gatech.edu/index.cfm?FuseAction=Programs.ListAll\n\nLinks:\n[0]  http://h
+ g.gatech.edu/node/640307#0
+LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Outdoor Open Office Hours
