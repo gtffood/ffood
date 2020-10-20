@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Community Dinner
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191020T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191020T230000Z
-UID:https://gatech.campuslabs.com/engage/event/4604165
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome join us for a nigh
- t of fellowship and a free Community Dinner after the 5pm mass!\n\nLinks:\
- n[0]  https://gatech.campuslabs.com/engage/event/4604165
-LOCATION:The Catholic Center at Georgia Tech
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Amazon Day in the Lobby
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191021T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191021T200000Z
@@ -21242,6 +21232,20 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  atech.edu/node/639683#13\n[1]  http://instagram.com/gtoue\n[2]  http://oue
  .gatech.edu
 LOCATION:Tech Green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Faculty-Grad Student Mixer
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201118T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201118T180000Z
+UID:http://hg.gatech.edu/node/640313#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \nStatus: published\n\nHSOC will host a meet-and-greet/mixer for faculty a
+ nd graduate students on Wednesday\, November 18th at 12 PM. This event is 
+ a digital substitute for the usual in-person lunch at orientation\, and is
+  a great opportunity to meet faculty you have not already met in class. A 
+ Bluejeans link will be sent out closer to the date\, so mark your calendar
+ s and keep an eye out.\n\nLinks:\n[0]  http://hg.gatech.edu/node/640313#0
+LOCATION:Virtual\, Link TBA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SAA Alumni Connections Committee Meeting
