@@ -2,534 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Treble Choir Fall Concert
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191022T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191023T003000Z
-UID:http://hg.gatech.edu/node/626771#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free Food\nStatus: published\n
- \nCome and "Fall in Love" with the Treble Choir at our annual fall concert
- ! We will explore different themes of love that include images of family w
- ith "Lineage" by composer Andrea Ramsey\, as well as community with a rive
- ting arrangement of Avicii's popular tune\, "Hey Brother." This year's the
- me is unique and promises to be our most diverse musical experience yet! A
- dmission is free and free foodand refreshments will be provided following 
- the concert.\n\nLinks:\n[0]  http://hg.gatech.edu/node/626771#0\n[1]  http
- s://gatech.campuslabs.com/engage/event/5063517
-LOCATION:West Village Concert Hall (Room 175)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scare Away Cancer: DKMS Swab Drive
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191023T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191023T180000Z
-UID:http://hg.gatech.edu/node/627714#1
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nHosted by the Love Your Melon Cam
- pus Crew at Georgia Tech\n\nThe Georgia Tech Love Your Melon Crew is hosti
- ng a DKMS Swab Drive to add members to the Bone Marrow Donor Registry. Wit
- h a few minutes of your time and a cotton swab\, you can change the course
-  of someone's life. People around the world need younger\, healthier bone 
- marrow donors like us to step up and register. Come by our table on from 1
- 1-2 Tuesday-Thursday to register and get some Halloween treats. Join us to
-  save lives & scare away cancer!\n\nLocations:\n\n- Tuesday\, Oct. 22: Tec
- h Walkway near the Kessler Campanile\n- Wednesday\, Oct. 23: Outside the F
- erst Center for the Arts\n- Thursday\, Oct. 24: Tech Walkway near the Kess
- ler Campanile\n\nLinks:\n[0]  http://hg.gatech.edu/node/627714#1\n[1]  htt
- ps://gatech.campuslabs.com/engage/event/5052379\n[2]  https://gatech.campu
- slabs.com/engage/organization/love-your-melon-campus-crew-at-georgia-tech
-LOCATION:10/22 and 10/24: Tech Walkway\; 10/23: Outside Ferst Center for t
- he Arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Staff Council Fall Harvest Meet & Greet
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191023T153000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191023T170000Z
-UID:http://hg.gatech.edu/node/627198#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nFall into some fun at upcoming Staff Council Fa
- ll Harvest Meet & Greet with your friends and coworkers. All Georgia Tech 
- staff are invited to the Fall Harvest [1] at the Student Center Ballroom o
- n Wednesday\, October 23 from 11:30 a.m. – 1:00 p.m.\, hosted by Staff C
- ouncil. Employees can enjoy fun games\, snacks\, and win prizes\, and meet
-  Staff Council members who will be available to answer questions about the
-  Georgia Tech Staff Council and listen to any staff-related concerns and i
- deas. Be sure to RSVP [1] by October 21.\n\nFor the past two years\, Staff
-  Council held four Meet and Greets in various locations across campus\, in
- cluding the Spring Splash in May at Couch Park which had more than 300 emp
- loyees in attendance.\n\nMore about the Staff Council: The Staff Council e
- xists to understand perspectives that are representative of the broad popu
- lation of staff about matters of institutional importance\, and to communi
- cate those perspectives along with advice and suggestions to the Institute
-  President and executive officers at regular intervals. The Staff Council 
- meets the third Tuesday of each month at 9 a.m. The meeting location varie
- s and can be found on the Staff Council calendar.\n\nFor more information\
- , please\, visit [2].\n\nLinks:\n[0]  http://hg.gatech.edu/node/627198#0\n
- [1]  https://staffcouncil.gatech.edu/rsvp-i\n[2]  http://staffcouncil.gate
- ch.edu/
-LOCATION:Student Center Ballroom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SCL IRC Seminar: Bringing Intelligent Supply Chain to Life: Practi
- cal Paths on Azure
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191023T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191023T173000Z
-UID:http://hg.gatech.edu/node/626219#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nStatus: published\n\nThe Supply Chain and Logist
- ics Institute hosts a series of monthly seminars open to interested facult
- y\, students and corporate partners as well as the general public. If you 
- are interested in attending any of the sessions\, please review the below 
- information and register online.\n\nSESSION OVERVIEW\n\nThough building a 
- Connected Intelligent Supply Chain can seem daunting\, we say Think Big\, 
- Start Small\, Move Fast. To that end\, the Microsoft Azure ecosystem provi
- des platforms\, products\, and services to accelerate incremental building
-  of hybrid solutions no matter the scale. From Industrial IoT to Blockchai
- n to Modern Workplace to Business Intelligence and Visualization to Augmen
- ted Reality\, Microsoft spans the entire breadth and depth of digital tran
- sformation. Finally\, layering AI into these solutions to further drive in
- sight\, safety\, and value has never been easier than it is today on Azure
-  with Cognitive Services and Azure Machine Learning.\n\nSESSION SPEAKER\n\
- nDr. Keith Duggar [1]\, Principal Industry Technology Strategist at Micros
- oft Corporation\, is a Georgia Tech and MIT alum who works with enterprise
-  manufacturing companies to envision\, architect\, and execute digital tra
- nsformation including all technological aspects of Connected Intelligent E
- nterprise. He brings 20+ Years of Quantitative Data Analytics\, Machine Le
- arning\, and Applied Math experience and 10+ Years of High Performance Low
-  Latency Decentralized Computing\, Data Modeling\, Data System Design\, an
- d Data Strategy experience.\n\nRegister Online for upcoming SCL IRC semina
- rs [2]\n\nAttendance to the sessions is complimentary for SCL corporate pa
- rtners\, SCL Industry Advisory Board members\, SCL affiliated faculty and 
- students\, and students enrolled in the Masters in Supply Chain Engineerin
- g program.\n\nTo take advantage of the included lunch\, you must register 
- by deadline noted on the registration page.\n\nIf you have any questions\,
-  please email event@scl.gatech.edu.\n\nLinks:\n[0]  http://hg.gatech.edu/n
- ode/626219#0\n[1]  http://www.linkedin.com/in/dr-keith-duggar-591b283\n[2]
-   https://www.scl.gatech.edu/sclirc/seminars/register\n[3]  http://www.man
- ufacturing.gatech.edu/directions
-LOCATION:GTMI: 1st floor Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SCL IRC Seminar: Oct 2019
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191023T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191023T173000Z
-UID:http://hg.gatech.edu/node/623651#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nStatus: draft\n\nThe Supply Chain and Logistics 
- Institute hosts a series of monthly seminars open to interested faculty\, 
- students and corporate partners as well as the general public. If you are 
- interested in attending any of the sessions\, please review the below info
- rmation and register online.\n\nSCL IRC Seminar Title\nKeith Duggar\, Clou
- d Solution Architect\, Microsoft Corporation\n\nSCL IRC Seminar descriptio
- n paragraph.\n\nRegister Online for upcoming SCL IRC seminars [1]\n\nAtten
- dance to the sessions is complimentary for SCL corporate partners\, SCL In
- dustry Advisory Board members\, SCL affiliated faculty and students\, and 
- students enrolled in the Masters in Supply Chain Engineering program.\n\nT
- o take advantage of the included lunch\, you must register by deadline not
- ed on the registration page.\n\nIf you have any questions\, please email e
- vent@scl.gatech.edu.\n\nLinks:\n[0]  http://hg.gatech.edu/node/623651#0\n[
- 1]  https://www.scl.gatech.edu/sclirc/seminars/register\n[2]  http://www.m
- anufacturing.gatech.edu/directions
-LOCATION:GTMI: 1st floor Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alpha Kappa Psi Personal Finance Week
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191023T210000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191023T220000Z
-UID:http://hg.gatech.edu/node/627756#2
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nNow that we are in college\, our transition to adult
- hood includes being able to responsibly manage our money. An epidemic acro
- ss the U.S.\, however\, is that many college students — with studies rep
- orting up to 40% — are not adequately educated in personal finance.\n\nI
- nstead of being part of that statistic\, take an active role in preparing 
- yourself for life by coming out to Personal Finance Week! This is a week p
- acked with events and speakers purposefully picked to boost your financial
-  literacy. Each day will feature instruction in a specific concept from an
-  expert in the industry\, and the week is broken down as follows:\n\nPerso
- nal Finance Week\, October 21-25\n\n- Day 1: Saving and Budgeting with AJM
-  Financial (Room 319\, Student Center)\n- Day 2: Banking with Bank of Amer
- ica (Room 321\, Student Center)\n- Day 3: Loans and Mortgages with Keller 
- Williams (Piedmont Room\, Student Center)\n- Day 4: Investing with Merrill
-  Lynch (Room 319\, Student Center)\n- Day 5: Monopoly Tournament! Win Priz
- es!! (Room 319\, Student Center)\n\nNot only will you be getting instructi
- on from experts of top companies\, you will also get a free shirt\, AND ea
- ch event will be held with free food!\n\nTo get started\, RSVP here [1].\n
- \nLinks:\n[0]  http://hg.gatech.edu/node/627756#2\n[1]  https://forms.gle/
- sH66QEt6KXtmVJ5r7
-LOCATION:Student Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EWH General Body Meeting (10/24)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191024T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191024T153000Z
-UID:https://gatech.campuslabs.com/engage/event/4966939
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nGeneral body meeting in
-  Klaus 2456 at 11 AM on Thursday\, October 24\,2019. We will have FREE FOO
- D so make sure to RVSP!\n\nLinks:\n[0]  https://gatech.campuslabs.com/enga
- ge/event/4966939
-LOCATION:Klaus 2456
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Study Abroad Panel
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191024T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191024T154500Z
-UID:https://gatech.campuslabs.com/engage/event/5061779
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome hear from people w
- ho have studied abroad about their experiences and ask any questions you h
- ave!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5061779
-LOCATION:Van Leer C340
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideas to Serve (I2S) Info Session and Lunch
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191024T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191024T160000Z
-UID:http://hg.gatech.edu/node/625693#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nPlease join us on Thursday\, October 24\, 2019\, from 11:00 am- 12:00 pm
- \, Room 101 of the Scheller College of Business to learn more about the Id
- eas to Serve Competition. The competition is for current Georgia Tech stud
- ents and recent alumni who are exploring a social/environmental issue with
-  the intent of gaining a deep understanding of that space and where they f
- it in (Problem Discovery track)\, and those who are more advanced on their
-  discovery journey and are formulating community-based solutions\, which c
- an be innovation\, replication\, and/or collaboration- based (Solutions Di
- scovery Track).\n\nDuring the spring semester\, a series of workshops (Mon
- days at 4:30 in CoB) - also offered for course credit through MGT4803J: So
- cial Impact - will support students in their problem discovery journey.\n\
- nI2S is a Serve-Learn-Sustain affiliated program and participation in the 
- competition fulfills the Final Deliverable of the Innovating for Social Im
- pact program offered by SLS.\n\nContact Dori Pap [1] for more information.
- \n\nPlease RSVP [2] for a guaranteed meal and learn more at our website [3
- ].\n\nLinks:\n[0]  http://hg.gatech.edu/node/625693#0\n[1]  http://www.sch
- eller.gatech.edu/news-events/events/dori.pap@ile.gatech.edu\n[2]  http://i
- lebackend.gatech.edu/i2sinfo\n[3]  http://scheller.gatech.edu/centers-init
- iatives/ile/i2s/index.html\n[4]  https://serve-learn-sustain.gatech.edu/in
- novating-social-impact-program\n[5]  https://www.scheller.gatech.edu/cente
- rs-initiatives/ile/i2s/index.html
-LOCATION:Room 101\, Scheller College of Business
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scare Away Cancer: DKMS Swab Drive
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191024T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191024T180000Z
-UID:http://hg.gatech.edu/node/627714#2
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nHosted by the Love Your Melon Cam
- pus Crew at Georgia Tech\n\nThe Georgia Tech Love Your Melon Crew is hosti
- ng a DKMS Swab Drive to add members to the Bone Marrow Donor Registry. Wit
- h a few minutes of your time and a cotton swab\, you can change the course
-  of someone's life. People around the world need younger\, healthier bone 
- marrow donors like us to step up and register. Come by our table on from 1
- 1-2 Tuesday-Thursday to register and get some Halloween treats. Join us to
-  save lives & scare away cancer!\n\nLocations:\n\n- Tuesday\, Oct. 22: Tec
- h Walkway near the Kessler Campanile\n- Wednesday\, Oct. 23: Outside the F
- erst Center for the Arts\n- Thursday\, Oct. 24: Tech Walkway near the Kess
- ler Campanile\n\nLinks:\n[0]  http://hg.gatech.edu/node/627714#2\n[1]  htt
- ps://gatech.campuslabs.com/engage/event/5052380\n[2]  https://gatech.campu
- slabs.com/engage/organization/love-your-melon-campus-crew-at-georgia-tech
-LOCATION:10/22 and 10/24: Tech Walkway\; 10/23: Outside Ferst Center for t
- he Arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GVU Center Brown Bag: Krystina Madej "Disney Animation: Story and 
- Technology"
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191024T153000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191024T170000Z
-UID:http://hg.gatech.edu/node/627620#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nExtras: Free food\nStatus: published\n\nAbstract
- :\n\nWalt Disney is described variously as an American entrepreneur\, a fi
- lm producer\, a pioneer of the American animation industry\, the founder o
- f the theme park industry. Public perception of him is of a filmmaker with
-  an uncanny ability to create entertaining family oriented animated films 
- and experiences. More than that Walt Disney was a visionary who believed t
- echnology should be pushed to its limits to realize stories\, provide expe
- riences\, and build worlds. That a technology did not exist or was not yet
-  ready to solve a problem was not an obstacle – his answer was always 
- – build it.\n\nDisney Stories: Getting to Digital (Lee & Madej\, 2012) d
- iscusses how Walt Disney and then the Walt Disney Company narratives evolv
- ed from traditional animation to computer games and online narrative exper
- iences. In the upcoming second edition (January 2020) I look at technology
-  as it has been used to enhance story from the first feature animation Sno
- w White and the Seven Dwarfs to the first VR short Cycles. This talk first
-  provides an overview of the technological innovation that has driven the 
- many arms of the Disney empire\, most recently the animatronics for the ne
- w Star Wars worlds at Walt Disney World and Disneyland. This is followed b
- y a presentation of Disney advances in technology made in the genre of ani
- mated films from the 1940s to today as Disney moved from the traditional m
- ethods of integrating animation and live action in Song of the South and l
- ater Mary Poppins\, to CGI assisted films beginning with Tron\, through ma
- ny iterations to Big Hero Six\, and finally to VR and its use in shorts su
- ch as Styles.\n\nSpeaker Bio:\n\nKrystina Madej is Professor of Practice a
- t Georgia Tech\, Atlanta\, where she has taught since 2011. Her research i
- nterests are play and games\, interactivity and collaboration in social me
- dia\, material culture of media\, and narrative across media. In particula
- r she looks at children’s traditional and digital games\, play and narra
- tives in social media and Disney’s approach to narrative and technology.
-  Her research has resulted in a number of books including Physical Play an
- d Children’s Digital Games (2016)\, Interactivity\, Collaboration\, and 
- Authoring in Social Media (2015)\, and Disney Stories: Getting to Digital 
- (2012). She has been visiting professor and taught courses in Narrative at
-  the Center for Digital Media in Vancouver\, Canada\, and in Children’s 
- Games\, Disney Animation\, and Design Thinking at the University of Lower 
- Silesia in Wroclaw\, Poland (both for the Erasmus program and the Masters 
- in Big Data\, Digital Media\, and Trendwatching ). Dr. Madej’s first int
- erest was in Fine Arts: she received her BFA from Concordia University in 
- Montreal\, Canada. She went on to a career as a design strategist and part
- nered with a colleague to start the first Industrial Design and Communicat
- ions business in western Canada that used computer technologies for the de
- sign and production of products\, graphics\, and exhibits. She later retur
- ned to academia and completed her doctoral studies in Digital Narrative at
-  the School of Interactive Art and Technology\, SFU\, Vancouver\, Canada.\
- n\nSchedule of Brown Bag Speakers Fall 2019 [1]\n\nLinks:\n[0]  http://hg.
- gatech.edu/node/627620#0\n[1]  https://www.gvu.gatech.edu/events/upcoming\
- n[2]  http://www.tsrb.gatech.edu/
-LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
- a\, Ga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Rethinking Sanctions Efficiency
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191024T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191024T173000Z
-UID:http://hg.gatech.edu/node/627559#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nPlease join the Sam Nunn School of International Affairs and the Center 
- for International Strategy\, Technology\, and Policy as they host Dr. Ivan
-  N. Timofeev\, Associate Professor at the Moscow State Institute for Inter
- nation-al Relations and Director of Programs at the Russian International 
- Affairs Council. Dr. Timofeev will revisit the issue of economic sanctions
-  efficiency\, with a specific focus on changes of business behavior when a
- ffected by governmental enforcement actions.\n\nThe event will be held in 
- the Student Center [1] room 319 with parking available in visitor lot 2 [2
- ].\n\nLinks:\n[0]  http://hg.gatech.edu/node/627559#0\n[1]  https://map.co
- ncept3d.com/?id=82#!m/184212\n[2]  https://map.concept3d.com/?id=82#!m/113
- 94
-LOCATION:Georgia Tech's Student Center\, Room 319
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IPaT Thursday Think Tank: Detecting and Measuring the Impact of Fo
- od Insecurity at Georgia Tech
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191024T193000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191024T210000Z
-UID:http://hg.gatech.edu/node/625746#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nIn 2016\, Georgia
-  Tech collected preliminary data through an online survey of 771 students.
-  The report found that 10% of Georgia Tech’s students responded being in
-  need of food assistance and that 16% prioritized working at their job ove
- r academics and extracurricular activities. Georgia Tech’s actions to fi
- ll this gap include opening Klemis Kitchen in 2015\, an on-campus food pan
- try that provides leftover food from the dining halls and Panera Bread as 
- well as canned donations from other sources. However\, in Spring 2019\, on
- ly 100 students have self-identified and enrolled in the program\; a far c
- ry from the 10% of students estimated in the 2016 survey.\n\nTo ensure bot
- h the highest levels of health and academic performance of all GT students
- \, we need to understand the effects of food insecurity/security on health
-  and academic performance\, identify effective methods of recognizing stud
- ents who are food insecure\, and develop interventions to that will increa
- se food security among those students who are food insecure. The purpose o
- f this preliminary study is to address the first two issues. Our specific 
- aims are 1) to understand the impact of food security/insecurity on academ
- ic performance and 2) identify passive tools that can predict profiles of 
- food insecure students that are specific to students within a semester per
- iod.\n\nModerators:\n\nJon Sanford\, Professor\, School of Industrial Desi
- gn\; Director\, Center for Assistive Technology and Environmental Access (
- CATEA)\n\nThomas Ploetz\, Associate Professor\, School of Interactive Comp
- uting\n\nMehrab Bin Morshed\, Ph.D. Student\, Human-Centered Computing\, G
- eorgia Tech\n\nMahalia Hart\, Graduate Student\, Georgia Tech\n\nLinks:\n[
- 0]  http://hg.gatech.edu/node/625746#0
-LOCATION:IPaT@Centergy\, 75 5th Street NW Suite 600\, Atlanta\, GA 30308
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Adulting: Cooking for Life
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191024T200000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191024T210000Z
-UID:http://hg.gatech.edu/node/625181#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nThe Adulting series introduces st
- udents to life skills that aren't taught in the classroom. Learn how to "a
- dult" as participants explore finances\, healthy eating\, purpose\, profes
- sionalism\, and other life skills proving you with the essential skills an
- d knowledge to be a successful adult.\n\nYou can attend all parts of this 
- series or participate in the sessions that seem most interesting to you. R
-  [1] egistration [2] not required but suggested!\n\nCooking for Life\nDate
- : October 24\nTime: 4:00pm-5:00pm\nLocation: Student Center Room 301\n\nCh
- eck out the other events in the adulting series:\n\nSelf-Defense with GTPD
- \nDate: November 7\nTime: 4:00pm-5:00pm\nLocation: Student Center Room 301
- \n\nDe-Stress with Paper & Clay\nDate: November 21\nTime: 10am-11:30am\nLo
- cation: Paper & Clay\n\nLinks:\n[0]  http://hg.gatech.edu/node/625181#0\n[
- 1]  https://gatech.co1.qualtrics.com/jfe/form/SV_cACc8LNoz8QqQrX\n[2]  htt
- ps://gatech.co1.qualtrics.com/jfe/form/SV_6QelTzs71WC9KXX
-LOCATION:Student Center Room 301
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alpha Kappa Psi Personal Finance Week
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191024T210000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191024T220000Z
-UID:http://hg.gatech.edu/node/627756#3
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nNow that we are in college\, our transition to adult
- hood includes being able to responsibly manage our money. An epidemic acro
- ss the U.S.\, however\, is that many college students — with studies rep
- orting up to 40% — are not adequately educated in personal finance.\n\nI
- nstead of being part of that statistic\, take an active role in preparing 
- yourself for life by coming out to Personal Finance Week! This is a week p
- acked with events and speakers purposefully picked to boost your financial
-  literacy. Each day will feature instruction in a specific concept from an
-  expert in the industry\, and the week is broken down as follows:\n\nPerso
- nal Finance Week\, October 21-25\n\n- Day 1: Saving and Budgeting with AJM
-  Financial (Room 319\, Student Center)\n- Day 2: Banking with Bank of Amer
- ica (Room 321\, Student Center)\n- Day 3: Loans and Mortgages with Keller 
- Williams (Piedmont Room\, Student Center)\n- Day 4: Investing with Merrill
-  Lynch (Room 319\, Student Center)\n- Day 5: Monopoly Tournament! Win Priz
- es!! (Room 319\, Student Center)\n\nNot only will you be getting instructi
- on from experts of top companies\, you will also get a free shirt\, AND ea
- ch event will be held with free food!\n\nTo get started\, RSVP here [1].\n
- \nLinks:\n[0]  http://hg.gatech.edu/node/627756#3\n[1]  https://forms.gle/
- sH66QEt6KXtmVJ5r7
-LOCATION:Student Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leadership for Social Good Study Abroad- Mingle with Program Alumn
- i
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191024T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191024T230000Z
-UID:http://hg.gatech.edu/node/627780#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: archived\n\nCome hear about the Leadership for
-  Social Good Study Abroad Program [1]\, which offers students the opportun
- ity to gain insight into global civil society\, to learn about the challen
- ges of creating and leading effective and sustainable social enterprises\,
-  and to make a positive impact by completing a project with a non-profit o
- rganization in Budapest\, Hungary.\n\nAll three courses offered as part of
-  this program qualify for the Leadership Minor - Business Track [2]. This 
- program is also affiliated with Serve-Learn-Sustain and fulfills both the 
- Engage and Learn requirements for the Innovating for Social Impact program
-  [3].\n\nJoin faculty and former study abroad students at the Eastern and 
- Central Europe Study Abroad Info Session! Pizza will be provided - please 
- RSVP.\n\nLinks:\n[0]  http://hg.gatech.edu/node/627780#0\n[1]  http://serv
- e-learn-sustain.gatech.edu/leadership-social-good-central-and-eastern-euro
- pe\n[2]  https://leadership.gatech.edu/content/minor-leadership-studies-0\
- n[3]  http://serve-learn-sustain.gatech.edu/innovating-social-impact-progr
- am\n[4]  http://ilebackend.gatech.edu/study-abroad-info?_ga=2.207516563.16
- 74213148.1568057969-1070860933.1533069407\n[5]  https://gteesa.blogspot.co
- m/2019/06/hungary-for-knowledge_26.html\n[6]  https://www.google.com/searc
- h?rlz=1C1GCEA_enUS865US865&sxsrf=ACYBGNQhWJzALjSJbgymiVcpC1MOuNZQSg:156779
- 2001763&q=Georgia+Institute+of+Technology&ludocid=13054475435580638479&lsi
- g=AB86z5ULAV3OIgR5qIgJxsxweIrZ&sa=X&ved=2ahUKEwiz2eKq4LzkAhXkm-AKHb0zBxsQ8
- G0oADAbegQIDRAn\n[7]  https://www.scheller.gatech.edu/centers-initiatives/
- ile/study_abroad/index.html
-LOCATION:Scheller College of Business\, ILE Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leadership for Social Good Study Abroad: Q&A
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191024T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191024T230000Z
-UID:http://hg.gatech.edu/node/627056#0
-DESCRIPTION:Intended audience: Graduate students\, Public\, Undergraduate 
- students\nExtras: Free food\nStatus: published\n\nCome ask questions to pr
- ogram Alumni and learn more about the Leadership for Social Good Study Abr
- oad Program [1]\, which offers students the opportunity to gain insight in
- to global civil society\, to learn about the challenges of creating and le
- ading effective and sustainable social enterprises\, and to make a positiv
- e impact by completing a project with a non-profit organization in Budapes
- t\, Hungary.\n\nAll three courses offered as part of this program qualify 
- for the Leadership Minor - Business Track [2]. This program is also affili
- ated with Serve-Learn-Sustain and fulfills both the Engage and Learn requi
- rements for the Innovating for Social Impact program [3].\n\nJoin faculty 
- and former study abroad students at the Eastern and Central Europe Study A
- broad Info Session! Pizza will be provided - please RSVP.\n\nLinks:\n[0]  
- http://hg.gatech.edu/node/627056#0\n[1]  http://serve-learn-sustain.gatech
- .edu/leadership-social-good-central-and-eastern-europe\n[2]  https://leade
- rship.gatech.edu/content/minor-leadership-studies-0\n[3]  http://serve-lea
- rn-sustain.gatech.edu/innovating-social-impact-program\n[4]  https://docs.
- google.com/forms/d/e/1FAIpQLScpPlw2tWbICQLIVO7Lw0soS3_yEDiuP4aMz3KrSBkeSjL
- GEw/viewform\n[5]  https://gteesa.blogspot.com/2019/06/hungary-for-knowled
- ge_26.html\n[6]  https://www.google.com/search?rlz=1C1GCEA_enUS865US865&sx
- srf=ACYBGNQhWJzALjSJbgymiVcpC1MOuNZQSg:1567792001763&q=Georgia+Institute+o
- f+Technology&ludocid=13054475435580638479&lsig=AB86z5ULAV3OIgR5qIgJxsxweIr
- Z&sa=X&ved=2ahUKEwiz2eKq4LzkAhXkm-AKHb0zBxsQ8G0oADAbegQIDRAn\n[7]  https:/
- /www.scheller.gatech.edu/centers-initiatives/ile/study_abroad/index.html
-LOCATION:Scheller College of Business\, ILE Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Success without Stress
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191024T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191024T230000Z
-UID:http://hg.gatech.edu/node/627374#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free Food\nStatus: published\n\nWe invite you to a workshop\, whe
- rein we share meditation and holistic breathing techniques as sustainable 
- tools to become successful\n\nEveryone wants to be successful in life\, bu
- t not many are aware of what success really is. The traditional notions of
-  success are associated with a lot of toiling\, stress\, and discomfort. I
- s that the only way we can succeed?\n\nSpiritual leader\, Sri Sri Ravi Sha
- nkar defines success as an attitude\, not just a phenomenon. The sign of s
- uccess is overwhelming joy\, confidence\, compassion\, generosity\, and a 
- smile that none can snatch away. Whatever happens in life\, if we can keep
-  these\, then we have really found success.So how do we achieve success? S
- uccess can really be brought about through managing our minds. We invite y
- ou to a workshop\, wherein we share meditation and holistic breathing tech
- niques as sustainable tools to become successful.\n\nWe invite you to a wo
- rkshop\, wherein we share meditation and holistic breathing techniques as 
- sustainable tools to become successful Everyone wants to be successful in 
- life\, but not many are aware of what success really is. The traditional n
- otions of success are associated with a lot of toiling\, stress\, and disc
- omfort. Is that the only way we can succeed?\nSpiritual leader\, Sri Sri R
- avi Shankar defines success as an attitude\, not just a phenomenon. The si
- gn of success is overwhelming joy\, confidence\, compassion\, generosity\,
-  and a smile that none can snatch away. Whatever happens in life\, if we c
- an keep these\, then we have really found success.\nSo how do we achieve s
- uccess? Success can really be brought about through managing our minds. We
-  invite you to a workshop\, wherein we share meditation and holistic breat
- hing techniques as sustainable tools to become successful.\n\nLinks:\n[0] 
-  http://hg.gatech.edu/node/627374#0\n[1]  https://gatech.campuslabs.com/en
- gage/event/5023129\n[2]  https://gatech.campuslabs.com/engage/organization
- /sky
-LOCATION:Room 332\, Student Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yoga in North Ave
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191024T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191024T233000Z
-UID:https://gatech.campuslabs.com/engage/event/4968656
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\n- Come and do yoga taug
- ht by a professional in the North Ave Gym on October 24th 6-7:30pm!\n- Wat
- er and snacks will be offered.\n- Wear comfortable clothes and bring a tow
- el or yoga mat if you have one!\n- Meet at the North Ave gates at 6:00 and
-  someone will let you in OR come with your PLs!\n\nLinks:\n[0]  https://ga
- tech.campuslabs.com/engage/event/4968656
-LOCATION:North Ave Gym
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arab Cards Game Night
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191024T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191025T000000Z
-UID:https://gatech.campuslabs.com/engage/event/5059840
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJOIN THE ARAB STUDENT O
- RGANIZATION FOR\n\nASO Arab Card Game Night\n\nMSE Atrium 1\, October 24th
-  6pm - 8pm\n\n901 Atlantic Dr\, Atlanta\, GA 30318\n\nRSVP USING THE GOOGL
- E FORM:\n\n[1]\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/
- 5059840\n[1]  https://forms.gle/iHQnRjAqxZcKwMtr8
-LOCATION:MSE Atrium 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Executive Advisory Board Dinner - Oct 24\,2019
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191024T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191025T000000Z
-UID:http://hg.gatech.edu/node/626054#0
-DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nExecuti
- ve Advisory Board Dinner\nWallace H. Coulter Department\nExternal Advisory
-  Board\nDinner\n\nThursday\, October 24th\n6-8pm\n\nThe Renaissance Hotel 
- Rooftop\n866 W. Peachtree Street NW\nAtlanta\, GA 30308\n\nThe Renaissance
-  Hotel is located near Tech Square and is a five minute walk from the GTEC
- H Hotel/Conference Center. Valet parking is available for a small fee.\n\n
- Links:\n[0]  http://hg.gatech.edu/node/626054#0
-LOCATION:The Renaissance Hotel Rooftop
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:GT VSA's 10th Annual Moon Festival
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191024T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191025T010000Z
@@ -576,24 +48,6 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  es\, and prizes!\n\nLinks:\n[0]  http://hg.gatech.edu/node/626695#0\n[1]  
  https://www.facebook.com/events/2686768154675789/
 LOCATION:Tech Green
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NVIDIA Tech Talk - HashGraph - Scalable Hash Tables Using A Sparse
-  Graph Data Structure
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191024T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191025T000000Z
-UID:http://hg.gatech.edu/node/627859#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nCome join us for an ev
- ening with NVIDIA on Thursday\, October 24th at 6:30pm in Klaus 1116EW!\nE
- xplore the future of GPU-Accelerated Data Analytics and Machine Learning i
- n an engaging talk led by Georgia Tech Alum and Senior Graph Software Engi
- neer\, Oded Green.\n\nFood and beverages will be provided. We'll even be r
- affling off a Jetson Nano!\n\nRSVP\nClick here [1] to RSVP!\n\nAgenda\n6:3
- 0PM - 7:15PM Tech Talk by Oded Green\n\n7:15PM-8PM Q&A and Networking\n\nL
- inks:\n[0]  http://hg.gatech.edu/node/627859#0\n[1]  https://www.eventbrit
- e.com/e/evening-with-nvidia-georgia-tech-tickets-77341984959
-LOCATION:Klaus 1116 EW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Design Your Halloween Costume
@@ -19886,6 +19340,48 @@ DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us Tu
 LOCATION:Tech Wesley
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SCPC Presents: Halloweek
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201028T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201029T020000Z
+UID:https://gatech.campuslabs.com/engage/event/6565526
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nSCPC Presents Halloweek
+ : a 3-day event throughout the week of Halloween\, starting with Murder My
+ stery on Wednesday\, October 28th (7-10 PM):\n\nOnce in a generation\, som
+ eone dares to complete the ultimate campus tradition: Stealing the T. This
+  Halloween\, someone did just that\, but their intentions are nefarious. T
+ he culprit must be found immediately\, or Georgia Tech as we know it may n
+ ot survive. Join SCPC October 28th 7-10 pm\, either in-person or virtually
+ \, on this twisty-turny mystery with familiar faces and locations to get t
+ he T back! Just be sure you watch your back...\n\nSign up for an in-person
+  or virtual time slot this Friday 10/23 at Georgia Tech Campus Tickets.\n\
+ nThen\, Harry Potter Magicthon on Friday\, October 30th at 5:30 PM and 9:1
+ 5 PM:\n\nHave you seen this wizard? A chilling wind sweeps across campus\,
+  and with it brings Harry Potter Magicthon: Prisoner of Azkaban! Do you dr
+ eam of catching a Cornish Pixie in a Jar\, creating a Harry Potter head bo
+ okmark\, drinking butter beer\, dueling it out in trivia\, and watching th
+ e movie with a friend? Both virtual and in-person\, this event goes straig
+ ht for your soul... unless you have a Patronus at hand?\n\nLastly\, Deathl
+ y Hallow(een) on Saturday\, October 31st from 7-11 PM:\n\nCalling all mugg
+ les and magicians! SCPC presents Deathly Hallow(een)\, the last event of H
+ alloweek\, which will take place in the Exhibition Hall on October 31st fr
+ om 7-11 PM. Join us dressed in your best costume for a costume contest\, m
+ ystical maze\, take-home craft or cookie decorating activity\, and many ot
+ her ghoulish games. Tickets for the in-person event can be reserved on Cam
+ pus Tickets starting Tuesday\, October 27th.\n\nFor those who would like t
+ o attend the event virtually\, we will be playing Jackbox games throughout
+  the duration of the event. There will also be a virtual walk-through of o
+ ur maze. If you would like to participate in the costume contest without a
+ ttending our in-person event\, virtual submissions will be open throughout
+  the week of the event.\n\nTickets for all three events go live soon on Ca
+ mpus Tickets at bit.ly/campustickets [1]\n\nLinks:\n[0]  https://gatech.ca
+ mpuslabs.com/engage/event/6565526\n[1]  https://l.facebook.com/l.php?u=htt
+ ps%3A%2F%2Fbit.ly%2Fcampustickets%3Ffbclid%3DIwAR1kZacU69qgCGgTsyMd64j85nJ
+ 7ok_oeioR9gOebg8A8NEgJSSpDRMEPXs&h=AT0HqHKryjjEKIUoavTac-L4S2a4zuemv3BPyGQ
+ IBLP6QQ2FLWogH1iwSPBQUSCYPn78cA62KEFy2kXicMoly0cmLMKKdCHx-n6yh81ijK3fMrNIW
+ QcRhxSHUT5LmF9yBymqPvue9n64tInyMonwjiVQxg
+LOCATION:Exhibition Hall
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Save the Date for SCPC Presents: Take a Professor to Lunch!
 DTSTART;VALUE=DATE:20201029
 DTEND;VALUE=DATE:20201030
@@ -20049,6 +19545,90 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  [25]  http://www.presentmomentliving.ca/\n[26]  http://thereleaseapp.com/\
  n[27]  https://www.bolttosuccess.com
 LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCPC Presents: Halloweek
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201030T213000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201031T000000Z
+UID:https://gatech.campuslabs.com/engage/event/6565527
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nSCPC Presents Halloweek
+ : a 3-day event throughout the week of Halloween\, starting with Murder My
+ stery on Wednesday\, October 28th (7-10 PM):\n\nOnce in a generation\, som
+ eone dares to complete the ultimate campus tradition: Stealing the T. This
+  Halloween\, someone did just that\, but their intentions are nefarious. T
+ he culprit must be found immediately\, or Georgia Tech as we know it may n
+ ot survive. Join SCPC October 28th 7-10 pm\, either in-person or virtually
+ \, on this twisty-turny mystery with familiar faces and locations to get t
+ he T back! Just be sure you watch your back...\n\nSign up for an in-person
+  or virtual time slot this Friday 10/23 at Georgia Tech Campus Tickets.\n\
+ nThen\, Harry Potter Magicthon on Friday\, October 30th at 5:30 PM and 9:1
+ 5 PM:\n\nHave you seen this wizard? A chilling wind sweeps across campus\,
+  and with it brings Harry Potter Magicthon: Prisoner of Azkaban! Do you dr
+ eam of catching a Cornish Pixie in a Jar\, creating a Harry Potter head bo
+ okmark\, drinking butter beer\, dueling it out in trivia\, and watching th
+ e movie with a friend? Both virtual and in-person\, this event goes straig
+ ht for your soul... unless you have a Patronus at hand?\n\nLastly\, Deathl
+ y Hallow(een) on Saturday\, October 31st from 7-11 PM:\n\nCalling all mugg
+ les and magicians! SCPC presents Deathly Hallow(een)\, the last event of H
+ alloweek\, which will take place in the Exhibition Hall on October 31st fr
+ om 7-11 PM. Join us dressed in your best costume for a costume contest\, m
+ ystical maze\, take-home craft or cookie decorating activity\, and many ot
+ her ghoulish games. Tickets for the in-person event can be reserved on Cam
+ pus Tickets starting Tuesday\, October 27th.\n\nFor those who would like t
+ o attend the event virtually\, we will be playing Jackbox games throughout
+  the duration of the event. There will also be a virtual walk-through of o
+ ur maze. If you would like to participate in the costume contest without a
+ ttending our in-person event\, virtual submissions will be open throughout
+  the week of the event.\n\nTickets for all three events go live soon on Ca
+ mpus Tickets at bit.ly/campustickets [1]\n\nLinks:\n[0]  https://gatech.ca
+ mpuslabs.com/engage/event/6565527\n[1]  https://l.facebook.com/l.php?u=htt
+ ps%3A%2F%2Fbit.ly%2Fcampustickets%3Ffbclid%3DIwAR1kZacU69qgCGgTsyMd64j85nJ
+ 7ok_oeioR9gOebg8A8NEgJSSpDRMEPXs&h=AT0HqHKryjjEKIUoavTac-L4S2a4zuemv3BPyGQ
+ IBLP6QQ2FLWogH1iwSPBQUSCYPn78cA62KEFy2kXicMoly0cmLMKKdCHx-n6yh81ijK3fMrNIW
+ QcRhxSHUT5LmF9yBymqPvue9n64tInyMonwjiVQxg
+LOCATION:Ferst Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCPC Presents: Halloweek
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201101T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201101T040000Z
+UID:https://gatech.campuslabs.com/engage/event/6565529
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nSCPC Presents Halloweek
+ : a 3-day event throughout the week of Halloween\, starting with Murder My
+ stery on Wednesday\, October 28th from 7-10 PM:\n\nOnce in a generation\, 
+ someone dares to complete the ultimate campus tradition: Stealing the T. T
+ his Halloween\, someone did just that\, but their intentions are nefarious
+ . The culprit must be found immediately\, or Georgia Tech as we know it ma
+ y not survive. Join SCPC October 28th 7-10 pm\, either in-person or virtua
+ lly\, on this twisty-turny mystery with familiar faces and locations to ge
+ t the T back! Just be sure you watch your back...\n\nSign up for an in-per
+ son or virtual time slot this Friday 10/23 at Georgia Tech Campus Tickets.
+ \n\nThen\, Harry Potter Magicthon on Friday\, October 30th at 5:30 PM and 
+ 9:15 PM:\n\nHave you seen this wizard? A chilling wind sweeps across campu
+ s\, and with it brings Harry Potter Magicthon: Prisoner of Azkaban! Do you
+  dream of catching a Cornish Pixie in a Jar\, creating a Harry Potter head
+  bookmark\, drinking butter beer\, dueling it out in trivia\, and watching
+  the movie with a friend? Both virtual and in-person\, this event goes str
+ aight for your soul... unless you have a Patronus at hand?\n\nLastly\, Dea
+ thly Hallow(een) on Saturday\, October 31st from 8PM-12AM:\n\nCalling all 
+ muggles and magicians! SCPC presents Deathly Hallow(een)\, the last event 
+ of Halloweek\, which will take place in the Exhibition Hall on October 31s
+ t from 8 PM-12 AM. Join us dressed in your best costume for a costume cont
+ est\, mystical maze\, take-home craft or cookie decorating activity\, and 
+ many other ghoulish games. Tickets for the in-person event can be reserved
+  on Campus Tickets starting Tuesday\, October 27th.\n\nFor those who would
+  like to attend the event virtually\, we will be playing Jackbox games thr
+ oughout the duration of the event. There will also be a virtual walk-throu
+ gh of our maze. If you would like to participate in the costume contest wi
+ thout attending our in-person event\, virtual submissions will be open thr
+ oughout the week of the event.\n\nTickets for all three events go live soo
+ n on Campus Tickets at bit.ly/campustickets [1]\n\nLinks:\n[0]  https://ga
+ tech.campuslabs.com/engage/event/6565529\n[1]  https://l.facebook.com/l.ph
+ p?u=https%3A%2F%2Fbit.ly%2Fcampustickets%3Ffbclid%3DIwAR1kZacU69qgCGgTsyMd
+ 64j85nJ7ok_oeioR9gOebg8A8NEgJSSpDRMEPXs&h=AT0HqHKryjjEKIUoavTac-L4S2a4zuem
+ v3BPyGQIBLP6QQ2FLWogH1iwSPBQUSCYPn78cA62KEFy2kXicMoly0cmLMKKdCHx-n6yh81ijK
+ 3fMrNIWQcRhxSHUT5LmF9yBymqPvue9n64tInyMonwjiVQxg
+LOCATION:Exhibition Hall
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sunday Morning Worship
