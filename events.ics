@@ -2,256 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:RHA Game Night
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191029T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191030T003000Z
-UID:http://hg.gatech.edu/node/627417#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nCome out for a night of super cool fun! Meet new peo
- ple\, eat pizza\, and play board games\, video games\, and karaoke!\n\nLin
- ks:\n[0]  http://hg.gatech.edu/node/627417#0
-LOCATION:Tech Rec\, Student Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RHA's Board Game Night
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191029T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191030T003000Z
-UID:http://hg.gatech.edu/node/628074#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: archived\n\nFree Pizza? Board Games? Karaoke? 
- Video Games? A night of endless fun?\n\nJoin RHA at Tech Rec on Tuesday\, 
- October 29\, from 6:30 pm to 8:30 pm for a fun night of board games\, vide
- o games\, pizza\, karaoke\, and more!\n\nLinks:\n[0]  http://hg.gatech.edu
- /node/628074#0
-LOCATION:Tech Rec
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GVU Center Research Showcase | Fall 2019
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191030T180000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191030T210000Z
-UID:http://hg.gatech.edu/node/628237#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: published\n\nVirtual reality\, robotics\,
-  civic computing\, information visualization and artificial intelligence a
- re just a few of the research areas that come to life at the GVU Center Re
- search Showcase and show how technology impacts the many ways society can 
- benefit from these innovations.\n\nThe GVU Center Research Showcase invite
- s you to experience Georgia Tech research in people-centered technology th
- at enhances our communities and impacts how we live day-to-day. More than 
- 100 interactive projects will let you touch\, control and imagine what tec
- hnology will enable in the future.\n\n[1]\n\nLinks:\n[0]  http://hg.gatech
- .edu/node/628237#0\n[1]  https://gvu.gatech.edu/gvu-center-research-showca
- se\n[2]  http://www.tsrb.gatech.edu/
-LOCATION:Technology Square Research Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Capital One Tech Talk: The Technology Behind Eno\, Capital One's N
- atural Language Intelligent Assistant
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191030T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191031T000000Z
-UID:http://hg.gatech.edu/node/627911#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nJoin Capital One for t
- heir Tech Talk at 6:30pm in Klaus 1443!\nAdvances in natural language proc
- essing (NLP) technology are increasingly breaking down barriers to reveal 
- better human-machine connection\, creating opportunities to develop nuance
- d and natural communication techniques that more accurately convey person-
- to-person dialogue and deliver better user experience.\n\nThese techniques
-  power Eno\, Capital One's first of its kind natural language intelligent 
- assistant. Thanks to the technology behind Eno\, it is always improving an
- d becoming more intelligent over time. With Eno\, regardless of channel\, 
- customers are able to get their questions answered digitally and quickly.\
- n\nIn this talk\, I'll share our language model which uses deep learning t
- o understand customer questions and the many variations associated with th
- e same intent. I'll also discuss challenges that these systems face as the
- y look to move from question answering to complex conversation.\n\nRSVP\nC
- lick here [1] to RSVP!\n\nLinks:\n[0]  http://hg.gatech.edu/node/627911#0\
- n[1]  https://capitalone.avature.net/events/EventRegistration?jobId=12095&
- source=Capital+One+Event
-LOCATION:Klaus 1443
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:History Con 2019
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191030T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191031T000000Z
-UID:http://hg.gatech.edu/node/627731#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
- aduate students\nExtras: Free food\, Freebies\nStatus: published\n\nThe Hi
- story and Sociology Club will be having its annual History Con and Hallowe
- en Costume Contest on October 30\, 2019 from 6:30-8:00 PM on the patio of 
- the Old Civil Engineering Building.\n\nThe event features a historical cos
- tume contest\, free food from Halal Guys\, Halloween candy\, and fun!\n\nL
- inks:\n[0]  http://hg.gatech.edu/node/627731#0
-LOCATION:Old Civil Engineering Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chai Chats
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191030T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191031T010000Z
-UID:http://hg.gatech.edu/node/628256#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nA-Town Showdown: Join A-Town Showdown and Chai Talks
-  GSU to discuss queer & trans identity within the South Asian community wh
- ile enjoying chai and other snacks.\n\nThe event will be held in Grace Hou
- se on Georgia Tech campus from 6:30 PM to 9 PM. Chai Talks provides a brav
- e space for folks of all identities to share their thoughts and experience
- s. Any and all are welcome to attend this event!\n\nSuggested donation to 
- attend the event is $2 and will support A-Town Showdown and National Queer
-  Asian Pacific Islander Alliance.\n\nLinks:\n[0]  http://hg.gatech.edu/nod
- e/628256#0
-LOCATION:Grace House\, 182 5th Street NW
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HHC Halloween Party
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191030T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191031T010000Z
-UID:https://gatech.campuslabs.com/engage/event/5033827
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nLooking for something f
- rightfully fun to do the night before Halloween? Stop by Brittain Rec. 7pm
- -9pm\, October 30th to decorate Insomnia cookies\, watch Halloweentown\, a
- nd hear the winner of the floor Halloween decoration contest announced!\n\
- nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5033827
-LOCATION:Brittain Rec
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:10th Annual Halloween Holla
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191031T100000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191031T130000Z
-UID:http://hg.gatech.edu/node/626503#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nExtras: Free food\nStatus: published\n\nThe CRC
-  is hosting the annual Halloween Holla 5K Run & Walk on October 31\, 2019.
-  Costumes are encouraged at this event\, so all ghosts\, ghouls and walker
- s are welcome!\n\nCheck In: 6am - 6:45am\, CRC Lobby [Doors open 5:30am]\n
- \nStart Time: 7am\, Tyler Brown Pi Mile\n\nPreregistration Details:\n\n- P
- aid Guaranteed Shirt Preregistration: Closes Oct.6th\n- Cost: $5\n- Event 
- t-shirt: Guaranteed shirt color (antique orange OR blackberry [black/purpl
- e]) and size (S - XXXL)\n- Number & T-shirt Pick Up: CRC Member Services D
- esk\, Oct. 30th\, 6am - 11pm​\n\nClick here for paid guaranteed shirt pr
- eregistration [1]\n\n- Complimentary Preregistration: Closes Oct. 29th\n- 
- Cost: Free\n- Event t-shirt: Provided for first 100 complimentary particip
- ants to check in (must complete course to receive) (size & color not guara
- nteed)\n- Number Pick Up: CRC Lobby Oct. 31st\, 6:00am - 6:45am\n- Doors O
- pen - 5:30am​\n\nClick here for complimentary preregistration ​ [2]\n\
- nEligibility:\n\nStudents\, staff\, and faculty are welcome to attend this
-  event. You do not need to be a member of the CRC to participate.\n\nBroug
- ht to you by Campus Recreation and sponsored by:\n\n- Barnes & Noble @ Geo
- rgia Tech [3]\n- Division of Campus Services [4]\n- Georgia Tech Police De
- partment [5]\n- Health Initiatives [6]\n\nLinks:\n[0]  http://hg.gatech.ed
- u/node/626503#0\n[1]  https://mycrc.gatech.edu/Program/GetProgramDetails?c
- ourseId=fbc07a61-9325-4386-abf3-2ed83fa39a3b&semesterId=cd56aab8-1185-4417
- -81af-7cf371d00952\n[2]  https://mycrc.gatech.edu/Program/GetProgramDetail
- s?courseId=222db323-f871-45df-afb5-cab3fa5c85a5&semesterId=cd56aab8-1185-4
- 417-81af-7cf371d00952\n[3]  https://gatech.bncollege.com/\n[4]  http://cam
- pusservices.gatech.edu/\n[5]  http://police.gatech.edu/\n[6]  http://healt
- hinitiatives.gatech.edu/
-LOCATION:Campus Recreation Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Landis+Gyr Info Session
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191031T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191031T154500Z
-UID:https://gatech.campuslabs.com/engage/event/5079165
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome out to hear about 
- opportunities with Landis+Gyr!\n\nLinks:\n[0]  https://gatech.campuslabs.c
- om/engage/event/5079165
-LOCATION:Van Leer C340
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Emergence of Urban Air Mobility
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191031T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191031T160000Z
-UID:http://hg.gatech.edu/node/628104#0
-DESCRIPTION:Intended audience: Public\nExtras: Free food\nStatus: publishe
- d\n\nThe Georgia Tech Chapter of the\n\nVertical Flight Society\ninvites y
- ou to hear\n\nThe Emergence of Urban Air Mobility\na talk by\n\nProf. Bria
- n German\nDirector of the Georgia Tech Center for Urban and Regional Air M
- obility (CURAM)\n\nPizza Provided\nOver the past two years\, the term "urb
- an air mobility (UAM)" has entered the vernacular of the aerospace industr
- y. Silicon Valley unicorns\, individual billionaires\, startup companies\,
-  automotive firms\, and traditional aerospace manufacturers worldwide are 
- investing in the development of over 200 electric vertical takeoff and lan
- ding (eVTOL) aircraft to serve the UAM market. Often called "flying cars" 
- or "air taxis\," these aircraft designs are novel\, incorporating many new
-  technologies. We are entering only the early days of UAM\, an era of grea
- t uncertainty. No one understands whether and how the market will emerge. 
- No one understands how eVTOL aircraft will be certified. No one understand
- s how to manage the airspace in cities when filled with air taxis. No one 
- understands how cities will regulate "vertiports" where aircraft will land
-  to embark and disembark passengers. No one understands which aircraft des
- igns will "win" and how the best design varies city to city. In this era o
- f uncertainty\, there is great opportunity\, and there is great risk. This
-  talk will provide an introduction to the current landscape of urban air m
- obility\n\nLinks:\n[0]  http://hg.gatech.edu/node/628104#0
-LOCATION:Montgomery Knight Building\, Room 317
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Georgia Tech-Lorraine Halloween Table
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191031T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191031T170000Z
-UID:http://hg.gatech.edu/node/628424#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nWant to learn more about spending
-  a semester at Georgia Tech-Lorraine? Stop by the Georgia Tech-Lorraine ta
- ble in the Student Center from 11-1pm to get your questions answered\, pic
- k up flyers and get free Halloween candy!\n\nLinks:\n[0]  http://hg.gatech
- .edu/node/628424#0\n[1]  https://lorraine.gatech.edu/
-LOCATION:Student Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GVU Center Brown Bag: HyunJoo Oh "Everyday Materials Transformed b
- y Computing"
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191031T153000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191031T170000Z
-UID:http://hg.gatech.edu/node/628034#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nExtras: Free food\nStatus: published\n\nAbstract
- :\n\nLook around at some of the familiar objects and materials in your sur
- roundings. These things can be transformed. By combining everyday material
- s with computing\, we can extend and reimagine their expressive and functi
- onal possibilities. We can also invite people to explore a new design spac
- e through making. In this talk\, HyunJoo will present her recent work in i
- ntegrating paper and recycled materials with computing and discuss a suite
-  of computational design tools her research team has developed. She will d
- escribe how combinations of everyday materials with computation can expand
-  creative possibilities while leveraging familiarity to empower designers 
- and learners.\n\nSpeaker Bio:\n\nHyunJoo Oh is an assistant professor with
-  a joint appointment in the School of Industrial Design and the School of 
- Interactive Computing at Georgia Tech. Working at the intersection of Huma
- n-Computer Interaction and Design\, she develops computational design tool
- s that integrate everyday materials with computing. Her work investigates 
- fundamental questions on how people see and think\, and make\, in particul
- ar how those are closely linked and shape each other. Her work has been pu
- blished and exhibited at ACM SIGCHI conferences such as CHI\, TEI\, and DI
- S\, and featured in venues including CNET and Maker Ed.\n\nSchedule of Bro
- wn Bag Speakers Fall 2019 [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/62
- 8034#0\n[1]  https://www.gvu.gatech.edu/events/upcoming\n[2]  http://www.t
- srb.gatech.edu/
-LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
- a\, Ga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Strategic Plan: Students-Only Visioning Session
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191031T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191031T230000Z
-UID:http://hg.gatech.edu/node/627936#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nAs we embark on a new chapter of our history\, Presi
- dent Cabrera invites you to engage in a communitywide process to define ou
- r collective aspirations for the next decade. The changing of the guard at
-  Tech offers a unique opportunity for us to reimagine our future\, craft a
-  new vision\, and develop a new strategic plan.\n\nOver the next few month
- s\, we will use a process called “appreciative inquiry” to craft that 
- vision. Appreciative inquiry leverages the power of positive conversation 
- and stories of success to build on an organization’s strengths.\n\nDurin
- g this interactive students-only session\, participants will be guided thr
- ough a process designed to spotlight personal points of Yellow Jacket prid
- e and dream about the future for Georgia Tech.\n\nJoin us and lend your vo
- ice!\n\n**FREE FOOD**\n\nLinks:\n[0]  http://hg.gatech.edu/node/627936#0\n
- [1]  https://gatech.co1.qualtrics.com/jfe/form/SV_3JG61bi3wEqyVIV
-LOCATION:Clough Atrium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SCPC Presents: Haunted Knights
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191031T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191101T020000Z
@@ -18968,6 +18718,19 @@ DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us Tu
 LOCATION:Tech Wesley
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:OMED Post-election Kickback
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201104T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201104T203000Z
+UID:http://hg.gatech.edu/node/640791#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nThe Office of Minority Educationa
+ l Development (OMED) will host a post-election kickback in the Chapin Buil
+ ding\, Wednesday\, November 4 from 10 a.m. – 3:30 p.m. Students are invi
+ ted to come by\, grab food\, listen to music\, hop on the open mic\, or di
+ alogue with others!\n\nLinks:\n[0]  http://hg.gatech.edu/node/640791#0
+LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Petit Institute Distinguished Lecture
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201104T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201104T180000Z
@@ -19026,6 +18789,33 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  titinstitute.gatech.edu/
 LOCATION:Parker H. Petit Institute for Bioengineering and Bioscience\, Atr
  ium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE Yoga for Body\, Mind & Soul
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201105T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201105T013000Z
+UID:https://gatech.campuslabs.com/engage/event/6582622
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nWe strive 
+ to provide a healing family environment in these uncertain times. This eve
+ nt will be socially distanced and PPE is required!\n\nWe at Bhakti Yoga Cl
+ ub at GeorgiaTech want to improve the quality of living of students and fa
+ culty by teaching them principles for a stress-free\, happy and meaningful
+  life. Our teacher has been practicing the principles of yoga for 40 years
+  and has a deep desire to share this knowledge to heal students. We offer 
+ free online classes on various forms of yoga every day. We do simple yoga 
+ practices and go deep into our consciousness with discussions from differe
+ nt ancient Yoga texts. Don't miss this opportunity to learn Intentional Li
+ ving\, Conscious Eating and Mindful Co-existence - this might be the point
+  where your life is changed for the better!\n\nZoom video link to join eve
+ ry day. Recorded Videos on Facebook live page.\n\nFollow us on Facebook an
+ d Instagram:\n\n[1]\n\nhttps://www.instagram.com/gtbhaktiyoga/ [2]\n\nLink
+ s:\n[0]  https://gatech.campuslabs.com/engage/event/6582622\n[1]  https://
+ www.facebook.com/BYCGT/\n[2]  https://l.facebook.com/l.php?u=https%3A%2F%2
+ Fwww.instagram.com%2Fgtbhaktiyoga%2F%3Ffbclid%3DIwAR12tEkQBTPUw_gzAzvDJrqs
+ eyCszcAHKwfYNOjCcGWKzNpBrxK_hX53j7Y&h=AT09WxecGIcpUyrCBsRa8SVVc8a1kEW_Kwmc
+ hedAq6T_PyKCwrx9dDL7rGz3pycHvGBK48ML0WwJOYkBQXy0DUYghfK9H2RBxDZTKswS-9kgqg
+ MpV5q0bloL7ObExJvOrQ
+LOCATION:Couch Park (Burger Bowl)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SAA Alumni Connections Committee Meeting
@@ -19221,6 +19011,33 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  atech.edu/node/639683#11\n[1]  http://instagram.com/gtoue\n[2]  http://oue
  .gatech.edu
 LOCATION:Tech Green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE Yoga for Body\, Mind & Soul
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201112T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201112T013000Z
+UID:https://gatech.campuslabs.com/engage/event/6582623
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nWe strive 
+ to provide a healing family environment in these uncertain times. This eve
+ nt will be socially distanced and PPE is required!\n\nWe at Bhakti Yoga Cl
+ ub at GeorgiaTech want to improve the quality of living of students and fa
+ culty by teaching them principles for a stress-free\, happy and meaningful
+  life. Our teacher has been practicing the principles of yoga for 40 years
+  and has a deep desire to share this knowledge to heal students. We offer 
+ free online classes on various forms of yoga every day. We do simple yoga 
+ practices and go deep into our consciousness with discussions from differe
+ nt ancient Yoga texts. Don't miss this opportunity to learn Intentional Li
+ ving\, Conscious Eating and Mindful Co-existence - this might be the point
+  where your life is changed for the better!\n\nZoom video link to join eve
+ ry day. Recorded Videos on Facebook live page.\n\nFollow us on Facebook an
+ d Instagram:\n\n[1]\n\nhttps://www.instagram.com/gtbhaktiyoga/ [2]\n\nLink
+ s:\n[0]  https://gatech.campuslabs.com/engage/event/6582623\n[1]  https://
+ www.facebook.com/BYCGT/\n[2]  https://l.facebook.com/l.php?u=https%3A%2F%2
+ Fwww.instagram.com%2Fgtbhaktiyoga%2F%3Ffbclid%3DIwAR12tEkQBTPUw_gzAzvDJrqs
+ eyCszcAHKwfYNOjCcGWKzNpBrxK_hX53j7Y&h=AT09WxecGIcpUyrCBsRa8SVVc8a1kEW_Kwmc
+ hedAq6T_PyKCwrx9dDL7rGz3pycHvGBK48ML0WwJOYkBQXy0DUYghfK9H2RBxDZTKswS-9kgqg
+ MpV5q0bloL7ObExJvOrQ
+LOCATION:Couch Park (Burger Bowl)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SAA Alumni Connections Committee Meeting
@@ -19445,6 +19262,33 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Virtual\, Link TBA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FREE Yoga for Body\, Mind & Soul
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201119T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201119T013000Z
+UID:https://gatech.campuslabs.com/engage/event/6582624
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nWe strive 
+ to provide a healing family environment in these uncertain times. This eve
+ nt will be socially distanced and PPE is required!\n\nWe at Bhakti Yoga Cl
+ ub at GeorgiaTech want to improve the quality of living of students and fa
+ culty by teaching them principles for a stress-free\, happy and meaningful
+  life. Our teacher has been practicing the principles of yoga for 40 years
+  and has a deep desire to share this knowledge to heal students. We offer 
+ free online classes on various forms of yoga every day. We do simple yoga 
+ practices and go deep into our consciousness with discussions from differe
+ nt ancient Yoga texts. Don't miss this opportunity to learn Intentional Li
+ ving\, Conscious Eating and Mindful Co-existence - this might be the point
+  where your life is changed for the better!\n\nZoom video link to join eve
+ ry day. Recorded Videos on Facebook live page.\n\nFollow us on Facebook an
+ d Instagram:\n\n[1]\n\nhttps://www.instagram.com/gtbhaktiyoga/ [2]\n\nLink
+ s:\n[0]  https://gatech.campuslabs.com/engage/event/6582624\n[1]  https://
+ www.facebook.com/BYCGT/\n[2]  https://l.facebook.com/l.php?u=https%3A%2F%2
+ Fwww.instagram.com%2Fgtbhaktiyoga%2F%3Ffbclid%3DIwAR12tEkQBTPUw_gzAzvDJrqs
+ eyCszcAHKwfYNOjCcGWKzNpBrxK_hX53j7Y&h=AT09WxecGIcpUyrCBsRa8SVVc8a1kEW_Kwmc
+ hedAq6T_PyKCwrx9dDL7rGz3pycHvGBK48ML0WwJOYkBQXy0DUYghfK9H2RBxDZTKswS-9kgqg
+ MpV5q0bloL7ObExJvOrQ
+LOCATION:Couch Park (Burger Bowl)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SAA Alumni Connections Committee Meeting
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201119T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201119T170000Z
@@ -19515,5 +19359,32 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  atech.edu/node/639683#15\n[1]  http://instagram.com/gtoue\n[2]  http://oue
  .gatech.edu
 LOCATION:Tech Green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE Yoga for Body\, Mind & Soul
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201126T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201126T013000Z
+UID:https://gatech.campuslabs.com/engage/event/6582626
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nWe strive 
+ to provide a healing family environment in these uncertain times. This eve
+ nt will be socially distanced and PPE is required!\n\nWe at Bhakti Yoga Cl
+ ub at GeorgiaTech want to improve the quality of living of students and fa
+ culty by teaching them principles for a stress-free\, happy and meaningful
+  life. Our teacher has been practicing the principles of yoga for 40 years
+  and has a deep desire to share this knowledge to heal students. We offer 
+ free online classes on various forms of yoga every day. We do simple yoga 
+ practices and go deep into our consciousness with discussions from differe
+ nt ancient Yoga texts. Don't miss this opportunity to learn Intentional Li
+ ving\, Conscious Eating and Mindful Co-existence - this might be the point
+  where your life is changed for the better!\n\nZoom video link to join eve
+ ry day. Recorded Videos on Facebook live page.\n\nFollow us on Facebook an
+ d Instagram:\n\n[1]\n\nhttps://www.instagram.com/gtbhaktiyoga/ [2]\n\nLink
+ s:\n[0]  https://gatech.campuslabs.com/engage/event/6582626\n[1]  https://
+ www.facebook.com/BYCGT/\n[2]  https://l.facebook.com/l.php?u=https%3A%2F%2
+ Fwww.instagram.com%2Fgtbhaktiyoga%2F%3Ffbclid%3DIwAR12tEkQBTPUw_gzAzvDJrqs
+ eyCszcAHKwfYNOjCcGWKzNpBrxK_hX53j7Y&h=AT09WxecGIcpUyrCBsRa8SVVc8a1kEW_Kwmc
+ hedAq6T_PyKCwrx9dDL7rGz3pycHvGBK48ML0WwJOYkBQXy0DUYghfK9H2RBxDZTKswS-9kgqg
+ MpV5q0bloL7ObExJvOrQ
+LOCATION:Couch Park (Burger Bowl)
 END:VEVENT
 END:VCALENDAR
