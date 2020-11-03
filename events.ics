@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Pancake Breakfast
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191103T173000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191103T183000Z
-UID:https://gatech.campuslabs.com/engage/event/4604169
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome join us for fellow
- ship and free pancakes following the 11:30 am mass!\n\nLinks:\n[0]  https:
- //gatech.campuslabs.com/engage/event/4604169
-LOCATION:The Catholic Center at Georgia Tech
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Think Week
 DTSTART;VALUE=DATE:20191104
 DTEND;VALUE=DATE:20191105
