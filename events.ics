@@ -2,263 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Think Week
-DTSTART;VALUE=DATE:20191104
-DTEND;VALUE=DATE:20191105
-UID:http://hg.gatech.edu/node/628557#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nStatus: published\n\nFor the second year in a r
- ow\, Georgia Tech students\, faculty and administrators will have the oppo
- rtunity to participate in 'Think Week'- a series of 15 lectures\, discussi
- ons and Q&A sessions related to the existence of God\, the nature of reali
- ty and impact of the Bible and Christian faith in our society. Topics incl
- ude 'Hope amidst the darkness of global injustice\,' 'Does conservation ma
- ke sense without a Creator?' and 'Is the Bible credible?' Most sessions wi
- ll last for 45 minutes and are held in the Student Center. Lunch will be p
- rovided each day. Think Week is hosted by campus ministries at Georgia Tec
- h (Cru\, WCF\, Chi Alpha\, Navs & RUF) and welcomes anyone who is question
- ing or skeptical of the Christian faith.\n\nSee the attached flyer for ful
- l event details (pdf) [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/628557
- #0\n[1]  http://edit.hg.gatech.edu/sites/default/files/attachments/TW2019.
- pdf
-LOCATION:Various campus locations
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:30th Anniversary of the Fall of the Berlin Wall
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191104T171000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191104T200000Z
-UID:http://hg.gatech.edu/node/628022#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nOn November 4\, the Center for European and Transatlantic Studies\, a Je
- an Monnet Center of Excellence is honoring the 30th anniversary of the fal
- l of the Berlin Wall.\n\nProgram Schedule:\n12:10 Opening Remarks: Dr. Hei
- ke Fuller\, German Consul General\n\n12:20-1:20 Keynote Address: Milada Va
- chudova\, Political Science\, University of North Carolina at Chapel Hill\
- n\n1:25-2:10 Panel 1: Postcommunist Transition: Society & Culture\n\n- Kri
- sti Macrakis\, History and Sociology\, Georgia Tech\n- Jelena Subotic\, Po
- litical Science\, Georgia State\n- Jan Uelzmann\, Modern Languages\, Georg
- ia Tech\n\n2:15-3 Panel 2: Postcommunist Transition: Security\n\n- Eliza M
- arkley\, Nunn School\, Georgia Tech\n- Bob Kennedy\, Atlanta Council on In
- ternational Relations\n- Michael Baun\, International Relations\, Valdosta
-  State\n\nThe event is co-sponsored by the Atlanta Council on Internationa
- l Relations\, Alasdair Young’s Ivan Allen College Distinguished Research
- er Award\, Center for International Strategy\, Technology\, and Policy\, S
- chool of History and Sociology\, School of Modern Languages with the suppo
- rt of the Erasmus+ Programme of the European Union.\n\nThe event in the Bi
- ll Moore Student Success Center [1] President's Suite C & D is free and op
- en to the public. Parking is available in visitor lot 1 [2]. Please RSVP f
- or lunch [3].\n\nLinks:\n[0]  http://hg.gatech.edu/node/628022#0\n[1]  htt
- ps://map.concept3d.com/?id=82#!m/190022\n[2]  https://map.concept3d.com/?i
- d=82#!m/14991\n[3]  https://gatech.co1.qualtrics.com/jfe/form/SV_egprV3MKJ
- XE1c9v
-LOCATION:Bill Moore Student Success Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Data Science and Analytics Fireside Chat @P&G
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191104T200000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191104T213000Z
-UID:http://hg.gatech.edu/node/628413#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nHosted by Society of Women Engine
- ers and Data Science at Georgia Tech\n\nJoin P&G Chief Data & Analytics Of
- ficer Guy Peri to learn how P&G utilizes data to derive actionable insight
- s and influence key business decision-making with customers. We will be pr
- oviding refreshments from Insomnia Cookies!\n\nLinks:\n[0]  http://hg.gate
- ch.edu/node/628413#0\n[1]  https://gatech.campuslabs.com/engage/event/5089
- 687\n[2]  http://datasciencegt.org\n[3]  https://gatech.campuslabs.com/eng
- age/organization/data-science-at-georgia-tech
-LOCATION:Room 168\, Skiles Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dr. Mary Lynn Realff conducts StrengthsFinder dinner workshop
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191104T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191105T003000Z
-UID:http://hg.gatech.edu/node/625798#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nDr. Mary Lynn Realff\, Material S
- cience and Engineering\, will conduct a StrengthsFinder dinner workshop. B
- ooks (with codes to complete the individual survey) will be made available
-  to residents and to guests who RSVP to wst.lrn.c@gmail.com\n\nDr. Realff 
- is an Associate Professor of Materials Science and Engineering at Georgia 
- Institute of Technology (Georgia Tech). She received her BS Textile Engine
- ering from Georgia Tech and her PhD in Mechanical Engineering and Polymer 
- Science & Engineering from the Massachusetts Institute of Technology (MIT)
- .\n\nHer current research is focused on Effective Team Dynamics for both u
- ndergraduate and graduate students. Her work to develop curriculum and wor
- kshops that enable students to gain the competencies to work effectively i
- n teams and for faculty to gain the competencies to guide students through
-  challenging team dynamics is making a positive impacts at Georgia Tech.\n
- \nLinks:\n[0]  http://hg.gatech.edu/node/625798#0
-LOCATION:Stein House study lounge\, GT 4th St. Apts\, 733 Techwood\, Atlan
- ta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GTSWE x Ciena Topgolf Night
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191104T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191105T010000Z
-UID:http://hg.gatech.edu/node/628411#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nHosted by Society of W
- omen Engineers\n\nUndergraduate and graduate students are invited to play 
- at Topgolf in Midtown and network with Ciena associates to learn more abou
- t their open positions and programs. This is such a fun way to destress wh
- ile making connections! **Spots are limited to 25 attendees so RSVP quickl
- y** RSVP at this link [1]!\n\nLinks:\n[0]  http://hg.gatech.edu/node/62841
- 1#0\n[1]  http://tinyurl.com/cienagolf\n[2]  https://gatech.campuslabs.com
- /engage/organization/society-of-women-engineers
-LOCATION:Topgolf Midtown\, 1600 Ellsworth Industrial Blvd NW\, Atlanta\, G
- A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BAPS Campus Fellowship Diwali Exhibition
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191105T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191105T020000Z
-UID:http://hg.gatech.edu/node/627407#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
- aduate students\nExtras: Free food\nStatus: published\n\nOur event will be
-  an evening program which celebrates Diwali\, the Indian festival of light
- s. The event will focus on informing the Georgia Tech community about trad
- itional Indian culture through a cultural exhibition about Diwali\, a fest
- ival celebrated by individuals from around the world. The theme of "In the
-  Joy of Others: through Truth\, Simplicity\, & Integrity" will connect ind
- ividuals to Indian culture and help embrace diversity on our campus while 
- focusing on wellness. As attendees enter the event\, they will go through 
- an unique exhibition that will explain Diwali and its values through inter
- active activities. During the event\, attendees will also experience a pro
- jection show and live traditional musical performances. This event will br
- ing students of all cultural backgrounds together for a memorable evening 
- about Diwali and wellness! Join us in this FREE event and enjoy compliment
- ary cultural food! RSVP at [1].\n\nWatch a video from last year's event [2
- ]\n\nLinks:\n[0]  http://hg.gatech.edu/node/627407#0\n[1]  http://bit.ly/G
- TDiwali19\n[2]  https://drive.google.com/open?id=1W0vwzAk9ndSwUw5ARRS5FJRO
- SxGZH4gP
-LOCATION:Student Center Ballroom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Think Week
-DTSTART;VALUE=DATE:20191105
-DTEND;VALUE=DATE:20191106
-UID:http://hg.gatech.edu/node/628557#1
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nStatus: published\n\nFor the second year in a r
- ow\, Georgia Tech students\, faculty and administrators will have the oppo
- rtunity to participate in 'Think Week'- a series of 15 lectures\, discussi
- ons and Q&A sessions related to the existence of God\, the nature of reali
- ty and impact of the Bible and Christian faith in our society. Topics incl
- ude 'Hope amidst the darkness of global injustice\,' 'Does conservation ma
- ke sense without a Creator?' and 'Is the Bible credible?' Most sessions wi
- ll last for 45 minutes and are held in the Student Center. Lunch will be p
- rovided each day. Think Week is hosted by campus ministries at Georgia Tec
- h (Cru\, WCF\, Chi Alpha\, Navs & RUF) and welcomes anyone who is question
- ing or skeptical of the Christian faith.\n\nSee the attached flyer for ful
- l event details (pdf) [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/628557
- #1\n[1]  http://edit.hg.gatech.edu/sites/default/files/attachments/TW2019.
- pdf
-LOCATION:Various campus locations
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:General Meeting - Secretariat International
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191105T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191105T170000Z
-UID:https://gatech.campuslabs.com/engage/event/5096736
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nSecretaria
- t International is a leading independent expert services practice\, specia
- lizing in international arbitration and litigation\, large scale construct
- ion disputes with a focus on delay and quantum analysis\, forensic account
- ing\, economic damages\, and government contracting.\n\nLinks:\n[0]  https
- ://gatech.campuslabs.com/engage/event/5096736
-LOCATION:Mason Building - room 1133
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SCL November 2019 Supply Chain Day
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191105T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191105T190000Z
-UID:http://hg.gatech.edu/node/627307#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
- aduate students\nStatus: published\n\nGeorgia Tech Supply Chain students\,
-  please join us for second Supply Chain Day of the fall semester! The 3-ho
- ur session will host supply chain representatives from ​​Apple\, BAE S
- ystems\, Comcast\, CVS Health\, Drive DeVilbiss Healthcare\, FreshPoint\, 
- HD Supply\, J.B. Hunt\, King's Hawaiian\, Luxottica\, Motion Industries-GP
- C\, National DCP\, LLC\, Novelis\, Papa John's\, UPS\, Viasat\, APICS Atla
- nta Chapter and APICS GT Student Chapter (with more to be added) who will 
- be on campus to educate supply chain students about their organizations an
- d available employment and networking opportunities.\n\nWe strongly encour
- age students to act now to seek full-time employment\, internships\, and p
- rojects (rather than waiting until the end of the semester). Plus\, enjoy 
- a free pizza lunch!\n\nEVENT DETAILS\nWhere: ISyE Main Bldg [1]\, 2nd Floo
- r Atrium\n\nWhen: Tuesday\, November 5\, 2019 | 11am - 2pm\n\nWhat: The se
- ssion will include:\n\n- Networking opportunities in the ISyE atrium\n- Fo
- od and refreshments\n\nPlease plan on staying for the duration of the even
- t and bring copies of your resume and business cards. Dress is business ca
- sual.\n\nREGISTER ONLINE [2] by October 27th to upload your resume and hav
- e it forwarded to the organization representatives!\nEVENT SPONSOR\n\nThe 
- event is sponsored through the generosity and support of JP Morgan Chase &
-  Co. [3] and APICS - Atlanta Chapter [4]. APICS is a non-profit educationa
- l organization addressing operations management and supply chain managemen
- t issues\, and providing professional development opportunities to its mem
- bers. APICS Membership is free for full time students. Join today at [5] a
- nd start networking at local APIC Atlanta events. Also make sure to stop b
- y the APICS table at the event.\n\nLinks:\n[0]  http://hg.gatech.edu/node/
- 627307#0\n[1]  https://www.isye.gatech.edu/about/maps-directions/isye-buil
- ding-complex\n[2]  https://www.scl.gatech.edu/supplychainday/students\n[3]
-   https://www.jpmorganchase.com/\n[4]  http://www.apicsatlanta.org/\n[5]  
- http://www.apics.org/join\n[6]  http://bit.ly/isye-complex\n[7]  https://w
- ww.scl.gatech.edu\n[8]  https://www.scl.gatech.edu/supplychainday
-LOCATION:ISyE Main Bldg\, 2nd Floor Atrium and Executive Classroom 228
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Society of Women Engineers General Body Meeting
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191105T221500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191106T000000Z
-UID:http://hg.gatech.edu/node/624549#8
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nCome out to our general body meeting every Tues
- day from 5:15 to 7 PM in Smithgall Student Services (Flag Building) Room 1
- 17.\n\n5:15-5:45 PM Free dinner and social time with our members and offic
- ers\n\n5:45-6 PM: Announcements and Upcoming Events Reminders\n\n6-7 PM: S
- ocial Hour or Company Sponsored Event (Please check our weekly newletter f
- or the upcoming company or activity of the week!)\n\nIf you have any quest
- ions\, please feel free to email our President\, Toral Kadakia\, at swepre
- sident@gmail.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/624549#8\n[
- 1]  swepresident@gmail.com\n[2]  https://www.facebook.com/GeorgiaTechSWE/
-LOCATION:Room 117\, Smithgall Student Services (Flag) Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GT Strategic Planning Appreciative Inquiry Session - for Students
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191105T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191106T000000Z
-UID:https://gatech.campuslabs.com/engage/event/5086873
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nHosted by the Undergrad
- uate and Graduate Student Government Associations\, this session is design
- ed to collect student input for President Cabrera's Strategic Plan. Studen
- ts will be led through an appreciative inquiry session to isolate key valu
- es and goals for Georgia Tech over the next 10 years. Sessions such as thi
- s one are vital to collect input from students and student leaders about h
- ow they envision the future of Georgia Tech.\n\nLinks:\n[0]  https://gatec
- h.campuslabs.com/engage/event/5086873
-LOCATION:Skiles 171
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Melody and Meditation
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191105T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191106T000000Z
-UID:http://hg.gatech.edu/node/627370#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nHosted by SKY\n\nJoin us for this
-  amazing session where we will guide you into light yoga followed by a sho
- rt\, relaxing meditation with live flute music! SKY brings to you a one of
-  its kind interactive session on meditation. The idea of this session is t
- hat meditation not only centers you\, but it heightens your senses. Join u
- s for this amazing session where we will guide you into light yoga followe
- d by a short\, relaxing meditation with live flute music in the background
- . Refreshments and Yoga mats provided.\n\nLinks:\n[0]  http://hg.gatech.ed
- u/node/627370#0\n[1]  https://gatech.campuslabs.com/engage/event/5023143\n
- [2]  https://gatech.campuslabs.com/engage/organization/sky
-LOCATION:Crescent Room\, Student Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kashi Atlanta Street Meals Preparation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191105T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191106T003000Z
@@ -18562,6 +18305,34 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fall Festival
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201105T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201106T000000Z
+UID:https://gatech.campuslabs.com/engage/event/6590592
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nAre you re
+ ady for an evening of waffles\, wacky games\, and wonderful crafts? Join G
+ C in celebrating the start of autumn at our socially-distanced Fall Festiv
+ al Thursday\, November 5th!\n\nWe will have two areas where you can enjoy 
+ our fall fun and food--the Waffle House Truck\, which will be serving stud
+ ents in the Britain Rec Parking Lot\, and the quad beside the Connector\, 
+ where we will offer games and crafts.\n\nTo help us all stay safe and well
+ \, please come to the festival at your time allotted below:\n\nHowell Floo
+ r 1:\n\nWaffle House: 4-4:30PM\n\nQuad: 4:30-5PM\n\nHowell Floor 2:\n\nWaf
+ fle House: 5:00-5:30PM\n\nQuad: 5:30-6:00PM\n\nHowell Floor 3:\n\nWaffle H
+ ouse: 6-6:30PM\n\nQuad: 6:30-7PM\n\nCloudman 1:\n\nWaffle House: 4:30-5PM\
+ n\nQuad: 4-4:30PM\n\nCloudman 2:\n\nWaffle House: 5:30-6PM\n\nQuad: 5-5:30
+ PM\n\nCloudman 3:\n\nWaffle House: 6:30-7PM\n\nQuad: 6-6:30PM\n\nEach floo
+ r will be given different colored wristbands on Thursday morning. Students
+  must wear a mask and their wristband\, and report to a check-in station a
+ t each area (where temperature and wristbands will be checked) to enter th
+ e festival.\n\nIf you are unable to attend the festival at your allotted t
+ ime for any reason\, please contact Ashton.bettis@studentlife.gatech.edu t
+ o discuss alternate times.\n\nWe are so excited for you to join us for pum
+ pkin painting\, King of Pops\, and so much more!\n\nLinks:\n[0]  https://g
+ atech.campuslabs.com/engage/event/6590592
+LOCATION:Brittain Rec
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BPU Meeting 
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201106T001500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201106T023000Z
@@ -18947,6 +18718,55 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  .gatech.edu/index.cfm?FuseAction=Programs.ListAll\n\nLinks:\n[0]  http://h
  g.gatech.edu/node/640307#0
 LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCPC Presents: Friendsgiving Midnight Breakfast
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201117T010000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201117T050000Z
+UID:https://gatech.campuslabs.com/engage/event/6590264
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nMidnight B
+ reakfast is back!\n\nFriendsgiving edition! Reserve your FREE ticket on Ca
+ mpus Tickets for a time between 8 PM and 12 AM with the meal options liste
+ d below. Then\, come to the Exhibition Hall at your time slot on November 
+ 16th to pick up your to-go Midnight Breakfast meal. Stop by the IC Lawn to
+  say hello to some familiar faces\, participate in an arts and crafts acti
+ vity\, and get a FREE t-shirt! T-shirts are on a first-come\, first-served
+  basis. Tickets will be reservable on Campus Tickets starting on November 
+ 2nd and ending on November 13th.\n\nBelow are the ticket/meal options. Ple
+ ase read carefully before reserving a ticket!\n\nGold Ticket: Pancake/waff
+ le\, scrambled eggs\, bacon/pork sausage\, home-fried potatoes\, cinnamon 
+ sugar donut\, vanilla yogurt and fresh fruit.\n\nGreen Ticket (Vegetarian\
+ , Vegan & Kosher friendly): GF Waffle (Vans)\, tofu scramble\, home-fried 
+ potatoes\, vegan donut\, vegan yogurt & fresh fruit.\n\nPurple Ticket: (Gl
+ uten Free & Kosher friendly): GF Waffle (Vans)\, scrambled eggs\, home-fri
+ ed potatoes\, turkey sausage\, GF muffin\, vanilla yogurt & fresh fruit.\n
+ \n*Drinks and condiments will be provided*\n\n*If you have comments or con
+ cerns in regards to a dietary restriction\, please email campustickets@stu
+ cen.gatech.edu prior to reserving your ticket. We will do our best to ensu
+ re you have everything you need to know!*\n\nNote: You will check in at th
+ e purple SCPC tent! From there\, you will follow floor stickers that corre
+ spond to the color of the ticket you reserved. Following this will help en
+ sure that we are able to safely spread out lines to adhere to the safety p
+ lan we have created for this event. If you have any questions upon arrival
+ \, please find a volunteer in a purple SCPC shirt!\n\nSCPC will be taking 
+ a number of precautions following the guidelines of both the CDC and Georg
+ ia Tech Campus Services\, with the number one priority of all our events b
+ eing the safety and well-being of our attendants. The following list docum
+ ent lists the current steps we are taking to make events safer for student
+ s. However\, this list may not be comprehensive\, and we will continue to 
+ update this list with more information as we receive additional guidelines
+ .\nhttps://docs.google.com/.../1KmnlBqYMctvEUp5IBajg.../edit... [1]\n\nWe 
+ recommend that all attendees get their asymptomatic COVID-19 testing on ca
+ mpus at least 72 hours prior to attending the event. For more details\, go
+  to: http://health.gatech.edu/coronavirus/testing [2]\n\nIf you have any q
+ uestions regarding the ticket options\, or comments/concerns regarding acc
+ essibility\, please reach out to ramblin@scpc.gatech.edu\n\nLinks:\n[0]  h
+ ttps://gatech.campuslabs.com/engage/event/6590264\n[1]  https://docs.googl
+ e.com/document/d/1KmnlBqYMctvEUp5IBajgtguVG2IOXWHxDh6iCRvQm2I/edit?usp=sha
+ ring&fbclid=IwAR2SWT7nGjqKMIMRj6NfCZjWfoV0Xn2qJWY1Gr7liApxqVmtKIUsZB6lBeA\
+ n[2]  http://health.gatech.edu/coronavirus/testing?fbclid=IwAR3xJrwN_PMDRB
+ uyt_xKDA_T03LkjDhnG5knP00BVORa0rFBJH9WqnL5ONs
+LOCATION:Exhibition Hall
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Outdoor Open Office Hours
