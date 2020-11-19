@@ -2,222 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Sundae Night
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191118T030000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191118T040000Z
-UID:https://gatech.campuslabs.com/engage/event/4604162
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome join us for a nigh
- t of fellowship and free Sundaes after the 9pm mass!\n\nLinks:\n[0]  https
- ://gatech.campuslabs.com/engage/event/4604162
-LOCATION:The Catholic Center at Georgia Tech
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Last General Meeting
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191118T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191119T000000Z
-UID:https://gatech.campuslabs.com/engage/event/5171580
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nHey Red Cross members! 
- Join us for Trivia (Red Cross themed!) on Monday\, November 18th at 6pm in
-  Mason 1133! We will have snacks and also be announcing top point earners 
- with a little prize! Be sure to attend! All members and prospective member
- s welcome:)\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/517
- 1580
-LOCATION:Mason Building\, Room 1133
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S'more Fall Fun
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191118T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191119T010000Z
-UID:http://hg.gatech.edu/node/628719#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nHosted by FirstGen\n\nCome roast 
- marshmallows and drink hot chocolate with us! Drop in at any point and fee
- l free to bring your friends! RSVPs are not required but appreciated!\n\nL
- inks:\n[0]  http://hg.gatech.edu/node/628719#0\n[1]  https://gatech.campus
- labs.com/engage/event/5149455\n[2]  https://gatech.campuslabs.com/engage/o
- rganization/firstgen\n[3]  https://www.facebook.com/events/577686772968606
- /
-LOCATION:West Village Lawn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saqafat 2019
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191118T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191119T030000Z
-UID:http://hg.gatech.edu/node/628896#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nExtras: Free Food\, Free Stuff\nStatus: publish
- ed\n\nHosted by Pakistani Student Association\n\nThe Pakistani Student Ass
- ociation (PSA) will be holding its annual event Saqafat on the Monday\, th
- e 18th of November\, 2019 at the Ballroom\, Student Center\, Georgia Tech.
-  Saqafat is a colorful exhibition of the culture and traditions of Pakista
- n and intends to promote country’s culture within the broader Georgia Te
- ch community. The event will showcase Pakistani culture through guest spea
- kers\, dance performances\, fashion show\, and informational posters about
-  local languages\, food\, calligraphy\, etc. In addition to snacks\, all g
- uests will be served the irresistible Pakistani style biryani for dinner.\
- n\nLinks:\n[0]  http://hg.gatech.edu/node/628896#0\n[1]  https://gatech.ca
- mpuslabs.com/engage/event/5158560\n[2]  https://www.facebook.com/events/13
- 87282914779437/
-LOCATION:Student Center Ballroom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AGSC Tuesday Collaboratorium: Lunch with a Member of the Atlanta C
- onsular Corps -- Conversation with Consul General of Brazil\, Carlos de Ab
- reu: "Advancing Brazilian Studies in the Greater Atlanta Region"
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191119T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191119T165000Z
-UID:http://hg.gatech.edu/node/625430#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nExtras: Free food\nStatus: published\n\nAGSC Tu
- esday Collaboratorium: Lunch with a Member of the Atlanta Consular Corps -
- - Conversation with Consul General of Brazil\, Carlos de Abreu: "Advancing
-  Brazilian Studies in the Greater Atlanta Region"\n\nThis signature AGSC s
- eries explores a variety of global studies topics and highlights different
-  faculty research and projects. We also feature diplomats and practitioner
- s in this series and engage with them from a higher education perspective.
- \n\nLight lunch is served.\n\nLinks:\n[0]  http://hg.gatech.edu/node/62543
- 0#0\n[1]  http://atlantaglobalstudies.gatech.edu
-LOCATION:AGSC\, 781 Marietta St. NW\, Suite 115\, Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Burns & McDonnell
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191119T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191119T170000Z
-UID:https://gatech.campuslabs.com/engage/event/5170805
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nImproving 
- the end-user experience involves passenger experience improvements\; progr
- essive infrastructure upgrades\; and the need for power islanding.\n\nLink
- s:\n[0]  https://gatech.campuslabs.com/engage/event/5170805
-LOCATION:Mason Building - room 1133
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IEW Flag Showcase
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191119T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191119T170000Z
-UID:https://gatech.campuslabs.com/engage/event/5144842
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our inaugur
- al IEW Flag Showcase on Tech walkway near Skiles Courtyard on Tuesday\, No
- vember 19 at 11:30 AM. If you’d like to represent a country/culture/grou
- p of people\, PLEASE BE SURE TO BRING YOUR OWN FLAG!!! We will have snacks
-  starting at 11 AM and a photo with Buzz at 11:30 AM.\n\nLinks:\n[0]  http
- s://gatech.campuslabs.com/engage/event/5144842
-LOCATION:Skiles Courtyard
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:International Education Week: OIE Flag Showcase
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191119T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191119T170000Z
-UID:http://hg.gatech.edu/node/629036#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nStatus: published\n\nJoin us for our inaugural 
- IEW Flag Showcase on Tech Walkway near Skiles Courtyard. If you’d like t
- o represent a country/culture/group of people\, bring your flag! We will h
- ave snacks starting at 11 AM and a photo with Buzz at 11:30 AM. Let's repr
- esent our cultural pride with the Georgia Tech community\n\nLinks:\n[0]  h
- ttp://hg.gatech.edu/node/629036#0\n[1]  http://iew.gatech.edu
-LOCATION:Tech Walkway
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunch & Learn: Computer Science for Social Good
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191119T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191119T170000Z
-UID:http://hg.gatech.edu/node/629073#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nCome have lunch and chat with Ph.
- D. students working in research at the intersections of computer science a
- nd social good! You can learn more about what it’s like to research in t
- heir specific fields as well ask more about what it takes to research for 
- a graduate student. All majors are welcome\, and lunch is provided!\n\nLin
- ks:\n[0]  http://hg.gatech.edu/node/629073#0\n[1]  https://gatech.campusla
- bs.com/engage/event/5170825\n[2]  https://www.facebook.com/events/25591271
- 40977182
-LOCATION:Room 170\, Skiles Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:French Day 2019
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191119T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191119T210000Z
-UID:http://hg.gatech.edu/node/628811#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\, Freebies\nStatus: published\n\n11 a.m. - 12 p.m.
-  Meet and Greet (Swann 106)\nWe’re kicking off the 2019 French Day with 
- a brunch\, the French way!\nCome and meet our faculty as well as other Fre
- nch and Francophile students: majors\, minors\, ALIS\, GEML\, M.S. and mem
- bers of the French Club\, while enjoying coffee and light pastries.\n\n12 
- p.m. - 1 p.m. Mini Study Abroad Fair (Swann Atrium)\nFeaturing Georgia Tec
- h Lorraine\, our LBAT Paris-Nice and our LBAT Senegal. Learn how to get to
-  complete fluency and achieve a French minor in the most efficient way: ab
- road!\n\nSwing by and meet students who have done our LBATs\, learn all ab
- out our courses and the details of the programs. Hear about the host famil
- ies\, the daily outings around Paris\, Nice\, Metz and Dakar\, to visit lo
- cal startups and businesses\, scout filming locations and lend a hand to u
- rban farming. Ask about our financial incentives\, the Serve-Learn-Sustain
-  program and the International Plan!\n\nDes Livres & Délices\, a French c
- oncept store located in Raleigh\, NC\, will join us with books and treats 
- for us all! - [1]\n\nFrench Study Abroad Opportunities!\nLBAT France [2]\n
- \nLBAT Senegal [3]\n\nGeorgia Tech Lorraine [4]\n\n1 p.m. - 2 p.m. Speed D
- ating with the French Club (Swann 320)\nWant to meet friends? Hone your ca
- sual conversation skills while snacking on heart-shaped chocolates? The Fr
- ench Club speed-dating event is for you! No actual dating involved\, but a
-  series of encounters with other eager conversationalists like you\, in a 
- friendly atmosphere.\n\n2 p.m. - 3 p.m. Student Research Showcase (Swann A
- trium)\nIt’s showtime! This event will showcase our students’ research
- \, and show you the great array of cultural\, historical\, scientific\, ar
- tistic and linguistic subjects you can specialize in within our programs! 
- Approach a scholar\, ask about their project and they will present their r
- esearch to you as a personalized\, 5-minute elevator pitch. A great way to
-  discover the trends in culture and research\, and to learn a little bit a
- bout a whole range of subjects!\n\nIf you are interested in participating\
- , please click this link [5]\n\n3 p.m. - 4:00 p.m. Crepe Party (Swann Atri
- um)\nWe’re bringing the pans\, you’re doing the work! This crêpe part
- y will allow you to learn to make and flip your own crêpe\, before the we
- ll-deserved reward of eating it. A culinary workshop of sorts\, so bring y
- our talent and your appetite!\n\n4 p.m. - 6:30 p.m. French Connections (Cl
- ary Theatre\, Bill Moore Student Success Center)\nThe closing of this year
- ’s French Day will be at the the Clary Theatre\, Bill Moore Student Succ
- ess Center. There\, you will get to meet consulates from France\, Switzerl
- and\, Québec and Belgium\, as well as Georgia Tech members of Faculty for
-  International Affairs\, and ask them questions about their work in diplom
- acy and the job prospects in their field.\n\nLast year’s event was a suc
- cess and we have moved it to a bigger venue this year.\n\nList of Particip
- ants:\n- Anne-Lise Gallay\, Deputy Cultural Attaché\, Educational and Uni
- versity Affairs\, Consulat Général de France à Atlanta\n- Peter Zimmerl
- i\, Consul General of Switzerland\n- Yves Berthelot\, Vice Provost for Int
- ernational Initiatives\, Steven A. Denning Chair in Global Engagement\, Pr
- esident of Georgia Tech Lorraine\, and Professor.\n- Angela Hales - Office
-  Manager - Délégation du Québec / Québec Government Office\n- Alasdair
-  Young\, Professor of International Affairs\, Co-Director of the Center fo
- r European and Transatlantic Studies\, a Jean Monnet Center of Excellence\
- , Co-Editor\, JCMS: Journal of Common Market Studies\n- Michael Cerulus\, 
- Consul\, Consulate General of Belgium in Atlanta\n- Sophie Frère\, Public
-  Affairs\, Consulate General of Belgium in Atlanta\n- Roudelyne Nogar Jean
- \, Consul\, Consulate General of Haiti in Atlanta\n\nOngoing Throughout th
- e Day!!!\n\nRaffle!! (Hourly)\nEvery hour\, we will raffle off gifts\, eve
- ry event attended is a ticket\, the more events you attend\, the greater c
- hances to get to go home with a prize!\n\nPhotobooth - 2-4 p.m. in Swann A
- trium - by Events Worldwide [6]\nProfessional photographer with props!\n\n
- Art Showcase (All Day)\nLike last year\, you will be invited to build a co
- llaborative art piece\, one pixel at a time. Last year’s contributors lo
- ved their experience working on it as both a meditative and artistic endea
- vor. Participating in this year’s might be just what you need to forget 
- about school for a few minutes.\n\nThank you to our sponsors!!\n\nLinks:\n
- [0]  http://hg.gatech.edu/node/628811#0\n[1]  https://deslivresetdelicesus
- .com/\n[2]  https://modlangs.gatech.edu/lbat/france\n[3]  https://modlangs
- .gatech.edu/lbat/senegal\n[4]  https://lorraine.gatech.edu/\n[5]  https://
- forms.gle/yfnbqVoAZMaGQpz99\n[6]  https://www.eventsworldwideco.com/
-LOCATION:Swann Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:French Day
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191119T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191119T233000Z
-UID:https://gatech.campuslabs.com/engage/event/5174054
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\n[1]\n\nLin
- ks:\n[0]  https://gatech.campuslabs.com/engage/event/5174054\n[1]  https:/
- /modlangs.gatech.edu/events/item/628811/french
-LOCATION:Swann Building
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nutanix Tech Talk
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191119T233000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191120T010000Z
@@ -16472,5 +16256,40 @@ DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nWe strive
  hedAq6T_PyKCwrx9dDL7rGz3pycHvGBK48ML0WwJOYkBQXy0DUYghfK9H2RBxDZTKswS-9kgqg
  MpV5q0bloL7ObExJvOrQ
 LOCATION:Couch Park (Burger Bowl)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Petit Entrepreneurship Academy Seminar
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210112T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210112T170000Z
+UID:http://hg.gatech.edu/node/641416#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: draft\n\n"What VC's are Lookin
+ g For"\n\nChristopher Seabolt [1]\n\nRSVP HERE\n\nParticipation Link [2]\n
+ \nChris holds approximately 30 years of venture capital and operational ex
+ perience in early-stage growth companies\, most recently with T-Venture\, 
+ Deutsche Telekom’s captive corporate venture capital subsidiary\, where 
+ he sourced and completed numerous transactions in the technology sector in
+  both the U.S. and Europe. Prior to this\, Chris was responsible for the h
+ ighly successful turnaround and divestiture of Central Europe Telecom Inve
+ stment (CETI) LP assets\, one of the first true venture funds in the Regio
+ n. He was previously associated with the Silicon Valley office of Patricof
+  & Co (now APAX Partners) as well as the in-house LBO fund of Kidder\, Pea
+ body & Co. in New York. Prior positions also include CFO roles in Solvo Bi
+ otechnology Rt.\, a Hungarian biotech start-up\, and Hild Real Estate Inve
+ stment\, CEE’s first large-scale life annuity provider.\n\nOf almost 20 
+ deals in the early-stage sector\, including a majority of Seed and Start-u
+ p\, Chris has engineered successful (+money) exits for well over half of t
+ hese\, with extraordinarily high returns across all managed portfolios\, p
+ articularly given the extremely early stage and EU focus.\n\nChris is a fr
+ equent juror and mentor in the US and EU through various accelerators and 
+ start-up and seed events. His network is multinational - spanning the EU\,
+  UK and the East and West Coasts of the USA.\n\nHe is an avid\, if amateur
+ \, lifelong student of philosophy\, cultures and history. He is also an av
+ id rider and scuba diver\, and a deliberately novice martial artist. His b
+ road interests\, coupled with his ruthless training as an Economist\, tend
+  to make him highly unpopular at dinner parties.\n\nLinks:\n[0]  http://hg
+ .gatech.edu/node/641416#0\n[1]  https://www.linkedin.com/in/christopher-se
+ abolt-144a5a/\n[2]  https://gatech.bluejeans.com/986502317
+LOCATION:Virtual Event - see description for participation info
 END:VEVENT
 END:VCALENDAR
