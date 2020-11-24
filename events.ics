@@ -2,28 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:FreShGA: The Final Stand 2019
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191124T030000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191124T070000Z
-UID:http://hg.gatech.edu/node/628711#0
-DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\,
-  Freebies\nStatus: published\n\nGet ready to blast away your finals at The
-  Final Stand! The Final Stand is an annual event hosted by the Freshman St
- udent Government Association (FreShGA) at the end of fall semester.\n\nThe
-  Final Stand is an opportunity for students to destress before finals with
-  free food\, t-shirts\, movies\, trivia\, a photo booth\, team competition
- s (with awesome prizes for our winners!)\, and giveaways. Bring your buddi
- es and join us for an out-of-this-world evening! Team events include Volle
- yball\, Basketball\, Cornhole\, Spikeball\, Dodgeball and Soccer. To regis
- ter a team\, please click here.\n\nThe Final Stand will take place on Satu
- rday\, November 23rd from 10pm - 2am at Georgia Tech's Campus Recreation C
- enter (CRC). We look forward to seeing you there!!\n\n*Please note that th
- e CRC & FreShGA are not responsible for any lost or stolen goods.\n\nLinks
- :\n[0]  http://hg.gatech.edu/node/628711#0\n[1]  https://gatech.campuslabs
- .com/engage/event/5082339
-LOCATION:Campus Recreation Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Outreach and Collaboration Roundtable
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191125T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191126T000000Z
@@ -15946,6 +15924,88 @@ DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nWe strive
  hedAq6T_PyKCwrx9dDL7rGz3pycHvGBK48ML0WwJOYkBQXy0DUYghfK9H2RBxDZTKswS-9kgqg
  MpV5q0bloL7ObExJvOrQ
 LOCATION:Couch Park (Burger Bowl)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PhD Defense by Darshan Sarojini
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201215T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201215T160000Z
+UID:http://hg.gatech.edu/node/641580#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nStatus: published\n\nDarshan Sarojini\n(Advisor:
+  Prof. Mavris)\n\nwill defend a doctoral thesis entitled\,\n\nStructural A
+ nalysis and Optimization of Aircraft Wings Through Dimensional Reduction\n
+ \nOn\n\nTuesday\, December 15\, 2020 at 9:00 a.m.\n[1]\n\nAbstract\nFedera
+ l Aviation Regulations (FARs) are critical drivers of aircraft design. Ear
+ ly-stage aircraft design involves a tight coupling between structural dyna
+ mics\, aerodynamics\, and flight mechanics\, with time-dependent loads ari
+ sing from the considerations of the FARs. The current state-of-the-art dec
+ ouples the time-domain simulation from the structural failure computation 
+ due to high computational costs associated with time-domain structural fai
+ lure computation. The need to account for the dynamic loads specified by t
+ he FARs while simultaneously achieving low structural weight for fuel effi
+ ciency in early-stage aircraft design motivates the following question: Ho
+ w to enable computationally efficient structural analysis and optimization
+  of early-stage aircraft wing design\, considering dynamics?\n\nExisting m
+ ethods simplify the dynamic loads to equivalent static ones and design the
+  structure using shell-based analysis. Other literature approaches use com
+ putationally efficient beam models for structural sizing but make assumpti
+ ons on the geometry and/or material distribution. Higher-order beam theori
+ es for structural analysis have been successfully applied to the design of
+  slender structures subjected to time-dependent loads\, like rotorcraft bl
+ ades. While aircraft wings can be considered slender structures\, aperiodi
+ city\, and inhomogeneity along the span render beam theory ineffective.\n\
+ nThe present work aims to bridge this gap by proposing a method for analyz
+ ing 3-D structures through dimensional reduction. The use of the Variation
+ al Asymptotic Method (VAM) is explored for the systematic reduction of 3-D
+  structures to 1-D models and further\, recover 3-D stresses and strains a
+ fter solving the 1-D problem.\n\nA stiffness matching approach is proposed
+  to dimensionally reduce 3-D features such as stiffeners by locally smeari
+ ng them on the base plate. The proposed method allows for stiffeners of va
+ rying dimensions\, topology\, and spacing to be smeared. The stiffness mat
+ ching further allows the beam cross-sectional properties computed from VAM
+  to be equal to a box-beam cross-section. The equivalence enables the use 
+ of Euler-Bernoulli type analytical stiffness computation while retaining t
+ he accuracy of VAM. Analytical expressions allow for rapid evaluation of t
+ he beam properties and stress recovery and further permit the use of Autom
+ atic Differentiation (AD) to obtain partial derivatives. The proposed stru
+ ctural analysis method is applied to the wing structural analysis of a nov
+ el distributed electric propulsion aircraft- NASA's PEGASUS concept\, and 
+ the open-source CRM.\n\nA general adjoint method for dynamic simulations i
+ s presented and applied to a nonlinear Timoshenko beam theory. It combines
+  general beam residual equations with an adjoint method to extract gradien
+ t information from the load time-history. Aggregated constraints implement
+ ed for sizing are stress-based\, combining axial stresses at the beam corn
+ ers with shear stresses from torsion and external loads at both corners an
+ d mid-sections. CasASDi\, an open-source tool for nonlinear optimization a
+ nd algorithmic differentiation\, is used to generate expressions and calcu
+ late derivatives for the relevant equations used for analysis and optimiza
+ tion. Numerical tests are conducted to test the accuracy of the adjoint co
+ mputations and scalability as the number of design variables increase. A s
+ tructural optimization framework is developed for the beam-based dynamic a
+ nalysis method presented\, allowing for the structure's sizing under stren
+ gth-based failure considerations. The PEGASUS concept is used as a testbed
+  to demonstrate the sizing capabilities. The structure is sized for FARs s
+ pecified maneuver loads– static 2.5g and -1.0g\, and dynamic gusts.\n\nF
+ indings show that: 1) the use of VAM allows for the systematic extraction 
+ of beam properties for aircraft wings\, 2) the displacement and stress res
+ ponse of the aircraft using beam models match reasonably well against thos
+ e produced by shell-based models\, 3) for dynamic simulations\, the derive
+ d adjoint method computes accurate gradients efficiently to be used in str
+ uctural optimization\, 4) sizing of aircraft wings for FARs specified mane
+ uvers using the proposed approach produces a 6% error compared to the shel
+ l-based method\, but with a 7.8x speed-up.\n\nThe proposed approach provid
+ es improvements on the existing literature methods- it is computationally 
+ efficient\, provides reasonable accuracy for early-stage structural sizing
+  and weight prediction\, and includes dynamic effects. The computational e
+ fficiency makes it well-suited for many-query applications like optimizati
+ on\, uncertainty quantification\, and generating data for surrogate modeli
+ ng.\n\nCommittee\n\n- Prof. Dimitri N. Mavris – School of Aerospace Engi
+ neering (advisor)\n- Prof. Dewey H. Hodges – School of Aerospace Enginee
+ ring\n- Prof. Graeme J. Kennedy – School of Aerospace Engineering\n- Dr.
+  Jason A. Corman – School of Aerospace Engineering\n- Mr. Robert Wm. Mar
+ tin – Federal Aviation Administration\n\nLinks:\n[0]  http://hg.gatech.e
+ du/node/641580#0\n[1]  https://bluejeans.com/173925127
+LOCATION:Bluejeans
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Petit Entrepreneurship Academy Seminar
