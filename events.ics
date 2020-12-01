@@ -15772,6 +15772,48 @@ DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nWe strive
 LOCATION:Couch Park (Burger Bowl)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BioE PhD Defense Presentation- Jeffrey Gau
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201209T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201209T190000Z
+UID:http://hg.gatech.edu/node/641691#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nAdvisor:\n\nDr. Simon Sponberg (Georgia Institu
+ te of Technology)\n\nCommittee:\n\nDr. Saad Bhamla (Georgia Institute of T
+ echnology)\n\nDr. Nick Gravish (University of California\, San Diego)\n\nD
+ r. David Hu (Georgia Institute of Technology)\n\nDr. Kurt Wiesenfeld (Geor
+ gia Institute of Technology)\n\nBeyond resonance: synchronous and stretch-
+ activated actuation in insect flight\n\nThe generation of high power\, rhy
+ thmic movement is a common feature of biological and robotic locomotion. I
+ nsects stand out among these systems because wingbeat frequencies are ofte
+ n an order of magnitude greater (up to 1000 Hz) and face the extreme energ
+ etic costs of flapping wing flight. Given the oscillatory nature of insect
+  flight\, insects are believed to be resonant. In this framework\, elastic
+  structures significantly reduce inertial power costs by storing and retur
+ ning excess kinetic energy during a wing stroke. However\, evidence sugges
+ ts that a resonance model of flight is incomplete. Unlike the time-periodi
+ c (e.g. sinusoidal) forcing of resonant systems\, many insects have evolve
+ d strain-dependent muscles. Pairs of these muscles excite each other indep
+ endently from neural input.\n\nThis thesis explores how strain-dependent a
+ ctuators coupled to deformable systems generate high power\, rhythmic move
+ ments. In Chapter 1\, we identified how spring-like properties emerge from
+  heterogeneous exoskeletal shell. Notably\, the exoskeleton alone satisfie
+ s the energy exchange demands of flight. In Chapter 2\, we perturbed hawkm
+ oths and discovered the capacity for +/- 16% frequency modulation at the w
+ ingstroke timescale. Unlike their robotic counterparts that explicitly abd
+ icate frequency modulation in favor of energy efficiency\, frequency modul
+ ation is an underappreciated control strategy in insect flight. In Chapter
+  3\, we developed a mechanical model of hawkmoth mechanics and found that 
+ wingbeat frequencies are 50% above resonance. These results suggest that r
+ esonance tuning is neither a ubiquitous nor necessary feature of insect fl
+ ight. Finally\, in Chapter 4\, we introduced both time periodic and stretc
+ h activated forcing to the passive mechanical system. We discovered that a
+  small set of parameters drive transitions between synchronous and self-ex
+ cited wingbeats. This single dynamical system explains evolutionary transi
+ tions in insects and generalizes to robotic systems.\n\nLinks:\n[0]  http:
+ //hg.gatech.edu/node/641691#0
+LOCATION:https://bluejeans.com/589089628
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PhD Defense by Darshan Sarojini
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201215T140000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201215T160000Z
