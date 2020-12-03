@@ -2,86 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Monday 12/2 breakfast in Stein lobby for WST Learning Community re
- sidents
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191202T134500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191202T143000Z
-UID:http://hg.gatech.edu/node/629450#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nOn the last class day of fall 201
- 9\, join WST Learning Community residents for breakfast in the Stein lobby
- .\n\nLinks:\n[0]  http://hg.gatech.edu/node/629450#0
-LOCATION:Stein House lobby\, Georgia Tech\, Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Conversation About Foreign Influence: Tools for Faculty and Rese
- archers
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191203T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191203T180000Z
-UID:http://hg.gatech.edu/node/629241#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \nExtras: Free food\nStatus: published\n\nThe Office of Ethics & Complianc
- e presents: A Conversation about Foreign Influence | Tools for Faculty & R
- esearchers\n\nPlease join us for lunch as we discuss foreign influence wit
- h:\n\n- John Schurtz\, Senior Research Associate\, Georgia Tech Research I
- nstitute - Washington Field Office\n- Dannie Lyvers\, Jr.\, Insider Threat
-  Program Senior Official\, Georgia Tech Research Security\n\nRSVP via this
-  form [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/629241#0\n[1]  https:/
- /gatech.co1.qualtrics.com/jfe/form/SV_019LiWcrxw7uJEN 
-LOCATION:Student Center Theater
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ride Out in Style
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191203T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191203T200000Z
-UID:http://hg.gatech.edu/node/629310#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nCalling all graduating seniors! Come out to the
-  Clough Turnaround on Tuesday\, December 3rd from 12-3PM to have a final r
- ide in the Reck before you graduate! You must be a graduating senior to pa
- rticipate. Snacks and refreshments will be provided. Sign up to reserve yo
- ur ride at [1]!\n\nWalk-ins will be accommodated only if there is space\, 
- so reserve your spot ahead of time to guarantee a ride!\n\nLinks:\n[0]  ht
- tp://hg.gatech.edu/node/629310#0\n[1]  http://bit.ly/RideOut19
-LOCATION:Clough Turnaround
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CREATE-X Idea to Prototype Showcase
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191203T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191204T000000Z
-UID:http://hg.gatech.edu/node/629364#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nCome see what you can make in Idea to Prototype\n\nYou’re invited to t
- he CREATE-X Fall I2P Showcase\, where student teams present their inventio
- ns.\n\nStudents like you worked on their prototypes during the Fall 2019 s
- emester under the Idea to Prototype undergraduate research credit course a
- nd received $500 to work on their projects.Prototypes range from medical d
- evices to apps that help deaf and hard-of-hearing children to practice pro
- nunciation.\n\nEnjoy mingling with your peers and hearing about their idea
- s. Learn more about the I2P program and how to apply. We look forward to s
- eeing you!\n\nLinks:\n[0]  http://hg.gatech.edu/node/629364#0\n[1]  https:
- //create-x.activehosted.com/f/16
-LOCATION:Marcus Nanotechnology Building Atrium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Idea 2 Prototype Showcase
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191203T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191204T000000Z
-UID:https://gatech.campuslabs.com/engage/event/5197126
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nYou’re invited to the
-  CREATE-X Fall I2P Showcase\, where student teams present their inventions
- .\n\nStudents like you worked on their prototype s during the Fall 2 019 s
- emester under the Idea to Prototype undergraduate research credit course a
- nd received $500 to work on their projects. Prototype s range from medical
-  devices to apps that help deaf and hard-of-hearing children to practice p
- ronunciation.\n\nEnjoy mingling with your peers and hearing about their id
- ea s. Learn more about the I2P program and how to apply. We look forward t
- o seeing you!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5
- 197126
-LOCATION:Marcus Nanotechnology Building Atrium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Impact End-of-Year Expo
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191203T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191204T010000Z
@@ -15772,6 +15692,27 @@ DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nWe strive
 LOCATION:Couch Park (Burger Bowl)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Card Writing Session
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201209T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201209T180000Z
+UID:https://gatech.campuslabs.com/engage/event/6627814
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nIf you'll still be on c
+ ampus on Wednesday\, Dec. 9 between 11am-1pm\, please join the Honors Prog
+ ram in writing thank you cards for healthcare workers in Atlanta and/or gr
+ eeting cards to residents in long term care facilities. This event will be
+  outdoors and socially distanced\, and the Honors Program will provide sup
+ plies AND LUNCH. We need to know how many of you can attend\, so please RS
+ VP. We will be on West Campus\, and will update you on the exact location 
+ once we know how many people are attending. Please wear your masks.\n\nLik
+ e many of you\, healthcare workers and residents in long term care facilit
+ ies could be unable to spend time with their families this winter\, and a 
+ card from you could brighten their day.\n\nMore info here: https://lovefor
+ ourelders.org/letters & https://www.handsonatlanta.org/blog/thank-a-metro-
+ atlanta-health-care-provider\n\nLinks:\n[0]  https://gatech.campuslabs.com
+ /engage/event/6627814
+LOCATION:Armstrong Residence Hall
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BioE PhD Defense Presentation- Jeffrey Gau
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201209T170000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201209T190000Z
@@ -15812,6 +15753,50 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  tions in insects and generalizes to robotic systems.\n\nLinks:\n[0]  http:
  //hg.gatech.edu/node/641691#0
 LOCATION:https://bluejeans.com/589089628
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PhD Defense by Jeff Gau
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201209T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201209T190000Z
+UID:http://hg.gatech.edu/node/641793#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nStatus: published\n\nJeff Gau\n\nBioE PhD Defens
+ e Presentation\n\n12:00 pm EST on Wednesday\, December 9\, 2020\n\n[1]\n\n
+ Advisor:\n\nDr. Simon Sponberg (Georgia Institute of Technology)\n\nCommit
+ tee:\n\nDr. Saad Bhamla (Georgia Institute of Technology)\n\nDr. Nick Grav
+ ish (University of California\, San Diego)\n\nDr. David Hu (Georgia Instit
+ ute of Technology)\n\nDr. Kurt Wiesenfeld (Georgia Institute of Technology
+ )\n\nBeyond resonance: synchronous and stretch-activated actuation in inse
+ ct flight\n\nThe generation of high power\, rhythmic movement is a common 
+ feature of biological and robotic locomotion. Insects stand out among thes
+ e systems because wingbeat frequencies are often an order of magnitude gre
+ ater (up to 1000 Hz) and face the extreme energetic costs of flapping wing
+  flight. Given the oscillatory nature of insect flight\, insects are belie
+ ved to be resonant. In this framework\, elastic structures significantly r
+ educe inertial power costs by storing and returning excess kinetic energy 
+ during a wing stroke. However\, evidence suggests that a resonance model o
+ f flight is incomplete. Unlike the time-periodic (e.g. sinusoidal) forcing
+  of resonant systems\, many insects have evolved strain-dependent muscles.
+  Pairs of these muscles excite each other independently from neural input.
+ \n\nThis thesis explores how strain-dependent actuators coupled to deforma
+ ble systems generate high power\, rhythmic movements. In Chapter 1\, we id
+ entified how spring-like properties emerge from heterogeneous exoskeletal 
+ shell. Notably\, the exoskeleton alone satisfies the energy exchange deman
+ ds of flight. In Chapter 2\, we perturbed hawkmoths and discovered the cap
+ acity for +/- 16% frequency modulation at the wingstroke timescale. Unlike
+  their robotic counterparts that explicitly abdicate frequency modulation 
+ in favor of energy efficiency\, frequency modulation is an underappreciate
+ d control strategy in insect flight. In Chapter 3\, we developed a mechani
+ cal model of hawkmoth mechanics and found that wingbeat frequencies are 50
+ % above resonance. These results suggest that resonance tuning is neither 
+ a ubiquitous nor necessary feature of insect flight. Finally\, in Chapter 
+ 4\, we introduced both time periodic and stretch activated forcing to the 
+ passive mechanical system. We discovered that a small set of parameters dr
+ ive transitions between synchronous and self-excited wingbeats. This singl
+ e dynamical system explains evolutionary transitions in insects and genera
+ lizes to robotic systems.\n\nLinks:\n[0]  http://hg.gatech.edu/node/641793
+ #0\n[1]  https://bluejeans.com/589089628
+LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PhD Defense by Darshan Sarojini
