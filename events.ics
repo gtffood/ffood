@@ -2,75 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Midnight Breakfast: Summer in Winter
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191210T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191210T050000Z
-UID:https://gatech.campuslabs.com/engage/event/5197139
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nMidnight Breakfast\n\nS
- ummer never has to end\, even in December! Georgia Tech’s favorite biann
- ual campus tradition\, Midnight Breakfast\, is back on Monday\, December 9
- th: Midnight Breakfast: Summer in Winter\n\nCome take a break from finals 
- studying and de-stress with great activities such as free massages\, thera
- py dogs\, crafts\, games\, and more at the Student Center! After stopping 
- by the Relaxation Fest on the third floor from 7-10pm\, get some free brea
- kfast for dinner served by Georgia Tech faculty and staff on the second fl
- oor food court from 9pm-12am!\n\nStudents must present their Buzzcard for 
- admittance to this event. To avoid overcrowding\, please reserve a time sl
- ot. [1]\n\nThis event is made possible by the Parents Fund for Student Lif
- e & Leadership\, the Student Center Programs Council\, and Campus Services
-  BuzzFunds.\n\nFor questions or accommodations\, please email ramblin@scpc
- .gatech.edu\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/519
- 7139\n[1]  https://gatech.universitytickets.com/w/
-LOCATION:Student Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Midnight Breakfast: Summer in Winter
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191210T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191210T050000Z
-UID:http://hg.gatech.edu/node/629465#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatech.edu
- /node/629465#0
-LOCATION:Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Winter Urban Honey Bee Open House
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191210T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191210T180000Z
-UID:http://hg.gatech.edu/node/629565#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nThe Georgia Tech 
- Urban Honey Bee project will be celebrating the end of the semester and sh
- owcasing student projects (and new digs) on Tuesday\, December 10 from 11a
- m-1pm in room 280 of the Kendeda Building for Innovative Sustainable Desig
- n.\n\nPlease drop in for snacks\, tours\, and to browse student posters.\n
- \nA limited number of holiday gift bags will also be available for purchas
- e for $15 and support the urban honey bee project. Bags include a small ja
- r of honey\, beeswax lip balm\, and a "slumgum" firestarter for all your w
- inter campfire and fireplace needs.\n\nHope to see you there!\n\nLinks:\n[
- 0]  http://hg.gatech.edu/node/629565#0
-LOCATION:Kendeda Building\, Room 280\, 422 Ferst Dr NW\, Atlanta\, GA 3031
- 3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nano@Tech: Ben Yang - Electro-Optical Systems Lab\, Georgia Tech R
- esearch Institute
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191210T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191210T180000Z
-UID:http://hg.gatech.edu/node/622289#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nBenjamin Yang\nResearch Engineer\, Electro-Optical Systems Lab\; Georgia
-  Tech Research Institute\n\nAbstract: TBA\n\nBio: Ben Yang currently works
-  in applied photonics at GTRI and has a track record of making an impact i
- n a broad array of technical areas\, including microelectronics failure an
- alysis\, photovoltaic systems reliability\, terahertz materials science\, 
- photonics\, and microelectromechanical systems (MEMS).\n\nLinks:\n[0]  htt
- p://hg.gatech.edu/node/622289#0\n[1]  http://ien.gatech.edu
-LOCATION:Marcus Nanotechnology Building 1117-1118 | 345 Ferst Drive | Atla
- nta GA | 30332
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ML@GT NeurIPS Luncheon
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191211T174500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191211T191500Z
@@ -15573,6 +15504,22 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
  e dynamical system explains evolutionary transitions in insects and genera
  lizes to robotic systems.\n\nLinks:\n[0]  http://hg.gatech.edu/node/641793
  #0\n[1]  https://bluejeans.com/589089628
+LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How to Build Resilient (Virtual) Teams: A Live Stream Featuring Da
+ vid Slus
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20201211T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20201211T173000Z
+UID:http://hg.gatech.edu/node/641950#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nIn this episode o
+ f Scheller Lunchtime Live\, Associate Professor David Sluss talks about le
+ arning how to build people\, broaden other’s perspectives\, and boost yo
+ ur own patience for more resilient (virtual) teams. Just hit "Attend event
+ " and log into LinkedIn on December 11th at 12 p.m. ET to access the sessi
+ on.\n\nLinks:\n[0]  http://hg.gatech.edu/node/641950#0\n[1]  https://www.l
+ inkedin.com/events/6732748686574526464/
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
