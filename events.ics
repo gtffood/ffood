@@ -2,74 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:ML@GT NeurIPS Luncheon
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191211T174500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191211T191500Z
-UID:http://hg.gatech.edu/node/628957#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \nStatus: published\n\nNeurIPS is a great opportunity for the ML@GT family
-  to come together. We hope that you will join us for lunch on Wednesday\, 
- December 11 for community\, collaboration\, and more. All ML@GT students\,
-  faculty\, and alumni are welcome.\n\nTAPshack Coal Harbour is walking dis
- tance from the convention center.\n\nPlease RSVP no later than Tuesday\, D
- ecember 3.\n\nWe look forward to seeing you at NeurIPS!\n\nLinks:\n[0]  ht
- tp://hg.gatech.edu/node/628957#0
-LOCATION:TAPshack Coal Harbour - 1199 W. Cordova Street Vancouver\, Britis
- h Columbia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GTPD Holiday Safety Seminar
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191211T180000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191211T190000Z
-UID:http://hg.gatech.edu/node/629109#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
- aduate students\nStatus: published\n\nAround the holidays we all need to t
- ake more care with our personal\, family and home safety. Officer Jessica 
- Howard will share safety and security tips for the holidays. Snacks will b
- e served.\n\nLinks:\n[0]  http://hg.gatech.edu/node/629109#0
-LOCATION:Coda\, 14th floor Collaborative Core
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chat Over Chicken
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191212T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191212T173000Z
-UID:http://hg.gatech.edu/node/628039#0
-DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nNetwork
-  with Georgia Tech women committed to supporting other women. Join with th
- e Women of Georgia Tech ERG (WoGT) to enjoy the conversation and Ferst Pla
- ce fried chicken! We provide the forum\, you drive the discussion. Registe
- r now for a seat at the reserved WoGT tables. [1]\n\nLinks:\n[0]  http://h
- g.gatech.edu/node/628039#0\n[1]  https://sdie.gatech.edu/women-ERG-upcomin
- g-events
-LOCATION:Ferst Place\, Student Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Petit Institute Holiday Party
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191212T213000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191212T233000Z
-UID:http://hg.gatech.edu/node/629044#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \nStatus: draft\n\nThe Parker H. Petit Institute for Bioengineering and Bi
- oscience will hold its annual Holiday Party to celebrate another great yea
- r of interdisciplinary and collaborative research!\n\nAbove & Beyond Facul
- ty\, Student and Staff Awards to be given\, so take a break from your offi
- ces and labs to come and celebrate the holiday season with the Petit Insti
- tute community!\n\nThis event is open to all faculty\, staff\, research st
- aff\, postdocs\, and graduate students of the Petit Institute.\n\nRSVP req
- uired [1] [2] by December 5 (space limited)\n\nAND....please be sure to br
- ing your donations for the Atlanta Community Food Bank and drop it off in 
- one of the collection cans in the Petit Biotech Building atrium by Friday\
- , Dec. 13!\n\nMOST NEEDED:\n\nWhole Grain Foods\nShelf-stable Milk\nDried 
- or Canned Fruit\nLow-sodium Canned Vegetables\nLow-sodium Pasta Sauce (pla
- stic containers only)\nPeanut Butter\nDried Peas\nDried Beans\nCanned Tuna
- \, Salmon\, or Chicken\nCooking Oil\n100% Fruit or Vegetable Juice\n**no g
- lass containers\n\nLinks:\n[0]  http://hg.gatech.edu/node/629044#0\n[1]  h
- ttps://docs.google.com/forms/d/e/1FAIpQLSezMvnY0a_HFxLkaYXs76cGxZLkVWf0f_9
- X-XrkUy9hnm3E4g/viewform\n[2]  http://www.petitinstitute.gatech.edu/petit-
- holiday-party\n[3]  http://petitinstitute.gatech.edu/
-LOCATION:Parker H. Petit Institute for Bioengineering and Bioscience
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fall 2019 Dean's New Graduate Alumni Celebration
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191212T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191213T010000Z
@@ -15638,5 +15570,20 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  .gatech.edu/node/641416#0\n[1]  https://www.linkedin.com/in/christopher-se
  abolt-144a5a/\n[2]  https://gatech.bluejeans.com/986502317
 LOCATION:Virtual Event - see description for participation info
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Me\, Myself\, and I: A Conversation About Narcissism in the Workpl
+ ace: A Live Stream Featuring Katie Badura
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210115T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210115T173000Z
+UID:http://hg.gatech.edu/node/642024#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nIn this episode o
+ f Scheller Lunchtime Live\, Assistant Professor Katie Badura talks about h
+ ow to identify a narcissistic individual\, the pitfalls of working with na
+ rcissists\, and how to best navigate these pitfalls to improve your work e
+ xperience.\n\nLinks:\n[0]  http://hg.gatech.edu/node/642024#0\n[1]  https:
+ //www.linkedin.com/events/6742096657741074432/about/
+LOCATION:Atlanta\, GA
 END:VEVENT
 END:VCALENDAR
