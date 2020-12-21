@@ -2,42 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Yoga for the Soul
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191221T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191221T020000Z
-UID:http://hg.gatech.edu/node/625251#16
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nStatus: published\n\nWe at Bhakti Yoga Club at 
- Georgia Tech want to improve the quality of living of students and faculty
-  by teaching them principles for a stress-free\, happy and meaningful life
- . We offer free classes on various forms of yoga and vegan cooking every F
- riday in the Student Center from 7 PM! We do simple exercises followed by 
- yoga practices\, go deep into our consciousness and end with vegan snacks.
-  Don't miss this opportunity to learn Intentional Living\, Conscious Eatin
- g and Mindful Co-existence - this might be the point your life changed for
-  the better!\n\nLinks:\n[0]  http://hg.gatech.edu/node/625251#16\n[1]  htt
- ps://gatech.campuslabs.com/engage/organization/bhakti-yoga-gt\n[2]  https:
- //www.facebook.com/BYCGT
-LOCATION:Piedmont Room\, Student Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saturday Food Distribution Volunteering
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191221T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191221T190000Z
-UID:https://gatech.campuslabs.com/engage/event/5053240
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFood4Lives is a service
-  family founded by students from Georgia Tech and Emory in 2017 to feed\, 
- educate and empower the homeless of Atlanta.\n\nWe all meet at 1122 old Ch
- attahoochee ave\, Atlanta @ 10:00 AM. We will car pool together to down to
- wn to gateWay center first to Serve out\, then to hurt park after we finis
- h cooking.\n\nOur menu usually is:\n\nYellow rice\nSandwiches (tomato’s\
- , cucumber\, lettuce\, cheese\, mustard\, ketchup\, hummus)\nLemonade\ncho
- colate milk\nchips & snacks\nSalad\nMacaroni and cheese\nQuesadillas\nFrui
- t salad\nGranola & Milk\nPancakes\n\nLinks:\n[0]  https://gatech.campuslab
- s.com/engage/event/5053240
-LOCATION:Food4lives Kitchen
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Saturday Food Distribution Volunteering
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20191228T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20191228T190000Z
