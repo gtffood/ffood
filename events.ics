@@ -2,23 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Saturday Food Distribution Volunteering
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20191228T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20191228T190000Z
-UID:https://gatech.campuslabs.com/engage/event/5053241
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFood4Lives is a service
-  family founded by students from Georgia Tech and Emory in 2017 to feed\, 
- educate and empower the homeless of Atlanta.\n\nWe all meet at 1122 old Ch
- attahoochee ave\, Atlanta @ 10:00 AM. We will car pool together to down to
- wn to gateWay center first to Serve out\, then to hurt park after we finis
- h cooking.\n\nOur menu usually is:\n\nYellow rice\nSandwiches (tomato’s\
- , cucumber\, lettuce\, cheese\, mustard\, ketchup\, hummus)\nLemonade\ncho
- colate milk\nchips & snacks\nSalad\nMacaroni and cheese\nQuesadillas\nFrui
- t salad\nGranola & Milk\nPancakes\n\nLinks:\n[0]  https://gatech.campuslab
- s.com/engage/event/5053241
-LOCATION:Food4lives Kitchen
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Food Distribution Volunteering
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200104T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200104T190000Z
