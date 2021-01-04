@@ -2,38 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Food Distribution Volunteering
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200104T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200104T190000Z
-UID:http://hg.gatech.edu/node/630475#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Credit\, Free Food\, Free Stuff\nStatus: published\n\nFood4Lives 
- is a service family founded by students from Georgia Tech and Emory in 201
- 7 to feed\, educate and empower the homeless of Atlanta.\n\nWe will meet a
- t 1122 Old Chattahoochee Ave at 10 a.m. We will carpool to the Gateway Cen
- ter in Downtown Atlanta (12:15 pm)\, then to nearby Hurt Park (1 pm) after
-  we finish cooking. Feel free to join us at any of the three locations at 
- your convenience.\n\nOur menu usually is:\n\n- Yellow rice\n- Sandwiches (
- tomato\, cucumber\, lettuce\, cheese\, mustard\, ketchup\, hummus)\n- Lemo
- nade\n- Chocolate milk\n- Chips and snacks\n- Salad\n- Macaroni and cheese
- \n- Quesadillas\n- Fruit salad\n- Granola and milk\n- Pancakes\n\nTo spons
- or an event\, visit https://food4lives.org/donate.html. [2]\n\nFood4Lives 
- is a service family founded by students from Georgia Tech and Emory in 201
- 7 to feed\, educate and empower the homeless of Atlanta.\n\nWe all meet at
-  1122 old Chattahoochee ave\, Atlanta @ 10:00 AM. We will carpool together
-  to downtown Gateway centre (12:15 pm) first to Serve out\, then to hurt p
- ark (1 pm) after we finish cooking. Feel free to join us at any of the 3 l
- ocations at your convenience.\n\nOur menu usually is:\n\nYellow rice\nSand
- wiches (tomato’s\, cucumber\, lettuce\, cheese\, mustard\, ketchup\, hum
- mus)\nLemonade\nchocolate milk\nchips & snacks\nSalad\nMacaroni and cheese
- \nQuesadillas\nFruit salad\nGranola & Milk\nPancakes\n\nFor sponsoring an 
- event please check: [2]\n\nLinks:\n[0]  http://hg.gatech.edu/node/630475#0
- \n[1]  https://gatech.campuslabs.com/engage/event/5322921\n[2]  https://fo
- od4lives.org/donate.html\n[3]  https://www.facebook.com/events/11779058659
- 30288/
-LOCATION:Food4Lives\, 1122 Old Chattahoochee Avenue
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Digital Fabrication Lab Showcase
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200106T210000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200106T230000Z
