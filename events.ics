@@ -2,161 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Digital Fabrication Lab Showcase
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200106T210000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200106T230000Z
-UID:http://hg.gatech.edu/node/630137#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nJoin the Georgia 
- Tech School of Architecture for the Digital Fabrication Lab (DFL) Showcase
-  on Monday\, January 6 at 4pm in the DFL. Join us for pizza and an exhibit
- ion of all of the work currently taking place in the DFL.\n\nThe following
-  faculty will have studio projects\, research\, and coursework on display:
-  Keith Kaseman [1]\, Vernelle Noel [2]\, Russell Gentry [3]\, Daniel Baerl
- ecken [4]\, Stuart Romm [5]\, Tristan Al-Haddad [6]\, and Jake Tompkins [7
- ].\n\nParking Details:\n\n- The Digital Fabrication Lab has approximately 
- 20 parking spaces.\n- You are welcome to park across the street in front o
- f the Randall Brothers\, Inc. building along Marietta Street. The parking 
- lots on the sides of Randall Brothers are employee-only parking and the ga
- tes close at night.\n- Area 3 Parking [8] is located on Ferst Drive near t
- he Georgia Tech Student Center. This lot has a rate of $2/hr. Walk towards
-  the Campus Recreation Center and turn left on Means Street NW. A crosswal
- k is available at the Means Street and Marietta Street intersection.\n- He
- re is the link to the campus parking map. [9] The Digital Fabrication Lab 
- is represented by W09.\n\nLinks:\n[0]  http://hg.gatech.edu/node/630137#0\
- n[1]  https://arch.gatech.edu/people/keith-kaseman\n[2]  https://arch.gate
- ch.edu/people/vernelle-noel\n[3]  https://arch.gatech.edu/people/russell-g
- entry\n[4]  https://arch.gatech.edu/people/daniel-baerlecken\n[5]  https:/
- /arch.gatech.edu/people/stuart-romm\n[6]  https://arch.gatech.edu/people/t
- ristan-al-haddad\n[7]  https://arch.gatech.edu/digital-fabrication-lab-0\n
- [8]  https://gatech.us1.list-manage.com/track/click?u=04b200ded3d9fea3c916
- 281c3&id=3019a15131&e=38809c7f97\n[9]  https://arch.gatech.edu/system/file
- s/images/school_of_arch_parkingmap.pdf
-LOCATION:Digital Fabrication Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CREATE-X I2P Kickoff (+ pizza!)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200106T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200107T000000Z
-UID:http://hg.gatech.edu/node/630340#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nExtras: Free food\nStatus: published\n\nBe sure
-  to stop by Klaus room 2448 next week to learn more about Idea 2 Prototype
-  [1] (i2P). This signature program of CREATE-X will provide you with the s
- kills and technical expertise to overcome technological challenges and $50
- 0 to turn your idea into a working product.\n\nLinks:\n[0]  http://hg.gate
- ch.edu/node/630340#0\n[1]  https://create-x.gatech.edu/idea-prototype\n[2]
-   https://gatech.co1.qualtrics.com/jfe/form/SV_cT3JjpIy9ntLA2h
-LOCATION:Klaus 2448
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I2P Information Session
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200106T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200107T000000Z
-UID:https://gatech.campuslabs.com/engage/event/5324304
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis signature program 
- of CREATE-X will provide you with the skills and technical expertise to ov
- ercome technological challenges and $500 to turn your idea into a working 
- product.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/532430
- 4
-LOCATION:Klaus 2448
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:United Forming
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200107T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200107T170000Z
-UID:https://gatech.campuslabs.com/engage/event/5328096
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nUnited For
- ming Inc is a concrete construction company specialized in formwork system
- s solutions. We provide pre-construction\, construction\, formwork system 
- design and project management services to leading general contractors and 
- developers in the private and public sectors.\n\nWith almost 35 years of o
- perations in the construction industry\, United Forming is in a position o
- f sustainable growth. Since our establishment in 1985\, we have completed 
- two and a half billion dollars’ worth of work and more than 1000 project
- s across the Mid-Atlantic and South Region.\n\nOur company’s growth and 
- success is the result of our focus on customer service\, combined with our
-  successful past performances\, and the exceptional capabilities of our se
- nior management and in-house team of project managers.\n\nWe self-perform 
- critical components of a construction project scope\, including quality st
- ructural concrete\, site logistics\, budgeting\, estimating\, safety\, and
-  scheduling. We employ more than 1000 professional estimators\, project ma
- nagers\, superintendents\, and craftsman who are experienced in a wide var
- iety of facility types and delivery methods.\n\nAs a 100% employee-owned a
- nd operated company\, we commit ourselves to every project we take on\, an
- d continuously strive to create profitability and equal opportunity for al
- l our stakeholders.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/e
- vent/5328096
-LOCATION:Mason Building - room 1133
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vertically Integrated Projects (VIP) Poster Session
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200107T210000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200107T220000Z
-UID:http://hg.gatech.edu/node/630133#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nThe VIP Spring Poster Session is open to ALL student
- s looking for research opportunities!\n\nPlease join us on Tuesday\, Janua
- ry 7th as we host our VIP Poster Session!\n\nPoster Sessions are a GREAT w
- ay to get involved in undergraduate research. Come check out our OVER 80 i
- nteresting research projects that are looking for students like you! Learn
-  more at [1]\n\nRefreshments will be provided.\n\nLinks:\n[0]  http://hg.g
- atech.edu/node/630133#0\n[1]  https://www.vip.gatech.edu/teams
-LOCATION:Atrium\, Klaus Advanced Computing Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clone of Open house to tour WST Learning Community
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200107T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200107T230000Z
-UID:http://hg.gatech.edu/node/629393#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nAll interested women undergraduat
- e and graduate students are invited to tour the Women\, Science\, and Tech
- nology Learning Community (WST Lrn C) because vacant rooms are anticipated
-  in spring 2020 and recruitment for 2020-2021 residency will begin in Janu
- ary.\n\nCurrent residents and WST team members will be available to answer
-  questions. Learn about WST initiatives\, including dinners with faculty/s
- taff\, career workshops\, faculty mentoring\, undergraduate research.\n\nW
- ST Lrn C accommodations in Goldin House and Stein House (STN)\, a WST (Wom
- en\, Science\, and Technology) apartment\, offer two private bedrooms that
-  share a full bathroom in each apartment. All residents of the two buildin
- gs share two lounges\, study areas\, and kitchens on the first floor.\n\nL
- inks:\n[0]  http://hg.gatech.edu/node/629393#0
-LOCATION:Stein House/4th St. A\, 733 Techwood\, Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Women\, Science\, and Technology Learning Community Open House
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200107T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200107T230000Z
-UID:https://gatech.campuslabs.com/engage/event/5193697
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAll interested women un
- dergraduate and graduate students are invited to tour the Women\, Science\
- , and Technology Learning Community (WST Lrn C) because vacant rooms are a
- nticipated in spring 2020 and recruitment for 2020-2021 residency will beg
- in in January. Current residents and WST team members will be available to
-  answer questions.\n\nApplications will be available on Engage and at wst.
- gatech.edu.\n\nContact carol.colatrella@lmc.gatech.edu for more informatio
- n.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5193697
-LOCATION:Stein House/4th St. A Apts\, 733 Techwood Drive\, Atlanta
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Society of Women Engineers General Body Meeting
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200107T221500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200108T000000Z
-UID:http://hg.gatech.edu/node/624549#10
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nCome out to our general body meeting every Tues
- day from 5:15 to 7 PM in Smithgall Student Services (Flag Building) Room 1
- 17.\n\n5:15-5:45 PM Free dinner and social time with our members and offic
- ers\n\n5:45-6 PM: Announcements and Upcoming Events Reminders\n\n6-7 PM: S
- ocial Hour or Company Sponsored Event (Please check our weekly newletter f
- or the upcoming company or activity of the week!)\n\nIf you have any quest
- ions\, please feel free to email our President\, Toral Kadakia\, at swepre
- sident@gmail.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/624549#10\n
- [1]  swepresident@gmail.com\n[2]  https://www.facebook.com/GeorgiaTechSWE/
-LOCATION:Room 117\, Smithgall Student Services (Flag) Building
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Clone of Open house to tour WST Learning Community
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200108T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200108T230000Z
@@ -177,6 +22,21 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  inks:\n[0]  http://hg.gatech.edu/node/630021#0\n[1]  https://wst.gatech.ed
  u/wst-learning-community
 LOCATION:Stein House/4th St. A\, 733 Techwood\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Women\, Science\, and Technology Learning Community Open House
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200108T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200108T230000Z
+UID:https://gatech.campuslabs.com/engage/event/5193697
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAll interested women un
+ dergraduate and graduate students are invited to tour the Women\, Science\
+ , and Technology Learning Community (WST Lrn C) because vacant rooms are a
+ nticipated in spring 2020 and recruitment for 2020-2021 residency will beg
+ in in January. Current residents and WST team members will be available to
+  answer questions.\n\nApplications will be available on Engage and at wst.
+ gatech.edu.\n\nContact carol.colatrella@lmc.gatech.edu for more informatio
+ n.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5193697
+LOCATION:Stein House/4th St. A Apts\, 733 Techwood Drive\, Atlanta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chill It & Quilt It
