@@ -2,105 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Clone of Open house to tour WST Learning Community
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200108T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200108T230000Z
-UID:http://hg.gatech.edu/node/630021#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nAll interested women undergraduat
- e and graduate students are invited to tour the Women\, Science\, and Tech
- nology Learning Community (WST Lrn C) because vacant rooms are anticipated
-  in spring 2020 and recruitment for 2020-2021 residency will begin in Janu
- ary.\n\nCurrent residents and WST team members will be available to answer
-  questions. Learn about WST initiatives\, including dinners with faculty/s
- taff\, career workshops\, faculty mentoring\, undergraduate research.\n\nW
- ST Lrn C accommodations in Goldin House and Stein House (STN)\, a WST (Wom
- en\, Science\, and Technology) apartment\, offer two private bedrooms that
-  share a full bathroom in each apartment. All residents of the two buildin
- gs share two lounges\, study areas\, and kitchens on the first floor.\n\nS
- ee [1] for further information and a link to the 2020-21 application.\n\nL
- inks:\n[0]  http://hg.gatech.edu/node/630021#0\n[1]  https://wst.gatech.ed
- u/wst-learning-community
-LOCATION:Stein House/4th St. A\, 733 Techwood\, Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Women\, Science\, and Technology Learning Community Open House
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200108T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200108T230000Z
-UID:https://gatech.campuslabs.com/engage/event/5193697
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAll interested women un
- dergraduate and graduate students are invited to tour the Women\, Science\
- , and Technology Learning Community (WST Lrn C) because vacant rooms are a
- nticipated in spring 2020 and recruitment for 2020-2021 residency will beg
- in in January. Current residents and WST team members will be available to
-  answer questions.\n\nApplications will be available on Engage and at wst.
- gatech.edu.\n\nContact carol.colatrella@lmc.gatech.edu for more informatio
- n.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5193697
-LOCATION:Stein House/4th St. A Apts\, 733 Techwood Drive\, Atlanta
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chill It & Quilt It
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200109T153000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200109T173000Z
-UID:http://hg.gatech.edu/node/630474#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free Food\nStatus: published\n\nEnjoy FREE cookies while also cre
- ating blankets for donation to the Gateway Center for the homeless and und
- erprivileged. From 10:30 am to 12:30 pm in the Student Center across from 
- the Post Office.\n\nEnjoy FREE cookies while also creating blankets for do
- nation to the Atlanta Gateway center for the homeless and underprivileged.
-  From 10:30 am to 12:30 pm in the Student Center across from the Post Offi
- ce.\n\nLinks:\n[0]  http://hg.gatech.edu/node/630474#0\n[1]  https://gatec
- h.campuslabs.com/engage/event/5322906\n[2]  https://gatech.campuslabs.com/
- engage/organization/mobilizing-opportunities-for-volunteer-experiences
-LOCATION:Georgia Tech Student Center 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Speed Friending
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200109T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200109T164500Z
-UID:https://gatech.campuslabs.com/engage/event/5324903
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nGet to know your fellow
-  WECE members to start off the new semester!\n\nLinks:\n[0]  https://gatec
- h.campuslabs.com/engage/event/5324903
-LOCATION:Van Leer C340
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GVU Center Brown Bag: Diyi Yang "Building Language Technologies fo
- r Social Good"
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200109T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200109T180000Z
-UID:http://hg.gatech.edu/node/630587#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nExtras: Free food\nStatus: published\n\nAbstract
- :\n\nMy research combines techniques in natural language processing\, mach
- ine learning and theories in social science to better understand human lan
- guage and build intelligent systems to support human-human and human-compu
- ter communication. In this talk\, I will explain my research from two spec
- ific studies. The first part studies what makes language persuasive by int
- roducing a semi-supervised neural network to recognize persuasion strategi
- es in loan requests on crowdfunding platforms\, and further designed neura
- l encoder-decoder systems to automatically transforming inappropriately su
- bjective framing into a neutral point of view. The second focuses on model
- ing how people seek and offer support via language in online cancer suppor
- t communities and building interventions to support patient communication.
-  Through these examples\, I show how we can accurately and efficiently bui
- ld better language technologies for social good.\n\nSpeaker Bio:\n\nDiyi Y
- ang is an assistant professor in the School of Interactive Computing at Ge
- orgia Tech. She is interested in natural language processing (such as lang
- uage generation\, semantics\, discourse)\, and social computing. Diyi rece
- ived her PhD from the Language Technologies Institute at Carnegie Mellon U
- niversity\, and her bachelor's degree from Shanghai Jiao Tong University\,
-  China. She has published more than 40 papers at leading NLP/HCI conferenc
- es\, and received several best paper award nominations from EMNLP 2015\, I
- CWSM 2016\, and SIGCHI 2019. She has served as an area chair for ACL\, NAA
- CL and CSCW conferences.\n\nSchedule of Brown Bag Speakers Fall 2019 [1]\n
- \nLinks:\n[0]  http://hg.gatech.edu/node/630587#0\n[1]  https://www.gvu.ga
- tech.edu/events/upcoming\n[2]  http://www.tsrb.gatech.edu/
-LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
- a\, Ga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:East Campus Compost Program Launch Info Session
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200110T003000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200110T010000Z
@@ -15219,6 +15120,32 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:WST Learning Community spring opening meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210118T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210118T233000Z
+UID:http://hg.gatech.edu/node/642633#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nWST Learning Community Dinner\nre
+ sidents can pick up boxed dinners in Stein House at 5pm\nMonday\, Jan 18\,
+  2021\, 5:30pm: Spring Opening Meeting for WST Lrn C\nBlue Jeans Link http
+ s://bluejeans.com/106761163 [1]\nInformal discussion about spring planning
+  for the WST Lrn C\n\nWST Learning Community fall 2021 - spring 2022 appli
+ cation [2]\nApplication Due January 29\, 2021\, 5pm.\n\nGEMS\, WST Learnin
+ g Community Service Project —Howard Middle School Girls Excelling in Mat
+ h and Science (GEMS) Club. Online or in-person most Tuesdays\, August-May\
+ , 4:15-5:45 pm. For information\, contact: marylynn.realff@mse.gatech.edu 
+ [3] or monicamarks@gatech.edu [4]\n\nLinks:\n[0]  http://hg.gatech.edu/nod
+ e/642633#0\n[1]  https://nam12.safelinks.protection.outlook.com/?url=https
+ %3A%2F%2Fbluejeans.com%2F106761163&data=04%7C01%7Ccarol.colatrella%40lmc.g
+ atech.edu%7C9284101ff784469ad67008d8a46ce430%7C482198bbae7b4b258b7a6d7f32f
+ aa083%7C0%7C0%7C637440134909810272%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjA
+ wMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=14hzOqyhz
+ v%2B%2BJXwYo6dyDjn9vMClco%2BI2wu6HUryV5c%3D&reserved=0\n[2]  https://gatec
+ h.campuslabs.com/engage/submitter/form/start/446266\n[3]  marylynn.realff@
+ mse.gatech.edu\n[4]  monicamarks@gatech.edu
+LOCATION:Stein House\, Georgia Tech\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Servicization: Necessary Evil or Competitive Advantage: A livestre
  am featuring Manpreet Hora
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210129T170000Z
@@ -15234,5 +15161,56 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
   12 p.m. ET to access the session.\n\nLinks:\n[0]  http://hg.gatech.edu/no
  de/642281#0
 LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WST Learning Community dinner discussion: Dr. Kim Cobb
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210202T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210202T233000Z
+UID:http://hg.gatech.edu/node/642635#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nWST Learning Community Dinner\nre
+ sidents can pick up boxed dinners in Stein House at 5pm\n\nTuesday\, Feb 2
+ \, 2021\, 5:30pm: Dr. Kim Cobb\, College of Sciences ADVANCE Professor\nBl
+ ue Jeans Link: https://bluejeans.com/901891909/8973 [1]\n\nDr. Cobb is a p
+ rofessor in the School of Earth and Atmospheric Sciences at the Georgia In
+ stitute of Technology\, and a Georgia Power Faculty Scholar. She is partic
+ ularly interested in oceanography\, geochemistry and paleoclimate modeling
+ .\nhttps://cobblab.eas.gatech.edu/people/people.html\n\nWST Learning Commu
+ nity fall 2021 - spring 2022 application [2]\nApplication Due January 29\,
+  2021\, 5pm.\n\nGEMS\, WST Learning Community Service Project —Howard Mi
+ ddle School Girls Excelling in Math and Science (GEMS) Club. Online or in-
+ person most Tuesdays\, August-May\, 4:15-5:45 pm. For information\, contac
+ t: marylynn.realff@mse.gatech.edu [3] or monicamarks@gatech.edu [4]\n\nLin
+ ks:\n[0]  http://hg.gatech.edu/node/642635#0\n[1]  https://nam12.safelinks
+ .protection.outlook.com/?url=https%3A%2F%2Fbluejeans.com%2F901891909%2F897
+ 3%3Fsrc%3DcalendarLink&data=04%7C01%7Ccarol.colatrella%40lmc.gatech.edu%7C
+ 9284101ff784469ad67008d8a46ce430%7C482198bbae7b4b258b7a6d7f32faa083%7C0%7C
+ 0%7C637440134909820266%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjo
+ iV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=Y2vAkrUgfHsfjTeph8YW2
+ rv0YHw343TNcRdn8SvRqEc%3D&reserved=0\n[2]  https://gatech.campuslabs.com/e
+ ngage/submitter/form/start/446266\n[3]  marylynn.realff@mse.gatech.edu\n[4
+ ]  monicamarks@gatech.edu
+LOCATION:Stein House\, Georgia Tech\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WST Learning Community dinner discussion: Ti Chang\, GT 2002 ID al
+ umna
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210308T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210308T233000Z
+UID:http://hg.gatech.edu/node/642637#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nWST Learning Community Dinner\nre
+ sidents can pick up boxed dinners in Stein House at 5pm\nMonday\, March 8\
+ , 2021\, 5:30pm: Ti Chang\, GT 2002 ID alumna and founder of Crave\nBlue J
+ eans Link: https://bluejeans.com/106761163\n\nWST Learning Community fall 
+ 2021 - spring 2022 application [1]\nApplication Due January 29\, 2021\, 5p
+ m.\n\nGEMS\, WST Learning Community Service Project —Howard Middle Schoo
+ l Girls Excelling in Math and Science (GEMS) Club. Online or in-person mos
+ t Tuesdays\, August-May\, 4:15-5:45 pm. For information\, contact: marylyn
+ n.realff@mse.gatech.edu [2] or monicamarks@gatech.edu [3]\n\nLinks:\n[0]  
+ http://hg.gatech.edu/node/642637#0\n[1]  https://gatech.campuslabs.com/eng
+ age/submitter/form/start/446266\n[2]  marylynn.realff@mse.gatech.edu\n[3] 
+  monicamarks@gatech.edu
+LOCATION:Stein House\, Georgia Tech\, Atlanta\, GA
 END:VEVENT
 END:VCALENDAR
