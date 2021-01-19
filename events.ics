@@ -13991,6 +13991,24 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Spring Opening Meeting for WST Lrn C 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210118T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210118T233000Z
+UID:https://gatech.campuslabs.com/engage/event/6680370
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nWST Learning Community 
+ dinner\, Monday\, January 18\, 2021. Residents can pick up boxed meals in 
+ Stein at 5pm. Please bring questions and suggestions for spring term to th
+ is virtual meeting. The Blue Jeans link is https://bluejeans.com/106761163
+  [1]\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6680370\n[
+ 1]  https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fblue
+ jeans.com%2F106761163%3Fsrc%3DcalendarLink&data=04%7C01%7Cshubhangi%40gate
+ ch.edu%7C03ff4e95d1e24031ec5408d8bbc9c742%7C482198bbae7b4b258b7a6d7f32faa0
+ 83%7C0%7C0%7C637465822676440697%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMD
+ AiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=RC7vsoIh45ek
+ VdptZNk7sWFGk0ekZ2UWWdsogOR0L1o%3D&reserved=0
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WST Learning Community spring opening meeting
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210118T223000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210118T233000Z
@@ -14034,6 +14052,18 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Conversation with Dr. Kim Cobb\, College of Sciences ADVANCE Profe
+ ssor
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210202T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210202T233000Z
+UID:https://gatech.campuslabs.com/engage/event/6680374
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nTuesday\, Feb 2\, 2021\
+ , 5:30 pm: Dr. Kim Cobb\, College of Sciences ADVANCE Professor\n\nBlue Je
+ ans Link: https://bluejeans.com/901891909/8973\n\nLinks:\n[0]  https://gat
+ ech.campuslabs.com/engage/event/6680374
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WST Learning Community dinner discussion: Dr. Kim Cobb
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210202T223000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210202T233000Z
@@ -14062,6 +14092,18 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  ngage/submitter/form/start/446266\n[3]  marylynn.realff@mse.gatech.edu\n[4
  ]  monicamarks@gatech.edu
 LOCATION:Stein House\, Georgia Tech\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conversation with Ti Chang\, GT 2002 ID alumna and founder of Crav
+ e
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210308T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210308T233000Z
+UID:https://gatech.campuslabs.com/engage/event/6680375
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nMonday\, March 8\, 2021
+ \, 5:30 pm: Ti Chang\, GT 2002 ID alumna and founder of Crave\n\nBlue Jean
+ s Link: https://bluejeans.com/106761163\n\nLinks:\n[0]  https://gatech.cam
+ puslabs.com/engage/event/6680375
+LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WST Learning Community dinner discussion: Ti Chang\, GT 2002 ID al
