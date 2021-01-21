@@ -2,80 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:International Opportunities Open House
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200121T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200121T170000Z
-UID:http://hg.gatech.edu/node/628785#0
-DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\n
- Status: published\n\nPlease come meet OIE advisors and learn about study a
- broad opportunities\, Global Internships\, the International Plan\, schola
- rships\, and more. This is a great time to ask questions about Tech's many
-  programs in one place and indulge in some tasty refreshments.\n\nWe hope 
- to see you there!\n\nLinks:\n[0]  http://hg.gatech.edu/node/628785#0\n[1] 
-  https://oie.gatech.edu/
-LOCATION:Student Center Piedmont Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alpha Chi Sigma Rush
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200121T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200121T170000Z
-UID:http://hg.gatech.edu/node/631228#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nEnjoy free pizza on Tuesday\, Jan
- . 21 and trivia on Thursday\, Jan. 23. Other events will be from 5-6 p.m. 
- on Wednesday\, Jan. 22 and Thursday\, Jan. 23 from 5-7 p.m. and 5-6 p.m.\,
-  respectively.\n\nLinks:\n[0]  http://hg.gatech.edu/node/631228#0\n[1]  ht
- tps://gatech.campuslabs.com/engage/organization/alpha-chi-sigma
-LOCATION:Molecular Science and Engineering Atrium 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:General Meeting - Michael Baker International 
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200121T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200121T170000Z
-UID:https://gatech.campuslabs.com/engage/event/5473413
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nMichael Ba
- ker International\, a leading provider of engineering and consulting servi
- ces\, including design\, planning\, architectural\, environmental\, constr
- uction and program management\, has been solving some of the world’s mos
- t complex infrastructure challenges for nearly 80 years with a legacy of e
- xpertise\, experience\, innovation and integrity.\n\nLinks:\n[0]  https://
- gatech.campuslabs.com/engage/event/5473413
-LOCATION:Mason Building - room 1133
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rush 
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200121T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200121T170000Z
-UID:https://gatech.campuslabs.com/engage/event/5451700
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nTuesday 11-12 Pizza\n\n
- Wednesday 5-7 Resume Workshop\n\nThursday 11-12 Trivia\n\nThursday 5-6 Coo
- kie Bar\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5451700
-LOCATION:MoSE Atrium 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Role of the Private Sector in Development
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200121T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200121T170000Z
-UID:http://hg.gatech.edu/node/630914#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nThe Sam Nunn School of International Affairs' Program on Global Developm
- ent will host a round-table to discuss the role of the private sector in d
- evelopment. Topics to discuss include the possibilities and limitaions of 
- the private sector development in Brazil\, the trap of middle income\, and
-  leveraging economic sectors for peace from the perspective of Lebanon.\n\
- nModerator: Mr. John Rice\, distinguished professor of the practice at the
-  Sam Nunn School of International Affairs\n\nPanelists:\n\n- Kirk Bowman\,
-  professor at the Sam Nunn School of International Affairs\n- Alberto Fuen
- tes\, assistant professor at the Sam Nunn School of International Affairs\
- n- Dennis Lockhart\, distinguished professor of the practice at the Sam Nu
- nn School of International Affairs\n- Rana Shabb\, PhD candidate at the Sa
- m Nunn School of International Affairs\n\nLunch will be provided. Please R
- SVP to Chris McDermott at chris.mcdermott@gatech.edu\n\nLinks:\n[0]  http:
- //hg.gatech.edu/node/630914#0\n[1]  https://inta.gatech.edu/visit
-LOCATION:Habersham Building\, Room G17
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Leadership for Social Good Study Abroad Info Session
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200121T161500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200122T044500Z
@@ -108,23 +34,6 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Scheller College of Business\, Room 101
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Petit Entrepreneurship Academy Workshop
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200121T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200121T180000Z
-UID:http://hg.gatech.edu/node/630378#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Postdoc\nStatus: published\
- n\nThis workshop will provide an overview of resources available here at G
- eorgia Tech. Break out groups will be available based on interest areas th
- at will dive deeper into each area.\n\nWhen you register for the workshop\
- , please select your interest area (when to start a company\, patent strat
- egy\, sources of funding\, etc.). Lunch will be provided!\n\nWe look forwa
- rd to seeing you there! RSVP [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node
- /630378#0\n[1]  https://docs.google.com/forms/d/e/1FAIpQLSfF7tnxG8m_LqICAE
- op2DaOorRNCj1CPFCAIQVa6kohZ1M-Qw/viewform\n[2]  https://venturelab.gatech.
- edu/
-LOCATION:Petit Biotechnology Building\, Room 1128 - Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Spring TA Orientation - Session 2
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200121T213000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200122T003000Z
@@ -140,23 +49,6 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  1#0\n[1]  http://ctl.gatech.edu/content/spring-2020-teaching-assistant-ori
  entation-tao\n[2]  http://ctl.gatech.edu/grad-students/teaching-assistants
 LOCATION:Student Center Peachtree Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Society of Women Engineers General Body Meeting
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200121T221500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200122T000000Z
-UID:http://hg.gatech.edu/node/624549#12
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nCome out to our general body meeting every Tues
- day from 5:15 to 7 PM in Smithgall Student Services (Flag Building) Room 1
- 17.\n\n5:15-5:45 PM Free dinner and social time with our members and offic
- ers\n\n5:45-6 PM: Announcements and Upcoming Events Reminders\n\n6-7 PM: S
- ocial Hour or Company Sponsored Event (Please check our weekly newletter f
- or the upcoming company or activity of the week!)\n\nIf you have any quest
- ions\, please feel free to email our President\, Toral Kadakia\, at swepre
- sident@gmail.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/624549#12\n
- [1]  swepresident@gmail.com\n[2]  https://www.facebook.com/GeorgiaTechSWE/
-LOCATION:Room 117\, Smithgall Student Services (Flag) Building
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EWB Nicaragua California Pizza Kitchen Fundraiser
@@ -14094,6 +13986,38 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Stein House\, Georgia Tech\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Role of Social Media in Financial Markets: A livestream featur
+ ing Robbie Moon
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210226T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210226T173000Z
+UID:http://hg.gatech.edu/node/643081#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nIn this episode of Scheller Lunchtime Live\, As
+ sistant Professor Robbie Moon discusses research on social media’s emerg
+ ing role in financial markets. He’ll talk about what research says about
+  the credibility of investors on social media\, how firms appear to be usi
+ ng social media\, and the potential disruption to traditional sources of f
+ inancial information.\n\nJust hit "Attend event" on the LinkedIn event and
+  visit the Georgia Tech Scheller College of Business page on Friday\, Febr
+ uary 26 at 12:00 p.m. ET to access the session.\n\nAbout Robbie Moon\n\nRo
+ bbie is an assistant professor with research interests in financial accoun
+ ting and auditing. He works on a variety of research topics relating to fi
+ rms' voluntary and mandatory disclosures\, nontraditional disclosures such
+  as social media\, and the intersection of audit and financial accounting 
+ research. Robbie's research has been published in the Journal of Accountin
+ g and Economics\, the Journal of Accounting Research\, Contemporary Accoun
+ ting Research\, Accounting\, Organizations\, and Society\, Auditing: A Jou
+ rnal of Practice and Theory\, and the Journal of Financial Reporting.\n\nP
+ rior to entering academics\, he worked for four years in the advisory prac
+ tice at KPMG LLP in the firm's Atlanta office. Robbie previously held both
+  CPA and CIA certifications.\n\nWhen not working\, he enjoys spending time
+  with his wife\, Lindsay\, and his four children\, James\, Michael\, Ann M
+ arie\, and Elizabeth.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643081#0\n
+ [1]  https://www.linkedin.com/events/theroleofsocialmediainfinancial675555
+ 3180223901697
+LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Conversation with Ti Chang\, GT 2002 ID alumna and founder of Crav
  e
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210308T223000Z
@@ -14125,5 +14049,21 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  age/submitter/form/start/446266\n[2]  marylynn.realff@mse.gatech.edu\n[3] 
   monicamarks@gatech.edu
 LOCATION:Stein House\, Georgia Tech\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Institute Retirement Celebration
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210622T213000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210623T003000Z
+UID:http://hg.gatech.edu/node/643067#0
+DESCRIPTION:Intended audience: Faculty/Staff\nStatus: draft\n\nThe campus 
+ community is invited to support Georgia Tech's retirees by attending this 
+ year's retirement dinner on Tuesday\, June 22\, 2021.\n\nThis year's retir
+ ees will be honored at 5:30 p.m. in the Historic Academy of Medicine. Gues
+ t tickets are $25 and professional attire is encouraged. For more informat
+ ion or to register to attend\, please visit the Georgia Tech Special Event
+ s website [1].\n\nLinks:\n[0]  http://hg.gatech.edu/node/643067#0\n[1]  ht
+ tp://www.specialevents.gatech.edu/retirement-dinner\n[2]  https://academy.
+ gatech.edu/
+LOCATION:Historic Academy of Medicine
 END:VEVENT
 END:VCALENDAR
