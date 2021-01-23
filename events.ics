@@ -2,505 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Leadership for Social Good Study Abroad Info Session
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200121T161500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200122T044500Z
-UID:http://hg.gatech.edu/node/630710#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nCome hear about the Leadership fo
- r Social Good Study Abroad Program [1]\, which offers students the opportu
- nity to gain insight into global civil society\, to learn about the challe
- nges of creating and leading effective and sustainable social enterprises\
- , and to make a positive impact by completing a project with a non-profit 
- organization in Budapest\, Hungary.\n\nAll three courses offered as part o
- f this program qualify for the Leadership Minor - Business Track [2]. This
-  program is also affiliated with Serve-Learn-Sustain and fulfills both the
-  Engage and Learn requirements for the Innovating for Social Impact progra
- m [3].\n\nJoin faculty and former study abroad students at the Eastern and
-  Central Europe Study Abroad Info Session! Lunch will be provided - please
-  RSVP [4].\n\nLinks:\n[0]  http://hg.gatech.edu/node/630710#0\n[1]  http:/
- /serve-learn-sustain.gatech.edu/leadership-social-good-central-and-eastern
- -europe\n[2]  https://leadership.gatech.edu/content/minor-leadership-studi
- es-0\n[3]  http://serve-learn-sustain.gatech.edu/innovating-social-impact-
- program\n[4]  http://ilebackend.gatech.edu/study-abroad-info\n[5]  http://
- ilebackend.gatech.edu/study-abroad-info?_ga=2.207516563.1674213148.1568057
- 969-1070860933.1533069407\n[6]  https://gteesa.blogspot.com/2019/06/hungar
- y-for-knowledge_26.html\n[7]  https://www.google.com/search?rlz=1C1GCEA_en
- US865US865&sxsrf=ACYBGNQhWJzALjSJbgymiVcpC1MOuNZQSg:1567792001763&q=Georgi
- a+Institute+of+Technology&ludocid=13054475435580638479&lsig=AB86z5ULAV3OIg
- R5qIgJxsxweIrZ&sa=X&ved=2ahUKEwiz2eKq4LzkAhXkm-AKHb0zBxsQ8G0oADAbegQIDRAn\
- n[8]  https://www.scheller.gatech.edu/centers-initiatives/ile/study_abroad
- /index.html
-LOCATION:Scheller College of Business\, Room 101
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spring TA Orientation - Session 2
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200121T213000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200122T003000Z
-UID:http://hg.gatech.edu/node/630101#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nAre you a new GTA or UTA? In this
-  essential introduction to your role as a TA\, you will learn about your n
- ew responsibilities\, the policies that govern your work\, and useful tool
- s to use in your course. Led by a team of experienced Graduate Teaching Fe
- llows\, TAO is an engaging introduction to life as a TA at Georgia Tech. C
- heck with your department to find out if your attendance at this event is 
- mandatory.\n\nREGISTER [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/63010
- 1#0\n[1]  http://ctl.gatech.edu/content/spring-2020-teaching-assistant-ori
- entation-tao\n[2]  http://ctl.gatech.edu/grad-students/teaching-assistants
-LOCATION:Student Center Peachtree Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EWB Nicaragua California Pizza Kitchen Fundraiser
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200121T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200122T020000Z
-UID:http://hg.gatech.edu/node/631466#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nStatus: published\n\nCome stop by the Californi
- a Pizza Kitchen in Atlantic Station at 6:00 on February 21st! 20% of all p
- roceeds will go to towards our project. We will also be auctioning off ite
- ms and gift cards from local businesses! Our goal is to install 56 clean c
- ook stoves in Matagalpa\, Nicaragua this May\, so we would love your suppo
- rt!\n\n- Website: [1]\n- Donation page: [2]\n- Instagram: [3]\n- Facebook:
-  [4]\n\nLinks:\n[0]  http://hg.gatech.edu/node/631466#0\n[1]  http://www.t
- estewb.gatech.edu/?page_id=74\n[2]  https://support.ewb-usa.org/team/23262
- 1\n[3]  https://www.instagram.com/ewbgtnicaragua/\n[4]  https://www.facebo
- ok.com/EWBGTNicaragua/
-LOCATION:California Pizza Kitchen at Atlantic Station
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Velocity Worship Service
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200122T003000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200122T013000Z
-UID:https://gatech.campuslabs.com/engage/event/5441750
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
- worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
- h.campuslabs.com/engage/event/5441750
-LOCATION:Baptist Student Union
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Velocity Worship Service
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200122T003000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200122T020000Z
-UID:https://gatech.campuslabs.com/engage/event/5441735
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
- worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
- h.campuslabs.com/engage/event/5441735
-LOCATION:Baptist Student Union
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Integrate the U.N. SDGs into Teaching and Research
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200122T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200122T180000Z
-UID:http://hg.gatech.edu/node/630362#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nExtras: Free Food\nStatus: published\n\nCome hea
- r the 2019 SLS U.N. SDG Faculty Fellows share how they have integrated the
-  Sustainable Development Goals into their teaching and research - and get 
- ideas for doing (more of) this in your own work. Fellows presenting includ
- e: Mike Best (International Affairs/Interactive Computing)\, Shatakshee Dh
- ongde (Economics)\, Alice Favero (Public Policy)\, Britta Kallin (Modern L
- anguages)\, Neha Kumar (Interactive Computing/International Affairs)\, Rav
- i Subramanian ( Scheller )\, and John Taylor (Civil & Environmental Engine
- ering). Dessert and coffee will be served and you are welcome to bring you
- r own lunch.\n\nVisit our website [2] for a information about the SDG Facu
- lty Fellows program and a full list of the Fellows.\n\nLinks:\n[0]  http:/
- /hg.gatech.edu/node/630362#0\n[1]  https://gatech.campuslabs.com/engage/ev
- ent/5486944\n[2]  https://serve-learn-sustain.gatech.edu/sls-fellows-progr
- ams#sdg
-LOCATION:Clough Lounge (Clough 205)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Implicit Bias Workshop
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200122T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200122T183000Z
-UID:http://hg.gatech.edu/node/629985#0
-DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nInstitu
- te Diversity\, in collaboration with the Office of the Vice Provost for Gr
- aduate Education and Faculty Development and Georgia Tech’s ADVANCE Prog
- ram\, is offering Implicit Bias Workshops for faculty this spring. All fac
- ulty who serve on reappointment\, promotion\, and/or tenure committees and
-  faculty search committees are required to participate in an Implicit Bias
-  Workshop pursuant to Provost Bras’ memo in October 2016 to academic lea
- ders. However\, all instructional and research faculty are welcomed to att
- end as space permits.\n\nThe goals of these workshops are to increase awar
- eness of the impact of implicit bias and facilitate equitable decision-mak
- ing across myriad processes related to faculty evaluations. As a participa
- nt in the workshop\, you will learn the following:\n\n• An introduction 
- to the concept of implicit bias and how these unconscious\, automatic ment
- al processes may impact behaviors such as evaluating candidates during fac
- ulty search and/or RPT processes.\n\n• Empirical research on vitaes\, le
- tters of recommendations\, and teaching evaluations to illustrate the impa
- ct of implicit bias on decisions.\n\n• Effective practices and strategie
- s for faculty search and RPT committees.\n\nThese workshops will be facili
- tated by Paul Benkeser\, senior associate chair and professor\, Wallace H.
-  Coulter Department of Biomedical Engineering\; Harris Dimitropoulos\, ass
- ociate professor\, School of Architecture\; Robert Kirkman\, associate pro
- fessor\, School of Public Policy\; Mark Mitchell\, associate director\, Ge
- orgia Tech Research Institute\; and/or Michelle Rinehart\, associate dean 
- for academic affairs and outreach\, College of Design.\n\nTo register for 
- one of the workshops\, visit [1]. Lunch will be provided.\n\nGTRI research
-  faculty should register for a GTRI Implicit Bias workshop via StarTrak [2
- ]. Please contact Sarah Cockrell ( [3] or 404-407-6349) for assistance.\n\
- nLinks:\n[0]  http://hg.gatech.edu/node/629985#0\n[1]  http://www.advance.
- gatech.edu/implicit-bias-workshops\n[2]  https://global.hgncloud.com/ga_in
- stitute_tech/ts/home\n[3]  http://sarah.cockrell@gtri.gatech.edu/
-LOCATION:Student Center\, Piedmont Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Activism 101
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200122T213000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200122T233000Z
-UID:https://gatech.campuslabs.com/engage/event/5473441
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin AASU and MLK Stude
- nt Board in a conversation discussing activism and how it has changed thro
- ugh the years. We will be highlighting the similarities and differences in
-  ideology between the Civil Rights Movement\, the Black Power Movement\, a
- nd the Black Lives Matter Movement. In addition\, we will be furthering th
- e conversation and discussing how we can make a difference within our comm
- unity.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5473441
-LOCATION:Student Center Theater
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alpha Chi Sigma Rush
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200122T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200123T000000Z
-UID:http://hg.gatech.edu/node/631229#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nParticipate in a free resume work
- shop with the brothers of Alpha Chi Sigma. Other events will be from 5-6 p
- .m. on Wednesday\, Jan. 22 and Thursday\, Jan. 23 from 5-7 p.m. and 5-6 p.
- m.\, respectively\, and 11 a.m.-noon on Tuesday\, Jan. 21.\n\nLinks:\n[0] 
-  http://hg.gatech.edu/node/631229#0\n[1]  https://gatech.campuslabs.com/en
- gage/organization/alpha-chi-sigma
-LOCATION:Ford L1175
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rush 
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200122T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200123T000000Z
-UID:https://gatech.campuslabs.com/engage/event/5451701
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nTuesday 11-12 Pizza\n\n
- Wednesday 5-7 Resume Workshop\n\nThursday 11-12 Trivia\n\nThursday 5-6 Coo
- kie Bar\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5451701
-LOCATION:Ford L1175
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Omega Phi Alpha Spring 2020 Recruitment
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200122T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200123T013000Z
-UID:http://hg.gatech.edu/node/630682#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free Food\nStatus: published\n\nPlease join the sisters of the Nu
-  Chapter of Omega Phi Alpha in non-selective recruitment! We will be holdi
- ng recruitment events in order to get to know potential new members and sh
- ow them what OPA is all about. Omega Phi Alpha is Georgia Tech's only serv
- ice sorority that prides itself on its cardinal principles of friendship\,
-  leadership\, and service. We welcome all interested individuals as this i
- s by no means a commitment to join our organization.\n\nLinks:\n[0]  http:
- //hg.gatech.edu/node/630682#0\n[1]  https://gatech.campuslabs.com/engage/e
- vent/5322889\n[2]  https://www.facebook.com/ophiagt/
-LOCATION:Room 111\, Instructional Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Burns & McDonnell Info Session
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200123T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200123T164500Z
-UID:https://gatech.campuslabs.com/engage/event/5473406
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome out to hear about 
- opportunities with Burns & McDonnell and for great food from Bezoria!\n\nL
- inks:\n[0]  https://gatech.campuslabs.com/engage/event/5473406
-LOCATION:Van Leer C340
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alpha Chi Sigma Rush
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200123T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200123T170000Z
-UID:http://hg.gatech.edu/node/631228#1
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nEnjoy free pizza on Tuesday\, Jan
- . 21 and trivia on Thursday\, Jan. 23. Other events will be from 5-6 p.m. 
- on Wednesday\, Jan. 22 and Thursday\, Jan. 23 from 5-7 p.m. and 5-6 p.m.\,
-  respectively.\n\nLinks:\n[0]  http://hg.gatech.edu/node/631228#1\n[1]  ht
- tps://gatech.campuslabs.com/engage/organization/alpha-chi-sigma
-LOCATION:Molecular Science and Engineering Atrium 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rush 
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200123T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200123T170000Z
-UID:https://gatech.campuslabs.com/engage/event/5451702
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nTuesday 11-12 Pizza\n\n
- Wednesday 5-7 Resume Workshop\n\nThursday 11-12 Trivia\n\nThursday 5-6 Coo
- kie Bar\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5451702
-LOCATION:MoSE Atrium 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GVU Center Brown Bag: Foley Scholars
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200123T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200123T180000Z
-UID:http://hg.gatech.edu/node/631091#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nExtras: Free food\nStatus: review\n\nAbstracts:\
- n\nMatthew Hong: Personalizing Health Management Through Human-Centered Da
- ta Augmentation\n\nDuring complex chronic treatment\, adolescent patients 
- (ages 10-19) must communicate all illness needs to the care team so they c
- an access relevant health resources when most needed. This communication i
- s challenging because patients\, family caregivers and clinicians have unm
- atched experiences\, conceptions and linguistic representations of indicat
- ors of health. Most importantly\, patients lack the means to capture and r
- epresent their felt illness experience. My colleagues and I addressed thes
- e challenges by advancing personalized computing technology and human-cent
- ric methods that inform collaborative approaches for managing personal hea
- lth data. In this talk\, I will describe how technology can be designed to
-  effectively scaffold patients’ gradual participation in managing their 
- illness. I draw from Health Informatics\, Participatory Design\, and Human
- -Computer Interaction to show how we can augment clinically-generated\, an
- d patient-generated data in ways that cater to personal health needs. I wi
- ll discuss how human-centered data-augmentation can help designers create 
- intelligent systems to improve chronic care for pediatric patients.\n\nLar
- a Martin: Understanding the Technological and Experiential Requirements of
-  Improvisational Storytelling Agents\n\nAlthough we are currently riding a
-  technological wave of personal assistants\, many of these agents still st
- ruggle to communicate appropriately. Humans are natural storytellers\, so 
- it would be fitting if artificial intelligence could tell stories as well.
-  Automated story generation is an area of AI research that aims to create 
- agents that tell “good” stories. Previous story generation systems use
-  planning to create new stories\, but these systems require a vast amount 
- of knowledge engineering. The stories created by these systems are coheren
- t\, but only a finite set of stories can be generated. In contrast\, very 
- large language models have recently made the headlines in the natural lang
- uage processing community. Though impressive on the surface\, these models
-  begin to lose coherence over time. My research looks at various technique
- s of automated story generation\, focusing on the perceived creativity of 
- the generated stories. Here\, I define a creative product as one that is b
- oth novel and useful. In my dissertation\, I theorize that a jointly proba
- bilistic and causal model will provide more creative stories for readers o
- f stories generated from an improvisational storytelling system than solel
- y probabilistic or causal models.\n\nEmily Wall: Mitigating Implicit Human
-  Bias in Visual Analytics\n\nImplicit bias is a term used to describe the 
- way that our culture\, experiences\, and stereotypes can unconsciously imp
- act our attitudes and decision making. Such biases\, like racial or gender
-  bias\, can impact decision making in critical ways\, propagating long-sta
- nding institutional and systemic biases. However\, as decision making is i
- ncreasingly taking place with the aid of data-driven visual representation
- s (including interactive visualization tools like Tableau\, among others)\
- , we are afforded a new opportunity with respect to the detection and miti
- gation of implicit biases. In this talk\, I describe (1) how user interact
- ions with data can be used to approximate implicit biases and (2) how visu
- alization systems can be designed to make implicit biases more explicit by
-  increasing awareness. By creating systems that promote real-time awarenes
- s of bias\, people can reflect on their behavior and decision making and u
- ltimately engage in a less-biased decision making process.\n\nSpeaker Bios
- :\n\nMatthew Hong is a PhD candidate in Human-Centered Computing in Intera
- ctive Computing. His research lies at the intersection of Human-Computer I
- nteraction and Health Informatics\, and focuses on supporting pediatric pa
- tients’ management of complex chronic conditions through the design and 
- deployment of human-centered health technologies. He has published in lead
- ing conference proceedings and journals\, including the ACM Conference on 
- Human Factors in Computing Systems (ACM SIGCHI) and the Journal of America
- n Medical Informatics Association (JAMIA).\n\nLara Martin is a Human-Cente
- red Computing PhD Candidate in the College of Computing at Georgia Tech. H
- er work resides in the field of Human-Centered Artificial Intelligence wit
- h a focus on natural language applications. Lara is currently working on a
- utomated story generation\, but her previous work includes speech processi
- ng and analyzing online communities. Lara earned a Masters of Language Tec
- hnologies from Carnegie Mellon University and a BS in Computer Science & L
- inguistics from Rutgers University—New Brunswick. In addition to winning
-  the Foley Scholar Award\, she recently received the Best Doctoral Consort
- ium Presentation award at the 2019 ACM Richard Tapia Celebration of Divers
- ity in Computing Conference.\n\nEmily Wall is a 2019 Foley Scholar and Com
- puter Science PhD candidate in the School of Interactive Computing\, where
-  she is advised by Dr. Alex Endert. Her research interests lie at the inte
- rsection of cognitive science and data visualization. Particularly\, her d
- issertation has focused on increasing awareness of unconscious and implici
- t human biases via the design and evaluation of (1) computational approach
- es to quantify bias from user interaction and (2) interfaces to support vi
- sual data analysis. Her research has been supported by the Siemens FutureM
- aker Fellowship and the National Physical Science Consortium Fellowship\, 
- among others.\n\nSchedule of Brown Bag Speakers Fall 2019 [1]\n\nLinks:\n[
- 0]  http://hg.gatech.edu/node/631091#0\n[1]  https://www.gvu.gatech.edu/ev
- ents/upcoming\n[2]  http://www.tsrb.gatech.edu/
-LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
- a\, Ga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GVU Center Brown Bag: Matthew Hong\, Lara Martin\, and Emily Wall 
- "Foley Scholars Research"
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200123T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200123T180000Z
-UID:http://hg.gatech.edu/node/631243#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nExtras: Free food\nStatus: draft\n\nXXXXX ABSTRA
- CTS\n\nMichaelanne Dye\, Towards Access and Beyond: Human Infrastructures 
- in Constrained Contexts\n\nMore than four billion people across the world 
- have yet to access the internet. Despite increasing initiatives by compani
- es and governments to bring more people online\, social\, economic\, and p
- olitical barriers continue to limit internet engagements among underrepres
- ented groups. As a result\, people collaborate to overcome barriers to par
- ticipation\, particularly in politically and economically constrained cont
- exts. I address these concerns by focusing on the case of Cuba\, where up 
- until recently internet access was limited to just five percent of the pop
- ulation. Presenting results from qualitative inquiry in Havana from 2014 t
- o 2017\, I describe how participants are receiving and engaging with the i
- ncremental introduction of access to the world wide web. I also present in
- sights into how people have created their own versions of the internet in 
- response to barriers. I draw on the framework of human infrastructure to r
- eveal how people are sustaining multiple\, disconnected information networ
- ks\, and the tensions and opportunities that arise from these efforts. I w
- ill discuss how this work contributes to our understanding of the social e
- lements embedded in internet adoption and participation\, and how this cri
- tical understanding has implications for the design of social media system
- s in order to better support collaborative efforts of historically underre
- presented groups.\n\nCaitlyn Seim\, Wearable Tactile Stimulation for Strok
- e Rehabilitation\n\nStroke is one of the leading causes of disability in t
- he United States and globally. Many stroke survivors lose function in thei
- r upper extremities\, which can make it difficult to do everyday tasks lik
- e dressing or eating. In addition to weakness and loss of sensation\, spas
- ticity and tone can cause hands to be involuntarily clenched in a rigid po
- sition — a problem for which there are few effective treatments. Getting
-  rehabilitation therapy can be a challenge and up to 50% of stroke survivo
- rs do not qualify for traditional exercise-based therapies. This talk intr
- oduces a novel stimulation method and mobile\, wearable devices to provide
-  therapy on-the-go and to those with very limited movement. Preliminary re
- sults and next steps are presented. Our stimulation method may provide a p
- owerful tool to reduce disability after a stroke\, and the wearable form f
- actor allows users to receive intensive therapy during their normal daily 
- routine.\n\nStevie Chancellor\, Human-Centered Algorithms for Deviant Ment
- al Health Behaviors Online\n\nSocial media can provide a rich platform for
-  those seeking better health and support through difficult experiences. Ye
- t\, it can also provide space for deviant mental health behaviors\, very d
- angerous and stigmatized behaviors related to mental health. These behavio
- rs are dangerous to participants as well as to platform health. However\, 
- the deep complexities of mental health and these clandestine behaviors res
- ist straightforward\, data-driven approaches to detection and intervention
- . In this talk\, I will describe how human-centered algorithms can identif
- y and assess deviant mental health behaviors in pro-eating disorder commun
- ities\, bringing insights from Human Computer Interaction\, applied data s
- cience\, and social computing. In addition\, I will show how these approac
- hes can inform platform strategies for engaging with these communities. Fi
- nally\, I will briefly discuss how human-centered insights can be brought 
- to computational methods to answer our toughest questions about deviant be
- havior online.\n\nSPEAKER BIOS\n\nMichaelanne Dye is a Ph.D. candidate in 
- Human-Centered Computing in the School of Interactive Computing at the Geo
- rgia Institute of Technology. Blending the fields of Social Computing and 
- ICTD (Information and Communication Technologies and Development)\, her wo
- rk uses qualitative methods to study how people access and participate wit
- h internet technologies in resource-constrained contexts with the goal of 
- informing the design of more equitable and inclusive technology. She recei
- ved her Master’s in Sociocultural Anthropology from Georgia State Univer
- sity\, and draws heavily on this background to engage in technology resear
- ch. Michaelanne is a Microsoft Research Ph.D. Fellow\, a three-time recipi
- ent of the Herz Global Impact Award\, and an American Rewards for College 
- Scientists (ARCS) Fellow. Her work has received Best Paper Honorable Menti
- on awards at the ACM CHI and CSCW conferences.\n\nCaitlyn Seim is a PhD ca
- ndidate in the School of Interactive Computing at the Georgia Institute of
-  Technology. Her concentration is Human-Centered Computing with focuses on
-  Artificial Intelligence and Neuroscience. She is an NSF Graduate Research
-  Fellow and Microsoft Research PhD Fellow. Her research interests include 
- wearable computing\, haptics\, HCI\, rehabilitation\, and accessibility. M
- ore specifically\, her work examines human cognition and learning from hap
- tic interaction\, and creating new lightweight\, mobile devices for rehabi
- litation.\n\nStevie Chancellor is a PhD candidate in Human Centered Comput
- ing in Interactive Computing. Her research interest lies in Social Computi
- ng\, Data Science\, and HCI to understand online communities and mental he
- alth. Stevie’s work has won multiple Best Paper Honorable Mention awards
-  at CHI and CSCW\, premier venues in human computer interaction. Her work 
- has been supported by a Snap Inc. Research Fellowship and has appeared in 
- national publications such as Wired and Gizmodo.\n\nHow to watch: If you c
- an't make the event in person you can Live Stream or watch the Recording (
- one week after event).\n\nLinks:\n[0]  http://hg.gatech.edu/node/631243#0\
- n[1]  http://www.tsrb.gatech.edu/
-LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
- a\, Ga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Identity and Personal Brand in the Work Place
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200123T173000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200123T190000Z
-UID:http://hg.gatech.edu/node/631093#0
-DESCRIPTION:Intended audience: Graduate students\nStatus: published\n\nThe
-  College of Sciences Graduate Student Diversity Council (GSDC) contributes
-  to creating a more inclusive graduate student community at Georgia Tech. 
- In collaboration with C2D2\, we are hosting a workshop to provide graduate
-  students from underrepresented and diverse backgrounds with tools for pro
- fessional and career development. This workshop aims to help students impr
- ove their cross-cultural communication skills\, develop work identity\, an
- d communicate their brand in a workplace. Food and refreshments will be pr
- ovided – seating is limited. Please RSVP at [1]\n\nLinks:\n[0]  http://h
- g.gatech.edu/node/631093#0\n[1]  https://tinyurl.com/uk4k69l
-LOCATION:Room 1116\, Marcus Nanotechnology Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alpha Chi Sigma Rush
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200123T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200123T230000Z
-UID:http://hg.gatech.edu/node/631230#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nEnjoy a free cookie bar with the 
- brothers of Alpha Chi Sigma. Other events will be from 11 a.m.-noon on Tue
- sday\, Jan. 21 and Thursday\, Jan. 23\, and from 5-7 p.m. on Wednesday\, J
- an. 22.\n\nLinks:\n[0]  http://hg.gatech.edu/node/631230#0\n[1]  https://g
- atech.campuslabs.com/engage/organization/alpha-chi-sigma
-LOCATION:Molecular Science and Engineering Atrium 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rush 
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200123T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200123T230000Z
-UID:https://gatech.campuslabs.com/engage/event/5451703
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nTuesday 11-12 Pizza\n\n
- Wednesday 5-7 Resume Workshop\n\nThursday 11-12 Trivia\n\nThursday 5-6 Coo
- kie Bar\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5451703
-LOCATION:MoSE Atrium 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Careers with HNI Corporation
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200123T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200124T000000Z
-UID:https://career.gatech.edu/employer-information-sessions#4
-DESCRIPTION:Intended audience: College of Engineering\, Engineering Scienc
- e & Mechanics - MS Level\, Industrial & Systems Engineering - All Levels\,
-  Mechanical Engineering - All Levels\nStatus: unknown\n\nInternships\, rot
- ational programs\, and MORE! Come discuss engineering career opportunities
-  with a company representative and GA Tech alumni. Food will be provided!\
- n\nLinks:\n[0]  https://career.gatech.edu/employer-information-sessions#4
-LOCATION:Bill Moore Student Success Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stamps Health Services Ambassadors General Interest Meeting
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200123T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200124T000000Z
-UID:http://hg.gatech.edu/node/631376#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free Food\nStatus: published\n\nWe are Stamps Health Services Amb
- assadors. We are an organization on campus dedicated to serving the needs 
- of the Stamps Health Services Center while also providing students with ac
- cess to volunteering\, a shadowing program with physicians at Stamps\, and
-  numerous other pre-health opportunities.\n\nOur organization welcomes app
- lications from motivated\, sincere students that are committed to service 
- and would like to expand their knowledge on health related topics. Stamps 
- Health Services is not just for pre-med students. Anyone interested in pre
- -dental\, osteopathic medicine\, veterinary medicine\, physicians assistan
- t\, public health\, or volunteering is welcome.\n\nApplications are due Ja
- nuary 31st at 11:59pm and can be accessed at [2].\n\nWe are Stamps Health 
- Services Ambassadors. We are an organization on campus dedicated to servin
- g the needs of the Stamps Health Services Center. while also providing stu
- dents with access to volunteering\, a shadowing program with physicians at
-  Stamps\, and numerous other pre-health opportunities.Our organization wel
- comes applications from motivated\, sincere students that are committed to
-  service and would like to expand their knowledge on health related topics
- . Stamps Health Services is not just for pre-meds however. Anyone interest
- ed in pre-dental\, osteopathic medicine\, veterinary medicine\, physicians
-  assistant\, public health\, or volunteering is welcome. Our application i
- s due on January 31st at 11:59pm and can be accessed here [2]. We will als
- o have a general interest meeting on Thursday January 23rd in the Kendeda 
- Building Room 230 at 6pm.\n\nLinks:\n[0]  http://hg.gatech.edu/node/631376
- #0\n[1]  https://gatech.campuslabs.com/engage/event/5473442\n[2]  https://
- forms.gle/Amz9Pqaa8ZQDfaDb8
-LOCATION:Room 230\, The Kendeda Building for Innovative Sustainable Design
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bridge Club Open House
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200123T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200124T010000Z
@@ -13927,6 +13428,18 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Stein House\, Georgia Tech\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Food4Lives Service with CCF
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210126T183000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210126T203000Z
+UID:http://hg.gatech.edu/node/643371#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nServing with a local organization\, Food4Lives\, to 
+ prepare\, pack\, and distribute food to our friends on the streets of Atla
+ nta.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643371#0\n[1]  http://www.g
+ tccf.org/compassion/
+LOCATION:CCF\, 767 Techwood Drive NW
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Servicization: Necessary Evil or Competitive Advantage: A livestre
  am featuring Manpreet Hora
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210129T170000Z
@@ -13942,6 +13455,18 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
   12 p.m. ET to access the session.\n\nLinks:\n[0]  http://hg.gatech.edu/no
  de/642281#0
 LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Food4Lives Service with CCF
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210202T183000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210202T203000Z
+UID:http://hg.gatech.edu/node/643371#1
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nServing with a local organization\, Food4Lives\, to 
+ prepare\, pack\, and distribute food to our friends on the streets of Atla
+ nta.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643371#1\n[1]  http://www.g
+ tccf.org/compassion/
+LOCATION:CCF\, 767 Techwood Drive NW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Conversation with Dr. Kim Cobb\, College of Sciences ADVANCE Profe
@@ -13986,6 +13511,42 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Stein House\, Georgia Tech\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Food4Lives Service with CCF
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210209T183000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210209T203000Z
+UID:http://hg.gatech.edu/node/643371#2
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nServing with a local organization\, Food4Lives\, to 
+ prepare\, pack\, and distribute food to our friends on the streets of Atla
+ nta.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643371#2\n[1]  http://www.g
+ tccf.org/compassion/
+LOCATION:CCF\, 767 Techwood Drive NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Food4Lives Service with CCF
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210216T183000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210216T203000Z
+UID:http://hg.gatech.edu/node/643371#3
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nServing with a local organization\, Food4Lives\, to 
+ prepare\, pack\, and distribute food to our friends on the streets of Atla
+ nta.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643371#3\n[1]  http://www.g
+ tccf.org/compassion/
+LOCATION:CCF\, 767 Techwood Drive NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Food4Lives Service with CCF
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210223T183000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210223T203000Z
+UID:http://hg.gatech.edu/node/643371#4
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nServing with a local organization\, Food4Lives\, to 
+ prepare\, pack\, and distribute food to our friends on the streets of Atla
+ nta.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643371#4\n[1]  http://www.g
+ tccf.org/compassion/
+LOCATION:CCF\, 767 Techwood Drive NW
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Role of Social Media in Financial Markets: A livestream featur
  ing Robbie Moon
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210226T170000Z
@@ -14016,6 +13577,18 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  [1]  https://www.linkedin.com/events/theroleofsocialmediainfinancial675555
  3180223901697
 LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Food4Lives Service with CCF
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210302T183000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210302T203000Z
+UID:http://hg.gatech.edu/node/643371#5
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nServing with a local organization\, Food4Lives\, to 
+ prepare\, pack\, and distribute food to our friends on the streets of Atla
+ nta.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643371#5\n[1]  http://www.g
+ tccf.org/compassion/
+LOCATION:CCF\, 767 Techwood Drive NW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Conversation with Ti Chang\, GT 2002 ID alumna and founder of Crav
@@ -14049,6 +13622,102 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  age/submitter/form/start/446266\n[2]  marylynn.realff@mse.gatech.edu\n[3] 
   monicamarks@gatech.edu
 LOCATION:Stein House\, Georgia Tech\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Food4Lives Service with CCF
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210309T183000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210309T203000Z
+UID:http://hg.gatech.edu/node/643371#6
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nServing with a local organization\, Food4Lives\, to 
+ prepare\, pack\, and distribute food to our friends on the streets of Atla
+ nta.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643371#6\n[1]  http://www.g
+ tccf.org/compassion/
+LOCATION:CCF\, 767 Techwood Drive NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Food4Lives Service with CCF
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210316T173000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210316T193000Z
+UID:http://hg.gatech.edu/node/643371#7
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nServing with a local organization\, Food4Lives\, to 
+ prepare\, pack\, and distribute food to our friends on the streets of Atla
+ nta.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643371#7\n[1]  http://www.g
+ tccf.org/compassion/
+LOCATION:CCF\, 767 Techwood Drive NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Food4Lives Service with CCF
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210323T173000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210323T193000Z
+UID:http://hg.gatech.edu/node/643371#8
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nServing with a local organization\, Food4Lives\, to 
+ prepare\, pack\, and distribute food to our friends on the streets of Atla
+ nta.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643371#8\n[1]  http://www.g
+ tccf.org/compassion/
+LOCATION:CCF\, 767 Techwood Drive NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Food4Lives Service with CCF
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210330T173000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210330T193000Z
+UID:http://hg.gatech.edu/node/643371#9
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nServing with a local organization\, Food4Lives\, to 
+ prepare\, pack\, and distribute food to our friends on the streets of Atla
+ nta.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643371#9\n[1]  http://www.g
+ tccf.org/compassion/
+LOCATION:CCF\, 767 Techwood Drive NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Food4Lives Service with CCF
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210406T173000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210406T193000Z
+UID:http://hg.gatech.edu/node/643371#10
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nServing with a local organization\, Food4Lives\, to 
+ prepare\, pack\, and distribute food to our friends on the streets of Atla
+ nta.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643371#10\n[1]  http://www.
+ gtccf.org/compassion/
+LOCATION:CCF\, 767 Techwood Drive NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Food4Lives Service with CCF
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210413T173000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210413T193000Z
+UID:http://hg.gatech.edu/node/643371#11
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nServing with a local organization\, Food4Lives\, to 
+ prepare\, pack\, and distribute food to our friends on the streets of Atla
+ nta.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643371#11\n[1]  http://www.
+ gtccf.org/compassion/
+LOCATION:CCF\, 767 Techwood Drive NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Food4Lives Service with CCF
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210420T173000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210420T193000Z
+UID:http://hg.gatech.edu/node/643371#12
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nServing with a local organization\, Food4Lives\, to 
+ prepare\, pack\, and distribute food to our friends on the streets of Atla
+ nta.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643371#12\n[1]  http://www.
+ gtccf.org/compassion/
+LOCATION:CCF\, 767 Techwood Drive NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Food4Lives Service with CCF
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210427T173000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210427T193000Z
+UID:http://hg.gatech.edu/node/643371#13
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nServing with a local organization\, Food4Lives\, to 
+ prepare\, pack\, and distribute food to our friends on the streets of Atla
+ nta.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643371#13\n[1]  http://www.
+ gtccf.org/compassion/
+LOCATION:CCF\, 767 Techwood Drive NW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Institute Retirement Celebration
