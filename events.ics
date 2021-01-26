@@ -2,37 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Udta India | Sankranti and Republic Day Celebrations
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200126T193000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200126T220000Z
-UID:http://hg.gatech.edu/node/631275#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nExtras: Free Food\nStatus: published\n\nEvery y
- ear on the 26th of January\, Indians all over the world join together in c
- ommemorating the signing of the Indian constitution in 1950. This event ma
- rked the creation of the largest democracy in the world and established In
- dia as a leading independent world power.\n\nCome out to fly kites\, eat s
- amosas\, and chat over some chai with your fellow India Club members! Don
- ’t worry if you’ve never flown kites before because we have experience
- d professionals to help you out!\n\nKites will be flown from 2:30-4 p.m. o
- n Tech Green! At 4 p.m. we will also raise a flag to celebrate India's 71s
- t Republic Day and begin serving chai and samosas in the outdoor amphithea
- ter. The event is free for everyone so stop by to have some fun!\n\nEvery 
- year on the 26th of January\, Indians all over the world join together in 
- commemorating the signing of the Indian constitution in 1950. This event m
- arked the creation of the largest democracy in the world and established I
- ndia as a leading independent world power.\n\nCome out to fly kites\, eat 
- samosas\, and chat over some chai with your fellow India club members! Don
- ’t worry if you’ve never flown kites before\, because we have experien
- ced professionals to help you out!\n\nKites will be flown from 2:30 to 4 p
- m on Tech Green! At 4 pm we will also raise a flag to celebrate India's 71
- st Republic Day and begin serving chai and samosas in the outdoor amphithe
- ater.\n\nThe event is free for everyone so stop by to have some fun!\n\nLi
- nks:\n[0]  http://hg.gatech.edu/node/631275#0\n[1]  https://gatech.campusl
- abs.com/engage/event/5465889\n[2]  http://gtindiaclub.com
-LOCATION:Tech Green
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:GTMI Lunch and Learn Series - Smart and Connected Soft Bioelectron
  ics for Advancing Human Healthcare and Human-Machine Interfaces
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200127T170000Z
