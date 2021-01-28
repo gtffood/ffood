@@ -2,204 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:GTMI Lunch and Learn Series - Smart and Connected Soft Bioelectron
- ics for Advancing Human Healthcare and Human-Machine Interfaces
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200127T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200127T180000Z
-UID:http://hg.gatech.edu/node/630975#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nSmart and Connected Soft Bioelectronics for Advancing Human Healthcare a
- nd Human-Machine Interfaces\n\nSpeaker:\n\n- Asst. Professor\, W. Hong Yeo
- \n\nCompany:\n\n- Georgia Tech\, ME and BME\n\nLinks:\n[0]  http://hg.gate
- ch.edu/node/630975#0
-LOCATION:GTMI 114
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Micro-Physiological Systems Seminar Series
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200127T180000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200127T190000Z
-UID:http://hg.gatech.edu/node/630951#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \nStatus: published\n\nPilgyu Kang\, Ph.D.\nAssistant Professor\nDepartmen
- t of Mechanical Engineering\nGeorge Mason University\n\n"Micro/Nano Mechan
- ics and Photonics for Biomedical Applications"\n\nNanostructuring of atomi
- cally-thin two-dimensional (2D) materials (e.g. graphene and MoS2) has sho
- wed promise to create new functionalities for various biomedical applicati
- ons\, especially flexible and wearable electronics. In this talk\, I will 
- discuss how nanostructuring of atomically-thin materials could create new 
- functionalities based on the fundamental studies of mechanics and photonic
- s at nanoscale. I will first discuss how nanostructuring of atomically-thi
- n 2D materials allows for the enhancement of their exceptional material pr
- operties and creating new functionalities in mechanical\, optical\, plasmo
- nic properties. I will also introduce a shrink nanomanufacturing method de
- veloped based on nanoscale mechanics of atomically-thin materials\, includ
- ing graphene and MoS2 atomic layers. Shrink nanomanufacturing allows large
- -scale\, uniform crumpling of graphene\, a two-dimensional (2D) material\,
-  enabling mechanical stretchability and strain tunability of a flexible op
- toelectronic device. I will highlight a high-performance flexible photodet
- ector developed based on the shrink nanomanufacturing approach as well as 
- its potential in flexible/wearable optical sensing technology for biomedic
- al applications.\n\nLunch will be served at the beginning of the seminar.\
- n\nLinks:\n[0]  http://hg.gatech.edu/node/630951#0\n[1]  https://forms.gle
- /xajpSrydkh2gMoSC7\n[2]  https://ibi.gmu.edu/faculty-directory/pilgyu-kang
- /\n[3]  https://pwp.gatech.edu/biomicrofluidics/
-LOCATION:Krone Engineered Biosystems Building\, Room 1005 - Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AIESEC Info Session
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200127T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200128T000000Z
-UID:http://hg.gatech.edu/node/631662#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nCome learn more about 
- how you can go abroad with AIESEC! We will be going over some of the many 
- opportunities open to students and how to get there. Join us for a fun-fil
- led hour of free food\, giveaways\, and the opportunity to talk to previou
- s exchange participants.\n\nLinks:\n[0]  http://hg.gatech.edu/node/631662#
- 0\n[1]  https://gatech.campuslabs.com/engage/event/5508616\n[2]  http://ai
- esecus.org
-LOCATION:Kendeda Building Room 210
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Omega Phi Alpha Service Nights
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200127T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200128T000000Z
-UID:https://gatech.campuslabs.com/engage/event/5484409
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nPlease join the Nu Chap
- ter of Omega Phi Alpha for Service Nights! We will be painting rocks with 
- positive messages and creating mats for the homeless in Atlanta. Come out 
- to meet the sisters and learn more about Omega Phi Alpha and what we're al
- l about.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/548440
- 9
-LOCATION:Student Center 319
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dinner discussion with Dr. Pinar Keskinocak & Dr. Dawn Strickland
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200127T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200128T003000Z
-UID:http://hg.gatech.edu/node/629398#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nDr. Pinar Keskinocak & Dr. Dawn S
- trickland of ISYE will share their career histories and strategies and wil
- l engage in conversation over dinner with WST Learning Community residents
- .\n\nPinar Keskinocak is the William W. George Chair and Professor in the 
- School of Industrial and Systems Engineering and the co-founder and Direct
- or of the Center for Health and Humanitarian Systems [1] at Georgia Instit
- ute of Technology. She also serves as the College of Engineering ADVANCE P
- rofessor at Georgia Tech.\n\nHer research focuses on applications of opera
- tions research and management science with societal impact (particularly h
- ealth and humanitarian applications)\, supply chain management\, pricing a
- nd revenue management\, and logistics/transportation. She has worked on pr
- ojects in several industries including automotive\, semiconductor\, paper 
- manufacturing\, printing\, healthcare\, hotels\, and airlines. Her researc
- h has been published in journals such as Operations Research\, Management 
- Science\, Manufacturing & Service Operations Management\, Production and O
- perations Management\, IIE Transactions\, Naval Research Logistics\, and I
- nterfaces.\n\nDawn Strickland is the Director of Student Services and inst
- ructor in the Stewart School of Industrial and Systems Engineering at Geor
- gia Tech.\n\nDr. Strickland’s primary responsibilities focus on academic
-  advising for our ISyE undergraduate students. She also works with ISyE st
- udent organizations\, industry representatives\, the Mission Possible summ
- er camp\, our ISyE GT 1000 seminars\, and teaches one class per semester. 
- Her office is in the Academic Office area on the 2nd floor of Groseclose.\
- n\nPreviously\, Strickland served as the assistant dean of Graduate Studen
- t Services and Postdoctoral Affairs for the Columbia University School of 
- Engineering and Applied Science in New York City.\n\nLinks:\n[0]  http://h
- g.gatech.edu/node/629398#0\n[1]  http://chhs.gatech.edu/
-LOCATION:Stein House/4th St. A Apts\, 733 Techwood\, Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nano@Tech: Juan-Pablo Correa-Baena - School of Materials Science a
- nd Engineering\, Georgia Tech
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200128T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200128T180000Z
-UID:http://hg.gatech.edu/node/629893#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nJuan-Pablo Correa-Baena\nSchool of Materials Science and Engineering\, G
- eorgia Tech\nAbstract: TBA\n\nBio: TBA\n\nLinks:\n[0]  http://hg.gatech.ed
- u/node/629893#0
-LOCATION:Marcus Nanotechnology Building 1116-1118 | 345 Ferst Drive | Atla
- nta GA | 30332
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reports from the Future Symposium
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200128T210000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200128T230000Z
-UID:http://hg.gatech.edu/node/631563#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
- aduate students\nStatus: published\n\nAt the Reports from the Future Sympo
- sium\, Georgia Tech students--who will pretend that it is the year 2029--w
- ill travel back in time to tell us about society’s progress in achieving
-  the United Nations Sustainable Development Goals\, including Goal #2: Zer
- o Hunger\, Goal #3: Good Health and Well-Being\, and Goal #15: Life on Lan
- d. Students will cover their topics in 15-minute “TED talk” style pres
- entations. Come get a glimpse of the future!\n\nLight refreshments will be
-  served from 4:00 to 4:30\; presentations will be delivered from 4:30 to 5
- :30.\n\nLinks:\n[0]  http://hg.gatech.edu/node/631563#0
-LOCATION:Scheller College of Business Room 312
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Society of Women Engineers General Body Meeting
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200128T221500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200129T000000Z
-UID:http://hg.gatech.edu/node/624549#13
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nCome out to our general body meeting every Tues
- day from 5:15 to 7 PM in Smithgall Student Services (Flag Building) Room 1
- 17.\n\n5:15-5:45 PM Free dinner and social time with our members and offic
- ers\n\n5:45-6 PM: Announcements and Upcoming Events Reminders\n\n6-7 PM: S
- ocial Hour or Company Sponsored Event (Please check our weekly newletter f
- or the upcoming company or activity of the week!)\n\nIf you have any quest
- ions\, please feel free to email our President\, Toral Kadakia\, at swepre
- sident@gmail.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/624549#13\n
- [1]  swepresident@gmail.com\n[2]  https://www.facebook.com/GeorgiaTechSWE/
-LOCATION:Room 117\, Smithgall Student Services (Flag) Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deep Startups feat. Derrick Morgan
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200128T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200129T000000Z
-UID:https://gatech.campuslabs.com/engage/event/5458727
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for CREATE-X’
- s Deep Startups event featuring former Georgia Tech and Tennessee Titans f
- ootball star\, Derrick Morgan [1]. He will speak about lessons learned as 
- a professional football player\, as well as:\n\n- Emerging technology that
-  impacts the game\n- What it takes to become a successful entrepreneur\n- 
- Opportunities for innovation in athletics\n\nAbout the speaker: Instilled 
- with hard work at a young age by his mom\, Derrick Morgan began working as
-  soon he was old enough to acclimate himself to the real world. After rece
- iving more recognition on the football field during his junior year of hig
- h school\, Derrick set his mind to college football and arrived on the cam
- pus of Georgia Tech. In 2010\, his next goal was accomplished as well with
-  the Tennessee Titans drafted him. While his goal was soon realized\, a to
- rn ACL injury turned Derrick’s world upside down\, forcing him to evalua
- te his value outside the football field.\n\nAbout Deep Startups: Deep Star
- tups is an events series that features knowledgeable entrepreneurs who dis
- cuss their experiences forming companies that solve big-picture current pr
- oblems. These individuals speak to the concept of ‘deep startups’ and 
- how to create companies that make a difference in specific industries. Eac
- h Deep Startups event focuses on a different broad topic in engineering/te
- chnology\, and allows for student Q&A at the end of the event.\n\nLinks:\n
- [0]  https://gatech.campuslabs.com/engage/event/5458727\n[1]  https://www.
- theplayerstribune.com/en-us/articles/derrick-morgan-titans-nfl-retirement
-LOCATION:Klaus 2448
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Omega Phi Alpha Service Nights
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200128T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200129T000000Z
-UID:https://gatech.campuslabs.com/engage/event/5484410
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nPlease join the Nu Chap
- ter of Omega Phi Alpha for Service Nights! We will be painting rocks with 
- positive messages and creating mats for the homeless in Atlanta. Come out 
- to meet the sisters and learn more about Omega Phi Alpha and what we're al
- l about.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/548441
- 0
-LOCATION:Instructional Center 211
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Velocity Worship Service
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200129T003000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200129T013000Z
@@ -13267,6 +13069,37 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  nta.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643371#2\n[1]  http://www.g
  tccf.org/compassion/
 LOCATION:CCF\, 767 Techwood Drive NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scheller Lunchtime Live: Virtual Reality and its Place in The Futu
+ re of Learning
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210212T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210212T173000Z
+UID:http://hg.gatech.edu/node/643491#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: draft\n\nAbout\n\nScheller Lunchtime Live is a livestream se
+ ries hosted by the Georgia Tech Scheller College of Business featuring fac
+ ulty\, student\, and alumni speakers discussing relevant topics for the te
+ ch-driven\, digital age.\n\nIn this episode\, Scheller alumni and Foundry 
+ 45 [1] 's Managing Partner Dave Beck talks about how VR technology is bein
+ g used to train\, reskill\, and upskill the current workforce. The present
+ ation will include several examples of case studies from companies includi
+ ng Delta Air Lines\, UPS\, and The Weather Channel.\n\nJust hit "Attend ev
+ ent" on the LinkedIn event and visit the Georgia Tech Scheller College of 
+ Business page on Friday\, February 12 at 12:00 p.m. ET to access the sessi
+ on.\n\nAbout Dave Beck\n\nDave Beck is a founder and managing partner at F
+ oundry 45\, an immersive technology company that develops enterprise-level
+  virtual reality training experiences. His company has built hundreds of e
+ xperiences for notable clients such as Delta Air Lines\, Chevron\, and UPS
+ . A passionate advocate of his industry\, Dave is a frequent speaker on to
+ pics related to technology and the future of learning. Before starting Fou
+ ndry 45\, he held leadership positions in both training and technology. Da
+ ve also serves as a board member at Georgia Tech\, where he earned his MBA
+ \, the Metro Atlanta Chamber of Commerce\, and the MAK Historic District.\
+ n\nLinks:\n[0]  http://hg.gatech.edu/node/643491#0\n[1]  https://foundry45
+ .com/vr-training/\n[2]  https://www.linkedin.com/events/676024764282915635
+ 5
+LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Food4Lives Service with CCF
