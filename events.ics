@@ -2,201 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Velocity Worship Service
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200129T003000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200129T013000Z
-UID:https://gatech.campuslabs.com/engage/event/5441751
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
- worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
- h.campuslabs.com/engage/event/5441751
-LOCATION:Baptist Student Union
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Velocity Worship Service
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200129T003000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200129T020000Z
-UID:https://gatech.campuslabs.com/engage/event/5441736
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
- worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
- h.campuslabs.com/engage/event/5441736
-LOCATION:Baptist Student Union
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pediatric Tech Talk Webinar
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200129T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200129T173000Z
-UID:http://hg.gatech.edu/node/631201#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nExtras: Free food\nStatus: published\n\nScience
-  has made significant gains in the fight against infectious diseases in th
- e past several decades\, perhaps the most notable of which is declining mo
- rtality rates from HIV and hepatitis C. Nevertheless\, overall mortality r
- ates from all infectious diseases has remained relatively stable.\n\nThere
-  are very real concerns about new drug development’s ability to keep up 
- with development of drug resistance and the speed at which infectious dise
- ases can cross the globe.\n\nIn early 2019\, Lien Van Hoecke and Kenny Roo
- se wrote in the Journal of Translational Medicine\, “Wider accessibility
-  and implementation of antibody-based therapeutics is however hindered by 
- manufacturing challenges and high development costs inherent to protein-ba
- sed drugs. For these reasons\, alternative ways are being pursued to produ
- ce and deliver antibodies more cost-effectively without hampering safety. 
- Over the past decade\, messenger RNA (mRNA) based drugs have emerged as a 
- highly appealing new class of biologics that can be used to encode any pro
- tein of interest directly in vivo.”\n\nDr. Philip J. Santangelo is a Pro
- fessor in the Wallace H. Coulter Department of Biomedical Engineering. In 
- 1998\, he obtained his Ph.D. in Engineering from the University of Califor
- nia at Davis\, and then was a postdoctoral fellowship at Sandia National L
- aboratories in Livermore\, California. He also spent time as a research fa
- culty member at Georgia Tech until becoming an Assistant Professor in 2007
- . Dr. Santangelo’s research focuses on the development of imaging tools 
- for the study of viral pathogenesis and immune responses\, and the develop
- ment of mRNA-based therapies and vaccines.\n\nOn Wednesday January 29th\, 
- 2020\, Dr. Santangelo will discuss his research into mRNA-based therapeuti
- cs\, what they are and how we are using them for prevention and treatment.
- \n\nIf you are interested in new approaches to preventing and treating vir
- al infection\, including synthetic mRNA and gene modulation technology wil
- l find Dr. Santangelo’s Pediatric Tech Talk of high value.\n\nLunch will
-  be provided free of charge for those who attend in person.\n\nRegister to
-  attend in person or via GoToWebinar.\n\n(Registration: [1] )\n\nLinks:\n[
- 0]  http://hg.gatech.edu/node/631201#0\n[1]  https://register.gotowebinar.
- com/register/1011124490961073419
-LOCATION:Children's Healthcare of Atlanta Seminar Room\, Krone Engineered 
- Biosystems Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pediatrics@GT Presents: Pediatric Tech Talk Webinar
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200129T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200129T180000Z
-UID:http://hg.gatech.edu/node/630730#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \nStatus: published\n\n"New Paradigms for Preventing and Treating Viral In
- fections"\n\nDr. Philip J. Santangelo is a Professor in the Wallace H. Cou
- lter Department of Biomedical Engineering. In 1998\, he obtained his Ph.D.
-  in Engineering from the University of California at Davis\, and then was 
- a postdoctoral fellowship at Sandia National Laboratories in Livermore\, C
- alifornia. He also spent time as a research faculty member at Georgia Tech
-  until becoming an Assistant Professor in 2007. Dr. Santangelo’s researc
- h focuses on the development of imaging tools for the study of viral patho
- genesis and immune responses\, and the development of mRNA-based therapies
-  and vaccines.\n\nOn Wednesday January 29th\, 2020\, Dr. Santangelo will d
- iscuss his research into mRNA-based therapeutics\, what they are and how w
- e are using them for prevention and treatment. If you are interested in ne
- w approaches to preventing and treating viral infection\, including synthe
- tic mRNA and gene modulation technology will find Dr. Santangelo’s Pedia
- tric Tech Talk of high value. We will be live broadcasting this webinar fr
- om the Georgia Tech campus and be serving lunch to any participants that a
- ttend in person!\n\nRSVP HERE! [1]\n\nLinks:\n[0]  http://hg.gatech.edu/no
- de/630730#0\n[1]  http://bit.ly/2N0M2xo
-LOCATION:Krone Engineered Biosystems Building\, Room 1005 - Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Transfer Student Association Body Meeting
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200129T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200129T233000Z
-UID:http://hg.gatech.edu/node/631743#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nWe’re Baaaack! Our First Genera
- l Body Meeting is Next Wednesday at 5:30pm in the Student Center Theater! 
- This meeting will be centered around networking\, TSA’s mentor/mentee pr
- ogram\, socializing and of course\, PIZZA!\n\nLinks:\n[0]  http://hg.gatec
- h.edu/node/631743#0\n[1]  https://gatech.campuslabs.com/engage/organizatio
- n/transfer-student-association
-LOCATION:Student Center Theater
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Transfer Student Association General Body Meeting
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200129T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200130T003000Z
-UID:https://gatech.campuslabs.com/engage/event/5475282
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nWe’re Ba
- aaack!\n\nOur First General Body Meeting is Next Wednesday at 5:30pm in th
- e Student Center Theater!\n\nThis meeting will be centered around networki
- ng\, TSA’s mentor/mentee program\, socializing and of course\, PIZZA!\n\
- nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5475282
-LOCATION:Student Center Theater
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silicon Labs Info Session
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200130T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200130T164500Z
-UID:https://gatech.campuslabs.com/engage/event/5522911
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome out to enjoy food 
- from Willy's\, do some networking\, and hear from Silicon Labs about their
-  company and opportunities!\n\nLinks:\n[0]  https://gatech.campuslabs.com/
- engage/event/5522911
-LOCATION:Van Leer C340
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EWH General Body Meeting 01/30
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200130T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200130T170000Z
-UID:https://gatech.campuslabs.com/engage/event/5460311
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFirst general body meet
- ing of the semester!!! Come out for FREE PIZZA and to learn more about upc
- oming events and activities for the club. The meeting will be held in Klau
- s 1443 at 11 AM on Thursday\, January 30th.\n\nLinks:\n[0]  https://gatech
- .campuslabs.com/engage/event/5460311
-LOCATION:Klaus 1443
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GVU Center Brown Bag: Eva Wolfangel "How Technologies... Are Alrea
- dy Changing Lives"
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200130T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200130T180000Z
-UID:http://hg.gatech.edu/node/631247#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nExtras: Free food\nStatus: draft\n\nAbstract:\n\
- nScience journalist Eva Wolfangel has specialized in investigating the eff
- ects of future technologies on society - by accompanying people who alread
- y make intensive use of these technologies today. She spent weeks under a 
- VR headset researching social virtual reality\, and she finally visited he
- r new "virtual" friends in their real lives in Kuwait\, Israel and various
-  US states. These people already spend a large part of their lives in virt
- ual reality - and that is no reason for cultural pessimism. In Japan\, Wol
- fangel has accompanied researchers working on human augmentation\, and she
-  has tried out many of these technologies\, met people here who are alread
- y using them and talked to many about their dream of an augmented future. 
- In this talk\, Eva Wolfangel discusses her research and how future technol
- ogies are already changing society today.\n\nSpeaker Bio:\n\nEva Wolfangel
-  is a Knight Science Journalism Fellow at MIT. In 2018\, she was named Eur
- opean Science Writer of the Year by the Association of British Science Wri
- ters. She focuses on new technologies such as artificial intelligence and 
- virtual reality\, computer science\, data journalism\, interaction between
-  digital and real worlds\, and space travel. Eva’s specialty is to combi
- ne creative writing and technical topics in order to reach a broad audienc
- e. She writes for major magazines and newspapers in Germany and Switzerlan
- d\, including Die Zeit\, Geo\, Der Spiegel\, and NZZ\, and also produces r
- adio features. As a VR journalist\, she reports from virtual worlds as par
- t of the journalistic cooperative RiffReporter [Hyperlink to: https://www.
- riffreporter.de/].\n@evawolfangel [Hyperlink to: https://twitter.com/evawo
- lfangel]\n\nSchedule of Brown Bag Speakers Fall 2019 [1]\n\nLinks:\n[0]  h
- ttp://hg.gatech.edu/node/631247#0\n[1]  https://www.gvu.gatech.edu/events/
- upcoming\n[2]  http://www.tsrb.gatech.edu/
-LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
- a\, Ga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:McKinsey & Company Freshman Diversity Leader Intern Info Session
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200130T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200131T000000Z
-UID:https://career.gatech.edu/employer-information-sessions#8
-DESCRIPTION:Intended audience: All Majors\nStatus: unknown\n\nThis present
- ation and breakout session is open to students who identity as Black/Afric
- an American\, Hispanic/Latino or Native American and in the class 2023. Th
- e event is meant as an informal opportunity for students to learn and ask 
- questions related to McKinsey & Company (e.g.\, the work we do\, the types
-  of clients we serve\, our Freshman Diversity Leader Intern role\, etc.). 
- We know the recruiting process can be overwhelming and want to give you th
- e opportunity to get all your questions answered in an informal setting. F
- ood and beverages will be provided. Please RSVP here: http://slyreply.com/
- app/sheets/qgg6xqwdr1v9/\n\nLinks:\n[0]  https://career.gatech.edu/employe
- r-information-sessions#8\n[1]  https://career.gatech.edu/employer-informat
- ion-sessions#1\n[2]  https://career.gatech.edu/employer-information-sessio
- ns#11\n[3]  https://career.gatech.edu/employer-information-sessions#2\n[4]
-   https://career.gatech.edu/employer-information-sessions#3
-LOCATION:Bill Moore Student Success Center - President Suite A
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ivan Allen College CRIDC Graduate Paper Conference
 DTSTART;VALUE=DATE:20200131
 DTEND;VALUE=DATE:20200201
@@ -13005,6 +12810,47 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Nature Walk to Piedmont Park!
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210130T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210130T190000Z
+UID:http://hg.gatech.edu/node/643639#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nCome hang out with cool people and learn about natur
+ e with a low key walk to and around Piedmont Park!\n\nWe'll leave from cam
+ pus (the corner of 5th St and Techwood Drive\, the intersection right befo
+ re Tech Square) at 11am\, and amble over at a relaxed pace to Piedmont Par
+ k. We'll then walk around the park and show y'all some cool corners of it 
+ and local ecology within the park\, probably finding a nice picnicky area 
+ where we can all sit down and spread out. We'll then walk back\, returning
+  to campus around 2 p.m.\, about 4-5 miles round trip (we'll be taking it 
+ quite slow\, and y'all are free to leave earlier or not walk as long if yo
+ u're not feeling it).\n\nWear a mask and keep social distance (6+ feet) at
+  all times\, bring layers\, water\, snacks and sunscreen if needed.\n\nIf 
+ you're not in the Trailblazers GroupMe\, join to keep in the loop with all
+  our events: [1].\n\nLinks:\n[0]  http://hg.gatech.edu/node/643639#0\n[1] 
+  https://groupme.com/join_group/61302475/FckvQhw9
+LOCATION:Corner of Techwood and 5th\, 176 5th St NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dinner Jacket: Civil and Computer Engineering Young Alumni
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210131T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210201T000000Z
+UID:http://hg.gatech.edu/node/643643#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nOur Young Alumni Council is hosting 6 dinners this s
+ emester! Each Dinner Jacket is focused on their degrees and industries -- 
+ pick the one that interests you!\n\nThis Dinner is with Sarah Jane Lowentr
+ itt (CE ’19)\, Jourdyn Fuga (CE ’14)\, and Sarthak Jaiswal (CMPE ’14
+ ). These alumni hope to discuss classes\, internships\, co-ops\, study abr
+ oad\, extra-curricular activities\, and the job search!\n\nLinks:\n[0]  ht
+ tp://hg.gatech.edu/node/643643#0\n[1]  https://www.gtsaa.com/s/1481/alumni
+ /17/interior-wide.aspx?sid=1481&gid=39&pgid=20366&cid=45186&ecid=45186&cri
+ d=0&calpgid=3165&calcid=23811\n[2]  https://www.gtsaa.com/s/1481/alumni/17
+ /interior-wide.aspx?sid=1481&gid=39&pgid=20366&cid=45186&ecid=45186&crid=0
+ &calpgid=3165&calcid=23811.
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Food4Lives Service with CCF
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210202T183000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210202T203000Z
@@ -13015,6 +12861,36 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  nta.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643371#1\n[1]  http://www.g
  tccf.org/compassion/
 LOCATION:CCF\, 767 Techwood Drive NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clone of WST Learning Community dinner discussion: Dr. Kim Cobb
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210202T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210202T233000Z
+UID:http://hg.gatech.edu/node/643555#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nWST Learning Community Dinner\nre
+ sidents can pick up boxed dinners in Stein House at 5pm\n\nTuesday\, Feb 2
+ \, 2021\, 5:30pm: Dr. Kim Cobb\, College of Sciences ADVANCE Professor\nBl
+ ue Jeans Link: https://bluejeans.com/901891909/8973 [1]\n\nDr. Cobb is a p
+ rofessor in the School of Earth and Atmospheric Sciences at the Georgia In
+ stitute of Technology\, and a Georgia Power Faculty Scholar. She is partic
+ ularly interested in oceanography\, geochemistry and paleoclimate modeling
+ .\nhttps://cobblab.eas.gatech.edu/people/people.html\n\nWST Learning Commu
+ nity fall 2021 - spring 2022 application [2]\nApplication Due January 29\,
+  2021\, 5pm.\n\nGEMS\, WST Learning Community Service Project —Howard Mi
+ ddle School Girls Excelling in Math and Science (GEMS) Club. Online or in-
+ person most Tuesdays\, August-May\, 4:15-5:45 pm. For information\, contac
+ t: marylynn.realff@mse.gatech.edu [3] or monicamarks@gatech.edu [4]\n\nLin
+ ks:\n[0]  http://hg.gatech.edu/node/643555#0\n[1]  https://nam12.safelinks
+ .protection.outlook.com/?url=https%3A%2F%2Fbluejeans.com%2F901891909%2F897
+ 3%3Fsrc%3DcalendarLink&data=04%7C01%7Ccarol.colatrella%40lmc.gatech.edu%7C
+ 9284101ff784469ad67008d8a46ce430%7C482198bbae7b4b258b7a6d7f32faa083%7C0%7C
+ 0%7C637440134909820266%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjo
+ iV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=Y2vAkrUgfHsfjTeph8YW2
+ rv0YHw343TNcRdn8SvRqEc%3D&reserved=0\n[2]  https://gatech.campuslabs.com/e
+ ngage/submitter/form/start/446266\n[3]  marylynn.realff@mse.gatech.edu\n[4
+ ]  monicamarks@gatech.edu
+LOCATION:Stein House\, Georgia Tech\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Conversation with Dr. Kim Cobb\, College of Sciences ADVANCE Profe
@@ -13057,6 +12933,59 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  ngage/submitter/form/start/446266\n[3]  marylynn.realff@mse.gatech.edu\n[4
  ]  monicamarks@gatech.edu
 LOCATION:Stein House\, Georgia Tech\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Manufacturing in Unstructured Environments"
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210208T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210208T180000Z
+UID:http://hg.gatech.edu/node/643617#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nStatus: published\n\nGary McMurray\, Ph.D.\nDire
+ ctor and Principal Research Engineer\, Georgia Tech Research Institute\, a
+ nd Institute for Robotics and Intelligent Machines\n\nMonday\, Feb. 8 -Onl
+ ine Seminar-\nNoon - 1:00 pm Eastern Time\, U.S.\nMEETING LINK: https://pr
+ imetime.bluejeans.com/a2m/live-event/ztdkzxce [1]\n\n"Manufacturing in Uns
+ tructured Environments"\n\nAbstract: Robotic systems have traditional been
+  very successful in performing tasks where the inputs are well defined and
+  known in advance. Automotive and electronic manufacturing are the classic
+  success stories where robotic systems have demonstrated incredible value 
+ for the industry. The tasks performed by the robots almost exclusively inv
+ olve the manipulation or interacting with objects whose physical propertie
+ s are known a priori and the objects are rigid and dry. In the many manufa
+ cturing sectors\, robotic systems must be able to work in an unstructured 
+ environment where every product is unique\, deformable and even wet. This 
+ presentation will discuss various approaches to enable autonomous solution
+ s to these problems. This will include software to minimize manual program
+ ming of robots as well systems that integrate advanced perception and cont
+ rol technologies to perform complex tasks like cutting\, grasping\, and ma
+ nipulation.\n\nBio: Gary McMurray is a Principal Research Engineer and Div
+ ision Chief for the Intelligent Sustainable Technologies Division at the G
+ eorgia Tech Research Institute. He is also an Associate Director for the I
+ nstitute for Robotics and Intelligent Machines (IRIM) at Georgia Tech. IRI
+ M serves as an umbrella under which robotics researchers\, educators\, and
+  students from across campus can come together to advance the many high-po
+ wered and diverse robotics activities at Georgia Tech. The Intelligent Sus
+ tainable Technologies Division conducts innovative research to improve the
+  human condition through transforming the agricultural and food systems\, 
+ sustainable use and access to energy and water\, and safety of people at w
+ ork and from pandemics. Mr. McMurray’s research has focused on the devel
+ opment of robotic technologies and solutions for the manufacturing and agr
+ ibusiness communities\, including the protein and the fruit and vegetable 
+ industries. He is an expert in visual servoing – the use of vision for t
+ he real-time control of robotics\, and the author of over 50-refereed tech
+ nical papers and journal publications in robotics.\n\nMr. McMurray serves 
+ on the advisory board for Advanced Animal Systems for the Foundation of Fo
+ od and Agricultural Research. He also serves on the Board of Directors for
+  the Robotics Industry Association.\n\nLinks:\n[0]  http://hg.gatech.edu/n
+ ode/643617#0\n[1]  https://nam12.safelinks.protection.outlook.com/?url=htt
+ ps%3A%2F%2Fgatech.us7.list-manage.com%2Ftrack%2Fclick%3Fu%3D789c2f71dc30a8
+ bdcaeff7e62%26id%3Df44fbcc692%26e%3D7bce06de22&data=04%7C01%7Cwalter.rich%
+ 40research.gatech.edu%7C3353542e6271409c19d608d8c3c6b8af%7C482198bbae7b4b2
+ 58b7a6d7f32faa083%7C0%7C0%7C637474606065677899%7CUnknown%7CTWFpbGZsb3d8eyJ
+ WIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sda
+ ta=hKJRw44XZfoVMw%2F8l0Yr%2BTMIh2gIjXlxxf6YAZV6sSE%3D&reserved=0\n[2]  htt
+ ps://primetime.bluejeans.com/a2m/live-event/ztdkzxce
+LOCATION:https://primetime.bluejeans.com/a2m/live-event/ztdkzxce
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Food4Lives Service with CCF
@@ -13170,6 +13099,50 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:CCF\, 767 Techwood Drive NW
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Scheller Lunchtime Live: Tesla and the Transformation of the Autom
+ otive Industry
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210305T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210305T173000Z
+UID:http://hg.gatech.edu/node/643576#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nScheller Lunchtim
+ e Live is a livestream series hosted by the Georgia Tech Scheller College 
+ of Business featuring faculty\, student\, and alumni speakers discussing r
+ elevant topics for the tech-driven\, digital age.\n\nFew took notice when 
+ a fledgling electric-vehicle startup with a brash Elon Musk as CEO went pu
+ blic in the summer of 2010 at a valuation of $2.24 billion. Fast forward t
+ o early 2021\, and Tesla is valued at some $800 trillion\, which marks an 
+ appreciation of roughly 36\,000%. Although Tesla made only 500\,000 vehicl
+ es in 2020\, it is more valuable than the legacy carmakers such as Toyota\
+ , Volkswagen\, GM\, and Ford combined\, producing over 25 million cars in 
+ the same year. What is more\, most major car companies are now fully commi
+ tted to an all-electric future. How did Tesla accomplish such a dramatic i
+ ndustry transformation? How will it play out? How long will it take? What 
+ sectors will be affected by the mobility transformation? Who are the winne
+ rs\, and who are the losers? And\, perhaps most important\, what does this
+  mean for you personally and professionally?\n\nJust hit "Attend event" on
+  the LinkedIn event and visit the Georgia Tech Scheller College of Busines
+ s page on Friday\, March 5 at 12:00 p.m. ET to access the session.\n\nAbou
+ t Frank T. Rothaermel\n\nFrank T. Rothaermel is a Professor of Strategy & 
+ Innovation\, holds the Russell and Nancy McDonough Chair in the Scheller C
+ ollege of Business at Georgia Tech\, and is an Alfred P. Sloan Industry St
+ udies Fellow. Bloomberg Businessweek named Frank one of Georgia Tech’s P
+ rominent Faculty\, while Poets & Quants selected Frank as one of the “Fa
+ vorite Business School Professors Teaching MBAs.” The Kauffman Foundatio
+ n views Frank as one of the world’s 75 thought leaders in entrepreneursh
+ ip and innovation. Based on having published papers in the top 1% based on
+  citations\, Thomson Reuters identified Frank as one of the “world’s m
+ ost influential scientific minds.”\n\nFrank is also the author of a lead
+ ing textbook—Strategic Management (5 th edition published in 2020\; tran
+ slations: Greek\, Korean\, Mandarin\, and Spanish). Frank also authored ov
+ er 50 case studies distributed by Harvard Business Publishing (HBP). Ninet
+ een of his case studies are “Most Popular\,” indicating bestseller sta
+ tus\, among the cases distributed by HBP\, including his Tesla case.\n\nLi
+ nks:\n[0]  http://hg.gatech.edu/node/643576#0\n[1]  https://www.linkedin.c
+ om/events/6760612973212958720/
+LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Conversation with Ti Chang\, GT 2002 ID alumna and founder of Crav
  e
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210308T223000Z
@@ -13215,6 +13188,56 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:CCF\, 767 Techwood Drive NW
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Scheller Lunchtime Live: How to Build Consumer/Brand Relationships
+  in the Age of Digital Revolution
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210312T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210312T173000Z
+UID:http://hg.gatech.edu/node/643645#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nScheller Lunchtim
+ e Live is a livestream series hosted by the Georgia Tech Scheller College 
+ of Business featuring faculty\, student\, and alumni speakers discussing r
+ elevant topics for the tech-driven\, digital age.\n\nIn this episode\, Sen
+ ior Lecturer Timothy Halloran talks about the importance of enhancing the 
+ brand-consumer relationship and how new technology tools have changed the 
+ dynamics of how consumers engage. Learn why it’s important to strengthen
+  your brand’s relationship with your consumer base and ways to leverage 
+ technology to get more consumers to “fall in love” with your brand.\n\
+ nJust hit "Attend event" on the LinkedIn event and visit the Georgia Tech 
+ Scheller College of Business page on Friday\, March 12 at 12:00 p.m. ET to
+  access the session.\n\nAbout Tim Halloran\n\nHalloran joined Scheller's m
+ arketing faculty in 2015. A classically trained consumer marketer\, he has
+  built\, directed\, and consulted with some of the world's largest brands\
+ , including Coca-Cola brands\, Home Depot\, Kraft Foods\, Procter & Gamble
+ \, Delta Airlines\, glacau (vitaminwater and smartwater)\, Vita Coco\, the
+  NBA\, and Turner Broadcasting System. Prior to consulting\, Tim spent ten
+  years at Coca-Cola\, leading multiple beverage brands. His successes at C
+ oke include the national launch of Powerade sports drink and its sponsorsh
+ ip of the Olympics\, co-development of Dasani bottled water\, and the deve
+ lopment of Coke's first Internet marketing initiative with his work on Che
+ rry Coke. He was awarded Innovator of the Year by Coca-Cola and named Max 
+ Award Finalist for Innovation by Georgia State University.\n\nTim also has
+  extensive university teaching experience having been a marketing instruct
+ or at the BBA\, MBA\, and Executive MBA level at Emory's Goizueta Business
+  School. At Emory\, Tim also played a major role in the launch of the Emor
+ y Marketing Analytics Center\, serving as its Executive Director. Tim has 
+ also led international seminars on New Product Development at Singapore Ma
+ nagement University.\n\nHis first book\, Romancing the Brand: How Brands C
+ reate Strong\, Intimate Relationships with Consumers was published by Joss
+ ey-Bass/Wiley in 2014\, won the 2014 International Book Award for the Mark
+ eting/Advertising category\, was named by strategy&business as Best Book
+  2014\, won the 2015 Axiom Silver Book Award in Marketing/Advertising/PR\,
+  and was named by Forbes as one of 7 Actionable Books for Smart Entreprene
+ urs.\nTim received a Doctorate in Business Administration from the Univers
+ ity of Florida and his practitioner-based research focuses on consumer eng
+ agement in brand social media communities. He holds a Masters In Marketing
+  Research from the University of Georgia\, and a B.S. from Washington and 
+ Lee University. He currently lives in Atlanta with his wife and three chil
+ dren.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643645#0\n[1]  https://www
+ .linkedin.com/events/6760305841225646080/
+LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Food4Lives Service with CCF
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210316T173000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210316T193000Z
@@ -13237,6 +13260,40 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  nta.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643371#8\n[1]  http://www.g
  tccf.org/compassion/
 LOCATION:CCF\, 767 Techwood Drive NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scheller Lunchtime Live: Covid-19's Impact on Firm Equity Valuatio
+ ns
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210326T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210326T163000Z
+UID:http://hg.gatech.edu/node/643647#0
+DESCRIPTION:Intended audience: Graduate students\, Postdoc\, Public\, Unde
+ rgraduate students\nStatus: published\n\nScheller Lunchtime Live is a live
+ stream series hosted by the Georgia Tech Scheller College of Business feat
+ uring faculty\, student\, and alumni speakers discussing relevant topics f
+ or the tech-driven\, digital age.\n\nIn this episode\, Associate Professor
+  Alex Hsu discusses how the collapse in economic activity from Covid-19 af
+ fects equity valuation in the cross-section of firms and the channels that
+  propagate and affect firm-level outcomes.\n\nJust hit "Attend event" on t
+ he LinkedIn event and visit the Georgia Tech Scheller College of Business 
+ page on Friday\, March 26 at 12:00 p.m. ET to access the session.\n\nAbout
+  Alex Hsu\n\nAlex Hsu is Associate Professor of Finance in the Scheller Co
+ llege of Business at Georgia Tech. He teaches theory of finance to PhD's a
+ nd fixed income to Undergraduate and Master's students.\n\nHe holds underg
+ raduate and master’s degrees from Brown University and doctorate in fina
+ nce from the University of Michigan. His research focus is on bond yields\
+ , equity returns\, and macroeconomics. He builds theoretical models to exa
+ mine the impact of monetary policy and fiscal policy on interest rate term
+  structure. He also studies the empirical effects of government policy and
+  legislation on firm outcomes such as returns and investment. He has prese
+ nted at annual meetings of the American Finance Association\, the Western 
+ Finance Association\, and the Society of Financial Studies Cavalcade. He h
+ as given invited talks at the Federal Reserve Board and many regional Rese
+ rve Banks. His work includes accepted articles in the Review of Financial 
+ Studies and the Journal of Financial Economics.\n\nLinks:\n[0]  http://hg.
+ gatech.edu/node/643647#0\n[1]  https://www.linkedin.com/events/67609879691
+ 73143552/
+LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Food4Lives Service with CCF
@@ -13297,6 +13354,57 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  nta.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643371#13\n[1]  http://www.
  gtccf.org/compassion/
 LOCATION:CCF\, 767 Techwood Drive NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scheller Lunchtime Live: Drawdown Georgia – Bringing Climate Sol
+ utions Home
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210430T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210430T163000Z
+UID:http://hg.gatech.edu/node/643638#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nScheller Lunchtim
+ e Live is a livestream series hosted by the Georgia Tech Scheller College 
+ of Business featuring faculty\, student\, and alumni speakers discussing r
+ elevant topics for the tech-driven\, digital age.\n\nIn this episode\, Pro
+ fessor Beril Toktay talks about Drawdown Georgia\, the first state-centere
+ d effort to crowd-solve for climate change. It utilizes the framework of P
+ roject Drawdown\, a global non-profit that aims to help the world reach th
+ e point when levels of greenhouse gases in the atmosphere stop climbing an
+ d start to steadily decline. Join Professor Beril Toktay as she discusses 
+ how the state of Georgia is using innovation to build a better future.\n\n
+ Just hit "Attend event" on the LinkedIn event and visit the Georgia Tech S
+ cheller College of Business page on Friday\, April 30 at 12:00 p.m. ET to 
+ access the session.\n\nAbout Beril Toktay\n\nBeril Toktay is Professor of 
+ Operations Management\, Brady Family Chairholder. Her primary research are
+ as are sustainable operations and supply chain management. Professor Tokta
+ y's research has been funded by several National Science Foundation grants
+  and has received distinctions such as the 2010 Brady Family Award for Fac
+ ulty Research Excellence and the MSOM Society's 2015 Management Science Be
+ st Paper in Operations Management Award. Her research articles have appear
+ ed in Management Science\, M&SOM\, Operations Research\, Production and Op
+ erations Management and Industrial Ecology. She became a Distinguished Fel
+ low of the MSOM Society in 2017.\n\nProfessor Toktay has taught Supply Cha
+ in Management courses at the PhD\, MBA\, and Executive Education levels as
+  well as Operations Management and Operations Research courses at the PhD 
+ level. She has developed cases and pedagogical material for MBA and Execut
+ ive Education audiences and co-curricular educational initiatives at the u
+ ndergraduate level. She currently teaches Business Strategies for Sustaina
+ bility in MBA and Executive Education programs. She's a recipient of the 2
+ 016 Ernest Scheller Jr. Award for Service Excellence and the Georgia Tech 
+ 2015 Women of Distinction Award.\n\nProfessor Toktay served as Associate E
+ ditor for M&SOM (2007-2018)\, POM (2009-2013)\, and Management Science (20
+ 11-2017)\, and Area Editor (Environment\, Energy and Sustainability) for O
+ perations Research (2012-2018). She co-edited the M&SOM Special Issue on t
+ he Environment. She was the President of the MSOM Society and VP of Financ
+ e of the POM Society. At Georgia Tech\, she serves as the Scheller College
+  of Business ADVANCE Professor\, a role that is focused on supporting the 
+ advancement of women and underrepresented minorities in academia. She is t
+ he founding Faculty Director of the Ray C. Anderson Center for Sustainable
+  Business and the co-architect and Executive Co-Director of Georgia Tech's
+  Serve.Learn.Sustain Quality Enhancement Plan.\n\nLinks:\n[0]  http://hg.g
+ atech.edu/node/643638#0\n[1]  https://www.linkedin.com/events/676094875975
+ 3965568/
+LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Institute Retirement Celebration
