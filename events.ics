@@ -2,230 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Ivan Allen College CRIDC Graduate Paper Conference
-DTSTART;VALUE=DATE:20200131
-DTEND;VALUE=DATE:20200201
-UID:http://hg.gatech.edu/node/629894#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\nExtras: Free food\nStatus: published\n\nIVAN ALLEN COLLEGE OF L
- IBERAL ARTS GRADUATE STUDENT CONFERENCE\n\nFriday\, January 31\, 2020\nRoo
- m 102\, Stephen C. Hall Building\n\n8:30am-8:45am Breakfast & Welcome\n\n8
- :45-10 am Security\n\nChair: TBD\n\nMichael Bivona (HSOC)\, “Blowback: T
- echnology\, Law\, and the Emerging Shape of Justice under Drones”\n\nSuo
- n Choi (INTA)\, “The Effects of Science and Technology Policy on the Nor
- th Korean Nuclear Program”\n\nKarim Farhat & Karl Grindal (SPP)\, “Sig
- nal and Noise: Deterrence and Persistent Engagement at Crosscurrents”\n\
- nAdriana Alvarado Garcia (IC/CoC)\, “Quotidian Report: Grassroots Data P
- ractices to Address Public Safety”\n\n10:05-11:20 am Environmental Impac
- t\n\nChair: TBD\n\nTony Harding (ECON)\, “From Weather Fluctuations to A
- ggregate Climate Impacts”\n\nVikrant Kamble (ECON)\, “Impact of Air Po
- llution on the Labour Market in India”\n\nOlufunke Adebola (INTA)\, “I
- nstitutions: Drivers of postharvest loss”\n\nArchana Ghodeswar & Dr. Mat
- thew Oliver\, “The Economics of Industrial Ecology: Evidence of First-Or
- der Effects from the Indian Electric Power Sector”\n\n11:25–12:35 pm F
- eminism/ Race\n\nChair: TBD\n\nEric Steagall (HSOC)\, “’The Real Probl
- em of the American Negro Is His Brain’: Black Athletic Success and the S
- hift of Scientific Racism in the Twentieth Century”\n\nBrandy Pettijohn 
- (DM/LMC)\, “Networked Publics\, Viral Stories\, and the Birth Justice Mo
- vement”\n\nRachel Sharon (HSOC)\, “Ignoring Sexism Is Sexism! A Review
-  of Recent Sociological Research on Women and Health”\n\nAmber Brooks (H
- SOC)\, “The Technology of Pharmaceuticals: Biopower and the Reproduction
-  of the Hysterical Woman”\n\n12:40 – 1:00 Lunch\n\n1:00- 2:10 pm Socia
- l Impact of Technology\n\nChair: Daniel Schiff\n\nCamila Apablaza (SPP)\, 
- “A field experiment in workplace electric vehicle charging”\n\nAlyssa 
- Rumsey (DM/LMC)\, “Manufacturing Change: The Future of Work(ers)”\n\nA
- nmol Soni (SPP)\, “Are All Incentives Created Equal? Role of Policy Desi
- gn in State-Level Electric Vehicle Sales”\n\nLi Zheng (HSOC)\, “Is Die
- t-Tracking a Road to Health\, or Just a Fancy Lifestyle? Quantitative Rese
- arch on Attitudes and Behaviors”\n\n2:15 – 3:35 pm Development\n\nChai
- r: TBD\n\nXiaoyu Dong (ECON)\, “Measuring Multidimensional Well-being: A
- n Application to the United States”\n\nOlga Churkina (SPP)\, “Who does
-  better on school tests? Evidence from Sweden”\n\nElizabeth Osman (INTA)
- \, “Understanding Nostalgia through Perceptions and System Outputs in th
- e Visegrad Countries”\n\nJeremy Pesner (SPP)\, “Exploring Links betwee
- n Research Proposals and Societal Impact”\n\n3:40-4:55 pm Information Te
- chnology\n\nChair: TBD\n\nDaniel Schiff (SPP)\, “Citizen Concerns about 
- Bias\, Transparency\, and Lack of Human Agency in Government Use of AI: Ev
- idence from a Survey Experiment”\n\nEunji Emily Kim (INTA)\, “The Diff
- erence of AI Technology Development between the U.S. and China”\n\nAleja
- ndra Ruiz Leon (HSOC)\, “Science closes the Black Box\, Museums are open
- ing it”\n\nYuchen Zhao (DM/LMC)\, “VR Touch Museum”\n\n5pm Reception
- \n\nLinks:\n[0]  http://hg.gatech.edu/node/629894#0
-LOCATION:Room 102\, Stephen C. Hall Building\, 215 Bobby Dodd Way\, Atlant
- a\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Student Submissions Due for Spring Clough Art Crawl
-DTSTART;VALUE=DATE:20200131
-DTEND;VALUE=DATE:20200201
-UID:http://hg.gatech.edu/node/630537#0
-DESCRIPTION:Intended audience: Graduate students\, Postdoc\, Undergraduate
-  students\nStatus: published\n\nThe Clough Art Crawl is back! The biannual
-  art show serves as a unique opportunity for Georgia Tech students to show
- case their artistic talents with themed exhibitions in the spring and fall
- .\n\nThe theme for the spring 2020 exhibition is Identity\, Community\, an
- d Belonging. We encourage artists to explore\, examine\, and celebrate the
-  various aspects and perspectives of identity\, community\, and belonging.
-  Artwork can represent a look at one’s self\, the world\, or anything in
-  between. The show will open March 12\, 2020.\n\nWe are accepting submissi
- ons from undergraduate and graduate students in the following categories (
- click the category to submit your work):\n\nDrawings/Paintings [1]\nPhotog
- raphy [2]\nDigital Art/Code-based Art [3]\nStructural Art [4] (i.e. sculpt
- ure\, architecture\, crafts\, and textiles)\nLiterary Works [5] (i.e. poet
- ry/prose\, comics\, and short stories)\nFilm/Video* [6] (i.e. animation\, 
- short film\, experimental film)\n\n*Note: Films/videos should not exceed 5
-  minutes in length.\n\nSubmissions for the Spring 2020 Clough Art Crawl cl
- ose January 31\, 2020.\n\nAll currently enrolled Georgia Tech undergraduat
- e and graduate students are encouraged to submit work. Each student may su
- bmit one piece. Visual artwork can be provided in either digital or physic
- al format. Submissions will be reviewed by Georgia Tech Arts and the GT Li
- brary.\n\nArtwork exhibited for the spring 2020 show should be available t
- o be on display until July 2020.\n\nAll original/physical art work should 
- be turned in prepped and ready to hang. Drop offs will start February 24\,
-  2020 and will be held in the Archives Room at Crosland Tower of the GT Li
- brary.\n\nAny changes in dates or important updates will be communicated t
- o participating student artists via the contact email provided in the subm
- ission form.\n\nFor more information\, please contact info@arts.gatech.edu
-  [7].\n\nThe Clough Art Crawl is coordinated by Georgia Tech Arts in partn
- ership with the Georgia Tech Library.\n\nLinks:\n[0]  http://hg.gatech.edu
- /node/630537#0\n[1]  https://arts.gatech.edu/content/clough-art-crawl-draw
- ing-painting-submission-form-spring-2020\n[2]  https://arts.gatech.edu/con
- tent/clough-art-crawl-photography-submission-form-spring-2020\n[3]  https:
- //arts.gatech.edu/content/clough-art-crawl-digitalcode-based-art-submissio
- n-form-spring-2020\n[4]  https://arts.gatech.edu/content/clough-art-crawl-
- structural-art-submission-form-spring-2020\n[5]  https://arts.gatech.edu/c
- ontent/clough-art-crawl-literary-workpoetry-submission-form-spring-2020\n[
- 6]  https://arts.gatech.edu/content/clough-art-crawl-filmvideo-submission-
- form-spring-2020\n[7]  info@arts.gatech.edu\n[8]  https://arts.gatech.edu/
- content/clough-art-crawl
-LOCATION:Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theories for Sustainable Futures - RCE Greater Atlanta - Higher Ed
- ucation Learning Community (HELC) Research Seminar
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200131T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200131T183000Z
-UID:http://hg.gatech.edu/node/631799#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nRCE Greater Atlan
- ta Higher Education Learning Community Research Seminar\n\n"Theories for S
- ustainable Futures"\n\nL A N C E G U N D E R S O N\nProfessor and Chair\, 
- Department of Environmental Sciences\, Emory University\n\nFriday\, Januar
- y 31\, 2020\n12 PM to 1:30 PM\n\nAtwood (Chemistry) Center\, Room 360\n151
- 5 Dickey Drive\, Emory University\n\nDiirections: MARTA service on bus lin
- es 6 (Clifton Rd and Fishburne Dr) and 36 (to N Decatur Rd and Oxford Rd).
-  Parking at Oxford Rd Parking Deck\, 1390 Oxford Rd\, Atlanta GA 30322\, o
- r Peavine South Parking Lot\, 27 Eagle Row\, Atlanta GA 30322.\n\nFeel fre
- e to bring your lunch.\n\nRCE Greater Atlanta is a regional sustainability
-  network that supports implementation of the UN Sustainable Development Go
- als at the regional level through education and training. Higher Education
-  Learning Community (HELC) is a working group that aims to facilitate the 
- engagement of the SDGs by higher educational institutions and their commun
- ity partners in a collective learning environment.\n\nTwitter: @RCEATL_HEL
- C\n\nThis event is supported by the Atlanta Global Studies Center (AGSC) [
- 1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/631799#0\n[1]  https://atlant
- aglobalstudies.gatech.edu/
-LOCATION:Atwood (Chemistry) Center\, Room 360 1515 Dickey Drive\, Emory Un
- iversity
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Underwater Flight of the Pteropod
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200131T200000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200131T210000Z
-UID:http://hg.gatech.edu/node/631556#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nStatus: published\n\nGA Tech Ocean Science and 
- Engineering Presents Dr. Donald R. Webster\, GA Tech School Civil and Envi
- ronmental Engineering\nUnderwater Flight of the Pteropod\n\nThe swimming c
- haracteristics achieved by flapping wings\, translating motion\, and shell
-  pitching are studied from observations of shelled Antarctic pteropods (aq
- uatic snails nicknamed `sea butterfies'). A portable tomographic particle 
- image velocimetry (tomo-PIV) system was used to study these pteropods (Lim
- acina helicina antarctica) swim with a pair of parapodia (or “wings”) 
- via a unique flapping propulsion mechanism that incorporates similar techn
- iques as observed in small flying insects.\n\nThe swimming velocity is typ
- ically 14 – 30 mm/s for pteropod size ranging 1.5 – 5 mm\, and the pte
- ropod shell pitches forward-and-backward at 1.9 – 3 Hz. The pitching mot
- ion of the shell effectively positions the parapodia such that they flap d
- ownwards during both power and recovery strokes. The tomo-PIV measurements
-  reveal the influence of the vortex structure created and shed from the pa
- rapodia on the generated lift forces.\n\nThe non-dimensional variables cha
- racterizing the motion of swimming pteropods are flapping\, translating\, 
- and pitching Reynolds numbers (i.e. Ref\, ReU\, and ReΩ). The observed sp
- ecimens swim within the same optimal Strouhal number range as observed for
-  a broad range of species in air and water. The complex combination of bod
- y kinematics\, flow structures\, and resulting force balance may be signif
- icantly altered by thinning of the pteropod shell\, thus making pteropods 
- an indicator of the detrimental effects of ocean acidification.\n\nWebinar
-  Link also available\nhttps://global.gotomeeting.com/join/811813909\nUnite
- d States: +1 (646) 749-3122\nAccess Code: 811-813-909\n\nLinks:\n[0]  http
- ://hg.gatech.edu/node/631556#0
-LOCATION:Ford Environmental\, Science & Technology (ES&T) Building\, Rm. L
- 1255\, 3pm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TEDxGeorgiaTech Student Speaker Series
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200131T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200201T010000Z
-UID:https://gatech.campuslabs.com/engage/event/5466592
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nThe TEDxGe
- orgiaTech Student Speaker Series will highlight 9 speakers over 3 days (3 
- speakers at each event). Each event will include free swag\, a light snack
- \, and of course\, tons of great ideas! The first event was held on Tuesda
- y\, January 14. The next two events will be on Thursday\, January 23 and F
- riday\, January 31. The $5 tickets and more information can be found at ww
- w.tedxgeorgiatech.com.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engag
- e/event/5466592
-LOCATION:Bill Moore Student Success Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Food Distribution Volunteering
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200201T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200201T190000Z
-UID:http://hg.gatech.edu/node/630475#4
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Credit\, Free Food\, Free Stuff\nStatus: published\n\nFood4Lives 
- is a service family founded by students from Georgia Tech and Emory in 201
- 7 to feed\, educate and empower the homeless of Atlanta.\n\nWe will meet a
- t 1122 Old Chattahoochee Ave at 10 a.m. We will carpool to the Gateway Cen
- ter in Downtown Atlanta (12:15 pm)\, then to nearby Hurt Park (1 pm) after
-  we finish cooking. Feel free to join us at any of the three locations at 
- your convenience.\n\nOur menu usually is:\n\n- Yellow rice\n- Sandwiches (
- tomato\, cucumber\, lettuce\, cheese\, mustard\, ketchup\, hummus)\n- Lemo
- nade\n- Chocolate milk\n- Chips and snacks\n- Salad\n- Macaroni and cheese
- \n- Quesadillas\n- Fruit salad\n- Granola and milk\n- Pancakes\n\nTo spons
- or an event\, visit https://food4lives.org/donate.html. [2]\n\nFood4Lives 
- is a service family founded by students from Georgia Tech and Emory in 201
- 7 to feed\, educate and empower the homeless of Atlanta.\n\nWe all meet at
-  1122 old Chattahoochee ave\, Atlanta @ 10:00 AM. We will carpool together
-  to downtown Gateway centre (12:15 pm) first to Serve out\, then to hurt p
- ark (1 pm) after we finish cooking. Feel free to join us at any of the 3 l
- ocations at your convenience.\n\nOur menu usually is:\n\nYellow rice\nSand
- wiches (tomato’s\, cucumber\, lettuce\, cheese\, mustard\, ketchup\, hum
- mus)\nLemonade\nchocolate milk\nchips & snacks\nSalad\nMacaroni and cheese
- \nQuesadillas\nFruit salad\nGranola & Milk\nPancakes\n\nFor sponsoring an 
- event please check: [2]\n\nLinks:\n[0]  http://hg.gatech.edu/node/630475#4
- \n[1]  https://gatech.campuslabs.com/engage/event/5322925\n[2]  https://fo
- od4lives.org/donate.html\n[3]  https://www.facebook.com/events/11779058659
- 30288/
-LOCATION:Food4Lives\, 1122 Old Chattahoochee Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EWH Repair Session 02/01
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200201T180000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200201T210000Z
-UID:https://gatech.campuslabs.com/engage/event/5460284
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nMeet in front of Blue D
- onkey in the Student Center at 12:00PM for coffee and bagels. We will leav
- e for Medshare at 12:30PM!\n\nSign up to drive or for rides using the foll
- owing Google Form link: https://forms.gle/pVVpMPFqQYs3PUfE7\n\nPlease sign
-  up by 3PM on Friday (01/30/2020)!! We will send out the ride list by 5PM 
- that day!\n\nNOTE: Sign up individually for rides even if you plan on driv
- ing as a group.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event
- /5460284
-LOCATION:Medshare
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Superbowl 2020
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200202T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200203T030000Z
@@ -13141,6 +12917,45 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  nks:\n[0]  http://hg.gatech.edu/node/643576#0\n[1]  https://www.linkedin.c
  om/events/6760612973212958720/
 LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clone of WST Learning Community dinner discussion: Ti Chang\, GT 2
+ 002 ID alumna
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210308T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210308T233000Z
+UID:http://hg.gatech.edu/node/643666#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nWST Learning Community Dinner\nre
+ sidents can pick up boxed dinners in Stein House at 5pm\nMonday\, March 8\
+ , 2021\, 5:30pm: Ti Chang\, GT 2002 ID alumna and founder of Crave\nBlue J
+ eans Link: https://bluejeans.com/106761163\n\nJoin Georgia Tech alum Ti Ch
+ ang\, a celebrated industrial designer\, activist\, and entrepreneur to di
+ scuss how design is the pathway to social change and empowerment. Learn th
+ e five essential steps of design activism and how to use them to make a me
+ aningful and lasting impact. Ti will share the basics of what design activ
+ ism can look like and how it all starts with designers.\n\nBiography: Ti C
+ hang is an industrial designer\, entrepreneur\, and activist passionate ab
+ out designing products for women. She is the co-founder and VP of Design o
+ f CRAVE\, a San Francisco-based company specializing in aesthetic pleasure
+  products. Ti leads the design vision for the company’s full line of pro
+ ducts which has won international design awards and has led CRAVE to outle
+ ts such as the Nordstrom\, MoMA Design Store\, Standard Hotel\, Goop\, and
+  Saint Laurent.\n\nShe is the chair of Women in Design section of Industri
+ al Designers Society of America\, where she support the community of indus
+ trial designers and women in design. She is also on the advisory board for
+  San Francisco Design Week\, Reimagine\, and CRAVE Foundation for Women. T
+ i holds an M.A. in Design Products from the Royal College of Art in London
+  and a B.S. in Industrial Design from the Georgia Institute of Technology.
+ \n\nWST Learning Community fall 2021 - spring 2022 application [1]\nApplic
+ ation Due February 18\, 2021\, 5pm. (extended deadline)\n\nGEMS\, WST Lear
+ ning Community Service Project —Howard Middle School Girls Excelling in 
+ Math and Science (GEMS) Club. Online or in-person most Tuesdays\, August-M
+ ay\, 4:15-5:45 pm. For information\, contact: marylynn.realff@mse.gatech.e
+ du [2] or monicamarks@gatech.edu [3]\n\nLinks:\n[0]  http://hg.gatech.edu/
+ node/643666#0\n[1]  https://gatech.campuslabs.com/engage/submitter/form/st
+ art/446266\n[2]  marylynn.realff@mse.gatech.edu\n[3]  monicamarks@gatech.e
+ du
+LOCATION:Stein House\, Georgia Tech\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Conversation with Ti Chang\, GT 2002 ID alumna and founder of Crav
