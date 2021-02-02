@@ -12863,6 +12863,23 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Concrete Jungle Farm Work!
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210227T143000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210227T173000Z
+UID:http://hg.gatech.edu/node/643736#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
+ aduate students\nStatus: published\n\nJoin us for some planting\, cultivat
+ ing\, and harvesting at a local farm!\n\nWe'll meet at the CULC turnaround
+ \, and drive to DogHead Farms (1103 Birch St.\, Atlanta\, GA 30310).\n\nWe
+ ar a mask and keep social distance (6+ feet) at all times\, bring layers\,
+  water\, snacks and sunscreen if needed.\n\nIf you're not in the Trailblaz
+ ers GroupMe\, join to keep in the loop with all our events: [1].\n\nLinks:
+ \n[0]  http://hg.gatech.edu/node/643736#0\n[1]  https://groupme.com/join_g
+ roup/61302475/FckvQhw9\n[2]  https://gatech.campuslabs.com/engage/organiza
+ tion/trailblazers
+LOCATION:DogHead Farms\, 1103 Birch St.\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Food4Lives Service with CCF
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210302T183000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210302T203000Z
@@ -13220,6 +13237,23 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  atech.edu/node/643638#0\n[1]  https://www.linkedin.com/events/676094875975
  3965568/
 LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring President's Graduation Celebration
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210506T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210506T180000Z
+UID:http://hg.gatech.edu/node/643164#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nExtras: Free food\, Freebies\nStatus: published\
+ n\nGraduating students are invited to share in the excitement of Commencem
+ ent at Georgia Tech’s President's Graduation Celebration. Held on Thursd
+ ay\, May 6\, from 11 a.m.– 2 p.m. on Tech Green\, graduating students ha
+ ve an opportunity to take photos with beloved Tech mascots\, and share in 
+ unique traditions that make Georgia Tech such a cherished institution.\n\n
+ Admission is free to all graduating students. More information can be foun
+ d at [1].\n\nLinks:\n[0]  http://hg.gatech.edu/node/643164#0\n[1]  https:/
+ /commencement.gatech.edu/presidents-graduation-celebration
+LOCATION:Tech Green
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Institute Retirement Celebration
