@@ -2,241 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Velocity Worship Service
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200205T003000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200205T013000Z
-UID:https://gatech.campuslabs.com/engage/event/5441752
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
- worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
- h.campuslabs.com/engage/event/5441752
-LOCATION:Baptist Student Union
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Velocity Worship Service
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200205T003000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200205T020000Z
-UID:https://gatech.campuslabs.com/engage/event/5441737
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
- worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
- h.campuslabs.com/engage/event/5441737
-LOCATION:Baptist Student Union
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Faculty Fellows - Dr. Shannon Yee
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200205T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200205T180000Z
-UID:https://gatech.campuslabs.com/engage/event/5475281
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin Dr. Shannon Yee fo
- r lunch!\n\nMechanical engineering professor Dr. Yee’s research focuses 
- on heat transfer\, combustion\, and energy systems. Previously\, Dr. Yee w
- as named the first fellow to the U.S. Dept. of Energy's Advanced Research 
- Project Agency and was selected by the Bill & Melinda Gates Foundation to 
- lead research on affordable\, self-contained toilets not dependent on sewe
- r connection.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5
- 475281
-LOCATION:Ferst Student Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Implicit Bias Workshop
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200205T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200205T183000Z
-UID:http://hg.gatech.edu/node/629986#0
-DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nInstitu
- te Diversity\, in collaboration with the Office of the Vice Provost for Gr
- aduate Education and Faculty Development and Georgia Tech’s ADVANCE Prog
- ram\, is offering Implicit Bias Workshops for faculty this spring. All fac
- ulty who serve on reappointment\, promotion\, and/or tenure committees and
-  faculty search committees are required to participate in an Implicit Bias
-  Workshop pursuant to Provost Bras’ memo in October 2016 to academic lea
- ders. However\, all instructional and research faculty are welcomed to att
- end as space permits.\n\nThe goals of these workshops are to increase awar
- eness of the impact of implicit bias and facilitate equitable decision-mak
- ing across myriad processes related to faculty evaluations. As a participa
- nt in the workshop\, you will learn the following:\n\n• An introduction 
- to the concept of implicit bias and how these unconscious\, automatic ment
- al processes may impact behaviors such as evaluating candidates during fac
- ulty search and/or RPT processes.\n\n• Empirical research on vitaes\, le
- tters of recommendations\, and teaching evaluations to illustrate the impa
- ct of implicit bias on decisions.\n\n• Effective practices and strategie
- s for faculty search and RPT committees.\n\nThese workshops will be facili
- tated by Paul Benkeser\, senior associate chair and professor\, Wallace H.
-  Coulter Department of Biomedical Engineering\; Harris Dimitropoulos\, ass
- ociate professor\, School of Architecture\; Robert Kirkman\, associate pro
- fessor\, School of Public Policy\; Mark Mitchell\, associate director\, Ge
- orgia Tech Research Institute\; and/or Michelle Rinehart\, associate dean 
- for academic affairs and outreach\, College of Design.\n\nTo register for 
- one of the workshops\, visit [1]. Lunch will be provided.\n\nGTRI research
-  faculty should register for a GTRI Implicit Bias workshop via StarTrak [2
- ]. Please contact Sarah Cockrell ( [3] or 404-407-6349) for assistance.\n\
- nLinks:\n[0]  http://hg.gatech.edu/node/629986#0\n[1]  http://www.advance.
- gatech.edu/implicit-bias-workshops\n[2]  https://global.hgncloud.com/ga_in
- stitute_tech/ts/home\n[3]  http://sarah.cockrell@gtri.gatech.edu/
-LOCATION:Student Success Center- President’s Suites C and D
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dominican Cultural Night
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200205T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200205T230000Z
-UID:https://gatech.campuslabs.com/engage/event/5553256
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nSpanish Speaking Organi
- zation will have Dominican Cultural Night\, in which we learn about Domini
- can culture\, eat traditional dishes\, and play dominoes\, a popular game 
- from the Dominican Republic. It will be a fun and educational experience!\
- n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5553256
-LOCATION:Student Center Crescent Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ivan Allen Cup: Karaoke
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200206T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200206T020000Z
-UID:http://hg.gatech.edu/node/631551#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
- aduate students\nStatus: published\n\nThe first event in the 2020 Ivan All
- en Cup is karaoke at Under the Couch on Wednesday\, February 5th\, from 7-
- 9PM. This event will have FREE PIZZA and faculty judges! It is a drop-in a
- t any time event. RSVP [1].\n\nLinks:\n[0]  http://hg.gatech.edu/node/6315
- 51#0\n[1]  https://docs.google.com/forms/d/e/1FAIpQLSe1XnxwBV-Evi81p47OeTS
- 8VKf5OBcRiJLqG24ubxcW5xnThQ/viewform
-LOCATION:Under the Couch
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dining & Sustainability!
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200206T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200206T164500Z
-UID:https://gatech.campuslabs.com/engage/event/5473439
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nWe will be hosting the 
- first of our Guest Speaker Series on sustainability which will feature a d
- iscussion on GT Dining and Housing's sustainability initiatives with Jorda
- n Barron\, GT Dining Sustainability Coordinator\, and Heeva Taghian\, Sust
- ainability Intern. Attend to learn more about what our dining facilities a
- nd on-campus residences are doing to create a more sustainable university.
- \n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5473439
-LOCATION:Room 210
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Student Tech Talks
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200206T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200206T164500Z
-UID:https://gatech.campuslabs.com/engage/event/5553255
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome out to hear from c
- urrent ECE students about the cool things they are doing! And\, as always\
- , free lunch!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5
- 553255
-LOCATION:Van Leer C340
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gartner info session with Pride Alliance
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200206T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200206T170000Z
-UID:https://gatech.campuslabs.com/engage/event/5574017
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nGartner is a global res
- earch and advisory firm providing information\, advice\, and tools for lea
- ders in IT\, finance\, HR\, customer service and support\, communications\
- , legal and compliance\, marketing\, sales\, and supply chain functions.\n
- \nThis is an informational event as well as recruiting for the future. The
- y will be recruiting for their Sophomore Leadership Summit and various con
- sulting style roles. Pizza will be provided!\n\n---\n\nY'all means all: th
- is is an event for at LGBTQIA+ folks and their allies. Please email pride@
- gatech.edu [1] if we can provide any accommodations to make this event mor
- e accessible or if you have any questions.\n\nLinks:\n[0]  https://gatech.
- campuslabs.com/engage/event/5574017\n[1]  pride@gatech.edu
-LOCATION:Klaus 1447
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kenneth Hyatt Distinguished Alumni Leadership Speaker Series
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200206T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200206T170000Z
-UID:http://hg.gatech.edu/node/631131#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nExtras: Free food\nStatus: published\n\nLinks:\n
- [0]  http://hg.gatech.edu/node/631131#0
-LOCATION:Mason 1133
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SCPC presents Take-A-Prof
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200206T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200206T180000Z
-UID:http://hg.gatech.edu/node/631485#0
-DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nThe Stu
- dent Center Programs Council invites you to the 117th Take-A-Prof!\n\nStar
- t 2020 off right by inviting a professor\, RA/PL\, TA\, or mentor out to a
-  lunch inspired by the Roaring 20s.\n\nTake-A-Prof will take place on Thur
- sday\, February 6th from 11 AM to 1 PM in the Student Center Peachtree Roo
- m. Tickets are $4 per person ($8 for you and your guest) and can be purcha
- sed at [1].\n\nEmail us at homecoming@scpc.gatech.edu if you have any ques
- tions\, comments\, or concerns.\n\nLinks:\n[0]  http://hg.gatech.edu/node/
- 631485#0\n[1]  http://bit.ly/takeaprofspr20
-LOCATION:Student Center Peachtree Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GVU Center Brown Bag: Jeff Nichols "Rico and Beyond: A Mobile App 
- Dataset for Interaction Mining and Machine Learning"
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200206T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200206T180000Z
-UID:http://hg.gatech.edu/node/631733#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nExtras: Free food\nStatus: draft\n\nAbstract:\n\
- nXXXXXScience journalist Eva Wolfangel has specialized in investigating th
- e effects of future technologies on society - by accompanying people who a
- lready make intensive use of these technologies today. She spent weeks und
- er a VR headset researching social virtual reality\, and she finally visit
- ed her new "virtual" friends in their real lives in Kuwait\, Israel and va
- rious US states. These people already spend a large part of their lives in
-  virtual reality - and that is no reason for cultural pessimism. In Japan\
- , Wolfangel has accompanied researchers working on human augmentation\, an
- d she has tried out many of these technologies\, met people here who are a
- lready using them and talked to many about their dream of an augmented fut
- ure. In this talk\, Eva Wolfangel discusses her research and how future te
- chnologies are already changing society today.\n\nSpeaker Bio:\n\nEva Wolf
- angel is a Knight Science Journalism Fellow at MIT. In 2018\, she was name
- d European Science Writer of the Year by the Association of British Scienc
- e Writers. She focuses on new technologies such as artificial intelligence
-  and virtual reality\, computer science\, data journalism\, interaction be
- tween digital and real worlds\, and space travel. Eva’s specialty is to 
- combine creative writing and technical topics in order to reach a broad au
- dience. She writes for major magazines and newspapers in Germany and Switz
- erland\, including Die Zeit\, Geo\, Der Spiegel\, and NZZ\, and also produ
- ces radio features. As a VR journalist\, she reports from virtual worlds a
- s part of the journalistic cooperative RiffReporter [Hyperlink to: https:/
- /www.riffreporter.de/].\n@evawolfangel [Hyperlink to: https://twitter.com/
- evawolfangel]\n\nSchedule of Brown Bag Speakers Fall 2019 [1]\n\nLinks:\n[
- 0]  http://hg.gatech.edu/node/631733#0\n[1]  https://www.gvu.gatech.edu/ev
- ents/upcoming\n[2]  http://www.tsrb.gatech.edu/
-LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
- a\, Ga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wikipedia as a Teaching Tool That Empowers Students
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200206T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200206T180000Z
-UID:http://hg.gatech.edu/node/631400#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Postdoc\nStatus: published\
- n\nPlease register [1] to attend this upcoming teaching with technology sp
- otlight session!\n\nmagine a world where your students show up to class ex
- cited about an assignment they are working on. In addition\, your students
-  send you a thank-a-teacher note for the opportunities you provide for mea
- ningful learning and for the chance to have their work make a real impact.
- \n\nThis actually happened to Dr. Jennifer Glass\, an Associate Professor 
- in the School of Earth and Atmospheric Sciences\, when she incorporated a 
- Wikipedia assignment into her teaching. By completing a semester-long Wiki
- pedia editing project on scientific writing on notable topics in environme
- ntal sciences\, students developed a deep understanding of the course topi
- cs. They also developed skills to analyze digital sources of information f
- or accuracy and to collaboratively produce reliable information for variou
- s public audiences. While some students found that the assignment could be
-  more tasking and time consuming than they expected\, others remarked how 
- they enjoyed this authentic learning activity\, and expressed their pride 
- in contributing to something larger than themselves.\n\nPlease join your c
- olleagues in this Teaching with Technology Spotlight session to learn how 
- Dr. Glass used Wikipedia as a teaching tool to help her students learn and
-  share knowledge with the world.\n\nLunch will be provided. Please registe
- r [2] [3] to join us!\n\nLinks:\n[0]  http://hg.gatech.edu/node/631400#0\n
- [1]  https://www.ctl.gatech.edu/tts/wikipedia-teaching-tool\n[2]  https://
- www.ctl.gatech.edu/ttw/canvas-analytics\n[3]  http://ctl.gatech.edu/tts/wi
- kipedia-teaching-tool
-LOCATION:Student Center\, Piedmont Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Greek Allies
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200206T223000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200207T020000Z
@@ -12635,17 +12400,25 @@ BEGIN:VEVENT
 SUMMARY:CCF The Event
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210212T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210212T040000Z
-UID:https://gatech.campuslabs.com/engage/event/6869224
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nA time of community\, a
-  faith-based talk\, worship\, discussion and fun. We have two large group 
- starting times\, 7:00pm and 8:30pm and optional discussion groups after ea
- ch. Around 10pm\, we have an after-event that is something like a dance pa
- rty\, going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, regardle
- ss of what you believe\, is welcome. We have both in-person and online opt
- ions. Our service is available on Zoom at 8:30pm: https://us02web.zoom.us/
- j/84188146312\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6
- 869224
-LOCATION:Christian Campus Fellowship (CCF)
+UID:http://hg.gatech.edu/node/643935#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nA time of community\, a faith-bas
+ ed talk\, worship\, discussion and fun. We have two large group starting t
+ imes\, 7 p.m. and 8:30 p.m. and optional discussion groups after each. Aro
+ und 10 p.m.\, we have an after-event that is something like a dance party\
+ , going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, regardless o
+ f what you believe\, is welcome. We have both in-person and online options
+ . Our service is available on Zoom at 8:30 p.m.: [2].\n\nA time of communi
+ ty\, a faith-based talk\, worship\, discussion and fun. We have two large 
+ group starting times\, 7:00pm and 8:30pm and optional discussion groups af
+ ter each. Around 10pm\, we have an after-event that is something like a da
+ nce party\, going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, re
+ gardless of what you believe\, is welcome. We have both in-person and onli
+ ne options. Our service is available on Zoom at 8:30pm: https://us02web.zo
+ om.us/j/84188146312\n\nLinks:\n[0]  http://hg.gatech.edu/node/643935#0\n[1
+ ]  https://gatech.campuslabs.com/engage/event/6869224\n[2]  https://us02we
+ b.zoom.us/j/84188146312\n[3]  https://linktr.ee/gtccf
+LOCATION:Christian Campus Fellowship\, 767 Techwood Dr. NW or Online
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Scheller Lunchtime Live: Virtual Reality and its Place in The Futu
@@ -12679,6 +12452,23 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:中国新年活动
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210212T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210213T000000Z
+UID:https://gatech.campuslabs.com/engage/event/6888843
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThe Chinese Christian F
+ ellowship at Georgia Tech invites you to a Chinese-speaking community get-
+ together at 6PM (EST) on Friday\, February 12!\n\n今天校园之家的聚
+ 会是我们会在exhibition hall的home park提供1h的食物窗口，还
+ 会有人与你一起探讨你生活中的困难。今晚我们一起来
+ 探讨吧[Rose]。我们会在活动中给每位来访者提供神秘礼
+ 物。不过小编还是提醒注意带口罩参加哦。\n\n如果你来
+ 不及来取食物，也欢迎你来参加晚上7：30 开始的新年特
+ 别活动。 我们将会提供线上交流平台，同时和一些小游
+ 戏。\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6888843
+LOCATION:Exhibition Hall Home Park
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Food4Lives Service with CCF
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210216T183000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210216T203000Z
@@ -12694,17 +12484,25 @@ BEGIN:VEVENT
 SUMMARY:CCF The Event
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210219T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210219T040000Z
-UID:https://gatech.campuslabs.com/engage/event/6869225
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nA time of community\, a
-  faith-based talk\, worship\, discussion and fun. We have two large group 
- starting times\, 7:00pm and 8:30pm and optional discussion groups after ea
- ch. Around 10pm\, we have an after-event that is something like a dance pa
- rty\, going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, regardle
- ss of what you believe\, is welcome. We have both in-person and online opt
- ions. Our service is available on Zoom at 8:30pm: https://us02web.zoom.us/
- j/84188146312\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6
- 869225
-LOCATION:Christian Campus Fellowship (CCF)
+UID:http://hg.gatech.edu/node/643935#1
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nA time of community\, a faith-bas
+ ed talk\, worship\, discussion and fun. We have two large group starting t
+ imes\, 7 p.m. and 8:30 p.m. and optional discussion groups after each. Aro
+ und 10 p.m.\, we have an after-event that is something like a dance party\
+ , going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, regardless o
+ f what you believe\, is welcome. We have both in-person and online options
+ . Our service is available on Zoom at 8:30 p.m.: [2].\n\nA time of communi
+ ty\, a faith-based talk\, worship\, discussion and fun. We have two large 
+ group starting times\, 7:00pm and 8:30pm and optional discussion groups af
+ ter each. Around 10pm\, we have an after-event that is something like a da
+ nce party\, going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, re
+ gardless of what you believe\, is welcome. We have both in-person and onli
+ ne options. Our service is available on Zoom at 8:30pm: https://us02web.zo
+ om.us/j/84188146312\n\nLinks:\n[0]  http://hg.gatech.edu/node/643935#1\n[1
+ ]  https://gatech.campuslabs.com/engage/event/6869225\n[2]  https://us02we
+ b.zoom.us/j/84188146312\n[3]  https://linktr.ee/gtccf
+LOCATION:Christian Campus Fellowship\, 767 Techwood Dr. NW or Online
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Food4Lives Service with CCF
@@ -12722,17 +12520,25 @@ BEGIN:VEVENT
 SUMMARY:CCF The Event
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210226T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210226T040000Z
-UID:https://gatech.campuslabs.com/engage/event/6869226
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nA time of community\, a
-  faith-based talk\, worship\, discussion and fun. We have two large group 
- starting times\, 7:00pm and 8:30pm and optional discussion groups after ea
- ch. Around 10pm\, we have an after-event that is something like a dance pa
- rty\, going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, regardle
- ss of what you believe\, is welcome. We have both in-person and online opt
- ions. Our service is available on Zoom at 8:30pm: https://us02web.zoom.us/
- j/84188146312\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6
- 869226
-LOCATION:Christian Campus Fellowship (CCF)
+UID:http://hg.gatech.edu/node/643935#2
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nA time of community\, a faith-bas
+ ed talk\, worship\, discussion and fun. We have two large group starting t
+ imes\, 7 p.m. and 8:30 p.m. and optional discussion groups after each. Aro
+ und 10 p.m.\, we have an after-event that is something like a dance party\
+ , going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, regardless o
+ f what you believe\, is welcome. We have both in-person and online options
+ . Our service is available on Zoom at 8:30 p.m.: [2].\n\nA time of communi
+ ty\, a faith-based talk\, worship\, discussion and fun. We have two large 
+ group starting times\, 7:00pm and 8:30pm and optional discussion groups af
+ ter each. Around 10pm\, we have an after-event that is something like a da
+ nce party\, going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, re
+ gardless of what you believe\, is welcome. We have both in-person and onli
+ ne options. Our service is available on Zoom at 8:30pm: https://us02web.zo
+ om.us/j/84188146312\n\nLinks:\n[0]  http://hg.gatech.edu/node/643935#2\n[1
+ ]  https://gatech.campuslabs.com/engage/event/6869226\n[2]  https://us02we
+ b.zoom.us/j/84188146312\n[3]  https://linktr.ee/gtccf
+LOCATION:Christian Campus Fellowship\, 767 Techwood Dr. NW or Online
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Role of Social Media in Financial Markets: A livestream featur
@@ -12799,17 +12605,25 @@ BEGIN:VEVENT
 SUMMARY:CCF The Event
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210305T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210305T040000Z
-UID:https://gatech.campuslabs.com/engage/event/6869227
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nA time of community\, a
-  faith-based talk\, worship\, discussion and fun. We have two large group 
- starting times\, 7:00pm and 8:30pm and optional discussion groups after ea
- ch. Around 10pm\, we have an after-event that is something like a dance pa
- rty\, going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, regardle
- ss of what you believe\, is welcome. We have both in-person and online opt
- ions. Our service is available on Zoom at 8:30pm: https://us02web.zoom.us/
- j/84188146312\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6
- 869227
-LOCATION:Christian Campus Fellowship (CCF)
+UID:http://hg.gatech.edu/node/643935#3
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nA time of community\, a faith-bas
+ ed talk\, worship\, discussion and fun. We have two large group starting t
+ imes\, 7 p.m. and 8:30 p.m. and optional discussion groups after each. Aro
+ und 10 p.m.\, we have an after-event that is something like a dance party\
+ , going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, regardless o
+ f what you believe\, is welcome. We have both in-person and online options
+ . Our service is available on Zoom at 8:30 p.m.: [2].\n\nA time of communi
+ ty\, a faith-based talk\, worship\, discussion and fun. We have two large 
+ group starting times\, 7:00pm and 8:30pm and optional discussion groups af
+ ter each. Around 10pm\, we have an after-event that is something like a da
+ nce party\, going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, re
+ gardless of what you believe\, is welcome. We have both in-person and onli
+ ne options. Our service is available on Zoom at 8:30pm: https://us02web.zo
+ om.us/j/84188146312\n\nLinks:\n[0]  http://hg.gatech.edu/node/643935#3\n[1
+ ]  https://gatech.campuslabs.com/engage/event/6869227\n[2]  https://us02we
+ b.zoom.us/j/84188146312\n[3]  https://linktr.ee/gtccf
+LOCATION:Christian Campus Fellowship\, 767 Techwood Dr. NW or Online
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Scheller Lunchtime Live: Tesla and the Transformation of the Autom
@@ -12907,6 +12721,57 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nMonday\, March 8\, 2021
 LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Women\, Science\, and Technology (WST) Learning Community Dinner: 
+ Ti Chang
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210308T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210308T233000Z
+UID:http://hg.gatech.edu/node/643896#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nTi Chang (ID 2002) Georgia Tech alumna and foun
+ der of Crave\nMonday\, March 8\, 2021\, 5:30pm:\nBlue Jeans Link: https://
+ bluejeans.com/193757554 [1]\n\nJoin Georgia Tech alum Ti Chang\, a celebra
+ ted industrial designer\, activist\, and entrepreneur to discuss how desig
+ n is the pathway to social change and empowerment. Learn the five essentia
+ l steps of design activism and how to use them to make a meaningful and la
+ sting impact. Ti will share the basics of what design activism can look li
+ ke and how it all starts with designers.\n\nBiography: Ti Chang is an indu
+ strial designer\, entrepreneur\, and activist passionate about designing p
+ roducts for women. She is the co-founder and VP of Design of CRAVE\, a San
+  Francisco-based company specializing in aesthetic pleasure products. Ti l
+ eads the design vision for the company’s full line of products which has
+  won international design awards and has led CRAVE to outlets such as the 
+ Nordstrom\, MoMA Design Store\, Standard Hotel\, Goop\, and Saint Laurent.
+ \n\nShe is the chair of Women in Design section of Industrial Designers So
+ ciety of America\, where she support the community of industrial designers
+  and women in design. She is also on the advisory board for San Francisco 
+ Design Week\, Reimagine\, and CRAVE Foundation for Women. Ti holds an M.A.
+  in Design Products from the Royal College of Art in London and a B.S. in 
+ Industrial Design from the Georgia Institute of Technology.\n\nWomen\, Sci
+ ence\, and Technology (WST) Learning Community Dinner\nresidents can pick 
+ up boxed dinners in Stein House at 5pm\n\nOther upcoming WST events and de
+ adlines:\n\n- WST Learning Community fall 2021 - spring 2022 application h
+ ttps://gatech.campuslabs.com/engage/submitter/form/start/446266 [2] - Appl
+ ication Due February 18\, 2021\, 5pm. (extended deadline)\n- GEMS\, WST Le
+ arning Community Service Project —Howard Middle School Girls Excelling i
+ n Math and Science (GEMS) Club. Online or in-person most Tuesdays\, August
+ -May\, 4:15-5:45 pm. For information\, contact: marylynn.realff@mse.gatech
+ .edu [3] or monicamarks@gatech.edu [4]\n\nLinks:\n[0]  http://hg.gatech.ed
+ u/node/643896#0\n[1]  https://nam12.safelinks.protection.outlook.com/?url=
+ https%3A%2F%2Fbluejeans.com%2F193757554&data=04%7C01%7Ccourtney.hill%40gat
+ ech.edu%7C28fb232dcc3942e6833e08d8ca015493%7C482198bbae7b4b258b7a6d7f32faa
+ 083%7C0%7C0%7C637481454347897365%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwM
+ DAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=aJst4%2BM8N
+ vPEkANMfwPkOtNaWu9mZhGSxwdNdyLY9iw%3D&reserved=0\n[2]  https://nam12.safel
+ inks.protection.outlook.com/?url=https%3A%2F%2Fgatech.campuslabs.com%2Feng
+ age%2Fsubmitter%2Fform%2Fstart%2F446266&data=04%7C01%7Ccourtney.hill%40gat
+ ech.edu%7C2874f791a4214d666efc08d8c93cc7f2%7C482198bbae7b4b258b7a6d7f32faa
+ 083%7C0%7C0%7C637480610167913630%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwM
+ DAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=lkGvwF20X8i
+ bBBXltOzOF1AtoWDIUJagaz9xF1lZjNk%3D&reserved=0\n[3]  marylynn.realff@mse.g
+ atech.edu\n[4]  monicamarks@gatech.edu
+LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WST Learning Community dinner discussion: Ti Chang\, GT 2002 ID al
  umna
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210308T223000Z
@@ -12943,17 +12808,25 @@ BEGIN:VEVENT
 SUMMARY:CCF The Event
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210312T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210312T040000Z
-UID:https://gatech.campuslabs.com/engage/event/6869228
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nA time of community\, a
-  faith-based talk\, worship\, discussion and fun. We have two large group 
- starting times\, 7:00pm and 8:30pm and optional discussion groups after ea
- ch. Around 10pm\, we have an after-event that is something like a dance pa
- rty\, going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, regardle
- ss of what you believe\, is welcome. We have both in-person and online opt
- ions. Our service is available on Zoom at 8:30pm: https://us02web.zoom.us/
- j/84188146312\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6
- 869228
-LOCATION:Christian Campus Fellowship (CCF)
+UID:http://hg.gatech.edu/node/643935#4
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nA time of community\, a faith-bas
+ ed talk\, worship\, discussion and fun. We have two large group starting t
+ imes\, 7 p.m. and 8:30 p.m. and optional discussion groups after each. Aro
+ und 10 p.m.\, we have an after-event that is something like a dance party\
+ , going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, regardless o
+ f what you believe\, is welcome. We have both in-person and online options
+ . Our service is available on Zoom at 8:30 p.m.: [2].\n\nA time of communi
+ ty\, a faith-based talk\, worship\, discussion and fun. We have two large 
+ group starting times\, 7:00pm and 8:30pm and optional discussion groups af
+ ter each. Around 10pm\, we have an after-event that is something like a da
+ nce party\, going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, re
+ gardless of what you believe\, is welcome. We have both in-person and onli
+ ne options. Our service is available on Zoom at 8:30pm: https://us02web.zo
+ om.us/j/84188146312\n\nLinks:\n[0]  http://hg.gatech.edu/node/643935#4\n[1
+ ]  https://gatech.campuslabs.com/engage/event/6869228\n[2]  https://us02we
+ b.zoom.us/j/84188146312\n[3]  https://linktr.ee/gtccf
+LOCATION:Christian Campus Fellowship\, 767 Techwood Dr. NW or Online
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Scheller Lunchtime Live: How to Build Consumer/Brand Relationships
@@ -13021,17 +12894,25 @@ BEGIN:VEVENT
 SUMMARY:CCF The Event
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210318T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210319T030000Z
-UID:https://gatech.campuslabs.com/engage/event/6869229
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nA time of community\, a
-  faith-based talk\, worship\, discussion and fun. We have two large group 
- starting times\, 7:00pm and 8:30pm and optional discussion groups after ea
- ch. Around 10pm\, we have an after-event that is something like a dance pa
- rty\, going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, regardle
- ss of what you believe\, is welcome. We have both in-person and online opt
- ions. Our service is available on Zoom at 8:30pm: https://us02web.zoom.us/
- j/84188146312\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6
- 869229
-LOCATION:Christian Campus Fellowship (CCF)
+UID:http://hg.gatech.edu/node/643935#5
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nA time of community\, a faith-bas
+ ed talk\, worship\, discussion and fun. We have two large group starting t
+ imes\, 7 p.m. and 8:30 p.m. and optional discussion groups after each. Aro
+ und 10 p.m.\, we have an after-event that is something like a dance party\
+ , going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, regardless o
+ f what you believe\, is welcome. We have both in-person and online options
+ . Our service is available on Zoom at 8:30 p.m.: [2].\n\nA time of communi
+ ty\, a faith-based talk\, worship\, discussion and fun. We have two large 
+ group starting times\, 7:00pm and 8:30pm and optional discussion groups af
+ ter each. Around 10pm\, we have an after-event that is something like a da
+ nce party\, going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, re
+ gardless of what you believe\, is welcome. We have both in-person and onli
+ ne options. Our service is available on Zoom at 8:30pm: https://us02web.zo
+ om.us/j/84188146312\n\nLinks:\n[0]  http://hg.gatech.edu/node/643935#5\n[1
+ ]  https://gatech.campuslabs.com/engage/event/6869229\n[2]  https://us02we
+ b.zoom.us/j/84188146312\n[3]  https://linktr.ee/gtccf
+LOCATION:Christian Campus Fellowship\, 767 Techwood Dr. NW or Online
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Food4Lives Service with CCF
@@ -13049,17 +12930,25 @@ BEGIN:VEVENT
 SUMMARY:CCF The Event
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210325T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210326T030000Z
-UID:https://gatech.campuslabs.com/engage/event/6869230
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nA time of community\, a
-  faith-based talk\, worship\, discussion and fun. We have two large group 
- starting times\, 7:00pm and 8:30pm and optional discussion groups after ea
- ch. Around 10pm\, we have an after-event that is something like a dance pa
- rty\, going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, regardle
- ss of what you believe\, is welcome. We have both in-person and online opt
- ions. Our service is available on Zoom at 8:30pm: https://us02web.zoom.us/
- j/84188146312\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6
- 869230
-LOCATION:Christian Campus Fellowship (CCF)
+UID:http://hg.gatech.edu/node/643935#6
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nA time of community\, a faith-bas
+ ed talk\, worship\, discussion and fun. We have two large group starting t
+ imes\, 7 p.m. and 8:30 p.m. and optional discussion groups after each. Aro
+ und 10 p.m.\, we have an after-event that is something like a dance party\
+ , going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, regardless o
+ f what you believe\, is welcome. We have both in-person and online options
+ . Our service is available on Zoom at 8:30 p.m.: [2].\n\nA time of communi
+ ty\, a faith-based talk\, worship\, discussion and fun. We have two large 
+ group starting times\, 7:00pm and 8:30pm and optional discussion groups af
+ ter each. Around 10pm\, we have an after-event that is something like a da
+ nce party\, going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, re
+ gardless of what you believe\, is welcome. We have both in-person and onli
+ ne options. Our service is available on Zoom at 8:30pm: https://us02web.zo
+ om.us/j/84188146312\n\nLinks:\n[0]  http://hg.gatech.edu/node/643935#6\n[1
+ ]  https://gatech.campuslabs.com/engage/event/6869230\n[2]  https://us02we
+ b.zoom.us/j/84188146312\n[3]  https://linktr.ee/gtccf
+LOCATION:Christian Campus Fellowship\, 767 Techwood Dr. NW or Online
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Scheller Lunchtime Live: Covid-19's Impact on Firm Equity Valuatio
@@ -13111,17 +13000,25 @@ BEGIN:VEVENT
 SUMMARY:CCF The Event
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210401T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210402T030000Z
-UID:https://gatech.campuslabs.com/engage/event/6869231
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nA time of community\, a
-  faith-based talk\, worship\, discussion and fun. We have two large group 
- starting times\, 7:00pm and 8:30pm and optional discussion groups after ea
- ch. Around 10pm\, we have an after-event that is something like a dance pa
- rty\, going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, regardle
- ss of what you believe\, is welcome. We have both in-person and online opt
- ions. Our service is available on Zoom at 8:30pm: https://us02web.zoom.us/
- j/84188146312\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6
- 869231
-LOCATION:Christian Campus Fellowship (CCF)
+UID:http://hg.gatech.edu/node/643935#7
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nA time of community\, a faith-bas
+ ed talk\, worship\, discussion and fun. We have two large group starting t
+ imes\, 7 p.m. and 8:30 p.m. and optional discussion groups after each. Aro
+ und 10 p.m.\, we have an after-event that is something like a dance party\
+ , going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, regardless o
+ f what you believe\, is welcome. We have both in-person and online options
+ . Our service is available on Zoom at 8:30 p.m.: [2].\n\nA time of communi
+ ty\, a faith-based talk\, worship\, discussion and fun. We have two large 
+ group starting times\, 7:00pm and 8:30pm and optional discussion groups af
+ ter each. Around 10pm\, we have an after-event that is something like a da
+ nce party\, going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, re
+ gardless of what you believe\, is welcome. We have both in-person and onli
+ ne options. Our service is available on Zoom at 8:30pm: https://us02web.zo
+ om.us/j/84188146312\n\nLinks:\n[0]  http://hg.gatech.edu/node/643935#7\n[1
+ ]  https://gatech.campuslabs.com/engage/event/6869231\n[2]  https://us02we
+ b.zoom.us/j/84188146312\n[3]  https://linktr.ee/gtccf
+LOCATION:Christian Campus Fellowship\, 767 Techwood Dr. NW or Online
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Food4Lives Service with CCF
@@ -13139,17 +13036,25 @@ BEGIN:VEVENT
 SUMMARY:CCF The Event
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210408T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210409T030000Z
-UID:https://gatech.campuslabs.com/engage/event/6869232
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nA time of community\, a
-  faith-based talk\, worship\, discussion and fun. We have two large group 
- starting times\, 7:00pm and 8:30pm and optional discussion groups after ea
- ch. Around 10pm\, we have an after-event that is something like a dance pa
- rty\, going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, regardle
- ss of what you believe\, is welcome. We have both in-person and online opt
- ions. Our service is available on Zoom at 8:30pm: https://us02web.zoom.us/
- j/84188146312\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6
- 869232
-LOCATION:Christian Campus Fellowship (CCF)
+UID:http://hg.gatech.edu/node/643935#8
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nA time of community\, a faith-bas
+ ed talk\, worship\, discussion and fun. We have two large group starting t
+ imes\, 7 p.m. and 8:30 p.m. and optional discussion groups after each. Aro
+ und 10 p.m.\, we have an after-event that is something like a dance party\
+ , going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, regardless o
+ f what you believe\, is welcome. We have both in-person and online options
+ . Our service is available on Zoom at 8:30 p.m.: [2].\n\nA time of communi
+ ty\, a faith-based talk\, worship\, discussion and fun. We have two large 
+ group starting times\, 7:00pm and 8:30pm and optional discussion groups af
+ ter each. Around 10pm\, we have an after-event that is something like a da
+ nce party\, going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, re
+ gardless of what you believe\, is welcome. We have both in-person and onli
+ ne options. Our service is available on Zoom at 8:30pm: https://us02web.zo
+ om.us/j/84188146312\n\nLinks:\n[0]  http://hg.gatech.edu/node/643935#8\n[1
+ ]  https://gatech.campuslabs.com/engage/event/6869232\n[2]  https://us02we
+ b.zoom.us/j/84188146312\n[3]  https://linktr.ee/gtccf
+LOCATION:Christian Campus Fellowship\, 767 Techwood Dr. NW or Online
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Food4Lives Service with CCF
@@ -13167,17 +13072,25 @@ BEGIN:VEVENT
 SUMMARY:CCF The Event
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210415T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210416T030000Z
-UID:https://gatech.campuslabs.com/engage/event/6869233
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nA time of community\, a
-  faith-based talk\, worship\, discussion and fun. We have two large group 
- starting times\, 7:00pm and 8:30pm and optional discussion groups after ea
- ch. Around 10pm\, we have an after-event that is something like a dance pa
- rty\, going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, regardle
- ss of what you believe\, is welcome. We have both in-person and online opt
- ions. Our service is available on Zoom at 8:30pm: https://us02web.zoom.us/
- j/84188146312\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6
- 869233
-LOCATION:Christian Campus Fellowship (CCF)
+UID:http://hg.gatech.edu/node/643935#9
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nA time of community\, a faith-bas
+ ed talk\, worship\, discussion and fun. We have two large group starting t
+ imes\, 7 p.m. and 8:30 p.m. and optional discussion groups after each. Aro
+ und 10 p.m.\, we have an after-event that is something like a dance party\
+ , going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, regardless o
+ f what you believe\, is welcome. We have both in-person and online options
+ . Our service is available on Zoom at 8:30 p.m.: [2].\n\nA time of communi
+ ty\, a faith-based talk\, worship\, discussion and fun. We have two large 
+ group starting times\, 7:00pm and 8:30pm and optional discussion groups af
+ ter each. Around 10pm\, we have an after-event that is something like a da
+ nce party\, going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, re
+ gardless of what you believe\, is welcome. We have both in-person and onli
+ ne options. Our service is available on Zoom at 8:30pm: https://us02web.zo
+ om.us/j/84188146312\n\nLinks:\n[0]  http://hg.gatech.edu/node/643935#9\n[1
+ ]  https://gatech.campuslabs.com/engage/event/6869233\n[2]  https://us02we
+ b.zoom.us/j/84188146312\n[3]  https://linktr.ee/gtccf
+LOCATION:Christian Campus Fellowship\, 767 Techwood Dr. NW or Online
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Food4Lives Service with CCF
@@ -13195,17 +13108,25 @@ BEGIN:VEVENT
 SUMMARY:CCF The Event
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210422T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210423T030000Z
-UID:https://gatech.campuslabs.com/engage/event/6869234
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nA time of community\, a
-  faith-based talk\, worship\, discussion and fun. We have two large group 
- starting times\, 7:00pm and 8:30pm and optional discussion groups after ea
- ch. Around 10pm\, we have an after-event that is something like a dance pa
- rty\, going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, regardle
- ss of what you believe\, is welcome. We have both in-person and online opt
- ions. Our service is available on Zoom at 8:30pm: https://us02web.zoom.us/
- j/84188146312\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6
- 869234
-LOCATION:Christian Campus Fellowship (CCF)
+UID:http://hg.gatech.edu/node/643935#10
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nA time of community\, a faith-bas
+ ed talk\, worship\, discussion and fun. We have two large group starting t
+ imes\, 7 p.m. and 8:30 p.m. and optional discussion groups after each. Aro
+ und 10 p.m.\, we have an after-event that is something like a dance party\
+ , going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, regardless o
+ f what you believe\, is welcome. We have both in-person and online options
+ . Our service is available on Zoom at 8:30 p.m.: [2].\n\nA time of communi
+ ty\, a faith-based talk\, worship\, discussion and fun. We have two large 
+ group starting times\, 7:00pm and 8:30pm and optional discussion groups af
+ ter each. Around 10pm\, we have an after-event that is something like a da
+ nce party\, going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, re
+ gardless of what you believe\, is welcome. We have both in-person and onli
+ ne options. Our service is available on Zoom at 8:30pm: https://us02web.zo
+ om.us/j/84188146312\n\nLinks:\n[0]  http://hg.gatech.edu/node/643935#10\n[
+ 1]  https://gatech.campuslabs.com/engage/event/6869234\n[2]  https://us02w
+ eb.zoom.us/j/84188146312\n[3]  https://linktr.ee/gtccf
+LOCATION:Christian Campus Fellowship\, 767 Techwood Dr. NW or Online
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Food4Lives Service with CCF
