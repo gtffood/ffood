@@ -2,146 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Greek Allies
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200206T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200207T020000Z
-UID:http://hg.gatech.edu/node/630388#0
-DESCRIPTION:Intended audience: Undergraduate students\nStatus: published\n
- \nGreek Allies is Georgia Tech’s LGBTQIA ally training program for frate
- rnity and sorority members. The interactive curriculum is modeled on Safe 
- Space but contains scenarios\, discussions\, and information relevant to m
- embers of Greek organizations. Dinner is provided.\n\nRSVP Only\n\nLinks:\
- n[0]  http://hg.gatech.edu/node/630388#0
-LOCATION:Register to receive location
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PhD Proposal by Avani Gupta
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200207T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200207T170000Z
-UID:http://hg.gatech.edu/node/631175#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nStatus: published\n\nAvani Gupta\n(Advisor: Prof
- . Lakshmi N. Sankar)\n\nwill propose a doctoral thesis entitled\,\n\nAppli
- cation of an Extended Messinger Model to Ice Accretion on Complex Geometri
- es\n\nOn\n\nFriday\, February 7 at 10:00 a.m.\nMontgomery Knight Building 
- 317\n\nAbstract\nIce accretion can significantly degrade the performance a
- nd the stability of an airborne vehicle. Therefore\, it is important to mo
- del this phenomenon accurately. While researchers have conducted extensive
-  ice accretion studies in the past on airplane wings and helicopter blades
- \, very few of these studies are for more complex geometries such as fusel
- ages. This work proposes a methodology that extends an existing in-house E
- xtended Messinger ice accretion solver to complex geometries on unstructur
- ed grids\, with a marching process along surface streamlines to handle thr
- ee-dimensional flow effects.\n\nThe work completed to date includes sensit
- ivity studies for ice accretion and shedding on shortened Schweizer 269 ma
- in rotor blades and two-dimensional steady and oscillating airfoil ice acc
- retion cases\, on structured grids. Towards the goal of developing unstruc
- tured grid based methodologies\, several different cases with varying leve
- ls of complexity have been completed. These include a commercial transport
-  airfoil\, a three-dimensional MS(1)-317 swept wing at different angles of
-  attack\, and the Robin fuselage.\n\nUnstructured grid based analyses usin
- g commercial solvers such as STAR-CCM+ and ANSYS Fluent have been used to 
- date for the flow field and water droplet dispersed phase computations. Th
- e ice accretion is carried out using an in-house analysis called GT-ICE. T
- he predictions by GT-ICE have compared to available experimental data\, an
- d to predictions by LEWICE\, an industry standard solver developed at the 
- NASA Glenn Research Center.\n\nThe proposed work includes the development 
- of an unstructured grid based Eulerian droplet trajectory and collection e
- fficiency methodology using public domain modules within OpenFOAM\, couple
- d to a surface streamline visualization and data extraction process using 
- the public domain solver ParaView. GT-ICE will be employed for ice accreti
- on computations. The new methodology is capable of handling 2D and 3D\, st
- ructured and unstructured\, steady and unsteady flow analyses.\n\nCommitte
- e\n\n- Prof. Lakshmi N. Sankar – School of Aerospace Engineering (adviso
- r)\n- Prof. Jechiel Jagoda – School of Aerospace Engineering\n- Prof. St
- ephen M. Ruffin – School of Aerospace Engineering\n- Richard E. Kreeger 
- – NASA Glenn Research Center\n\nLinks:\n[0]  http://hg.gatech.edu/node/6
- 31175#0
-LOCATION:Montgomery Knight Building 317
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jesus and Therapy
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200208T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200208T010000Z
-UID:http://hg.gatech.edu/node/631660#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
- aduate students\nExtras: Free Food\nStatus: published\n\nJoin for an eveni
- ng of five panelists there to help navigate a faith-based approach to mana
- ging stress\, classes\, and life as a student.\n\nInfluence29 is a new Chr
- istian Organization on campus focused on being more inclusive (especially 
- to the BGT) and relevant when it comes to the topics we discuss (ones typi
- cally avoided)\n\nNext Friday\, February 7th\, from 7-8 pm in the Kendeda 
- Building Room 210\, we are hosting “Jesus and Therapy” which is a fun 
- discussion of faith based approaches to stress\, mental health\, and mindf
- ulness. We will have a beautiful young lady who attends Georgia State\, GT
-  health Initiatives\, and A Christian counselor/therapist as panelists!\n\
- nFood will be provided! #freedinner\n\nPlease come out and spread the word
- ! We want to cater to you\n\nFollow us on IG: _influence29\n\nLinks:\n[0] 
-  http://hg.gatech.edu/node/631660#0\n[1]  https://gatech.campuslabs.com/en
- gage/event/5549328
-LOCATION:Kendeda Building Classroom 210
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BCM Pancake Night
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200208T030000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200208T070000Z
-UID:https://gatech.campuslabs.com/engage/event/5441685
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome by the BCM for FRE
- E Pancakes! We'll be serving pancakes and water/lemonade outside our build
- ing from 10 PM - 2 AM and all are welcome to stop by!\n\nLinks:\n[0]  http
- s://gatech.campuslabs.com/engage/event/5441685
-LOCATION:Baptist Student Union
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Food Distribution Volunteering
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200208T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200208T190000Z
-UID:http://hg.gatech.edu/node/630475#5
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Credit\, Free Food\, Free Stuff\nStatus: published\n\nFood4Lives 
- is a service family founded by students from Georgia Tech and Emory in 201
- 7 to feed\, educate and empower the homeless of Atlanta.\n\nWe will meet a
- t 1122 Old Chattahoochee Ave at 10 a.m. We will carpool to the Gateway Cen
- ter in Downtown Atlanta (12:15 pm)\, then to nearby Hurt Park (1 pm) after
-  we finish cooking. Feel free to join us at any of the three locations at 
- your convenience.\n\nOur menu usually is:\n\n- Yellow rice\n- Sandwiches (
- tomato\, cucumber\, lettuce\, cheese\, mustard\, ketchup\, hummus)\n- Lemo
- nade\n- Chocolate milk\n- Chips and snacks\n- Salad\n- Macaroni and cheese
- \n- Quesadillas\n- Fruit salad\n- Granola and milk\n- Pancakes\n\nTo spons
- or an event\, visit https://food4lives.org/donate.html. [2]\n\nFood4Lives 
- is a service family founded by students from Georgia Tech and Emory in 201
- 7 to feed\, educate and empower the homeless of Atlanta.\n\nWe all meet at
-  1122 old Chattahoochee ave\, Atlanta @ 10:00 AM. We will carpool together
-  to downtown Gateway centre (12:15 pm) first to Serve out\, then to hurt p
- ark (1 pm) after we finish cooking. Feel free to join us at any of the 3 l
- ocations at your convenience.\n\nOur menu usually is:\n\nYellow rice\nSand
- wiches (tomato’s\, cucumber\, lettuce\, cheese\, mustard\, ketchup\, hum
- mus)\nLemonade\nchocolate milk\nchips & snacks\nSalad\nMacaroni and cheese
- \nQuesadillas\nFruit salad\nGranola & Milk\nPancakes\n\nFor sponsoring an 
- event please check: [2]\n\nLinks:\n[0]  http://hg.gatech.edu/node/630475#5
- \n[1]  https://gatech.campuslabs.com/engage/event/5322926\n[2]  https://fo
- od4lives.org/donate.html\n[3]  https://www.facebook.com/events/11779058659
- 30288/
-LOCATION:Food4Lives\, 1122 Old Chattahoochee Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GT Tekstyles and ATL Beatbox presents: The Summit - Spring 2020
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200209T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200209T020000Z
-UID:http://hg.gatech.edu/node/631780#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nAtlanta's Premier Dance + Beatbox Event held at Georgia Tech since 2013!
- \n\nFREE ADMISSION\, FREE TIFF'S TREATS!\n\nJoin us for All-style freestyl
- e dance battles and beatbox showcases\, and immerse yourself in the hip-ho
- p culture!\n\nCompetitor Registration starts at 7:00 p.m.\, ends at 8:00 p
- .m. - do not be late!\n\nSpectators are welcome to walk in and out wheneve
- r!\n\nSpinning for the night is none other than DJ Alphatrion!\n\nLinks:\n
- [0]  http://hg.gatech.edu/node/631780#0\n[1]  https://www.facebook.com/eve
- nts/610612666360547/?notif_t=plan_user_joined¬if_id=1580140820573133
-LOCATION:Student Center Ballroom
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ASCE/AEES Career Fair
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200210T140000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200210T200000Z
@@ -12332,6 +12192,18 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nA time of community\, a
 LOCATION:Christian Campus Fellowship (CCF)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Trivia Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210208T164500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210208T184500Z
+UID:https://gatech.campuslabs.com/engage/event/6891739
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFree lunch and trivia e
+ very Monday! All lunches are pre-packaged in to-go boxes\, and seating is 
+ available in a safe\, socially distant fashion inside and outside. Trivia 
+ begins at 11:50am and 12:50pm.\n\nLinks:\n[0]  https://gatech.campuslabs.c
+ om/engage/event/6891739
+LOCATION:Christian Campus Fellowship (CCF)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:"Manufacturing in Unstructured Environments"
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210208T170000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210208T180000Z
@@ -12455,18 +12327,74 @@ BEGIN:VEVENT
 SUMMARY:中国新年活动
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210212T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210213T000000Z
-UID:https://gatech.campuslabs.com/engage/event/6888843
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThe Chinese Christian F
- ellowship at Georgia Tech invites you to a Chinese-speaking community get-
- together at 6PM (EST) on Friday\, February 12!\n\n今天校园之家的聚
- 会是我们会在exhibition hall的home park提供1h的食物窗口，还
- 会有人与你一起探讨你生活中的困难。今晚我们一起来
- 探讨吧[Rose]。我们会在活动中给每位来访者提供神秘礼
- 物。不过小编还是提醒注意带口罩参加哦。\n\n如果你来
- 不及来取食物，也欢迎你来参加晚上7：30 开始的新年特
- 别活动。 我们将会提供线上交流平台，同时和一些小游
- 戏。\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6888843
-LOCATION:Exhibition Hall Home Park
+UID:http://hg.gatech.edu/node/644001#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free Food\nStatus: published\n
+ \nThe Chinese Christian Fellowship at Georgia Tech invites you to a Chines
+ e-speaking community get-together at 6 p.m. (EST) on Friday\, Feb. 12!\n\n
+ 疫情不能使我们与爱隔绝\n有一种乡愁，是大洋彼岸的我
+ 们因为疫情和各种其他原因无法回家过春节。校园之家
+ 希望在新春为大家送上祝福，让爱连接独自在异乡的我
+ 们。在这周五大年初一（2/12/2021）傍晚，欢迎想要庆祝
+ 农历新年的你来线下领取我们准备的春节大礼包以及参
+ 加咱们举办的网上联欢。\n活动具体安排：\n· 领取春节
+ 大礼包：\n时间：6-7 p.m.\n地址：Exhibition Hall Home Park\, 460 
+ 4th St NW\, Atlanta\, GA30313\n· 线上春节联欢：\n时间：7:15-9 p
+ .m.\n地址：Zoom Meeting: 82602157880\nPasscode: 1234\n活动安排：
+ 有奖问答（Amazon Gift Cards），社交和游戏\n\nplease write the 
+ form:\nhttps://docs.google.com/forms/d/1tcTZcobrgL4544__Sfs-OmoYmX-mHsfuJb
+ X9ROguEB8/edit?usp=sharing [2]\n\nThe Chinese Christian Fellowship at Geor
+ gia Tech invites you to a Chinese-speaking community get-together at 6PM (
+ EST) on Friday\, February 12!\n\n今天校园之家的聚会是我们会
+ 在exhibition hall的home park提供1h的食物窗口，还会有人与你
+ 一起探讨你生活中的困难。今晚我们一起来探讨吧[Rose]
+ 。我们会在活动中给每位来访者提供神秘礼物。不过小
+ 编还是提醒注意带口罩参加哦。\n\n如果你来不及来取食
+ 物，也欢迎你来参加晚上7：30 开始的新年特别活动。 我
+ 们将会提供线上交流平台，同时和一些小游戏。\n\nLinks:\
+ n[0]  http://hg.gatech.edu/node/644001#0\n[1]  https://gatech.campuslabs.c
+ om/engage/event/6888843\n[2]  http://the chinese christian fellowship at g
+ eorgia tech invites you to a chinese-speaking community get-together at 6p
+ m (est) on friday\, february 12 ! 疫情不能使我们与爱隔绝 有一
+ 种乡愁，是大洋彼岸的我们因为疫情和各种其他原因无
+ 法回家过春节。校园之家希望在新春为大家送上祝福，
+ 让爱连接独自在异乡的我们。在这周五大年初一（2/12/202
+ 1）傍晚，欢迎想要庆祝农历新年的你来线下领取我们准
+ 备的春节大礼包以及参加咱们举办的网上联欢。 活动具
+ 体安排： · 领取春节大礼包： 时间：6pm – 7pm 地址：Exh
+ ibition Hall Home Park\, 460 4th St NW\, Atlanta\, GA30313 · 线上春节
+ 联欢： 时间：7:15 pm – 9pm 地址：Zoom Meeting: 82602157880 Pass
+ code: 1234 活动安排：有奖问答（Amazon Gift Cards），社交和
+ 游戏 please write the form: https://docs.google.com/forms/d/1tcTZcobrgL4
+ 544__Sfs-OmoYmX-mHsfuJbX9ROguEB8/edit?usp=sharing\n[3]  https://gatech.cam
+ puslabs.com/engage/organization/chinese-christian-fellowship\n[4]  https:/
+ /us02web.zoom.us/j/82602157880
+LOCATION:Exhibition Hall\, Home Park Room or Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCF Trivia Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210215T164500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210215T184500Z
+UID:http://hg.gatech.edu/node/643999#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nFree lunch and trivia every Monday! All lunches are 
+ pre-packaged in to-go boxes\, and seating is available in a safe\, sociall
+ y distant fashion inside and outside. Trivia begins at 11:50 a.m. and 12:5
+ 0 p.m.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643999#0\n[1]  https://li
+ nktr.ee/gtccf
+LOCATION:Christian Campus Fellowship (CCF)\, 767 Techwood Dr. NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trivia Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210215T164500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210215T184500Z
+UID:https://gatech.campuslabs.com/engage/event/6891740
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFree lunch and trivia e
+ very Monday! All lunches are pre-packaged in to-go boxes\, and seating is 
+ available in a safe\, socially distant fashion inside and outside. Trivia 
+ begins at 11:50am and 12:50pm.\n\nLinks:\n[0]  https://gatech.campuslabs.c
+ om/engage/event/6891740
+LOCATION:Christian Campus Fellowship (CCF)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Food4Lives Service with CCF
@@ -12503,6 +12431,31 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  ]  https://gatech.campuslabs.com/engage/event/6869225\n[2]  https://us02we
  b.zoom.us/j/84188146312\n[3]  https://linktr.ee/gtccf
 LOCATION:Christian Campus Fellowship\, 767 Techwood Dr. NW or Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCF Trivia Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210222T164500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210222T184500Z
+UID:http://hg.gatech.edu/node/643999#1
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nFree lunch and trivia every Monday! All lunches are 
+ pre-packaged in to-go boxes\, and seating is available in a safe\, sociall
+ y distant fashion inside and outside. Trivia begins at 11:50 a.m. and 12:5
+ 0 p.m.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643999#1\n[1]  https://li
+ nktr.ee/gtccf
+LOCATION:Christian Campus Fellowship (CCF)\, 767 Techwood Dr. NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trivia Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210222T164500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210222T184500Z
+UID:https://gatech.campuslabs.com/engage/event/6891741
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFree lunch and trivia e
+ very Monday! All lunches are pre-packaged in to-go boxes\, and seating is 
+ available in a safe\, socially distant fashion inside and outside. Trivia 
+ begins at 11:50am and 12:50pm.\n\nLinks:\n[0]  https://gatech.campuslabs.c
+ om/engage/event/6891741
+LOCATION:Christian Campus Fellowship (CCF)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Food4Lives Service with CCF
@@ -12590,6 +12543,31 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
 LOCATION:DogHead Farms\, 1103 Birch St.\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CCF Trivia Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210301T164500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210301T184500Z
+UID:http://hg.gatech.edu/node/643999#2
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nFree lunch and trivia every Monday! All lunches are 
+ pre-packaged in to-go boxes\, and seating is available in a safe\, sociall
+ y distant fashion inside and outside. Trivia begins at 11:50 a.m. and 12:5
+ 0 p.m.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643999#2\n[1]  https://li
+ nktr.ee/gtccf
+LOCATION:Christian Campus Fellowship (CCF)\, 767 Techwood Dr. NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trivia Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210301T164500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210301T184500Z
+UID:https://gatech.campuslabs.com/engage/event/6891742
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFree lunch and trivia e
+ very Monday! All lunches are pre-packaged in to-go boxes\, and seating is 
+ available in a safe\, socially distant fashion inside and outside. Trivia 
+ begins at 11:50am and 12:50pm.\n\nLinks:\n[0]  https://gatech.campuslabs.c
+ om/engage/event/6891742
+LOCATION:Christian Campus Fellowship (CCF)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Food4Lives Service with CCF
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210302T183000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210302T203000Z
@@ -12668,6 +12646,31 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  nks:\n[0]  http://hg.gatech.edu/node/643576#0\n[1]  https://www.linkedin.c
  om/events/6760612973212958720/
 LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCF Trivia Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210308T164500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210308T184500Z
+UID:http://hg.gatech.edu/node/643999#3
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nFree lunch and trivia every Monday! All lunches are 
+ pre-packaged in to-go boxes\, and seating is available in a safe\, sociall
+ y distant fashion inside and outside. Trivia begins at 11:50 a.m. and 12:5
+ 0 p.m.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643999#3\n[1]  https://li
+ nktr.ee/gtccf
+LOCATION:Christian Campus Fellowship (CCF)\, 767 Techwood Dr. NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trivia Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210308T164500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210308T184500Z
+UID:https://gatech.campuslabs.com/engage/event/6891743
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFree lunch and trivia e
+ very Monday! All lunches are pre-packaged in to-go boxes\, and seating is 
+ available in a safe\, socially distant fashion inside and outside. Trivia 
+ begins at 11:50am and 12:50pm.\n\nLinks:\n[0]  https://gatech.campuslabs.c
+ om/engage/event/6891743
+LOCATION:Christian Campus Fellowship (CCF)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Clone of WST Learning Community dinner discussion: Ti Chang\, GT 2
@@ -12879,6 +12882,31 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CCF Trivia Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210315T154500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210315T174500Z
+UID:http://hg.gatech.edu/node/643999#4
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nFree lunch and trivia every Monday! All lunches are 
+ pre-packaged in to-go boxes\, and seating is available in a safe\, sociall
+ y distant fashion inside and outside. Trivia begins at 11:50 a.m. and 12:5
+ 0 p.m.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643999#4\n[1]  https://li
+ nktr.ee/gtccf
+LOCATION:Christian Campus Fellowship (CCF)\, 767 Techwood Dr. NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trivia Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210315T154500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210315T174500Z
+UID:https://gatech.campuslabs.com/engage/event/6891744
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFree lunch and trivia e
+ very Monday! All lunches are pre-packaged in to-go boxes\, and seating is 
+ available in a safe\, socially distant fashion inside and outside. Trivia 
+ begins at 11:50am and 12:50pm.\n\nLinks:\n[0]  https://gatech.campuslabs.c
+ om/engage/event/6891744
+LOCATION:Christian Campus Fellowship (CCF)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Food4Lives Service with CCF
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210316T173000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210316T193000Z
@@ -12913,6 +12941,31 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  ]  https://gatech.campuslabs.com/engage/event/6869229\n[2]  https://us02we
  b.zoom.us/j/84188146312\n[3]  https://linktr.ee/gtccf
 LOCATION:Christian Campus Fellowship\, 767 Techwood Dr. NW or Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCF Trivia Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210322T154500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210322T174500Z
+UID:http://hg.gatech.edu/node/643999#5
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nFree lunch and trivia every Monday! All lunches are 
+ pre-packaged in to-go boxes\, and seating is available in a safe\, sociall
+ y distant fashion inside and outside. Trivia begins at 11:50 a.m. and 12:5
+ 0 p.m.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643999#5\n[1]  https://li
+ nktr.ee/gtccf
+LOCATION:Christian Campus Fellowship (CCF)\, 767 Techwood Dr. NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trivia Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210322T154500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210322T174500Z
+UID:https://gatech.campuslabs.com/engage/event/6891745
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFree lunch and trivia e
+ very Monday! All lunches are pre-packaged in to-go boxes\, and seating is 
+ available in a safe\, socially distant fashion inside and outside. Trivia 
+ begins at 11:50am and 12:50pm.\n\nLinks:\n[0]  https://gatech.campuslabs.c
+ om/engage/event/6891745
+LOCATION:Christian Campus Fellowship (CCF)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Food4Lives Service with CCF
@@ -12985,6 +13038,31 @@ DESCRIPTION:Intended audience: Graduate students\, Postdoc\, Public\, Unde
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CCF Trivia Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210329T154500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210329T174500Z
+UID:http://hg.gatech.edu/node/643999#6
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nFree lunch and trivia every Monday! All lunches are 
+ pre-packaged in to-go boxes\, and seating is available in a safe\, sociall
+ y distant fashion inside and outside. Trivia begins at 11:50 a.m. and 12:5
+ 0 p.m.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643999#6\n[1]  https://li
+ nktr.ee/gtccf
+LOCATION:Christian Campus Fellowship (CCF)\, 767 Techwood Dr. NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trivia Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210329T154500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210329T174500Z
+UID:https://gatech.campuslabs.com/engage/event/6891746
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFree lunch and trivia e
+ very Monday! All lunches are pre-packaged in to-go boxes\, and seating is 
+ available in a safe\, socially distant fashion inside and outside. Trivia 
+ begins at 11:50am and 12:50pm.\n\nLinks:\n[0]  https://gatech.campuslabs.c
+ om/engage/event/6891746
+LOCATION:Christian Campus Fellowship (CCF)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Food4Lives Service with CCF
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210330T173000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210330T193000Z
@@ -13019,6 +13097,31 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  ]  https://gatech.campuslabs.com/engage/event/6869231\n[2]  https://us02we
  b.zoom.us/j/84188146312\n[3]  https://linktr.ee/gtccf
 LOCATION:Christian Campus Fellowship\, 767 Techwood Dr. NW or Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCF Trivia Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210405T154500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210405T174500Z
+UID:http://hg.gatech.edu/node/643999#7
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nFree lunch and trivia every Monday! All lunches are 
+ pre-packaged in to-go boxes\, and seating is available in a safe\, sociall
+ y distant fashion inside and outside. Trivia begins at 11:50 a.m. and 12:5
+ 0 p.m.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643999#7\n[1]  https://li
+ nktr.ee/gtccf
+LOCATION:Christian Campus Fellowship (CCF)\, 767 Techwood Dr. NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trivia Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210405T154500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210405T174500Z
+UID:https://gatech.campuslabs.com/engage/event/6891747
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFree lunch and trivia e
+ very Monday! All lunches are pre-packaged in to-go boxes\, and seating is 
+ available in a safe\, socially distant fashion inside and outside. Trivia 
+ begins at 11:50am and 12:50pm.\n\nLinks:\n[0]  https://gatech.campuslabs.c
+ om/engage/event/6891747
+LOCATION:Christian Campus Fellowship (CCF)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Food4Lives Service with CCF
@@ -13057,6 +13160,31 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Christian Campus Fellowship\, 767 Techwood Dr. NW or Online
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CCF Trivia Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210412T154500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210412T174500Z
+UID:http://hg.gatech.edu/node/643999#8
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nFree lunch and trivia every Monday! All lunches are 
+ pre-packaged in to-go boxes\, and seating is available in a safe\, sociall
+ y distant fashion inside and outside. Trivia begins at 11:50 a.m. and 12:5
+ 0 p.m.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643999#8\n[1]  https://li
+ nktr.ee/gtccf
+LOCATION:Christian Campus Fellowship (CCF)\, 767 Techwood Dr. NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trivia Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210412T154500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210412T174500Z
+UID:https://gatech.campuslabs.com/engage/event/6891748
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFree lunch and trivia e
+ very Monday! All lunches are pre-packaged in to-go boxes\, and seating is 
+ available in a safe\, socially distant fashion inside and outside. Trivia 
+ begins at 11:50am and 12:50pm.\n\nLinks:\n[0]  https://gatech.campuslabs.c
+ om/engage/event/6891748
+LOCATION:Christian Campus Fellowship (CCF)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Food4Lives Service with CCF
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210413T173000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210413T193000Z
@@ -13093,6 +13221,31 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Christian Campus Fellowship\, 767 Techwood Dr. NW or Online
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CCF Trivia Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210419T154500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210419T174500Z
+UID:http://hg.gatech.edu/node/643999#9
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nFree lunch and trivia every Monday! All lunches are 
+ pre-packaged in to-go boxes\, and seating is available in a safe\, sociall
+ y distant fashion inside and outside. Trivia begins at 11:50 a.m. and 12:5
+ 0 p.m.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643999#9\n[1]  https://li
+ nktr.ee/gtccf
+LOCATION:Christian Campus Fellowship (CCF)\, 767 Techwood Dr. NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trivia Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210419T154500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210419T174500Z
+UID:https://gatech.campuslabs.com/engage/event/6891749
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFree lunch and trivia e
+ very Monday! All lunches are pre-packaged in to-go boxes\, and seating is 
+ available in a safe\, socially distant fashion inside and outside. Trivia 
+ begins at 11:50am and 12:50pm.\n\nLinks:\n[0]  https://gatech.campuslabs.c
+ om/engage/event/6891749
+LOCATION:Christian Campus Fellowship (CCF)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Food4Lives Service with CCF
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210420T173000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210420T193000Z
@@ -13127,6 +13280,31 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  1]  https://gatech.campuslabs.com/engage/event/6869234\n[2]  https://us02w
  eb.zoom.us/j/84188146312\n[3]  https://linktr.ee/gtccf
 LOCATION:Christian Campus Fellowship\, 767 Techwood Dr. NW or Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCF Trivia Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210426T154500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210426T174500Z
+UID:http://hg.gatech.edu/node/643999#10
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nFree lunch and trivia every Monday! All lunches are 
+ pre-packaged in to-go boxes\, and seating is available in a safe\, sociall
+ y distant fashion inside and outside. Trivia begins at 11:50 a.m. and 12:5
+ 0 p.m.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643999#10\n[1]  https://l
+ inktr.ee/gtccf
+LOCATION:Christian Campus Fellowship (CCF)\, 767 Techwood Dr. NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trivia Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210426T154500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210426T174500Z
+UID:https://gatech.campuslabs.com/engage/event/6891750
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFree lunch and trivia e
+ very Monday! All lunches are pre-packaged in to-go boxes\, and seating is 
+ available in a safe\, socially distant fashion inside and outside. Trivia 
+ begins at 11:50am and 12:50pm.\n\nLinks:\n[0]  https://gatech.campuslabs.c
+ om/engage/event/6891750
+LOCATION:Christian Campus Fellowship (CCF)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Food4Lives Service with CCF
