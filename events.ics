@@ -2,259 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:ASCE/AEES Career Fair
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200210T140000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200210T200000Z
-UID:https://gatech.campuslabs.com/engage/event/5574022
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nA career d
- evelopment opportunity offered to Civil and Environmental Engineering stud
- ents that allows them to interface with companies and possible earn intern
- ships\, co-ops\, or full-time offers. This career fair is spread over two 
- days and features several prominent firms within the industry.\n\nLinks:\n
- [0]  https://gatech.campuslabs.com/engage/event/5574022
-LOCATION:Student Center Ballroom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grad Student Drop-In Focus Group
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200210T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200210T180000Z
-UID:http://hg.gatech.edu/node/632019#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nJoin the Library 
- for a drop-in focus group in the seventh floor meeting room (7130) on the 
- Graduate Student Community (GSC) and related services.We’d love to hear 
- feedback about the space and changes you’d like us to consider.\n\nLunch
-  will be provided.\n\nFood will be served at 11:30. Drop-in any time befor
- e 12:45 to eat lunch and provide input.\n\nQuestions?\nEmail fred.rascoe@l
- ibrary.gatech.edu [1] or susan.parham@library.gatech.edu [2].\n\nLinks:\n[
- 0]  http://hg.gatech.edu/node/632019#0\n[1]  fred.rascoe@library.gatech.ed
- u\n[2]  susan.parham@library.gatech.edu
-LOCATION:Georgia Tech Library: Crosland Tower Seventh Floor meeting room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GTMI Lunch and Learn Series - Scalable Manufacturing Approaches fo
- r Biomimetic Engineered Tissues
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200210T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200210T180000Z
-UID:http://hg.gatech.edu/node/630985#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nScalable Manufacturing Approaches for Biomimetic Engineered Tissues\n\nS
- peaker:\n\n- Professor\, Rohan Shirwaiker\n\nCompany:\n\n- North Carolina 
- State University\, ISYE and BME\; Comparative Medicine Institute\n\nLinks:
- \n[0]  http://hg.gatech.edu/node/630985#0
-LOCATION:GTMI 114
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Micro-Physiological Systems Seminar Series
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200210T180000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200210T190000Z
-UID:http://hg.gatech.edu/node/631453#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \nStatus: published\n\nHansang Cho\, Ph.D.\nAssistant Professor\nDepartmen
- t of Mechanical Engineering\nSungkyunkwan University & University of North
-  Carolina at Charlotte\n\n“3D Human Brain models in Microfluidics for th
- e Study of Neurological Disorders”\n\nWith hundreds of billions of neuro
- ns and thousands of trillions of synaptic connections between them\, the h
- uman brain is the most complex system on earth. However\, there are no wel
- l-developed human brain models to study the brain activities in either lab
- oratory environments or in animal bodies. Here\, I present micro-scaled 3D
-  environments that reconstruct a 3D human brain in Alzheimer’s disease (
- AD) by recapitulating AD signature of elevated levels of amyloid-beta (A-b
- eta)\, tau proteins\, activation of microglia\, immune cells resident in a
-  central nervous system (CNS)\, and consequent neuronal damage. In particu
- lar\, the model mirrored microglial neurotoxic activities such as axonal c
- leavage and neurotoxic release.\n\nLunch will be provided at the beginning
-  of the seminar.\n\nLinks:\n[0]  http://hg.gatech.edu/node/631453#0\n[1]  
- https://nanoscalescience.uncc.edu/directory/hansang-cho-phd\n[2]  https://
- pwp.gatech.edu/biomicrofluidics/
-LOCATION:Krone Engineered Biosystems Building\, Room 1005 - Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Coronavirus Forum
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200210T200000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200210T210000Z
-UID:http://hg.gatech.edu/node/632138#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nThe Center for Microbial Dynamics and Infection [2] will host a special 
- a special Corornavirus Forum\, featuring three short talks spanning real-t
- ime sequence analysis\, outbreak strength estimation\, and drug developmen
- t.\n\nThe first of the talks will be presented on phylodynamics and real-t
- ime sequence analysis by Trevor Bedford [3]\, who will be joining via vide
- o conference. Dr. Bedford is an Associate Member at the Fred Hutchinson Ca
- ncer Research Center in the Vaccine and Infectious Disease Division and th
- e Computational Biology Program. He is also an Affiliate Associate Profess
- or in the Department of Genome Sciences and the Department of Epidemiology
-  at the University of Washington.\n\nThe second talk will be presented by 
- Joshua Weitz [4] on estimating outbreak strength and speed in regards to t
- he coronavirus. Dr. Weitz is a professor in the GT School of Biological Sc
- iences and the director of the Georgia Tech Interdisciplinary PhD in Quant
- itative Biosciences.\n\nThe third talk focusing on viral replication and d
- rug design will be presented by Phil Santangelo [5]\, a professor in the G
- eorgia Tech Coulter Department of Biomedical Engineering.\n\nThe forum is 
- open to all and will take place in IBB 1128 on Monday\, February 10th from
-  3:00 - 4:00PM\, with a science networking session to follow from 4:00 - 4
- :30PM. Free light refreshments will be provided during the networking sess
- ion.\n\nThe Center for Microbial Dynamics and Infection [2] will host a sp
- ecial Coronavirus Forum\, featuring three short talks spanning real-time s
- equence analysis (by Trevor Bedford\, Fred Hutch\, joining via video confe
- rence)\, outbreak strength estimation (by Joshua Weitz\, BioSci\, GT)\, an
- d drug development (by Phil Santangelo\, BME\, GT). The forum is open to a
- ll and will take place in IBB 1128 on Monday 2/10 from 3-4pm with science 
- networking to follow from 4-4:30pm. Light refreshments to follow.\n\nLinks
- :\n[0]  http://hg.gatech.edu/node/632138#0\n[1]  http://hg.gatech.edu/node
- /632130#0\n[2]  https://microdynamics.gatech.edu/\n[3]  http://www.fredhut
- ch.org/en/faculty-lab-directory/bedford-trevor.html\n[4]  http://bioscienc
- es.gatech.edu/people/joshua-weitz\n[5]  http://bme.gatech.edu/bme/faculty/
- Philip-Santangelo
-LOCATION:Petit Biotechnology Building\, Room 1128 - 791 Atlantic Dr\, Atla
- nta\, GA 30332
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Career advice: resumes\, elevator pitches & more with Michael Laug
- hter
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200210T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200211T003000Z
-UID:http://hg.gatech.edu/node/629399#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nEnjoy dinner and career advice\, including disc
- ussion of resumes\, elevator pitches\, and more with Michael Laughter of t
- he Center for Career Discovery and Development (C2D2). Get prepared for jo
- b searches and for seeking internships.\n\nMichael Laughter is the Educati
- onal and Outreach Communications Manager in the Center for Career Discover
- y and Development. He has an MA in Technical and Expository Writing from t
- he University of Arkansas [1] and an MFA in poetry from the University of 
- New Orleans [2].\n\nHe began at Georgia Tech in 2001\, teaching technical 
- communications in the School of Literature\, Communication\, and Culture [
- 3]\, and later\, in Electrical and Computer Engineering [4]\, where he tau
- ght the communications components to junior-level labs and senior design. 
- At every level of instruction at Tech\, he incorporated career preparation
- \, work shopping resume and cover-letter crafting\, as well as interview t
- ips\, and targeting job openings based on an acquired skill or skill sets.
-  Laughter authored the chapters in the GT 1000 freshman introduction class
-  textbook on resume and cover letter-crafting\, and has served as guest le
- cturer in numerous departments across campus on all aspects of career acqu
- isition and preparation.\n\nLinks:\n[0]  http://hg.gatech.edu/node/629399#
- 0\n[1]  http://www.uark.edu/\n[2]  http://www.uno.edu/\n[3]  http://www.lc
- c.gatech.edu/\n[4]  https://www.ece.gatech.edu/
-LOCATION:Stein House/4th St. Apts. A\, 733 Techwood Drive\, Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Victory over Violence: Joyce McCauley-Benner of Feminists for Life
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200211T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200211T010000Z
-UID:http://hg.gatech.edu/node/632216#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nStudents for Life
-  at Georgia Tech is honored to welcome Joyce McCauley-Benner of Feminists 
- for Life to campus!\n\nJoyce weaves her personal story of pregnancy after 
- rape along with experiences from her advocacy efforts to help audiences un
- derstand the powerful connection between the exploitation of women and the
-  exploitation of abortion. As a pro-life feminist\, Joyce has also worked 
- as a racial justice facilitator and community organizer\, and currently ov
- ersees a utility assistance program for low-income families in addition to
-  her pro-life feminist work.This event is free to attend\, all of the Geor
- gia Tech and greater Atlanta communities are welcome to attend. No tickets
-  are required\, and refreshments will be provided. Join us for an unforget
- table evening!\n\nLinks:\n[0]  http://hg.gatech.edu/node/632216#0\n[1]  ht
- tps://www.facebook.com/events/800550183764782/
-LOCATION:D.M. Smith Room 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ASCE/AEES Career Fair
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200211T140000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200211T200000Z
-UID:https://gatech.campuslabs.com/engage/event/5574023
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nA career d
- evelopment opportunity offered to Civil and Environmental Engineering stud
- ents that allows them to interface with companies and possible earn intern
- ships\, co-ops\, or full-time offers. This career fair is spread over two 
- days and features several prominent firms within the industry.\n\nLinks:\n
- [0]  https://gatech.campuslabs.com/engage/event/5574023
-LOCATION:Student Center Ballroom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nano@Tech: Direct Write Processing of 3D Composite Nanostructures 
- and 2D Electronic Materials using Focused Beams of Molecules and Electrons
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200211T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200211T180000Z
-UID:http://hg.gatech.edu/node/629948#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nDirect Write Processing of 3D Composite Nanostructures and 2D Electronic
-  Materials using Focused Beams of Molecules and Electrons\nProf. Andrei Fe
- dorov - School of Mechanical Engineering\, Georgia Tech\nAbstract: Focused
-  Electron Beam Induced Processing (FEBIP) is a powerful method for atom-by
- -atom fabrication of topologically complex nanostructures from a variety o
- f materials. It has potential to provide a comprehensive processing enviro
- nment for emerging electronic and quantum devices based on 2D materials. W
- e are developing a family of multi-mode energized micro/nano-jet technique
- s for local precursor delivery to resolve the FEBID challenges and to expa
- nd the range of useful precursors from gas to liquid phase for broader FEB
- IP applications. Energized micro/nano-jets of thermally or electro-kinetic
- ally energized precursors in both gas and liquid phase provide unique capa
- bilities for localized delivery of precursor molecules to the substrate\, 
- thus establishing locally controlled deposition/etching site for FEBIP. Un
- derstanding of fascinating and interacting chemistry and physics on the mo
- st fundamental level will be discussed as a route to develop new FEBIP mod
- es and applications to emerging electronic and quantum devices based on 2D
-  materials.\n\nBio: Andrei G. Fedorov is Rae S. and Frank H. Chaired Profe
- ssor in the School of Mechanical Engineering and the Petit Institute for B
- ioengineering and Biosciences at Georgia Tech. His current research focuse
- s on electron-beam-mediated nanomanufacturing\, MEMS-enabled bioanalytical
-  instrumentation\, thermal management of high performance electronics\, an
- d power generation with synergetic CO2 capture. Fedorov has authored/co-au
- thored over 200 archival articles in premier technical journals. His resea
- rch has led to development of new technologies for various applications\, 
- resulting in over 40 issued US patents and pending patent applications. Fo
- r his inventions of biomedical devices\, the World Technology Network (WTN
- )\, in cooperation with AAAS Science Magazine\, CNN\, and leading technolo
- gy companies\, selected Fedorov as a WTN Associate and one of the twenty-f
- ive “most innovative people and organizations in the science and technol
- ogy world” nominated for the 2005 World Technology Award in Health and M
- edicine. He was recognized with the US National Aeronautics and Space Admi
- nistration (NASA) Invention & Contribution Board Award for development of 
- catalytic reactor technologies\, as well as multiple inventor recognition 
- awards from the Semiconductor Research Corporation (SRC) and Microelectron
- ics Advanced Research Corporation (MARCO).\n\nLinks:\n[0]  http://hg.gatec
- h.edu/node/629948#0\n[1]  http://ien.gatech.edu
-LOCATION:Marcus Nanotechnology Building 1117-1118 | 345 Ferst Drive | Atla
- nta GA | 30332
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Society of Women Engineers General Body Meeting
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200211T221500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200212T000000Z
-UID:http://hg.gatech.edu/node/624549#15
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nCome out to our general body meeting every Tues
- day from 5:15 to 7 PM in Smithgall Student Services (Flag Building) Room 1
- 17.\n\n5:15-5:45 PM Free dinner and social time with our members and offic
- ers\n\n5:45-6 PM: Announcements and Upcoming Events Reminders\n\n6-7 PM: S
- ocial Hour or Company Sponsored Event (Please check our weekly newletter f
- or the upcoming company or activity of the week!)\n\nIf you have any quest
- ions\, please feel free to email our President\, Toral Kadakia\, at swepre
- sident@gmail.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/624549#15\n
- [1]  swepresident@gmail.com\n[2]  https://www.facebook.com/GeorgiaTechSWE/
-LOCATION:Room 117\, Smithgall Student Services (Flag) Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valentine's Day Pizza Party and Movie Night
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200211T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200212T000000Z
-UID:https://gatech.campuslabs.com/engage/event/5544644
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nDo you lov
- e Grand Challenges to "pizzas"? Then join us February 11th\, 6PM-8:45PM in
-  Brittain Rec. to top your own mini pizza\, play Valentine's themed games\
- , and make cards for local assisted living homes!\n\nWe will also be scree
- ning a Valentine's themed movie--vote here to help us choose which one: ht
- tps://forms.gle/MEEBMwAeA7fcEfej8\n\nLove is in the air\, so we'd love to 
- see you there!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/
- 5544644
-LOCATION:Brittain Rec.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Transfer Student Association PAL-entine's Day Celebration
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200211T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200212T010000Z
@@ -12324,6 +12071,20 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AGSC Movie Night
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210212T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210213T010000Z
+UID:http://hg.gatech.edu/node/644087#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
+ aduate students\nStatus: published\n\nAfrican Graduate Students Connect @ 
+ GT (AGSC) will be having her first social this Friday at MSE G011. There w
+ ill be a lot of food (jollof rice\, chicken\, fried plantain\, etc.) but p
+ lease come on time. Please join us by participating in this long-standing 
+ tradition at AGSC. Hope to see you soon!\n\nLinks:\n[0]  http://hg.gatech.
+ edu/node/644087#0
+LOCATION:Molecular Science and Engineering Building\, Room G011
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:中国新年活动
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210212T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210213T000000Z
@@ -12832,6 +12593,29 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Christian Campus Fellowship\, 767 Techwood Dr. NW or Online
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Virtual Pi Day 5k
+DTSTART;VALUE=DATE:20210312
+DTEND;VALUE=DATE:20210313
+UID:http://hg.gatech.edu/node/644110#0
+DESCRIPTION:Intended audience: Public\nExtras: Free food\, Freebies\nStatu
+ s: published\n\nRegistration for the Pi Day 5k Virtual Run is now open! Th
+ e 4th Annual run/walk event will have the same 3.14 mile distance and awes
+ ome t-shirts the community has come to know\, but with plenty of time to c
+ omplete your 5k safely! Participants have between Friday\, March 12 and Tu
+ esday\, March 16 to complete their 5k.\n\nAfter your run/walk\, stop by th
+ e CRC’s tables for refreshments and your complimentary long sleeve t-shi
+ rt:\nFriday\, March 12: 8 a.m. - 4 p.m.\nMonday\, March 15: 2 p.m. - 4 p.m
+ .\nTuesday\, March 16: 2 p.m. - 4 p.m.\n\nStudents\, faculty\, staff\, alu
+ mni\, families\, and non-CRC members are welcome to participate.\n\nRegist
+ er by Feb. 22 at 11:59 p.m. to secure your preferred size long-sleeve even
+ t t-shirt for just $5. Complimentary registration is available\, with shir
+ t size subject to availability. Register before Tuesday\, March 16 at 3:14
+  p.m. here >> [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/644110#0\n[1] 
+  https://mycrc.gatech.edu/Program/GetProducts?classification=91951787-a96a
+ -49aa-b977-dcc405edf43a
+LOCATION:Campus Recreation Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Scheller Lunchtime Live: How to Build Consumer/Brand Relationships
   in the Age of Digital Revolution
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210312T170000Z
@@ -12882,6 +12666,75 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Virtual Pi Day 5k
+DTSTART;VALUE=DATE:20210313
+DTEND;VALUE=DATE:20210314
+UID:http://hg.gatech.edu/node/644110#1
+DESCRIPTION:Intended audience: Public\nExtras: Free food\, Freebies\nStatu
+ s: published\n\nRegistration for the Pi Day 5k Virtual Run is now open! Th
+ e 4th Annual run/walk event will have the same 3.14 mile distance and awes
+ ome t-shirts the community has come to know\, but with plenty of time to c
+ omplete your 5k safely! Participants have between Friday\, March 12 and Tu
+ esday\, March 16 to complete their 5k.\n\nAfter your run/walk\, stop by th
+ e CRC’s tables for refreshments and your complimentary long sleeve t-shi
+ rt:\nFriday\, March 12: 8 a.m. - 4 p.m.\nMonday\, March 15: 2 p.m. - 4 p.m
+ .\nTuesday\, March 16: 2 p.m. - 4 p.m.\n\nStudents\, faculty\, staff\, alu
+ mni\, families\, and non-CRC members are welcome to participate.\n\nRegist
+ er by Feb. 22 at 11:59 p.m. to secure your preferred size long-sleeve even
+ t t-shirt for just $5. Complimentary registration is available\, with shir
+ t size subject to availability. Register before Tuesday\, March 16 at 3:14
+  p.m. here >> [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/644110#1\n[1] 
+  https://mycrc.gatech.edu/Program/GetProducts?classification=91951787-a96a
+ -49aa-b977-dcc405edf43a
+LOCATION:Campus Recreation Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual Pi Day 5k
+DTSTART;VALUE=DATE:20210314
+DTEND;VALUE=DATE:20210315
+UID:http://hg.gatech.edu/node/644110#2
+DESCRIPTION:Intended audience: Public\nExtras: Free food\, Freebies\nStatu
+ s: published\n\nRegistration for the Pi Day 5k Virtual Run is now open! Th
+ e 4th Annual run/walk event will have the same 3.14 mile distance and awes
+ ome t-shirts the community has come to know\, but with plenty of time to c
+ omplete your 5k safely! Participants have between Friday\, March 12 and Tu
+ esday\, March 16 to complete their 5k.\n\nAfter your run/walk\, stop by th
+ e CRC’s tables for refreshments and your complimentary long sleeve t-shi
+ rt:\nFriday\, March 12: 8 a.m. - 4 p.m.\nMonday\, March 15: 2 p.m. - 4 p.m
+ .\nTuesday\, March 16: 2 p.m. - 4 p.m.\n\nStudents\, faculty\, staff\, alu
+ mni\, families\, and non-CRC members are welcome to participate.\n\nRegist
+ er by Feb. 22 at 11:59 p.m. to secure your preferred size long-sleeve even
+ t t-shirt for just $5. Complimentary registration is available\, with shir
+ t size subject to availability. Register before Tuesday\, March 16 at 3:14
+  p.m. here >> [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/644110#2\n[1] 
+  https://mycrc.gatech.edu/Program/GetProducts?classification=91951787-a96a
+ -49aa-b977-dcc405edf43a
+LOCATION:Campus Recreation Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual Pi Day 5k
+DTSTART;VALUE=DATE:20210315
+DTEND;VALUE=DATE:20210316
+UID:http://hg.gatech.edu/node/644110#3
+DESCRIPTION:Intended audience: Public\nExtras: Free food\, Freebies\nStatu
+ s: published\n\nRegistration for the Pi Day 5k Virtual Run is now open! Th
+ e 4th Annual run/walk event will have the same 3.14 mile distance and awes
+ ome t-shirts the community has come to know\, but with plenty of time to c
+ omplete your 5k safely! Participants have between Friday\, March 12 and Tu
+ esday\, March 16 to complete their 5k.\n\nAfter your run/walk\, stop by th
+ e CRC’s tables for refreshments and your complimentary long sleeve t-shi
+ rt:\nFriday\, March 12: 8 a.m. - 4 p.m.\nMonday\, March 15: 2 p.m. - 4 p.m
+ .\nTuesday\, March 16: 2 p.m. - 4 p.m.\n\nStudents\, faculty\, staff\, alu
+ mni\, families\, and non-CRC members are welcome to participate.\n\nRegist
+ er by Feb. 22 at 11:59 p.m. to secure your preferred size long-sleeve even
+ t t-shirt for just $5. Complimentary registration is available\, with shir
+ t size subject to availability. Register before Tuesday\, March 16 at 3:14
+  p.m. here >> [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/644110#3\n[1] 
+  https://mycrc.gatech.edu/Program/GetProducts?classification=91951787-a96a
+ -49aa-b977-dcc405edf43a
+LOCATION:Campus Recreation Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CCF Trivia Lunch
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210315T154500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210315T174500Z
@@ -12905,6 +12758,29 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFree lunch and trivia e
  begins at 11:50am and 12:50pm.\n\nLinks:\n[0]  https://gatech.campuslabs.c
  om/engage/event/6891744
 LOCATION:Christian Campus Fellowship (CCF)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual Pi Day 5k
+DTSTART;VALUE=DATE:20210316
+DTEND;VALUE=DATE:20210317
+UID:http://hg.gatech.edu/node/644110#4
+DESCRIPTION:Intended audience: Public\nExtras: Free food\, Freebies\nStatu
+ s: published\n\nRegistration for the Pi Day 5k Virtual Run is now open! Th
+ e 4th Annual run/walk event will have the same 3.14 mile distance and awes
+ ome t-shirts the community has come to know\, but with plenty of time to c
+ omplete your 5k safely! Participants have between Friday\, March 12 and Tu
+ esday\, March 16 to complete their 5k.\n\nAfter your run/walk\, stop by th
+ e CRC’s tables for refreshments and your complimentary long sleeve t-shi
+ rt:\nFriday\, March 12: 8 a.m. - 4 p.m.\nMonday\, March 15: 2 p.m. - 4 p.m
+ .\nTuesday\, March 16: 2 p.m. - 4 p.m.\n\nStudents\, faculty\, staff\, alu
+ mni\, families\, and non-CRC members are welcome to participate.\n\nRegist
+ er by Feb. 22 at 11:59 p.m. to secure your preferred size long-sleeve even
+ t t-shirt for just $5. Complimentary registration is available\, with shir
+ t size subject to availability. Register before Tuesday\, March 16 at 3:14
+  p.m. here >> [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/644110#4\n[1] 
+  https://mycrc.gatech.edu/Program/GetProducts?classification=91951787-a96a
+ -49aa-b977-dcc405edf43a
+LOCATION:Campus Recreation Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Food4Lives Service with CCF
