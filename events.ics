@@ -2,296 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Transfer Student Association PAL-entine's Day Celebration
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200211T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200212T010000Z
-UID:https://gatech.campuslabs.com/engage/event/5574018
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin TSA T
- uesday\, February 11th for a PAL-entine's Day Celebration!\n\nThere will b
- e Karaoke\, Sweet Treats\, and lots of FUN!\n\nLinks:\n[0]  https://gatech
- .campuslabs.com/engage/event/5574018
-LOCATION:CRC
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Career Services Interviewing Workshop
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200211T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200212T003000Z
-UID:http://hg.gatech.edu/node/630489#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: draft\n\nWhen did talking about yourself 
- become such a challenge? What do recruiters really want to know when they 
- ask you about your interest in the position? What is the difference betwee
- n a technical interview and a behavioral one? Learn how to master your int
- erviewing skills and land your dream job.\n\nLinks:\n[0]  http://hg.gatech
- .edu/node/630489#0
-LOCATION:Klaus 1116
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ivan Allen Cup: Bowling
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200212T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200212T020000Z
-UID:http://hg.gatech.edu/node/631552#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
- aduate students\nStatus: published\n\nThe second event in the Ivan Allen C
- up competition is bowling at Tech Rec in the Student Center on February 11
- th\, from 7-9PM. There will be FREE PIZZA and bowling! Drop by whenever yo
- u are free. RSVP [1].\n\nLinks:\n[0]  http://hg.gatech.edu/node/631552#0\n
- [1]  https://docs.google.com/forms/d/e/1FAIpQLSe1XnxwBV-Evi81p47OeTS8VKf5O
- BcRiJLqG24ubxcW5xnThQ/viewform
-LOCATION:Tech Rec (Student Center)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Velocity Worship Service
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200212T003000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200212T013000Z
-UID:https://gatech.campuslabs.com/engage/event/5441753
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
- worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
- h.campuslabs.com/engage/event/5441753
-LOCATION:Baptist Student Union
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Velocity Worship Service
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200212T003000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200212T020000Z
-UID:https://gatech.campuslabs.com/engage/event/5441738
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
- worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
- h.campuslabs.com/engage/event/5441738
-LOCATION:Baptist Student Union
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mindfulness Book (Session 1)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200212T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200212T170000Z
-UID:http://hg.gatech.edu/node/630266#0
-DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\nStatus: p
- ublished\n\nJoin the Georgia Tech community in reading and discussing the 
- book "Mindfulness Meditation: Your Guide to Achieving a Life of Peace by R
- educing Stress and Anxiety through Mindfulness Meditation" by Daniel K. Ba
- rton\, while also learning simple mindfulness exercises that you can easil
- y incorporate into your daily routine. Light refreshments will be provided
- .\n\nSession 1 meets from Feb. 12 through March 4.\n\nLinks:\n[0]  http://
- hg.gatech.edu/node/630266#0\n[1]  https://gatech.co1.qualtrics.com/jfe/for
- m/SV_0pMQP7EqznzDSK1\n[2]  https://healthinitiatives.gatech.edu/well-being
- /mental/mindfulness
-LOCATION:Crescent Room\, Student Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SCL IRC Seminar: Feb 2020
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200212T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200212T183000Z
-UID:http://hg.gatech.edu/node/623649#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nStatus: draft\n\nThe Supply Chain and Logistics 
- Institute hosts a series of monthly seminars open to interested faculty\, 
- students and corporate partners as well as the general public. If you are 
- interested in attending any of the sessions\, please review the below info
- rmation and register online.\n\nSCL IRC Seminar Title\nMartin Savelsbergh\
- n\nSCL IRC Seminar description paragraph.\n\nRegister Online for upcoming 
- SCL IRC seminars [1]\n\nAttendance to the sessions is complimentary for SC
- L corporate partners\, SCL Industry Advisory Board members\, SCL affiliate
- d faculty and students\, and students enrolled in the Masters in Supply Ch
- ain Engineering program.\n\nTo take advantage of the included lunch\, you 
- must register by deadline noted on the registration page.\n\nIf you have a
- ny questions\, please email event@scl.gatech.edu.\n\nLinks:\n[0]  http://h
- g.gatech.edu/node/623649#0\n[1]  https://www.scl.gatech.edu/sclirc/seminar
- s/register\n[2]  http://www.manufacturing.gatech.edu/directions
-LOCATION:GTMI: 1st floor Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SCL IRC Seminar: Last Mile Logistics
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200212T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200212T183000Z
-UID:http://hg.gatech.edu/node/626965#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nStatus: published\n\nThe Supply Chain and Logist
- ics Institute hosts a series of monthly seminars open to interested facult
- y\, students and corporate partners as well as the general public. If you 
- are interested in attending any of the sessions\, please review the below 
- information and register online.\n\nSESSION OVERVIEW\n\nThe success of on-
- demand platforms to obtain a ride\, e.g.\, Uber and Lyft\, which rely on c
- rowd-sourced transportation capacity\, has radically changed the view on t
- he potential and benefits of crowd-sourced transportation and delivery. Ma
- ny retail stores\, for example\, are examining the pros and cons of introd
- ucing crowd-sourced delivery in their omni-channel strategies. We discuss 
- recent trends in this rapidly evolving area\, and highlight challenges and
-  opportunities.\n\nSESSION SPEAKER\n\nMartin Savelsbergh [1]\, James C. Ed
- enfield Chair and Professor and Co-Director Supply Chain and Logistics Ins
- titute\n\nRegister Online for upcoming SCL IRC seminars [2]\nAttendance to
-  the sessions is complimentary for SCL corporate partners\, SCL Industry A
- dvisory Board members\, SCL affiliated faculty and students\, and students
-  enrolled in the Masters in Supply Chain Engineering program.\n\nTo take a
- dvantage of the included lunch\, you must register by deadline noted on th
- e registration page.\n\nIf you have any questions\, please email event@scl
- .gatech.edu.\n\nLinks:\n[0]  http://hg.gatech.edu/node/626965#0\n[1]  http
- s://www.scl.gatech.edu/users/martin-savelsbergh\n[2]  https://www.scl.gate
- ch.edu/sclirc/seminars/register
-LOCATION:GTMI 1st floor auditorium OR ISyE Main Building\, 2nd Floor Atriu
- m (to be confirmed 30 days out)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Galentine's Day
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200212T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200213T000000Z
-UID:https://gatech.campuslabs.com/engage/event/5579327
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nWe will be celebrating 
- Galentine's Day with food and fun times with friends!\n\nLinks:\n[0]  http
- s://gatech.campuslabs.com/engage/event/5579327
-LOCATION:Klaus 1116
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Thank a Professor
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200213T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200213T164500Z
-UID:https://gatech.campuslabs.com/engage/event/5579336
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAt this meeting we will
-  be making cards to thank our ECE professors for all that they do! We'll a
- lso have Zaxby's for lunch!\n\nLinks:\n[0]  https://gatech.campuslabs.com/
- engage/event/5579336
-LOCATION:Van Leer C340
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Capital One Info Session
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200213T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200213T170000Z
-UID:https://gatech.campuslabs.com/engage/event/5589951
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nThere will
-  be a quick overview of Capital One\, who they are as a company\, the jobs
-  they are currently recruiting for and other opportunities. Afterward\, th
- ere will be a panel discussion on being out in the workplace.\n\nWhether y
- ou're in business\, technology\, or any other major\, we would love to hav
- e you come by for the information as well as the food!\n\nPlease email pri
- de@gatech.edu if we can provide any accommodations to make this event more
-  accessible or if you have any questions.\n\nLinks:\n[0]  https://gatech.c
- ampuslabs.com/engage/event/5589951
-LOCATION:Klaus 1447
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GVU Center Brown Bag: Howard Wertheimer "Sustainable Campus Develo
- pment - Why it Matters"
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200213T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200213T180000Z
-UID:http://hg.gatech.edu/node/632062#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nExtras: Free food\nStatus: draft\n\nAbstract:\n\
- nGeorgia Tech has been at the forefront of sustainability since its incept
- ion in the 1880's. This is evidenced by the fact that the original brick b
- uildings on campus were made from indigenous Georgia red clay\, and Grant 
- Field was the home to football\, baseball and track. Fast forward to 2019 
- where we have just built the Kendeda Building for Innovative Sustainable D
- esign\, slated to be one of the most sustainable buildings in the southeas
- t\, on the path to meet the stringent requirements of the Living Building 
- Challenge. Come learn about the evolution of Georgia Tech's 400-acre ecosy
- stem and our commitment to sustainable campus development.\n\nSpeaker Bio:
- \n\nHoward Wertheimer is a Fellow in the American Institute of Architects 
- and a LEED Accredited Professional. From 2006-2019\, Howard served as the 
- AVP for Capital Planning & Space Management and Institute Architect at the
-  Georgia Institute of Technology where he had strategic oversight of the C
- ampus Master Plan\, Landscape Master Plan\, Historic Preservation Plan\, c
- ampus-wide sustainability initiatives\, curation of public art\, and most 
- things visually exposed. He was responsible for the aesthetics and visual 
- vocabulary of the campus\, which currently includes over 16M square feet o
- f space in 200 buildings on 400 acres in Atlanta\, Georgia.\n\nWhile at Ge
- orgia Tech\, Howard lead the development of the Kendeda Building for Susta
- inable Design and has delivered numerous papers across the country on Geor
- gia Tech’s Living Building journey\, anticipated to be one the most envi
- ronmentally advanced education and research buildings on a university camp
- us in the Southeast.\n\nHoward is currently the Executive Vice President a
- nd Chief Operating Officer at the Piedmont Park Conservancy\, a non-profit
-  overseeing the stewardship\, operations\, financial procedures\, programs
-  and overall performance to cultivate substantial and sustainable growth o
- f Atlanta’s iconic Piedmont Park\, which is the heart and soul of the ci
- ty.\n\nSchedule of Brown Bag Speakers Spring 2020 [1]\n\nLinks:\n[0]  http
- ://hg.gatech.edu/node/632062#0\n[1]  https://www.gvu.gatech.edu/events/upc
- oming\n[2]  http://www.tsrb.gatech.edu/
-LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
- a\, Ga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Google Accessibility Networking Event
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200213T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200213T193000Z
-UID:http://hg.gatech.edu/node/632033#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nGoogle will be on the Georgia Tec
- h campus Thursday\, February 13\, for a special networking event in the Ma
- rcus Nanotechnology Building\, rooms 1116-1118. The event is from 11:30 am
-  - 2:30 pm and will feature three (3) separate one-hour sessions.\n\nThose
-  interested in general employment or careers at Google\; accessible softwa
- re product design\; or special Google programs for inclusive employment\, 
- are especially welcome.\n\nFree pre-registration is kindly requested at th
- e link below or QR code on accompanied flyer. (Each session is different\,
-  so you may sign-up for one or multiple sessions): [1]\n\nThis event will 
- serve refreshments and is sponsored by Google Accessibility and the Georgi
- a Tech ABLE Alliance.\n\nLinks:\n[0]  http://hg.gatech.edu/node/632033#0\n
- [1]  https://docs.google.com/forms/d/e/1FAIpQLSc-lf_7oKv3zdc8hlmt-OPxpCJ-1
- y4Hk2-ejkQXkhFdcYNarQ/viewform
-LOCATION:Marcus Nanotechnology Building\; rooms 1116-1118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Google Accessibility Networking Event Presented by ABLE Alliance
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200213T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200213T193000Z
-UID:http://hg.gatech.edu/node/631943#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nGoogle will be at the Georgia Tech campus on Thursday\, February 13 for 
- a special Google Networking event in the Marcus Nanotechnology building Ro
- oms 1116-1118.\n\nThe event is from 11:30am-2:30pm\, with 3 separate 1-hou
- r sessions. Anyone interested in general employment or careers at Google\;
-  accessible software product design\; or special Google programs for inclu
- sive employment\, are especially welcome. This event will serve refreshmen
- ts and is sponsored by Google Accessibility and the Georgia Tech ABLE Alli
- ance.\n\nFree pre-registration is kindly requested. Use below link or QR c
- ode on the attached flyer. Each session is different\, so you may sign-up 
- for one or multiple sessions: [1]\n\nLinks:\n[0]  http://hg.gatech.edu/nod
- e/631943#0\n[1]  https://docs.google.com/forms/d/e/1FAIpQLSc-lf_7oKv3zdc8h
- lmt-OPxpCJ-1y4Hk2-ejkQXkhFdcYNarQ/viewform
-LOCATION:Marcus Nanotechnology Building\, Rooms 1116-1118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Academic Empowerment Fair
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200213T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200213T220000Z
-UID:http://hg.gatech.edu/node/631788#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nExtras: Free food\, Freebies\nStatus: published
- \n\nIn celebration of Black History Month\, OMED and AAMI will host its an
- nual Academic Empowerment Fair (AEF)\, February 13\, 2020\, at Georgia Tec
- h.\n\nJoin us for a series of academic stations including undergraduate an
- d graduate advising\, resume review\, and mock interviews with corporate p
- artners. Additionally\, the AEF will host an Organization and Resource Exp
- o in the Student Center Ballroom\, and will conclude with a dynamic facult
- y-led seminar-dinner\, providing an opportunity for students and faculty t
- o dialogue about the strengths and challenges of matriculation uniquely im
- pacting their demographics.\n\nStudent Registration:\n\nStudents can regis
- ter to attend at: [1]\n\nFaculty/Staff/Grad Volunteer Registration:\n\nGT 
- employees may register to volunteer at: [2]\n\nLinks:\n[0]  http://hg.gate
- ch.edu/node/631788#0\n[1]  https://www.signupgenius.com/go/30e0a4facac22a0
- fa7-academic\n[2]  https://www.signupgenius.com/go/30e0a4facac22a0fa7-acad
- emic1
-LOCATION:Georgia Tech Student Center\, Third Floor
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pride Alliance General Meeting
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200213T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200214T000000Z
-UID:http://hg.gatech.edu/node/632420#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free Food\nStatus: published\n
- \nJoin us this Thursday to celebrate Valentine's Day\, love\, happiness\, 
- and community with candy and decorations!\n\nAs always\, there will be foo
- d and fun times for everyone! Feel free to invite your friends!\n\nY'all m
- eans all: this is an event for at LGBTQIA+ folks and their allies. Please 
- email pride@gatech.edu [2] if we can provide any accommodations to make th
- is event more accessible or if you have any questions.\n\nLinks:\n[0]  htt
- p://hg.gatech.edu/node/632420#0\n[1]  https://gatech.campuslabs.com/engage
- /event/5589956\n[2]  pride@gatech.edu\n[3]  https://gatech.campuslabs.com/
- engage/organization/pride-alliance
-LOCATION:Mason 3132
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MATLAB Deep Learning OnRamp
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200213T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200214T010000Z
@@ -12170,6 +11880,22 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:CCF\, 767 Techwood Drive NW
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dinner Jacket: Mechanical Engineering Young Alumni
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210216T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210217T000000Z
+UID:http://hg.gatech.edu/node/644204#0
+DESCRIPTION:Intended audience: Undergraduate students\nStatus: published\n
+ \nOur Young Alumni Council is hosting 6 dinners this semester! Each Dinner
+  Jacket is focused on their degrees and industries- pick the one that inte
+ rests you!\n\nThis Dinner is with (Morgan Bentley ME '16)\, Sid Gore (ME 
+ ’17)\, D’Andre Waller (ME ’17)\, and Conor Martin (ME ’16). The al
+ umni’s hopeful takeaway from this event? Network\, network\, network!\n\
+ nLinks:\n[0]  http://hg.gatech.edu/node/644204#0\n[1]  https://www.gtsaa.c
+ om/s/1481/alumni/17/interior-wide.aspx?sid=1481&gid=39&pgid=20393&cid=4524
+ 6&ecid=45246&crid=0&calpgid=3165&calcid=23811
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CCF The Event
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210219T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210219T040000Z
@@ -12407,6 +12133,22 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  nks:\n[0]  http://hg.gatech.edu/node/643576#0\n[1]  https://www.linkedin.c
  om/events/6760612973212958720/
 LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practice MCAT
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210306T130000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210306T220000Z
+UID:http://hg.gatech.edu/node/644199#0
+DESCRIPTION:Intended audience: Undergraduate students\nStatus: published\n
+ \nJoin us for a Princeton Review Practice Exam! Prepare like you would for
+  the actual exam and please arrive before 8 a.m.\, as we plan to begin pro
+ mptly at 8 a.m. Bring a laptop\, snacks\, water and a bright spirit!\n\nTh
+ e event is free to all MAPS members and $20 to all non-members (cash and o
+ nline payment accepted).\n\nHope to see you there!\n\n[1]\n\nLinks:\n[0]  
+ http://hg.gatech.edu/node/644199#0\n[1]  https://epay.gatech.edu/C20793_us
+ tores/web/product_detail.jsp?PRODUCTID=4577\n[2]  https://gatech.campuslab
+ s.com/engage/event/6891733
+LOCATION:eber Space Science and Technology Building\, ASDL Lab 30332-0150
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCF Trivia Lunch
