@@ -2,92 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:GTMI Lunch and Learn Series - Energy-Efficient Manufacturing Towar
- d Global Sustainability
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200217T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200217T180000Z
-UID:http://hg.gatech.edu/node/632037#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nSynthetic Biology for the Development of Biosensors and Diagnostics\n\nA
- ssociate Professor\, Mark Styczynski\nGeorgia Tech ChBE\n\nLinks:\n[0]  ht
- tp://hg.gatech.edu/node/632037#0
-LOCATION:GTMI 114
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GTMI Lunch and Learn Series - Synthetic Biology for the Developmen
- t of Biosensors and Diagnostics
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200217T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200217T180000Z
-UID:http://hg.gatech.edu/node/632046#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nSynthetic Biology for the Development of Biosensors and Diagnostics\n\nM
- ark Styczynski\, Associate Professor\, Georgia Tech School of Chemical and
-  Biomolecular Engineering\n\nLinks:\n[0]  http://hg.gatech.edu/node/632046
- #0
-LOCATION:GTMI 114
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:General Meeting with Bennet & Pless
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200218T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200218T170000Z
-UID:https://gatech.campuslabs.com/engage/event/5613144
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nBennett & 
- Pless is a highly regarded specialty structural engineering firm founded i
- n 1964 in Atlanta. Over the past 55 years\, the firm has developed a reput
- ation for being industry leaders in the niche markets in which it has chos
- en to practice\, rather than evolving into a traditional large generalist 
- structural engineering firm. As a result of this focus\, the firm has deve
- loped specialized skills and attracted highly experienced engineers. This 
- has resulted in being called upon to execute more complex structural engin
- eering projects.\n\nThe firm has offices in multiple states in the US\, bu
- t provides specialty services across the country and internationally. Benn
- ett & Pless’ sister company BPL Enclosure Engineering provides enclosure
-  and ETFE engineering throughout the US and Western Europe.\n\nLinks:\n[0]
-   https://gatech.campuslabs.com/engage/event/5613144
-LOCATION:Mason Building - room 1133
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The World Is Your Oyster: Experience and Advice From 10 Years Afte
- r Tech
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200218T200000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200218T213000Z
-UID:http://hg.gatech.edu/node/632566#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nThe World Is Your Oyster: Experie
- nce and Advice From 10 Years After Tech\n\nPresentation followed by a Q&A\
- n\nJosh Krisinger\, Delta Air Lines\n\nSpecialist for Crew Resources Infli
- ght Service\n\nFebruary 18\, 2020 | 3:00 P.M.\nRoom 115\, Swann Building\n
- 613 Cherry St. NW\n\nRefreshments will be served.\n\nRSVP Encouraged: RSVP
-  here [1]\n\nPlease contact Kestra James ( kjames61@gatech.edu [2] )\, the
-  event coordinator\, for more information.\n\nHosted by the School of Mode
- rn Languages in collaboration with the Atlanta Global Studies Center. This
-  event is also co-sponsored by GMC 6003 and SPAN 6503\, professional portf
- olio courses.\n\nLinks:\n[0]  http://hg.gatech.edu/node/632566#0\n[1]  htt
- ps://forms.office.com/Pages/ResponsePage.aspx?id=u5ghSHuuJUuLem1_Mvqgg-tDr
- 2_96FhHtj_UpoK_W4xUMUxBVEhKSzNROE03VVJMUlgwQVU2NVRFOC4u\n[2]  kjames61@gat
- ech.edu
-LOCATION:Swann 115\, 613 Cherry St NW
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Society of Women Engineers General Body Meeting
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200218T221500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200219T000000Z
-UID:http://hg.gatech.edu/node/624549#16
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nCome out to our general body meeting every Tues
- day from 5:15 to 7 PM in Smithgall Student Services (Flag Building) Room 1
- 17.\n\n5:15-5:45 PM Free dinner and social time with our members and offic
- ers\n\n5:45-6 PM: Announcements and Upcoming Events Reminders\n\n6-7 PM: S
- ocial Hour or Company Sponsored Event (Please check our weekly newletter f
- or the upcoming company or activity of the week!)\n\nIf you have any quest
- ions\, please feel free to email our President\, Toral Kadakia\, at swepre
- sident@gmail.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/624549#16\n
- [1]  swepresident@gmail.com\n[2]  https://www.facebook.com/GeorgiaTechSWE/
-LOCATION:Room 117\, Smithgall Student Services (Flag) Building
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Velocity Worship Service
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200219T003000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200219T013000Z
@@ -11876,6 +11790,30 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:CCF\, 767 Techwood Drive NW
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Prepare Emergency Food Aid with Urban Recipe
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210302T183000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210302T210000Z
+UID:https://gatech.campuslabs.com/engage/event/6927107
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nHelp support food secur
+ ity in our community and prepare emergency food aid with Urban Recipe! Joi
+ n GC March 2nd\, 1:30PM-4PM to help package and organize food at Urban Rec
+ ipe\, a nonprofit providing meals to Atlantans facing food insecurity.\n\n
+ Volunteers must wear a mask and closed toed shoes\, as well as maintain 10
+  feet of distance between themselves and other volunteers while serving.\n
+ \nTo serve\, volunteers must sign up for our March 2nd\, 1:30PM-4PM volunt
+ eer shift before our shift: https://volunteer.handsonatlanta.org/opportuni
+ ty/a0C1H00001tuoNCUAY\n\nTransportation to and from Georgia Tech's campus 
+ via Uber or Lyft will be reimbursed. To receive a reimbursement\, email a 
+ screenshot of your ride receipts to mreddic3@gatech.edu. Please plan to le
+ ave campus around 1:00PM to ensure our group has sufficient time to check 
+ in. We will meet at 970 Jefferson St NW\nAtlanta\, GA 30318. Students will
+  have the chance to enjoy lunch before the event on GC and will be emailed
+  more details closer to the event.\n\nWe are so excited to give back to th
+ e community with you this March!\n\nLinks:\n[0]  https://gatech.campuslabs
+ .com/engage/event/6927107
+LOCATION:Urban Recipe
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CCF The Event
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210305T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210305T040000Z
@@ -12368,6 +12306,32 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  ]  https://gatech.campuslabs.com/engage/event/6869229\n[2]  https://us02we
  b.zoom.us/j/84188146312\n[3]  https://linktr.ee/gtccf
 LOCATION:Christian Campus Fellowship\, 767 Techwood Dr. NW or Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Volunteer as an Urban Farmer at Truly Living Well Farms
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210319T130000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210319T170000Z
+UID:https://gatech.campuslabs.com/engage/event/6926933
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nGo green with GC this S
+ t. Patrick's Day season and volunteer at an urban farm! Join GC Friday\, M
+ arch 19th 9AM-1PM to help care for crops at Truly Living Well\, a nonprofi
+ t providing sustainably-farmed fresh food to Atlantans facing food insecur
+ ity. Volunteer can expect to weed and cultivate beds\,\nmulch\, process co
+ mpost and harvesting produce.\n\nVolunteers must wear a mask\, long pants\
+ , clothes that can get dirty\, and closed toed shoes\, as well as maintain
+  6 feet of distance between themselves and other volunteers while serving.
+ \n\nTo serve\, volunteers must sign up for our March 19th\, 9AM-1PM volunt
+ eer shift before our shift: https://volunteer.handsonatlanta.org/opportuni
+ ty/a0C1H00001tuu31UAA\n\nTransportation to and from Georgia Tech's campus 
+ via Uber or Lyft will be reimbursed. To receive a reimbursement\, email a 
+ screenshot of your ride receipts to mreddic3@gatech.edu. Please plan to le
+ ave campus around 8:30AM to ensure our group has sufficient time to check 
+ in. We will meet at the Collegetown Farm at 324 Lawton Street SW\, Atlanta
+ \, GA 30310.\n\nStudents will have the chance to enjoy breakfast before or
+  lunch after the event on GC and will be emailed more details closer to th
+ e event.\n\nWe are so excited to give back to the community with you this 
+ March!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6926933
+LOCATION:Truly Living Well Farm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCF Trivia Lunch
