@@ -2,274 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Velocity Worship Service
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200219T003000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200219T013000Z
-UID:https://gatech.campuslabs.com/engage/event/5441754
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
- worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
- h.campuslabs.com/engage/event/5441754
-LOCATION:Baptist Student Union
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Velocity Worship Service
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200219T003000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200219T020000Z
-UID:https://gatech.campuslabs.com/engage/event/5441739
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
- worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
- h.campuslabs.com/engage/event/5441739
-LOCATION:Baptist Student Union
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mindfulness Book (Session 1)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200219T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200219T170000Z
-UID:http://hg.gatech.edu/node/630266#1
-DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\nStatus: p
- ublished\n\nJoin the Georgia Tech community in reading and discussing the 
- book "Mindfulness Meditation: Your Guide to Achieving a Life of Peace by R
- educing Stress and Anxiety through Mindfulness Meditation" by Daniel K. Ba
- rton\, while also learning simple mindfulness exercises that you can easil
- y incorporate into your daily routine. Light refreshments will be provided
- .\n\nSession 1 meets from Feb. 12 through March 4.\n\nLinks:\n[0]  http://
- hg.gatech.edu/node/630266#1\n[1]  https://gatech.co1.qualtrics.com/jfe/for
- m/SV_0pMQP7EqznzDSK1\n[2]  https://healthinitiatives.gatech.edu/well-being
- /mental/mindfulness
-LOCATION:Crescent Room\, Student Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Think Globally\, Teach Locally -- Faculty Workshop
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200219T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200219T180000Z
-UID:http://hg.gatech.edu/node/631801#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: published\n\nThink Globally\, Teach Local
- ly\nGraduating global citizens is one of Georgia Tech’s strategic goals\
- , yet many students don’t have the opportunity to study abroad. What are
-  we doing at home to help students engage in global challenges and develop
-  intercultural communication skills? In this workshop\, we invite particip
- ants to consider how integrating the United Nations Sustainable Developmen
- t Goals (SDGs) into their courses will help foster global citizenship no m
- atter where students are learning. The UN SDGs [1] are a set of 17 broad a
- nd interconnected goals that address the global challenges we face. We arg
- ue that the SDGs can be incorporated into any course regardless of discipl
- ine. Faculty members from diverse programs at Georgia Tech will share exam
- ples of how they have incorporated the SDGs into their courses. Workshop p
- articipants will have the opportunity to articulate their vision for how t
- he SDGs may work in their own course and identify (and propose) resources 
- that can help support them in realizing it.\n\nWorkshop facilitators:\n\n-
-  Rebecca Watts Hull\, Ph.D.\, Service Learning and Partnerships Specialist
- \, Serve Learn Sustain\n\n- Evan Mallen\, Ph.D.\, Postdoctoral Scholar\, C
- enter for Teaching and Learning\n\n- Sebnem Ozkan\, Ph.D.\, Associate Dire
- ctor\, Atlanta Global Studies Center\n\n- Carol Subiño Sullivan\, Ph.D.\,
-  Assistant Director\, Faculty Teaching and Learning Initiatives\, Center f
- or Teaching and Learning\n\nGeorgia Tech Faculty Presenters:\n\n- Shataksh
- ee Donghde\, Ph.D.\, Associate Professor\, Economics\n\n- Jairo Garcia\, P
- h.D.\, Part-time Lecturer\, City and Regional Planning\n\n- Britta Kallin\
- , Ph.D. Associate Professor\, German\n\n- Raghuram Pucha\, Ph.D.\, Senior 
- Lecturer\, Mechanical Engineering\n\nTo Register: [2]\n\nLunch is provided
-  for registered participants.\n\nThos event is co-organized by the Center 
- for Teaching and Learning\; [3] Serve-Learn-Sustain [4]\; and the Atlanta 
- Global Studies Center. [5]\n\nLinks:\n[0]  http://hg.gatech.edu/node/63180
- 1#0\n[1]  https://www.un.org/sustainabledevelopment/sustainable-developmen
- t-goals/\n[2]  https://ctl.gatech.edu/content/think-globally-teach-locally
- \n[3]  https://www.ctl.gatech.edu/\n[4]  https://serve-learn-sustain.gatec
- h.edu/\n[5]  https://atlantaglobalstudies.gatech.edu/
-LOCATION:Student Center\, Piedmont Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brown Bag Get Together
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200219T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200219T180000Z
-UID:http://hg.gatech.edu/node/632481#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\nStatus: 
- published\n\nLet's share lunch and get to know each other while we talk ab
- out our favorite things: graduate school and families!\n\nLinks:\n[0]  htt
- p://hg.gatech.edu/node/632481#0\n[1]  https://www.facebook.com/groups/2252
- 674924944238/
-LOCATION:Student Center Cypress Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BHS Sexual Harassment In The Workplace Panel 
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200219T200000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200219T210000Z
-UID:https://gatech.campuslabs.com/engage/event/5613133
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nYour questions matter.\
- n\nJoin the Briaerean Honor Society for a Q&A panel with Georgia Tech prof
- essionals from VOICE\, the Counseling Center\, and the Title IX office. Sn
- acks will be provided.\n\nRSVP [1] and submit your questions at [2]\n\nLin
- ks:\n[0]  https://gatech.campuslabs.com/engage/event/5613133\n[1]  https:/
- /docs.google.com/forms/d/e/1FAIpQLSdWuELeBeh8hPtFUcJw2blTWD5nHkRvpnK1qoPhV
- yu-Ajnkmw/viewform?usp=sf_link\n[2]  http://bhs.gatech.edu/
-LOCATION:Student Success Center\, President's Suite D
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Salsa Squared: Salsa con Salsa
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200219T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200219T230000Z
-UID:http://hg.gatech.edu/node/632500#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nExtras: Free Food\nStatus: published\n\nThe Span
- ish Speaking Organization (SSO) and the GT Salsa Club will be hosting a fr
- ee 30 minute salsa dance lesson. Prior to the lesson\, free snacks includi
- ng chips and salsa will be served as participants socialize together and p
- ractice their Spanish conversational skills. All members of the Georgia Te
- ch community are welcome! No prior Spanish or dancing experience required.
- \n\nPlease follow SSO on Instagram ( @gt_spanish_speaking_org [2] ) to get
-  more information about other upcoming events!\n\nSpanish Speaking Organiz
- ation and GT Salsa Club are collaborating for a special event! Salsa Club 
- is going to give us a salsa lesson (suitable for beginners)\, so it’s th
- e perfect opportunity to show off your dance moves. We will also serve chi
- ps and salsa. If you like to dance or simply have fun\, this event is for 
- you!\n\nLinks:\n[0]  http://hg.gatech.edu/node/632500#0\n[1]  https://gate
- ch.campuslabs.com/engage/event/5610245\n[2]  https://www.instagram.com/gt_
- spanish_speaking_org/
-LOCATION:Peachtree Room\, Student Center Commons
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Academy of Medicine Lecture: Heather Hyde Minor
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200219T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200220T003000Z
-UID:http://hg.gatech.edu/node/630379#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nHeather Hyde Mino
- r is a professor of art and architectural history at the University of Not
- re Dame. A specialist in the history of European art and architecture from
-  1600 to 1800\, Prof. Minor's scholarly interests include the city of Rome
- \, prints and print culture. Her most recent book\, Piranesi's Lost Words\
- , was published by Pennsylvania State University Press in 2015. She is cur
- rently preparing an exhibition about Piranesi that will open at Princeton 
- University in 2020 and just completed a new book\, Piranesi Unbound\, toge
- ther with Carolyn Yerkes.\n\nHeather has been the recipient of fellowships
-  from the National Endowment for the Humanities\, the National Humanities 
- Center\, the Samuel H. Kress Foundation\, and the Sterling and Francine Cl
- ark Art Institute. Her book\, The Culture of Architecture in Enlightenment
-  Rome (Penn State Press\, 2010)\, won the 2010 Helen and Howard R. Marraro
-  Prize in Italian History and the 2013 honorable mention for the Alice Dav
- is Hitchcock Book Award from the Society of Architectural Historians. She 
- is currently the academic director of Notre Dame's Rome Global Gateway.\n\
- nHeather will present a lecture\, titled\, "What Piranesi Drew." Considere
- d one of the first moderns\, Giovanni Battista Piranesi (1720-1778) made m
- any things during his lifetime from buildings to furniture\, prints to tea
- pots. He also drew. More than 700 drawings by his hand survive. Focusing o
- n his scratch paper pile\, this talk will illuminate what Piranesi drew on
-  those sheets and what they can tell us about hsi working method and his s
- ubject.\n\nLinks:\n[0]  http://hg.gatech.edu/node/630379#0
-LOCATION:Historic Academy of Medicine
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:President's Day President Trivia
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200219T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200220T010000Z
-UID:http://hg.gatech.edu/node/631673#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nThe History and Sociology Club wi
- ll be hosting a President's Day trivia event with free pizza\, prizes for 
- the winners\, and voter registration. Register here. [1] You can also subm
- it questions here [2].\n\nLinks:\n[0]  http://hg.gatech.edu/node/631673#0\
- n[1]  https://forms.gle/mfG48vFYwVxcEmHy5\n[2]  https://forms.gle/F6rkn4ZM
- QHYMrJsY6
-LOCATION:Old Civil Engineering Building\, Room 204
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Assertiveness Training
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200220T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200220T164500Z
-UID:https://gatech.campuslabs.com/engage/event/5613102
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome out to hear from G
- T Counseling Center about assertiveness and enjoy food from Pita Pit!\n\nL
- inks:\n[0]  https://gatech.campuslabs.com/engage/event/5613102
-LOCATION:Van Leer C340
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EWH General Body Meeting 02/20
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200220T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200220T170000Z
-UID:https://gatech.campuslabs.com/engage/event/5460262
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome out to our general
-  body meeting to get updated about activities and events!!! FREE FOOD will
-  be provided so come to Klaus 1443 at 11 AM on Thursday\, February 20!\n\n
- Links:\n[0]  https://gatech.campuslabs.com/engage/event/5460262
-LOCATION:Klaus 1443
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Faculty & Staff Art Exhibit closing reception
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200220T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200220T170000Z
-UID:http://hg.gatech.edu/node/631492#0
-DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\nStatus: p
- ublished\n\nLinks:\n[0]  http://hg.gatech.edu/node/631492#0\n[1]  https://
- arts.gatech.edu/faculty-and-staff-art-exhibit
-LOCATION:Ferst Center for the Arts\, Richards Gallery
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GVU Center Brown Bag: Elisabetta Matsumoto "Twisted Topological Ta
- ngles or: the knot theory of knitting"
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200220T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200220T180000Z
-UID:http://hg.gatech.edu/node/632236#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nExtras: Free food\nStatus: review\n\nAbstract:\n
- \nImagine a 1D curve\, then use it to fill a 2D manifold that covers an ar
- bitrary 3D object – this computationally intensive materials challenge h
- as been realized in the ancient technology known as knitting. This process
-  for making functional materials 2D materials from 1D portable cloth dates
-  back to prehistory\, with the oldest known examples dating from the 11th 
- century BCE. Knitted textiles are ubiquitous as they are easy and cheap to
-  create\, lightweight\, portable\, flexible and stretchy. As with many fun
- ctional materials\, the key to knitting’s extraordinary properties lies 
- in its microstructure.\n\nAt the 1D level\, knits are composed of an inter
- locking series of slip knots. At the most basic level there is only one ma
- nipulation that creates a knitted stitch – pulling a loop of yarn throug
- h another loop. However\, there exist hundreds of books with thousands of 
- patterns of stitches with seemingly unbounded complexity.\n\nThe topology 
- of knitted stitches has a profound impact on the geometry and elasticity o
- f the resulting fabric. This puts a new spin on additive manufacturing –
-  not only can stitch pattern control the local and global geometry of a te
- xtile\, but the creation process encodes mechanical properties within the 
- material itself. Unlike standard additive manufacturing techniques\, the i
- nnate properties of the yarn and the stitch microstructure has a direct ef
- fect on the global geometric and mechanical outcome of knitted fabrics.\n\
- nSpeaker Bio:\n\nElisabetta Matsumoto is an assistant professor in the Sch
- ool of Physics at Georgia Institute of Technology. Her physics research ce
- nters around the relationship between geometry and material properties in 
- soft systems\, including liquid crystals\, 3D printing and textiles. She i
- s also interested in using sewing\, 3D printing and virtual reality in mat
- hematical art and education. She is the recipient of an NSF CAREER award. 
- She studied physics at the University of Pennsylvania\, earning her BA and
-  MS in 2007 and her PhD in 2011. She has been knitting and crochet since s
- he was about 12 and has been sewing for longer than she can remember.\n\nS
- chedule of Brown Bag Speakers Spring 2020 [1]\n\nLinks:\n[0]  http://hg.ga
- tech.edu/node/632236#0\n[1]  https://www.gvu.gatech.edu/events/upcoming\n[
- 2]  http://www.tsrb.gatech.edu/
-LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
- a\, Ga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Biopolymer Characterization Core facility Seminar
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200220T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200220T180000Z
-UID:http://hg.gatech.edu/node/632243#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \nStatus: published\n\nThis presentation will cover the principles of oper
- ation and theory of the methods\; Experimental design and sample requireme
- nts\; Examples of applications in the study of binding interactions of bio
- logical molecules and their thermal stability. Light refreshments served. 
- RSVP by 02/13/2020 to ernie.fox@malvern.com\n\nTest for binding affinity w
- ith ITC or thermal stability with DSC\n\n- No label needed\n- Done directl
- y in solution\n- Information you get from ITC: KD\, stoichiometry...\n- In
- formation you get from DSC: Tm...\n\nSome of the sample types that can be 
- tested on the MicroCal PEAQ ITC and DSC:\n\nITC\n\n- Protein\, protein int
- eractions\n- Protein\, small molecule interaction\n- Protein\, DNA and RNA
-  interaction\n- Nanoparticles\, protein interaction\n- Nanoparticles\, DNA
- / RNA interaction\n- And more…\n\nDSC\n\n- Protein\n- Nucleic acids\n- L
- iposomes\n- Virus or VLP\n- And more…\n\nLinks:\n[0]  http://hg.gatech.e
- du/node/632243#0\n[1]  https://petitinstitute.gatech.edu/research/biopolym
- er-core
-LOCATION:Krone Engineered Biosystems Building\, Room 5029 - Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Startup Exchange Midtown Mixer
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200221T210000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200221T230000Z
@@ -11678,6 +11410,32 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  nta.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643371#4\n[1]  http://www.g
  tccf.org/compassion/
 LOCATION:CCF\, 767 Techwood Drive NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Strengthening Community Resilience & Moving Toward Transformative 
+ Change
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210225T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210225T173000Z
+UID:http://hg.gatech.edu/node/644442#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nBlack\, Indigenou
+ s\, People of Color (BIPOC) staff and faculty are invited to join or drop-
+ in for an empowering 90-minute lunchtime virtual SIT. This will be a safe\
+ , meditative space for connecting in solidarity. Designed for our well-bei
+ ng\, we will relinquish customary fatigue\, hypervigilance\, and internali
+ zed subjugation (which results from constant producing\, making\, accompli
+ shing\, serving and/or doing). Instead\, we will engage in radical acts of
+  stillness\, meditation\, conscious awareness\, interconnectedness\, self-
+ care\, self-compassion\, and care of one another.\n\nFacilitator/Session L
+ eader: angel Kyodo williams is a writer\, activist\, ordained Zen priest a
+ nd the author of Being Black: Zen and the Art of Living with​ Fearlessne
+ ss and Grace (Viking Press 2000)\, and co-author of ​ Radical Dharma: Ta
+ lking Race\, Love\, and Liberation​ (North Atlantic Books).\n\nCo-hosted
+  by Institute Diversity\, Equity\, and Inclusion and Employee Resource Gro
+ ups\n\nRegister at: [1].\n\nLinks:\n[0]  http://hg.gatech.edu/node/644442#
+ 0\n[1]  https://sdie.gatech.edu/strengthening-community-resilience-moving-
+ toward-transformative-change
+LOCATION:Online (Viewing link will be sent after registration)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCF The Event
