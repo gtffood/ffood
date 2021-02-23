@@ -2,53 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Game Night Spring 2020
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200222T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200223T043000Z
-UID:https://gatech.campuslabs.com/engage/event/5611745
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nWe are back with anothe
- r edition of Game Night and it only gets better\, with more board games - 
- simple as well as strategic ones in our kitty. We have some interesting vi
- deo games as well! Come join us on Saturday\, February 22nd from 6 PM onwa
- rd at 10th and Home Activity Area. Also enjoy an amazing spread of home co
- oked authentic Indian food! There is a $5 entry fee for this event\, and a
- ll proceeds go towards projects supporting education of underprivileged ch
- ildren in India...Come for the cause\, stay for the fun!\n\nLinks:\n[0]  h
- ttps://gatech.campuslabs.com/engage/event/5611745
-LOCATION:10th and Home Activity Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:International Mother Language Day 2020
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200223T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200223T023000Z
-UID:http://hg.gatech.edu/node/632715#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
- aduate students\nExtras: Free food\nStatus: published\n\nInternational Mot
- her Language Day (IMLD) is a worldwide annual observance held on February 
- 21 to promote awareness of linguistic and cultural diversity and promote m
- ultilingualism. First announced by UNESCO in November 1999\, it was formal
- ly recognized by the United Nations General Assembly in a resolution estab
- lishing 2008 as the International Year of Languages.\n\nThe idea to celebr
- ate International Mother Language Day was the initiative of Bangladesh. In
-  Bangladesh\, the 21st of February is the anniversary of the day when Bang
- ladeshis fought for recognition for the Bangla language.\n\nWe are invitin
- g all students\, faculty\, and staff at Georgia Tech to take part in the e
- vent and indulge in some native food.\n\nInternational Mother Language Day
-  ( IMLD ) is a worldwide annual observance held on 21 February to promote 
- awareness of linguistic and cultural diversity and promote multilingualism
- . First announced by UNESCO on 17 November 1999\, it was formally recogniz
- ed by the United Nations General Assembly in a resolution establishing 200
- 8 as the International Year of Languages. The idea to celebrate Internatio
- nal Mother Language Day was the initiative of Bangladesh. In Bangladesh\, 
- the 21st of February is the anniversary of the day when Bangladeshis fough
- t for recognition for the Bangla language. We are inviting all students\, 
- faculty\, and staff at Georgia Tech to take part in the event and indulge 
- in some cultural food.\n\nLinks:\n[0]  http://hg.gatech.edu/node/632715#0\
- n[1]  https://gatech.campuslabs.com/engage/event/5611652\n[2]  http://gtbs
- a.org/
-LOCATION:Student Center Theater
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:GTMI Lunch and Learn Series - Enterprise Resource Planning Softwar
  e Solutions for Manufacturers
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200224T170000Z
@@ -11829,6 +11782,49 @@ DESCRIPTION:Intended audience: Public\nExtras: Free food\, Freebies\nStatu
   https://mycrc.gatech.edu/Program/GetProducts?classification=91951787-a96a
  -49aa-b977-dcc405edf43a
 LOCATION:Campus Recreation Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Invasive Species Removal +Nature Walk + Museum Visit At Fernbank N
+ atural History Museum
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210313T133000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210313T183000Z
+UID:http://hg.gatech.edu/node/644560#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
+ aduate students\nStatus: published\n\nCome join GT Trailblazers at Fernban
+ k Forest! From 9-12\, we'll be taking care of the forest by removing invas
+ ive species guided by the resident ecologist\, then for those who'd like t
+ o stay he'll guide us on a nature walk around the forest ~12-1. Afterwards
+  anyone who'd like to can stay and check out the natural history museum ~1
+ -3 p.m.\n\nWear long pants and long sleeves\, bring water\, gloves\, and l
+ unch!\n\nWe will observe all COVID guidelines and observe mask wearing and
+  social distance at all times. Service and forest walk will be outdoors\, 
+ museum is indoors but attendance in museum at one time is capped. You're w
+ elcome to stay for any and all events or just the invasive species removal
+ .\n\nPlease provide your own transport to the park if possible. If you nee
+ d a ride\, meet at the culc turnaround at 8:30 to be picked up\, and we'll
+  coordinate rides back depending how long people would like to stay. Other
+ wise\, meet at the main steps of the natural history museum. Hope to see y
+ ou there!\n\nIf you're not on our GroupMe\, join! It's where we do all our
+  communication and event coordination: https://groupme.com/join_group/6130
+ 2475/FckvQhw9 [1].\n\nLinks:\n[0]  http://hg.gatech.edu/node/644560#0\n[1]
+   http://come join gt trailblazers at fernbank forest! from 9-12\, we'll b
+ e taking care of the forest by removing invasive species guided by the res
+ ident ecologist\, then for those who'd like to stay he'll guide us on a na
+ ture walk around the forest ~12-1. afterwards anyone who'd like to can sta
+ y and check out the natural history museum ~1-3pm. wear long pants and lon
+ g sleeves\, bring water \, gloves\, and lunch! we will observe all covid g
+ uidelines and observe mask wearing and social distance at all times. servi
+ ce and forest walk will be outdoors\, museum is indoors but attendance in 
+ museum at one time is capped. you're welcome to stay for any and all event
+ s or just the invasive species removal. please provide your own transport 
+ to the park if possible. if you need a ride\, meet at the culc turnaround 
+ at 8:30 to be picked up\, and we'll coordinate rides back depending how lo
+ ng people would like to stay. otherwise\, meet at the main steps of the na
+ tural history museum. hope to see you there! if you're not on our groupme\
+ , join! it's where we do all our communication and event coordination: htt
+ ps://groupme.com/join_group/61302475/FckvQhw9\n[2]  https://groupme.com/jo
+ in_group/61302475/FckvQhw9
+LOCATION:Fernbank Natural History Museum\, 767 Clifton Rd\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Virtual Pi Day 5k
