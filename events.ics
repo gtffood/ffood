@@ -2,154 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:GTMI Lunch and Learn Series - Enterprise Resource Planning Softwar
- e Solutions for Manufacturers
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200224T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200224T180000Z
-UID:http://hg.gatech.edu/node/630986#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nEnterprise Resource Planning Software Solutions for Manufacturers\n\nSpe
- aker:\n\n- Brad Driver\, Microsoft Partner\n\nCompany:\n\n- Microsoft\, AC
- E Microtechnology\n\nLinks:\n[0]  http://hg.gatech.edu/node/630986#0
-LOCATION:GTMI 114
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FirstGen Donut Social
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200224T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200224T230000Z
-UID:https://gatech.campuslabs.com/engage/event/5614024
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFirstGen’s goal is to
-  make a positive impact on our campus by fostering a sense of pride among 
- the first-generation student population. We will be enjoying donuts while 
- talking with other first-generation students. This is a great opportunity 
- to meet the first-generation community!\n\nThis event will take place from
-  5:00-6:00 pm on Monday\, February 24 th in Skiles 168!\n\nLinks:\n[0]  ht
- tps://gatech.campuslabs.com/engage/event/5614024
-LOCATION:Skiles 168
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GTARCC Third General Meeting
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200224T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200225T000000Z
-UID:https://gatech.campuslabs.com/engage/event/5630375
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is a reminder that
-  we have our next general meeting for the semester TOMORROW at 6 pm in the
-  Kendeda Building Room 230! This will be a bit of a longer meeting since w
- e will be voting on club t-shirts\, learning about preparedness\, and prov
- iding information on the Volunteer Connections signup and helping anyone w
- ho has been having trouble signing up. Please come with questions that we 
- can help/troubleshoot with you!\n\nLet us know if you can't make it to the
-  meeting so we can provide additional details afterwards.\n\nHope to see y
- ou tomorrow\,\n\nGTARCC Board\n\nLinks:\n[0]  https://gatech.campuslabs.co
- m/engage/event/5630375
-LOCATION:Kendeda 230
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:General Meeting with WJE
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200225T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200225T170000Z
-UID:https://gatech.campuslabs.com/engage/event/5630350
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJack Janne
- y founded WJE in 1956 as Janney and Associates\, a one-person engineering 
- consultancy. More than sixty years later\, WJE has evolved into an interna
- tional interdisciplinary company that has been called upon to solve some o
- f the world's most challenging construction-related problems.\n\nLinks:\n[
- 0]  https://gatech.campuslabs.com/engage/event/5630350
-LOCATION:Mason Building - room 1133
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nano@Tech: Lisa Yaszek - School of Literature\, Media\, and Commun
- ications\, Georgia Tech
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200225T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200225T180000Z
-UID:http://hg.gatech.edu/node/629950#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nLisa Yaszek - School of Literature\, Media\, and Communications\, Georgi
- a Tech\nAbstract: TBA\n\nBio: TBA\n\nLinks:\n[0]  http://hg.gatech.edu/nod
- e/629950#0\n[1]  http://ien.gatech.edu
-LOCATION:Pettit Microelectronics Building 102 A&B | 791 Atlantic Drive | A
- tlanta GA | 30332
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Future of Media: Careers in Atlanta's Changing Media Landscape
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200225T213000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200225T230000Z
-UID:http://hg.gatech.edu/node/632710#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nOn Tuesday\, February 25th\, at 4:30 pm at the 
- Bill Moore Student Success Center\, the School of Literature\, Media\, and
-  Communications is thrilled to host "The Future of Media: Careers in Atlan
- ta's Changing Media Landscape."\n\nThe Future of Media will feature a pane
- l discussion with a number of leading local media thought leaders\, includ
- ing Saeed Ahmed of CNN's Culture\, Trends\, and Enterprises and Gracie Bon
- ds Staples of the Atlanta Journal Constitution. This is a great opportunit
- y to meet leading figures in the field\, learn about Atlanta's changing me
- dia industry\, and explore career opportunities. Please join us for this e
- xciting event.\n\nMark your Calendars!\n\nThe Future of Media: Careers in 
- Atlanta's Changing Media Landscape\n\nPanel Discussion featuring local med
- ia thought leaders\, including:\n\nSaeed Ahmed\, Culture\, Trends\, and En
- terprises\, CNN\nGracie Bonds Staples\, Atlanta Journal Constitution\naddi
- tional panelists to be announced\n\nTuesday\, February 25th\, 4:30 pm\nPre
- sident's Suite\, B\nBill Moore Student Success Center\n\nRefreshments prov
- ided.\n\nLinks:\n[0]  http://hg.gatech.edu/node/632710#0
-LOCATION:Bill Moore Student Success Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GTSWE Spring Networking Night
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200225T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200226T000000Z
-UID:https://gatech.campuslabs.com/engage/event/5632856
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nCome out a
- nd network with company representatives from AT&T\, Clarkston Consulting\,
-  Eaton\, FM Global\, GTRI\, PwC\, and Southern Company! The event will be 
- in speed dating fashion\, with you having the chance to receive advice fro
- m female engineers from diverse industries. This event will occur in place
-  of the General Body Meeting.\n\nSWE Networking Night will be held on T ue
- sday\, February 25th from 5:00 - 7:00 pm in the Student Center Ballroom.\n
- \nDinner is provided\, dress is business-casual\, and be sure to bring cop
- ies of your resume if you have one. Please RSVP at tinyurl.com/swesnn20 [1
- ]\n\n**In addition to our #heforswe campaign\, this is event is open to al
- l students on campus (with eligibility for extra SWE points to our members
- )**\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5632856\n[1
- ]  https://gatech.campuslabs.com/engage/submitter/organization/society-of-
- women-engineers/eventsubmission/tinyurl.com/swesnn20
-LOCATION:Student Center Ballroom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Society of Women Engineers General Body Meeting
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200225T221500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200226T000000Z
-UID:http://hg.gatech.edu/node/624549#17
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nCome out to our general body meeting every Tues
- day from 5:15 to 7 PM in Smithgall Student Services (Flag Building) Room 1
- 17.\n\n5:15-5:45 PM Free dinner and social time with our members and offic
- ers\n\n5:45-6 PM: Announcements and Upcoming Events Reminders\n\n6-7 PM: S
- ocial Hour or Company Sponsored Event (Please check our weekly newletter f
- or the upcoming company or activity of the week!)\n\nIf you have any quest
- ions\, please feel free to email our President\, Toral Kadakia\, at swepre
- sident@gmail.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/624549#17\n
- [1]  swepresident@gmail.com\n[2]  https://www.facebook.com/GeorgiaTechSWE/
-LOCATION:Room 117\, Smithgall Student Services (Flag) Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Student Opportunities Dinner
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200225T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200226T000000Z
-UID:http://hg.gatech.edu/node/632744#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
- aduate students\nStatus: published\n\nJoin the Office of Leadership Educat
- ion and Development for our student opportunities event on Tuesday\, Feb. 
- 25 from 5:30 - 7 p.m. During the event\, attendees will learn about the po
- ssible opportunities to get involved in LEAD while enjoying provided food 
- and drinks. We hope to see you there!\n\nLinks:\n[0]  http://hg.gatech.edu
- /node/632744#0\n[1]  https://gatech.campuslabs.com/engage/organization/lea
- dership-education-and-development
-LOCATION:Brittain Rec Classroom
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Velocity Worship Service
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200226T003000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200226T013000Z
@@ -11384,6 +11236,19 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFree lunch and trivia e
 LOCATION:Christian Campus Fellowship (CCF)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Explore LLC Monday Call Night
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210302T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210302T030000Z
+UID:https://gatech.campuslabs.com/engage/event/6923462
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDaily Call Night where 
+ we will be calling incoming first-year students in the College of Sciences
+ . Each caller will call 25 incoming students. Students making calls can al
+ so join a Bluejeans call if they need help or have questions about making 
+ calls: https://bluejeans.com/2560634424\n\nFood will be provided each nigh
+ t!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6923462
+LOCATION:West Commons 
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Food4Lives Service with CCF
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210302T183000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210302T203000Z
@@ -11418,6 +11283,46 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nHelp support food secur
  e community with you this March!\n\nLinks:\n[0]  https://gatech.campuslabs
  .com/engage/event/6927107
 LOCATION:Urban Recipe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Explore LLC Tuesday Call Night
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210303T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210303T030000Z
+UID:https://gatech.campuslabs.com/engage/event/6923493
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDaily Call Night where 
+ we will be calling incoming first-year students in the College of Sciences
+ . Each caller will call 25 incoming students. Students making calls can al
+ so join a Bluejeans call if they need help or have questions about making 
+ calls: https://bluejeans.com/2560634424\n\nFood will be provided each nigh
+ t!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6923493
+LOCATION:Caldwell Basement
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Explore LLC Wednesday Call Night
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210304T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210304T030000Z
+UID:https://gatech.campuslabs.com/engage/event/6923530
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDaily Call Night where 
+ we will be calling incoming first-year students in the College of Sciences
+ . Each caller will call 25 incoming students. Students making calls can al
+ so join a Bluejeans call if they need help or have questions about making 
+ calls: https://bluejeans.com/2560634424\n\nFood will be provided each nigh
+ t!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6923530
+LOCATION:West Commons 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Explore LLC Thursday Call Night
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210305T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210305T030000Z
+UID:https://gatech.campuslabs.com/engage/event/6923562
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDaily Call Night where 
+ we will be calling incoming first-year students in the College of Sciences
+  to tell them about our amazing Explore LLC and answer their questions abo
+ ut Tech! Each caller will call 25 incoming students. Students making calls
+  can also join a Bluejeans call if they need help or have questions: https
+ ://bluejeans.com/2560634424\n\nFood will be provided each night!\n\nLinks:
+ \n[0]  https://gatech.campuslabs.com/engage/event/6923562
+LOCATION:West Commons 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCF The Event
@@ -11486,6 +11391,20 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  nks:\n[0]  http://hg.gatech.edu/node/643576#0\n[1]  https://www.linkedin.c
  om/events/6760612973212958720/
 LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Explore LLC Friday Call Night
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210306T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210306T030000Z
+UID:https://gatech.campuslabs.com/engage/event/6923567
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDaily Call Night where 
+ we will be calling incoming first-year students in the College of Sciences
+  to tell them about our amazing Explore LLC and answer their questions abo
+ ut Tech! Each caller will call 25 incoming students. Students making calls
+  can also join a Bluejeans call if they need help or have questions: https
+ ://bluejeans.com/2560634424\n\nFood will be provided each night!\n\nLinks:
+ \n[0]  https://gatech.campuslabs.com/engage/event/6923567
+LOCATION:West Commons 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Practice MCAT
@@ -11933,6 +11852,21 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:CCF\, 767 Techwood Drive NW
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Create-A-Crystal 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210317T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210318T000000Z
+UID:https://gatech.campuslabs.com/engage/event/6952636
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nHave you e
+ ver wanted to see a crystal form right before your eyes? On\, March 17\, 2
+ 021 you will have the chance to! Join us at 7pm in Caldwell basement to le
+ arn all about crystals! Information about their composition\, how they are
+  formed\, and more will be covered. At the end of the information session\
+ , you will get the chance to set up your very own crystal growing kit. RSV
+ P to watch the crystals grow right before your eyes!\n\nLinks:\n[0]  https
+ ://gatech.campuslabs.com/engage/event/6952636
+LOCATION:Caldwell Basement
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CCF The Event
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210318T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210319T030000Z
@@ -12076,6 +12010,32 @@ DESCRIPTION:Intended audience: Graduate students\, Postdoc\, Public\, Unde
  gatech.edu/node/643647#0\n[1]  https://www.linkedin.com/events/67609879691
  73143552/
 LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EcoAddendum - Hike with a Master Naturalist at Sawnee Mountain Pre
+ serve
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210327T120000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210327T180000Z
+UID:http://hg.gatech.edu/node/644644#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
+ aduate students\nStatus: published\n\nCome join GT Trailblazers on a hike 
+ with EcoAddendum's Master Naturalist Kathryn Kolb from 8 a.m. to 2 p.m. at
+  the Sawnee Mountain Preserve! Roughly an hour’s drive north of downtown
+  Atlanta\, Sawnee Mountain is one of the last reaches of lower mountains a
+ s the Appalachians give way to the Georgia Piedmont in metro Atlanta’s n
+ orthern ex-urbs. We’ll hike the Indian Seats Trail\, about 3.8 miles tot
+ al from the visitor’s center. We’ll begin with an introduction to the 
+ history of the area\, then we’ll enjoy a naturalist walk\, discovering w
+ hat our path offers as we hike.\n\nWear comfortable hiking clothes and sho
+ es and bring a mask\, plenty of water\, and some lunch!\n\nWe will observe
+  all COVID guidelines and observe mask wearing and social distance at all 
+ times.\n\nPlease provide your own transportation if possible\, but if you 
+ need a ride\, meet at the CULC turnaround at 8:00 a.m. to be picked up. Ho
+ pe to see you there!\n\nIf you're not on our GroupMe\, join! It's where we
+  do all our communication and event coordination: [1].\n\nLinks:\n[0]  htt
+ p://hg.gatech.edu/node/644644#0\n[1]  https://groupme.com/join_group/61302
+ 475/FckvQhw9
+LOCATION:Sawnee Mountain Preserve\, 4075 Spot Road\, Cumming\, Georiga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCF Trivia Lunch
