@@ -2,291 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Velocity Worship Service
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200226T003000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200226T013000Z
-UID:https://gatech.campuslabs.com/engage/event/5441755
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
- worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
- h.campuslabs.com/engage/event/5441755
-LOCATION:Baptist Student Union
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Velocity Worship Service
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200226T003000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200226T020000Z
-UID:https://gatech.campuslabs.com/engage/event/5441740
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
- worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
- h.campuslabs.com/engage/event/5441740
-LOCATION:Baptist Student Union
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Faculty Fellows - David Torello
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200226T140000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200226T150000Z
-UID:https://gatech.campuslabs.com/engage/event/5480157
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin Dr. David Torello 
- for coffee!\n\nJoin Mechanical Engineering professor Dr. David Torello for
-  coffee! Dr. Torello's research focused on using nonlinear ultrasonic non-
- destructive evaluation (NDE) techniques to characterize material propertie
- s and failure modes in engineering metals. Before coming to Georgia Tech\,
-  Dr. Torello worked with Garmin AT\, conducting thermal and vibration test
- s on avionic GPS units and designing and fabricating avionic GPS packaging
-  and components.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/even
- t/5480157
-LOCATION:Top Time Coffee\, MRDC\, Georgia Tech Campus
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mindfulness Book (Session 1)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200226T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200226T170000Z
-UID:http://hg.gatech.edu/node/630266#2
-DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\nStatus: p
- ublished\n\nJoin the Georgia Tech community in reading and discussing the 
- book "Mindfulness Meditation: Your Guide to Achieving a Life of Peace by R
- educing Stress and Anxiety through Mindfulness Meditation" by Daniel K. Ba
- rton\, while also learning simple mindfulness exercises that you can easil
- y incorporate into your daily routine. Light refreshments will be provided
- .\n\nSession 1 meets from Feb. 12 through March 4.\n\nLinks:\n[0]  http://
- hg.gatech.edu/node/630266#2\n[1]  https://gatech.co1.qualtrics.com/jfe/for
- m/SV_0pMQP7EqznzDSK1\n[2]  https://healthinitiatives.gatech.edu/well-being
- /mental/mindfulness
-LOCATION:Crescent Room\, Student Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Implicit Bias Workshop
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200226T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200226T183000Z
-UID:http://hg.gatech.edu/node/629987#0
-DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nInstitu
- te Diversity\, in collaboration with the Office of the Vice Provost for Gr
- aduate Education and Faculty Development and Georgia Tech’s ADVANCE Prog
- ram\, is offering Implicit Bias Workshops for faculty this spring. All fac
- ulty who serve on reappointment\, promotion\, and/or tenure committees and
-  faculty search committees are required to participate in an Implicit Bias
-  Workshop pursuant to Provost Bras’ memo in October 2016 to academic lea
- ders. However\, all instructional and research faculty are welcomed to att
- end as space permits.\n\nThe goals of these workshops are to increase awar
- eness of the impact of implicit bias and facilitate equitable decision-mak
- ing across myriad processes related to faculty evaluations. As a participa
- nt in the workshop\, you will learn the following:\n\n• An introduction 
- to the concept of implicit bias and how these unconscious\, automatic ment
- al processes may impact behaviors such as evaluating candidates during fac
- ulty search and/or RPT processes.\n\n• Empirical research on vitaes\, le
- tters of recommendations\, and teaching evaluations to illustrate the impa
- ct of implicit bias on decisions.\n\n• Effective practices and strategie
- s for faculty search and RPT committees.\n\nThese workshops will be facili
- tated by Paul Benkeser\, senior associate chair and professor\, Wallace H.
-  Coulter Department of Biomedical Engineering\; Harris Dimitropoulos\, ass
- ociate professor\, School of Architecture\; Robert Kirkman\, associate pro
- fessor\, School of Public Policy\; Mark Mitchell\, associate director\, Ge
- orgia Tech Research Institute\; and/or Michelle Rinehart\, associate dean 
- for academic affairs and outreach\, College of Design.\n\nTo register for 
- one of the workshops\, visit [1]. Lunch will be provided.\n\nGTRI research
-  faculty should register for a GTRI Implicit Bias workshop via StarTrak [2
- ]. Please contact Sarah Cockrell ( [3] or 404-407-6349) for assistance.\n\
- nLinks:\n[0]  http://hg.gatech.edu/node/629987#0\n[1]  http://www.advance.
- gatech.edu/implicit-bias-workshops\n[2]  https://global.hgncloud.com/ga_in
- stitute_tech/ts/home\n[3]  http://sarah.cockrell@gtri.gatech.edu/
-LOCATION:Student Success Center- President’s Suites C and D
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:German Club General Meeting
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200226T183000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200226T193000Z
-UID:http://hg.gatech.edu/node/632746#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nJoin us for a gen
- eral meeting! There will be snacks\, discussion\, and more. All levels wel
- come.\n\nLinks:\n[0]  http://hg.gatech.edu/node/632746#0\n[1]  https://gro
- upme.com/join_group/44096901/8YzKKZ
-LOCATION:Kendeda Room 118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Volunteer Showcase
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200227T153000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200227T183000Z
-UID:http://hg.gatech.edu/node/631976#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nThe MOVE Special 
- Projects Committee is organizing a volunteer showcase which will feature o
- ver fourteen on- and off-campus volunteer organizations! The event is an o
- pportunity for Georgia Tech students to talk face-to-face with groups whos
- e goal is to provide their service to our community here on campus and in 
- the Greater Atlanta area. So come and learn about the wide variety of volu
- nteering you can be a part of! In addition\, there will be food available\
- , including cookies from Tiff's Treats and possibly more!\n\nLinks:\n[0]  
- http://hg.gatech.edu/node/631976#0\n[1]  https://gatech.campuslabs.com/eng
- age/organization/mobilizing-opportunities-for-volunteer-experiences
-LOCATION:Kessler Campanile/Student Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Is Grad School for You?
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200227T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200227T164500Z
-UID:https://gatech.campuslabs.com/engage/event/5637083
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for a panel of 
- grad students to help you determine if grad school is in your future and l
- unch from Alon's Bakery!\n\nLinks:\n[0]  https://gatech.campuslabs.com/eng
- age/event/5637083
-LOCATION:Van Leer C340
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GVU Center Brown Bag: Emma Brunskill "Human-Focused Reinforcement 
- Learning"
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200227T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200227T180000Z
-UID:http://hg.gatech.edu/node/632452#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nExtras: Free food\nStatus: draft\n\nAbstract:\n\
- nThere is increasing excitement about reinforcement learning--a subarea of
-  machine learning for enabling an agent to learn to make good decisions. Y
- et numerous questions and challenges remain for reinforcement learning to 
- help support progress in applications that involve interacting with people
- \, like education\, consumer marketing and healthcare. I will discuss our 
- work on some of the technical challenges that arise in this pursuit\, incl
- uding sample efficiency\, counterfactual reasoning\, robustness\, and appl
- ications to health and education.\n\nSpeaker Bio:\n\nEmma Brunskill is an 
- assistant professor in the Computer Science Department at Stanford Univers
- ity where she leads the AI for Human Impact group. Her work focuses on rei
- nforcement learning in high stakes scenarios--how can an agent learn from 
- experience to make good decisions when experience is costly or risky\, suc
- h as in educational software\, healthcare decision making\, or people-faci
- ng applications. She was previously a professor at Carnegie Mellon Univers
- ity. She is the recipient of multiple early faculty career awards (Nationa
- l Science Foundation\, Office of Naval Research\, Microsoft Research) and 
- her group has received several best research paper nominations (CHI\, EDMx
- 3) and awards (UAI\, RLDM).\n\nSchedule of Brown Bag Speakers Spring 2020 
- [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/632452#0\n[1]  https://www.g
- vu.gatech.edu/events/upcoming\n[2]  http://www.tsrb.gatech.edu/
-LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
- a\, Ga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Voting from Abroad in Latin America
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200227T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200227T180000Z
-UID:http://hg.gatech.edu/node/632792#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nPlease join us fo
- r a brown-bag research talk\, “Voting from Abroad in Latin America: Expl
- aining Turnout\, 1993-2017 ” by Visiting International Scholar\, Dr. Mar
- ía Laura Tagina\, co-sponsored by CHRD\, CLALS\, AGSC\, and the Departmen
- t of Political Science.\n\nThe talk should be of interest to any student o
- f Latin America\, elections\, immigration\, and democracy.\n\nLocation: 10
- 81 Langdale Hall\n\nTime: 12pm\n\nLunch: Brown-Bag\n\nDr. María Laura Tag
- ina ( marialaura.tagina@unsam.edu.ar [1] ) has a PhD in Political Science 
- from Universidad de Salamanca (Spain). She is conducting two research proj
- ects on “ Democracy beyond borders: political rights and electoral parti
- cipation of Latin American emigrants ” and “ Public opinion\, presiden
- tial popularity and electoral support in Argentina. The impact of the poli
- tical and economic context between 1984 and 2015 ”. She participates in 
- two academic cooperation projects abroad\, the Executive Approval Project 
- and the Parliamentary Elites Project of University of Salamanca. She has b
- een a visiting fellow at the Istituto Italiano di Scienze Umane (Florence\
- , Italy)\, the Universidad Autónoma de Madrid\, the Centro de Estudios Av
- anzados de la Fundación Juan March (Madrid\, Spain) and Intitute für Dem
- okratie\, Universität Zurich (Aarau\, Switzerland).\n\nDr. Tagina has pub
- lished on elections in Argentina and Latin America\, political behavior\, 
- transnational vote and public opinion. Her latest publications include the
-  following: Elecciones y partidos en América Latina en el cambio de ciclo
- \, Manuel Alcántara Sáez\, Daniel Buquet y María Laura Tagina (Eds.)\, 
- Centro de Investigaciones Sociológicas\, Madrid\; and Elecciones y cambio
-  de élites en América Latina\, 2014 y 2015\, Manuel Alcántara Sáez y M
- aría Laura Tagina (Eds.)\, Ediciones Universidad de Salamanca\, 2016. In 
- 2015\, Tagina received the Elizabeth Nelson Prize\, awarded by the World A
- ssociation for Public Opinion Research. She currently serves as Director o
- f Revista SAAP\, a scientific journal on Political Science published in Ar
- gentina and sponsored by Sociedad Argentina de Análisis Político.\n\nLin
- ks:\n[0]  http://hg.gatech.edu/node/632792#0\n[1]  marialaura.tagina@unsam
- .edu.ar\n[2]  https://goo.gl/maps/mMwidsnr1qN7RkCH7
-LOCATION:GSU Campus\, Langdale Hall\, Room 1081\, Atlanta\, GA 30303
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PhD Defense by Shannon Owings
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200227T180000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200227T200000Z
-UID:http://hg.gatech.edu/node/632868#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nStatus: published\n\nmy PhD thesis titled "Impor
- tance of Manganese oxides in carbon remineralization in river-dominated co
- ntinental margins and the biogeochemical cycling of arsenic" on February 2
- 7th at 1 pm in Ford EST L1114. My committee members include Dr. Martial Ta
- illefert (advisor\, GT EAS)\, Dr. Yuanzhi Tang (GT\, EAS) Dr. Thomas DiChr
- istina (GT\, BIO)\, Dr. Frank Stewart (Montana State University)\, Dr. Geo
- rge Luther (Univ. of Delaware)\, and Dr. Christophe Rabouille (Univ d'Sacl
- ay\, CEA\, LSCE\, France). My abstract is included below.\n\nBest regards\
- ,\n\nShannon Owings\n\nManganese oxides (MnO2) are ubiquitous in the envir
- onment and play an important role in the transformation and transport of c
- ontaminants in the environment in addition to play a major role in the bio
- geochemical cycling of carbon. This study investigated both aspects of the
- se roles using a combination of laboratory experiments and field work. Fir
- st\, the kinetics of oxidation of the more toxic arsenic form\, arsenite (
- As(III))\, to the less mobile form\, arsenate (As(V))\, by MnO2 was determ
- ined and compared to literature data to investigate the mechanism of the r
- eaction. Subsequently\, the effect of low As(V) concentrations on the anae
- robic microbial respiration of MnO2 and iron oxides\, Fe(OH)3\, were inves
- tigated to shed light into the mechanism of As(V) toxicity in aquatic envi
- ronments. At low As(V) concentrations\, microbial reduction rates were inc
- reased compared to arsenic-free treatments suggesting As(V) at low concent
- rations stimulates metal reduction (MnO2\, Fe(OH)3) in sediments as a resu
- lt of a catalytic cycle in which arsenic is constantly reduced via microbi
- al detoxification and re-oxidized by MnO2. The cumulative findings from th
- is study suggest that arsenic is not simply immobilized in sediments and t
- hat a suite of complex abiotic and microbial processes including adsorptio
- n\, intracellular transport\, and redox reactions may affect the transport
-  of arsenic in the environment\, and ultimately the quality of drinking wa
- ter resources.\n\nIn parallel to laboratory experiments\, manganese cyclin
- g\, and the dominant redox pathways involved in carbon remineralization pr
- ocesses were characterized in marine sediments across the Louisiana shelf 
- and slope that are exposed to mineral and terrestrial organic inputs from 
- the Mississippi River. Although sulfate reduction dominates on the contine
- ntal shelf\, denitrification and microbial manganese reduction appear equa
- lly significant anaerobic respiration processes along the continental slop
- e the closest to the Mississippi River. This study emphasizes how the diff
- erential oxidation kinetics of Mn2+ (slow) and Fe2+ (fast) as well as sedi
- ment transport processes influence the main pathways of carbon degradation
-  in these regions. Overall this thesis emphasizes the importance of charac
- terizing the fundamental molecular processes of complex systems to better 
- understand large scale global biogeochemical cycles.\n\nLinks:\n[0]  http:
- //hg.gatech.edu/node/632868#0
-LOCATION:Ford EST L1114
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CREATE-X Deep Startups: Qualcomm
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200227T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200228T000000Z
-UID:http://hg.gatech.edu/node/632947#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nExtras: Free food\nStatus: published\n\nThe emer
- gence of 3G and 4G led to opportunities for new businesses and startups ne
- ver before possible. 5G has the potential to do the same. Deep Startups is
-  hosting senior leadership from Qualcomm who are directly working with bus
- inesses of all sizes to leverage 5G's potential and guide them based learn
- ings from prior generation deployments. Come to Deep Startups to learn fro
- m the leaders of 5G to spark your imagination on how it can solve real pro
- blems for you to make an impact.\n\nLinks:\n[0]  http://hg.gatech.edu/node
- /632947#0\n[1]  https://gatech.campuslabs.com/engage/event/5570109
-LOCATION:Room 2448\, Klaus Advanced Computing Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GTSWE x Air Liquide Professional Development Workshop
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200227T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200228T000000Z
-UID:http://hg.gatech.edu/node/633069#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
- aduate students\nExtras: Free Food\nStatus: published\n\nRepresentatives f
- rom Air Liquide are sharing their tips and tricks to networking effectivel
- y! Receive advice and make connections over dinner! The session is applica
- ble to all majors\; dress is casual.\n\nMore details at tinyurl.com/sweair
- liquide [2]\n\nLinks:\n[0]  http://hg.gatech.edu/node/633069#0\n[1]  https
- ://gatech.campuslabs.com/engage/event/5638655\n[2]  https://gatech.campusl
- abs.com/engage/submitter/organization/society-of-women-engineers/eventsubm
- ission/tinyurl.com/sweairliquide\n[3]  http://tinyurl.com/sweairliquide
-LOCATION:Student Center Room 332
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Book Discussion with Christen Smiley of Institute Diversity\, Equi
  ty\, and Inclusion
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200227T230000Z
@@ -11285,6 +11000,25 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nHelp support food secur
 LOCATION:Urban Recipe
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dinner Jacket: BA and International Affairs Young Alumni
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210302T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210303T000000Z
+UID:http://hg.gatech.edu/node/644691#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nOur Young Alumni Council is hosting 6 dinners this s
+ emester! Each Dinner Jacket is focused on their degrees and industries\; p
+ ick the one that interests you!\n\nThis Dinner is with Olivia Watkins (INT
+ A ’09)\, Rani Tilva (BA ’18)\, Nairita Nandy\, and Alex Hanson (BA ’
+ 13). BA/INTA can sometimes be hard to decide what path you want to take af
+ ter graduation since there are so many options available to you\, so explo
+ re what you like/don't like during college\, do everything you can\, enjoy
+  every moment\, try to meet someone new every day!\n\nLinks:\n[0]  http://
+ hg.gatech.edu/node/644691#0\n[1]  https://www.gtsaa.com/s/1481/alumni/17/i
+ nterior-wide.aspx?sid=1481&gid=39&pgid=20495&cid=45545&ecid=45545&crid=0&c
+ alpgid=3165&calcid=23811
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Explore LLC Tuesday Call Night
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210303T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210303T030000Z
@@ -11421,6 +11155,24 @@ DESCRIPTION:Intended audience: Undergraduate students\nStatus: published\n
  tores/web/product_detail.jsp?PRODUCTID=4577\n[2]  https://gatech.campuslab
  s.com/engage/event/6891733
 LOCATION:eber Space Science and Technology Building\, ASDL Lab 30332-0150
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCPC Presents: Interstellar Movie Panel
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210306T200000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210307T000000Z
+UID:http://hg.gatech.edu/node/644752#0
+DESCRIPTION:Status: published\n\nThe Interstellar Movie Panel! Taking plac
+ e at the Historic Academy of Medicine this event will include a reception 
+ welcoming GA Tech Students and panel members\, the movie panel\, and a vie
+ wing of the film Interstellar.\n\nTicket holders are asked to arrive promp
+ tly at 3:00pm to join us for a brief outdoor reception\, where we will ser
+ ve light refreshments and have activities. Attendees will then move into t
+ he indoor theater to participate in the movie panel of local film experts 
+ answering YOUR questions. We will conclude the event with a viewing of the
+  critically acclaimed film\, Interstellar. The night will be a perfect com
+ bination of thought provoking and enjoyable while maintaining COVID Safety
+  at all times.\n\nLinks:\n[0]  http://hg.gatech.edu/node/644752#0
+LOCATION:The Academy of Medicine
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCF Trivia Lunch
@@ -11569,6 +11321,27 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  age/submitter/form/start/446266\n[2]  marylynn.realff@mse.gatech.edu\n[3] 
   monicamarks@gatech.edu
 LOCATION:Stein House\, Georgia Tech\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCPC Presents: 119th Take-A-Prof!
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210309T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210309T190000Z
+UID:http://hg.gatech.edu/node/644750#0
+DESCRIPTION:Status: published\n\nThe Student Center Programs Council invit
+ es you to the 119th Take-A-Prof!\n\nStart 2021 off right by inviting a pro
+ fessor\, RA/PL\, TA\, or mentor out to a lunch inspired by a Cozy Cabin ge
+ taway.\n\nTake-A-Prof will take place on Tuesday\, March 9th from 11:30 AM
+  to 2 PM in the Klaus Atrium. Tickets are $4 per person ($8 for you and yo
+ ur guest) and can be purchased at bit.ly/campustickets [1]\n\nEmail us at 
+ homecoming@scpc.gatech.edu [2] if you have any questions\, comments\, or c
+ oncerns.\n\nLinks:\n[0]  http://hg.gatech.edu/node/644750#0\n[1]  https://
+ nam12.safelinks.protection.outlook.com/?url=http%3A%2F%2Fbit.ly%2Fcampusti
+ ckets&data=04%7C01%7Cawashington44%40gatech.edu%7Cdca778ac7f644d7789ac08d8
+ d7595cd7%7C482198bbae7b4b258b7a6d7f32faa083%7C0%7C0%7C637496126219175415%7
+ CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWw
+ iLCJXVCI6Mn0%3D%7C1000&sdata=rDnu6toBgaJXMIvUeuCJ5dMktQNlZ8erySrCSIGi4BA%3
+ D&reserved=0\n[2]  homecoming@scpc.gatech.edu
+LOCATION:Klaus Atrium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Food4Lives Service with CCF
