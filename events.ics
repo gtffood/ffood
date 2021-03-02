@@ -2,21 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Rollin' Through the Decades
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200301T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200301T030000Z
-UID:https://gatech.campuslabs.com/engage/event/5613064
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nHave you ever wanted to
-  be transported through the decades? Join us for throwback themed rollersk
- ating!\n\nYou can skate to some groovy tunes\, eat Tiff’s Treats\, play 
- Twister\, or come rock out at our disco-themed photo booth!\n\nCome out to
-  the Student Center Ballroom on February 29th from 7-10 pm for rollerskati
- ng and more.\n\nFor questions or accommodations\, please email ramblin@scp
- c.gatech.edu [1]\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/even
- t/5613064\n[1]  ramblin@scpc.gatech.edu
-LOCATION:Student Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:GTMI Lunch and Learn Series - Flentek Solutions: Journey from Engi
  neering Design Firm to Manufacturer
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200302T170000Z
@@ -11485,6 +11470,32 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nGo green with GC this S
 LOCATION:Truly Living Well Farm
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:HackDLC: Video-based Movement Analysis Tutorial and Hackathon
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210320T130000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210320T190000Z
+UID:http://hg.gatech.edu/node/644825#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nAfter attending t
+ he March 18 workshop "Human and Animal Movement: Where does stereotypy end
+  and individual variability start?" ( [1] ) join us for a day of fun\, cod
+ ing\, and tutorials!\n\nHackDLC is a virtual tutorial/hackathon aimed to b
+ ring together the community of undergraduate and graduate students\, postd
+ ocs\, engineers\, data scientists\, and faculty with diverse expertise and
+  training from the greater Atlanta area.\n\nAbout\nThis event will focus o
+ n learning to use Deep Lab Cut (DLC)\, an open-source software package for
+  the analysis of video data of animal and human movements. DLC enables mar
+ ker-less movement analysis based on transfer learning with deep neural net
+ works. Diverse teams will be formed and each team will be given a video to
+  analyze and to answer a relevant research and/or clinical question.\n\nPr
+ ior Hackathon or DLC experience is not required\, you will be teamed up wi
+ th people that have various skill sets!\n\nRegistration\nSpace is limited!
+  Please apply at https://forms.gle/9WTaHeCeidRfp6rz7\, no later than Monda
+ y\, March 8\, 2021. Lunch will be provided to participants.\n\nLinks:\n[0]
+   http://hg.gatech.edu/node/644825#0\n[1]  https://bit.ly/3khgjaj\n[2]  ht
+ tps://forms.gle/9WTaHeCeidRfp6rz7
+LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CCF Trivia Lunch
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210322T154500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210322T174500Z
@@ -11578,6 +11589,18 @@ DESCRIPTION:Intended audience: Graduate students\, Postdoc\, Public\, Unde
  gatech.edu/node/643647#0\n[1]  https://www.linkedin.com/events/67609879691
  73143552/
 LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Legacy S'mores Night EXPLORE LLC ONLY EVENT
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210326T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210327T010000Z
+UID:https://gatech.campuslabs.com/engage/event/6965721
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome out to the West Vi
+ llage Firepits on Friday\, March 26th\, at 7:30 PM to enjoy some complemen
+ tary s'mores as a LEGACY EXCLUSIVE EVENT! Make sure to RSVP by Friday\, Ma
+ rch 19th\, so we know how many s'mores to order!\n\nLinks:\n[0]  https://g
+ atech.campuslabs.com/engage/event/6965721
+LOCATION:West Village Fire Pits
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EcoAddendum - Hike with a Master Naturalist at Sawnee Mountain Pre
@@ -11812,6 +11835,18 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFree lunch and trivia e
  begins at 11:50am and 12:50pm.\n\nLinks:\n[0]  https://gatech.campuslabs.c
  om/engage/event/6891749
 LOCATION:Christian Campus Fellowship (CCF)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IAC's Annual Awards Luncheon
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210420T153000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210420T170000Z
+UID:http://hg.gatech.edu/node/644826#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nBe sure to save t
+ he date for the Ivan Allen College of Liberal Arts' Annual Awards Lunchion
+ \, to be held Tuesday\, April 20 from 11:30 a.m. to 1:00 p.m. Location TBD
+ .\n\nLinks:\n[0]  http://hg.gatech.edu/node/644826#0
+LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Food4Lives Service with CCF
