@@ -2,333 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:GTMI Lunch and Learn Series - 3D Printing Strategies for Industria
- l Applications
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200309T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200309T170000Z
-UID:http://hg.gatech.edu/node/630990#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \n3D Printing Strategies for Industrial Applications\n\nSpeaker:\n\n- Sama
- ntha Kasraie\, 3D Specialist\n\nCompany:\n\n- Novatech/Markforged\n\nLinks
- :\n[0]  http://hg.gatech.edu/node/630990#0
-LOCATION:GTMI 114
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SCPC presents Finance Workshop
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200309T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200309T203000Z
-UID:http://hg.gatech.edu/node/633039#0
-DESCRIPTION:Status: published\n\nThis will be a 90-minute interactive disc
- ussion of financial considerations for students\, young professionals\, an
- d soon-to-be new professionals.\n\nThe two 90-minute sessions are:\n\n- 1:
- 00-2:30 pm\n- 3:00-4:30 pm\n\nLearn skills such as the right and wrong way
-  to use credit\, how to improve your credit\, long-term investment\, debt-
- free living\, and so much more. This will be led by Ben Clark\, a certifie
- d Financial Planner with many years of experience. There will be plenty of
-  time for Q&A\, so come prepared to get answers to YOUR questions. Snacks 
- provided!\n\nLinks:\n[0]  http://hg.gatech.edu/node/633039#0
-LOCATION:Student Center Peachtree Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GT ARCC General Meeting 
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200309T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200309T230000Z
-UID:https://gatech.campuslabs.com/engage/event/5665119
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nMonday\, March 9th the 
- GT Red Cross Club will be have a general meeting! Come out to hear about h
- ow you can get involved with the exec board and learn about the Red Cross 
- through a game of Kahoot. Treats will be provided!\n\nLocation: Kendeda 23
- 0.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5665119
-LOCATION:Kendeda 230
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dinner with Dr. Michelle Rinehart
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200309T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200309T233000Z
-UID:http://hg.gatech.edu/node/630457#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nAs Associate Dean for Academic Af
- fairs and Outreach\, Michelle has oversight for a range of programs and in
- itiatives for the College. Her work encompasses three broad areas: 1) Admi
- ssions and Outreach\, 2) Faculty Affairs and Development\, and 3) Assessme
- nt and Accreditation. Michelle also leads Implicit Bias Workshops across t
- he Institute\, educating faculty on the ways in which our unconscious or i
- mplicit biases can impact hiring and promotion practices in higher educati
- on.\n\nIn addition to her administrative duties\, Michelle teaches in the 
- School of Architecture\, coordinating the first-year design studio sequenc
- e and teaching history of architecture. She is the faculty leader of the E
- xploring Architecture summer track for incoming Georgia Tech students. Pre
- viously\, she taught in the Institute’s Oxford Study Abroad program and 
- led a first-year architecture student design/build team in the 2017 Design
-  and Construction Competition at Tongji University in Shanghai\, China.\n\
- nHer scholarship and creative work explore civic engagement within the con
- text of professional education. Specifically\, Michelle's work examines He
- rbert Croly’s notion of civic professionalism\, where he contends that a
- n individual reaches self-fulfillment only in service to a larger purpose.
-  Her scholarly research examines how architecture programs can instill in 
- students the need to serve the public good as part of their professional r
- esponsibility.\n\nMichelle currently serves as the President of the Grand 
- Chapter of Tau Sigma Delta\, the national honor society for students in ar
- chitecture and the allied arts\, and is also immediate Past President of t
- he Architectural Research Centers Consortium (ARCC). In addition to her se
- rvice as a visiting team member for National Architectural Accrediting Boa
- rd (NAAB) accreditation site visits\, she was a consultant to the NAAB for
-  its 2013 and 2016 Accreditation Review Conferences. Since 2007\, Michelle
-  has served as a reviewer for the AIA/AAF Diversity Advancement Scholarshi
- p program.\n\nShe is a Past President of the Tulane University Alumni Asso
- ciation and currently serves on its Nominating Committee.\n\nMichelle also
-  holds a Master of Science in Architecture (history and theory) from the U
- niversity of Michigan and a Doctorate in Education (Ed.D.) from the Univer
- sity of Pennsylvania.\n\nLinks:\n[0]  http://hg.gatech.edu/node/630457#0
-LOCATION:Stein House/4th St. A\, 733 Techwood\, Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sanjay Sehgal\, CEO of Msys Technologies: Talk on the role of AI a
- nd Data Analytics in technology and entrepreneurship
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200309T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200309T233000Z
-UID:http://hg.gatech.edu/node/633341#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nJoin us for InVenture Prize Week! Our keynote speaker will be Sanjay Seh
- gal\, CEO of Msys Technologies. He will be giving a talk on the role of AI
-  and Data Analytics in technology and entrepreneurship.\n\nWe will have a 
- taco bar for you.\n\nWe need your RSVP to ensure we have enough.\n\nLinks:
- \n[0]  http://hg.gatech.edu/node/633341#0\n[1]  https://gatech.campuslabs.
- com/engage/event/5662111\n[2]  http://week.events/innovation\n[3]  https:/
- /innovation.cae.gatech.edu\n[4]  https://inventureprize.gatech.edu
-LOCATION:Clough 205Q (same floor as Starbucks\, near the elevators)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Project Change: STEM Teachers @ Tech Day
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200310T130000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200310T193000Z
-UID:http://hg.gatech.edu/node/632982#0
-DESCRIPTION:Intended audience: Public\nStatus: published\n\nAre you lookin
- g for a way to move beyond the standards and integrate STEM connections in
- to your curriculum? Science\, technology\, engineering or math (STEM) teac
- hers have the challenge of engaging and preparing their students for post 
- secondary education or the workforce\, thus providing students with opport
- unities to experience real-world applications of the curriculum is more im
- portant than ever. Do you thirst for more knowledge to better connect and 
- communicate to your class of future scientists\, technologists\, engineers
- \, and mathematics?\n\nThis one day\, on-campus experience is designed to 
- provide High School and Middle School teachers with the opportunity to exp
- erience the cutting edge resources and research here at the Georgia Instit
- ute of Technology with the goal of increasing their understanding of curre
- nt\, real-world applications of their content. All participating teachers 
- will be placed in small groups based on their respective content areas and
-  engage in:\n\n- Activities with Georgia Tech research faculty\;\n- Hands-
- on activities designed for replication in STEM classrooms\;\n- And small g
- roup discussions with current Georgia Tech students focused on pre-requisi
- te skills and concepts they learned in high school.\n\nOur activities for 
- the day will focus on the following specialty areas:\n\n- Physical\, chemi
- cal\, and mechanical\n- Life\, earth\, and environmental\n- Computer scien
- ce and interactive computing\n- STEM with art integration\n- Mathematics\n
- \nDate: March 10\, 2020\n\nTime: 9:00 am to 3:30 pm\n\nLocation: Georgia T
- ech Student Center and labs across GT campus\n\nCost: $150 (Includes - lun
- ch\, all activities for the day\, campus parking\, and if registered befor
- e February 10th all give-away items)\n\nRegister Here [2]\n\nRegistration 
- Tips:\n1. Make sure to create a new account if you have not signed up for 
- Georgia Tech programming through Ideal-Logic before.\n\n2. Registration is
-  open until March 2\, 2020.\n\n3. Registration is not complete until payme
- nt has been received.\n\n4. During registration\, please choose one specia
- lty area that best represents what you are currently teaching. If that sec
- tion is full\, you are more than welcome to choose another specialty area 
- that you feel complements your content area.\n\nIf you have any questions\
- , please reach out to us at stemteacher@gatech.edu [3].\n\nLinks:\n[0]  ht
- tp://hg.gatech.edu/node/632982#0\n[1]  http://hg.gatech.edu/node/632981#0\
- n[2]  https://apps.ideal-logic.com/ceismc?key=KJM2-8KRCD_K9KH-5PTF_077ed40
- 1\n[3]  stemteacher@gatech.edu\n[4]  https://ceismc.gatech.edu/community/s
- ttd
-LOCATION:Georgia Tech Student Center and labs across GT campus
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Celebrating Teaching Day
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200310T140000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200310T163000Z
-UID:http://hg.gatech.edu/node/632089#0
-DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nJoin us
-  for Celebrating Teaching Day! This is an annual event hosted by the Cente
- r for Teaching and Learning to honor and celebrate the dedication of Georg
- ia Tech faculty and instructors from across campus. The event will feature
-  a poster session eaturing recent educational initiatives from the Georgia
-  Tech community and luncheon where we will recognize all those who are mak
- ing a positive impact on the learning environment. We hope you will join u
- s!\n\nSchedule\n\n- 10:00 a.m. – 11:15 a.m.: Poster Session\n- 11:15 a.m
- . – 12:30 p.m.: Luncheon and Faculty Honors Program and Raffle\n\nPlease
-  sign up [1] to attend.\n\nLinks:\n[0]  http://hg.gatech.edu/node/632089#0
- \n[1]  https://ctl.gatech.edu/content/celebrating-teaching-day-2020
-LOCATION:Student Center\, Ballroom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IISE Spring Picnic
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200310T140000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200310T180000Z
-UID:https://gatech.campuslabs.com/engage/event/5650457
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nIISE is hosting our Ann
- ual Spring Picnic on Tech Green! Come out and have a great time with other
-  students and professors. We will have a Dunk Tank\, where you will have a
- n opportunity to donate for charity to Dunk a professor. Also\, we will ha
- ve free food\, field day type activities\, a Pet Area\, and a photo area. 
- Come join IISE for a fun-filled afternoon!\n\nLinks:\n[0]  https://gatech.
- campuslabs.com/engage/event/5650457
-LOCATION:Tech Green
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Building the Future: Fireside Chat with Dean Charles Isbell
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200310T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200310T160000Z
-UID:http://hg.gatech.edu/node/633267#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nStatus: published\n\nThis event is hosted by the
-  College of Computing Student Council\, features Charles Isbell (Dean of C
- omputing/The John P. Imlay Jr. Chair)\, and is open for attendance by Geor
- gia Tech students.\n\nDean Isbell will share his vision for shaping the fu
- ture of the college he is leading\, insights he has gained from connecting
-  with alumni around the country\, and thoughts on the student community. T
- he event has an open Q&A from the audience as well.\n\nLunch will be provi
- ded. RSVPs at: [2].\n\nThe College of Computing Student Council is a stude
- nt-led organization that works closely with the administration of Computin
- g and students to establish a direct communication channel between them\, 
- enabling students to help shape the future of the college.\n\nLinks:\n[0] 
-  http://hg.gatech.edu/node/633267#0\n[1]  http://hg.gatech.edu/node/633265
- #0\n[2]  https://forms.gle/9psszSSdmbcKE1hi7
-LOCATION:Room 1447\, Klaus Advanced Computing Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nano@Tech: Debra Rolison\, Naval Research Laboratory
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200310T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200310T170000Z
-UID:http://hg.gatech.edu/node/629953#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nDebra Rolison\, Naval Research Laboratory\nAbstract: TBA\n\nBio: TBA\n\n
- This lecture hosted by the Graduates in Nanotechnology Student Group. If y
- ou are interested in participating in GIN activities\, please contact Dr. 
- Quinn Spadola\, Director of Education and Outreach\, NNCI & SENIC at: quin
- n.spadola@ien.gatech.edu\n\nLinks:\n[0]  http://hg.gatech.edu/node/629953#
- 0\n[1]  http://ien.gatech.edu
-LOCATION:Marcus Nanotechnology Building 1117-1118 | 345 Ferst Drive | Atla
- nta GA | 30332
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vertically Integrated Projects (VIP) Poster Session
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200310T193000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200310T213000Z
-UID:http://hg.gatech.edu/node/632993#0
-DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\n
- Status: published\n\nThe VIP Spring Poster Session is open to all students
-  looking for research opportunities!\n\nPoster Sessions are a great way to
-  get involved in undergraduate research. Come check out more than 80 inter
- esting research projects that are looking for students like you!\n\nLearn 
- more at [1].\n\nRefreshments will be provided.\n\nLinks:\n[0]  http://hg.g
- atech.edu/node/632993#0\n[1]  https://www.vip.gatech.edu/teams\n[2]  http:
- //www.vip.gatech.edu
-LOCATION:Klaus Advanced Computing Building Atrium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VIP Poster Session - Spring 2020
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200310T193000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200310T213000Z
-UID:http://hg.gatech.edu/node/633126#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nThe VIP Spring Poster Session is open to ALL st
- udents looking for research opportunities!\n\nPoster Sessions are a GREAT 
- way to get involved in undergraduate research. Come check out our OVER 80 
- interesting research projects that are looking for students like you! Lear
- n more at [1]\n\nRefreshments will be provided.\n\nLinks:\n[0]  http://hg.
- gatech.edu/node/633126#0\n[1]  https://www.vip.gatech.edu/teams
-LOCATION:Klaus Atrium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CREATE-X Deep Startups: Amazon Alexa
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200310T210000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200310T230000Z
-UID:http://hg.gatech.edu/node/633203#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nDeep Startups is an event series that features knowledgeable entrepreneu
- rs who discuss their experiences forming companies that solve big-picture 
- current problems. These individuals speak to the concept of ‘deep startu
- ps’ and how to create companies that make a difference. Each Deep Startu
- ps event focuses on a different broad topic in engineering/technology\, an
- d allows for student Q&A at the end of the event.\n\nLinks:\n[0]  http://h
- g.gatech.edu/node/633203#0\n[1]  https://gatech.campuslabs.com/engage/even
- t/5650625
-LOCATION:Klaus Advanced Computing Building Room 2448
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Society of Women Engineers General Body Meeting
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200310T211500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200310T230000Z
-UID:http://hg.gatech.edu/node/624549#19
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nCome out to our general body meeting every Tues
- day from 5:15 to 7 PM in Smithgall Student Services (Flag Building) Room 1
- 17.\n\n5:15-5:45 PM Free dinner and social time with our members and offic
- ers\n\n5:45-6 PM: Announcements and Upcoming Events Reminders\n\n6-7 PM: S
- ocial Hour or Company Sponsored Event (Please check our weekly newletter f
- or the upcoming company or activity of the week!)\n\nIf you have any quest
- ions\, please feel free to email our President\, Toral Kadakia\, at swepre
- sident@gmail.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/624549#19\n
- [1]  swepresident@gmail.com\n[2]  https://www.facebook.com/GeorgiaTechSWE/
-LOCATION:Room 117\, Smithgall Student Services (Flag) Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CREATE-X Deep Startups: Amazon Alexa
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200310T213000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200310T230000Z
-UID:https://gatech.campuslabs.com/engage/event/5650625
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDeep Startups is an Ide
- a Series that features knowledgeable entrepreneurs who discuss their exper
- iences forming companies that solve big-picture current problems. These in
- dividuals speak to the concept of ‘deep startups’ and how to create co
- mpanies that make a difference. Each Deep Startups event focuses on a diff
- erent broad topic in engineering/technology\, and allows for student Q&A a
- t the end of the event.\n\n*For those interested in attending without a Ge
- orgia Tech ID\, please RSVP here. [1]\n\nLinks:\n[0]  https://gatech.campu
- slabs.com/engage/event/5650625\n[1]  https://gatech.co1.qualtrics.com/jfe/
- form/SV_8eknLy5QpJnYrlP
-LOCATION:Klaus Advanced Computing Building Room 2448
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Women in Entrepreneurship Panel
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200310T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200310T233000Z
-UID:http://hg.gatech.edu/node/633342#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nJoin us for a lively discussion with leading women in innovation!\n\nJoi
- n us for InVenture Prize Week! Our panel of women leading innovation in At
- lana will include Brandy Nagel of ATDC\, Farah Allen (CEO of The Labz)\, S
- hila Nieves Burney (Founder\, ZANE Venture Fund)\, and Shaun Chavis (CEO\,
-  LVNGBook). Discussion on women in the entrepreneurship space and how they
-  rose to success in their careers.\n\nWe will have a sandwiches for you. W
- e need your RSVP to ensure we have enough.\n\nLinks:\n[0]  http://hg.gatec
- h.edu/node/633342#0\n[1]  https://gatech.campuslabs.com/engage/event/56621
- 53\n[2]  http://week.events/innovation\n[3]  https://innovation.cae.gatech
- .edu\n[4]  https://inventureprize.gatech.edu
-LOCATION:Clough 205Q (same floor as Starbucks\, near the elevators)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Career Services Workshop: Salary Negotiation
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200310T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200310T233000Z
-UID:http://hg.gatech.edu/node/630490#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: draft\n\nLanding the perfect full-time/in
- ternship position is something worth celebration! But what happens when yo
- u receive an offer that is not equally as exciting? Come learn how to prof
- essionally negotiate your salary and strategies for declining an offer tha
- t you are no longer interested in. Practice your negotiation skills to ens
- ure that you sound professional and confident when the time comes!\n\nRSVP
-  here [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/630490#0\n[1]  https:/
- /gatech.co1.qualtrics.com/jfe/form/SV_0wfu0VVTHRaCgLP
-LOCATION:Klaus 1116
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Velocity Worship Service
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200310T233000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200311T003000Z
@@ -10567,6 +10240,24 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFree lunch and trivia e
 LOCATION:Christian Campus Fellowship (CCF)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pi Day Celebration 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210315T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210315T190000Z
+UID:https://gatech.campuslabs.com/engage/event/6989612
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us on
+  Monday\, March 15th from 1:00 PM - 3:00 PM in the Klaus Atrium to celebra
+ te Pi Day! We will be hosting a "drive-by" event where you can come and pi
+ ck up a pie. Register here [1]!\n\nLinks:\n[0]  https://gatech.campuslabs.
+ com/engage/event/6989612\n[1]  https://nam12.safelinks.protection.outlook.
+ com/?url=https%3A%2F%2Fgatech.us5.list-manage.com%2Ftrack%2Fclick%3Fu%3D4e
+ 0d695c3e0039442fd7b2e1d%26id%3D1f35bd97f9%26e%3Da8696187ad&data=04%7C01%7C
+ gunesen%40gatech.edu%7C9daeb358f9e248a0996f08d8e22fd2f4%7C482198bbae7b4b25
+ 8b7a6d7f32faa083%7C0%7C0%7C637508042365721484%7CUnknown%7CTWFpbGZsb3d8eyJW
+ IjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdat
+ a=TK5KufCKrnPhMfCDvMU2%2FJn6EnokT2cfDn1G7%2FDNvZk%3D&reserved=0
+LOCATION:2nd floor on Van Leer outside the Hive
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Virtual Pi Day 5k
 DTSTART;VALUE=DATE:20210316
 DTEND;VALUE=DATE:20210317
@@ -10908,6 +10599,44 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Christian Campus Fellowship\, 767 Techwood Dr. NW or Online
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Horizons at GT Assistant Teacher Internship application
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210402T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210403T035900Z
+UID:http://hg.gatech.edu/node/645205#0
+DESCRIPTION:Intended audience: Undergraduate students\nStatus: published\n
+ \nELIGIBILTY: • Current Georgia Tech Student in good academic standing 
+ • Must be available for all six-weeks of the Summer Program\, Staff Orie
+ ntation\, Planning & Class Set-up • Must be willing to actively particip
+ ate with the scholars during their daily swim lessons • Swimming ability
+  not required but comfort in the pool is • Must pass a criminal backgrou
+ nd and sexual predator check • All in person programming will be conduct
+ ed in a manner that is compliant with social distancing\n\nApplication dea
+ dline: April 2\, 2021\n\nSend application and resume to: Nichole Morales a
+ t horizonsgt@gatech.edu\n\nSUMMARY: The Horizons at Georgia Tech Program i
+ s looking for talented and energetic individuals to work as Intern Assista
+ nt Teachers in a six-week academic enrichment summer program. We are looki
+ ng for professional\, responsible\, and caring individuals. Assistant Teac
+ hers work alongside certified lead teachers to implement strategies to eng
+ age scholars in active learning through non-traditional\, hands-on activit
+ ies in our six-week summer program. Horizons Assistant Teachers work with 
+ approximately 15 scholars in small group and individual instruction in mat
+ hematics\, reading\, and science. A successful Assistant Teacher will enjo
+ y working with youth and as a team player to help fulfill the Horizons mis
+ sion. A typical day may include academics\, arts\, swimming\, breakfast/lu
+ nch and recreational activities. Teaching Assistants will also be responsi
+ ble for bus monitoring\, lunch monitoring\, bus loading/drop off\, and pic
+ k-up coordination as well as attending all field trips. Other duties may a
+ lso be required.\n\nDATES: Virtual Pre-Training Saturday\, April 24 – 9A
+ M to 3PM Virtual Parent Orientation & Student Assessment Day Saturday\, Ma
+ y 15 & 22 – 9AM to 3PM Staff orientation\, planning\, and classroom set-
+ up: Monday\, June 14 – Friday\, June 18 4-week program: June 21- July 16
+  Classroom breakdown and project completion: Monday\, July 16 and Tuesday\
+ , July 17\n\nSee the attached application form to apply.\n\nLinks:\n[0]  h
+ ttp://hg.gatech.edu/node/645205#0\n[1]  https://studentprograms.ceismc.gat
+ ech.edu/horizons/about
+LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CCF Trivia Lunch
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210405T154500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210405T174500Z
@@ -11028,6 +10757,33 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  ]  https://gatech.campuslabs.com/engage/event/6869233\n[2]  https://us02we
  b.zoom.us/j/84188146312\n[3]  https://linktr.ee/gtccf
 LOCATION:Christian Campus Fellowship\, 767 Techwood Dr. NW or Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AFSP Out of the Darkness Campus Walk
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210417T180000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210417T220000Z
+UID:https://gatech.campuslabs.com/engage/event/6992613
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nThe Out of
+  the Darkness Campus Walk is a journey of remembrance\, hope\, support\, a
+ nd a walk that unites a campus and community – a time to acknowledge the
+  ways in which suicide and mental illness have affected our lives and our 
+ loved ones.\n\nAssociated with the American Foundation for Suicide Prevent
+ ion\, we have coordinated an Out of the Darkness Campus Walk\, a national 
+ event hosted by universities all over the nation to bring together a commu
+ nity in support of suicide awareness through fundraising\, outreach\, and 
+ togetherness.\n\nOnline registration closes at noon the Friday before the 
+ walk. However\, anyone who would like to participate can register in perso
+ n at the walk from the time check-in begins until the walk starts. Walk do
+ nations are accepted until June 30th.\n\nWhen you walk in the Out of the D
+ arkness Walks\, you join the effort with hundreds of thousands of people t
+ o raise awareness and funds that allow AFSP to invest in new research\, cr
+ eate educational programs\, advocate for public policy\, and support survi
+ vors of suicide loss.\n\nAs the leader in the fight against suicide\, and 
+ thanks to walkers like you from cities across the country\, AFSP has been 
+ able to set a goal to reduce the annual suicide rate 20% by 2025.\n\nRegis
+ ter to walk at: afsp.org/gatech\n\nLinks:\n[0]  https://gatech.campuslabs.
+ com/engage/event/6992613
+LOCATION:Harrison Square
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCF Trivia Lunch
