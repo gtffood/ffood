@@ -2,280 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Velocity Worship Service
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200310T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200311T003000Z
-UID:https://gatech.campuslabs.com/engage/event/5441757
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
- worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
- h.campuslabs.com/engage/event/5441757
-LOCATION:Baptist Student Union
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Velocity Worship Service
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200310T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200311T010000Z
-UID:https://gatech.campuslabs.com/engage/event/5441742
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
- worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
- h.campuslabs.com/engage/event/5441742
-LOCATION:Baptist Student Union
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:"Crack\, buzz\, and plop: the coupled mechanics of jetting citrus\
- , flying insects\, and splashing projectiles”
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200311T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200311T170000Z
-UID:http://hg.gatech.edu/node/633240#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \nStatus: published\n\nSchool of Physics\, Nonlinear Science & Mathematics
-  Seminar\, Dr. Andrew Dickerson\, University of Central Florida\nNatural s
- ystems often inspire new methods by which to control fluids\, or conversel
- y use fluids to control systems. Three fluid mechanic systems that might c
- ome to mind include: the jetting of microdroplets when peeling an orange\,
-  the droplet ejection off of a mosquito wing\, and the splash suppression 
- provided by floating toilet paper during defecation. These phenomena at th
- e interface of biology and fluid mechanics can provide engineers with usef
- ul\, inspired information for future designs. Here we study the explosive 
- dispersal of oil emitted from ‘cracked’ glands in the peels of citrus 
- fruit. The jetting oil undergoes an extreme acceleration to reach velociti
- es in excess of 10 m/s. On a slightly larger scale\, the method mosquitoes
-  use to ‘buzz’ their wings free of deposited water drops prompts a loo
- k into how flexible surfaces may be vibrated to self-dry. We find drop eje
- ction is dependent on drop and wing properties\, and wing motion in this h
- ighly-coupled system. On yet a larger scale\, the dynamics of the entry of
-  solids into liquid baths\, such as the ‘plop’ of restroom use\, is he
- avily influenced by free surface conditions\n\nLinks:\n[0]  http://hg.gate
- ch.edu/node/633240#0
-LOCATION:Howey - N110
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SCL IRC Seminar: Unstructured Manufacturing
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200311T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200311T173000Z
-UID:http://hg.gatech.edu/node/623645#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nStatus: archived\n\nThe Supply Chain and Logisti
- cs Institute hosts a series of monthly seminars open to interested faculty
- \, students and corporate partners as well as the general public. If you a
- re interested in attending any of the sessions\, please review the below i
- nformation and register online.\n\nUnstructured Manufacturing\nGary McMurr
- ay\n\nRobotic systems have been very successful in performing tasks where 
- the inputs are well defined and known in advance. Automotive and electroni
- c manufacturing are the classic success stories where robotic systems have
-  demonstrated incredible value for the industry. In unstructured manufactu
- ring\, the inputs of the system can vary significantly\, but the outputs o
- f the system are defined. Food and agriculture production are examples of 
- this type of unstructured manufacturing problem\, but traditional manufact
- uring is also moving in this direction as robotics move beyond welding and
-  painting. This presentation will give examples of systems that integrate 
- advanced perception and control technologies into robotic systems to perfo
- rm complex tasks like cutting\, grasping\, and manipulation of objects in 
- an unstructured environment.\n\nRegister Online for upcoming SCL IRC semin
- ars [1]\n\nAttendance to the sessions is complimentary for SCL corporate p
- artners\, SCL Industry Advisory Board members\, SCL affiliated faculty and
-  students\, and students enrolled in the Masters in Supply Chain Engineeri
- ng program.\n\nTo take advantage of the included lunch\, you must register
-  by deadline noted on the registration page.\n\nIf you have any questions\
- , please email event@scl.gatech.edu.\n\nLinks:\n[0]  http://hg.gatech.edu/
- node/623645#0\n[1]  https://www.scl.gatech.edu/sclirc/seminars/register\n[
- 2]  http://www.manufacturing.gatech.edu/directions
-LOCATION:GTMI: 1st floor Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Enercon Info Session
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200312T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200312T154500Z
-UID:https://gatech.campuslabs.com/engage/event/5668214
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome join us for free l
- unch from Willy's and an info session with Enercon!\n\nLinks:\n[0]  https:
- //gatech.campuslabs.com/engage/event/5668214
-LOCATION:Van Leer C340
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pancakes & Posters
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200312T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200312T160000Z
-UID:https://gatech.campuslabs.com/engage/event/5664937
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nInterested in presentin
- g your research? Not sure how to create or present a poster?\n\nJoin the U
- ndergraduate Research Ambassadors in learning how to make both pancakes an
- d research posters! Come find out the Dos and Don'ts of poster-making and 
- learn how to physically print your poster.\n\nPancakes & Posters will be h
- eld on Thursday\, March 12th\, from 11am-12pm in Clough 205Q. Free pancake
- s\, example posters\, & peer feedback will also be available!\n\nLinks:\n[
- 0]  https://gatech.campuslabs.com/engage/event/5664937
-LOCATION:Clough 205Q
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GVU Center Brown Bag: David Reitter "Modeling Language in its Visu
- al Context"
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200312T153000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200312T170000Z
-UID:http://hg.gatech.edu/node/633417#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nExtras: Free food\nStatus: published\n\nAbstract
- :\n\nWords are always spoken and understood in context. Linguists\, psycho
- logists and computer scientists have recognized this when they defined wor
- d meaning using their aggregate linguistic contexts across large samples. 
- Early examples include Latent Semantic Indexing (Landauer & Dumais 1997)\,
-  while recently\, some computational models have become vastly successful 
- in NLP\, such as Word2Vec (Mikolov et al\, 2013) or BERT (Devlin et al.\, 
- 2018).\n\nHowever\, when young children learn to speak\, they refer to a m
- uch richer context than language alone. Their parents expose them to a ric
- h visual world\, and that is also a common context for adult language use.
-  In this talk\, I argue that modern models for commonsense reasoning and n
- atural language processing should therefore learn from visual and linguist
- ic data.\n\nI will present two examples of multimodal neural models that c
- an bring together visual and linguistic context. One is a language model t
- hat predicts next words better when trained on image embeddings in additio
- n to their captions (Ororbia et al.\, ACL 2019). The other is a BERT-based
-  model that set a new state-of-the-art in visual commonsense reasoning\, c
- hoosing answers to questions about movie stills and also giving a reason f
- or these answers (Alberti et al.\, EMNLP 2019). It is pre-trained on a WWW
-  corpus of images and ALT tags (texts added for accessibility purposes) be
- fore learning to answer questions about the movie screenshots.\n\nSpeaker 
- Bio:\n\nDavid Reitter is a senior research scientist at Google Research\, 
- New York City\, where he works on modeling conversational and multimodal i
- nteraction using very large-scale data. Until recently\, he was an associa
- te professor of information sciences at Penn State. There\, his research g
- roup carried out NSF-funded research on computational models of human cogn
- ition. David did his postdoc in psychology at Carnegie Mellon University a
- nd holds a PhD in informatics from the University of Edinburgh (2008).\n\n
- Schedule of Brown Bag Speakers Spring 2020 [1]\n\nLinks:\n[0]  http://hg.g
- atech.edu/node/633417#0\n[1]  https://www.gvu.gatech.edu/events/upcoming\n
- [2]  http://www.tsrb.gatech.edu/
-LOCATION:Technology Square Research Building\, 1st Floor Ballroom\, Atlant
- a\, Ga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2020-2021 Parking Permit Renewals and Sales Brown Bag
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200312T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200312T170000Z
-UID:http://hg.gatech.edu/node/633491#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nBring your lunch to one of PTS’s Brown Bag Se
- ssions to learn more about this year’s permit registration season and pa
- rking updates. Participants in each session will be entered in drawings fo
- r $100 discount on next year’s permit! Click here for rules. [1]\n\n- Th
- urs.\, March 12\, 12:00 p.m.\, West Village Dining Commons-Ensemble Room\n
- - Wed.\, March 18\, 12:00 p.m.\, Technology Square Research Building (TSRB
- )-Banquet Hall\n- Fri.\, March 27\, 12:00 p.m.\, Student Center-Room 321\n
- - Tues.\, March 31\, 12:00 p.m.\, Student Center-Room 321\n\nEmail Torise 
- Young at torise.young@gatech.edu [2] to schedule a private info session fo
- r your department or organization.\n\nClick here for more information abou
- t 2020-2021 parking permit renewals and sales. [3]\n\nLinks:\n[0]  http://
- hg.gatech.edu/node/633491#0\n[1]  http://pts.gatech.edu/rules-100-permit-d
- iscount-winners\n[2]  torise.young@gatech.edu\n[3]  http://pts.gatech.edu/
- news/2020-2021-parking-permit-renewals-and-sales
-LOCATION:West Village Dining Commons-Ensemble Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clone of 2020-2021 Parking Permit Renewals and Sales Brown Bag
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200312T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200312T170000Z
-UID:http://hg.gatech.edu/node/633497#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: archived\n\nBring your lunch to one of PTS’s Brown Bag Ses
- sions to learn more about this year’s permit registration season and par
- king updates. Participants in each session will be entered in drawings for
-  $100 discount on next year’s permit! Click here for rules. [1]\n\n- Thu
- rs.\, March 12\, 12:00 p.m.\, West Village Dining Commons-Ensemble Room\n-
-  Wed.\, March 18\, 12:00 p.m.\, Technology Square Research Building (TSRB)
- -Banquet Hall\n- Fri.\, March 27\, 12:00 p.m.\, Student Center-Room 321\n-
-  Tues.\, March 31\, 12:00 p.m.\, Student Center-Room 321\n\nEmail Torise Y
- oung at torise.young@gatech.edu [2] to schedule a private info session for
-  your department or organization.\n\nLinks:\n[0]  http://hg.gatech.edu/nod
- e/633497#0\n[1]  http://pts.gatech.edu/rules-100-permit-discount-winners\n
- [2]  torise.young@gatech.edu
-LOCATION:West Village Dining Commons-Ensemble Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Implicit Bias Workshop
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200312T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200312T173000Z
-UID:http://hg.gatech.edu/node/630018#0
-DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\nInstitu
- te Diversity\, in collaboration with the Office of the Vice Provost for Gr
- aduate Education and Faculty Development and Georgia Tech’s ADVANCE Prog
- ram\, is offering Implicit Bias Workshops for faculty this spring. All fac
- ulty who serve on reappointment\, promotion\, and/or tenure committees and
-  faculty search committees are required to participate in an Implicit Bias
-  Workshop pursuant to Provost Bras’ memo in October 2016 to academic lea
- ders. However\, all instructional and research faculty are welcomed to att
- end as space permits.\n\nThe goals of these workshops are to increase awar
- eness of the impact of implicit bias and facilitate equitable decision-mak
- ing across myriad processes related to faculty evaluations. As a participa
- nt in the workshop\, you will learn the following:\n\n• An introduction 
- to the concept of implicit bias and how these unconscious\, automatic ment
- al processes may impact behaviors such as evaluating candidates during fac
- ulty search and/or RPT processes.\n\n• Empirical research on vitaes\, le
- tters of recommendations\, and teaching evaluations to illustrate the impa
- ct of implicit bias on decisions.\n\n• Effective practices and strategie
- s for faculty search and RPT committees.\n\nThese workshops will be facili
- tated by Paul Benkeser\, senior associate chair and professor\, Wallace H.
-  Coulter Department of Biomedical Engineering\; Harris Dimitropoulos\, ass
- ociate professor\, School of Architecture\; Robert Kirkman\, associate pro
- fessor\, School of Public Policy\; Mark Mitchell\, associate director\, Ge
- orgia Tech Research Institute\; and/or Michelle Rinehart\, associate dean 
- for academic affairs and outreach\, College of Design.\n\nTo register for 
- one of the workshops\, visit [1]. Lunch will be provided.\n\nGTRI research
-  faculty should register for a GTRI Implicit Bias workshop via StarTrak [2
- ]. Please contact Sarah Cockrell ( [3] or 404-407-6349) for assistance.\n\
- nLinks:\n[0]  http://hg.gatech.edu/node/630018#0\n[1]  http://www.advance.
- gatech.edu/implicit-bias-workshops\n[2]  https://global.hgncloud.com/ga_in
- stitute_tech/ts/home\n[3]  http://sarah.cockrell@gtri.gatech.edu/
-LOCATION:Student Center\, Peachtree Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pi Day Celebration
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200312T210000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200312T230000Z
-UID:https://gatech.campuslabs.com/engage/event/5668213
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nEnjoy our annual Pi Day
-  celebration complete with lots of free pie!\n\nLinks:\n[0]  https://gatec
- h.campuslabs.com/engage/event/5668213
-LOCATION:Petit 102 A&B
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pride Alliance General Meeting: HIV. Let's talk about that.
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200312T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200312T230000Z
-UID:http://hg.gatech.edu/node/633555#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free Food\nStatus: published\n
- \nJoin us this Thursday to learn about the impact of HIV on women\, how we
-  can work to reduce the stigma towards people living with HIV\, and advoca
- ting for prevention and treatment by sharing current best practices and av
- ailable healthcare options.\n\nAs always\, there will be food and fun time
- s for everyone! Feel free to invite your friends!\n\n---\n\nY'all means al
- l: this is an event for all LGBTQIA+ folks and their allies. Please email 
- pride@gatech.edu if we can provide any accommodations to make this event m
- ore accessible or if you have any questions.\n\nLinks:\n[0]  http://hg.gat
- ech.edu/node/633555#0\n[1]  https://gatech.campuslabs.com/engage/event/566
- 6514\n[2]  http://gatech.campuslabs.com/engage/organization/pride-alliance
-LOCATION:Mason 3132
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:From GA Tech to Inception: Road from GT to creating an impact in A
- tlanta
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200312T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200312T233000Z
-UID:http://hg.gatech.edu/node/633344#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nJoin us for InVenture Prize Week! Participate in this discussion with Gr
- aham Gintz from Techstars Atlanta and Octavia Warren Gilmore\, CEO of Crea
- tive Juice and The Millennial\, talk about the process to become an entrep
- reneur and successful founder through taking advantage of Atlanta resource
- s.\n\nWe will have Southern Fair food for you (chicken tenders\, mac & che
- ese\, garden vegetables). We need your RSVP to ensure we have enough.\n\nL
- inks:\n[0]  http://hg.gatech.edu/node/633344#0\n[1]  http://week.events/in
- novation\n[2]  https://innovation.cae.gatech.edu\n[3]  https://inventurepr
- ize.gatech.edu
-LOCATION:Clough 205Q (same floor as Starbucks\, near the elevators)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SCPC Presents: Harry Potter Magicthon
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200312T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200313T010000Z
@@ -10281,6 +10007,16 @@ DESCRIPTION:Intended audience: Public\nExtras: Free food\, Freebies\nStatu
 LOCATION:Campus Recreation Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Coffee with a Cop
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210316T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210316T180000Z
+UID:http://hg.gatech.edu/node/645334#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nExtras: Free food\nStatus: published\n\nLinks:\
+ n[0]  http://hg.gatech.edu/node/645334#0
+LOCATION:CULC First Floor - Rain Location is outdoor canopy area
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Food4Lives Service with CCF
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210316T173000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210316T193000Z
@@ -10442,6 +10178,23 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:CCF\, 767 Techwood Drive NW
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Relax\, Recharge\, Reboot With Health Initiatives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210324T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210324T190000Z
+UID:http://hg.gatech.edu/node/645319#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\nStatus: published\n\nEnjoy free lunch from food t
+ rucks and a King of Pops for dessert while taking time to relax and connec
+ t with others. Activities will include painting\, giant games\, and a self
+ -massage station. Stop by the table for SMILE (Spreading Messages In Love 
+ and Encouragement) during the event to learn how you can participate in a 
+ campuswide initiative to break a world record. Before leaving\, grab a Sel
+ f-Care Goodie Bag full of items to help you relax\, recharge\, and reboot 
+ at home. Register at [1].\n\nLinks:\n[0]  http://hg.gatech.edu/node/645319
+ #0\n[1]  https://gatech.universitytickets.com/w/event.aspx?id=1769
+LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CCF The Event
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210325T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210326T030000Z
@@ -10536,6 +10289,32 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
  p://hg.gatech.edu/node/644644#0\n[1]  https://groupme.com/join_group/61302
  475/FckvQhw9
 LOCATION:Sawnee Mountain Preserve\, 4075 Spot Road\, Cumming\, Georiga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PianoForte Annual Recital 2021
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210327T180000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210327T200000Z
+UID:https://gatech.campuslabs.com/engage/event/6998953
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nPianoForte
+  is excited to announce our 2nd Annual Piano Recital! We are showcasing ta
+ lented GT pianists and a eclectic range of piano repertoire. This year\, o
+ ur recital will be on Saturday\, March 27th\, from 2-4pm at the Historic A
+ cademy of Medicine. This event will be hybrid\, with limited in-person sea
+ ting as well as a livestream of our performance on our YouTube channel [1]
+  and our Instagram account (@gtpianoforte).\n\nIf you want to attend in-pe
+ rson\, please RSVP to this event on Engage to receive your ticket. If you 
+ are unaffiliated with GT\, please email us (gtpianists@gmail.com) with you
+ r ticket request. We provide food for all guests who attend!\n\nIf you wan
+ t to perform at the recital\, please fill out this performer interest form
+  [2]. Anyone affiliated with GT (Student\, faculty\, staff) is eligible to
+  perform. There is no audition\, minimum experience required\, or genre re
+ striction\, but we ask that you perform for a maximum of 10 minutes. All p
+ erformers will get free lunch during rehearsal and a t-shirt and performer
+  swag on the day of the performance!\n\nPlease email gtpianists@gmail.com 
+ for questions.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/
+ 6998953\n[1]  https://www.youtube.com/channel/UCMSYp9fZ5DJkxMUzgmVVOFw\n[2
+ ]  https://forms.gle/noP1WdyoT5JLNgiT7
+LOCATION:Historic Academy of Medicine
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCF Trivia Lunch
@@ -10698,6 +10477,47 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Christian Campus Fellowship\, 767 Techwood Dr. NW or Online
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Scheller Lunchtime Live: How Pinterest is Delivering Inspiration i
+ n the Time of Covid-19
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210409T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210409T163000Z
+UID:http://hg.gatech.edu/node/645259#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nScheller Lunchtim
+ e Live is a livestream series hosted by the Georgia Tech Scheller College 
+ of Business featuring faculty\, student\, and alumni speakers discussing r
+ elevant topics for the tech-driven\, digital age.\n\nIn this episode\, Ash
+ ish Arya will share why social media needs positivity more than ever and h
+ ow Pinterest is delivering inspiration in the time of Covid-19. Learn why 
+ Pinterest prioritizes positivity\, helps deliver inspiration\, and why the
+  travel industry is ready for a comeback.\n\nJust hit "Attend event" on th
+ e LinkedIn event and refresh this page or the Georgia Tech Scheller Colleg
+ e of Business page on Friday\, April 9 at 12:00 p.m. ET to access the sess
+ ion. Please note\, you must have a LinkedIn profile in order to register a
+ nd view the livestream.\n\nAbout Ashish Arya\n\nAshish has experience work
+ ing on marketing strategy for some of the most recognizable brands and loy
+ alty programs in the world. An entrepreneur at heart\, he enjoys the hunt 
+ for actionable insights about consumer behavior that drives measurable bus
+ iness value.\n\nAs the global head of Strategy & Marketing for Travel & Te
+ ch at Pinterest\, Ashish is responsible for increasing awareness\, demand\
+ , and comprehension for Pinterest advertising solutions. He creates world-
+ class marketing programs and represents Pinterest as the lead spokesperson
+  for the travel and tech industries. Prior to joining Pinterest in 2017\, 
+ Ashish spent his career building some of the world’s biggest brands - in
+ cluding The Coca-Cola Company and Starwood Hotels & Resorts Worldwide. He 
+ was an early practitioner and thought leader in digital marketing and soci
+ al media at Starwood. Subsequently\, he was tasked to grow and lead eComme
+ rce marketing at Coca-Cola.\n\nIn addition to his role at Pinterest\, Ashi
+ sh serves as executive advisor to the Georgia Tech Marketing Association\,
+  on the Board of Directors for the Children’s Museum of Atlanta\, and as
+  a strategic advisor to hospitality companies. In 2017\, Ashish was awarde
+ d 40 under Forty by the Atlanta Business Chronicle. He holds a bachelor’
+ s degree in business management and an MBA from the Georgia Tech Scheller 
+ College of Business.\n\nLinks:\n[0]  http://hg.gatech.edu/node/645259#0\n[
+ 1]  https://www.linkedin.com/events/6775500781580767232/
+LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CCF Trivia Lunch
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210412T154500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210412T174500Z
@@ -10833,6 +10653,52 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  nta.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643371#12\n[1]  http://www.
  gtccf.org/compassion/
 LOCATION:CCF\, 767 Techwood Drive NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WST Learning Community dinner discussion: Dr. Nashlie Sephus\, Ama
+ zon
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210420T213000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210420T223000Z
+UID:http://hg.gatech.edu/node/645231#0
+DESCRIPTION:Intended audience: Graduate students\, Postdoc\, Public\, Unde
+ rgraduate students\nExtras: Free food\nStatus: published\n\nOn Tuesday\, A
+ pril 20\, 2021\, 5:30-6:30pm\, the WST Learning Community will welcome Dr.
+  Nashlie Sephus\, who will speak about her career after earning her PhD in
+  ECE from Georgia Tech. Dinners will be available in Stein for current res
+ idents. The virtual event is open to the Georgia Tech community: https://b
+ luejeans.com/504482582 [1]\n\nBiography: Dr. Nashlie H. Sephus is the Appl
+ ied Science manager for Amazon’s Artificial Intelligence (AI) initiative
+ \, focusing on fairness and identifying biases in the technologies. She fo
+ rmerly led the Amazon Visual Search team in Atlanta\, which launched visua
+ l search for replacement parts on the Amazon Shopping app in June 2018. Th
+ is technology was a result of former startup Partpic (Atlanta) being acqui
+ red by Amazon\, for which she was the Chief Technology Officer (CTO). Prio
+ r to working at Partpic\, she received her Ph.D. from the School of Electr
+ ical and Computer Engineering at the Georgia Institute of Technology in 20
+ 14 and worked for a year with Exponent technical consulting firm in New Yo
+ rk City. Her core research areas were digital signal processing\, machine 
+ learning\, and computer engineering. She received her B.S. in Computer Eng
+ ineering from Mississippi State University (2007).\n\nDr. Sephus is a nati
+ ve of Jackson\, Mississippi and a 2003 graduate of Murrah High School/Powe
+ r Academic and Performing Arts Complex (APAC). She’s had several interns
+ hips and research experiences worldwide with companies such as IBM\, Delph
+ i\, University of California at Berkeley\, GE Research Center\, GE Energy\
+ , Miller Transporters\, and Kwangwoon University in Seoul\, South Korea. R
+ ecently\, Dr. Sephus became founder and CEO of The Bean Path [2] non-profi
+ t organization based in Jackson\, MS assisting individuals with technical 
+ expertise and guidance. During her leisure time\, she enjoys playing tenni
+ s\, playing the piano\, listening to music\, bargain hunting\, biking\, an
+ d working on do-it-yourself (DIY) projects at home.\n\nIn 2020 Nashlie rec
+ eived the National Women's Empowerment Ministry's Innovator of the Year Aw
+ ard. See more details about her at http://www.phenomenash.org/about-nashli
+ e/\n\nLinks:\n[0]  http://hg.gatech.edu/node/645231#0\n[1]  https://nam12.
+ safelinks.protection.outlook.com/?url=https%3A%2F%2Fbluejeans.com%2F504482
+ 582&data=04%7C01%7Ccarol.colatrella%40lmc.gatech.edu%7Ca4e8943e32714694e3d
+ 908d8d74df19d%7C482198bbae7b4b258b7a6d7f32faa083%7C0%7C0%7C637496077055562
+ 053%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik
+ 1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=yIuHvJ256nkULxNXKK%2BUPKfZtL2qyEHHzL3beS
+ Qyuho%3D&reserved=0\n[2]  https://www.thebeanpath.org/
+LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCF The Event
