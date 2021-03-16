@@ -9998,6 +9998,34 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Trash Pickup in Atlanta
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210321T133000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210321T143000Z
+UID:http://hg.gatech.edu/node/645388#0
+DESCRIPTION:Intended audience: Undergraduate students\nStatus: published\n
+ \nVolunteer to serve your community and meet new people! Join other passio
+ nate Georgia Tech students as we clean up Atlanta. Much of Atlanta is not 
+ as well-kept as our campus. Our trash pickup will help out our neighbors a
+ nd make the city a nicer place to be. Is there a better way to contribute 
+ your Saturday morning to a good cause?\n\nWe will meet by the intersection
+  outside North Ave Dining Hall and walk to the area around Centennial Olym
+ pic Park / Fairlie-Poplar District. First-year Servant Leadership Organiza
+ tion (FSLO) will provide trash bags\, grabbers\, gloves\, reflective vests
+ \, and\, of course— snacks!\n\nRSVP is required and incorporates a waive
+ r of liability for risk associated with in-person events. RSVP will remain
+  open the day of the event. Masks\, social distancing\, and adherence to G
+ T Covid-19 policy are required. Your group of volunteers will be under 15 
+ people (likely significantly under).\n\nTime & Date: 9:30-12:30 Sunday\, M
+ arch 21*\n\nLocation: North Ave Dining Hall Intersection\n\nWater: Bring w
+ ater bottles! (and likely a small backpack for it)\n\nSnacks: FreeYumm Ban
+ ana Maple Cookies (should be friendly towards all dietary restrictions\, b
+ ut feel free to contact us for substitute)\, CLIF Bars\n\nContact: Charlie
+  Bauer\, cbauer32@gatech.edu [1]\n\n*Date subject to weather. Date moved a
+ s of 3/14.\n\nLinks:\n[0]  http://hg.gatech.edu/node/645388#0\n[1]  cbauer
+ 32@gatech.edu
+LOCATION:North Ave Dining Hall Intersection\, 120 North Avenue NW
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CCF Trivia Lunch
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210322T154500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210322T174500Z
@@ -10211,6 +10239,19 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:CCF\, 767 Techwood Drive NW
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GT- SHPE Kit Operations
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210401T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210402T000000Z
+UID:https://gatech.campuslabs.com/engage/event/7001704
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome join us to create 
+ hygiene kits for our annual Kit Operation! Volunteers will help us put hyg
+ iene items in drawstring bags to pass out the following Saturday to the ho
+ meless community in Atlanta. Food will be provided! If you would like to v
+ olunteer\, please register. We will have a limited capacity for the event!
+ \n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7001704
+LOCATION:Skiles 
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CCF The Event
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210401T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210402T030000Z
@@ -10308,6 +10349,24 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  nta.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643371#10\n[1]  http://www.
  gtccf.org/compassion/
 LOCATION:CCF\, 767 Techwood Drive NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grad Student Appreciation Week: Treats for Grads
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210408T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210408T190000Z
+UID:http://hg.gatech.edu/node/645375#0
+DESCRIPTION:Intended audience: Graduate students\nStatus: published\n\nGra
+ b some treats just for you sponsored by Grad Studies and the LGBTQIA Resou
+ rce Center. Snacks and other goods will be available for pick up. After 3:
+ 00 p.m.\, any remaining treats will be left in the Graduate Student Commun
+ ity Space\, 6th floor of Crosland Tower. Rain Location: Clough Commons Sec
+ ond Floor Atrium\n\nApril 5-9 is Grad Student Appreciation Week at Georgia
+  Tech. The purpose of this week is to celebrate and emphasize the contribu
+ tions\, impact\, and value of our graduate and professional students. Even
+ ts are only open to graduate and professional students. Click here [1] to 
+ learn more.\n\nLinks:\n[0]  http://hg.gatech.edu/node/645375#0\n[1]  https
+ ://grad.gatech.edu/grad-student-appreciation
+LOCATION:Tech Walkway South
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCF The Event
