@@ -3,78 +3,6 @@ VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
 SUMMARY:Spring 2020 IEN Micro-Fabrication Short Course
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200316T123000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200316T210000Z
-UID:http://hg.gatech.edu/node/632795#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nThe Institute for Electronics and Nanotechnology (IEN) at Georgia Tech w
- ill offer a short course on micro-fabrication from March 16th - 18th\, 202
- 0. This in tensive 3 day short course combines classroom lectures and labo
- ratory based hands-on fabrication in the IEN cleanroom. The goal of the co
- urse is to impart a basic understanding of the science and technology of m
- icro-fabrication processes as used in academia and industry.\n\nThis short
-  course will cover essential micro-fabrication techniques including\, phot
- olithography\, thin film deposition\, etching\, packaging\, and characteri
- zation. Attendees will gain valuable experience by fabricating simple devi
- ces in one of the most advanced uni versity cleanrooms in North America.\n
- \nAttendance is open to the general technical community and is not limited
-  to current Georgia Tech students or IEN users. Anyone interested in clean
- room fabrication techniques is strongly encouraged to attend this course. 
- The course is suitable for both new and experienced researchers interested
-  in micro-fabrication techniques and applications.\n\nA course emphasis wi
- ll be placed on IEN cleanroom resources\, however\, the concepts and techn
- iques discussed are applicable to a broad array of research in this field.
- \n\nRates: *Rates include lunches on all days*\n\n- Georgia Tech Rate: $20
- 0\n- Academic and Government Rate: $400\n- Industry Rate: $800\n\nDue to t
- he nature of the lab portion of the course\, registration has a maximum of
-  15 participants. Registration and full payment MUST be completed online b
- y March the 11th at 4PM EST\, 2020: NO EXCEPTIONS. No one will be allowed 
- to register or pay on-site.\n\nRead the Course Agenda and Register Here\nh
- ttps://tinyurl.com/mfab2020 [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/
- 632795#0\n[1]  http://events.r20.constantcontact.com/register/event?oeidk=
- a07egwkxor28258fc17&llr=m48bm8rab
-LOCATION:Marcus Nanotechnology Building | 345 Ferst Drive | Atlanta GA | 3
- 03332
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spring 2020 IEN Micro-Fabrication Short Course
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200317T123000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200317T210000Z
-UID:http://hg.gatech.edu/node/632795#1
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nThe Institute for Electronics and Nanotechnology (IEN) at Georgia Tech w
- ill offer a short course on micro-fabrication from March 16th - 18th\, 202
- 0. This in tensive 3 day short course combines classroom lectures and labo
- ratory based hands-on fabrication in the IEN cleanroom. The goal of the co
- urse is to impart a basic understanding of the science and technology of m
- icro-fabrication processes as used in academia and industry.\n\nThis short
-  course will cover essential micro-fabrication techniques including\, phot
- olithography\, thin film deposition\, etching\, packaging\, and characteri
- zation. Attendees will gain valuable experience by fabricating simple devi
- ces in one of the most advanced uni versity cleanrooms in North America.\n
- \nAttendance is open to the general technical community and is not limited
-  to current Georgia Tech students or IEN users. Anyone interested in clean
- room fabrication techniques is strongly encouraged to attend this course. 
- The course is suitable for both new and experienced researchers interested
-  in micro-fabrication techniques and applications.\n\nA course emphasis wi
- ll be placed on IEN cleanroom resources\, however\, the concepts and techn
- iques discussed are applicable to a broad array of research in this field.
- \n\nRates: *Rates include lunches on all days*\n\n- Georgia Tech Rate: $20
- 0\n- Academic and Government Rate: $400\n- Industry Rate: $800\n\nDue to t
- he nature of the lab portion of the course\, registration has a maximum of
-  15 participants. Registration and full payment MUST be completed online b
- y March the 11th at 4PM EST\, 2020: NO EXCEPTIONS. No one will be allowed 
- to register or pay on-site.\n\nRead the Course Agenda and Register Here\nh
- ttps://tinyurl.com/mfab2020 [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/
- 632795#1\n[1]  http://events.r20.constantcontact.com/register/event?oeidk=
- a07egwkxor28258fc17&llr=m48bm8rab
-LOCATION:Marcus Nanotechnology Building | 345 Ferst Drive | Atlanta GA | 3
- 03332
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spring 2020 IEN Micro-Fabrication Short Course
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200318T123000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200318T210000Z
 UID:http://hg.gatech.edu/node/632795#2
@@ -9901,6 +9829,39 @@ DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nHave you e
 LOCATION:Caldwell Basement
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CMaT Lunch & Learn with Scientific Bioprocessing Inc.
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210318T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210318T180000Z
+UID:http://hg.gatech.edu/node/645412#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nPARTICIPATION LIN
+ K [1]\n\nIn this Lunch and Learn presentation\, we share how we have combi
+ ned multiple sensors in suitable form factors for the measurement of pH an
+ d dissolved oxygen in a range of culture systems such as multi-well cultur
+ e plates\, microfluidics devices\, shake flasks\, and bioreactors.\n\nScie
+ ntific Bioprocessing Inc. Presenters:\n\n- Jake Boy - Senior Application S
+ cientist\n- Ian Sarad - Senior Bioprocessing Application Scientist\n\nPers
+ onalized medicine in cell and gene therapy has moved therapeutics developm
+ ent back to small scale bioreactors and added new process constraints: cos
+ t and form factor. SBI has developed technologies that overcome these chal
+ lenges and allow researchers to collect real-time sensing data with non-in
+ vasive\, biocompatible\, sterilizable sensors.\n\nWe will also present our
+  new fiber optic sensor platform that allows for sensing measurements insi
+ de a bioreactor at multiple locatins in a perfusion flow loop upstream or 
+ downstream of the bioreactor. This mapping can reveal stagnation zones\, i
+ nsufficient mixing and other process improvement opportunities.\n\nWhile o
+ vercoming form factor limitations is highly beneficial for personalized me
+ dicine applications\, multi-sensing platforms are also critical in bioproc
+ essing and in increasing reproducibility\, reducing cost\, and resulting i
+ n better cell outcomes. We welcome the CMaT community to this presentation
+  and offer evaluations of our technology to the CMaT researchers to encour
+ age collaborations and help accelerate the development and commercializati
+ on of cell therapies.\n\nLinks:\n[0]  http://hg.gatech.edu/node/645412#0\n
+ [1]  https://bluejeans.com/352461581\n[2]  http://cellmanufacturingusa.org
+ /\n[3]  https://selectbiosciences.com/
+LOCATION:Virtual Event - see description for participation info
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PianoForte at the Atlanta (Virtual) Symphony
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210318T193000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210318T210000Z
@@ -10080,6 +10041,22 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Campfire at West Village Fire Pit!
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210324T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210325T010000Z
+UID:http://hg.gatech.edu/node/645483#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
+ aduate students\nStatus: published\n\nJoin GT Trailblazers in recreating y
+ our perfect Spring Break outdoors getaway\, all in the comfort of campus! 
+ Come by and spend time with friendly faces new and old by the campfire. Si
+ lly campfire songs and a way to unwind! Throw a potato in the coals and ta
+ ke it home with you for a dinner you'll never forget.\n\nMasks on\, social
+ ly distanced. Time slots are split into 7 - 8 p.m. and 8 - 9 p.m.\n\nLinks
+ :\n[0]  http://hg.gatech.edu/node/645483#0\n[1]  https://groupme.com/join_
+ group/61302475/FckvQhw9
+LOCATION:West Village Fire Pit
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CCF The Event
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210325T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210326T030000Z
@@ -10199,6 +10176,40 @@ DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nPianoForte
  for questions.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/
  6998953\n[1]  https://www.youtube.com/channel/UCMSYp9fZ5DJkxMUzgmVVOFw\n[2
  ]  https://forms.gle/noP1WdyoT5JLNgiT7
+LOCATION:Historic Academy of Medicine
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Annual Piano Recital at Georgia Tech
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210327T180000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210327T200000Z
+UID:http://hg.gatech.edu/node/645397#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nStatus: published\n\nYou are invited to the 202
+ 1 Annual Recital at Georgia Tech\, presented by PianoForte! The hybrid-for
+ mat concert occurs at the Historic Academy of Medicine\, showcasing talent
+ ed pianists and creative interpretations of iconic music! Desserts and ref
+ reshments will be provided.\n\nEligibility to perform:\n\nWe want anyone (
+ students\, faculty\, staff) who is enthusiastic about playing to have a pl
+ atform to do so. While there is no audition\, genre restriction\, or minim
+ um experience level required\, we ask performers to be comfortable with an
+ d confident in the pieces they choose to perform. For those playing longer
+  pieces\, please aim for a maximum performance time of 10 minutes (may be 
+ adjusted depending on the amount of interest). There will be a mandatory r
+ ehearsal during the week\, date and time TBD & lunch provided.\n\n[Perks f
+ or performers: Recital T-Shirt & Performer Swag Bag\, RHA-sponsored lunch 
+ during rehearsal\, catering during recital\, professional photography and 
+ videography sessions for your portfolio/instagram\, & incredible social me
+ dia features!!]\n\nHow to View:\n\nWant to attend in-person? We have a lim
+ ited number of tickets available for in-person seats. To reserve your seat
+  and receive your ticket\, please RSVP to the event on Engage. If you are 
+ a non-GT affiliate\, please email us with your ticket reservation request.
+ \n\nThe entirety of the concert will also be live-streamed on our [YouTube
+  Channel]( [1] ) and Instagram (@GTPianoForte)\, so you can view it live f
+ rom the comfort of your home or watch the recording at a later time\n\nIf 
+ you have any questions\, concerns\, or requests\, please reach out to us a
+ t gtpianists@gmail.com [2].\n\nLinks:\n[0]  http://hg.gatech.edu/node/6453
+ 97#0\n[1]  https://www.youtube.com/channel/UCMSYp9fZ5DJkxMUzgmVVOFw\n[2]  
+ gtpianists@gmail.com\n[3]  https://linktr.ee/gtpianoforte
 LOCATION:Historic Academy of Medicine
 END:VEVENT
 BEGIN:VEVENT
