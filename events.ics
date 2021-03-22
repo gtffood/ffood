@@ -2,66 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Atlanta Food Bank Community Garden Volunteering
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200321T130000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200321T160000Z
-UID:https://gatech.campuslabs.com/engage/event/5615070
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nGo green this St. Patri
- ck's Day and support sustainable farming in the Atlanta community! Join us
-  Saturday\, March 21st\, 9AM-12 noon for a volunteer shift at Food Well Al
- liance Community Garden with the Atlanta Food Bank.\n\nVolunteers can expe
- ct to work outside on projects involving planting\, pruning\, watering\, m
- ulching\, tilling\, and general repairs on community farms and gardens. Vo
- lunteers should plan to wear closed toed shoes\, long pants and sleeves\, 
- sunscreen\, and bug spray. Breakfast and snacks will be provided (and lunc
- h available for any students interested in eating together after the event
- )\, but students should plan to bring their own reusable water bottle.\n\n
- Transportation to a local farm or garden will be provided via reimbursed U
- bers.\n\nAny interested volunteers should RSVP below and sign up for the M
- arch 21st FWA shift online: [1]\n\nYou will be prompted to create a profil
- e with Atlanta Community Food Bank when signing up. Only students register
- ed online will be able to serve on our shift.\n\nLocation and scheduling d
- etails will be communicated via email the week of the event date. Students
-  should plan to meet at Britain Rec. at 8:15AM so we can travel as a group
- .\n\nSpots are limited\, so sign up today and help grow Atlanta's sustaina
- ble gardening community!\n\nLinks:\n[0]  https://gatech.campuslabs.com/eng
- age/event/5615070\n[1]  https://acfb.volunteerhub.com/lp/volunteergroups/e
- vent/index/10391984
-LOCATION:Brittain Rec
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Food Distribution Volunteering
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200321T140000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200321T180000Z
-UID:http://hg.gatech.edu/node/630475#11
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Credit\, Free Food\, Free Stuff\nStatus: published\n\nFood4Lives 
- is a service family founded by students from Georgia Tech and Emory in 201
- 7 to feed\, educate and empower the homeless of Atlanta.\n\nWe will meet a
- t 1122 Old Chattahoochee Ave at 10 a.m. We will carpool to the Gateway Cen
- ter in Downtown Atlanta (12:15 pm)\, then to nearby Hurt Park (1 pm) after
-  we finish cooking. Feel free to join us at any of the three locations at 
- your convenience.\n\nOur menu usually is:\n\n- Yellow rice\n- Sandwiches (
- tomato\, cucumber\, lettuce\, cheese\, mustard\, ketchup\, hummus)\n- Lemo
- nade\n- Chocolate milk\n- Chips and snacks\n- Salad\n- Macaroni and cheese
- \n- Quesadillas\n- Fruit salad\n- Granola and milk\n- Pancakes\n\nTo spons
- or an event\, visit https://food4lives.org/donate.html. [2]\n\nFood4Lives 
- is a service family founded by students from Georgia Tech and Emory in 201
- 7 to feed\, educate and empower the homeless of Atlanta.\n\nWe all meet at
-  1122 old Chattahoochee ave\, Atlanta @ 10:00 AM. We will carpool together
-  to downtown Gateway centre (12:15 pm) first to Serve out\, then to hurt p
- ark (1 pm) after we finish cooking. Feel free to join us at any of the 3 l
- ocations at your convenience.\n\nOur menu usually is:\n\nYellow rice\nSand
- wiches (tomato’s\, cucumber\, lettuce\, cheese\, mustard\, ketchup\, hum
- mus)\nLemonade\nchocolate milk\nchips & snacks\nSalad\nMacaroni and cheese
- \nQuesadillas\nFruit salad\nGranola & Milk\nPancakes\n\nFor sponsoring an 
- event please check: [2]\n\nLinks:\n[0]  http://hg.gatech.edu/node/630475#1
- 1\n[1]  https://gatech.campuslabs.com/engage/event/5322932\n[2]  https://f
- ood4lives.org/donate.html\n[3]  https://www.facebook.com/events/1177905865
- 930288/
-LOCATION:Food4Lives\, 1122 Old Chattahoochee Avenue
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:GTMI Lunch and Learn Series - The Future of Making\, Fusion Genera
  tive Design for Additive Manufacturing
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200323T160000Z
