@@ -2,150 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Velocity Worship Service
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200324T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200325T003000Z
-UID:https://gatech.campuslabs.com/engage/event/5441758
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
- worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
- h.campuslabs.com/engage/event/5441758
-LOCATION:Baptist Student Union
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Velocity Worship Service
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200324T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200325T010000Z
-UID:https://gatech.campuslabs.com/engage/event/5441743
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
- worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
- h.campuslabs.com/engage/event/5441743
-LOCATION:Baptist Student Union
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Faculty Fellows - Dr. David Torello
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200325T130000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200325T140000Z
-UID:https://gatech.campuslabs.com/engage/event/5479344
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin Dr. David Torello 
- for coffee!\n\nJoin Mechanical Engineering professor Dr. David Torello for
-  coffee! Dr. Torello's research focused on using nonlinear ultrasonic non-
- destructive evaluation (NDE) techniques to characterize material propertie
- s and failure modes in engineering metals. Before coming to Georgia Tech\,
-  Dr. Torello worked with Garmin AT\, conducting thermal and vibration test
- s on avionic GPS units and designing and fabricating avionic GPS packaging
-  and components.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/even
- t/5479344
-LOCATION:Top Time Coffee\, MRDC\, Georgia Tech Campus
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GT Dining and Housing Sustainability
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200325T171500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200325T180500Z
-UID:http://hg.gatech.edu/node/633310#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nHow is Georgia Te
- ch Dining working to reduce food waste and the amount of unnecessary trash
-  sent to the landfill? How about GT Housing’s current and future sustain
- ability initiatives? Join us on March 25 to discuss these topics with GT D
- ining Sustainability Coordinator Jordan Barron\, and GT Housing Sustainabi
- lity Intern\, Heeva Taghian.\n\n- What is composting?\n- How does Georgia 
- Tech compost?\n- How can I properly compost?\n- How can we improve housing
-  sustainability?\n\nFREE FOOD WILL BE PROVIDED\n\nLinks:\n[0]  http://hg.g
- atech.edu/node/633310#0\n[1]  https://www.facebook.com/events/179587039982
- 240/
-LOCATION:Kendeda Building Room 210
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GT Dining & Housing Sustainability
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200325T171500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200325T180500Z
-UID:https://gatech.campuslabs.com/engage/event/5650421
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nHow is Georgia Tech Din
- ing working to reduce food waste and the amount of unnecessary trash sent 
- to the landfill? How about GT Housing’s current and future sustainabilit
- y initiatives? Join us on March 25th to discuss these topics with GT Dinin
- g Sustainability Coordinator Jordan Barron\, and GT Housing Sustainability
-  Intern\, Heeva Taghian.\n*What is composting?\n*How does Georgia Tech com
- post?\n*How can I properly compost?\n*How can we improve housing sustainab
- ility?\n\n*FREE FOOD WILL BE PROVIDED*\n\nLinks:\n[0]  https://gatech.camp
- uslabs.com/engage/event/5650421
-LOCATION:Kendeda Room 210
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mindfulness Book (Session 2)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200325T190000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200325T200000Z
-UID:http://hg.gatech.edu/node/630267#0
-DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\nStatus: p
- ublished\n\nJoin the Georgia Tech community in reading and discussing the 
- book "Mindfulness Meditation: Your Guide to Achieving a Life of Peace by R
- educing Stress and Anxiety through Mindfulness Meditation" by Daniel K. Ba
- rton\, while also learning simple mindfulness exercises that you can easil
- y incorporate into your daily routine. Light refreshments will be provided
- .\n\nSession 2 meets from March 25 through April 15.\n\nLinks:\n[0]  http:
- //hg.gatech.edu/node/630267#0\n[1]  https://gatech.co1.qualtrics.com/jfe/f
- orm/SV_0pMQP7EqznzDSK1\n[2]  https://healthinitiatives.gatech.edu/well-bei
- ng/mental/mindfulness
-LOCATION:Room 301\, Student Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Conversation on Foreign Influence: Tools for Georgia Tech Facult
- y and Researchers
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200325T190000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200325T203000Z
-UID:http://hg.gatech.edu/node/632523#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nExtras: Free food\nStatus: published\n\nTogethe
- r with the Office of the Provost and the Office of the Executive Vice Pres
- ident for Research\, the Office of Ethics & Compliance invites you to:\n\n
- A Conversation on Foreign Influence: Tools for Georgia Tech Faculty and Re
- searchers\n\nPanelists:\n\n- Kaye Husbands-Fealing\, Chair\, Georgia Tech 
- School of Public Policy\n- Dannie Lyvers\, Jr.\, Insider Threat Program Se
- nior Official\, Georgia Tech Research Security\n- John Schurtz\, Senior Re
- search Associate at Georgia Tech Research Institute’s Washington Field O
- ffice\n\nModerator:\n\n- Robert Knotts\, Director\, Georgia Tech Federal R
- elations\n\nPlease use the following link to submit questions:\n[1]\n\nQue
- stions will be accepted until Thurs. March 19.\n\nRefreshments will be pro
- vided.\n\nLinks:\n[0]  http://hg.gatech.edu/node/632523#0\n[1]  https://ga
- tech.co1.qualtrics.com/jfe/form/SV_019LiWcrxw7uJEN
-LOCATION:Student Center Theater
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EWH General Body Meeting 03/26
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200326T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200326T160000Z
-UID:https://gatech.campuslabs.com/engage/event/5465726
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome out to our general
-  body meeting to get updated about activities and events!!! FREE FOOD will
-  be provided so come to Klaus 1443 at 11 AM on Thursday\, March 26!\n\nLin
- ks:\n[0]  https://gatech.campuslabs.com/engage/event/5465726
-LOCATION:Klaus 1443
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Genome Analysis Core Seminar
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200326T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200326T160000Z
-UID:http://hg.gatech.edu/node/632254#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\n"Droplet Digital PCR"\nEric Johnson\, Ph.D.\nFi
- eld Applications Specialist\nBio-Rad Laboratories\, Inc.\n\nDroplet Digita
- l PCR provides absolute quantification of target DNA or RNA without the ne
- ed for a standard curve\, providing orders of magnitude greater precision 
- and sensitivity than real-time PCR. By partitioning reactions into droplet
- s using the QX200 Droplet Digital PCR system\, researchers can now:\n\n- D
- ifferentiate germline copy number variations (CNV)\n- Accurately quantify 
- rare alleles in an excess of wildtype background DNA\n- Precisely quantita
- te nucleic acids\n- Analyze miRNA expression\n- Quantify single cell gene 
- expression\n- Identify positive genome edited clones\n\nSee how the QX200 
- Droplet Digital PCR System enables exploration of complex genetic landscap
- es\, discovers and validates new disease associations\, and redefines a ne
- w era of molecular research.\n\nPlease RSVP (before March 20\, 2020) for l
- unch: Andrew_Greer@Bio-Rad.com\n\nLinks:\n[0]  http://hg.gatech.edu/node/6
- 32254#0\n[1]  http://www.bio-rad.com\n[2]  https://petitinstitute.gatech.e
- du/research/genome-analysis
-LOCATION:Petit Biotechnology Building\, Room 1128 - Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sting Break 2020: Once Upon a Sting Break
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200326T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200327T020000Z
@@ -9886,6 +9742,20 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  97#0\n[1]  https://www.youtube.com/channel/UCMSYp9fZ5DJkxMUzgmVVOFw\n[2]  
  gtpianists@gmail.com\n[3]  https://linktr.ee/gtpianoforte
 LOCATION:Historic Academy of Medicine
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Women's Basketball Sweet 16 Watch Party
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210328T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210328T180000Z
+UID:http://hg.gatech.edu/node/645761#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nStatus: published\n\nJoin Georgia Tech Athletic
+ s at McCamish Pavilion for the NCAA Tournament\, featuring Georgia Tech ve
+ rsus South Carolina in the Sweet 16.\n\nWe'll have raffle prizes\, free fo
+ od plus bluetooth speaker and #NellYeah tumbler giveaways.\n\nSeats are li
+ mited - register at https://ramblinwreck.com/students [1]\n\nLinks:\n[0]  
+ http://hg.gatech.edu/node/645761#0\n[1]  https://ramblinwreck.com/students
+LOCATION:McCamish Pavilion
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCF Trivia Lunch
