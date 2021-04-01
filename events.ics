@@ -2,158 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Brunch is Better: Grad Student Appreciation Week Brunch
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200330T140000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200330T153000Z
-UID:http://hg.gatech.edu/node/632104#0
-DESCRIPTION:Intended audience: Graduate students\nExtras: Free food\nStatu
- s: published\n\nLinks:\n[0]  http://hg.gatech.edu/node/632104#0
-LOCATION:Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GTMI Lunch and Learn Series - Laser Micromachining
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200330T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200330T170000Z
-UID:http://hg.gatech.edu/node/632048#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nLaser Micromachining\n\nRichard Shafer\, Manager of IEN Laser Micromachi
- ning Lab\, Georgia Tech IEN\n\nLinks:\n[0]  http://hg.gatech.edu/node/6320
- 48#0
-LOCATION:GTMI 114
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Food Fest
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200330T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200330T180000Z
-UID:http://hg.gatech.edu/node/633557#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
- aduate students\nStatus: published\n\nStart off your week right with kicki
- n’ cultural cuisine from all over the globe! GTIA is proud to partner wi
- th cultural orgs campus-wide to bring you what we know you want (and need)
-  most: free food from around the world! Join us for the first of many even
- ts for our week-long culture fest to celebrate diversity\, international c
- uisine\, and multiculturalism!\n\nLinks:\n[0]  http://hg.gatech.edu/node/6
- 33557#0\n[1]  https://www.facebook.com/events/508975856428300/
-LOCATION:Tech Green
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dinner with Dr. Rebecca Burnett
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200330T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200330T233000Z
-UID:http://hg.gatech.edu/node/631436#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nDr. Rebecca Burnett\, Director of
-  Writing and Communication and Professor in the School of Literature\, Med
- ia\, and Communication\, will discuss a new approach to career essentials 
- (all supported by academic research and industry best practices). She will
-  share 21 competencies every professional should be able to demonstrate.\n
- \nProfessor Burnett received her BA from the University of Massachusetts\,
-  her M.Ed. Curriculum in Administration from the University of Massachuset
- ts\, and her MA and PhD from Carnegie Mellon University. Prior to joining 
- LMC\, she was a Professor Rhetoric & Professional Communication in the Dep
- artment of English at Iowa State University. Her areas of interest include
-  professional and technical communication\; collaboration\, groups\, and t
- eams\; communication assessment\; communication in the disciplines and pro
- fessions\; intercultural/international communication\; and risk communicat
- ion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/631436#0
-LOCATION:Stein House/4th St. A\, 733 Techwood Dr.\, Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dinner with Dr. Rebecca Burnett\, Director of Writing and Communic
- ation and Professor\, Literature\, Media\, and Communication
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200330T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200330T233000Z
-UID:https://gatech.campuslabs.com/engage/event/5510893
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDr. Rebecca Burnett\, D
- irector of Writing and Communication and Professor in the School of Litera
- ture\, Media\, and Communication\, will discuss a new approach to career e
- ssentials (all supported by academic research and industry best practices)
- . She will share 21 competencies every professional should be able to demo
- nstrate.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/551089
- 3
-LOCATION:Stein House/4th St. A\, 733 Techwood Dr.\, Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Treats for Grads
-DTSTART;VALUE=DATE:20200331
-DTEND;VALUE=DATE:20200401
-UID:http://hg.gatech.edu/node/632106#0
-DESCRIPTION:Intended audience: Graduate students\nExtras: Free food\nStatu
- s: published\n\nLinks:\n[0]  http://hg.gatech.edu/node/632106#0
-LOCATION:Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:March Community Connection Event
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200331T151500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200331T160000Z
-UID:https://gatech.campuslabs.com/engage/event/5672303
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nStephanie Akulo will be
-  visiting us in GL. She has been working with exploring/undecided students
-  for three and a half years. Her interest in combining advising theory and
-  student developmental theory led to unique approaches to helping students
-  gain autonomy and confidence in pursuing their interests. I f you feel li
- ke you want a bit of professional advice regarding your major\, career\, o
- r life decisions\, come out and talk to her.\n\nLinks:\n[0]  https://gatec
- h.campuslabs.com/engage/event/5672303
-LOCATION:Perry 1 Lounge
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2020-2021 Parking Permit Renewals and Sales Brown Bag
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200331T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200331T170000Z
-UID:http://hg.gatech.edu/node/633501#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nBring your lunch to one of PTS’s Brown Bag Se
- ssions to learn more about this year’s permit registration season and pa
- rking updates. Participants in each session will be entered in drawings fo
- r $100 discount on next year’s permit! Click here for rules. [1]\n\n- Th
- urs.\, March 12\, 12:00 p.m.\, West Village Dining Commons-Ensemble Room\n
- - Wed.\, March 18\, 12:00 p.m.\, Technology Square Research Building (TSRB
- )-Banquet Hall\n- Fri.\, March 27\, 12:00 p.m.\, Student Center-Room 321\n
- - Tues.\, March 31\, 12:00 p.m.\, Student Center-Room 321\n\nEmail Torise 
- Young at torise.young@gatech.edu [2] to schedule a private info session fo
- r your department or organization.\n\nClick here for more information abou
- t 2020-2021 parking permit renewals and sales. [3]\n\nLinks:\n[0]  http://
- hg.gatech.edu/node/633501#0\n[1]  http://pts.gatech.edu/rules-100-permit-d
- iscount-winners\n[2]  torise.young@gatech.edu\n[3]  http://pts.gatech.edu/
- news/2020-2021-parking-permit-renewals-and-sales
-LOCATION:Student Center-Room 321
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Graduate Student Stipend Town Hall
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200331T203000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200331T220000Z
-UID:http://hg.gatech.edu/node/633396#0
-DESCRIPTION:Intended audience: Graduate students\nExtras: Free food\nStatu
- s: published\n\nGraduate Student Stipend Town Hall\nJoin the College of Sc
- iences Graduate Student Diversity Council (GSDC) and United Campus Workers
-  of Georgia (UCWGA) at Georgia Tech to discuss how you can advocate for st
- ipend increases within your program. All graduate students from across cam
- pus are invited. There will be a panel of representatives from Georgia Tec
- h and other campuses who have successfully received stipend raises. Food w
- ill be provided.\n\nLinks:\n[0]  http://hg.gatech.edu/node/633396#0\n[1]  
- https://forms.gle/k4sj4b9nAnnN7NCH6
-LOCATION:Mason 3133
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Society of Women Engineers General Body Meeting
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200331T211500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200331T230000Z
-UID:http://hg.gatech.edu/node/624549#21
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nCome out to our general body meeting every Tues
- day from 5:15 to 7 PM in Smithgall Student Services (Flag Building) Room 1
- 17.\n\n5:15-5:45 PM Free dinner and social time with our members and offic
- ers\n\n5:45-6 PM: Announcements and Upcoming Events Reminders\n\n6-7 PM: S
- ocial Hour or Company Sponsored Event (Please check our weekly newletter f
- or the upcoming company or activity of the week!)\n\nIf you have any quest
- ions\, please feel free to email our President\, Toral Kadakia\, at swepre
- sident@gmail.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/624549#21\n
- [1]  swepresident@gmail.com\n[2]  https://www.facebook.com/GeorgiaTechSWE/
-LOCATION:Room 117\, Smithgall Student Services (Flag) Building
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Velocity Worship Service
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200331T233000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200401T003000Z
@@ -9808,6 +9656,16 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFree lunch and trivia e
 LOCATION:Christian Campus Fellowship (CCF)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pops with Cops
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210406T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210406T180000Z
+UID:http://hg.gatech.edu/node/645915#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nExtras: Free food\nStatus: published\n\nLinks:\
+ n[0]  http://hg.gatech.edu/node/645915#0
+LOCATION:Tech Green
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Food4Lives Service with CCF
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210406T173000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210406T193000Z
@@ -9860,6 +9718,20 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  ]  https://gatech.campuslabs.com/engage/event/6869232\n[2]  https://us02we
  b.zoom.us/j/84188146312\n[3]  https://linktr.ee/gtccf
 LOCATION:Christian Campus Fellowship\, 767 Techwood Dr. NW or Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FLI Challenge: GTSF Trivia
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210409T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210409T180000Z
+UID:https://gatech.campuslabs.com/engage/event/7038899
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nTo close out Philanthro
+ py Week\, come play a game of trivia to learn more about GTSF with our Fir
+ st-Year Leadership Initiative (FLI) Committee! Chat with us about philanth
+ ropy and learn about the ways your donations make an impact on campus. Fre
+ e popsicles will be available for those who stop by and answer a few GTSF 
+ trivia questions.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/eve
+ nt/7038899
+LOCATION:Tech Walkway
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Scheller Lunchtime Live: How Pinterest is Delivering Inspiration i
