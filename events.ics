@@ -2,178 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Velocity Worship Service
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200331T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200401T003000Z
-UID:https://gatech.campuslabs.com/engage/event/5441759
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
- worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
- h.campuslabs.com/engage/event/5441759
-LOCATION:Baptist Student Union
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Velocity Worship Service
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200331T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200401T010000Z
-UID:https://gatech.campuslabs.com/engage/event/5441744
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
- worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
- h.campuslabs.com/engage/event/5441744
-LOCATION:Baptist Student Union
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Faculty Fellows - Dr. Shannon Yee
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200401T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200401T170000Z
-UID:https://gatech.campuslabs.com/engage/event/5475442
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin Dr. Shannon Yee fo
- r lunch!\n\nMechanical engineering professor Dr. Yee’s research focuses 
- on heat transfer\, combustion\, and energy systems. Previously\, Dr. Yee w
- as named the first fellow to the U.S. Dept. of Energy's Advanced Research 
- Project Agency and was selected by the Bill & Melinda Gates Foundation to 
- lead research on affordable\, self-contained toilets not dependent on sewe
- r connection.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5
- 475442
-LOCATION:Ferst Student Center 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mindfulness Book (Session 2)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200401T190000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200401T200000Z
-UID:http://hg.gatech.edu/node/630267#1
-DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\nStatus: p
- ublished\n\nJoin the Georgia Tech community in reading and discussing the 
- book "Mindfulness Meditation: Your Guide to Achieving a Life of Peace by R
- educing Stress and Anxiety through Mindfulness Meditation" by Daniel K. Ba
- rton\, while also learning simple mindfulness exercises that you can easil
- y incorporate into your daily routine. Light refreshments will be provided
- .\n\nSession 2 meets from March 25 through April 15.\n\nLinks:\n[0]  http:
- //hg.gatech.edu/node/630267#1\n[1]  https://gatech.co1.qualtrics.com/jfe/f
- orm/SV_0pMQP7EqznzDSK1\n[2]  https://healthinitiatives.gatech.edu/well-bei
- ng/mental/mindfulness
-LOCATION:Room 301\, Student Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2020 Ideas to Serve (I2S) Competition Finals
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200401T203000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200401T230000Z
-UID:http://hg.gatech.edu/node/633189#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\, Freebies\nStatus: 
- published\n\nJoin us to see what social issues GT students are exploring a
- nd solving at this year’s Ideas to Serve Finals. Vote for your favorite 
- projects\, enjoy some pops\, get a cool t-shirt\, take a fun pic at the ph
- oto booth\, and win some raffle prizes.\n\nFinals Schedule\n\n- Poster Ses
- sion - 6:00 PM\n- Raffle Drawing - 7:15 PM\n- Team Pitches and Audience Vo
- te 7:30 PM\n- Awards Ceremony - 8:00 PM\n\nWe are excited to announce a ne
- w philosophy for our competition – one that focuses on an in-depth under
- standing of the social/environmental issue a student is passionate about.\
- n\nWe are morphing our previous tracks - Ideas and Advanced - into two new
-  tracks: Problem Discovery Track - for students who are exploring a social
- /environmental issue with the intent of gaining a deep understanding of th
- at space and where their skills fit in\, and Solutions Discovery Track - f
- or students who are more advanced on their discovery journey and are formu
- lating community-based solutions.\n\nWe will award several teams in both t
- racks and all teams are eligible to compete in our specialty awards (Best 
- Video\, Best Poster\, People's Choice).\n\nParticipating in I2S also fulfi
- lls the Final Deliverable requirement for the Serve-Learn-Sustain Innovati
- ng for Social Impact Program.\n\nList of teams and judges will be availabl
- e shortly.\n\nI2S funding is made possible through the generous support of
-  our Georgia Tech and Community Partners:\n\nThe Cecil B. Day Program for 
- Business Ethics (Solution Discovery Track Awards)\n\nCenter for Serve - Le
- arn - Sustain (Problem Discovery Track Awards)\n\nSteven A. Denning Techno
- logy and Management Program\n\nDesign Bloc Georgia Tech\n\nLEAD Program\n\
- nRay C. Anderson Center for Sustainable Business\n\nSpeechworks\n\nJoin us
-  for an afternoon of immersion\, innovation\, and ice-cold pops.\n\nLinks:
- \n[0]  http://hg.gatech.edu/node/633189#0\n[1]  https://serve-learn-sustai
- n.gatech.edu/innovating-social-impact-program\n[2]  https://www.scheller.g
- atech.edu/centers-initiatives/ile/i2s/index.html
-LOCATION:Scheller College of Business Atrium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Phi Alpha Theta Keynote
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200401T210000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200401T233000Z
-UID:http://hg.gatech.edu/node/632087#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
- aduate students\nStatus: published\n\nDr. James Brooks\, Carl and Sally Ga
- ble Distinguished Professor of History at the University of Georgia\, will
-  give a keynote talk from 5:00-6:30 PM. Dr. Brooks is a leading historian 
- of western history and public history. His 2002 book\, Captives & Cousins:
-  Slavery\, Kinship and Community in the Southwest Borderlands focused on t
- he traffic in women and children across the region as expressions of inter
- cultural violence and accommodation and won the Bancroft Prize. Mesa of So
- rrows: A History of the Awat’ovi Massacre appeared from WW Norton in 201
- 6\, and garnered the 2017 Caughey Prize for the most distinguished book on
-  the American West from the Western History Association\, and the 2017 Erm
- ine Wheeler-Voeglin Book Award for best book-length contribution to the fi
- eld from the American Society for Ethnohistory.\n\nDr. Brooks will be spea
- king about his current project\, "Picketwire." After the Keynote\, there w
- ill be a separate banquet dinner for members and new inductees of Phi Alph
- a Theta.\n\nLinks:\n[0]  http://hg.gatech.edu/node/632087#0
-LOCATION:TBD
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2020 Ideas 2 Serve Finals
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200401T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200402T003000Z
-UID:http://hg.gatech.edu/node/630328#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nExtras: Free food\, Freebies\nStatus: published\
- n\nYou're invited to an afternoon of inspiring pitches showcasing the best
-  of Georgia Tech's passion to solve the world's most pressing social probl
- ems (and raffle prizes and delicious cookies!). Come to support our studen
- ts who Dare to Care!\n\nDuring the Finals Poster Showcase\, the judges wil
- l circulate among finalists to determine the prize winners. Each team will
-  then present their one-minute pitch\, during which the audience can vote 
- for their favorite team to win the Peoples’ Choice Award.\n\nI2S is a co
- mpetition for students who are working on early-stage projects to solve so
- cial/environmental problems. I2S is primarily a competition of ideas that 
- are ready to move to 'action' and need mentoring\, expert feedback\, and f
- unds to get started.\n\nIdeas for the competition might focus on sustainab
- le community development\, access to quality education\, employment opport
- unities for people with disabilities\, clean water solutions\, affordable 
- health and wellness solutions for underserved populations\, alternate sour
- ces of energy\, just to name a few.\n\nFind the list of finalist teams and
-  participating judging here [1].\n\nI2S is generously supported by our par
- tners at Georgia Tech: The Cecil B. Day Program in Business Ethics\, Creat
- e-X\, Innovation and Design Studio\, LEAD\, Steven A. Denning Technology a
- nd Management Program\, The Center for Serve-Learn-Sustain\, The Engineeri
- ng for Social Innovation Center\, The Global Development Program @ Sam Nun
- n School\, and by our community partners:The Covenant Presbyterian Church\
- , Hypepotamus\, and Speechworks.\n\nLinks:\n[0]  http://hg.gatech.edu/node
- /630328#0\n[1]  https://www.scheller.gatech.edu/centers-initiatives/ile/i2
- s/I2s_2018-program.pdf\n[2]  https://www.eventbrite.com/e/ideas-to-serve-i
- 2s-competition-finals-tickets-44554401414\n[3]  https://www.scheller.gatec
- h.edu/centers-initiatives/ile/i2s/index.html\n[4]  https://www.scheller.ga
- tech.edu/why-scheller/visit-campus/directions-parking.html
-LOCATION:Scheller College of Business
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Treats for Grads
-DTSTART;VALUE=DATE:20200402
-DTEND;VALUE=DATE:20200403
-UID:http://hg.gatech.edu/node/632107#0
-DESCRIPTION:Intended audience: Graduate students\nExtras: Free food\nStatu
- s: published\n\nLinks:\n[0]  http://hg.gatech.edu/node/632107#0
-LOCATION:Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Career Services Workshop: Time's Up
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200402T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200402T233000Z
-UID:http://hg.gatech.edu/node/630492#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: draft\n\nObtaining an internship is a gre
- at opportunity to gain real world experience. However\, interacting in the
-  professional world can be both challenging and complicated. Learn how to 
- navigate the professional environment and how to respond when uncomfortabl
- e circumstances arise.\n\nRSVP here [1]\n\nLinks:\n[0]  http://hg.gatech.e
- du/node/630492#0\n[1]  https://gatech.co1.qualtrics.com/jfe/form/SV_9EMWBt
- tIVZgZ38N
-LOCATION:Klaus 1116
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Save the Date: Diversity\, Inclusion + Social Good in Urban Analyt
  ics (DISA) Symposium
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200403T123000Z
@@ -9723,14 +9551,17 @@ BEGIN:VEVENT
 SUMMARY:FLI Challenge: GTSF Trivia
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210409T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210409T180000Z
-UID:https://gatech.campuslabs.com/engage/event/7038899
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nTo close out Philanthro
- py Week\, come play a game of trivia to learn more about GTSF with our Fir
- st-Year Leadership Initiative (FLI) Committee! Chat with us about philanth
- ropy and learn about the ways your donations make an impact on campus. Fre
- e popsicles will be available for those who stop by and answer a few GTSF 
- trivia questions.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/eve
- nt/7038899
+UID:http://hg.gatech.edu/node/646009#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
+ aduate students\nExtras: Free Food\nStatus: published\n\nTo close out Phil
+ anthropy Week\, come play a game of trivia to learn more about GTSF with o
+ ur First-Year Leadership Initiative (FLI) Committee! Chat with us about ph
+ ilanthropy and learn about the ways your donations make an impact on campu
+ s. Free popsicles will be available for those who stop by and answer a few
+  GTSF trivia questions.\n\nLinks:\n[0]  http://hg.gatech.edu/node/646009#0
+ \n[1]  https://gatech.campuslabs.com/engage/event/7038899\n[2]  https://ww
+ w.gtsf.gatech.edu/s/1481/alumni/17/interior-wide.aspx?sid=1481&gid=42&pgid
+ =20760
 LOCATION:Tech Walkway
 END:VEVENT
 BEGIN:VEVENT
@@ -9993,6 +9824,17 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  1]  https://gatech.campuslabs.com/engage/event/6869234\n[2]  https://us02w
  eb.zoom.us/j/84188146312\n[3]  https://linktr.ee/gtccf
 LOCATION:Christian Campus Fellowship\, 767 Techwood Dr. NW or Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Movie Night under the Stars
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210423T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210424T023000Z
+UID:http://hg.gatech.edu/node/646052#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatec
+ h.edu/node/646052#0\n[1]  http://earthday.gatech.edu/schedule-0\n[2]  http
+ s://gatech.universitytickets.com/w/event.aspx?id=1782&p=1
+LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCF Trivia Lunch
