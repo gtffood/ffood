@@ -2,25 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:DramaTech presents A New Brain
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200405T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200405T030000Z
-UID:http://hg.gatech.edu/node/621368#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nMusic and Lyrics 
- by William Finn\n\nBook by William Finn and James Lapine\n\nGordon collaps
- es into his lunch and awakes in the hospital\, surrounded by his maritime-
- enthusiast lover\, his mother\, a co-worker\, the doctor\, and the nurses.
-  Reluctantly\, he had been composing a song for a children’s television 
- show that features a frog – Mr. Bungee – and the specter of this large
-  green character and the unfinished work haunts him throughout his medical
-  ordeal. What was thought to be a tumor turns out to be something more ope
- rable\, and Gordon recovers\, grateful for a chance to compose the songs h
- e yearns to produce.\n\nLinks:\n[0]  http://hg.gatech.edu/node/621368#0\n[
- 1]  https://dramatech.org/event/a-new-brain/
-LOCATION:DramaTech Theatre\, north side of the Ferst Center for the Arts
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:GTMI Lunch and Learn Series - Scalable Nanomanufacturing of Nanoel
  ectronic Devices
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200406T160000Z
@@ -9494,6 +9475,48 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFree lunch and trivia e
  begins at 11:50am and 12:50pm.\n\nLinks:\n[0]  https://gatech.campuslabs.c
  om/engage/event/6891749
 LOCATION:Christian Campus Fellowship (CCF)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2021 GT Off-Road Car Unveiling
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210420T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210420T161500Z
+UID:http://hg.gatech.edu/node/646132#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free Food\nStatus: published\n
+ \nGT Off-Road (Baja SAE) is unveiling our new 2021 car!\n\nGT Off-Road is 
+ a student competition team at Georgia Tech that participates in the Baja S
+ AE design competition. Each year\, our team designs and builds a single-se
+ at off-road vehicle that is capable of tackling mud pits\, rock climbs\, r
+ iver crossings\, and myriad of other obstacles. Innovations in suspension\
+ , chassis\, and drivetrain design lead us to victories and awards at our t
+ hree annual national competitions.\n\nEvery year GT Off-Road unveils our n
+ ewest vehicle once it's complete in order to showcase new design features 
+ and their validations before we head to competition where we will be compe
+ ting against more than 100 other schools and their vehicle designs. The un
+ veiling is where we show our sponsors\, faculty\, and student body the res
+ ults of their support and guidance manifested into our car. Give us a chan
+ ce to show you how a professional racing team in a rigorous competition sc
+ enario brings innovative ideas to the dirt.\n\nPlease RSVP for the unveili
+ ng here: [2]\n\nCheck your email 2-3 days prior for an invite to the meeti
+ ng!\n\nGT Off-Road (Baja SAE) is unveiling our new 2021 Car!\n\nGT Off-Roa
+ d is a student competition team at Georgia Tech that participates in the B
+ aja SAE design competition. Each year\, our team designs and builds a sing
+ le seat off road vehicle that is capable of tackling mud pits\, rock climb
+ s\, river crossings\, and myriad of other obstacles. Innovations in suspen
+ sion\, chassis\, and drivetrain design lead us to victories and awards at 
+ our three annual national competitions.\n\nEvery year GT Off-Road unveils 
+ our newest vehicle once it's complete in order to showcase new design feat
+ ures and their validations before we head to competition where we will be 
+ competing against more than 100 other schools and their vehicle designs. T
+ he unveiling is where we show our sponsors\, faculty\, and student body th
+ e results of their support and guidance manifested into our car. Give us a
+  chance to show you how a professional racing team in a rigorous competiti
+ on scenario brings innovative ideas to the dirt.\n\nPlease RSVP for the un
+ veiling here: [2]\n\nCheck your e-mail 2-3 days prior for an invite to the
+  meeting!\n\nLinks:\n[0]  http://hg.gatech.edu/node/646132#0\n[1]  https:/
+ /gatech.campuslabs.com/engage/event/7049916\n[2]  https://tinyurl.com/3ufw
+ avyz\n[3]  https://bluejeans.com/186043034
+LOCATION:Love Atrium (771 Ferst Dr NW) and Online
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:IAC's Annual Awards Luncheon
