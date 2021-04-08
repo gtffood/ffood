@@ -2,92 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:GTMI Lunch and Learn Series - Scalable Nanomanufacturing of Nanoel
- ectronic Devices
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200406T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200406T170000Z
-UID:http://hg.gatech.edu/node/632045#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nScalable Nanomanufacturing of Nanoelectronic Devices\n\nMichael Filler\,
-  Associate Professor\, Georgia Tech School of Chemical and Biomolecular En
- gineering\n\nLinks:\n[0]  http://hg.gatech.edu/node/632045#0\n[1]  http://
- hg.gatech.edu/node/632043#0
-LOCATION:GTMI 114
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dinner with Dr. Munia Bhaumik\, Emory University
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200406T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200406T233000Z
-UID:http://hg.gatech.edu/node/633206#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nDr. Munia Bhaumik discusses her c
- areer and offers career advice over dinner.\n\nMunia Bhaumik is Assistant 
- Professor in the Dept. of Comparative Literature at Emory University. She 
- has been a Fellow of the Cornell Society for the Humanities and Melville S
- ociety. Her work has also appeared or is forthcoming in Yearbook of Compar
- ative Literature\; Dialogos: A Journal of Latino Studies\; Mapocho: Revist
- a de Humanidades\; UCLA Thinking Gender Papers\, Leviathan: A Journal of M
- elville Studies and in the anthology Islam and Postcolonial Discourse: Pur
- ity and Hybridity.\n\nShe is the author of the monograph In Liberty’s Sh
- adow: The Noncitizen in American Letters and Law.\n\nIn addition\, she is 
- currently working on two book projects:\n\n1) The Poetry of Politics which
-  engages how the "politics of extinction" impacts early and nineteenth-cen
- tury American political philosophy\; law\; and poetry. The manuscript in p
- rogress draws from eco-criticism\, indigenous studies\; translation studie
- s. and critical theory.\n\n2) The Art of Peace seeks to examine literary\,
-  philosophical\, and legislative discourses about reconciliation amidst co
- nditions of “perpetual war.”\n\nHer research and teaching interests al
- so include theories of democracy\, citizenship\, migration\, race\, and ri
- ghts\; literature and law\; continental and political philosophy\; early a
- nd nineteenth-century American literature\, drawing from a range of schola
- rship in feminist theory\, Native American\, African-American\, Latino\, a
- nd hemispheric American studies\; critical race theory\; translation\; and
-  poetry.\n\nLinks:\n[0]  http://hg.gatech.edu/node/633206#0
-LOCATION:Stein House/4th St. A\, 753 Techwood\, Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Keep Teaching: Advice from Thank a(n Online) Teacher Recipients
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200407T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200407T170000Z
-UID:http://hg.gatech.edu/node/633929#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \nStatus: published\n\nKeep Teaching: Advice from Thank a(n Online) Teache
- r Recipients\n\nCurious how to handle some of the behind-the-scenes aspect
- s of teaching remotely? There are many resources out there to support you 
- in the more obvious teaching activities\, but what about managing your own
-  time in this new environment? Or providing timely but effective feedback 
- on student work? The Center for Teaching and Learning will explore these q
- uestions and others with a panel of Tech faculty who have experience with 
- online instruction and have received Thank-a-Teacher recognitions for thei
- r excellent teaching.\n\nJoin us on Tuesday April 7th from 12:00-1:00pm fo
- r an engaging discussion with our colleagues. Grab your lunch\, bring your
-  own questions to ask the panel\, and meet us in BlueJeans!\n\nPanelists:\
- nPolo Chau\, Associate Professor\, Computational Science and Engineering\n
- Michael Schatz\, Professor\, Physics\nJoel Sokol\, Professor\, Industrial 
- and Systems Engineering\n\nLinks:\n[0]  http://hg.gatech.edu/node/633929#0
- \n[1]  http://ctl.gatech.edu/content/keep-teaching-advice-thank-online-tea
- cher-recipients
-LOCATION:Webinar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Society of Women Engineers General Body Meeting
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200407T211500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200407T230000Z
-UID:http://hg.gatech.edu/node/624549#22
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nCome out to our general body meeting every Tues
- day from 5:15 to 7 PM in Smithgall Student Services (Flag Building) Room 1
- 17.\n\n5:15-5:45 PM Free dinner and social time with our members and offic
- ers\n\n5:45-6 PM: Announcements and Upcoming Events Reminders\n\n6-7 PM: S
- ocial Hour or Company Sponsored Event (Please check our weekly newletter f
- or the upcoming company or activity of the week!)\n\nIf you have any quest
- ions\, please feel free to email our President\, Toral Kadakia\, at swepre
- sident@gmail.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/624549#22\n
- [1]  swepresident@gmail.com\n[2]  https://www.facebook.com/GeorgiaTechSWE/
-LOCATION:Room 117\, Smithgall Student Services (Flag) Building
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Velocity Worship Service
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200407T233000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200408T003000Z
@@ -9293,6 +9207,19 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Christian Campus Fellowship\, 767 Techwood Dr. NW or Online
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Guest Speaker: Vegan Loca | GT Veggie Jackets
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210409T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210409T010000Z
+UID:http://hg.gatech.edu/node/646179#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nInterested in loc
+ al vegan food? @veganloca_atl serves plant-based Latin food with a souther
+ n slap. Join us for a talk + Q&A!\n\nLinks:\n[0]  http://hg.gatech.edu/nod
+ e/646179#0\n[1]  https://us04web.zoom.us/j/77527651871?pwd=SDJpdjlXMWdSWng
+ yNktXcnZBRTFvQT09\n[2]  https://www.facebook.com/gtveggiejackets
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FLI Challenge: GTSF Trivia
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210409T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210409T180000Z
@@ -9351,6 +9278,41 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Paint Like Picasso: Explore Painting Night
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210409T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210410T000000Z
+UID:https://gatech.campuslabs.com/engage/event/7038635
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nCome join 
+ Student Assistant Nick in West Commons Classroom at 6:30PM on Friday\, Apr
+ il 9th\, for a nice relaxing painting night! We'll have completmentary art
+  supplies\, finger foods\, and a Bob Ross video to follow along with if yo
+ u'd like\, but you're free to do as you please. We have a capacity of 15 i
+ n West Commons\, so RSVP quickly!\n\nLinks:\n[0]  https://gatech.campuslab
+ s.com/engage/event/7038635
+LOCATION:West Commons Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stream Cleanup
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210411T133000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210411T170000Z
+UID:http://hg.gatech.edu/node/646223#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
+ aduate students\nStatus: published\n\nSunday\, April 11\, 9:30 a.m. - 1 p.
+ m.\n\nCome join GT Trailblazers for cleaning up a portion of Nancy Creek i
+ n Norcross from 9:30 a.m. - 1 p.m. Help a local environment and enjoy some
+  time with friends!\n\nWear comfortable clothes and waterproof shoes and b
+ ring a mask\, plenty of water\, and some lunch! Consider bringing a change
+  of shoes.\n\nWe will observe all COVID guidelines and observe mask wearin
+ g and social distance at all times.\n\nPlease provide your own transportat
+ ion if possible\, but if you need a ride\, meet at the CULC turnaround at 
+ 9:30 a.m. to be picked up. Hope to see you there!\n\nIf you're not on our 
+ GroupMe\, join! It's where we do all our communication and event coordinat
+ ion: [1].\n\nLinks:\n[0]  http://hg.gatech.edu/node/646223#0\n[1]  https:/
+ /groupme.com/join_group/61302475/FckvQhw9\n[2]  https://gatech.campuslabs.
+ com/engage/organization/trailblazers
+LOCATION:Nancy Creek\, 2625 Homeland Dr.\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CCF Trivia Lunch
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210412T154500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210412T174500Z
@@ -9386,6 +9348,20 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  nta.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643371#11\n[1]  http://www.
  gtccf.org/compassion/
 LOCATION:CCF\, 767 Techwood Drive NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scavenger Hunt
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210413T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210413T233000Z
+UID:http://hg.gatech.edu/node/646211#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free Food\nStatus: published\n
+ \nJoin us for our final meeting of the semester. We will be hosting a fun 
+ scavenger hunt and providing free food!\n\nLinks:\n[0]  http://hg.gatech.e
+ du/node/646211#0\n[1]  https://gatech.campuslabs.com/engage/event/7056862\
+ n[2]  http://gatech.campuslabs.com/engage/organization/spanish-speaking-or
+ ganization
+LOCATION:Instructional Center Lawn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCF The Event
@@ -9587,6 +9563,50 @@ DESCRIPTION:Intended audience: Graduate students\, Postdoc\, Public\, Unde
  1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=yIuHvJ256nkULxNXKK%2BUPKfZtL2qyEHHzL3beS
  Qyuho%3D&reserved=0\n[2]  https://www.thebeanpath.org/
 LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PhD Defense by Dorsa Elmi
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210422T180000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210422T200000Z
+UID:http://hg.gatech.edu/node/646166#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nStatus: published\n\nPh.D. Thesis Defense Announ
+ cement\n\nNavigating through space in turbulence tubes: Copepod responses 
+ to Burgers vortex\n\nby\n\nDorsa Elmi\n\nAdvisor(s):\n\nDr. Donald Webster
+  (CEE)\n\nCommittee Members:\n\nDr. David Fields (Bigelow Laboratory for O
+ cean Sciences)\, Dr. Chris Lai (CEE)\, Dr. Philip Roberts (CEE)\, Dr. Jean
+ nette Yen (School of Biological Sciences)\n\nDate & Time: April 22nd\, 202
+ 1 2:00 pm EDT\n\nLocation: [1]\n\nA physical model of a Burgers vortex was
+  created in the laboratory with characteristics corresponding to dissipati
+ ve-scale eddies that copepods are likely to encounter in turbulent flows. 
+ Tomographic particle image velocimetry (PIV) experiments quantified the ve
+ locity field of vortices to target the small-scale structure of turbulent 
+ flows corresponding to dissipation rates of 0.002 to 0.25 cm2/s3. The swim
+ ming behavior of three marine copepod species is assessed as a function of
+  vortex strength (and size) in and around the flow structure with the vort
+ ex axis aligned vertically and horizontally in the water. The studied spec
+ ies are Acartia tonsa\, an estuarine copepod with a hop-sink swimming styl
+ e\; Temora longicornis\, a coastal copepod with a cruise swimming style\; 
+ and Calanus finmarchicus\, an open ocean copepod with a cruise-sink swimmi
+ ng style. The results show that copepods change their swimming behavior wi
+ th the intensity of the Burgers vortex and reveal species-specific respons
+ es in nearly all kinematic parameters. A. tonsa and C. finmarchicus exhibi
+ ted the strongest behavioral response to increasing vortex strength and T.
+  longicornis exhibited the weakest response. A. tonsa and T. longicornis s
+ howed no response to changes in vortex orientation\, whereas C. finmarchic
+ us revealed some orientation dependence. One common behavior among the spe
+ cies is that the swimming trajectory shape becomes increasingly curved and
+  spiral around the vortex core with increasing vortex strength\, which pro
+ vides a means of local aggregation and increased encounter rate with food 
+ and mates. The results are interpreted in relation to differences in swimm
+ ing style and setal morphology among the species. The results provide insi
+ ght to the habitats in which the copepods live as well as their vertical d
+ istribution in the water column relative to turbulence intensity. This com
+ parative study between species highlights that variations in turbulence in
+ tensity in the ocean can influence the dynamics of copepods and the ecolog
+ y of marine species.\n\nLinks:\n[0]  http://hg.gatech.edu/node/646166#0\n[
+ 1]  https://bluejeans.com/275523893
+LOCATION:Atlanta\, GA\; REMOTE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCF The Event
