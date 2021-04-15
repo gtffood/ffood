@@ -2,60 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:GTMI Lunch and Learn Series - Rolled Aluminum Product Manufacturin
- g
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200413T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200413T170000Z
-UID:http://hg.gatech.edu/node/632044#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nRolled Aluminum Product Manufacturing\n\nJames R. Fekete\, Senior Manage
- r – Materials Technology\, Novelis\, Global Research and Technology\n\nL
- inks:\n[0]  http://hg.gatech.edu/node/632044#0
-LOCATION:GTMI 114
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Queer Coffeehouse:  LGBTQIA Graduate Students and Postdocs
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200414T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200414T160000Z
-UID:https://gatech.campuslabs.com/engage/event/5385651
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nTake a study break to e
- njoy coffee and treats while getting to know students who share your ident
- ity.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/5385651
-LOCATION:LGBTQIA Resource CenterSmithgall Student Services Building\, Suit
- e 140
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nano@Tech: Khalid Salaita - Department of Chemistry\, Emory Univ.
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200414T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200414T170000Z
-UID:http://hg.gatech.edu/node/629971#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nKhalid Salaita - Department of Chemistry\, Emory Univ.\nAbstract: TBA\n\
- nBio: TBA\n\nLinks:\n[0]  http://hg.gatech.edu/node/629971#0\n[1]  http://
- ien.gatech.edu
-LOCATION:Marcus Nanotechnology Building 1117-1118 | 345 Ferst Drive | Atla
- nta GA | 30332
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Society of Women Engineers General Body Meeting
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200414T211500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200414T230000Z
-UID:http://hg.gatech.edu/node/624549#23
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nCome out to our general body meeting every Tues
- day from 5:15 to 7 PM in Smithgall Student Services (Flag Building) Room 1
- 17.\n\n5:15-5:45 PM Free dinner and social time with our members and offic
- ers\n\n5:45-6 PM: Announcements and Upcoming Events Reminders\n\n6-7 PM: S
- ocial Hour or Company Sponsored Event (Please check our weekly newletter f
- or the upcoming company or activity of the week!)\n\nIf you have any quest
- ions\, please feel free to email our President\, Toral Kadakia\, at swepre
- sident@gmail.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/624549#23\n
- [1]  swepresident@gmail.com\n[2]  https://www.facebook.com/GeorgiaTechSWE/
-LOCATION:Room 117\, Smithgall Student Services (Flag) Building
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2020 BIO Vendor Showcase @ Georgia Tech
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200415T140000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200415T180000Z
