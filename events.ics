@@ -2,25 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:DramaTech presents A New Brain
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200419T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200419T030000Z
-UID:http://hg.gatech.edu/node/621374#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nMusic and Lyrics 
- by William Finn\n\nBook by William Finn and James Lapine\n\nGordon collaps
- es into his lunch and awakes in the hospital\, surrounded by his maritime-
- enthusiast lover\, his mother\, a co-worker\, the doctor\, and the nurses.
-  Reluctantly\, he had been composing a song for a children’s television 
- show that features a frog – Mr. Bungee – and the specter of this large
-  green character and the unfinished work haunts him throughout his medical
-  ordeal. What was thought to be a tumor turns out to be something more ope
- rable\, and Gordon recovers\, grateful for a chance to compose the songs h
- e yearns to produce.\n\nLinks:\n[0]  http://hg.gatech.edu/node/621374#0\n[
- 1]  https://dramatech.org/event/a-new-brain/
-LOCATION:DramaTech Theatre\, north side of the Ferst Center for the Arts
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:TA and Future Faculty Awards Day
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200420T203000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200420T221500Z
