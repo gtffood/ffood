@@ -2,39 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:TA and Future Faculty Awards Day
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200420T203000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200420T221500Z
-UID:http://hg.gatech.edu/node/632594#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
- \nThe TA and Future Faculty Awards Day will recognize outstanding graduate
-  and undergraduate TAs from schools across campus and will announce the ca
- mpus-wide winners. In addition\, graduate students and postdoctoral schola
- rs earning the Tech to Teaching and CIRTL certificates will be recognized.
-  Graduate students\, faculty\, and staff who support TAs and future facult
- y programs are invited to attend the reception and awards ceremony.\n\nLin
- ks:\n[0]  http://hg.gatech.edu/node/632594#0
-LOCATION:Student Center Ballroom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Society of Women Engineers General Body Meeting
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200421T211500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200421T230000Z
-UID:http://hg.gatech.edu/node/624549#24
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nCome out to our general body meeting every Tues
- day from 5:15 to 7 PM in Smithgall Student Services (Flag Building) Room 1
- 17.\n\n5:15-5:45 PM Free dinner and social time with our members and offic
- ers\n\n5:45-6 PM: Announcements and Upcoming Events Reminders\n\n6-7 PM: S
- ocial Hour or Company Sponsored Event (Please check our weekly newletter f
- or the upcoming company or activity of the week!)\n\nIf you have any quest
- ions\, please feel free to email our President\, Toral Kadakia\, at swepre
- sident@gmail.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/624549#24\n
- [1]  swepresident@gmail.com\n[2]  https://www.facebook.com/GeorgiaTechSWE/
-LOCATION:Room 117\, Smithgall Student Services (Flag) Building
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Velocity Worship Service
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200421T233000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200422T003000Z
@@ -9117,6 +9084,79 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  nta.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643371#13\n[1]  http://www.
  gtccf.org/compassion/
 LOCATION:CCF\, 767 Techwood Drive NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fuel for Finals
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210428T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210428T200000Z
+UID:http://hg.gatech.edu/node/646689#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nExtras: Free food\, Freebies\nStatus: published\
+ n\nTake a study break and enjoy free lunch from the food trucks and a King
+  of Pops while enjoying some de-stressing activities. Paint a Tech Tower/B
+ uzz coasters with the Sips N' Strokes team\, decorate a pot and plant some
+  herbs to bring home with you\, and play some yard games with your friends
+ !\n\nMasks and social distancing are required at this event. Hand sanitize
+ r and other PPE will be provided for those who need it.\n\nThis event is o
+ pen to students\, faculty\, and staff!\n\n[1]\n\nLinks:\n[0]  http://hg.ga
+ tech.edu/node/646689#0\n[1]  https://gatech.universitytickets.com/w/event.
+ aspx?id=1791&p=1
+LOCATION:Instructional Center Lawn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PhD Defense by James Park
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210428T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210429T000000Z
+UID:http://hg.gatech.edu/node/646727#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nPh.D. Dissertation Topic Defense – James Park
+  – College of Design\, School of Architecture\, Georgia Institute of Tec
+ hnology\n\nDate: Wednesday\, April 28 th\, 2021\n\nTime: 7:00 PM – 9:00 
+ PM EST\n\nLink: [1]\n\nAdvising Committee\n\nAthanassios Economou\, Ph.D.\
+ , Advisor\n\nProfessor\, School of Architecture\n\nAdjunct Professor\, Sch
+ ool of Interactive Computing\n\nGeorgia Institute of Technology\n\nDennis 
+ Shelden\, Ph.D.\n\nAssociate Professor\, School of Architecture\n\nRenssel
+ aer Polytechnic Institute\n\nJi-Hyun Lee\, Ph.D.\n\nProfessor\, Graduate S
+ chool of Culture Technology\n\nKorea Advanced Institute of Science and Tec
+ hnology\n\nRobert Woodbury\, Ph.D.\n\nDirector\, Smart Geometry Group\n\nP
+ rofessor Emeritus\, School of Interactive Arts and Technology\n\nSimon Fra
+ ser University\n\nTitle\n\nSketches Count: The Mies van der Rohe’s Dirks
+ en Courthouse Archival Redrawn\n\nAbstract\n\nMies van der Rohe’s Everet
+ t McKinley Dirksen United States Courthouse in Chicago built in 1964 is ar
+ guably one of the most significant buildings in the history of judicial ar
+ chitecture in the U.S. and abroad because of its transformative role in th
+ e formulation of the conventions underlying contemporary courthouse design
+ . Archived at the Museum of Modern Art New York (MoMA)\, a significant res
+ ource associated with the design of the courthouse is the extensive docume
+ ntation of the design process at the office of Mies. This body of work con
+ sists of 135 sketches\, diagrams and drawings\, features alternative solut
+ ions\, variational schemes\, and sectional innovations\, and provides an u
+ ntapped resource to allow a closer look in the expressive range of the arc
+ hitectural language and the technical innovations proposed by one of the g
+ reatest architects of the twentieth century.\n\nThe work here takes on the
+  Mies Archive and presents a formal reconstruction and automated completio
+ n of the preliminary representations materializing the unrealized possibil
+ ities embodied in the works. More specifically\, a generative description 
+ of Mies’ courthouse design language is presented in the form of a shape 
+ grammar implemented in the Shape Machine\, a pioneering recursive shape-re
+ write technology developed at the Shape Computation Lab at the Georgia Ins
+ titute of Technology. The grammar is proposed as an open-ended set of shap
+ e rules that is readily expanded to complete the sets of design variations
+  documented in the archive\, along with several possible ones that can be 
+ in principle generated by the evolving grammar. Significantly\, all new sh
+ ape rules are introduced seamlessly\, as an intrinsic part of the design p
+ rocess of the evolving grammar\, without requiring reformatting of existin
+ g rules or advocating the design of a singular Miesian grammar.\n\nThe wor
+ k aims to provide (a) a generative model of Mies’ courthouse design lang
+ uage\; (b) an automated completion of some of the rudimentary sketches\, d
+ iagrams and drawings in the Mies Archive at MoMA\; (c) a prototype of an i
+ nteractive design system for courthouse design that architects\, designers
+  and stakeholders of courthouse architecture can evaluate for practical us
+ e\; and (d) some speculations on the transformative role of the proposed c
+ omputational method in bridging the gap between sketching and drafting in 
+ the digital workflows of architects and designers.\n\nLinks:\n[0]  http://
+ hg.gatech.edu/node/646727#0\n[1]  https://bit.ly/3ginIX8
+LOCATION:Atlanta\, GA\; REMOTE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Scheller Lunchtime Live: Drawdown Georgia – Bringing Climate Sol
