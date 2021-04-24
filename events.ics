@@ -2,42 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Velocity Worship Service
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200421T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200422T003000Z
-UID:https://gatech.campuslabs.com/engage/event/5441761
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
- worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
- h.campuslabs.com/engage/event/5441761
-LOCATION:Baptist Student Union
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Velocity Worship Service
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200421T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200422T010000Z
-UID:https://gatech.campuslabs.com/engage/event/5441746
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for our weekly 
- worship service at the BCM! All are welcome!\n\nLinks:\n[0]  https://gatec
- h.campuslabs.com/engage/event/5441746
-LOCATION:Baptist Student Union
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yellow Jackets Art Workshops
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200423T140000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200423T160000Z
-UID:http://hg.gatech.edu/node/630652#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nIn order to reflect on the end of
-  the school year\, students will discuss moments of accomplishment through
- out the year. Facilitators will provide prompts so students can reflect on
-  their experiences and select their power word. Students will then create 
- a personalize piece of art displaying their word. Students will be able to
-  take a picture displaying their power word. Brunch will be served.\n\nPro
- gram is for GT students\; registration is encouraged but not required.\n\n
- Links:\n[0]  http://hg.gatech.edu/node/630652#0
-LOCATION:CRC
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Faculty & Staff Honors Luncheon 2020
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200424T153000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200424T173000Z
