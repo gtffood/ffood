@@ -2,57 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:PhD Defense by Taofiq Amoloye
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200505T180000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200505T200000Z
-UID:http://hg.gatech.edu/node/634939#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nStatus: published\n\nTaofiq Amoloye\n(Advisor: P
- rof. Marilyn Smith]\n\nwill defend a doctoral thesis entitled\,\n\nA Refin
- ed Potential Theory for the Incompressible Unsteady Subcritical-Reynolds n
- umber Flows on Canonical Bluff Bodies\n\nOn\n\nTuesday\, May 5 at 2:00 p.m
- .\nBluejeans: [1]\n\nAbstract\n\nClassical potential theory falls short of
-  reconciling the actions of fluid viscosity and frictional forces in an ac
- tual flow with the theoretical analysis of such a flow. As such\, it is un
- able to predict the important phenomenon of flow separation that leads\, i
- n part\, to the pressure drag experienced by the body in an actual flow. H
- owever\, analytical solutions that theories provide offer huge advantages 
- over numerical and experimental solutions in the understanding of fluid fl
- ows and in design. These are in terms of cost and time consumption.\n\nThe
- refore\, a refinement of Classical potential theory of the flow over a cir
- cular cylinder was carried out to bridge this gap. It was achieved by intr
- oducing a viscous sink-source-vortex sheet on the surface of the cylinder.
-  These singularities are modeled as concentric at every location. The vort
- ices are modeled as Burgers vortices\, and analytic expressions for their 
- strengths and those of the sinks/sources are obtained from the classical t
- heory. These are employed to obtain a Reynolds-number-and-time-dependent s
- tream function that captures important qualitative features of the flow. A
-  viscous potential function that satisfies the governing equations is then
-  derived. It is obtained by defining the viscous stream function on a prin
- cipal axis of the flow about which the vorticity vector is identically zer
- o. Strategies have also been developed to account for the finite extent of
-  the cylinder\, to introduce dynamic unsteadiness\, to predict separation/
- reattachment/transition\, to obtain forces\, and to apply the solution to 
- an arbitrary geometry with a focus on spheres and spheroids.\n\nThe refine
- d potential theory was verified against experimental and numerical data on
-  the cylinder in an incompressible crossflow at. Its drag prediction is wi
- thin the error bound of measured data. The prediction of other quantities 
- is also within acceptable ranges. Its prediction of the force coefficients
-  over the range was validated against experimental data on the cylinder in
-  crossflow. There is a good agreement in the trend with slight disparity i
- n magnitude that is in favor of safety for design purposes. The energy spe
- ctra of the wake velocity display the Kolmogorov's Five-Thirds law of homo
- geneous isotropic turbulence. This verifies and validates the unsteadiness
-  in refined potential theory as turbulent in nature.\n\nCommittee\n\n- Pro
- fessor Marilyn J. Smith – School of Aerospace Engineering (advisor)\n- P
- rofessor Jechiel Jagoda – School of Aerospace Engineering\n- Professor S
- tephen M. Ruffin – School of Aerospace Engineering\n- Professor Brian Ge
- rman – School of Aerospace Engineering\n- Professor John McCuan – Scho
- ol of Mathematics\n\nLinks:\n[0]  http://hg.gatech.edu/node/634939#0\n[1] 
-  https://bluejeans.com/487890767
-LOCATION:REMOTE
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free Webinar: "Enabling Together Smarter Pandemic Supply Chain Rea
  diness and Response"
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200528T160000Z
@@ -9078,6 +9027,58 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PhD Defense by Seyed Alireza Zamani Dahaj
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210504T190000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210504T210000Z
+UID:http://hg.gatech.edu/node/647168#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nIn partial fulfillment of the requirements for 
+ the degree of\n\nDoctor of Philosophy in Quantitative Biosciences\n\nin th
+ e School of Physics\n\nSeyed Alireza Zamani Dahaj\n\nDefends his thesis:\n
+ De novo evolution of macroscopic multicellularity and trait heritability i
+ n major transitions.\n\nTuesday\, May 4\, 2021\n3:00pm Eastern Time\nVia B
+ lueJeans: [1]\n\nAdvisor:\n\nProf. Peter J. Yunker\n\nSchool of Physics\n\
+ nGeorgia Institute of Technology\n\nCo-Advisor:\nProf. William C. Ratcliff
+ \n\nSchool of Biological Sciences\n\nGeorgia Institute of Technology\n\nCo
+ mmittee Members:\nProf. Daniel B. Weissman\n\nDepartment of Physics\n\nEmo
+ ry University\n\nProf. Raphael F. Rosenzweig\n\nSchool of Biological Scien
+ ces\n\nGeorgia Institute of Technology\n\nProf. Joshua S. Weitz\n\nSchool 
+ of Biological Sciences\n\nGeorgia Institute of Technology\n\nAbstract:\n\n
+ Evolutionary Transitions in Individuality (ETIs) describe the history of t
+ he increasing complexity of life and the emergence of hierarchical organiz
+ ation in an elegant framework. Each transition is characterized by a group
+  of independent individuals coming together and forming a group that event
+ ually can undergo Darwinian evolution and turns into a new individual leve
+ l. One of the prominent examples of ETIs is the emergence of multicellular
+ ity. In this thesis\, I address two key questions about the transition to 
+ multicellularity: The emergence of heritability of higher-level traits and
+  its relationship to cell-level traits. First\, I discuss how the heritabi
+ lity of newly-formed group traits emerges as groups emerge. We introduce a
+  simple theoretical model for calculating group-level trait heritability\,
+  where the trait is the linear function of a cell-level trait. For cases i
+ n which the relationship is more complex than a linear function\, we devel
+ oped a statistical simulation to model and explore different kinds of anal
+ ytical functions based on biological examples of relationship between cell
+ -level traits and collective-level traits. Finally\, using the snowflake y
+ east model system we did an experiment that shows an ecologically relevant
+ \, emergent trait in a nascent multicellular organism can have a higher he
+ ritability across a range of conditions than the unicellular-level trait o
+ n which it is based. The evolution of complex multicellularity presents an
+  apparent paradox: nascent multicellular organisms are thought to require 
+ (relatively) large size to evolve complex traits\, but at the same time ma
+ intaining large size requires complex organization at the cell and group l
+ evels. This poses a chicken and egg problem between large size and cellula
+ r development. Here\, we show that over the course of a year snowflake yea
+ st can increase its size multiple orders of magnitude with minimal change 
+ at the cell level by taking advantage of the physical properties of granul
+ ar entangled materials. These results suggest that in the same way that ph
+ ysically imposed geometric constraints can limit the size of clusters\, an
+ -other innovations can lead to the emergence of a new biophysical mechanis
+ m that changes the material properties of the clusters.\n\nLinks:\n[0]  ht
+ tp://hg.gatech.edu/node/647168#0\n[1]  https://bluejeans.com/917049243
+LOCATION:Atlanta\, GA\; REMOTE
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Spring President's Graduation Celebration
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210506T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210506T180000Z
@@ -9093,6 +9094,27 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
  d at [1].\n\nLinks:\n[0]  http://hg.gatech.edu/node/643164#0\n[1]  https:/
  /commencement.gatech.edu/presidents-graduation-celebration
 LOCATION:Tech Green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GTPE and Creative Mornings Present: Hack your Creativity with Mind
+ fulness Virtual Field Trip
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210521T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210521T170000Z
+UID:http://hg.gatech.edu/node/647177#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nStatus: published\n\nOn May 21\, World Meditati
+ on Day\, discover the power of emotional intelligence to spark creativity.
+  Georgia Tech Professional Education's Emotional Intelligence and Resilien
+ ce Instructor Tiffany Andras-Myers will be hosting a Creative Mornings Vir
+ tual FieldTrip.\n\nThis hour-long interactive event is designed to spark y
+ our creativity through mindfulness and meditation. Learn mindfulness pract
+ ices\, cultivate well-being\, and explore happiness in this interactive vi
+ rtual experience. Spend your lunch hour relaxing and meditating.\n\nThe Fi
+ eldTrip is open to all but you will need to create a Creative Morning's ac
+ count.\n\nRegister to attend [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node
+ /647177#0\n[1]  https://creativemornings.com/talks/fieldtrip-hack-your-cre
+ ativity-with-mindfulness
+LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Institute Retirement Celebration
