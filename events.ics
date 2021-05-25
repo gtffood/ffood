@@ -9174,6 +9174,21 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ECON 4811/8801 Guest Lecture on Cloud Analytics: SAS Viya Demo
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210526T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210526T170000Z
+UID:http://hg.gatech.edu/node/647682#0
+DESCRIPTION:Intended audience: Undergraduate students\nStatus: published\n
+ \nAre you curious about cloud analytics?\n\nHave you heard about SAS Viya 
+ and what it can do?\n\nJoin our ECON 4811-8801 Empirical Economics Practic
+ um Class on Wednesday May 26th at 12-1pm in a virtual bluejeans classroom 
+ ( [1] ) to meet Angela Fullenkamp\, SAS Analytical Training Consultant\, t
+ o explore all things VIYA!\n\nBring your lunch and curiosity!\n\nWhen: Wed
+ nesday\, May 26th from 12 to 1 pm\nWhere: [1]\n\nLinks:\n[0]  http://hg.ga
+ tech.edu/node/647682#0\n[1]  https://bluejeans.com/453359273
+LOCATION:Virtual Bluejeans Event
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Institute Retirement Celebration
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210622T213000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210623T003000Z
