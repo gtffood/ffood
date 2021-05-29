@@ -2,60 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Free Webinar: "Enabling Together Smarter Pandemic Supply Chain Rea
- diness and Response"
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200528T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200528T170000Z
-UID:http://hg.gatech.edu/node/634763#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nOverview\nDr. Benoit Montreuil [01] will emphas
- ize the impactful interplay between supply chains and pandemics\, across t
- he world and in each locality. The impact of collectively improving pandem
- ic supply chain readiness and response in each of the five world states - 
- healthy\, outbreak\, epidemics\, pandemics\, and recovery - will be highli
- ghted.\n\nThe focus will be on critical and essential supply chains to dem
- onstrate the capital importance of supply chains in fighting and surviving
-  a pandemics\, as revealed by the COVID-19 crisis.\n\n- Critical supply ch
- ains support the fight against the pandemic disease by supporting the boom
- ing demand for testing kits\, masks\, respirators\, etc.\, to hospitals an
- d health centers.\n- Essential supply chains provide the food\, health pro
- ducts and goods necessary to ensure survival\, quality of life and recover
- y capability of pandemic-affected populations and economies\, notably subj
- ect to distancing and containment measures.\n\nKey avenues for collectivel
- y and comprehensively enabling effective and efficient pandemic supply cha
- in readiness and response in each of the world states will be presented. T
- hese avenues combine common-sense pragmatic practices to leading-edge conc
- epts and technologies\, notably based on Artificial Intelligence and the P
- hysical Internet. They notably enable:\n\n- Critical and essential supply 
- chain visibility and predictability\;\n- Smart fair decisions relative to 
- critical and essential product allocation\, deployment\, and transportatio
- n\;\n- Keeping a healthy and efficient supply chain workforce\;\n- Repurpo
- sing supply chains and facilities to provide boost in critical and essenti
- al product availability\;\n- Vector-free logistics eliminating disease pro
- pagation through goods and food production\, packaging\, distribution and 
- delivery.\n\nThe presentation results from the interdisciplinary collabora
- tion of 28 professors from Georgia Tech Supply Chain and Logistics Institu
- te.\n\nRegister Online to Attend\nPlease register online via Eventbrite [0
- 2] if you plan to attend.\n\nAbout the #SMARTer Together Webinar Series\nT
- he webinar series [03] aims to challenge us beyond the immediate crisis an
- d onto a newer state where we have another chance to build strong communit
- y-research partnerships for good. By focusing on complex\, societal proble
- ms that communities all over GA and the rest of the world face\, we aim to
-  provide innovative research and create partnerships to empower all. We ad
- here to GT’s Strategic Plan and Mission [04] on “developing leaders wh
- o advance technology and improve the human condition.”\n\nLet's all be #
- SMARTer Together.\n\nLinks:\n[00]  http://hg.gatech.edu/node/634763#0\n[01
- ]  http://www.isye.gatech.edu/users/benoit-montreuil\n[02]  https://www.ev
- entbrite.com/e/smarter-together-webinar-series-tickets-102593243152\n[03] 
-  https://smartcities.ipat.gatech.edu/smarter-together\n[04]  https://www.g
- atech.edu/about/strategic-plan\n[05]  https://b.gatech.edu/3eZbwYk\n[06]  
- https://bluejeans.com/417369217\n[07]  https://picenter.gatech.edu\n[08]  
- https://smartcities.gatech.edu/\n[09]  https://www.eventbrite.com/e/smarte
- r-together-webinar-series-tickets-102566039786\n[10]  https://www.scl.gate
- ch.edu
-LOCATION:Online Webinar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Test Event Multiple Days
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200608T163000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200608T173000Z
