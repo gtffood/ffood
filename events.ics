@@ -3,58 +3,6 @@ VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
 SUMMARY:Test Event Multiple Days
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200608T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200608T173000Z
-UID:http://hg.gatech.edu/node/634272#1
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: published\n\nBob says...\nIf we make a bo
- o-boo\, it's right here -- but that's alright\, because we don't make mist
- akes in our world. Just make little criss-cross strokes. Remember where yo
- ur finger's been before you scratch your nose. The joy of painting really 
- is universal. We'll make those decisions later. Let's start with an almigh
- ty sky here. You can determine what your world is like. Don't worry about 
- it -- just sort of throw it in.\n\nI'm a nature freak. The only thing I'm 
- good at is falling down. We'll put a few little nicety things in there. We
- 'll just sort of see what happens. Give this ol' windmill a leg! You do wh
- atever works for you. They think you're magic! This is where you take out 
- all your frustrations and all your hostilities\, and just have a good time
- .\n\nHowever you want to change this\, that's the way it should be. Just g
- o around and try them all. You need to understand nature. Don't just throw
-  it up there and think that a cloud will appear. All you do is just go bac
- k with it. Shoot\, I've got to get a little crazy. That's about all we nee
- d. I want some happy little things happening up here in the sky.\n\nLinks:
- \n[0]  http://hg.gatech.edu/node/634272#1\n[1]  http://google.com\n[2]  ht
- tps://www.google.com
-LOCATION:Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test Event Multiple Days
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200609T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200609T173000Z
-UID:http://hg.gatech.edu/node/634272#2
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: published\n\nBob says...\nIf we make a bo
- o-boo\, it's right here -- but that's alright\, because we don't make mist
- akes in our world. Just make little criss-cross strokes. Remember where yo
- ur finger's been before you scratch your nose. The joy of painting really 
- is universal. We'll make those decisions later. Let's start with an almigh
- ty sky here. You can determine what your world is like. Don't worry about 
- it -- just sort of throw it in.\n\nI'm a nature freak. The only thing I'm 
- good at is falling down. We'll put a few little nicety things in there. We
- 'll just sort of see what happens. Give this ol' windmill a leg! You do wh
- atever works for you. They think you're magic! This is where you take out 
- all your frustrations and all your hostilities\, and just have a good time
- .\n\nHowever you want to change this\, that's the way it should be. Just g
- o around and try them all. You need to understand nature. Don't just throw
-  it up there and think that a cloud will appear. All you do is just go bac
- k with it. Shoot\, I've got to get a little crazy. That's about all we nee
- d. I want some happy little things happening up here in the sky.\n\nLinks:
- \n[0]  http://hg.gatech.edu/node/634272#2\n[1]  http://google.com\n[2]  ht
- tps://www.google.com
-LOCATION:Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test Event Multiple Days
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200610T163000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200610T173000Z
 UID:http://hg.gatech.edu/node/634272#3
@@ -9138,7 +9086,7 @@ BEGIN:VEVENT
 SUMMARY:Center for Integrative Genomics Seminar
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210615T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210615T170000Z
-UID:http://hg.gatech.edu/node/647926#0
+UID:http://hg.gatech.edu/node/647977#0
 DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  \, Public\, Undergraduate students\nStatus: published\n\nThe Center for In
  tegrative Genomics (CIG) reinitiates their monthly advanced research semin
@@ -9146,9 +9094,9 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  cs.\n\nToday we will also include a special farewell to our departing coll
  eague\, Soojin Yi\, with boxed Korean lunches for the first 20 attendees.\
  n\n“Improving Rare Disease Diagnostics through Comprehensive Analysis of
-  Targeted RNA-seq Data”\n\nKiera Berger [2]\nGraduate Student\, Bioinfor
+  Targeted RNA-seq Data”\n\nKiera Berger [3]\nGraduate Student\, Bioinfor
  matics - Greg Gibson\, Ph.D.\, Advisor\nGeorgia Tech\n\n“Distribution of
-  DNA Methylation in Insect Genomes”\n\nCarl Dyson [3]\nGraduate Student\
+  DNA Methylation in Insect Genomes”\n\nCarl Dyson [4]\nGraduate Student\
  , Biology - Michael Goodisman\, Ph.D.\, Advisor\nGeorgia Tech\n\nThis is a
   great opportunity to:\n\n- Improve your presentation skills as a speaker\
  n- Communicate science\, research and technology to an audience with diver
@@ -9159,19 +9107,20 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  nd post-docs that are open to anyone who is interested in the topics. Toda
  y we will also include a special farewell to our departing colleague\, Soo
  jin Yi.\n\n“Improving Rare Disease Diagnostics through Comprehensive Ana
- lysis of Targeted RNA-seq Data”\n\nKiera Berger [2]\nGraduate Student\, 
+ lysis of Targeted RNA-seq Data”\n\nKiera Berger [3]\nGraduate Student\, 
  Bioinformatics - Greg Gibson\, Ph.D.\, Advisor\nGeorgia Tech\n\n“Distrib
- ution of DNA Methylation in Insect Genomes”\n\nCarl Dyson [3]\nGraduate 
+ ution of DNA Methylation in Insect Genomes”\n\nCarl Dyson [4]\nGraduate 
  Student\, Biology - Michael Goodisman\, Ph.D.\, Advisor\nGeorgia Tech\n\nT
  his is a great opportunity to:\n\n- Improve your presentation skills as a 
  speaker\n- Communicate science\, research and technology to an audience wi
  th diverse backgrounds\n- Practice giving your talk for an upcoming confer
  ence\, thesis defense\, or qualifying oral exams\n- Enjoy free lunch (firs
  t 20 guests) and hear about the wide range of work happening in the local 
- bioscience community\n\nLinks:\n[0]  http://hg.gatech.edu/node/647926#0\n[
- 1]  http://hg.gatech.edu/node/647925#0\n[2]  https://bioinformatics.gatech
- .edu/people/Kiera-Berger\n[3]  https://www.goodismanlab.biology.gatech.edu
- /people/\n[4]  https://cig.gatech.edu/
+ bioscience community\n\nLinks:\n[0]  http://hg.gatech.edu/node/647977#0\n[
+ 1]  http://hg.gatech.edu/node/647925#0\n[2]  http://hg.gatech.edu/node/647
+ 926#0\n[3]  https://bioinformatics.gatech.edu/people/Kiera-Berger\n[4]  ht
+ tps://www.goodismanlab.biology.gatech.edu/people/\n[5]  https://cig.gatech
+ .edu/
 LOCATION:Engineered Biosystems Building (EBB)\, CHOA Seminar Room\, 950 At
  lantic Drive NW\, Atlanta\, GA
 END:VEVENT
