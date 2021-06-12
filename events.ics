@@ -3,32 +3,6 @@ VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
 SUMMARY:Test Event Multiple Days
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200610T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200610T173000Z
-UID:http://hg.gatech.edu/node/634272#3
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: published\n\nBob says...\nIf we make a bo
- o-boo\, it's right here -- but that's alright\, because we don't make mist
- akes in our world. Just make little criss-cross strokes. Remember where yo
- ur finger's been before you scratch your nose. The joy of painting really 
- is universal. We'll make those decisions later. Let's start with an almigh
- ty sky here. You can determine what your world is like. Don't worry about 
- it -- just sort of throw it in.\n\nI'm a nature freak. The only thing I'm 
- good at is falling down. We'll put a few little nicety things in there. We
- 'll just sort of see what happens. Give this ol' windmill a leg! You do wh
- atever works for you. They think you're magic! This is where you take out 
- all your frustrations and all your hostilities\, and just have a good time
- .\n\nHowever you want to change this\, that's the way it should be. Just g
- o around and try them all. You need to understand nature. Don't just throw
-  it up there and think that a cloud will appear. All you do is just go bac
- k with it. Shoot\, I've got to get a little crazy. That's about all we nee
- d. I want some happy little things happening up here in the sky.\n\nLinks:
- \n[0]  http://hg.gatech.edu/node/634272#3\n[1]  http://google.com\n[2]  ht
- tps://www.google.com
-LOCATION:Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test Event Multiple Days
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200615T163000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200615T173000Z
 UID:http://hg.gatech.edu/node/634272#4
