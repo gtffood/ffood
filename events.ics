@@ -2,169 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Test Event Multiple Days
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200615T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200615T173000Z
-UID:http://hg.gatech.edu/node/634272#4
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: published\n\nBob says...\nIf we make a bo
- o-boo\, it's right here -- but that's alright\, because we don't make mist
- akes in our world. Just make little criss-cross strokes. Remember where yo
- ur finger's been before you scratch your nose. The joy of painting really 
- is universal. We'll make those decisions later. Let's start with an almigh
- ty sky here. You can determine what your world is like. Don't worry about 
- it -- just sort of throw it in.\n\nI'm a nature freak. The only thing I'm 
- good at is falling down. We'll put a few little nicety things in there. We
- 'll just sort of see what happens. Give this ol' windmill a leg! You do wh
- atever works for you. They think you're magic! This is where you take out 
- all your frustrations and all your hostilities\, and just have a good time
- .\n\nHowever you want to change this\, that's the way it should be. Just g
- o around and try them all. You need to understand nature. Don't just throw
-  it up there and think that a cloud will appear. All you do is just go bac
- k with it. Shoot\, I've got to get a little crazy. That's about all we nee
- d. I want some happy little things happening up here in the sky.\n\nLinks:
- \n[0]  http://hg.gatech.edu/node/634272#4\n[1]  http://google.com\n[2]  ht
- tps://www.google.com
-LOCATION:Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Online Responsive Supply Chain Design and Operations Course
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200616T133000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200616T170000Z
-UID:http://hg.gatech.edu/node/625086#1
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nStatus: published\n\nNote: This course has been 
- transitioned to an online format for 2020.\n\nClasses will be taught by LI
- VE video instruction similar to the experience you would receive in person
-  with the same interactive components.\n\nCourse Description\nMeeting dema
- nd in a timely and cost-effective manner is important both in public and p
- rivate supply chains\, and heavily depend on the design and operation of t
- hese supply chains. Demand is affected by ongoing factors such as local ec
- onomy\, infrastructure\, and geographic location\, as well as unexpected e
- vents such as natural or manmade disasters or other large-scale disruption
- s. Designing and operating responsive supply chains requires the considera
- tion of uncertainty in timing\, scope\, scale\, and understanding of vario
- us topics such as forecasting\, distribution network design\, and inventor
- y management. This course will examine methods and models for making suppl
- y chain design and operational decisions and explore the significant value
-  that is obtained through informed decision-making in advance of an unpred
- ictable event or long-term strategy for meeting the need of customers and 
- beneficiaries.\n\nWho Should Attend\nThis course is designed for represent
- atives from governmental or non-governmental organizations\, private corpo
- rations\, military\, and foundations\, including but not limited to senior
-  executives overseeing administrative and operational functions of an orga
- nization\, logistics and supply chain managers\, program managers\, direct
- ors of field operations\, directors of emergency/disaster preparedness and
-  response\, and public health professionals.\n\nHow You Will Benefit\n- Pr
- ovide immediate impact to your organization through learnings gained from 
- applied and real-world case studies.\n- Learn to bring NGOs\, businesses\,
-  or government entities together to enhance collaboration\, cooperation\, 
- and communication.\n- Discover current trends and procedures to help organ
- izations and team members get and stay ahead of the curve.\n- Build a crit
- ical knowledge base to make tactical decisions around inventory\, routing\
- , and distribution.\n- Deliver best practices to measure and evaluate the 
- efficiency\, impact\, and outcomes of focused initiatives or ongoing logis
- tics and supply chain operations.\n- Transform the health and humanitarian
-  sectors with increased capacity to participate in planning and strategic 
- decision-making for effective supply-chain management.\n\nWhat Is Covered\
- n- Network modeling approaches\n- Forecasting techniques\n- Strategies for
-  making decisions under uncertainty\n- Other data-driven analytical approa
- ches\n\nPre-Course Activities (2.5 hrs) - Online via GTPE platform\nClassr
- oom Activities (2 days) - Georgia Tech Global Learning Center\n**online cl
- ass format (4 days) - Online GTPE platform\nNOTE: Pre-course activities wi
- ll conducted online using the CANVAS online learning management system. Ac
- cess instructions will be provided to registrants when details become avai
- lable.\n\nPre-Course Activities - Conducted online via GTPE online platfor
- m\n- Distribution Network Design – 2 hours\n- Forecasting – 1.5 hours\
- n\nCourse Materials\nProvided\n\n- Participants receive readings\, case st
- udies\, spreadsheet files\, and lecture slides\, and will be given access 
- to the pre-course web-based activities.\n\nRecommended\n\n- Students need 
- a laptop with Microsoft Excel and the ability to connect to a high-speed i
- nternet connection (internet access is provided for onsite portions of cou
- rse).\n\nCourse Prerequisite and Related Certificate Information\nFor thos
- e interested in earning the Health and Humanitarian Supply Chain Managemen
- t Certificate\, this course is the first of the three-course certificate p
- rogram. To earn the certificate\, participants must register and complete 
- the following courses within three years:\n\n- Responsive Supply Chain Des
- ign and Operations\n- Inventory Management and Resource Allocation in Supp
- ly Chains [01]\n- Systems Operations and Strategic Interactions in Supply 
- Chains [02]\nThe Georgia Tech Health and Humanitarian Logistics Profession
- al Certificate Program [03] is an executive education program designed for
-  practitioners in non-governmental organizations (NGOs)\, government\, ind
- ustry\, and the military who are active participants in health and humanit
- arian sectors. The courses are developed for practitioners seeking to buil
- d skills to improve decision making in preparedness\, response operations 
- planning\, and system design. Courses include many interactive components\
- , such as case studies and games\, which help professionals in the humanit
- arian world to link the challenges and decision-making tradeoffs they face
-  in practice with the systematic approaches\, tools\, and techniques prese
- nted.\n\nCourse CEUs\nThis course provides for 1.40 continuing education u
- nits (CEUs).\n\nCourse Instructors\nJulie Swann [04]\, Pinar Keskinocak [0
- 5]\, Ozlem Ergun [06]\n\nCourse Fees\nStandard: $2\,400.00\, Alumni/Org Di
- scount: $2\,160.00\, Certificate: $1\,992.00 (cost of each course when sig
- ning up for and paying for a multi-course certificate program).\n\nFirst t
- ime attendees pay the listed course fee. If you are a returning student of
-  the Supply Chain & Logistics Institute (SCL) courses\, you will receive a
-  10% discount which you will enter at the "Check Out" page. Use Coupon Cod
- e SCL-Alum.\n\nThere are also discounts available for multiple-team member
-  registrations\, to those who prepay for all the courses in a specific cer
- tificate\, to active/retired military\, or to members of certain organizat
- ions ( click this link [07] for a listing).\n\nDiscounts cannot be combine
- d or used for online formatted courses. To receive the coupon code for the
- se discounts\, call 404-385-8663 or send us an email [08] prior to registr
- ation\n\nThe program fee for In Person courses (non-online) includes conti
- nental breakfasts\, lunches\, breaks\, parking\, internet access\, and all
-  classroom materials.\n\nIf CHHS must cancel a program\, registrants will 
- receive a full refund. Georgia Tech\, however\, cannot assume the responsi
- bility for other costs incurred. Due to program enrollment limits\, early 
- registration is encouraged. Registrations will be acknowledged by a letter
-  of confirmation from Professional Education.\n\n** The 2020 Virtual Progr
- am\, will also be offered at a reduced cost of $4\,200 (originally $6\,000
- ). Courses taken individually (not the full 3 course program) will be $180
- 0 each rather than the original fee of $2400.\n\nIn Person Course Times\nO
- n the first day\, please check in at least 30 minutes before the class sta
- rt time.\n\n- Morning session (8:30am-12:30pm)\n- Lunch (12:30am-1:30pm)\n
- - Afternoon session (1:30am-5:00pm)\n\nOnline Course Times\nEach course wi
- ll run for 1-week Monday through Thursday from 9:30am to 1:00pm EST each d
- ay.\n\nLinks:\n[00]  http://hg.gatech.edu/node/625086#1\n[01]  https://chh
- s.gatech.edu/education/professional-education/course/humtdm\n[02]  https:/
- /chhs.gatech.edu/education/professional-education/course/humso\n[03]  http
- s://pe.gatech.edu/certificates/supply-chain-logistics/health-and-humanitar
- ian-logistics-certificate\n[04]  https://chhs.gatech.edu/users/julie-swann
- \n[05]  https://chhs.gatech.edu/users/pinar-keskinocak\n[06]  https://chhs
- .gatech.edu/users/ozlem-ergun\n[07]  https://chhs.gatech.edu/education/pro
- fessional-education/discounts\n[08]  https://chhs.gatech.edu/contact/Profe
- ssional_Education_Offerings\n[09]  https://chhs.gatech.edu\n[10]  https://
- pe.gatech.edu/global-learning-center
-LOCATION:Georgia Tech Global Learning Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test Event Multiple Days
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200616T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200616T173000Z
-UID:http://hg.gatech.edu/node/634272#5
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: published\n\nBob says...\nIf we make a bo
- o-boo\, it's right here -- but that's alright\, because we don't make mist
- akes in our world. Just make little criss-cross strokes. Remember where yo
- ur finger's been before you scratch your nose. The joy of painting really 
- is universal. We'll make those decisions later. Let's start with an almigh
- ty sky here. You can determine what your world is like. Don't worry about 
- it -- just sort of throw it in.\n\nI'm a nature freak. The only thing I'm 
- good at is falling down. We'll put a few little nicety things in there. We
- 'll just sort of see what happens. Give this ol' windmill a leg! You do wh
- atever works for you. They think you're magic! This is where you take out 
- all your frustrations and all your hostilities\, and just have a good time
- .\n\nHowever you want to change this\, that's the way it should be. Just g
- o around and try them all. You need to understand nature. Don't just throw
-  it up there and think that a cloud will appear. All you do is just go bac
- k with it. Shoot\, I've got to get a little crazy. That's about all we nee
- d. I want some happy little things happening up here in the sky.\n\nLinks:
- \n[0]  http://hg.gatech.edu/node/634272#5\n[1]  http://google.com\n[2]  ht
- tps://www.google.com
-LOCATION:Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Online Responsive Supply Chain Design and Operations Course
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200617T133000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200617T170000Z
@@ -9113,5 +8950,68 @@ DESCRIPTION:Intended audience: Faculty/Staff\nStatus: draft\n\nThe campus
  tp://www.specialevents.gatech.edu/retirement-dinner\n[2]  https://academy.
  gatech.edu/
 LOCATION:Historic Academy of Medicine
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PhD Defense by Tzu-Chieh Kurt Hong
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210630T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210630T160000Z
+UID:http://hg.gatech.edu/node/648137#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nStatus: published\n\nCollege of Design – Schoo
+ l of Architecture - PhD Final Dissertation Defense – Tzu-Chieh Kurt Hong
+ \n\nDefense date and time: 6/30/2021 Wednesday\, 10:00 am - 12:00 pm\n\nDe
+ fense link: [1]\n\nDissertation Title: Shape Machine: Shape Embedding and 
+ Rewriting in Visual Design\n\nDissertation Committee:\n\nDr. Athanassios E
+ conomou\, Advisor\n\nSchool of Architecture\n\nGeorgia Institute of Techno
+ logy\n\nDr. Ramesh Krishnamurti\n\nSchool of Architecture\n\nCarnegie Mell
+ on University\n\nDr. Dennis Shelden\n\nSchool of Architecture\n\nRensselae
+ r Polytechnic Institute/Georgia Institute of Technology\n\nDr. Josephine Y
+ u\n\nSchool of Mathematics\n\nGeorgia Institute of Technology\n\nDr. Krist
+ ina Shea\n\nDep. of Mechanical and Process Eng.\n\nETH Zürich\n\nDisserta
+ tion Abstract:\n\nShape grammar interpreters have been studied for more th
+ an forty years addressing several areas of design research including archi
+ tectural\, engineering\, and product design. At the core of all these impl
+ ementations\, the operation of embedding – the ability of a shape gramma
+ r interpreter to search for subshapes in a geometry model even if they are
+  not explicitly encoded in the database of the system – resists a genera
+ l solution. It is suggested here that beyond a seemingly long list of tech
+ nological hurdles\, the implementation of shape embedding\, that is\, the 
+ implementation of the mathematical concept of the “part relation” betw
+ een two shapes\, or equivalently\, between two drawings\, or between a sha
+ pe and a design\, is the single major obstacle to take on.\n\nThis researc
+ h identifies five challenges underlying the implementation of shape embedd
+ ing and shape grammar interpreters at large: 1) complex entanglement of th
+ e calculations required for shape embedding and a shape grammar interprete
+ r at large\, with those required by a CAD system for modeling and modifyin
+ g geometry\; 2) accumulated errors caused by the modeling processes of CAD
+  systems\; 3) accumulated errors caused by the complex calculations requir
+ ed for the derivation of affine\, and mostly\, perspectival transformation
+ s\; 4) limited support for indeterminate shape embedding\; 5) low performa
+ nce of the current shape embedding algorithms for models consisting of a l
+ arge number of shapes.\n\nThe dissertation aims to provide a comprehensive
+  engineering solution to all these five challenges above. More specificall
+ y\, the five contributions of the dissertation are: 1) a new architecture 
+ to separate the calculations required for the shape embedding and replacem
+ ent (appropriately called here Shape Machine) vs. the calculations require
+ d by a CAD system for the selection\, instantiation\, transformation\, and
+  combination of shapes in CAD modeling\; 2) a new modeling calibration sys
+ tem to ensure the effective translation of geometrical types of shapes to 
+ their maximal representations without cumulative calculating errors\; 3) a
+  new dual-mode system of the derivation of transformations for shape embed
+ ding\, including a geometric approach next to the known algebraic one\, to
+  implement the shape embedding relation under the full spectrum of linear 
+ transformations without the accumulated errors caused by the current algor
+ ithms\; 4) a new multi-step mechanism that resolves all cases of indetermi
+ nate embeddings for shapes having fewer registration points than those req
+ uired for a shape embedding under a particular type of transformation\; an
+ d 5) a new data representation for hyperplane intersections\, the registra
+ tion point signature\, to allow for the effective calculation of shape emb
+ eddings for complex drawings consisting of a large number of shapes. All m
+ odules are integrated into a common computational framework to test the mo
+ del for a particular type of shapes – the shapes consisting of lines in 
+ the Euclidean plane in the algebra U 12.\n\nLinks:\n[0]  http://hg.gatech.
+ edu/node/648137#0\n[1]  https://bluejeans.com/138682722/8189?src=calendarL
+ ink
+LOCATION:Atlanta\, GA\; REMOTE
 END:VEVENT
 END:VCALENDAR
