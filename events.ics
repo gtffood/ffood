@@ -2,44 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Juneteenth Webinar with Serve-Learn-Sustain
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200619T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200619T170000Z
-UID:http://hg.gatech.edu/node/636335#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nLearn about and discuss Juneteenth with Serve-L
- earn-Sustain [1]! From 12pm-1pm at this link [2]. (Full call-in informatio
- n is below)\n\nNo RSVP Required\, just click and join!\n\nWe’ll have a 
- “brown bag” lunch and discussion of the significance and history of Ju
- neteenth\, how it is celebrated across the country\, its connection to con
- temporary justice struggles\, and an overview of exciting ways to gather v
- irtually and celebrate Juneteenth in Atlanta via art\, music\, and local s
- peakers. Please join Jamie White-Jones [3] and Ruthie Yow [4] who will fac
- ilitate the conversation- all are welcome- no preparation necessary\, plea
- se just come to enjoy\, learn\, and share!\n\nBluejeans Link\n\n[2]\n\nMee
- ting ID\n\n269 273 213\n\nWant to dial in from a phone?\n\n+1.408.419.1715
-  (United States(San Jose))\n\n+1.408.915.6290 (United States(San Jose))\n\
- nWhat Is Juneteenth?\nThis story by Elixabeth Nix was originally published
-  on History.com. [5] The story has been adapted for the College of Science
- s.\n\nJuneteenth (short for "June Nineteenth") marks the day when federal 
- troops arrived in Galveston\, Texas in 1865 to take control of the state a
- nd ensure that all enslaved people be freed. The troops' arrival came a fu
- ll two and a half years after signing the Emancipation Proclamation. Junet
- eenth honors the end to slavery in the United States and is considered the
-  longest-running African American holiday.\n\nConfederate General Robert E
- . Lee had surrendered at Appomattox Court House two months earlier in Virg
- inia\, but slavery had remained relatively unaffected in Texas - until U.S
- . General Gordon Granger stood on Texas soil and read General Orders No. 3
- : "The people of Texas are informed that\, in accordance with a proclamati
- on from the Executive of the United States\, all slaves are free."\n\nRead
-  more on History.com. [5]\n\nLinks:\n[0]  http://hg.gatech.edu/node/636335
- #0\n[1]  https://serve-learn-sustain.gatech.edu/\n[2]  https://bluejeans.c
- om/269273213\n[3]  https://serve-learn-sustain.gatech.edu/jamie-white-jone
- s\n[4]  https://serve-learn-sustain.gatech.edu/ruthie-yow\n[5]  https://ww
- w.history.com/news/what-is-juneteenth
-LOCATION:Bluejeans
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Test Event Multiple Days
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200622T163000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200622T173000Z
