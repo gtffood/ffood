@@ -7856,6 +7856,20 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Price Gilbert Library\, Scholars Event Theater – room 1280
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Big Buzz | Student Leader Celebration! 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210830T213000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210830T230000Z
+UID:https://gatech.campuslabs.com/engage/event/7131229
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nCalling al
+ l RSO Leaders! Join the Center for Student Engagement for a welcome back s
+ ocial on Monday\, August 30th from 5:30 - 7:00 PM in the Exhibition Hall. 
+ We are grateful and thankful for your hard work throughout the year and wa
+ nt to take the evening to celebrate YOU!\n\nThere will be free food\, netw
+ orking\, swag\, and more! Spots are limited\, so RSVP today!\n\nLinks:\n[0
+ ]  https://gatech.campuslabs.com/engage/event/7131229
+LOCATION:Exhibition Hall 
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Student Org Fair
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210831T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210831T170000Z
