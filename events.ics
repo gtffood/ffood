@@ -7840,6 +7840,22 @@ DESCRIPTION:Intended audience: Public\nStatus: published\n\nThe Georgia Te
 LOCATION:Georgia Tech Police Department\, 10th Street and Hemphill Avenue
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Introduction to the Library & Rooftop Social
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210709T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210709T160000Z
+UID:http://hg.gatech.edu/node/648658#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nGet to know the Georgia Tech Library at this in
+ troductory event that includes a panel discussion on "What I wish I knew a
+ bout the library my first year"\, a tour of the Library spaces\, and a soc
+ ial with snacks on the Clough rooftop.\n\nThe panel and tours will be hybr
+ id\, and in-person attendees will meet in the SEN Theater (room 1280) of t
+ he Price Gilbert Library.\n\nSign-up up at [1]\n\nLinks:\n[0]  http://hg.g
+ atech.edu/node/648658#0\n[1]  http://bit.ly/libraryinsight\n[2]  https://g
+ atech.co1.qualtrics.com/jfe/form/SV_d6bNmUPJnzr9Sg6
+LOCATION:Hybrid sign-up
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:iGniTe Summer Launch Program: Introduction to the Library & Roofto
  p Social
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210709T150000Z
@@ -7929,6 +7945,77 @@ LOCATION:Georgia Institute of Technology | Marcus Nanotechnology Building
  1116-1117 | 345 Ferst Drive Atlanta | GA 30332
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tapping Circle for Stress and Calm - 2nd Fridays 3:30-
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211008T193000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211008T200000Z
+UID:http://hg.gatech.edu/node/645811#3
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nStatus: published\n\nDates: Second Fridays\, Ju
+ ne 11\, July 9\nTime: 3:30pm - 4pm\nTheme: Come join theTapping Circle as 
+ we explore some effective\, cutting edge yet ancient\, brain balancing met
+ hods to better manage our daily stress. Accredited Certified EFT Tapping P
+ ractitioner Andrea Lewis [01] from NY joins to guide us with some exercise
+ s that engages and balances the body and mind.\nWhere: Sessions will be he
+ ld online on Zoom for the Thursday sessions.\nRegistration: Please pre-reg
+ ister in advance. [02]\n\n- Center for Assessment\, Referral\, and Educati
+ on (CARE) [03]\n- Tech Ends Suicide Together [04]\n- Counseling Center [05
+ ]\n- Collegiate Recovery Program [06]\n- Stamps Psychiatry [07]\n- Vice Pr
+ esident and Dean of Students Office and Student Referral Form [08]\n- AAPI
+  Heritage Month (Student Diversity Programs) [09]\n- " Lunch & Learn: East
+ ern Medicine and Acupuncture with Dr. Zhaoxue Lu [10] "\n\n- Georgia Tech 
+ CARE: [11]\n- Georgia Tech Counseling Center: [12]\n- Georgia Tech Police 
+ Department: [13]\n- Georgia Crisis and Access Line: [14]\n- National Suici
+ de Prevention Lifeline: 1.800.273.TALK (8255)\n- National Hopeline Network
+ : 1-800.784.2433\n\n- Studies: " The effect of Emotional Freedom Technique
+ s on nurses' stress\, anxiety\, and burnout levels during the COVID-19 pan
+ demic: A randomized controlled trial [15] "\n- Studies: " Emotional Freedo
+ m Techniques for Anxiety - A Systematic Review With Meta-analysis [16] "\n
+ - Studies: " The polyvagal theory: New insights into adaptive reactions of
+  the autonomic nervous system [17] "\n- Studies: " Clinical EFT Improves P
+ hysiological Markers of Health [18] " - Donna Bach\, ND\, et al.\n- Studie
+ s: " Evaluating a 3-Week Model for Reducing Symptoms of Stress in Traumati
+ sed Youth Using the Trauma Tapping Technique (TTT) for Self-help: A Pilot 
+ Trial [19] " - Dr. Peta Stapleton\, Ulf Sandstrom\, & Gunilla Hamne\n- Res
+ earch Collection: EFTTappingResearch.com [20]\n- Book: " The Science Behin
+ d Tapping [21] " - Dr. Peta Stapleton\n- Book: " The Body Keeps the Score 
+ [22] " - Dr. Bassel van der Kolk\n- Book: " Waking the Tiger [23] " - Dr. 
+ Peter Levine\n- Video: Dr. Stephen Porges - "What is the Polyvagal Theory 
+ [24] "\n- Video: "Research Spotlight - What are Borrowed Benefits in EFT T
+ apping" [25] - Dr. Peta Stapleton\n- Video: " Is Therapy Facing a Revoluti
+ on? [26] " by Dr. Peta Stapleton [27]\n- Video: Tapping @ Vulfpeck Concert
+  with 14000 at Madison Square Garden\, Sept. 2019 [28]\n- Video: " Chaplai
+ n Foster - Interview on Tapping etc [29] "\n- Audio: "Tapping Q&A" podcast
+ s\, interviews\, resources [30] by Gene Monterastelli\n- Tapping Circles f
+ or the GT Community\n- First Thursdays of the month - 8:15-8:45am with Nan
+ cy Gnecco\, EFT Founding Master [31]\n- Second Fridays of the month - 3:30
+ -4pm with Andrea Lewis [32]\n- Third Tuesdays of the month - 8:15-8:45am w
+ ith Suzanne Zacharia\n- Fourth Monday of the month - 8:15-8:45am with Andr
+ ea Lewis [32]\n\nLinks:\n[00]  http://hg.gatech.edu/node/645811#3\n[01]  h
+ ttps://www.solace4me.com/\n[02]  https://forms.gle/LLbMrPFzXvjQBpMq8\n[03]
+   https://care.gatech.edu/\n[04]  http://endsuicide.gatech.edu/\n[05]  htt
+ p://counseling.gatech.edu/\n[06]  https://counseling.gatech.edu/content/co
+ llegiate-recovery-program\n[07]  https://health.gatech.edu/services/psych\
+ n[08]  https://referral.studentlife.gatech.edu/\n[09]  https://diversitypr
+ ograms.gatech.edu/aapi-heritage-month\n[10]  https://gatech.campuslabs.com
+ /engage/event/7022783\n[11]  tel:404.894.3498\n[12]  tel:404.894.2575\n[13
+ ]  tel:404.894.2500\n[14]  tel:1.800.715.4225\n[15]  https://www.sciencedi
+ rect.com/science/article/pii/S1550830720303839\n[16]  https://journals.lww
+ .com/jonmd/Abstract/2016/05000/Emotional_Freedom_Techniques_for_Anxiety__A
+ .9.aspx\n[17]  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3108032/\n[18]
+   https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6381429/\n[19]  http://www.
+ lidsen.com/journals/icm/icm-03-04-036\n[20]  http://efttappingresearch.com
+ /\n[21]  https://petastapleton.com/the-science-behind-tapping/\n[22]  http
+ ://www.besselvanderkolk.com/resources/the-body-keeps-the-score\n[23]  http
+ s://www.goodreads.com/book/show/384924.Waking_the_Tiger\n[24]  https://you
+ tu.be/ec3AUMDjtKQ\n[25]  https://youtu.be/5sBtlVhvH_s\n[26]  https://www.y
+ outube.com/watch?v=0Vu0Tibt1bQ\n[27]  https://petastapleton.com/about-peta
+ /\n[28]  https://youtu.be/rv4wf7bzfFE?t=1208\n[29]  https://vimeo.com/4347
+ 59839\n[30]  https://tappingqanda.com/category/podcast/\n[31]  http://nanc
+ ygnecco.com/\n[32]  http://solace4me.com\n[33]  https://us02web.zoom.us/j/
+ 87951279059?pwd=anFNeCtIMExZY0RxTlIyRE1jdkVxZz09
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nano@Tech Fall 2022 Series | Session 4
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211012T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211012T170000Z
@@ -7955,6 +8042,77 @@ LOCATION:Georgia Institute of Technology | Marcus Nanotechnology Building
  1116-1117 | 345 Ferst Drive Atlanta | GA 30332
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tapping Circle for Stress and Calm - 2nd Fridays 3:30-
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211112T203000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211112T210000Z
+UID:http://hg.gatech.edu/node/645811#4
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nStatus: published\n\nDates: Second Fridays\, Ju
+ ne 11\, July 9\nTime: 3:30pm - 4pm\nTheme: Come join theTapping Circle as 
+ we explore some effective\, cutting edge yet ancient\, brain balancing met
+ hods to better manage our daily stress. Accredited Certified EFT Tapping P
+ ractitioner Andrea Lewis [01] from NY joins to guide us with some exercise
+ s that engages and balances the body and mind.\nWhere: Sessions will be he
+ ld online on Zoom for the Thursday sessions.\nRegistration: Please pre-reg
+ ister in advance. [02]\n\n- Center for Assessment\, Referral\, and Educati
+ on (CARE) [03]\n- Tech Ends Suicide Together [04]\n- Counseling Center [05
+ ]\n- Collegiate Recovery Program [06]\n- Stamps Psychiatry [07]\n- Vice Pr
+ esident and Dean of Students Office and Student Referral Form [08]\n- AAPI
+  Heritage Month (Student Diversity Programs) [09]\n- " Lunch & Learn: East
+ ern Medicine and Acupuncture with Dr. Zhaoxue Lu [10] "\n\n- Georgia Tech 
+ CARE: [11]\n- Georgia Tech Counseling Center: [12]\n- Georgia Tech Police 
+ Department: [13]\n- Georgia Crisis and Access Line: [14]\n- National Suici
+ de Prevention Lifeline: 1.800.273.TALK (8255)\n- National Hopeline Network
+ : 1-800.784.2433\n\n- Studies: " The effect of Emotional Freedom Technique
+ s on nurses' stress\, anxiety\, and burnout levels during the COVID-19 pan
+ demic: A randomized controlled trial [15] "\n- Studies: " Emotional Freedo
+ m Techniques for Anxiety - A Systematic Review With Meta-analysis [16] "\n
+ - Studies: " The polyvagal theory: New insights into adaptive reactions of
+  the autonomic nervous system [17] "\n- Studies: " Clinical EFT Improves P
+ hysiological Markers of Health [18] " - Donna Bach\, ND\, et al.\n- Studie
+ s: " Evaluating a 3-Week Model for Reducing Symptoms of Stress in Traumati
+ sed Youth Using the Trauma Tapping Technique (TTT) for Self-help: A Pilot 
+ Trial [19] " - Dr. Peta Stapleton\, Ulf Sandstrom\, & Gunilla Hamne\n- Res
+ earch Collection: EFTTappingResearch.com [20]\n- Book: " The Science Behin
+ d Tapping [21] " - Dr. Peta Stapleton\n- Book: " The Body Keeps the Score 
+ [22] " - Dr. Bassel van der Kolk\n- Book: " Waking the Tiger [23] " - Dr. 
+ Peter Levine\n- Video: Dr. Stephen Porges - "What is the Polyvagal Theory 
+ [24] "\n- Video: "Research Spotlight - What are Borrowed Benefits in EFT T
+ apping" [25] - Dr. Peta Stapleton\n- Video: " Is Therapy Facing a Revoluti
+ on? [26] " by Dr. Peta Stapleton [27]\n- Video: Tapping @ Vulfpeck Concert
+  with 14000 at Madison Square Garden\, Sept. 2019 [28]\n- Video: " Chaplai
+ n Foster - Interview on Tapping etc [29] "\n- Audio: "Tapping Q&A" podcast
+ s\, interviews\, resources [30] by Gene Monterastelli\n- Tapping Circles f
+ or the GT Community\n- First Thursdays of the month - 8:15-8:45am with Nan
+ cy Gnecco\, EFT Founding Master [31]\n- Second Fridays of the month - 3:30
+ -4pm with Andrea Lewis [32]\n- Third Tuesdays of the month - 8:15-8:45am w
+ ith Suzanne Zacharia\n- Fourth Monday of the month - 8:15-8:45am with Andr
+ ea Lewis [32]\n\nLinks:\n[00]  http://hg.gatech.edu/node/645811#4\n[01]  h
+ ttps://www.solace4me.com/\n[02]  https://forms.gle/LLbMrPFzXvjQBpMq8\n[03]
+   https://care.gatech.edu/\n[04]  http://endsuicide.gatech.edu/\n[05]  htt
+ p://counseling.gatech.edu/\n[06]  https://counseling.gatech.edu/content/co
+ llegiate-recovery-program\n[07]  https://health.gatech.edu/services/psych\
+ n[08]  https://referral.studentlife.gatech.edu/\n[09]  https://diversitypr
+ ograms.gatech.edu/aapi-heritage-month\n[10]  https://gatech.campuslabs.com
+ /engage/event/7022783\n[11]  tel:404.894.3498\n[12]  tel:404.894.2575\n[13
+ ]  tel:404.894.2500\n[14]  tel:1.800.715.4225\n[15]  https://www.sciencedi
+ rect.com/science/article/pii/S1550830720303839\n[16]  https://journals.lww
+ .com/jonmd/Abstract/2016/05000/Emotional_Freedom_Techniques_for_Anxiety__A
+ .9.aspx\n[17]  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3108032/\n[18]
+   https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6381429/\n[19]  http://www.
+ lidsen.com/journals/icm/icm-03-04-036\n[20]  http://efttappingresearch.com
+ /\n[21]  https://petastapleton.com/the-science-behind-tapping/\n[22]  http
+ ://www.besselvanderkolk.com/resources/the-body-keeps-the-score\n[23]  http
+ s://www.goodreads.com/book/show/384924.Waking_the_Tiger\n[24]  https://you
+ tu.be/ec3AUMDjtKQ\n[25]  https://youtu.be/5sBtlVhvH_s\n[26]  https://www.y
+ outube.com/watch?v=0Vu0Tibt1bQ\n[27]  https://petastapleton.com/about-peta
+ /\n[28]  https://youtu.be/rv4wf7bzfFE?t=1208\n[29]  https://vimeo.com/4347
+ 59839\n[30]  https://tappingqanda.com/category/podcast/\n[31]  http://nanc
+ ygnecco.com/\n[32]  http://solace4me.com\n[33]  https://us02web.zoom.us/j/
+ 87951279059?pwd=anFNeCtIMExZY0RxTlIyRE1jdkVxZz09
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nano@Tech Fall 2022 Series | Session 7
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211123T170000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211123T180000Z
@@ -7967,6 +8125,77 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  node/648429#0\n[1]  https://ien.gatech.edu/
 LOCATION:Georgia Institute of Technology | Marcus Nanotechnology Building 
  1116-1117 | 345 Ferst Drive Atlanta | GA 30332
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tapping Circle for Stress and Calm - 2nd Fridays 3:30-
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211210T203000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211210T210000Z
+UID:http://hg.gatech.edu/node/645811#5
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nStatus: published\n\nDates: Second Fridays\, Ju
+ ne 11\, July 9\nTime: 3:30pm - 4pm\nTheme: Come join theTapping Circle as 
+ we explore some effective\, cutting edge yet ancient\, brain balancing met
+ hods to better manage our daily stress. Accredited Certified EFT Tapping P
+ ractitioner Andrea Lewis [01] from NY joins to guide us with some exercise
+ s that engages and balances the body and mind.\nWhere: Sessions will be he
+ ld online on Zoom for the Thursday sessions.\nRegistration: Please pre-reg
+ ister in advance. [02]\n\n- Center for Assessment\, Referral\, and Educati
+ on (CARE) [03]\n- Tech Ends Suicide Together [04]\n- Counseling Center [05
+ ]\n- Collegiate Recovery Program [06]\n- Stamps Psychiatry [07]\n- Vice Pr
+ esident and Dean of Students Office and Student Referral Form [08]\n- AAPI
+  Heritage Month (Student Diversity Programs) [09]\n- " Lunch & Learn: East
+ ern Medicine and Acupuncture with Dr. Zhaoxue Lu [10] "\n\n- Georgia Tech 
+ CARE: [11]\n- Georgia Tech Counseling Center: [12]\n- Georgia Tech Police 
+ Department: [13]\n- Georgia Crisis and Access Line: [14]\n- National Suici
+ de Prevention Lifeline: 1.800.273.TALK (8255)\n- National Hopeline Network
+ : 1-800.784.2433\n\n- Studies: " The effect of Emotional Freedom Technique
+ s on nurses' stress\, anxiety\, and burnout levels during the COVID-19 pan
+ demic: A randomized controlled trial [15] "\n- Studies: " Emotional Freedo
+ m Techniques for Anxiety - A Systematic Review With Meta-analysis [16] "\n
+ - Studies: " The polyvagal theory: New insights into adaptive reactions of
+  the autonomic nervous system [17] "\n- Studies: " Clinical EFT Improves P
+ hysiological Markers of Health [18] " - Donna Bach\, ND\, et al.\n- Studie
+ s: " Evaluating a 3-Week Model for Reducing Symptoms of Stress in Traumati
+ sed Youth Using the Trauma Tapping Technique (TTT) for Self-help: A Pilot 
+ Trial [19] " - Dr. Peta Stapleton\, Ulf Sandstrom\, & Gunilla Hamne\n- Res
+ earch Collection: EFTTappingResearch.com [20]\n- Book: " The Science Behin
+ d Tapping [21] " - Dr. Peta Stapleton\n- Book: " The Body Keeps the Score 
+ [22] " - Dr. Bassel van der Kolk\n- Book: " Waking the Tiger [23] " - Dr. 
+ Peter Levine\n- Video: Dr. Stephen Porges - "What is the Polyvagal Theory 
+ [24] "\n- Video: "Research Spotlight - What are Borrowed Benefits in EFT T
+ apping" [25] - Dr. Peta Stapleton\n- Video: " Is Therapy Facing a Revoluti
+ on? [26] " by Dr. Peta Stapleton [27]\n- Video: Tapping @ Vulfpeck Concert
+  with 14000 at Madison Square Garden\, Sept. 2019 [28]\n- Video: " Chaplai
+ n Foster - Interview on Tapping etc [29] "\n- Audio: "Tapping Q&A" podcast
+ s\, interviews\, resources [30] by Gene Monterastelli\n- Tapping Circles f
+ or the GT Community\n- First Thursdays of the month - 8:15-8:45am with Nan
+ cy Gnecco\, EFT Founding Master [31]\n- Second Fridays of the month - 3:30
+ -4pm with Andrea Lewis [32]\n- Third Tuesdays of the month - 8:15-8:45am w
+ ith Suzanne Zacharia\n- Fourth Monday of the month - 8:15-8:45am with Andr
+ ea Lewis [32]\n\nLinks:\n[00]  http://hg.gatech.edu/node/645811#5\n[01]  h
+ ttps://www.solace4me.com/\n[02]  https://forms.gle/LLbMrPFzXvjQBpMq8\n[03]
+   https://care.gatech.edu/\n[04]  http://endsuicide.gatech.edu/\n[05]  htt
+ p://counseling.gatech.edu/\n[06]  https://counseling.gatech.edu/content/co
+ llegiate-recovery-program\n[07]  https://health.gatech.edu/services/psych\
+ n[08]  https://referral.studentlife.gatech.edu/\n[09]  https://diversitypr
+ ograms.gatech.edu/aapi-heritage-month\n[10]  https://gatech.campuslabs.com
+ /engage/event/7022783\n[11]  tel:404.894.3498\n[12]  tel:404.894.2575\n[13
+ ]  tel:404.894.2500\n[14]  tel:1.800.715.4225\n[15]  https://www.sciencedi
+ rect.com/science/article/pii/S1550830720303839\n[16]  https://journals.lww
+ .com/jonmd/Abstract/2016/05000/Emotional_Freedom_Techniques_for_Anxiety__A
+ .9.aspx\n[17]  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3108032/\n[18]
+   https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6381429/\n[19]  http://www.
+ lidsen.com/journals/icm/icm-03-04-036\n[20]  http://efttappingresearch.com
+ /\n[21]  https://petastapleton.com/the-science-behind-tapping/\n[22]  http
+ ://www.besselvanderkolk.com/resources/the-body-keeps-the-score\n[23]  http
+ s://www.goodreads.com/book/show/384924.Waking_the_Tiger\n[24]  https://you
+ tu.be/ec3AUMDjtKQ\n[25]  https://youtu.be/5sBtlVhvH_s\n[26]  https://www.y
+ outube.com/watch?v=0Vu0Tibt1bQ\n[27]  https://petastapleton.com/about-peta
+ /\n[28]  https://youtu.be/rv4wf7bzfFE?t=1208\n[29]  https://vimeo.com/4347
+ 59839\n[30]  https://tappingqanda.com/category/podcast/\n[31]  http://nanc
+ ygnecco.com/\n[32]  http://solace4me.com\n[33]  https://us02web.zoom.us/j/
+ 87951279059?pwd=anFNeCtIMExZY0RxTlIyRE1jdkVxZz09
+LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nano@Tech Fall 2022 Series | Session 8
