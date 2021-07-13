@@ -7849,6 +7849,37 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Price Gilbert Library\, Scholars Event Theater – room 1280
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Center for Integrative Genomics Advanced Research Seminar - CIGars
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210721T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210721T170000Z
+UID:http://hg.gatech.edu/node/648689#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nThe Center for In
+ tegrative Genomics (CIG) reinitiates their monthly advanced research semin
+ ars (CIGars) with two presentations given by graduate students and post-do
+ cs. Each presentation is approximately 25 minutes with 5 minutes for quest
+ ions. These talks are directed to graduate students and post-docs but are 
+ open to anyone who is interested in the topics.\n\n“Computational Invest
+ igation of Biological Programs to Compare Resilience of Macaque Species In
+ fected with Malaria Causing Plasmodium Pathogens”\n\nAnuj Gupta [1]\nGra
+ duate Student\, Bioinformatics\nEberhard Voit\, Ph.D.\, Advisor Georgia Te
+ ch\n\n“A Model Community for Studying Microbial Dynamics”\n\nJacob Dav
+ is [2]\nGraduate Student\, Bioengineering\nEberhard Voit\, Ph.D.\, Advisor
+  Georgia Tech\n\nIf you cannot attend in person\, please join us virtually
+  via BlueJeans [3].\n\nThis is a great opportunity to:\n\n- Improve your p
+ resentation skills as a speaker\n- Communicate science\, research and tech
+ nology to an audience with diverse backgrounds\n- Practice giving your tal
+ k for an upcoming conference\, thesis defense\, or qualifying oral exams\n
+ - Enjoy free lunch and hear about a wide range of work happening in the lo
+ cal bioscience community\n\nLinks:\n[0]  http://hg.gatech.edu/node/648689#
+ 0\n[1]  https://bioinformatics.gatech.edu/people/Anuj-Gupta\n[2]  https://
+ bioengineering.gatech.edu/people/jacob-davis\n[3]  https://bluejeans.com/9
+ 938428361\n[4]  http://www.bst.bme.gatech.edu/\n[5]  https://cig.gatech.ed
+ u/
+LOCATION:Engineered Biosystems Building (EBB)\, CHOA Seminar Room\, 950 At
+ lantic Drive NW\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Big Buzz | Student Leader Celebration! 
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210830T213000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210830T230000Z
