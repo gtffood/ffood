@@ -7849,6 +7849,17 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Price Gilbert Library\, Scholars Event Theater – room 1280
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Westminster Christian Fellowship Free Dinner
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210720T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210720T233000Z
+UID:http://hg.gatech.edu/node/648766#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nJoin WCF for dinner and discussion every Tuesday!\n\
+ n[1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/648766#0\n[1]  https://gate
+ ch.campuslabs.com/engage/organization/westminsterchristianfellowship
+LOCATION:WCF Building\, 724 Techwood Drive\, Atlanta\, GA 30313
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Center for Integrative Genomics Advanced Research Seminar - CIGars
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210721T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210721T170000Z
@@ -7878,6 +7889,54 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  u/
 LOCATION:Engineered Biosystems Building (EBB)\, CHOA Seminar Room\, 950 At
  lantic Drive NW\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Progress Pride Staircase Unveiling
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210722T133000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210722T143000Z
+UID:http://hg.gatech.edu/node/648735#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\, Freebies\nStatus: 
+ published\n\nPride Alliance and the LGBTQIA Resource Center will unveil th
+ e completed Progress Pride Staircase (the outdoor staircase connected to t
+ he Klaus Advanced Computing Building) on Thursday\, July 22\, at 9:30 a.m.
+  The campus is invited to celebrate the project's completion and significa
+ nce as a visible marker of Georgia Tech’s LGBTQIA community. The event w
+ ill include remarks from many close to the project and will highlight ways
+  to support Georgia Tech's LGBTQIA community\, such as the LGBTQIA Emergen
+ cy Fund. [1]\n\n(No RSVP required.)\n\nLinks:\n[0]  http://hg.gatech.edu/n
+ ode/648735#0\n[1]  https://mygeorgiatech.gatech.edu/giving/lgbtqia-emergen
+ cyfund
+LOCATION:Klaus Advanced Computing Building\; 266 Ferst Dr NW\, Atlanta\, G
+ A 30313
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hike with a Geologist!
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210724T123000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210724T160000Z
+UID:http://hg.gatech.edu/node/648757#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
+ aduate students\nStatus: published\n\nGeorgia Tech Trailblazers invites yo
+ u to hike with a Geologist from 9 am to 12 pm in Sweetwater Creek State Pa
+ rk! Roughly half an hour’s drive west of Georgia Tech. Embark on a 4.1-m
+ ile moderate hike from the visitor’s center with our very own Earth & At
+ mospheric Science professors. The EAS professors joining us on this advent
+ ure will be Dr. Ellery Ingall\, Dr. Samantha Wilson\, and potentially Meg 
+ Grantham! No pop quizzes here\, just come and enjoy nature while learning 
+ about our local geology!\n\nWe’ll start with short introductions and the
+ n some history of the park itself. As we hike\, we will get to know more a
+ bout our EAS professors and see a few unique geologic features of the park
+ . We hope this event will give you a newfound appreciation for the ground 
+ beneath your feet!\n\nWe suggest bringing: hiking clothes and shoes\, a ma
+ sk\, snacks\, and plenty of water.\n\nWe will observe all COVID guidelines
+ : mask-wearing while in the car with others and we ask unvaccinated people
+  to continue to wear a mask throughout the event.\n\nIf possible\, please 
+ provide your own transportation\, if you do need a ride\, meet at the culc
+  turnaround at 8:30 am to be picked up. Hope to see you there!\n\n[1]\n\nL
+ inks:\n[0]  http://hg.gatech.edu/node/648757#0\n[1]  https://gatech.campus
+ labs.com/engage/organization/trailblazers
+LOCATION:Sweetwater Creek State Park\, Sweetwater Creek State Park\, 1750 
+ Mt Vernon Rd\, Lithia Springs\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Big Buzz | Student Leader Celebration! 
