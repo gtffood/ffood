@@ -7911,6 +7911,51 @@ LOCATION:Klaus Advanced Computing Building\; 266 Ferst Dr NW\, Atlanta\, G
  A 30313
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PhD Defense by Ethan N. Evans
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210723T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210723T190000Z
+UID:http://hg.gatech.edu/node/648823#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nEthan N. Evans\n(Advisor: Evangelos A. Theodoro
+ u)\n\nwill defend a doctoral thesis entitled\,\n\nSpatio-Temporal Optimiza
+ tion for Control of Infinite Dimensional Systems in Robotics\, Fluid Mecha
+ nics\, and Quantum Mechanics\n\nOn\n\nFriday\, July 23rd at 1:00 p.m.\nKni
+ ght/Guggenheim 317 and on BlueJeans: [1]\n\nAbstract\nThe majority of syst
+ ems in nature have a spatio-temporal dependence and can be described by Pa
+ rtial Differential Equations (PDEs). They are ubiquitous in science and en
+ gineering\, and are of rising interest among the control\, robotics\, and 
+ machine learning communities. Related methods usually treat these infinite
+  dimensional problems in finite dimensions with reduced order models. This
+  leads to committing to specific approximation schemes and the subsequent 
+ control laws cannot generalize outside of the approximation schemes. Addit
+ ionally\, related work does not consider spatio-temporal descriptions of n
+ oise that realistically represent the stochastic nature of physical system
+ s. This thesis develops a variety of approaches for control optimization a
+ nd co-design optimization for PDE and stochastic PDE (SPDE) systems from a
+  unified perspective that can be applied to macroscopic systems in robotic
+ s and fluid dynamics\, as well as microscopic systems in quantum mechanics
+ . These approaches are each developed completely in the infinite dimension
+ al Hilbert spaces where the systems are mathematically described\, enablin
+ g the frameworks to be agnostic to the discretization scheme used to imple
+ ment them. The first three developed approaches are applied in simulation 
+ to classical systems in fluid mechanics such as the Heat and Burgers equat
+ ion. The fourth approach is developed for second-order SPDEs that arise in
+  robotic systems\, and are applied in simulation to systems in soft-roboti
+ cs such as the Euler-Bernoulli equation and a biological model of a soft-r
+ obotic limb. Finally\, several approaches are developed in the context of 
+ quantum feedback control of open quantum systems with non-demolition measu
+ rement\, and one such approach is applied in simulation to perform explici
+ t feedback control of the two qubit open quantum system.\n\nCommittee\n\n-
+  Prof. Evangelos A. Theodorou – School of Aerospace Engineering (advisor
+ )\n- Prof. Yongxin Chen – School of Aerospace Engineering\n- Prof. Kyria
+ kos Vamvoudakis – School of Aerospace Engineering\n- Prof. Andrzej Swiec
+ h – School of Mathematics\n- Prof. Mike DeWeese – UC Berkeley School o
+ f Physics\n- Dr. Matthew Bays – Sr. Research Scientist at Naval Surface 
+ Warfare Center\, Panama City Division\n\nLinks:\n[0]  http://hg.gatech.edu
+ /node/648823#0\n[1]  https://bluejeans.com/917439322/0201
+LOCATION:Knight/Guggenheim 317
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hike with a Geologist!
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210724T123000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210724T160000Z
