@@ -2,29 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Kirtan - Yoga of Sound
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200718T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200718T010000Z
-UID:http://hg.gatech.edu/node/636394#3
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nEcstatic Kirtan! 
- the Yoga of sound. Join our live stream or in-person (seats limited).\n\nT
- his is a FREE event. Donation to serve COVID affected communities are welc
- ome at https://food4lives.org/ [1]\n\nPlease tune in via our "Bhakti Yoga 
- Club at GeorgiaTech” Facebook page - we’d love for you to join us!\n\n
- Learn to chant mantras that give clarity of mind\, purity of heart and sin
- cerity of action. This sacred form of call and response helps you connect 
- with the divine and each other. We experience the vibrations of communal s
- inging\, emanating loving energy of the universe.\n\nCome sing your heart 
- out and prepare to be mesmerized at 7:30 p.m. every Friday.\n\nBringing yo
- ur own instrument is encouraged.\n\n.....\n\nWe can't for you to join our 
- Bhakti Yoga family of LOVE & SERVICE.\n\nLinks:\n[0]  http://hg.gatech.edu
- /node/636394#3\n[1]  https://food4lives.org/?fbclid=IwAR0UPfXdVo688nsNzpGR
- PdvhZXbLgGV-1x6A8VNRAVNuQ_H3socPdQ9sz5Y\n[2]  https://www.facebook.com/eve
- nts/714805419344982/
-LOCATION:Food4Lives\, 1122 Chattahoochee Avenue NW\, Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lunch Time "Tapping" for Stress Release & Calm
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200721T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200721T163000Z
@@ -7982,6 +7959,26 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
  labs.com/engage/organization/trailblazers
 LOCATION:Sweetwater Creek State Park\, Sweetwater Creek State Park\, 1750 
  Mt Vernon Rd\, Lithia Springs\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Students Organizing for Sustainability Garden Workday DAY 1
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210724T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210724T170000Z
+UID:http://hg.gatech.edu/node/648882#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
+ aduate students\nExtras: Free food\nStatus: published\n\nJoin us on Saturd
+ ay in the garden! This is the first day of a big cleanup project for the b
+ eginning of the Fall semester! We will be weeding\, turning compost\, harv
+ esting\, and cleaning up the space. You must RSVP at the following links: 
+ click here [1] for the first day and here [2] for the second day. Please r
+ eview garden health guidelines [3] before attending.\n\nYou may want to br
+ ing a bag so you can take home produce and herbs with you!\n\nThe Communit
+ y Garden is located on the IC lawn adjacent to the Exhibition Hall.\n\nLin
+ ks:\n[0]  http://hg.gatech.edu/node/648882#0\n[1]  https://forms.gle/wdaSX
+ 4ZqcLGFxk3SA\n[2]  https://forms.gle/gbvMaz3t5X3uB1idA\n[3]  https://docs.
+ google.com/document/d/1B19bvV1N73QFvuwN3UnBfZ913ij5IXtbz5cb2DzmNkU/edit?us
+ p=sharing
+LOCATION:GT Community Garden\, 759 Ferst Drive NW\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Big Buzz | Student Leader Celebration! 
