@@ -2,37 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Lunch Time "Tapping" for Stress Release & Calm
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200721T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200721T163000Z
-UID:http://hg.gatech.edu/node/636145#4
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nStatus: draft\n\nJoin us for some lunch time "T
- apping" to reduce stress and feel more at ease.\n\nTuesdays: Mini Reset Ta
- p-along\nVideo "Tap-along" or some simple stretching for stress release\n\
- nThursdays: Tapping with a Guest Practitioner\nQuick Intro to "Tapping" & 
- Group "Tap & Breath"\n\nPlease feel free to invite your colleagues and fri
- end.\n\nThis video will serve as the basis\, therefore if you find Tapping
-  helpful\, please Tap-along with it often! https://youtu.be/_jHWq6n6WNM\n-
- -----------------\nIf you cannot join live but would like to try Tapping f
- or self-calm and stress reduction\, please check out this link and follow 
- along the Tapping. This video will take you through some basic Tapping poi
- nts\, and could induce the sense of calm.\n\nhttps://youtu.be/_jHWq6n6WNM\
- n\n------------------\n\nThe self-help technique to be shared may provide 
- you with some ways to calm down stress and other emotions. However\, it is
-  not a treatment or prescription for any medial or mental health issues\, 
- nor a substitute for regular medical or psychological care. Presentors are
-  often not medical nor a mental health professionals. If you have a medica
- l or psychological condition\, please consult your doctor or other appropr
- iate licensed health practitioner. Joining the Tapping session does not co
- nstitute a professional relationship between the viewer and the presenter.
-  Choosing to Tap along means you are taking responsibility for your own se
- lf. We hope the session will contain some helpful information to you.\n\nL
- inks:\n[0]  http://hg.gatech.edu/node/636145#4\n[1]  https://bluejeans.com
- /612744357\n[2]  https://youtu.be/_jHWq6n6WNM
-LOCATION:Online
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Test
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200722T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200722T170000Z
@@ -7837,6 +7806,33 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:WCF Building\, 724 Techwood Drive\, Atlanta\, GA 30313
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Center for Integrative Genomics Advanced Research Seminar
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210721T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210721T170000Z
+UID:http://hg.gatech.edu/node/648911#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nEach presentation
+  is approximately 25 minutes with 5 minutes for questions. These talks are
+  directed to graduate students and post-docs but are open to anyone who is
+  interested in the topics.\n\n“Computational Investigation of Biological
+  Programs to Compare Resilience of Macaque Species Infected with Malaria C
+ ausing Plasmodium Pathogens”\n\nAnuj Gupta [1]\nGraduate Student\, Bioin
+ formatics\nEberhard Voit\, Ph.D.\, Advisor Georgia Tech\n\n“A Model Comm
+ unity for Studying Microbial Dynamics”\n\nJacob Davis [2]\nGraduate Stud
+ ent\, Bioengineering\nEberhard Voit\, Ph.D.\, Advisor Georgia Tech\n\nIf y
+ ou cannot attend in person\, please join us virtually via BlueJeans [3].\n
+ \nThis is a great opportunity to:\n\n- Improve your presentation skills as
+  a speaker\n- Communicate science\, research and technology to an audience
+  with diverse backgrounds\n- Practice giving your talk for an upcoming con
+ ference\, thesis defense\, or qualifying oral exams\n- Enjoy free lunch an
+ d hear about a wide range of work happening in the local bioscience commun
+ ity\n\nLinks:\n[0]  http://hg.gatech.edu/node/648911#0\n[1]  https://bioin
+ formatics.gatech.edu/people/Anuj-Gupta\n[2]  https://bioengineering.gatech
+ .edu/people/jacob-davis\n[3]  https://bluejeans.com/9938428361
+LOCATION:Engineered Biosystems Building (EBB)\, CHOA Seminar Room\, 950 At
+ lantic Drive NW\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Center for Integrative Genomics Advanced Research Seminar - CIGars
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210721T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210721T170000Z
@@ -7961,6 +7957,25 @@ LOCATION:Sweetwater Creek State Park\, Sweetwater Creek State Park\, 1750
  Mt Vernon Rd\, Lithia Springs\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Garden Workday DAY 1
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210724T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210724T170000Z
+UID:https://gatech.campuslabs.com/engage/event/7143924
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Saturday in 
+ the garden! This is the first day of a big cleanup project for the beginni
+ ng of the Fall semester! We will be weeding\, turning compost\, harvesting
+ \, and cleaning up the space. You must RSVP at the following links: click 
+ here [1] for the first day and here [2] for the second day. Please review 
+ garden health guidelines [3] before attending.\n\nYou may want to bring a 
+ bag so you can take home produce and herbs with you!\n\nThe Community Gard
+ en is located on the IC lawn adjacent to the Exhibition Hall.\n\nLinks:\n[
+ 0]  https://gatech.campuslabs.com/engage/event/7143924\n[1]  https://forms
+ .gle/wdaSX4ZqcLGFxk3SA\n[2]  https://forms.gle/gbvMaz3t5X3uB1idA\n[3]  htt
+ ps://docs.google.com/document/d/1B19bvV1N73QFvuwN3UnBfZ913ij5IXtbz5cb2DzmN
+ kU/edit?usp=sharing
+LOCATION:GT Community Garden
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Students Organizing for Sustainability Garden Workday DAY 1
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210724T140000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210724T170000Z
@@ -7979,6 +7994,25 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
  google.com/document/d/1B19bvV1N73QFvuwN3UnBfZ913ij5IXtbz5cb2DzmNkU/edit?us
  p=sharing
 LOCATION:GT Community Garden\, 759 Ferst Drive NW\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Garden Workday DAY 2
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210725T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210725T170000Z
+UID:https://gatech.campuslabs.com/engage/event/7143925
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Sunday in th
+ e garden! This is the second day of a big cleanup project for the beginnin
+ g of the Fall semester! We will be weeding\, turning compost\, harvesting\
+ , and cleaning up the space. You must RSVP at the following links: click h
+ ere [1] for the first day and here [2] for the second day. Please review g
+ arden health guidelines [3] before attending.\n\nYou may want to bring a b
+ ag so you can take home produce and herbs with you!\n\nThe Community Garde
+ n is located on the IC lawn adjacent to the Exhibition Hall.\n\nLinks:\n[0
+ ]  https://gatech.campuslabs.com/engage/event/7143925\n[1]  https://forms.
+ gle/wdaSX4ZqcLGFxk3SA\n[2]  https://forms.gle/gbvMaz3t5X3uB1idA\n[3]  http
+ s://docs.google.com/document/d/1B19bvV1N73QFvuwN3UnBfZ913ij5IXtbz5cb2DzmNk
+ U/edit?usp=sharing
+LOCATION:GT Community Garden
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Big Buzz | Student Leader Celebration! 
