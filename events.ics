@@ -2,47 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Test
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200722T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200722T170000Z
-UID:https://gatech.campuslabs.com/engage/event/6142910
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nTest Test test\n\nLinks
- :\n[0]  https://gatech.campuslabs.com/engage/event/6142910\n[1]  https://g
- atech.campuslabs.com/engage/event/6142909
-LOCATION:Online
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunch Time "Tapping" for Stress Release & Calm
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200723T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200723T163000Z
-UID:http://hg.gatech.edu/node/636145#5
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nStatus: draft\n\nJoin us for some lunch time "T
- apping" to reduce stress and feel more at ease.\n\nTuesdays: Mini Reset Ta
- p-along\nVideo "Tap-along" or some simple stretching for stress release\n\
- nThursdays: Tapping with a Guest Practitioner\nQuick Intro to "Tapping" & 
- Group "Tap & Breath"\n\nPlease feel free to invite your colleagues and fri
- end.\n\nThis video will serve as the basis\, therefore if you find Tapping
-  helpful\, please Tap-along with it often! https://youtu.be/_jHWq6n6WNM\n-
- -----------------\nIf you cannot join live but would like to try Tapping f
- or self-calm and stress reduction\, please check out this link and follow 
- along the Tapping. This video will take you through some basic Tapping poi
- nts\, and could induce the sense of calm.\n\nhttps://youtu.be/_jHWq6n6WNM\
- n\n------------------\n\nThe self-help technique to be shared may provide 
- you with some ways to calm down stress and other emotions. However\, it is
-  not a treatment or prescription for any medial or mental health issues\, 
- nor a substitute for regular medical or psychological care. Presentors are
-  often not medical nor a mental health professionals. If you have a medica
- l or psychological condition\, please consult your doctor or other appropr
- iate licensed health practitioner. Joining the Tapping session does not co
- nstitute a professional relationship between the viewer and the presenter.
-  Choosing to Tap along means you are taking responsibility for your own se
- lf. We hope the session will contain some helpful information to you.\n\nL
- inks:\n[0]  http://hg.gatech.edu/node/636145#5\n[1]  https://bluejeans.com
- /612744357\n[2]  https://youtu.be/_jHWq6n6WNM
-LOCATION:Online
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kirtan - Yoga of Sound
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200725T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200725T010000Z
@@ -8013,6 +7972,40 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Sunday in th
  s://docs.google.com/document/d/1B19bvV1N73QFvuwN3UnBfZ913ij5IXtbz5cb2DzmNk
  U/edit?usp=sharing
 LOCATION:GT Community Garden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First Friday Block Party
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210820T190000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210820T220000Z
+UID:https://gatech.campuslabs.com/engage/event/7147272
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nAre you re
+ ady to find your FLO? Join us at First Friday!\n\nCome mingle with organiz
+ ation leaders from each of our 9 First-Year Leadership Organizations (FLOs
+ ) and find out how you can join!\n\nYou can expect food\, games\, free swa
+ g\, and more!\n\nJoin us on Tech Green from 3pm - 6pm on August 20\, 2020.
+ \n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7147272
+LOCATION:Tech Green/Tech Walkway 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sailing Club Open House
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210828T130000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210828T170000Z
+UID:https://gatech.campuslabs.com/engage/event/7146685
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
+ aduate students\nExtras: Free Food\nStatus: approved\n\nKick your school y
+ ear off right! Join the Georgia Tech Sailing Club for an open house on Sat
+ urday August 28!\n\nNew and interested members are welcome and encouraged 
+ to attend. You don't need to know a thing about sailing to come out and ha
+ ve fun! There will be beach games\, a barbecue\, and plenty of boats out o
+ n the water. Bring a friend!\n\nFill out this form [2] to sign up and make
+  sure you get food!\n\nWe will meet outside the CRC at 9:00 AM and start t
+ o drive people to the lake.\n\nCheck out our website [3] for more informat
+ ion\, and make sure to follow us on social media! (links on website)\n\nLi
+ nks:\n[0]  https://gatech.campuslabs.com/engage/event/7146685\n[1]  http:/
+ /hg.gatech.edu/node/648983#0\n[2]  https://forms.gle/3FbLTAUUqnpwH6FcA\n[3
+ ]  https://www.gtsailing.org/
+LOCATION:Lake Lanier Sailing Club\, 6206 Commodore Dr\, Flowery Branch\, G
+ A
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Big Buzz | Student Leader Celebration! 
