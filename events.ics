@@ -3,37 +3,6 @@ VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
 SUMMARY:Lunch Time "Tapping" for Stress Release & Calm
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200728T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200728T163000Z
-UID:http://hg.gatech.edu/node/636145#6
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nStatus: draft\n\nJoin us for some lunch time "T
- apping" to reduce stress and feel more at ease.\n\nTuesdays: Mini Reset Ta
- p-along\nVideo "Tap-along" or some simple stretching for stress release\n\
- nThursdays: Tapping with a Guest Practitioner\nQuick Intro to "Tapping" & 
- Group "Tap & Breath"\n\nPlease feel free to invite your colleagues and fri
- end.\n\nThis video will serve as the basis\, therefore if you find Tapping
-  helpful\, please Tap-along with it often! https://youtu.be/_jHWq6n6WNM\n-
- -----------------\nIf you cannot join live but would like to try Tapping f
- or self-calm and stress reduction\, please check out this link and follow 
- along the Tapping. This video will take you through some basic Tapping poi
- nts\, and could induce the sense of calm.\n\nhttps://youtu.be/_jHWq6n6WNM\
- n\n------------------\n\nThe self-help technique to be shared may provide 
- you with some ways to calm down stress and other emotions. However\, it is
-  not a treatment or prescription for any medial or mental health issues\, 
- nor a substitute for regular medical or psychological care. Presentors are
-  often not medical nor a mental health professionals. If you have a medica
- l or psychological condition\, please consult your doctor or other appropr
- iate licensed health practitioner. Joining the Tapping session does not co
- nstitute a professional relationship between the viewer and the presenter.
-  Choosing to Tap along means you are taking responsibility for your own se
- lf. We hope the session will contain some helpful information to you.\n\nL
- inks:\n[0]  http://hg.gatech.edu/node/636145#6\n[1]  https://bluejeans.com
- /612744357\n[2]  https://youtu.be/_jHWq6n6WNM
-LOCATION:Online
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunch Time "Tapping" for Stress Release & Calm
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200730T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200730T163000Z
 UID:http://hg.gatech.edu/node/636145#7
