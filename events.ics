@@ -7750,6 +7750,25 @@ LOCATION:Basement of Engineering Science & Mechanics Building\, 620 Cherry
   St NW\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rats Night
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210818T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210819T020000Z
+UID:http://hg.gatech.edu/node/649174#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nWednesday\, Aug. 18 from 7 to 10 p.m. take over
+  the Georgia Tech Library for a late night of fun filled with snacks\, vid
+ eo games\, trivia\, arts and crafts\, and free giveaways.\n\nIn addition t
+ o the fan favorite cotton candy and popcorn\, this year features samples o
+ f popular menu items from Blue Donkey and Kaldis Coffee\, which is the new
+ est addition to Clough.\n\nWe'll also have team trivia (with prizes)\, boa
+ rd and video games\, personalized posters and custom videos in the Multime
+ dia Scholarship Commons\, and the Robert C. Williams Museum of Papermaking
+  in AIRspace for hands-on paper arts activities. This is one party you wil
+ l not want to miss before classes start.\n\nLinks:\n[0]  http://hg.gatech.
+ edu/node/649174#0
+LOCATION:Georgia Tech Library
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:First Friday Block Party
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210820T190000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210820T220000Z
@@ -7780,9 +7799,9 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  ankets to sit and enjoy their refreshments and hang out. We hope to see yo
  u there! *In case of inclement weather\, the event will held at Skiles Ove
  rhang- keep an eye on our social medias\, Engage page\, or the Guidebook a
- pp for updates.\n\n[1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/649168#0\
- n[1]  https://gatech.campuslabs.com/engage/organization/skiandsnowboardclu
- b
+ pp for updates.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649168#0\n[1]  h
+ ttps://gatech.campuslabs.com/engage/event/7159347\n[2]  https://gatech.cam
+ puslabs.com/engage/organization/skiandsnowboardclub
 LOCATION:Instructional Center Lawn\, 759 Ferst Drive\, Atlanta\, GA 30318
 END:VEVENT
 BEGIN:VEVENT
