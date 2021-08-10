@@ -7595,6 +7595,58 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
 LOCATION:GT Community Garden\, 759 Ferst Drive NW\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Small Act\, Big Impact Day of Service | First-Year Day of Service 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210817T120000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210817T163000Z
+UID:https://gatech.campuslabs.com/engage/event/7129988
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nMeaningful connection t
+ o community is essential and giving back through service is one way we str
+ engthen our connection to the Georgia Tech and Atlanta community! Small Ac
+ t\, Big Impact provides first-year Georgia Tech students the chance to mee
+ t fellow GT students\, learn more about the service community at GT and ex
+ plore ways to connect to the larger Atlanta community! Small Act\, Big Imp
+ act is day of service event hosted by MOVE (Mobilizing Opportunities for V
+ olunteer Experiences) and the Office of Civic Engagement.\n\nRSVP by Monda
+ y\, August 16 at 5pm (EST) to participate. Limited walk-up registration ma
+ y occur as project space allows.\n\nTransportation to assigned project sit
+ es will be provided.\nBreakfast will be on your own - grab & go snacks wil
+ l be provided during and after the service projects!\n\nMeet our SABI 2021
+  Community Partners!\n\nGateway Center [1]\n\nGateway Center's mission is 
+ to connect people experiencing homelessness with the support necessary to 
+ become self-sufficent and find a permanent home. SABI volunteers can antic
+ ipate an indoor project. Possible service may include sorting and organizi
+ ng donated items and serving as "personal shoppers" in the Gateway Center 
+ donation closet for those experiencing homelessness. Staff will also provi
+ de an overview of Gateway Center and homelessness in Atlanta.\n\nHistoric 
+ Oakland Cemetary [2]\n\nOakland Cemetary is a fixture of the historic down
+ town Atlanta community with the mission to preserve\, restore\, enhance\, 
+ and share Oakland Cemetery in partnership with the City of Atlanta. SABI v
+ olunteers can anticipate an outdoor project. Possible service may include 
+ supporting the gardens team with a variety of projects to support the heal
+ th and beauty of the public space including planting\, watering\, weeding\
+ , or other needed support. Due to the nature of the work\, this project is
+  not ADA accessible.\n\nKate's Club [3]\n\nKate's Club empowers children f
+ acing life after the death of a parent or sibling. They build healing comm
+ unities through recreational and group support programs\, education\, and 
+ advocacy. SABI volunteers may be offered indoor and outdoor project option
+ s. Possible service may include assisting with preparation of materials fo
+ r an upcoming overnight weekend camp and general maintenance or clean-up.\
+ n\nPiedmont Park Conservancy [4]\n\nPiedmont Park is an iconic park in Mid
+ town Atlanta supported by the Conservancy's mission to provide more than g
+ reenspace\, but to provide an experience and life in the heart of Atlanta.
+  SABI volunteers can anticipate an outdoor project experience. Possible se
+ rvice may include weeding\, pruning plants\, removing invasive plant speci
+ es\, and more!\n\nThe Salvation Army of Metro Atlanta [5]\n\nThe Salvation
+  Army's mission is to meet human need wherever\, whenever\, and however th
+ ey can\, without discrimination. SABI volunteers will participate in an in
+ door project and can anticipate serving food in the kitchen of a local she
+ lter near campus.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/eve
+ nt/7129988\n[1]  https://www.gatewayctr.org/\n[2]  https://oaklandcemetery
+ .com/\n[3]  http://www.katesclub.org/\n[4]  https://piedmontpark.org/\n[5]
+   https://salvationarmyatlanta.org/
+LOCATION:Klaus (Noonan) Lawn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GT Mock Trial Information Sessions
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210817T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210817T230000Z
@@ -7778,6 +7830,22 @@ DESCRIPTION:Extras: Credit\, Free Food\, Free Stuff\nStatus: approved\n\nE
  1289\n[1]  https://student-organizations.gatech.edu/content/get-connected-
  stay-engaged
 LOCATION:Tech Green/Tech Walkway 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SWE General Body Meeting - Back to School Social 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210831T213000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210831T230000Z
+UID:https://gatech.campuslabs.com/engage/event/7173237
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nCome out t
+ o our first general body meeting of the fall semester to get to know our o
+ rganization\, interact with our members\, and learn about all of our amazi
+ ng upcoming opportunities. There will be food\, games\, and swag giveaways
+ ! We welcome all students\, and we hope to see you there!\n\nNote: Our reg
+ ular weekly general body meetings usually consist of a company presentatio
+ n and will be held in Flag 117 starting September 7th\, but for our kickof
+ f event we will be outside in the Klaus Courtyard.\n\nLinks:\n[0]  https:/
+ /gatech.campuslabs.com/engage/event/7173237
+LOCATION:Klaus Courtyard 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Service Fair
