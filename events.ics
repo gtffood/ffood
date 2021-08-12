@@ -2,109 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Freshman Events: Hang Out on Tech Green
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200810T200000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200810T210000Z
-UID:https://gatech.campuslabs.com/engage/event/6158628
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nEnjoy Popsicles\, CanJa
- m\, Spikeball\, & other games out on Tech Green. Put on by the CSO's Fresh
- man Events Team.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/even
- t/6158628
-LOCATION:Tech Green
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Morning Prayer
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200811T140000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200811T150000Z
-UID:https://gatech.campuslabs.com/engage/event/6158626
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us in the Wesley p
- rayer garden for a morning prayer and snacks!\n\nLinks:\n[0]  https://gate
- ch.campuslabs.com/engage/event/6158626
-LOCATION:Wesley Prayer Garden 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunch Time "Tapping" for Calm\, Centering & Clarity
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200811T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200811T163000Z
-UID:http://hg.gatech.edu/node/636145#10
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nStatus: published\n\nLet's get together for som
- e self-care Tapping\, breathing and centering\, to better manage stress\, 
- and access more calm and clarity.\n\nWhen: Tuesdays & Thursdays in July\, 
- Noon ~ 12:30\, (August ~ TBD)\nWhere: Drop In Zoom (Initial download/setup
-  might be required) [01]\nWhat: 1. Casual chat on stress & Tapping intro (
- as needed)\n2. "Tapping" similar to this video " Trauma Tapping Technique 
- [02]."\n\nThe self-help technique to be shared may provide you with some w
- ays to calm down stress and other emotions. However\, it is not a treatmen
- t or prescription for any medial or mental health issues\, nor a substitut
- e for regular medical or psychological care. If you have a medical or psyc
- hological condition\, please consult your doctor or other appropriate lice
- nsed health practitioner. Joining the Tapping session does not constitute 
- a professional relationship between the viewers and the presenters. Choosi
- ng to Tap along means you are taking responsibility for your own self. We 
- hope the session will contain some helpful information to you.\n\n- Mental
-  Health Resources @ GT [03]\n- Mental Health Support Events via the Counse
- ling Center @ GT [04]\n- Video: " Trauma Tapping Technique [02] " - Simila
- r style to our Lunch Time Tapping\n- " Your Immune System Is Your Greatest
-  Asset — Here’s How to Care for It [05] " by Dr. Jeffrey Rediger\, M.D
- .\, MDiv [06]\n- Video: " How to Make Stress Your Friend [07] " by Psychol
- ogist Kelly McGonigal\n".... the harmful effects of stress on your health 
- are not inevitable. How you think and how you act can transform your exper
- ience of stress. When you choose to view your stress response as helpful\,
-  you create the biology of courage. And when you choose to connect with ot
- hers under stress\, you can create resilience....Stress gives us access to
-  our hearts. The compassionate heart that finds joy and meaning in connect
- ing with others\, and yes\, your pounding physical heart\, working so hard
-  to give you strength and energy. And when you choose to view stress in th
- is way\, you're not just getting better at stress\, you're actually making
-  a pretty profound statement. You're saying that you can trust yourself to
-  handle life's challenges. And you're remembering that you don't have to f
- ace them alone. "\n- Video: " First Aid for Emotional Distress - Trauma Ta
- pping Technique (TTT) [08] "\n- Peaceful Heart Network [09]\n- Video: " Ch
- aplain Foster - Interview on Tapping etc [10] "\n- "The Body Keeps the Sco
- re" - Dr. Bessel Van der Kolk\n- "Waking the Tiger" - Dr. Peter Levine\n- 
- "The Science Behind Tapping" - Dr. Peta Stapleton\n- " Evaluating a 3-Week
-  Model for Reducing Symptoms of Stress in Traumatised Youth Using the Trau
- ma Tapping Technique (TTT) for Self-help: A Pilot Trial [11] " - Dr. Peta 
- Stapleton\, Ulf Sandstrom\, & Gunilla Hamne\n- " Clinical EFT Improves Phy
- siological Markers of Health [12] " - Donna Bach\, ND\, et al.\n- Recent R
- esearch Studies on (EFT Tapping) [13] compiled by Dr. Craig Weiner\n\n"Kno
- wing others is intelligence\; knowing yourself is true wisdom. Mastering o
- thers is strength\; mastering yourself is true power.”\n- Lao Tzu\, Tao 
- Te Ching\n\n------------\n\nIn addition to the many trainers\, mentors\, a
- nd colleagues who practice EFT Tapping the following individuals have been
-  kind to personally spend their time to support these Tapping efforts on G
- T Campus - Thank you:)\n\nAndrea Lewis: Solace4me.com (under construction\
- , almost done) [14]\nNancy Gnecco: NancyGnecco.com [15]\nKatie Nall: NallE
- dgeCo.com [16] | " A Technique to Eliminate Math Anxiety [17] "\nLori Lamo
- nt: FemaleEmpowermentEFT.com [18] |\nFree Tapping Calls [19] (3rd Fri@10am
-  & Last Mon@Noon EST)\nLaurie Heyl: LaurieHeyl.com [20]\nSilke Johnson: Me
- lodyCenter.de [21]\nTrina Markusson: [22] | [23]\nSuzanne Velasquez-Sheehy
- : BoltToSuccess.com [24]\n\n(If you are a Tapping practitioner who wishes 
- to co-lead Lunch Time Tapping\, please reach out to mito6@gatech.edu.)\n\n
- Links:\n[00]  http://hg.gatech.edu/node/636145#10\n[01]  https://zoom.us/j
- /96236201459?pwd=dVJuOTNlRGVMdUNDL1FpTGdVNTNoQT09\n[02]  https://youtu.be/
- _jHWq6n6WNM\n[03]  https://www.news.gatech.edu/2020/06/15/mental-health-re
- sources-available-during-challenging-times\n[04]  https://counseling.gatec
- h.edu/support-mental-health-events\n[05]  https://elemental.medium.com/you
- r-immune-system-is-your-greatest-asset-heres-how-to-care-for-it-4356cee659
- 8c\n[06]  https://elemental.medium.com/@drjeffreyrediger?source=post_page-
- ----4356cee6598c----------------------\n[07]  https://www.ted.com/talks/ke
- lly_mcgonigal_how_to_make_stress_your_friend/transcript?language=en#t-7272
- 44\n[08]  https://youtu.be/UcyaudlgkGo\n[09]  https://peacefulheart.se\n[1
- 0]  https://vimeo.com/434759839\n[11]  http://www.lidsen.com/journals/icm/
- icm-03-04-036\n[12]  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6381429/
- \n[13]  https://www.efttappingtraining.com/eft-research/\n[14]  http://www
- .solace4me.com/?fbclid=IwAR2SW3IfRmYg5HDPpMfhZIf_Jrtb8eZjOAovsBJghmVpWVjB9
- jMZ0Y-bFXo\n[15]  http://www.nancygnecco.com\n[16]  http://www.nalledgeco.
- com/\n[17]  https://youtu.be/KZNdBxdNGIE\n[18]  http://www.femaleempowerme
- nteft.com\n[19]  https://femaleempowermenteft.as.me/Freetappingcall\n[20] 
-  http://laurieheyl.com\n[21]  https://www.melodycenter.de/en/about-us/#Sil
- ke\n[22]  http://www.presentmomentliving.ca/\n[23]  http://thereleaseapp.c
- om/\n[24]  https://www.bolttosuccess.com
-LOCATION:Online
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Morning Yoga and DIY Dorm Decor
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200812T140000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200812T160000Z
@@ -7595,6 +7492,60 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
 LOCATION:GT Community Garden\, 759 Ferst Drive NW\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Traveling While Black
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210813T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210814T035900Z
+UID:http://hg.gatech.edu/node/649420#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nTraveling While B
+ lack\n\nFriday\, August 13 through Friday\, November 12 (no showings on Mo
+ ndays or Tuesdays)\nEvery hour on the hour\, 12 p.m. through 7 p.m.\nRicha
+ rds Gallery at the Ferst Center for the Arts\nSeating is limited\n\nAdmiss
+ ion $6\n\nFor tickets and more information visit [1]\n\nIn this 20-minute\
+ , 360-degree virtual reality immersive film\, you sit with African America
+ n visitors at the famed Ben’s Chili Bowl as they talk about the long his
+ tory\, and ongoing experience\, of the restriction of movement for Black A
+ mericans. Academy Award winner Roger Ross Williams’ finely crafted film 
+ highlights the urgent need to remember this past\, build critical empathy\
+ , and facilitate a dialogue about the challenges minority travelers still 
+ face today.\n\nTraveling While Black will be installed in the Richards Gal
+ lery at the Ferst Center for the Arts. The film will be screened Friday\, 
+ August 13 through Friday\, November 12 (no showings on Mondays or Tuesdays
+ )\, every hour on the hour\, 12 p.m. through 7 p.m. Seating is limited.\n\
+ nPresented by Georgia Tech Arts in partnership with Institute Diversity\, 
+ Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#0
+ \n[1]  https://arts.gatech.edu/twb
+LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Church Carpool
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210815T120000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210815T130000Z
+UID:http://hg.gatech.edu/node/649430#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nFinding a church in Atlanta can s
+ eem intimidating at first. Come to the BCM at 8:00AM Sunday morning\, Augu
+ st 15th\, for a continental breakfast and the opportunity to hear about lo
+ cal churches in the area the BCMers attend! There will be a carpool after 
+ to those churches! Hope to see you there!\n\nLinks:\n[0]  http://hg.gatech
+ .edu/node/649430#0
+LOCATION:BCM @ Ga Tech\, 740 Techwood Dr NW\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BCM's Poppin' Tour
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210816T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210817T010000Z
+UID:http://hg.gatech.edu/node/649433#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nComing to Tech can seem daunting 
+ at first! Especially trying to find your classes! Go on a tour with the up
+ perclassmen from the BCM\, and they will show you where your classes are a
+ nd some of their favorite spots to eat\, study\, and relax! Come by the BC
+ M anytime from 5:00pm-9:00pm on August 16th and have some popcorn and go o
+ ut on campus!\n\nLinks:\n[0]  http://hg.gatech.edu/node/649433#0
+LOCATION:BCM @ Ga Tech\, 740 Techwood Dr. NW\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Small Act\, Big Impact Day of Service | First-Year Day of Service 
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210817T120000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210817T163000Z
@@ -7663,6 +7614,45 @@ DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\n
 LOCATION:DM Smith Room 207\, 685 Cherry St NW\, Atlanta\, GA 30313
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BCM's Grill & Chill
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210817T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210818T000000Z
+UID:http://hg.gatech.edu/node/649437#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nCome by the BCM and relax at gril
+ l-out on the BCM lawn! There will be both indoor and outdoor (if weather p
+ ermits) games going on\, and our resident grill masters will be serving up
+  some awesome food! Starts at 6:00pm\, August 17th!\n\nLinks:\n[0]  http:/
+ /hg.gatech.edu/node/649437#0
+LOCATION:BCM @ Ga Tech\, 740 Techwood Dr. NW\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Traveling While Black
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210818T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210819T035900Z
+UID:http://hg.gatech.edu/node/649420#1
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nTraveling While B
+ lack\n\nFriday\, August 13 through Friday\, November 12 (no showings on Mo
+ ndays or Tuesdays)\nEvery hour on the hour\, 12 p.m. through 7 p.m.\nRicha
+ rds Gallery at the Ferst Center for the Arts\nSeating is limited\n\nAdmiss
+ ion $6\n\nFor tickets and more information visit [1]\n\nIn this 20-minute\
+ , 360-degree virtual reality immersive film\, you sit with African America
+ n visitors at the famed Ben’s Chili Bowl as they talk about the long his
+ tory\, and ongoing experience\, of the restriction of movement for Black A
+ mericans. Academy Award winner Roger Ross Williams’ finely crafted film 
+ highlights the urgent need to remember this past\, build critical empathy\
+ , and facilitate a dialogue about the challenges minority travelers still 
+ face today.\n\nTraveling While Black will be installed in the Richards Gal
+ lery at the Ferst Center for the Arts. The film will be screened Friday\, 
+ August 13 through Friday\, November 12 (no showings on Mondays or Tuesdays
+ )\, every hour on the hour\, 12 p.m. through 7 p.m. Seating is limited.\n\
+ nPresented by Georgia Tech Arts in partnership with Institute Diversity\, 
+ Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#1
+ \n[1]  https://arts.gatech.edu/twb
+LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Week of Welcome - Meet and Greet
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210818T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210818T210000Z
@@ -7691,6 +7681,19 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis tabling event will
 LOCATION:Peter's Parking Deck "Rooftop"
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BCM's Video Game & Pizza Night
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210818T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210819T000000Z
+UID:http://hg.gatech.edu/node/649439#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nWho doesn't love video games?? Ac
+ companied by none other than the classic chill food that is pizza? UNMATCH
+ ED pairing! Swing by the BCM at 6:00pm Wednesday\, August 18th and enjoy s
+ ome fellowship and a super chill night!\n\nLinks:\n[0]  http://hg.gatech.e
+ du/node/649439#0
+LOCATION:BCM @ Ga Tech\, 740 Techwood Dr NW\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rats Night
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210818T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210819T020000Z
@@ -7710,6 +7713,98 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Georgia Tech Library
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Traveling While Black
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210819T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210820T035900Z
+UID:http://hg.gatech.edu/node/649420#2
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nTraveling While B
+ lack\n\nFriday\, August 13 through Friday\, November 12 (no showings on Mo
+ ndays or Tuesdays)\nEvery hour on the hour\, 12 p.m. through 7 p.m.\nRicha
+ rds Gallery at the Ferst Center for the Arts\nSeating is limited\n\nAdmiss
+ ion $6\n\nFor tickets and more information visit [1]\n\nIn this 20-minute\
+ , 360-degree virtual reality immersive film\, you sit with African America
+ n visitors at the famed Ben’s Chili Bowl as they talk about the long his
+ tory\, and ongoing experience\, of the restriction of movement for Black A
+ mericans. Academy Award winner Roger Ross Williams’ finely crafted film 
+ highlights the urgent need to remember this past\, build critical empathy\
+ , and facilitate a dialogue about the challenges minority travelers still 
+ face today.\n\nTraveling While Black will be installed in the Richards Gal
+ lery at the Ferst Center for the Arts. The film will be screened Friday\, 
+ August 13 through Friday\, November 12 (no showings on Mondays or Tuesdays
+ )\, every hour on the hour\, 12 p.m. through 7 p.m. Seating is limited.\n\
+ nPresented by Georgia Tech Arts in partnership with Institute Diversity\, 
+ Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#2
+ \n[1]  https://arts.gatech.edu/twb
+LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Punjabi Moves n' Foods
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210819T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210819T180000Z
+UID:https://gatech.campuslabs.com/engage/event/7177609
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nCollaborat
+ ion with GT Bhangra (GTB) to teach simple Punjabi dance moves while offeri
+ ng snacks and refreshments😋. This engaging Week of Welcome event helps 
+ freshman and transfer students experience the diversity GT has to offer an
+ d learn how to artistically express themselves through the medium of dance
+ ! Students are welcome even to just come watch\, enjoy the FREE food\, ICE
+  cold mango shakes (Lassi)\, and make new friends while gaining exposure t
+ o multiple Georgia Tech clubs at once! If they want to follow along with s
+ ome of the dance moves\, it would also be a great source of healthy exerci
+ se in their day as well. Dance party with LIVE drums (Dholi) at the end!\n
+ \nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7177609
+LOCATION:Exhibition Hall - Centennial Rooim
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paint and Play with African Student Association
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210819T203000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210820T000000Z
+UID:https://gatech.campuslabs.com/engage/event/7177618
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nMeet and Greet event to
+  get to know potential members!\n\nWe will be playing soccer\, making wais
+ t beads\, playing card games\, and mingling with all of you!\n\nThere will
+  be free food too (African small chops)\, so come out for an afternoon of 
+ enjoyment and vibes\;)\n\nLinks:\n[0]  https://gatech.campuslabs.com/engag
+ e/event/7177618
+LOCATION:Tech Green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phi Kappa Theta Formal Rush 8/19
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210819T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210820T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7185575
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nPhi Kappa Theta Fall Ru
+ sh\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7185575
+LOCATION:Phi Kappa Theta Fraternity
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Traveling While Black
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210820T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210821T035900Z
+UID:http://hg.gatech.edu/node/649420#3
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nTraveling While B
+ lack\n\nFriday\, August 13 through Friday\, November 12 (no showings on Mo
+ ndays or Tuesdays)\nEvery hour on the hour\, 12 p.m. through 7 p.m.\nRicha
+ rds Gallery at the Ferst Center for the Arts\nSeating is limited\n\nAdmiss
+ ion $6\n\nFor tickets and more information visit [1]\n\nIn this 20-minute\
+ , 360-degree virtual reality immersive film\, you sit with African America
+ n visitors at the famed Ben’s Chili Bowl as they talk about the long his
+ tory\, and ongoing experience\, of the restriction of movement for Black A
+ mericans. Academy Award winner Roger Ross Williams’ finely crafted film 
+ highlights the urgent need to remember this past\, build critical empathy\
+ , and facilitate a dialogue about the challenges minority travelers still 
+ face today.\n\nTraveling While Black will be installed in the Richards Gal
+ lery at the Ferst Center for the Arts. The film will be screened Friday\, 
+ August 13 through Friday\, November 12 (no showings on Mondays or Tuesdays
+ )\, every hour on the hour\, 12 p.m. through 7 p.m. Seating is limited.\n\
+ nPresented by Georgia Tech Arts in partnership with Institute Diversity\, 
+ Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#3
+ \n[1]  https://arts.gatech.edu/twb
+LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:First Friday Block Party
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210820T190000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210820T220000Z
@@ -7721,6 +7816,29 @@ DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nAre you re
  g\, and more!\n\nJoin us on Tech Green from 3pm - 6pm on August 20\, 2020.
  \n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7147272
 LOCATION:Tech Green/Tech Walkway 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BCM's Game Night
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210820T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210821T010000Z
+UID:http://hg.gatech.edu/node/649456#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nCome to the BCM Friday night at 7:00pm\, August 20th
+ \, and play some games! The GT BCM LOVES game nights\, so this will be the
+  first of many game nights held at the BCM! A wide assortment of board\, o
+ utdoor (if it doesn't rain)\, and video games will be available as well as
+  snacks! Hope to see you there!\n\nLinks:\n[0]  http://hg.gatech.edu/node/
+ 649456#0
+LOCATION:BCM @ Ga Tech\, 740 Techwood Dr NW\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phi Kappa Theta Formal Rush 8/20
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210820T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210821T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7185578
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nPhi Kappa Theta Fall Ru
+ sh\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7185578
+LOCATION:Phi Kappa Theta Fraternity
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Week of Welcome Sno-Cone Social
@@ -7746,6 +7864,113 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Instructional Center Lawn\, 759 Ferst Drive\, Atlanta\, GA 30318
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Phi Kappa Theta Formal Rush 8/21
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210821T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210822T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7185579
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nPhi Kappa Theta Fall Ru
+ sh\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7185579
+LOCATION:Phi Kappa Theta Fraternity
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phi Kappa Theta Formal Rush 8/22
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210822T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210823T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7185580
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nPhi Kappa Theta Fall Ru
+ sh\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7185580
+LOCATION:Phi Kappa Theta Fraternity
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PhD Defense by Avani Gupta
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210823T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210823T190000Z
+UID:http://hg.gatech.edu/node/649461#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nStatus: published\n\nAvani Gupta\n[Advisor: Prof
+ . Lakshmi Sankar]\n\nwill defend a doctoral thesis entitled\n\nApplication
+  of an Extended Messinger Model for Ice Accretion on Complex Geometries\n\
+ nOn\n\nThursday\, September 23 at 1 PM\n\nMontgomery Knight 317\n\nhttps:/
+ /bluejeans.com/568440634/5222\n\nAbstract\nIce accretion can significantly
+  degrade the performance\, stability\, availability\, and affordability of
+  an airborne vehicle. It is imperative that this phenomenon be modeled acc
+ urately. While ice accretion studies have been performed on airplane wings
+ \, propellers\, and helicopter blades\, there are very few attempts to mod
+ el the process on more complex geometries such as fuselages. In this study
+ \, an existing in-house Extended Messinger methodology is generalized for 
+ complex geometries by modeling the flow field and water droplet transport 
+ on unstructured grids\, and carrying out the ice accretion calculations al
+ ong surface streamlines.\n\nA general framework has been developed\, allow
+ ing the use of two-dimensional and three-dimensional\, structured\, and un
+ structured\, public domain and commercial CFD analyses. The methodology is
+  primarily spilt into three steps: the continuum flow field analysis\, the
+  dispersed water phase computations\, and the ice accretion module. In the
+  present study\, in-house methodologies as well as commercial solvers such
+  as STAR-CCM+ and ANSYS Fluent have been used for the flow field and dropl
+ et dispersed phase computations. The in-house methodologies for the disper
+ sed water droplet transport are done using an Eulerian approach\, with a o
+ ne-way interaction between the air flow and the dispersed phase via the dr
+ ag force exerted on the droplets by the air flow. The ice accretion is car
+ ried out along surface streamlines\, or optionally along two-dimensional s
+ ection cuts\, using an in-house icing methodology based on the Extended-Me
+ ssinger model.\n\nThe predictions from the present approach are compared t
+ o available experimental data\, and predictions using other solvers such a
+ s LEWICE and STAR-CCM+. Several configurations with varying levels of comp
+ lexity are modeled. These include 2-D airfoils\, swept wings\, and helicop
+ ter fuselage configurations. Time and space sensitivity studies have been 
+ done.\n\nCommittee\n\n- Prof. Lakshmi Sankar – School of Aerospace Engin
+ eering (advisor)\n- Prof. Jechiel Jagoda – School of Aerospace Engineeri
+ ng\n- Prof. JVR Prasad – School of Aerospace Engineering\n- Prof. Stephe
+ n Ruffin – School of Aerospace Engineering\n- Richard E. Kreeger\, NASA 
+ Glenn Research Center\, Cleveland\, OH\n\nLinks:\n[0]  http://hg.gatech.ed
+ u/node/649461#0\n[1]  https://bluejeans.com/568440634/5222
+LOCATION:Montgomery Knight 317
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phi Kappa Theta Formal Rush 8/23
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210823T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210824T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7185585
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nPhi Kappa Theta Fall Ru
+ sh\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7185585
+LOCATION:Phi Kappa Theta Fraternity
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phi Kappa Theta Formal Rush 8/24
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210824T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210825T020000Z
+UID:https://gatech.campuslabs.com/engage/event/7185588
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nPhi Kappa Theta Fall Ru
+ sh\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7185588
+LOCATION:Phi Kappa Theta Fraternity
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Traveling While Black
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210825T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210826T035900Z
+UID:http://hg.gatech.edu/node/649420#4
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nTraveling While B
+ lack\n\nFriday\, August 13 through Friday\, November 12 (no showings on Mo
+ ndays or Tuesdays)\nEvery hour on the hour\, 12 p.m. through 7 p.m.\nRicha
+ rds Gallery at the Ferst Center for the Arts\nSeating is limited\n\nAdmiss
+ ion $6\n\nFor tickets and more information visit [1]\n\nIn this 20-minute\
+ , 360-degree virtual reality immersive film\, you sit with African America
+ n visitors at the famed Ben’s Chili Bowl as they talk about the long his
+ tory\, and ongoing experience\, of the restriction of movement for Black A
+ mericans. Academy Award winner Roger Ross Williams’ finely crafted film 
+ highlights the urgent need to remember this past\, build critical empathy\
+ , and facilitate a dialogue about the challenges minority travelers still 
+ face today.\n\nTraveling While Black will be installed in the Richards Gal
+ lery at the Ferst Center for the Arts. The film will be screened Friday\, 
+ August 13 through Friday\, November 12 (no showings on Mondays or Tuesdays
+ )\, every hour on the hour\, 12 p.m. through 7 p.m. Seating is limited.\n\
+ nPresented by Georgia Tech Arts in partnership with Institute Diversity\, 
+ Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#4
+ \n[1]  https://arts.gatech.edu/twb
+LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GT Mock Trial Information Sessions
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210825T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210825T230000Z
@@ -7760,6 +7985,32 @@ DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\n
  there!\n\nLinks:\n[0]  http://hg.gatech.edu/node/649324#0\n[1]  membership
  .gtmt@gmail.com
 LOCATION:DM Smith Room 207\, 685 Cherry St NW\, Atlanta\, GA 30313
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Traveling While Black
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210826T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210827T035900Z
+UID:http://hg.gatech.edu/node/649420#5
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nTraveling While B
+ lack\n\nFriday\, August 13 through Friday\, November 12 (no showings on Mo
+ ndays or Tuesdays)\nEvery hour on the hour\, 12 p.m. through 7 p.m.\nRicha
+ rds Gallery at the Ferst Center for the Arts\nSeating is limited\n\nAdmiss
+ ion $6\n\nFor tickets and more information visit [1]\n\nIn this 20-minute\
+ , 360-degree virtual reality immersive film\, you sit with African America
+ n visitors at the famed Ben’s Chili Bowl as they talk about the long his
+ tory\, and ongoing experience\, of the restriction of movement for Black A
+ mericans. Academy Award winner Roger Ross Williams’ finely crafted film 
+ highlights the urgent need to remember this past\, build critical empathy\
+ , and facilitate a dialogue about the challenges minority travelers still 
+ face today.\n\nTraveling While Black will be installed in the Richards Gal
+ lery at the Ferst Center for the Arts. The film will be screened Friday\, 
+ August 13 through Friday\, November 12 (no showings on Mondays or Tuesdays
+ )\, every hour on the hour\, 12 p.m. through 7 p.m. Seating is limited.\n\
+ nPresented by Georgia Tech Arts in partnership with Institute Diversity\, 
+ Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#5
+ \n[1]  https://arts.gatech.edu/twb
+LOCATION:Richards Gallery at the Ferst Center for the Arts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ECE Rush
@@ -7777,6 +8028,32 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  Engineering.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649280#0\n[1]  http
  ://www.ece.gatech.edu\n[2]  http://www.gatech.edu
 LOCATION:Klaus Building Atrium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Traveling While Black
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210827T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210828T035900Z
+UID:http://hg.gatech.edu/node/649420#6
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nTraveling While B
+ lack\n\nFriday\, August 13 through Friday\, November 12 (no showings on Mo
+ ndays or Tuesdays)\nEvery hour on the hour\, 12 p.m. through 7 p.m.\nRicha
+ rds Gallery at the Ferst Center for the Arts\nSeating is limited\n\nAdmiss
+ ion $6\n\nFor tickets and more information visit [1]\n\nIn this 20-minute\
+ , 360-degree virtual reality immersive film\, you sit with African America
+ n visitors at the famed Ben’s Chili Bowl as they talk about the long his
+ tory\, and ongoing experience\, of the restriction of movement for Black A
+ mericans. Academy Award winner Roger Ross Williams’ finely crafted film 
+ highlights the urgent need to remember this past\, build critical empathy\
+ , and facilitate a dialogue about the challenges minority travelers still 
+ face today.\n\nTraveling While Black will be installed in the Richards Gal
+ lery at the Ferst Center for the Arts. The film will be screened Friday\, 
+ August 13 through Friday\, November 12 (no showings on Mondays or Tuesdays
+ )\, every hour on the hour\, 12 p.m. through 7 p.m. Seating is limited.\n\
+ nPresented by Georgia Tech Arts in partnership with Institute Diversity\, 
+ Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#6
+ \n[1]  https://arts.gatech.edu/twb
+LOCATION:Richards Gallery at the Ferst Center for the Arts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sailing Club Open House
@@ -7848,6 +8125,32 @@ DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nCome out t
 LOCATION:Klaus Courtyard 
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Traveling While Black
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210901T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210902T035900Z
+UID:http://hg.gatech.edu/node/649420#7
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nTraveling While B
+ lack\n\nFriday\, August 13 through Friday\, November 12 (no showings on Mo
+ ndays or Tuesdays)\nEvery hour on the hour\, 12 p.m. through 7 p.m.\nRicha
+ rds Gallery at the Ferst Center for the Arts\nSeating is limited\n\nAdmiss
+ ion $6\n\nFor tickets and more information visit [1]\n\nIn this 20-minute\
+ , 360-degree virtual reality immersive film\, you sit with African America
+ n visitors at the famed Ben’s Chili Bowl as they talk about the long his
+ tory\, and ongoing experience\, of the restriction of movement for Black A
+ mericans. Academy Award winner Roger Ross Williams’ finely crafted film 
+ highlights the urgent need to remember this past\, build critical empathy\
+ , and facilitate a dialogue about the challenges minority travelers still 
+ face today.\n\nTraveling While Black will be installed in the Richards Gal
+ lery at the Ferst Center for the Arts. The film will be screened Friday\, 
+ August 13 through Friday\, November 12 (no showings on Mondays or Tuesdays
+ )\, every hour on the hour\, 12 p.m. through 7 p.m. Seating is limited.\n\
+ nPresented by Georgia Tech Arts in partnership with Institute Diversity\, 
+ Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#7
+ \n[1]  https://arts.gatech.edu/twb
+LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Service Fair
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210901T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210901T170000Z
@@ -7861,6 +8164,123 @@ DESCRIPTION:Extras: Credit\, Free Food\, Free Stuff\nStatus: approved\n\nD
  other ways to connect to the larger service community at Georgia Tech!\n\n
  Links:\n[0]  https://gatech.campuslabs.com/engage/event/7131372
 LOCATION:Tech Green/Tech Walkway 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Traveling While Black
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210902T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210903T035900Z
+UID:http://hg.gatech.edu/node/649420#8
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nTraveling While B
+ lack\n\nFriday\, August 13 through Friday\, November 12 (no showings on Mo
+ ndays or Tuesdays)\nEvery hour on the hour\, 12 p.m. through 7 p.m.\nRicha
+ rds Gallery at the Ferst Center for the Arts\nSeating is limited\n\nAdmiss
+ ion $6\n\nFor tickets and more information visit [1]\n\nIn this 20-minute\
+ , 360-degree virtual reality immersive film\, you sit with African America
+ n visitors at the famed Ben’s Chili Bowl as they talk about the long his
+ tory\, and ongoing experience\, of the restriction of movement for Black A
+ mericans. Academy Award winner Roger Ross Williams’ finely crafted film 
+ highlights the urgent need to remember this past\, build critical empathy\
+ , and facilitate a dialogue about the challenges minority travelers still 
+ face today.\n\nTraveling While Black will be installed in the Richards Gal
+ lery at the Ferst Center for the Arts. The film will be screened Friday\, 
+ August 13 through Friday\, November 12 (no showings on Mondays or Tuesdays
+ )\, every hour on the hour\, 12 p.m. through 7 p.m. Seating is limited.\n\
+ nPresented by Georgia Tech Arts in partnership with Institute Diversity\, 
+ Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#8
+ \n[1]  https://arts.gatech.edu/twb
+LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Traveling While Black
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210903T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210904T035900Z
+UID:http://hg.gatech.edu/node/649420#9
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nTraveling While B
+ lack\n\nFriday\, August 13 through Friday\, November 12 (no showings on Mo
+ ndays or Tuesdays)\nEvery hour on the hour\, 12 p.m. through 7 p.m.\nRicha
+ rds Gallery at the Ferst Center for the Arts\nSeating is limited\n\nAdmiss
+ ion $6\n\nFor tickets and more information visit [1]\n\nIn this 20-minute\
+ , 360-degree virtual reality immersive film\, you sit with African America
+ n visitors at the famed Ben’s Chili Bowl as they talk about the long his
+ tory\, and ongoing experience\, of the restriction of movement for Black A
+ mericans. Academy Award winner Roger Ross Williams’ finely crafted film 
+ highlights the urgent need to remember this past\, build critical empathy\
+ , and facilitate a dialogue about the challenges minority travelers still 
+ face today.\n\nTraveling While Black will be installed in the Richards Gal
+ lery at the Ferst Center for the Arts. The film will be screened Friday\, 
+ August 13 through Friday\, November 12 (no showings on Mondays or Tuesdays
+ )\, every hour on the hour\, 12 p.m. through 7 p.m. Seating is limited.\n\
+ nPresented by Georgia Tech Arts in partnership with Institute Diversity\, 
+ Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#9
+ \n[1]  https://arts.gatech.edu/twb
+LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graduate Student Tailgate
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210904T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210904T230000Z
+UID:http://hg.gatech.edu/node/649404#0
+DESCRIPTION:Intended audience: Graduate students\nExtras: Free food\nStatu
+ s: published\n\nGraduate Student Government Association (GSGA) invites all
+  graduate students to attend a tailgate before the football games on Sept.
+  4 at 5 p.m. and Sept. 11 at 10 a.m. Come out to the upper level of Peters
+  Parking Deck to enjoy free food and drinks\, and to get to know your fell
+ ow graduate students!\n\nLinks:\n[0]  http://hg.gatech.edu/node/649404#0
+LOCATION:Upper Level of Peters Parking Deck
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Traveling While Black
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210908T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210909T035900Z
+UID:http://hg.gatech.edu/node/649420#10
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nTraveling While B
+ lack\n\nFriday\, August 13 through Friday\, November 12 (no showings on Mo
+ ndays or Tuesdays)\nEvery hour on the hour\, 12 p.m. through 7 p.m.\nRicha
+ rds Gallery at the Ferst Center for the Arts\nSeating is limited\n\nAdmiss
+ ion $6\n\nFor tickets and more information visit [1]\n\nIn this 20-minute\
+ , 360-degree virtual reality immersive film\, you sit with African America
+ n visitors at the famed Ben’s Chili Bowl as they talk about the long his
+ tory\, and ongoing experience\, of the restriction of movement for Black A
+ mericans. Academy Award winner Roger Ross Williams’ finely crafted film 
+ highlights the urgent need to remember this past\, build critical empathy\
+ , and facilitate a dialogue about the challenges minority travelers still 
+ face today.\n\nTraveling While Black will be installed in the Richards Gal
+ lery at the Ferst Center for the Arts. The film will be screened Friday\, 
+ August 13 through Friday\, November 12 (no showings on Mondays or Tuesdays
+ )\, every hour on the hour\, 12 p.m. through 7 p.m. Seating is limited.\n\
+ nPresented by Georgia Tech Arts in partnership with Institute Diversity\, 
+ Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#1
+ 0\n[1]  https://arts.gatech.edu/twb
+LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Traveling While Black
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210909T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210910T035900Z
+UID:http://hg.gatech.edu/node/649420#11
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nTraveling While B
+ lack\n\nFriday\, August 13 through Friday\, November 12 (no showings on Mo
+ ndays or Tuesdays)\nEvery hour on the hour\, 12 p.m. through 7 p.m.\nRicha
+ rds Gallery at the Ferst Center for the Arts\nSeating is limited\n\nAdmiss
+ ion $6\n\nFor tickets and more information visit [1]\n\nIn this 20-minute\
+ , 360-degree virtual reality immersive film\, you sit with African America
+ n visitors at the famed Ben’s Chili Bowl as they talk about the long his
+ tory\, and ongoing experience\, of the restriction of movement for Black A
+ mericans. Academy Award winner Roger Ross Williams’ finely crafted film 
+ highlights the urgent need to remember this past\, build critical empathy\
+ , and facilitate a dialogue about the challenges minority travelers still 
+ face today.\n\nTraveling While Black will be installed in the Richards Gal
+ lery at the Ferst Center for the Arts. The film will be screened Friday\, 
+ August 13 through Friday\, November 12 (no showings on Mondays or Tuesdays
+ )\, every hour on the hour\, 12 p.m. through 7 p.m. Seating is limited.\n\
+ nPresented by Georgia Tech Arts in partnership with Institute Diversity\, 
+ Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#1
+ 1\n[1]  https://arts.gatech.edu/twb
+LOCATION:Richards Gallery at the Ferst Center for the Arts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Scheller College Dean's DE&I Speaker Series Featuring Shan Cooper\
@@ -7884,6 +8304,45 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Traveling While Black
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210910T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210911T035900Z
+UID:http://hg.gatech.edu/node/649420#12
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nTraveling While B
+ lack\n\nFriday\, August 13 through Friday\, November 12 (no showings on Mo
+ ndays or Tuesdays)\nEvery hour on the hour\, 12 p.m. through 7 p.m.\nRicha
+ rds Gallery at the Ferst Center for the Arts\nSeating is limited\n\nAdmiss
+ ion $6\n\nFor tickets and more information visit [1]\n\nIn this 20-minute\
+ , 360-degree virtual reality immersive film\, you sit with African America
+ n visitors at the famed Ben’s Chili Bowl as they talk about the long his
+ tory\, and ongoing experience\, of the restriction of movement for Black A
+ mericans. Academy Award winner Roger Ross Williams’ finely crafted film 
+ highlights the urgent need to remember this past\, build critical empathy\
+ , and facilitate a dialogue about the challenges minority travelers still 
+ face today.\n\nTraveling While Black will be installed in the Richards Gal
+ lery at the Ferst Center for the Arts. The film will be screened Friday\, 
+ August 13 through Friday\, November 12 (no showings on Mondays or Tuesdays
+ )\, every hour on the hour\, 12 p.m. through 7 p.m. Seating is limited.\n\
+ nPresented by Georgia Tech Arts in partnership with Institute Diversity\, 
+ Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#1
+ 2\n[1]  https://arts.gatech.edu/twb
+LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graduate Student Tailgate
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210911T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210911T153000Z
+UID:http://hg.gatech.edu/node/649406#0
+DESCRIPTION:Intended audience: Graduate students\nExtras: Free food\nStatu
+ s: published\n\nGraduate Student Government Association (GSGA) invites all
+  graduate students to attend a tailgate before the football game on Sept. 
+ 11 at 10 a.m. Come out to the upper level of Peters Parking Deck to enjoy 
+ free food and drinks\, and to get to know your fellow graduate students!\n
+ \nLinks:\n[0]  http://hg.gatech.edu/node/649406#0
+LOCATION:Upper Level of Peters Parking Deck
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nano@Tech Fall 2022 Series | Session 2
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210914T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210914T170000Z
@@ -7897,6 +8356,162 @@ LOCATION:Georgia Institute of Technology | Marcus Nanotechnology Building
  1116-1117 | 345 Ferst Drive Atlanta | GA 30332
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Traveling While Black
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210915T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210916T035900Z
+UID:http://hg.gatech.edu/node/649420#13
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nTraveling While B
+ lack\n\nFriday\, August 13 through Friday\, November 12 (no showings on Mo
+ ndays or Tuesdays)\nEvery hour on the hour\, 12 p.m. through 7 p.m.\nRicha
+ rds Gallery at the Ferst Center for the Arts\nSeating is limited\n\nAdmiss
+ ion $6\n\nFor tickets and more information visit [1]\n\nIn this 20-minute\
+ , 360-degree virtual reality immersive film\, you sit with African America
+ n visitors at the famed Ben’s Chili Bowl as they talk about the long his
+ tory\, and ongoing experience\, of the restriction of movement for Black A
+ mericans. Academy Award winner Roger Ross Williams’ finely crafted film 
+ highlights the urgent need to remember this past\, build critical empathy\
+ , and facilitate a dialogue about the challenges minority travelers still 
+ face today.\n\nTraveling While Black will be installed in the Richards Gal
+ lery at the Ferst Center for the Arts. The film will be screened Friday\, 
+ August 13 through Friday\, November 12 (no showings on Mondays or Tuesdays
+ )\, every hour on the hour\, 12 p.m. through 7 p.m. Seating is limited.\n\
+ nPresented by Georgia Tech Arts in partnership with Institute Diversity\, 
+ Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#1
+ 3\n[1]  https://arts.gatech.edu/twb
+LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Traveling While Black
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210916T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210917T035900Z
+UID:http://hg.gatech.edu/node/649420#14
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nTraveling While B
+ lack\n\nFriday\, August 13 through Friday\, November 12 (no showings on Mo
+ ndays or Tuesdays)\nEvery hour on the hour\, 12 p.m. through 7 p.m.\nRicha
+ rds Gallery at the Ferst Center for the Arts\nSeating is limited\n\nAdmiss
+ ion $6\n\nFor tickets and more information visit [1]\n\nIn this 20-minute\
+ , 360-degree virtual reality immersive film\, you sit with African America
+ n visitors at the famed Ben’s Chili Bowl as they talk about the long his
+ tory\, and ongoing experience\, of the restriction of movement for Black A
+ mericans. Academy Award winner Roger Ross Williams’ finely crafted film 
+ highlights the urgent need to remember this past\, build critical empathy\
+ , and facilitate a dialogue about the challenges minority travelers still 
+ face today.\n\nTraveling While Black will be installed in the Richards Gal
+ lery at the Ferst Center for the Arts. The film will be screened Friday\, 
+ August 13 through Friday\, November 12 (no showings on Mondays or Tuesdays
+ )\, every hour on the hour\, 12 p.m. through 7 p.m. Seating is limited.\n\
+ nPresented by Georgia Tech Arts in partnership with Institute Diversity\, 
+ Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#1
+ 4\n[1]  https://arts.gatech.edu/twb
+LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Traveling While Black
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210917T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210918T035900Z
+UID:http://hg.gatech.edu/node/649420#15
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nTraveling While B
+ lack\n\nFriday\, August 13 through Friday\, November 12 (no showings on Mo
+ ndays or Tuesdays)\nEvery hour on the hour\, 12 p.m. through 7 p.m.\nRicha
+ rds Gallery at the Ferst Center for the Arts\nSeating is limited\n\nAdmiss
+ ion $6\n\nFor tickets and more information visit [1]\n\nIn this 20-minute\
+ , 360-degree virtual reality immersive film\, you sit with African America
+ n visitors at the famed Ben’s Chili Bowl as they talk about the long his
+ tory\, and ongoing experience\, of the restriction of movement for Black A
+ mericans. Academy Award winner Roger Ross Williams’ finely crafted film 
+ highlights the urgent need to remember this past\, build critical empathy\
+ , and facilitate a dialogue about the challenges minority travelers still 
+ face today.\n\nTraveling While Black will be installed in the Richards Gal
+ lery at the Ferst Center for the Arts. The film will be screened Friday\, 
+ August 13 through Friday\, November 12 (no showings on Mondays or Tuesdays
+ )\, every hour on the hour\, 12 p.m. through 7 p.m. Seating is limited.\n\
+ nPresented by Georgia Tech Arts in partnership with Institute Diversity\, 
+ Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#1
+ 5\n[1]  https://arts.gatech.edu/twb
+LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Traveling While Black
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210922T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210923T035900Z
+UID:http://hg.gatech.edu/node/649420#16
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nTraveling While B
+ lack\n\nFriday\, August 13 through Friday\, November 12 (no showings on Mo
+ ndays or Tuesdays)\nEvery hour on the hour\, 12 p.m. through 7 p.m.\nRicha
+ rds Gallery at the Ferst Center for the Arts\nSeating is limited\n\nAdmiss
+ ion $6\n\nFor tickets and more information visit [1]\n\nIn this 20-minute\
+ , 360-degree virtual reality immersive film\, you sit with African America
+ n visitors at the famed Ben’s Chili Bowl as they talk about the long his
+ tory\, and ongoing experience\, of the restriction of movement for Black A
+ mericans. Academy Award winner Roger Ross Williams’ finely crafted film 
+ highlights the urgent need to remember this past\, build critical empathy\
+ , and facilitate a dialogue about the challenges minority travelers still 
+ face today.\n\nTraveling While Black will be installed in the Richards Gal
+ lery at the Ferst Center for the Arts. The film will be screened Friday\, 
+ August 13 through Friday\, November 12 (no showings on Mondays or Tuesdays
+ )\, every hour on the hour\, 12 p.m. through 7 p.m. Seating is limited.\n\
+ nPresented by Georgia Tech Arts in partnership with Institute Diversity\, 
+ Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#1
+ 6\n[1]  https://arts.gatech.edu/twb
+LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Traveling While Black
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210923T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210924T035900Z
+UID:http://hg.gatech.edu/node/649420#17
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nTraveling While B
+ lack\n\nFriday\, August 13 through Friday\, November 12 (no showings on Mo
+ ndays or Tuesdays)\nEvery hour on the hour\, 12 p.m. through 7 p.m.\nRicha
+ rds Gallery at the Ferst Center for the Arts\nSeating is limited\n\nAdmiss
+ ion $6\n\nFor tickets and more information visit [1]\n\nIn this 20-minute\
+ , 360-degree virtual reality immersive film\, you sit with African America
+ n visitors at the famed Ben’s Chili Bowl as they talk about the long his
+ tory\, and ongoing experience\, of the restriction of movement for Black A
+ mericans. Academy Award winner Roger Ross Williams’ finely crafted film 
+ highlights the urgent need to remember this past\, build critical empathy\
+ , and facilitate a dialogue about the challenges minority travelers still 
+ face today.\n\nTraveling While Black will be installed in the Richards Gal
+ lery at the Ferst Center for the Arts. The film will be screened Friday\, 
+ August 13 through Friday\, November 12 (no showings on Mondays or Tuesdays
+ )\, every hour on the hour\, 12 p.m. through 7 p.m. Seating is limited.\n\
+ nPresented by Georgia Tech Arts in partnership with Institute Diversity\, 
+ Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#1
+ 7\n[1]  https://arts.gatech.edu/twb
+LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Traveling While Black
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210924T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210925T035900Z
+UID:http://hg.gatech.edu/node/649420#18
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nTraveling While B
+ lack\n\nFriday\, August 13 through Friday\, November 12 (no showings on Mo
+ ndays or Tuesdays)\nEvery hour on the hour\, 12 p.m. through 7 p.m.\nRicha
+ rds Gallery at the Ferst Center for the Arts\nSeating is limited\n\nAdmiss
+ ion $6\n\nFor tickets and more information visit [1]\n\nIn this 20-minute\
+ , 360-degree virtual reality immersive film\, you sit with African America
+ n visitors at the famed Ben’s Chili Bowl as they talk about the long his
+ tory\, and ongoing experience\, of the restriction of movement for Black A
+ mericans. Academy Award winner Roger Ross Williams’ finely crafted film 
+ highlights the urgent need to remember this past\, build critical empathy\
+ , and facilitate a dialogue about the challenges minority travelers still 
+ face today.\n\nTraveling While Black will be installed in the Richards Gal
+ lery at the Ferst Center for the Arts. The film will be screened Friday\, 
+ August 13 through Friday\, November 12 (no showings on Mondays or Tuesdays
+ )\, every hour on the hour\, 12 p.m. through 7 p.m. Seating is limited.\n\
+ nPresented by Georgia Tech Arts in partnership with Institute Diversity\, 
+ Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#1
+ 8\n[1]  https://arts.gatech.edu/twb
+LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nano@Tech Fall 2022 Series | Session 3
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210928T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210928T170000Z
@@ -7908,6 +8523,162 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  23#0\n[1]  https://ien.gatech.edu/
 LOCATION:Georgia Institute of Technology | Marcus Nanotechnology Building 
  1116-1117 | 345 Ferst Drive Atlanta | GA 30332
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Traveling While Black
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210929T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210930T035900Z
+UID:http://hg.gatech.edu/node/649420#19
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nTraveling While B
+ lack\n\nFriday\, August 13 through Friday\, November 12 (no showings on Mo
+ ndays or Tuesdays)\nEvery hour on the hour\, 12 p.m. through 7 p.m.\nRicha
+ rds Gallery at the Ferst Center for the Arts\nSeating is limited\n\nAdmiss
+ ion $6\n\nFor tickets and more information visit [1]\n\nIn this 20-minute\
+ , 360-degree virtual reality immersive film\, you sit with African America
+ n visitors at the famed Ben’s Chili Bowl as they talk about the long his
+ tory\, and ongoing experience\, of the restriction of movement for Black A
+ mericans. Academy Award winner Roger Ross Williams’ finely crafted film 
+ highlights the urgent need to remember this past\, build critical empathy\
+ , and facilitate a dialogue about the challenges minority travelers still 
+ face today.\n\nTraveling While Black will be installed in the Richards Gal
+ lery at the Ferst Center for the Arts. The film will be screened Friday\, 
+ August 13 through Friday\, November 12 (no showings on Mondays or Tuesdays
+ )\, every hour on the hour\, 12 p.m. through 7 p.m. Seating is limited.\n\
+ nPresented by Georgia Tech Arts in partnership with Institute Diversity\, 
+ Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#1
+ 9\n[1]  https://arts.gatech.edu/twb
+LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Traveling While Black
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210930T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211001T035900Z
+UID:http://hg.gatech.edu/node/649420#20
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nTraveling While B
+ lack\n\nFriday\, August 13 through Friday\, November 12 (no showings on Mo
+ ndays or Tuesdays)\nEvery hour on the hour\, 12 p.m. through 7 p.m.\nRicha
+ rds Gallery at the Ferst Center for the Arts\nSeating is limited\n\nAdmiss
+ ion $6\n\nFor tickets and more information visit [1]\n\nIn this 20-minute\
+ , 360-degree virtual reality immersive film\, you sit with African America
+ n visitors at the famed Ben’s Chili Bowl as they talk about the long his
+ tory\, and ongoing experience\, of the restriction of movement for Black A
+ mericans. Academy Award winner Roger Ross Williams’ finely crafted film 
+ highlights the urgent need to remember this past\, build critical empathy\
+ , and facilitate a dialogue about the challenges minority travelers still 
+ face today.\n\nTraveling While Black will be installed in the Richards Gal
+ lery at the Ferst Center for the Arts. The film will be screened Friday\, 
+ August 13 through Friday\, November 12 (no showings on Mondays or Tuesdays
+ )\, every hour on the hour\, 12 p.m. through 7 p.m. Seating is limited.\n\
+ nPresented by Georgia Tech Arts in partnership with Institute Diversity\, 
+ Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#2
+ 0\n[1]  https://arts.gatech.edu/twb
+LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Traveling While Black
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211001T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211002T035900Z
+UID:http://hg.gatech.edu/node/649420#21
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nTraveling While B
+ lack\n\nFriday\, August 13 through Friday\, November 12 (no showings on Mo
+ ndays or Tuesdays)\nEvery hour on the hour\, 12 p.m. through 7 p.m.\nRicha
+ rds Gallery at the Ferst Center for the Arts\nSeating is limited\n\nAdmiss
+ ion $6\n\nFor tickets and more information visit [1]\n\nIn this 20-minute\
+ , 360-degree virtual reality immersive film\, you sit with African America
+ n visitors at the famed Ben’s Chili Bowl as they talk about the long his
+ tory\, and ongoing experience\, of the restriction of movement for Black A
+ mericans. Academy Award winner Roger Ross Williams’ finely crafted film 
+ highlights the urgent need to remember this past\, build critical empathy\
+ , and facilitate a dialogue about the challenges minority travelers still 
+ face today.\n\nTraveling While Black will be installed in the Richards Gal
+ lery at the Ferst Center for the Arts. The film will be screened Friday\, 
+ August 13 through Friday\, November 12 (no showings on Mondays or Tuesdays
+ )\, every hour on the hour\, 12 p.m. through 7 p.m. Seating is limited.\n\
+ nPresented by Georgia Tech Arts in partnership with Institute Diversity\, 
+ Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#2
+ 1\n[1]  https://arts.gatech.edu/twb
+LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Traveling While Black
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211006T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211007T035900Z
+UID:http://hg.gatech.edu/node/649420#22
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nTraveling While B
+ lack\n\nFriday\, August 13 through Friday\, November 12 (no showings on Mo
+ ndays or Tuesdays)\nEvery hour on the hour\, 12 p.m. through 7 p.m.\nRicha
+ rds Gallery at the Ferst Center for the Arts\nSeating is limited\n\nAdmiss
+ ion $6\n\nFor tickets and more information visit [1]\n\nIn this 20-minute\
+ , 360-degree virtual reality immersive film\, you sit with African America
+ n visitors at the famed Ben’s Chili Bowl as they talk about the long his
+ tory\, and ongoing experience\, of the restriction of movement for Black A
+ mericans. Academy Award winner Roger Ross Williams’ finely crafted film 
+ highlights the urgent need to remember this past\, build critical empathy\
+ , and facilitate a dialogue about the challenges minority travelers still 
+ face today.\n\nTraveling While Black will be installed in the Richards Gal
+ lery at the Ferst Center for the Arts. The film will be screened Friday\, 
+ August 13 through Friday\, November 12 (no showings on Mondays or Tuesdays
+ )\, every hour on the hour\, 12 p.m. through 7 p.m. Seating is limited.\n\
+ nPresented by Georgia Tech Arts in partnership with Institute Diversity\, 
+ Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#2
+ 2\n[1]  https://arts.gatech.edu/twb
+LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Traveling While Black
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211007T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211008T035900Z
+UID:http://hg.gatech.edu/node/649420#23
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nTraveling While B
+ lack\n\nFriday\, August 13 through Friday\, November 12 (no showings on Mo
+ ndays or Tuesdays)\nEvery hour on the hour\, 12 p.m. through 7 p.m.\nRicha
+ rds Gallery at the Ferst Center for the Arts\nSeating is limited\n\nAdmiss
+ ion $6\n\nFor tickets and more information visit [1]\n\nIn this 20-minute\
+ , 360-degree virtual reality immersive film\, you sit with African America
+ n visitors at the famed Ben’s Chili Bowl as they talk about the long his
+ tory\, and ongoing experience\, of the restriction of movement for Black A
+ mericans. Academy Award winner Roger Ross Williams’ finely crafted film 
+ highlights the urgent need to remember this past\, build critical empathy\
+ , and facilitate a dialogue about the challenges minority travelers still 
+ face today.\n\nTraveling While Black will be installed in the Richards Gal
+ lery at the Ferst Center for the Arts. The film will be screened Friday\, 
+ August 13 through Friday\, November 12 (no showings on Mondays or Tuesdays
+ )\, every hour on the hour\, 12 p.m. through 7 p.m. Seating is limited.\n\
+ nPresented by Georgia Tech Arts in partnership with Institute Diversity\, 
+ Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#2
+ 3\n[1]  https://arts.gatech.edu/twb
+LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Traveling While Black
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211008T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211009T035900Z
+UID:http://hg.gatech.edu/node/649420#24
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nTraveling While B
+ lack\n\nFriday\, August 13 through Friday\, November 12 (no showings on Mo
+ ndays or Tuesdays)\nEvery hour on the hour\, 12 p.m. through 7 p.m.\nRicha
+ rds Gallery at the Ferst Center for the Arts\nSeating is limited\n\nAdmiss
+ ion $6\n\nFor tickets and more information visit [1]\n\nIn this 20-minute\
+ , 360-degree virtual reality immersive film\, you sit with African America
+ n visitors at the famed Ben’s Chili Bowl as they talk about the long his
+ tory\, and ongoing experience\, of the restriction of movement for Black A
+ mericans. Academy Award winner Roger Ross Williams’ finely crafted film 
+ highlights the urgent need to remember this past\, build critical empathy\
+ , and facilitate a dialogue about the challenges minority travelers still 
+ face today.\n\nTraveling While Black will be installed in the Richards Gal
+ lery at the Ferst Center for the Arts. The film will be screened Friday\, 
+ August 13 through Friday\, November 12 (no showings on Mondays or Tuesdays
+ )\, every hour on the hour\, 12 p.m. through 7 p.m. Seating is limited.\n\
+ nPresented by Georgia Tech Arts in partnership with Institute Diversity\, 
+ Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#2
+ 4\n[1]  https://arts.gatech.edu/twb
+LOCATION:Richards Gallery at the Ferst Center for the Arts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tapping Circle for Stress and Calm - 2nd Fridays 3:30-
@@ -7994,6 +8765,58 @@ LOCATION:Georgia Institute of Technology | Marcus Nanotechnology Building
  1116-1117 | 345 Ferst Drive Atlanta | GA 30332
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Traveling While Black
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211013T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211014T035900Z
+UID:http://hg.gatech.edu/node/649420#25
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nTraveling While B
+ lack\n\nFriday\, August 13 through Friday\, November 12 (no showings on Mo
+ ndays or Tuesdays)\nEvery hour on the hour\, 12 p.m. through 7 p.m.\nRicha
+ rds Gallery at the Ferst Center for the Arts\nSeating is limited\n\nAdmiss
+ ion $6\n\nFor tickets and more information visit [1]\n\nIn this 20-minute\
+ , 360-degree virtual reality immersive film\, you sit with African America
+ n visitors at the famed Ben’s Chili Bowl as they talk about the long his
+ tory\, and ongoing experience\, of the restriction of movement for Black A
+ mericans. Academy Award winner Roger Ross Williams’ finely crafted film 
+ highlights the urgent need to remember this past\, build critical empathy\
+ , and facilitate a dialogue about the challenges minority travelers still 
+ face today.\n\nTraveling While Black will be installed in the Richards Gal
+ lery at the Ferst Center for the Arts. The film will be screened Friday\, 
+ August 13 through Friday\, November 12 (no showings on Mondays or Tuesdays
+ )\, every hour on the hour\, 12 p.m. through 7 p.m. Seating is limited.\n\
+ nPresented by Georgia Tech Arts in partnership with Institute Diversity\, 
+ Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#2
+ 5\n[1]  https://arts.gatech.edu/twb
+LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Traveling While Black
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211014T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211015T035900Z
+UID:http://hg.gatech.edu/node/649420#26
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nTraveling While B
+ lack\n\nFriday\, August 13 through Friday\, November 12 (no showings on Mo
+ ndays or Tuesdays)\nEvery hour on the hour\, 12 p.m. through 7 p.m.\nRicha
+ rds Gallery at the Ferst Center for the Arts\nSeating is limited\n\nAdmiss
+ ion $6\n\nFor tickets and more information visit [1]\n\nIn this 20-minute\
+ , 360-degree virtual reality immersive film\, you sit with African America
+ n visitors at the famed Ben’s Chili Bowl as they talk about the long his
+ tory\, and ongoing experience\, of the restriction of movement for Black A
+ mericans. Academy Award winner Roger Ross Williams’ finely crafted film 
+ highlights the urgent need to remember this past\, build critical empathy\
+ , and facilitate a dialogue about the challenges minority travelers still 
+ face today.\n\nTraveling While Black will be installed in the Richards Gal
+ lery at the Ferst Center for the Arts. The film will be screened Friday\, 
+ August 13 through Friday\, November 12 (no showings on Mondays or Tuesdays
+ )\, every hour on the hour\, 12 p.m. through 7 p.m. Seating is limited.\n\
+ nPresented by Georgia Tech Arts in partnership with Institute Diversity\, 
+ Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#2
+ 6\n[1]  https://arts.gatech.edu/twb
+LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Scheller College Dean's CEO Speaker Series: Craig Menear - Chairma
  n and CEO\, The Home Depot
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211014T210000Z
@@ -8013,6 +8836,110 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Traveling While Black
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211015T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211016T035900Z
+UID:http://hg.gatech.edu/node/649420#27
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nTraveling While B
+ lack\n\nFriday\, August 13 through Friday\, November 12 (no showings on Mo
+ ndays or Tuesdays)\nEvery hour on the hour\, 12 p.m. through 7 p.m.\nRicha
+ rds Gallery at the Ferst Center for the Arts\nSeating is limited\n\nAdmiss
+ ion $6\n\nFor tickets and more information visit [1]\n\nIn this 20-minute\
+ , 360-degree virtual reality immersive film\, you sit with African America
+ n visitors at the famed Ben’s Chili Bowl as they talk about the long his
+ tory\, and ongoing experience\, of the restriction of movement for Black A
+ mericans. Academy Award winner Roger Ross Williams’ finely crafted film 
+ highlights the urgent need to remember this past\, build critical empathy\
+ , and facilitate a dialogue about the challenges minority travelers still 
+ face today.\n\nTraveling While Black will be installed in the Richards Gal
+ lery at the Ferst Center for the Arts. The film will be screened Friday\, 
+ August 13 through Friday\, November 12 (no showings on Mondays or Tuesdays
+ )\, every hour on the hour\, 12 p.m. through 7 p.m. Seating is limited.\n\
+ nPresented by Georgia Tech Arts in partnership with Institute Diversity\, 
+ Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#2
+ 7\n[1]  https://arts.gatech.edu/twb
+LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Traveling While Black
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211020T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211021T035900Z
+UID:http://hg.gatech.edu/node/649420#28
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nTraveling While B
+ lack\n\nFriday\, August 13 through Friday\, November 12 (no showings on Mo
+ ndays or Tuesdays)\nEvery hour on the hour\, 12 p.m. through 7 p.m.\nRicha
+ rds Gallery at the Ferst Center for the Arts\nSeating is limited\n\nAdmiss
+ ion $6\n\nFor tickets and more information visit [1]\n\nIn this 20-minute\
+ , 360-degree virtual reality immersive film\, you sit with African America
+ n visitors at the famed Ben’s Chili Bowl as they talk about the long his
+ tory\, and ongoing experience\, of the restriction of movement for Black A
+ mericans. Academy Award winner Roger Ross Williams’ finely crafted film 
+ highlights the urgent need to remember this past\, build critical empathy\
+ , and facilitate a dialogue about the challenges minority travelers still 
+ face today.\n\nTraveling While Black will be installed in the Richards Gal
+ lery at the Ferst Center for the Arts. The film will be screened Friday\, 
+ August 13 through Friday\, November 12 (no showings on Mondays or Tuesdays
+ )\, every hour on the hour\, 12 p.m. through 7 p.m. Seating is limited.\n\
+ nPresented by Georgia Tech Arts in partnership with Institute Diversity\, 
+ Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#2
+ 8\n[1]  https://arts.gatech.edu/twb
+LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Traveling While Black
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211021T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211022T035900Z
+UID:http://hg.gatech.edu/node/649420#29
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nTraveling While B
+ lack\n\nFriday\, August 13 through Friday\, November 12 (no showings on Mo
+ ndays or Tuesdays)\nEvery hour on the hour\, 12 p.m. through 7 p.m.\nRicha
+ rds Gallery at the Ferst Center for the Arts\nSeating is limited\n\nAdmiss
+ ion $6\n\nFor tickets and more information visit [1]\n\nIn this 20-minute\
+ , 360-degree virtual reality immersive film\, you sit with African America
+ n visitors at the famed Ben’s Chili Bowl as they talk about the long his
+ tory\, and ongoing experience\, of the restriction of movement for Black A
+ mericans. Academy Award winner Roger Ross Williams’ finely crafted film 
+ highlights the urgent need to remember this past\, build critical empathy\
+ , and facilitate a dialogue about the challenges minority travelers still 
+ face today.\n\nTraveling While Black will be installed in the Richards Gal
+ lery at the Ferst Center for the Arts. The film will be screened Friday\, 
+ August 13 through Friday\, November 12 (no showings on Mondays or Tuesdays
+ )\, every hour on the hour\, 12 p.m. through 7 p.m. Seating is limited.\n\
+ nPresented by Georgia Tech Arts in partnership with Institute Diversity\, 
+ Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#2
+ 9\n[1]  https://arts.gatech.edu/twb
+LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Traveling While Black
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211022T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211023T035900Z
+UID:http://hg.gatech.edu/node/649420#30
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nTraveling While B
+ lack\n\nFriday\, August 13 through Friday\, November 12 (no showings on Mo
+ ndays or Tuesdays)\nEvery hour on the hour\, 12 p.m. through 7 p.m.\nRicha
+ rds Gallery at the Ferst Center for the Arts\nSeating is limited\n\nAdmiss
+ ion $6\n\nFor tickets and more information visit [1]\n\nIn this 20-minute\
+ , 360-degree virtual reality immersive film\, you sit with African America
+ n visitors at the famed Ben’s Chili Bowl as they talk about the long his
+ tory\, and ongoing experience\, of the restriction of movement for Black A
+ mericans. Academy Award winner Roger Ross Williams’ finely crafted film 
+ highlights the urgent need to remember this past\, build critical empathy\
+ , and facilitate a dialogue about the challenges minority travelers still 
+ face today.\n\nTraveling While Black will be installed in the Richards Gal
+ lery at the Ferst Center for the Arts. The film will be screened Friday\, 
+ August 13 through Friday\, November 12 (no showings on Mondays or Tuesdays
+ )\, every hour on the hour\, 12 p.m. through 7 p.m. Seating is limited.\n\
+ nPresented by Georgia Tech Arts in partnership with Institute Diversity\, 
+ Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#3
+ 0\n[1]  https://arts.gatech.edu/twb
+LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nano@Tech Fall 2022 Series | Session 5
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211025T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211025T170000Z
@@ -8024,6 +8951,136 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  h.edu/node/648427#0\n[1]  https://ien.gatech.edu/
 LOCATION:Georgia Institute of Technology | Marcus Nanotechnology Building 
  1116-1117 | 345 Ferst Drive Atlanta | GA 30332
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Traveling While Black
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211027T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211028T035900Z
+UID:http://hg.gatech.edu/node/649420#31
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nTraveling While B
+ lack\n\nFriday\, August 13 through Friday\, November 12 (no showings on Mo
+ ndays or Tuesdays)\nEvery hour on the hour\, 12 p.m. through 7 p.m.\nRicha
+ rds Gallery at the Ferst Center for the Arts\nSeating is limited\n\nAdmiss
+ ion $6\n\nFor tickets and more information visit [1]\n\nIn this 20-minute\
+ , 360-degree virtual reality immersive film\, you sit with African America
+ n visitors at the famed Ben’s Chili Bowl as they talk about the long his
+ tory\, and ongoing experience\, of the restriction of movement for Black A
+ mericans. Academy Award winner Roger Ross Williams’ finely crafted film 
+ highlights the urgent need to remember this past\, build critical empathy\
+ , and facilitate a dialogue about the challenges minority travelers still 
+ face today.\n\nTraveling While Black will be installed in the Richards Gal
+ lery at the Ferst Center for the Arts. The film will be screened Friday\, 
+ August 13 through Friday\, November 12 (no showings on Mondays or Tuesdays
+ )\, every hour on the hour\, 12 p.m. through 7 p.m. Seating is limited.\n\
+ nPresented by Georgia Tech Arts in partnership with Institute Diversity\, 
+ Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#3
+ 1\n[1]  https://arts.gatech.edu/twb
+LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Traveling While Black
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211028T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211029T035900Z
+UID:http://hg.gatech.edu/node/649420#32
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nTraveling While B
+ lack\n\nFriday\, August 13 through Friday\, November 12 (no showings on Mo
+ ndays or Tuesdays)\nEvery hour on the hour\, 12 p.m. through 7 p.m.\nRicha
+ rds Gallery at the Ferst Center for the Arts\nSeating is limited\n\nAdmiss
+ ion $6\n\nFor tickets and more information visit [1]\n\nIn this 20-minute\
+ , 360-degree virtual reality immersive film\, you sit with African America
+ n visitors at the famed Ben’s Chili Bowl as they talk about the long his
+ tory\, and ongoing experience\, of the restriction of movement for Black A
+ mericans. Academy Award winner Roger Ross Williams’ finely crafted film 
+ highlights the urgent need to remember this past\, build critical empathy\
+ , and facilitate a dialogue about the challenges minority travelers still 
+ face today.\n\nTraveling While Black will be installed in the Richards Gal
+ lery at the Ferst Center for the Arts. The film will be screened Friday\, 
+ August 13 through Friday\, November 12 (no showings on Mondays or Tuesdays
+ )\, every hour on the hour\, 12 p.m. through 7 p.m. Seating is limited.\n\
+ nPresented by Georgia Tech Arts in partnership with Institute Diversity\, 
+ Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#3
+ 2\n[1]  https://arts.gatech.edu/twb
+LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Traveling While Black
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211029T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211030T035900Z
+UID:http://hg.gatech.edu/node/649420#33
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nTraveling While B
+ lack\n\nFriday\, August 13 through Friday\, November 12 (no showings on Mo
+ ndays or Tuesdays)\nEvery hour on the hour\, 12 p.m. through 7 p.m.\nRicha
+ rds Gallery at the Ferst Center for the Arts\nSeating is limited\n\nAdmiss
+ ion $6\n\nFor tickets and more information visit [1]\n\nIn this 20-minute\
+ , 360-degree virtual reality immersive film\, you sit with African America
+ n visitors at the famed Ben’s Chili Bowl as they talk about the long his
+ tory\, and ongoing experience\, of the restriction of movement for Black A
+ mericans. Academy Award winner Roger Ross Williams’ finely crafted film 
+ highlights the urgent need to remember this past\, build critical empathy\
+ , and facilitate a dialogue about the challenges minority travelers still 
+ face today.\n\nTraveling While Black will be installed in the Richards Gal
+ lery at the Ferst Center for the Arts. The film will be screened Friday\, 
+ August 13 through Friday\, November 12 (no showings on Mondays or Tuesdays
+ )\, every hour on the hour\, 12 p.m. through 7 p.m. Seating is limited.\n\
+ nPresented by Georgia Tech Arts in partnership with Institute Diversity\, 
+ Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#3
+ 3\n[1]  https://arts.gatech.edu/twb
+LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Traveling While Black
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211103T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211104T035900Z
+UID:http://hg.gatech.edu/node/649420#34
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nTraveling While B
+ lack\n\nFriday\, August 13 through Friday\, November 12 (no showings on Mo
+ ndays or Tuesdays)\nEvery hour on the hour\, 12 p.m. through 7 p.m.\nRicha
+ rds Gallery at the Ferst Center for the Arts\nSeating is limited\n\nAdmiss
+ ion $6\n\nFor tickets and more information visit [1]\n\nIn this 20-minute\
+ , 360-degree virtual reality immersive film\, you sit with African America
+ n visitors at the famed Ben’s Chili Bowl as they talk about the long his
+ tory\, and ongoing experience\, of the restriction of movement for Black A
+ mericans. Academy Award winner Roger Ross Williams’ finely crafted film 
+ highlights the urgent need to remember this past\, build critical empathy\
+ , and facilitate a dialogue about the challenges minority travelers still 
+ face today.\n\nTraveling While Black will be installed in the Richards Gal
+ lery at the Ferst Center for the Arts. The film will be screened Friday\, 
+ August 13 through Friday\, November 12 (no showings on Mondays or Tuesdays
+ )\, every hour on the hour\, 12 p.m. through 7 p.m. Seating is limited.\n\
+ nPresented by Georgia Tech Arts in partnership with Institute Diversity\, 
+ Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#3
+ 4\n[1]  https://arts.gatech.edu/twb
+LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Traveling While Black
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211104T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211105T035900Z
+UID:http://hg.gatech.edu/node/649420#35
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nTraveling While B
+ lack\n\nFriday\, August 13 through Friday\, November 12 (no showings on Mo
+ ndays or Tuesdays)\nEvery hour on the hour\, 12 p.m. through 7 p.m.\nRicha
+ rds Gallery at the Ferst Center for the Arts\nSeating is limited\n\nAdmiss
+ ion $6\n\nFor tickets and more information visit [1]\n\nIn this 20-minute\
+ , 360-degree virtual reality immersive film\, you sit with African America
+ n visitors at the famed Ben’s Chili Bowl as they talk about the long his
+ tory\, and ongoing experience\, of the restriction of movement for Black A
+ mericans. Academy Award winner Roger Ross Williams’ finely crafted film 
+ highlights the urgent need to remember this past\, build critical empathy\
+ , and facilitate a dialogue about the challenges minority travelers still 
+ face today.\n\nTraveling While Black will be installed in the Richards Gal
+ lery at the Ferst Center for the Arts. The film will be screened Friday\, 
+ August 13 through Friday\, November 12 (no showings on Mondays or Tuesdays
+ )\, every hour on the hour\, 12 p.m. through 7 p.m. Seating is limited.\n\
+ nPresented by Georgia Tech Arts in partnership with Institute Diversity\, 
+ Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#3
+ 5\n[1]  https://arts.gatech.edu/twb
+LOCATION:Richards Gallery at the Ferst Center for the Arts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Scheller College Dean's DE&I Speaker Series Featuring Kali Beyah\,
@@ -8045,6 +9102,110 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  h.edu/node/649229#0\n[1]  https://www.scheller.gatech.edu/why-scheller/vis
  it-campus/directions-parking.html
 LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Traveling While Black
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211105T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211106T035900Z
+UID:http://hg.gatech.edu/node/649420#36
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nTraveling While B
+ lack\n\nFriday\, August 13 through Friday\, November 12 (no showings on Mo
+ ndays or Tuesdays)\nEvery hour on the hour\, 12 p.m. through 7 p.m.\nRicha
+ rds Gallery at the Ferst Center for the Arts\nSeating is limited\n\nAdmiss
+ ion $6\n\nFor tickets and more information visit [1]\n\nIn this 20-minute\
+ , 360-degree virtual reality immersive film\, you sit with African America
+ n visitors at the famed Ben’s Chili Bowl as they talk about the long his
+ tory\, and ongoing experience\, of the restriction of movement for Black A
+ mericans. Academy Award winner Roger Ross Williams’ finely crafted film 
+ highlights the urgent need to remember this past\, build critical empathy\
+ , and facilitate a dialogue about the challenges minority travelers still 
+ face today.\n\nTraveling While Black will be installed in the Richards Gal
+ lery at the Ferst Center for the Arts. The film will be screened Friday\, 
+ August 13 through Friday\, November 12 (no showings on Mondays or Tuesdays
+ )\, every hour on the hour\, 12 p.m. through 7 p.m. Seating is limited.\n\
+ nPresented by Georgia Tech Arts in partnership with Institute Diversity\, 
+ Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#3
+ 6\n[1]  https://arts.gatech.edu/twb
+LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Traveling While Black
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211110T050000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211111T045900Z
+UID:http://hg.gatech.edu/node/649420#37
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nTraveling While B
+ lack\n\nFriday\, August 13 through Friday\, November 12 (no showings on Mo
+ ndays or Tuesdays)\nEvery hour on the hour\, 12 p.m. through 7 p.m.\nRicha
+ rds Gallery at the Ferst Center for the Arts\nSeating is limited\n\nAdmiss
+ ion $6\n\nFor tickets and more information visit [1]\n\nIn this 20-minute\
+ , 360-degree virtual reality immersive film\, you sit with African America
+ n visitors at the famed Ben’s Chili Bowl as they talk about the long his
+ tory\, and ongoing experience\, of the restriction of movement for Black A
+ mericans. Academy Award winner Roger Ross Williams’ finely crafted film 
+ highlights the urgent need to remember this past\, build critical empathy\
+ , and facilitate a dialogue about the challenges minority travelers still 
+ face today.\n\nTraveling While Black will be installed in the Richards Gal
+ lery at the Ferst Center for the Arts. The film will be screened Friday\, 
+ August 13 through Friday\, November 12 (no showings on Mondays or Tuesdays
+ )\, every hour on the hour\, 12 p.m. through 7 p.m. Seating is limited.\n\
+ nPresented by Georgia Tech Arts in partnership with Institute Diversity\, 
+ Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#3
+ 7\n[1]  https://arts.gatech.edu/twb
+LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Traveling While Black
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211111T050000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211112T045900Z
+UID:http://hg.gatech.edu/node/649420#38
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nTraveling While B
+ lack\n\nFriday\, August 13 through Friday\, November 12 (no showings on Mo
+ ndays or Tuesdays)\nEvery hour on the hour\, 12 p.m. through 7 p.m.\nRicha
+ rds Gallery at the Ferst Center for the Arts\nSeating is limited\n\nAdmiss
+ ion $6\n\nFor tickets and more information visit [1]\n\nIn this 20-minute\
+ , 360-degree virtual reality immersive film\, you sit with African America
+ n visitors at the famed Ben’s Chili Bowl as they talk about the long his
+ tory\, and ongoing experience\, of the restriction of movement for Black A
+ mericans. Academy Award winner Roger Ross Williams’ finely crafted film 
+ highlights the urgent need to remember this past\, build critical empathy\
+ , and facilitate a dialogue about the challenges minority travelers still 
+ face today.\n\nTraveling While Black will be installed in the Richards Gal
+ lery at the Ferst Center for the Arts. The film will be screened Friday\, 
+ August 13 through Friday\, November 12 (no showings on Mondays or Tuesdays
+ )\, every hour on the hour\, 12 p.m. through 7 p.m. Seating is limited.\n\
+ nPresented by Georgia Tech Arts in partnership with Institute Diversity\, 
+ Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#3
+ 8\n[1]  https://arts.gatech.edu/twb
+LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Traveling While Black
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211112T050000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211113T045900Z
+UID:http://hg.gatech.edu/node/649420#39
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nTraveling While B
+ lack\n\nFriday\, August 13 through Friday\, November 12 (no showings on Mo
+ ndays or Tuesdays)\nEvery hour on the hour\, 12 p.m. through 7 p.m.\nRicha
+ rds Gallery at the Ferst Center for the Arts\nSeating is limited\n\nAdmiss
+ ion $6\n\nFor tickets and more information visit [1]\n\nIn this 20-minute\
+ , 360-degree virtual reality immersive film\, you sit with African America
+ n visitors at the famed Ben’s Chili Bowl as they talk about the long his
+ tory\, and ongoing experience\, of the restriction of movement for Black A
+ mericans. Academy Award winner Roger Ross Williams’ finely crafted film 
+ highlights the urgent need to remember this past\, build critical empathy\
+ , and facilitate a dialogue about the challenges minority travelers still 
+ face today.\n\nTraveling While Black will be installed in the Richards Gal
+ lery at the Ferst Center for the Arts. The film will be screened Friday\, 
+ August 13 through Friday\, November 12 (no showings on Mondays or Tuesdays
+ )\, every hour on the hour\, 12 p.m. through 7 p.m. Seating is limited.\n\
+ nPresented by Georgia Tech Arts in partnership with Institute Diversity\, 
+ Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#3
+ 9\n[1]  https://arts.gatech.edu/twb
+LOCATION:Richards Gallery at the Ferst Center for the Arts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tapping Circle for Stress and Calm - 2nd Fridays 3:30-
