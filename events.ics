@@ -2,124 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Morning Yoga and DIY Dorm Decor
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200812T140000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200812T160000Z
-UID:https://gatech.campuslabs.com/engage/event/6158625
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us in
-  the Wesley Prayer Garden for a morning yoga session led by one of our TW 
- students! Stay afterwards for some fun DIY dorm decor design with our staf
- f!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6158625
-LOCATION:Wesley Prayer Garden
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chalk the Walk
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200812T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200813T003000Z
-UID:http://hg.gatech.edu/node/637662#0
-DESCRIPTION:Intended audience: Undergraduate students\nStatus: published\n
- \nIt may only be your first week at Tech\, but it’s not too early to lea
- ve your mark on campus—literally! Come out to Tech Green to decorate the
-  surrounding Tech Walkways while jamming out to some music and make campus
-  beautiful before classes begin. Each attendee will be provided chalk and 
- one of the approximately 140 squares surrounding Tech Green to decorate ov
- er the span of a 50-minute time slot. Individually wrapped snacks and drin
- ks will be provided\, along with gloves for all attendees.\n\nFace masks a
- re required to attend\, and the event will be split into two time slots to
-  allow for adequate social distancing: 6:30-7:20 p.m. and 7:30-8:20 p.m. T
- o register for the event\, you MUST RSVP on Engage AND complete this suppl
- emental registration form to select a time slot: [1]. The event is limited
-  to 70 people per time slot. More details regarding check-in and event flo
- w will be provided following registration.\n\nIf the event has to be cance
- lled due to rain or other unforeseen circumstances\, the rain date for the
-  event will be Wednesday\, Aug. 19 from 7-9 p.m.\n\nLinks:\n[0]  http://hg
- .gatech.edu/node/637662#0\n[1]  https://gatech.co1.qualtrics.com/jfe/form/
- SV_0V7oZXUyGJuD5hX
-LOCATION:Tech Green
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunch Time "Tapping" for Calm\, Centering & Clarity
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200813T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200813T163000Z
-UID:http://hg.gatech.edu/node/636145#11
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nStatus: published\n\nLet's get together for som
- e self-care Tapping\, breathing and centering\, to better manage stress\, 
- and access more calm and clarity.\n\nWhen: Tuesdays & Thursdays in July\, 
- Noon ~ 12:30\, (August ~ TBD)\nWhere: Drop In Zoom (Initial download/setup
-  might be required) [01]\nWhat: 1. Casual chat on stress & Tapping intro (
- as needed)\n2. "Tapping" similar to this video " Trauma Tapping Technique 
- [02]."\n\nThe self-help technique to be shared may provide you with some w
- ays to calm down stress and other emotions. However\, it is not a treatmen
- t or prescription for any medial or mental health issues\, nor a substitut
- e for regular medical or psychological care. If you have a medical or psyc
- hological condition\, please consult your doctor or other appropriate lice
- nsed health practitioner. Joining the Tapping session does not constitute 
- a professional relationship between the viewers and the presenters. Choosi
- ng to Tap along means you are taking responsibility for your own self. We 
- hope the session will contain some helpful information to you.\n\n- Mental
-  Health Resources @ GT [03]\n- Mental Health Support Events via the Counse
- ling Center @ GT [04]\n- Video: " Trauma Tapping Technique [02] " - Simila
- r style to our Lunch Time Tapping\n- " Your Immune System Is Your Greatest
-  Asset — Here’s How to Care for It [05] " by Dr. Jeffrey Rediger\, M.D
- .\, MDiv [06]\n- Video: " How to Make Stress Your Friend [07] " by Psychol
- ogist Kelly McGonigal\n".... the harmful effects of stress on your health 
- are not inevitable. How you think and how you act can transform your exper
- ience of stress. When you choose to view your stress response as helpful\,
-  you create the biology of courage. And when you choose to connect with ot
- hers under stress\, you can create resilience....Stress gives us access to
-  our hearts. The compassionate heart that finds joy and meaning in connect
- ing with others\, and yes\, your pounding physical heart\, working so hard
-  to give you strength and energy. And when you choose to view stress in th
- is way\, you're not just getting better at stress\, you're actually making
-  a pretty profound statement. You're saying that you can trust yourself to
-  handle life's challenges. And you're remembering that you don't have to f
- ace them alone. "\n- Video: " First Aid for Emotional Distress - Trauma Ta
- pping Technique (TTT) [08] "\n- Peaceful Heart Network [09]\n- Video: " Ch
- aplain Foster - Interview on Tapping etc [10] "\n- "The Body Keeps the Sco
- re" - Dr. Bessel Van der Kolk\n- "Waking the Tiger" - Dr. Peter Levine\n- 
- "The Science Behind Tapping" - Dr. Peta Stapleton\n- " Evaluating a 3-Week
-  Model for Reducing Symptoms of Stress in Traumatised Youth Using the Trau
- ma Tapping Technique (TTT) for Self-help: A Pilot Trial [11] " - Dr. Peta 
- Stapleton\, Ulf Sandstrom\, & Gunilla Hamne\n- " Clinical EFT Improves Phy
- siological Markers of Health [12] " - Donna Bach\, ND\, et al.\n- Recent R
- esearch Studies on (EFT Tapping) [13] compiled by Dr. Craig Weiner\n\n"Kno
- wing others is intelligence\; knowing yourself is true wisdom. Mastering o
- thers is strength\; mastering yourself is true power.”\n- Lao Tzu\, Tao 
- Te Ching\n\n------------\n\nIn addition to the many trainers\, mentors\, a
- nd colleagues who practice EFT Tapping the following individuals have been
-  kind to personally spend their time to support these Tapping efforts on G
- T Campus - Thank you:)\n\nAndrea Lewis: Solace4me.com (under construction\
- , almost done) [14]\nNancy Gnecco: NancyGnecco.com [15]\nKatie Nall: NallE
- dgeCo.com [16] | " A Technique to Eliminate Math Anxiety [17] "\nLori Lamo
- nt: FemaleEmpowermentEFT.com [18] |\nFree Tapping Calls [19] (3rd Fri@10am
-  & Last Mon@Noon EST)\nLaurie Heyl: LaurieHeyl.com [20]\nSilke Johnson: Me
- lodyCenter.de [21]\nTrina Markusson: [22] | [23]\nSuzanne Velasquez-Sheehy
- : BoltToSuccess.com [24]\n\n(If you are a Tapping practitioner who wishes 
- to co-lead Lunch Time Tapping\, please reach out to mito6@gatech.edu.)\n\n
- Links:\n[00]  http://hg.gatech.edu/node/636145#11\n[01]  https://zoom.us/j
- /96236201459?pwd=dVJuOTNlRGVMdUNDL1FpTGdVNTNoQT09\n[02]  https://youtu.be/
- _jHWq6n6WNM\n[03]  https://www.news.gatech.edu/2020/06/15/mental-health-re
- sources-available-during-challenging-times\n[04]  https://counseling.gatec
- h.edu/support-mental-health-events\n[05]  https://elemental.medium.com/you
- r-immune-system-is-your-greatest-asset-heres-how-to-care-for-it-4356cee659
- 8c\n[06]  https://elemental.medium.com/@drjeffreyrediger?source=post_page-
- ----4356cee6598c----------------------\n[07]  https://www.ted.com/talks/ke
- lly_mcgonigal_how_to_make_stress_your_friend/transcript?language=en#t-7272
- 44\n[08]  https://youtu.be/UcyaudlgkGo\n[09]  https://peacefulheart.se\n[1
- 0]  https://vimeo.com/434759839\n[11]  http://www.lidsen.com/journals/icm/
- icm-03-04-036\n[12]  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6381429/
- \n[13]  https://www.efttappingtraining.com/eft-research/\n[14]  http://www
- .solace4me.com/?fbclid=IwAR2SW3IfRmYg5HDPpMfhZIf_Jrtb8eZjOAovsBJghmVpWVjB9
- jMZ0Y-bFXo\n[15]  http://www.nancygnecco.com\n[16]  http://www.nalledgeco.
- com/\n[17]  https://youtu.be/KZNdBxdNGIE\n[18]  http://www.femaleempowerme
- nteft.com\n[19]  https://femaleempowermenteft.as.me/Freetappingcall\n[20] 
-  http://laurieheyl.com\n[21]  https://www.melodycenter.de/en/about-us/#Sil
- ke\n[22]  http://www.presentmomentliving.ca/\n[23]  http://thereleaseapp.c
- om/\n[24]  https://www.bolttosuccess.com
-LOCATION:Online
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Movie Night Outside
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200815T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200815T020000Z
@@ -7532,6 +7414,34 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:BCM @ Ga Tech\, 740 Techwood Dr NW\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rock\, Ramble\, and Roll!
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210815T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210816T020000Z
+UID:http://hg.gatech.edu/node/649590#0
+DESCRIPTION:Status: published\n\nCalling all first year students!\n\nKick 
+ off Week of Welcome and the Fall 2021 semester at Rock\, Ramble\, and Roll
+ ! Come to the Student Center's Exhibition Hall for dinner with your new ne
+ ighbors and friends before heading over to Tech Green for inflatables\, ga
+ mes\, and so much more. Hosted by the Student Center\, Tech Dining\, and H
+ ousing and Residence Life\, Rock\, Ramble\, and Roll is the perfect opport
+ unity to jump start your first college semester\, have some fun\, and make
+  new friends. This event is open to first year students only. RAs will bri
+ ng their floor communities to this event at a specific time.\n\nMenu:\n\nB
+ eef Hamburgers\n\nBeef Hot Dogs\n\nPlant Based Burger\n\nGF Buns\n\nBurger
+  Toppings\n\nChips\n\nWhole Fruit\n\nDessert\n\nMenu is subject to change.
+ \n\nExpedite your check-in on Tech Green after getting food by signing you
+ r Week of Welcome Waiver before you come!\n\nA signed Week of Welcome Waiv
+ er is mandatory for all students participating in Week of Welcome. By comp
+ leting your Week of Welcome waiver early (even before you arrive to campus
+ )\, you will fast track your access to a number of Week of Welcome events!
+  To sign the waiver follow these three steps below:\n\n1) Download the COR
+ Q app [1]\n\n2) Search for “Engage @ Georgia Tech” and log in using yo
+ ur GT credentials.\n\n3) RSVP for “Week of Welcome Mandatory Waiver” e
+ vent and complete the RSVP.\n\nLinks:\n[0]  http://hg.gatech.edu/node/6495
+ 90#0\n[1]  https://corq.app/
+LOCATION:Exhibition Hall and Tech Green
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BCM's Poppin' Tour
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210816T210000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210817T010000Z
@@ -7653,6 +7563,26 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Richards Gallery at the Ferst Center for the Arts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Atlanta Civil Rights Bus Tour
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210818T131500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210818T163000Z
+UID:http://hg.gatech.edu/node/649641#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nExtras: Free food\nStatus: published\n\nFirst Ye
+ ar (undergraduate\, graduate\, and transfer students) can participate in a
+  customized Civil Rights Tour of Atlanta\, visiting sites like the Histori
+ c Ebenezer Baptist Church\, the King Center\, Dr. King’s last home\, Mor
+ ehouse College\, SCLC & SNCC\, and more. The tour will be conducted by Mr.
+  Tom Houck. From 1966 until King’s assassination in 1968\, Tom served as
+  a driver and personal assistant to Dr. King and his family. Houck also be
+ came the youngest member of the SCLC executive staff working with organiza
+ tions to end the Vietnam War and mobilizing for the “Poor People Campaig
+ n”. At the end of the tour participants will be treated to lunch. This s
+ pecial tour is limited to 30 participants.\n\nLinks:\n[0]  http://hg.gatec
+ h.edu/node/649641#0
+LOCATION:Smithgall Student Services (Flag) Building\, Atrium
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Week of Welcome - Meet and Greet
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210818T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210818T210000Z
@@ -7770,6 +7700,15 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nMeet and Greet event to
 LOCATION:Tech Green
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chi Phi Formal Rush Day 1
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210819T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210820T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7187264
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nChi Phi Fall Rush\n\nLi
+ nks:\n[0]  https://gatech.campuslabs.com/engage/event/7187264
+LOCATION:Chi Phi Fraternity House
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Phi Kappa Theta Formal Rush 8/19
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210819T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210820T030000Z
@@ -7805,6 +7744,24 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Richards Gallery at the Ferst Center for the Arts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FASET Evening Social
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210820T183900Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210820T193900Z
+UID:http://hg.gatech.edu/node/649676#0
+DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\,
+  Freebies\nStatus: published\n\nCome to the FASET Evening Social for an op
+ portunity to have fun and meet other new students. There will be live musi
+ c\, games\, inflatables\, food\, tours of the Campus Recreation Center and
+  more! Plus your FASET Leaders will be there to interact with and answer a
+ ny questions you may have about Week of Welcome. We hope to see you there!
+ \n\nA signed waiver is required for this event - please wear your wristban
+ d. Please only register for one timeslot of this event.\n\nFor more inform
+ ation\, download the Week of Welcome Guidebook and find more information a
+ t welcomehome.gatech.edu\n\nLinks:\n[0]  http://hg.gatech.edu/node/649676#
+ 0
+LOCATION:Campus Recreation Center and Stamps Turf Field
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:First Friday Block Party
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210820T190000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210820T220000Z
@@ -7830,6 +7787,15 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
   snacks! Hope to see you there!\n\nLinks:\n[0]  http://hg.gatech.edu/node/
  649456#0
 LOCATION:BCM @ Ga Tech\, 740 Techwood Dr NW\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chi Phi Formal Rush Day 2
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210820T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210821T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7187265
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nChi Phi Fall Rush\n\nLi
+ nks:\n[0]  https://gatech.campuslabs.com/engage/event/7187265
+LOCATION:Chi Phi Fraternity House
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Phi Kappa Theta Formal Rush 8/20
@@ -7864,6 +7830,15 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Instructional Center Lawn\, 759 Ferst Drive\, Atlanta\, GA 30318
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chi Phi Formal Rush Day 3
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210821T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210822T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7187266
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nChi Phi Fall Rush\n\nLi
+ nks:\n[0]  https://gatech.campuslabs.com/engage/event/7187266
+LOCATION:Chi Phi Fraternity House
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Phi Kappa Theta Formal Rush 8/21
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210821T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210822T030000Z
@@ -7871,6 +7846,15 @@ UID:https://gatech.campuslabs.com/engage/event/7185579
 DESCRIPTION:Extras: Free Food\nStatus: approved\n\nPhi Kappa Theta Fall Ru
  sh\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7185579
 LOCATION:Phi Kappa Theta Fraternity
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chi Phi Formal Rush Day 4
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210822T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210823T020000Z
+UID:https://gatech.campuslabs.com/engage/event/7187271
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nChi Phi Fall Rush\n\nLi
+ nks:\n[0]  https://gatech.campuslabs.com/engage/event/7187271
+LOCATION:Chi Phi Fraternity House
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Phi Kappa Theta Formal Rush 8/22
@@ -7927,6 +7911,15 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
 LOCATION:Montgomery Knight 317
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chi Phi Formal Rush Day 5
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210823T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210824T020000Z
+UID:https://gatech.campuslabs.com/engage/event/7187272
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nChi Phi Fall Rush\n\nLi
+ nks:\n[0]  https://gatech.campuslabs.com/engage/event/7187272
+LOCATION:Chi Phi Fraternity House
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Phi Kappa Theta Formal Rush 8/23
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210823T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210824T030000Z
@@ -7934,6 +7927,15 @@ UID:https://gatech.campuslabs.com/engage/event/7185585
 DESCRIPTION:Extras: Free Food\nStatus: approved\n\nPhi Kappa Theta Fall Ru
  sh\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7185585
 LOCATION:Phi Kappa Theta Fraternity
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chi Phi Formal Rush Day 6
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210824T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210825T020000Z
+UID:https://gatech.campuslabs.com/engage/event/7187275
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nChi Phi Fall Rush\n\nLi
+ nks:\n[0]  https://gatech.campuslabs.com/engage/event/7187275
+LOCATION:Chi Phi Fraternity House
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Phi Kappa Theta Formal Rush 8/24
