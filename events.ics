@@ -2,36 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Movie Night Outside
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200815T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200815T020000Z
-UID:https://gatech.campuslabs.com/engage/event/6158622
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us Fr
- iday Night for an outdoor movie!\n\nLinks:\n[0]  https://gatech.campuslabs
- .com/engage/event/6158622
-LOCATION:Wesley Prayer Garden
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scavenger Hunt 
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200815T140000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200815T170000Z
-UID:https://gatech.campuslabs.com/engage/event/6158621
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nMeet us at
-  Tech Wesley Saturday Morning for a Scavenger Hunt! Play by yourself or te
- am up!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6158621
-LOCATION:Tech Wesley
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Impact Fall 2020 Sample Event
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200815T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200815T180000Z
-UID:https://gatech.campuslabs.com/engage/event/6163243
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nSample event posted for
-  Fall 2020 Impact LLC retreat!\n\nLinks:\n[0]  https://gatech.campuslabs.c
- om/engage/event/6163243
-LOCATION:Atlanta Botanical Garden
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sunday Morning Worship
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200816T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200816T153000Z
@@ -197,6 +167,26 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is the weekly gath
   fellowship with one another.\n\nLinks:\n[0]  https://gatech.campuslabs.co
  m/engage/event/6155487
 LOCATION:Blueprint Church
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Movie Night Outside
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200822T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200822T010000Z
+UID:https://gatech.campuslabs.com/engage/event/6158622
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us Fr
+ iday Night for an outdoor movie!\n\nLinks:\n[0]  https://gatech.campuslabs
+ .com/engage/event/6158622
+LOCATION:Wesley Prayer Garden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scavenger Hunt 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20200822T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20200822T150000Z
+UID:https://gatech.campuslabs.com/engage/event/6158621
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nMeet us at
+  Tech Wesley Saturday Morning for a Scavenger Hunt! Play by yourself or te
+ am up!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6158621
+LOCATION:Tech Wesley
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DCGT Fall 2020 Workshop
@@ -7709,6 +7699,15 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nChi Phi Fall Rush\n\nLi
 LOCATION:Chi Phi Fraternity House
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Delta Tau Delta Formal Recruitment 8/19
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210819T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210820T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7195608
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDelta Tau Delta Fall Ru
+ sh\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7195608
+LOCATION:Delta Tau Delta 
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Phi Kappa Theta Formal Rush 8/19
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210819T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210820T030000Z
@@ -7798,6 +7797,15 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nChi Phi Fall Rush\n\nLi
 LOCATION:Chi Phi Fraternity House
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Delta Tau Delta Formal Recruitment 8/20
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210820T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210821T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7195610
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDelta Tau Delta Fall Ru
+ sh\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7195610
+LOCATION:Delta Tau Delta 
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Phi Kappa Theta Formal Rush 8/20
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210820T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210821T030000Z
@@ -7839,6 +7847,15 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nChi Phi Fall Rush\n\nLi
 LOCATION:Chi Phi Fraternity House
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Delta Tau Delta Formal Recruitment 8/21
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210821T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210822T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7195611
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDelta Tau Delta Fall Ru
+ sh\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7195611
+LOCATION:Delta Tau Delta 
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Phi Kappa Theta Formal Rush 8/21
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210821T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210822T030000Z
@@ -7855,6 +7872,15 @@ UID:https://gatech.campuslabs.com/engage/event/7187271
 DESCRIPTION:Extras: Free Food\nStatus: approved\n\nChi Phi Fall Rush\n\nLi
  nks:\n[0]  https://gatech.campuslabs.com/engage/event/7187271
 LOCATION:Chi Phi Fraternity House
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Delta Tau Delta Formal Recruitment 8/22
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210822T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210823T020000Z
+UID:https://gatech.campuslabs.com/engage/event/7195612
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDelta Tau Delta Fall Ru
+ sh\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7195612
+LOCATION:Delta Tau Delta 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Phi Kappa Theta Formal Rush 8/22
@@ -7920,6 +7946,15 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nChi Phi Fall Rush\n\nLi
 LOCATION:Chi Phi Fraternity House
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Delta Tau Delta Formal Recruitment 8/23
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210823T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210824T020000Z
+UID:https://gatech.campuslabs.com/engage/event/7195613
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDelta Tau Delta Fall Ru
+ sh\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7195613
+LOCATION:Delta Tau Delta 
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Phi Kappa Theta Formal Rush 8/23
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210823T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210824T030000Z
@@ -7936,6 +7971,15 @@ UID:https://gatech.campuslabs.com/engage/event/7187275
 DESCRIPTION:Extras: Free Food\nStatus: approved\n\nChi Phi Fall Rush\n\nLi
  nks:\n[0]  https://gatech.campuslabs.com/engage/event/7187275
 LOCATION:Chi Phi Fraternity House
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Delta Tau Delta Formal Recruitment 8/24
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210824T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210825T020000Z
+UID:https://gatech.campuslabs.com/engage/event/7195614
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDelta Tau Delta Fall Ru
+ sh\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7195614
+LOCATION:Delta Tau Delta 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Phi Kappa Theta Formal Rush 8/24
