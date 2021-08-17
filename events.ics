@@ -2,17 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Sunday Morning Worship
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200816T143000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200816T153000Z
-UID:https://gatech.campuslabs.com/engage/event/6158608
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Sunday Morni
- ng to Worship together! Follow our social media or join our slack channel 
- for up-to-date information (online vs. in-person\, speakers\, etc.).\n\nLi
- nks:\n[0]  https://gatech.campuslabs.com/engage/event/6158608
-LOCATION:Tech Wesley
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:International Opportunities Open House
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200818T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200818T160000Z
@@ -7432,6 +7421,16 @@ DESCRIPTION:Status: published\n\nCalling all first year students!\n\nKick
 LOCATION:Exhibition Hall and Tech Green
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:King of Pops Open House
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210816T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210816T180000Z
+UID:https://gatech.campuslabs.com/engage/event/7197176
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us at the Wesley B
+ uilding for some Free King of Pops\n\nLinks:\n[0]  https://gatech.campusla
+ bs.com/engage/event/7197176
+LOCATION:Wesley Building
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BCM's Poppin' Tour
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210816T210000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210817T010000Z
@@ -7614,6 +7613,18 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:BCM @ Ga Tech\, 740 Techwood Dr NW\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Picnic & Games
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210818T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210819T000000Z
+UID:http://hg.gatech.edu/node/649731#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nJoin us for a picnic and games at
+  Burger Bowl.\n\ngtwf.org [2]\n\nLinks:\n[0]  http://hg.gatech.edu/node/64
+ 9731#0\n[1]  https://gatech.campuslabs.com/engage/event/7197174\n[2]  http
+ ://gtwf.org
+LOCATION:Wesley Building\, 189 4th St NW\, Atlanta\, GA 30313
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rats Night
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210818T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210819T020000Z
@@ -7717,6 +7728,17 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nPhi Kappa Theta Fall Ru
 LOCATION:Phi Kappa Theta Fraternity
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rush Thursday\, August 19 -- Hawaiian Luau
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210819T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210820T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7197159
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFirst Day of Rush\n\nDi
+ nner: Chicken Skewers or Veggie Skewers\n\nDescription: Come join the Brot
+ hers for a Luau to kick off rush\n\nTime: 7pm to 11 pm\n\nLinks:\n[0]  htt
+ ps://gatech.campuslabs.com/engage/event/7197159
+LOCATION:Phi Kappa Sigma
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Traveling While Black
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210820T040000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210821T035900Z
@@ -7741,6 +7763,33 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#3
  \n[1]  https://arts.gatech.edu/twb
 LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open House
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210820T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210820T180000Z
+UID:http://hg.gatech.edu/node/649729#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nCome by the Wesley building to me
+ et other freshmen and the Tech Wesley students\n\nLinks:\n[0]  http://hg.g
+ atech.edu/node/649729#0\n[1]  https://gatech.campuslabs.com/engage/event/7
+ 197172\n[2]  http://gtwf.org
+LOCATION:Wesley Building\, 189 4th St NW\, Atlanta\, GA 30313
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taal Tadka Week of Welcome Workshop
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210820T173000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210820T183000Z
+UID:http://hg.gatech.edu/node/649710#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\, Freebies\nStatus: published\n\nHosted by Taal Tadka a
+  cappella group\, this workshop will lead students through the art of sing
+ ing. We will work collaboratively on warm-ups\, harmonies\, dynamics\, and
+  other important topics for improving your singing voice. Look forward to 
+ working with a loop station and receiving South Asian snacks and themed st
+ ickers. All skillsets are welcome!\n\nLinks:\n[0]  http://hg.gatech.edu/no
+ de/649710#0
+LOCATION:Klaus 1456\, 266 Ferst Dr NW\, Atlanta\, GA 30332
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FASET Evening Social
@@ -7865,6 +7914,17 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nPhi Kappa Theta Fall Ru
 LOCATION:Phi Kappa Theta Fraternity
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Saturday\, August 21--Game Night
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210821T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210822T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7197155
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nGame Night\nDinner:Wing
+ s and Subs\n\nDescription:Come play games such as Uno\, Billiards\, Poker\
+ , Jenga\, Giant Checkers\, etc\n\nTime: 7pm to 11pm\n\nLinks:\n[0]  https:
+ //gatech.campuslabs.com/engage/event/7197155
+LOCATION:Phi Kappa Sigma
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chi Phi Formal Rush Day 4
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210822T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210823T020000Z
@@ -7937,6 +7997,18 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
 LOCATION:Montgomery Knight 317
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cookout
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210823T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210823T230000Z
+UID:http://hg.gatech.edu/node/649725#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nCome out to Wesley to celebrate t
+ he first day of classes with a cookout with lots of free food\n\nLinks:\n[
+ 0]  http://hg.gatech.edu/node/649725#0\n[1]  https://gatech.campuslabs.com
+ /engage/event/7197160\n[2]  http://gtwf.org
+LOCATION:Wesley Building\, 189 4th St NW\, Atlanta\, GA 30313
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chi Phi Formal Rush Day 5
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210823T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210824T020000Z
@@ -7991,6 +8063,18 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nPhi Kappa Theta Fall Ru
 LOCATION:Phi Kappa Theta Fraternity
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Waffles and Service
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210824T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210825T010000Z
+UID:http://hg.gatech.edu/node/649723#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nCome to Wesley for some free Waff
+ le House followed by a modern worship service\n\nLinks:\n[0]  http://hg.ga
+ tech.edu/node/649723#0\n[1]  https://gatech.campuslabs.com/engage/event/71
+ 97168\n[2]  http://gtwf.org
+LOCATION:Wesley Building\, 189 4th St NW\, Atlanta\, GA 30313
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Traveling While Black
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210825T040000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210826T035900Z
@@ -8015,6 +8099,17 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#4
  \n[1]  https://arts.gatech.edu/twb
 LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Donuts & Prayer
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210825T130000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210825T150000Z
+UID:http://hg.gatech.edu/node/649721#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nCome by Wesley for Donuts and a t
+ ime of prayer\n\nLinks:\n[0]  http://hg.gatech.edu/node/649721#0\n[1]  htt
+ ps://gatech.campuslabs.com/engage/event/7197158
+LOCATION:Wesley Building\, 189 4th St NW\, Atlanta\, GA 30313
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GT Mock Trial Information Sessions
@@ -8121,6 +8216,41 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
  ]  https://www.gtsailing.org/
 LOCATION:Lake Lanier Sailing Club\, 6206 Commodore Dr\, Flowery Branch\, G
  A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Traditions Night 2021
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210828T213000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210829T000000Z
+UID:http://hg.gatech.edu/node/649719#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Stuff\, Free food\, Freebies\nStatus: published\n\nTradition
+ s Night 2021 (T-Night) will be held on Saturday\, August 28th at Callaway 
+ Plaza and Bobby Dodd Stadium. The festival will begin at 5:30pm in Callawa
+ y Plaza and the show will begin at 7:00pm inside Bobby Dodd Stadium.\n\nT-
+ Night 2021 will be one of the largest student-run events in over a year. T
+ here will be lots of giveaways like free food\, t-shirts\, stickers\, and 
+ more. This year’s T-Night has been redesigned to be highly interactive a
+ nd engaging\, with new activities and experiences to help engage students 
+ at all parts of their Tech Journey\, from entering first-years to exiting 
+ grad students.Georgia Tech students from any year\, both graduate and unde
+ rgraduate\, are welcome to attend T-Night. Participation is completely fre
+ e and we encourage everyone to come out and celebrate Georgia Tech spirit 
+ and traditions!\n\nThe T-Night festival will take over Callaway Plaza and 
+ will include tons of giveaways and activities relating to GT Traditions an
+ d Spirit. Students can grab free food from a variety of booths\, including
+  Ben and Jerry’s\, Waffle House\, and Chick-Fil-A. Other stations and ac
+ tivities like face tattoos and a DJ booth will be run by various GT orgs a
+ nd departments\, including the Ramblin’ Reck Club\, WREK Radio\, the Gol
+ dfellas\, and SMILE.\n\nThe T-Night show will take place in Bobby Dodd Sta
+ dium and will highlight a variety of different GT traditions and aspects o
+ f Campus Life. Students can expect an interactive show filled with competi
+ tions\, music\, guest speakers\, and prizes. Some of our participating org
+ anizations include Goldrush\, the GT Marching Band\, GT Athletics\, and GT
+  Cheer. Lastly\, students can look forward to a few “celebrity” guest 
+ appearances\, including President Cabrera\, Buzz\, Coach Collins\, and Geo
+ rge P. Burdell.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649719#0\n[1]  h
+ ttps://gatech.campuslabs.com/engage/event/7197165
+LOCATION:Callaway Plaza\, Bobby Dodd Way NW\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Big Buzz | Student Leader Celebration! 
