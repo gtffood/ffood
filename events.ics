@@ -2,27 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:International Opportunities Open House
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200818T143000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200818T160000Z
-UID:http://hg.gatech.edu/node/637255#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Undergraduate students\nExt
- ras: Free food\nStatus: published\n\nPlease join OIE advisors to learn abo
- ut study abroad opportunities\, global research and internship programs\, 
- the International Plan\, scholarships\, and more. This is a great time to 
- ask questions about Tech's many programs in one place and we hope to see y
- ou there!\n\nPlease register [2] for the BlueJeans events and BlueJeans wi
- ll send you a follow up email with your link to access the meeting.\n\nPle
- ase come meet OIE advisors and learn about study abroad opportunities\, Gl
- obal Internships\, the International Plan\, scholarships\, and more. This 
- is a great time to ask questions about Tech's many programs in one place a
- nd indulge in some tasty refreshments.\n\nWe hope to see you there!\n\nLin
- ks:\n[0]  http://hg.gatech.edu/node/637255#0\n[1]  http://hg.gatech.edu/no
- de/634444#0\n[2]  https://primetime.bluejeans.com/a2m/register/hdbfvsks\n[
- 3]  https://oie.gatech.edu/\n[4]  https://oie.gatech.edu/hg/events/634444
-LOCATION:Online
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tuesday Night Worship
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200818T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200819T010000Z
@@ -7710,6 +7689,17 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nChi Phi Fall Rush\n\nLi
 LOCATION:Chi Phi Fraternity House
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chi Psi Fall Rush 2021 - Day One
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210819T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210820T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7203579
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nStop by lodge for a nig
+ ht of fantastic food and a chance to get to know the brothers\; We'd love 
+ to get to know you!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/e
+ vent/7203579
+LOCATION:Chi Psi Lodge
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Delta Tau Delta Formal Recruitment 8/19
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210819T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210820T030000Z
@@ -7737,6 +7727,25 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFirst Day of Rush\n\nDi
  hers for a Luau to kick off rush\n\nTime: 7pm to 11 pm\n\nLinks:\n[0]  htt
  ps://gatech.campuslabs.com/engage/event/7197159
 LOCATION:Phi Kappa Sigma
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theta Xi Formal Rush Day 1
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210819T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210820T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7212650
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAs the only Christian F
+ raternity on Georgia Tech's campus\, Theta Xi presents a unique opportunit
+ y for Christian college men. Joining Theta Xi means that you become a part
+  of a brotherhood that emphasizes campus leadership\, social activities\, 
+ academic achievement\, athletic success\, civic involvement\, and spiritua
+ l growth. Theta Xi is one of Georgia Tech's largest social fraternities\, 
+ and has the largest and newest house on campus. Our brothers are involved 
+ in all sorts of organizations across campus\, including SGA\, New Student 
+ & Transition Programs\, ROTC\, Investments Committee\, and campus ministri
+ es. If you are looking for authentic Christian brotherhood as well as an a
+ wesome social scene\, look no further than Theta Xi.\n\nLinks:\n[0]  https
+ ://gatech.campuslabs.com/engage/event/7212650
+LOCATION:Theta Xi - Beta Alpha Chapter
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Traveling While Black
@@ -7846,6 +7855,17 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nChi Phi Fall Rush\n\nLi
 LOCATION:Chi Phi Fraternity House
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chi Psi Fall Rush 2021 - Day Two
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210820T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210821T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7203581
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nStop by lodge for a nig
+ ht of fantastic food and a chance to get to know the brothers\; We'd love 
+ to get to know you!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/e
+ vent/7203581
+LOCATION:Chi Psi Lodge
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Delta Tau Delta Formal Recruitment 8/20
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210820T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210821T030000Z
@@ -7862,6 +7882,25 @@ UID:https://gatech.campuslabs.com/engage/event/7185578
 DESCRIPTION:Extras: Free Food\nStatus: approved\n\nPhi Kappa Theta Fall Ru
  sh\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7185578
 LOCATION:Phi Kappa Theta Fraternity
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theta Xi Formal Rush Day 2
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210820T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210821T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7212654
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAs the only Christian F
+ raternity on Georgia Tech's campus\, Theta Xi presents a unique opportunit
+ y for Christian college men. Joining Theta Xi means that you become a part
+  of a brotherhood that emphasizes campus leadership\, social activities\, 
+ academic achievement\, athletic success\, civic involvement\, and spiritua
+ l growth. Theta Xi is one of Georgia Tech's largest social fraternities\, 
+ and has the largest and newest house on campus. Our brothers are involved 
+ in all sorts of organizations across campus\, including SGA\, New Student 
+ & Transition Programs\, ROTC\, Investments Committee\, and campus ministri
+ es. If you are looking for authentic Christian brotherhood as well as an a
+ wesome social scene\, look no further than Theta Xi.\n\nLinks:\n[0]  https
+ ://gatech.campuslabs.com/engage/event/7212654
+LOCATION:Theta Xi - Beta Alpha Chapter
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Week of Welcome Sno-Cone Social
@@ -7896,6 +7935,17 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nChi Phi Fall Rush\n\nLi
 LOCATION:Chi Phi Fraternity House
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chi Psi Fall Rush 2021 - Day Three
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210821T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210822T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7203583
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nStop by lodge for a nig
+ ht of fantastic food and a chance to get to know the brothers\; We'd love 
+ to get to know you!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/e
+ vent/7203583
+LOCATION:Chi Psi Lodge
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Delta Tau Delta Formal Recruitment 8/21
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210821T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210822T030000Z
@@ -7925,6 +7975,25 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nGame Night\nDinner:Wing
 LOCATION:Phi Kappa Sigma
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Theta Xi Formal Rush Day 3
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210821T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210822T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7212665
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAs the only Christian F
+ raternity on Georgia Tech's campus\, Theta Xi presents a unique opportunit
+ y for Christian college men. Joining Theta Xi means that you become a part
+  of a brotherhood that emphasizes campus leadership\, social activities\, 
+ academic achievement\, athletic success\, civic involvement\, and spiritua
+ l growth. Theta Xi is one of Georgia Tech's largest social fraternities\, 
+ and has the largest and newest house on campus. Our brothers are involved 
+ in all sorts of organizations across campus\, including SGA\, New Student 
+ & Transition Programs\, ROTC\, Investments Committee\, and campus ministri
+ es. If you are looking for authentic Christian brotherhood as well as an a
+ wesome social scene\, look no further than Theta Xi.\n\nLinks:\n[0]  https
+ ://gatech.campuslabs.com/engage/event/7212665
+LOCATION:Theta Xi - Beta Alpha Chapter
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chi Phi Formal Rush Day 4
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210822T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210823T020000Z
@@ -7934,6 +8003,17 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nChi Phi Fall Rush\n\nLi
 LOCATION:Chi Phi Fraternity House
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chi Psi Fall Rush 2021 - Day Four
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210822T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210823T020000Z
+UID:https://gatech.campuslabs.com/engage/event/7203586
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nStop by lodge for a nig
+ ht of fantastic food and a chance to get to know the brothers\; We'd love 
+ to get to know you!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/e
+ vent/7203586
+LOCATION:Chi Psi Lodge
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Delta Tau Delta Formal Recruitment 8/22
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210822T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210823T020000Z
@@ -7941,6 +8021,25 @@ UID:https://gatech.campuslabs.com/engage/event/7195612
 DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDelta Tau Delta Fall Ru
  sh\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7195612
 LOCATION:Delta Tau Delta 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theta Xi Formal Rush Day 4
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210822T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210823T020000Z
+UID:https://gatech.campuslabs.com/engage/event/7212669
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAs the only Christian F
+ raternity on Georgia Tech's campus\, Theta Xi presents a unique opportunit
+ y for Christian college men. Joining Theta Xi means that you become a part
+  of a brotherhood that emphasizes campus leadership\, social activities\, 
+ academic achievement\, athletic success\, civic involvement\, and spiritua
+ l growth. Theta Xi is one of Georgia Tech's largest social fraternities\, 
+ and has the largest and newest house on campus. Our brothers are involved 
+ in all sorts of organizations across campus\, including SGA\, New Student 
+ & Transition Programs\, ROTC\, Investments Committee\, and campus ministri
+ es. If you are looking for authentic Christian brotherhood as well as an a
+ wesome social scene\, look no further than Theta Xi.\n\nLinks:\n[0]  https
+ ://gatech.campuslabs.com/engage/event/7212669
+LOCATION:Theta Xi - Beta Alpha Chapter
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Phi Kappa Theta Formal Rush 8/22
@@ -8018,6 +8117,17 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nChi Phi Fall Rush\n\nLi
 LOCATION:Chi Phi Fraternity House
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chi Psi Fall Rush 2021 - Day Five
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210823T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210824T020000Z
+UID:https://gatech.campuslabs.com/engage/event/7203602
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nStop by lodge for a nig
+ ht of fantastic food and a chance to get to know the brothers\; We'd love 
+ to get to know you!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/e
+ vent/7203602
+LOCATION:Chi Psi Lodge
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Delta Tau Delta Formal Recruitment 8/23
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210823T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210824T020000Z
@@ -8025,6 +8135,25 @@ UID:https://gatech.campuslabs.com/engage/event/7195613
 DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDelta Tau Delta Fall Ru
  sh\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7195613
 LOCATION:Delta Tau Delta 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theta Xi Formal Rush Day 5
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210823T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210824T020000Z
+UID:https://gatech.campuslabs.com/engage/event/7212680
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAs the only Christian F
+ raternity on Georgia Tech's campus\, Theta Xi presents a unique opportunit
+ y for Christian college men. Joining Theta Xi means that you become a part
+  of a brotherhood that emphasizes campus leadership\, social activities\, 
+ academic achievement\, athletic success\, civic involvement\, and spiritua
+ l growth. Theta Xi is one of Georgia Tech's largest social fraternities\, 
+ and has the largest and newest house on campus. Our brothers are involved 
+ in all sorts of organizations across campus\, including SGA\, New Student 
+ & Transition Programs\, ROTC\, Investments Committee\, and campus ministri
+ es. If you are looking for authentic Christian brotherhood as well as an a
+ wesome social scene\, look no further than Theta Xi.\n\nLinks:\n[0]  https
+ ://gatech.campuslabs.com/engage/event/7212680
+LOCATION:Theta Xi - Beta Alpha Chapter
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Phi Kappa Theta Formal Rush 8/23
@@ -8043,6 +8172,17 @@ UID:https://gatech.campuslabs.com/engage/event/7187275
 DESCRIPTION:Extras: Free Food\nStatus: approved\n\nChi Phi Fall Rush\n\nLi
  nks:\n[0]  https://gatech.campuslabs.com/engage/event/7187275
 LOCATION:Chi Phi Fraternity House
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chi Psi Fall Rush 2021 - Day Six
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210824T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210825T020000Z
+UID:https://gatech.campuslabs.com/engage/event/7203621
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nStop by lodge for a nig
+ ht of fantastic food and a chance to get to know the brothers\; We'd love 
+ to get to know you!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/e
+ vent/7203621
+LOCATION:Chi Psi Lodge
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Delta Tau Delta Formal Recruitment 8/24
@@ -8253,6 +8393,78 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Callaway Plaza\, Bobby Dodd Way NW\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PhD Proposal by Lea Harris
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210830T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210830T160000Z
+UID:http://hg.gatech.edu/node/649803#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nStatus: published\n\nLea Harris\n(Advisor: Prof.
+  Mavris)\n\nwill propose a doctoral thesis entitled\,\n\nUNCERTAINTY SCENA
+ RIO BASED DECISION-MAKING FRAMEWORK FORAEROSPACE VEHICLE DESIGN RISK MITIG
+ ATION\n\nOn\n\nMonday\, August 30 at 10 a.m. EDT\n\nCollaborative Visualiz
+ ation Environment (CoVE)\nWeber Space Science and Technology Building (SST
+  II)\n\nVirtual Attendee Option: https://bluejeans.com/9027537002 [1]\n\nM
+ eeting ID: 902 753 700 2\n\nThe evolution of complex aerospace vehicles tr
+ aced with the progression of novel missions and state of the art technolog
+ y has forged a continuous need for adapted or new vehicles. This sequence 
+ introduces more uncertainties into the process of design. With more source
+ s and unknowns\, the uncertainty of early design decision-making becomes l
+ ess distinguishable and difficult to address. A matter of reducing and mit
+ igating risks due to these uncertainties is a significant complication in 
+ requirements definition and conceptual design phases for novel vehicle def
+ initions. The inaccessibility and inapplicable nature of historical data\,
+  along with sparsity of experts for each next generation of vehicles\, mak
+ es this task even harder. This leaves the industry with a gap in managing 
+ the compounding uncertainties in setting performance constraints and risk 
+ mitigation strategies without accessible data or expertise.\n\nA prime exa
+ mple of lessons learned can be found in the Space Transportation System Ve
+ hicle (STS-1). The program required significant risk mitigation when the a
+ erodynamic loading on the wings of the orbiter introduced 30-40% higher st
+ ructural loads than designed to withstand. Since then\, the field of desig
+ n has evolved significantly into the state-of-the-art multidisciplinary de
+ sign and integrated modeling and simulation methods. The basis the existin
+ g conceptual design process sets enables uncertainty reduction through kno
+ wledge of performance and quantitative decision-making.\n\nTo address the 
+ aspects of uncertainty often overlooked or ignored\, this research propose
+ s an augmentation of the existing conceptual design environment. The focus
+  will be to enable uncertainty characterization of the design assumptions\
+ , and modeling qualities\, for uncertainty-informed risk mitigation that r
+ educes the risks of rework due to variation in the design and under-predic
+ ted phenomena from reduced modeling approximations. The methodology propos
+ ed within this research hypothesizes an uncertainty threshold scenario-bas
+ ed approach for dependent performance enveloping and margin allocation. It
+  is proposed to demonstrate this method on the case study of approximating
+  the dynamic modal deflections of a publicly available Launch Vehicle mode
+ l under the approximation between low-fidelity dynamics and full-scale fle
+ xible body dynamics.\n\n- Prof. Dimitri Mavris – School of Aerospace Eng
+ ineering (advisor)\n- Prof. Daniel Schrage – School of Aerospace Enginee
+ ring\n- Prof. Graeme J. Kennedy – School of Aerospace Engineering\n- Dr.
+  Adam Cox – Research Engineer II\, School of Aerospace Engineering\n- Mr
+ . Bob Jurenko – MDA/TCM Senior Technical Advisor (sponsor)\n\nLinks:\n[0
+ ]  http://hg.gatech.edu/node/649803#0\n[1]  https://bluejeans.com/90275370
+ 02?src=join_info\n[2]  https://bluejeans.com/9027537002
+LOCATION:Collaborative Visualization Environment (CoVE) Weber Space Scienc
+ e and Technology Building (SST II)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHAARG Info Session
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210830T180000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210830T190000Z
+UID:http://hg.gatech.edu/node/649736#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nCome learn more about CHAARG\, th
+ e nation's leading health + wellness college organization for women! We pr
+ ovide one large in-studio workout per week\, plus one small group workout 
+ per week. In addition\, enjoy socials\, national challenges\, and a commun
+ ity of girls to keep you motivated. This is a great organization to join f
+ or all fitness levels -- from just finding your fit all the way up to look
+ ing for new ways to challenge yourself.\n\nJust for stopping by this event
+ \, enjoy a treat from our Trail Mix Bar!\n\nLinks:\n[0]  http://hg.gatech.
+ edu/node/649736#0
+LOCATION:Exhibition Hall\, Home Park Room (2nd Floor)\, 460 4th St NW\, At
+ lanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Big Buzz | Student Leader Celebration! 
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210830T213000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210830T230000Z
@@ -8368,6 +8580,22 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Richards Gallery at the Ferst Center for the Arts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bridge Club Open House
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210902T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210903T000000Z
+UID:https://gatech.campuslabs.com/engage/event/7203068
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nIf you like to play car
+ d games\, either for fun or competitively\, and would like to make new fri
+ ends\, the Bridge Club invites you to attend its Open House on Thursday\, 
+ Sep. 2nd at 6pm-8pm in the Exhibition Hall Centennial Room or on Friday\, 
+ Sep. 3rd at 3pm-5pm in the same room. We play bridge in a friendly and rel
+ axed atmosphere and everyone is welcome to join\, including beginners: we'
+ ll teach you how to play and help you to improve your skills over time. St
+ op by to say hi and play bridge with us!\n\nLinks:\n[0]  https://gatech.ca
+ mpuslabs.com/engage/event/7203068
+LOCATION:Exhibition Hall - Centennial Room
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Traveling While Black
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210903T040000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210904T035900Z
@@ -8392,6 +8620,22 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#9
  \n[1]  https://arts.gatech.edu/twb
 LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bridge Club Open House
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210903T190000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210903T210000Z
+UID:https://gatech.campuslabs.com/engage/event/7203069
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nIf you like to play car
+ d games\, either for fun or competitively\, and would like to make new fri
+ ends\, the Bridge Club invites you to attend its Open House on Thursday\, 
+ Sep. 2nd at 6pm-8pm in the Exhibition Hall Centennial Room or on Friday\, 
+ Sep. 3rd at 3pm-5pm in the same room. We play bridge in a friendly and rel
+ axed atmosphere and everyone is welcome to join\, including beginners: we'
+ ll teach you how to play and help you to improve your skills over time. St
+ op by to say hi and play bridge with us!\n\nLinks:\n[0]  https://gatech.ca
+ mpuslabs.com/engage/event/7203069
+LOCATION:Exhibition Hall - Centennial Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Graduate Student Tailgate
@@ -8610,6 +8854,46 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Richards Gallery at the Ferst Center for the Arts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:IMat Distinguished Lecture in Materials | Machine Learning and Fir
+ st-Principles Prediction of New Superhard Ternary & High-Entropy Borides
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210921T180000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210921T190000Z
+UID:http://hg.gatech.edu/node/649798#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nProfessor Cheng-Chien Chen | Department of Physics\, University of Alaba
+ ma at Birmingham\nAbstract: Super-hard materials exhibit a Vickers hardnes
+ s H ≥ 40 GPa\, and they have extensive industrial and technological appl
+ ications. Due to the huge search space of possible element combinations\, 
+ it is challenging to explore new superhard ternary or quaternary materials
+ . In this talk\, I will first discuss machine learning (ML) discovery of n
+ ew superhard B-C-N and B-N-O compounds. The ML results are validated by ev
+ olutionary structure prediction and density functional theory (DFT). In pa
+ rticular\, the proposed BC10N has a low formation energy and a high hardne
+ ss H ~ 86 GPa only next to diamond. In the second part of the talk\, I wil
+ l discuss calculations of entropy formation ability (EFA) using both DFT a
+ nd ML for 5-metal hexagonal high-entropy borides. The calculations indicat
+ e that EFA serves as a good descriptor for the synthesizability of high-en
+ tropy materials\, some of which have superior mechanical properties promis
+ ing for applications in extreme environments.\n\nBio: Cheng-Chien Chen rec
+ eived his Ph.D. in Physics from Stanford University in\, 2011. Afterwards 
+ he became a Postdoctoral Scholar at the SLAC National Accelerator Laborato
+ ry and later an Aneesur Rahman Postdoctoral Fellow at the Argonne National
+  Laboratory. He joined the Department of Physics at the University of Alab
+ ama at Birmingham (UAB) as an Assistant Professor in 2016. He is currently
+  a Leadership Resource Allocation (LRAC) Awardee to use the NSF-funded Fro
+ ntera Supercomputer and an NSF EPSCoR Research Fellow. Dr. Chen’s expert
+ ise lies in using quantum many-body simulations\, first-principles calcula
+ tions\, and machine learning approaches to model and predict the propertie
+ s of various quantum and functional materials.\n\nPlease register by Septe
+ mber 15th to reserve your spot.\nRegister at: tinyurl.com/IMatDLfall1 [1]\
+ n\nLinks:\n[0]  http://hg.gatech.edu/node/649798#0\n[1]  https://primetime
+ .bluejeans.com/a2m/register/zqedjaux\n[2]  http://research.gatech.edu/mate
+ rials
+LOCATION:Marcus Nanotechnology Building\, Room 1117-1118 | 345 Ferst Drive
+  | Atlanta GA 30332
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Traveling While Black
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210922T040000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210923T035900Z
@@ -8634,6 +8918,20 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#1
  6\n[1]  https://arts.gatech.edu/twb
 LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Postdoc Pop-in for National Postdoctoral Appreciation Week
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210922T200000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210922T210000Z
+UID:http://hg.gatech.edu/node/649806#0
+DESCRIPTION:Intended audience: Postdoc\nExtras: Free food\nStatus: publish
+ ed\n\nTake a break\, and stop by for a snack! The Office of Postdoctoral S
+ ervices and the GT Library are hosting this social event in celebration of
+  National Postdoctoral Appreciation week. We will be providing snacks and 
+ giving postdocs a chance to take a break and meet each other. You can also
+  meet some of the librarians who can help with data visualization and rese
+ arch questions.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649806#0
+LOCATION:GT Library Crosland Tower 7th Floor Terraces
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Traveling While Black
