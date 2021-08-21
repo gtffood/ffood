@@ -2,82 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Tuesday Night Worship
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200818T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200819T010000Z
-UID:https://gatech.campuslabs.com/engage/event/6158595
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us Tu
- esday night for dinner and Worship! Follow our social media or join or sla
- ck channel for up-to-date information (online vs. in-person\, speakers\, e
- tc.).\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6158595
-LOCATION:Tech Wesley
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tuesday Night Dessert
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200818T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200819T003000Z
-UID:https://gatech.campuslabs.com/engage/event/6178739
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nPaint mini canvases\, p
- lay some yard games\, and before you leave\, grab some dessert to take hom
- e! Wear a mask and get ready for socially distant fun!\n\nLinks:\n[0]  htt
- ps://gatech.campuslabs.com/engage/event/6178739
-LOCATION:WCF Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:International Opportunities Open House
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200820T143000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200820T160000Z
-UID:http://hg.gatech.edu/node/634445#0
-DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\n
- Status: published\n\nPlease come meet OIE advisors and learn about study a
- broad opportunities\, Global Internships\, the International Plan\, schola
- rships\, and more. This is a great time to ask questions about Tech's many
-  programs in one place and indulge in some tasty refreshments.\n\nWe hope 
- to see you there!\n\nLinks:\n[0]  http://hg.gatech.edu/node/634445#0\n[1] 
-  https://oie.gatech.edu/
-LOCATION:Klaus Atrium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Workday Grants Lunch and Learn Webinar
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200820T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200820T170000Z
-UID:http://hg.gatech.edu/node/637825#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nInvitation: Workday Grants Lunch & Learn\nRegis
- ter today for the Workday Grants Lunch & Learn. The Grants Lunch and Learn
-  will focus on the grants process area\, review key issues\, and share ins
- ights on improvements and the roadmap.\n\n- When: Thursday\, August 20th f
- rom 12:00pm-1:00pm\n- Where: BlueJeans Events [1]\n\nThis session is facil
- itated by members of Grants & Contracts and the ERP team. The agenda inclu
- des an overview of the award\, award line\, grant functionality and report
- ing\, and covers special topics such as prior year salary transfers and th
- e request framework.\n\nLinks:\n[0]  http://hg.gatech.edu/node/637825#0\n[
- 1]  https://gatech.us18.list-manage.com/track/click?u=ca86ad1a9ad890a0a6fd
- 553e2&id=3dfd105e92&e=a336d3d4a1\n[2]  http://transformation.gatech.edu\n[
- 3]  https://gatech.co1.qualtrics.com/jfe/form/SV_9ug17WTYGYLC54F
-LOCATION:BlueJeans Webinar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CRC RecFest
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200820T200000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200820T230000Z
-UID:http://hg.gatech.edu/node/637870#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nDon't miss out on this year's RECFEST! Join us for i
- nteractive tables\, food\, giveaways and more! Also\, while supplies last\
- , included is this year's highly coveted CRC t-shirt! Grab one before they
-  are gone! RecFest is hosted by the CRC and provides students an opportuni
- ty to become involved in student organizations\, sport clubs\, and receive
-  information about other programs and services provided to students on cam
- pus. This year will feel a lot different as we navigate the guidelines for
-  precautions against Covid-19. RecFest tabling is from 4pm-7pm on Roe Stam
- ps Field. Reservations are required (sign up at mycrc.gatech.edu)\, masks 
- and social distancing will be strictly enforced.\n\nMore information at [1
- ].\n\nLinks:\n[0]  http://hg.gatech.edu/node/637870#0\n[1]  http://crc.gat
- ech.edu/recfest
-LOCATION:Roe Stamps Field
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CREATE-X Demo Day 2020
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200820T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200821T010000Z
@@ -7709,6 +7633,15 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDelta Tau Delta Fall Ru
 LOCATION:Delta Tau Delta 
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Delta Upsilon Rush
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210819T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210820T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7219211
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDelta Upsilon Rush\n\nL
+ inks:\n[0]  https://gatech.campuslabs.com/engage/event/7219211
+LOCATION:Delta Upsilon Fraternity
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Phi Kappa Theta Formal Rush 8/19
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210819T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210820T030000Z
@@ -7716,6 +7649,26 @@ UID:https://gatech.campuslabs.com/engage/event/7185575
 DESCRIPTION:Extras: Free Food\nStatus: approved\n\nPhi Kappa Theta Fall Ru
  sh\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7185575
 LOCATION:Phi Kappa Theta Fraternity
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Psi Upsilon Gamma Tau Rush
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210819T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210820T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7217557
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nOur first night of rush
+  Game Night.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/72
+ 17557
+LOCATION:Psi Upsilon Gamma Tau
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rush
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210819T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210820T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7216131
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome by and meet the br
+ others of Phi Sigma Kappa! We will be serving Chick-fil-a.\n\nLinks:\n[0] 
+  https://gatech.campuslabs.com/engage/event/7216131
+LOCATION:Phi Sigma Kappa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rush Thursday\, August 19 -- Hawaiian Luau
@@ -7727,6 +7680,36 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFirst Day of Rush\n\nDi
  hers for a Luau to kick off rush\n\nTime: 7pm to 11 pm\n\nLinks:\n[0]  htt
  ps://gatech.campuslabs.com/engage/event/7197159
 LOCATION:Phi Kappa Sigma
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sigma Chi Formal Recruitment 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210819T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210820T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7219209
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThursday Formal Rush\n\
+ nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7219209
+LOCATION:Sigma Chi
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sigma Nu Rush | Thursday Night
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210819T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210820T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7217861
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nSigma Nu Rush\, Thursda
+ y Night.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/721786
+ 1
+LOCATION:Sigma Nu Fraternity
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theta Chi Fraternity Fall Rush Night 1
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210819T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210820T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7216090
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nWelcome To Campus! Come
+  out to Rush to meet our Brothers\, have some dinner\, and get a tour of o
+ ur house!\n\nDinner Tonight is Willy's Mexicana Grill!\n\n840 Techwood Dri
+ ve NW\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7216090
+LOCATION:Theta Chi Fraternity
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Theta Xi Formal Rush Day 1
@@ -7875,6 +7858,15 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDelta Tau Delta Fall Ru
 LOCATION:Delta Tau Delta 
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Delta Upsilon Rush
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210820T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210821T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7219212
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDelta Upsilon Rush\n\nL
+ inks:\n[0]  https://gatech.campuslabs.com/engage/event/7219212
+LOCATION:Delta Upsilon Fraternity
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Phi Kappa Theta Formal Rush 8/20
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210820T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210821T030000Z
@@ -7882,6 +7874,44 @@ UID:https://gatech.campuslabs.com/engage/event/7185578
 DESCRIPTION:Extras: Free Food\nStatus: approved\n\nPhi Kappa Theta Fall Ru
  sh\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7185578
 LOCATION:Phi Kappa Theta Fraternity
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Psi Upsilon Gamma Tau Rush
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210820T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210821T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7217563
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nPsi Upsilon Gamma Tau R
+ ush\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7217563
+LOCATION:Psi Upsilon Gamma Tau
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sigma Chi Formal Recruitment 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210820T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210821T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7225909
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\n.\n\nLinks:\n[0]  https
+ ://gatech.campuslabs.com/engage/event/7225909
+LOCATION:Sigma Chi House
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sigma Nu Rush Friday Night
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210820T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210821T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7225908
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nSigma Nu rush\n\nLinks:
+ \n[0]  https://gatech.campuslabs.com/engage/event/7225908
+LOCATION:Sigma Nu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theta Chi Fraternity Fall Rush Night 2
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210820T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210821T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7216092
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nWelcome To Campus! Come
+  out to Rush to meet our Brothers\, have some dinner\, and get a tour of o
+ ur house!\n\nDinner Tonight is Steak!\n\n840 Techwood Drive NW\n\nLinks:\n
+ [0]  https://gatech.campuslabs.com/engage/event/7216092
+LOCATION:Theta Chi Fraternity
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Theta Xi Formal Rush Day 2
@@ -7955,6 +7985,15 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDelta Tau Delta Fall Ru
 LOCATION:Delta Tau Delta 
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Delta Upsilon Rush
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210821T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210822T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7219213
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDelta Upsilon Rush\n\nL
+ inks:\n[0]  https://gatech.campuslabs.com/engage/event/7219213
+LOCATION:Delta Upsilon Fraternity
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Phi Kappa Theta Formal Rush 8/21
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210821T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210822T030000Z
@@ -7962,6 +8001,15 @@ UID:https://gatech.campuslabs.com/engage/event/7185579
 DESCRIPTION:Extras: Free Food\nStatus: approved\n\nPhi Kappa Theta Fall Ru
  sh\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7185579
 LOCATION:Phi Kappa Theta Fraternity
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Psi Upsilon Gamma Tau Rush
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210821T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210822T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7217720
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\n831 Techwood Drive\n\nL
+ inks:\n[0]  https://gatech.campuslabs.com/engage/event/7217720
+LOCATION:Psi Upsilon Gamma Tau
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saturday\, August 21--Game Night
@@ -7973,6 +8021,17 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nGame Night\nDinner:Wing
  , Jenga\, Giant Checkers\, etc\n\nTime: 7pm to 11pm\n\nLinks:\n[0]  https:
  //gatech.campuslabs.com/engage/event/7197155
 LOCATION:Phi Kappa Sigma
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theta Chi Fraternity Fall Rush Night 3
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210821T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210822T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7216093
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nWelcome To Campus! Come
+  out to Rush to meet our Brothers\, have some dinner\, and get a tour of o
+ ur house!\n\nDinner Tonight is Hattie B's Fried Chicken\n\n840 Techwood Dr
+ ive NW\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7216093
+LOCATION:Theta Chi Fraternity
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Theta Xi Formal Rush Day 3
@@ -8023,6 +8082,27 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDelta Tau Delta Fall Ru
 LOCATION:Delta Tau Delta 
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Psi Upsilon Gamma Tau Rush
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210822T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210823T020000Z
+UID:https://gatech.campuslabs.com/engage/event/7217839
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\n831 Techwo
+ od Drive\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/721783
+ 9
+LOCATION:Psi Upsilon Gamma Tau
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theta Chi Fraternity Fall Rush Night 4
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210822T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210823T020000Z
+UID:https://gatech.campuslabs.com/engage/event/7216106
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nWelcome To Campus! Come
+  out to Rush to meet our Brothers\, have some dinner\, and get a tour of o
+ ur house!\n\nDinner Tonight is Backyard Grill-out\n\n840 Techwood Drive NW
+ \n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7216106
+LOCATION:Theta Chi Fraternity
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Theta Xi Formal Rush Day 4
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210822T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210823T020000Z
@@ -8040,6 +8120,15 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAs the only Christian F
  wesome social scene\, look no further than Theta Xi.\n\nLinks:\n[0]  https
  ://gatech.campuslabs.com/engage/event/7212669
 LOCATION:Theta Xi - Beta Alpha Chapter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Delta Upsilon Rush
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210822T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210823T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7219214
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDelta Upsilon Rush\n\nL
+ inks:\n[0]  https://gatech.campuslabs.com/engage/event/7219214
+LOCATION:Delta Upsilon Fraternity
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Phi Kappa Theta Formal Rush 8/22
@@ -8137,6 +8226,35 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDelta Tau Delta Fall Ru
 LOCATION:Delta Tau Delta 
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Delta Upsilon Rush
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210823T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210824T020000Z
+UID:https://gatech.campuslabs.com/engage/event/7219215
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDelta Upsilon Rush\n\nL
+ inks:\n[0]  https://gatech.campuslabs.com/engage/event/7219215
+LOCATION:Delta Upsilon Fraternity
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Psi Upsilon Gamma Tau Rush
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210823T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210824T020000Z
+UID:https://gatech.campuslabs.com/engage/event/7217858
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\n831 Techwood Drive\n\nL
+ inks:\n[0]  https://gatech.campuslabs.com/engage/event/7217858
+LOCATION:Psi Upsilon Gamma Tau
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theta Chi Fraternity Fall Rush Night 5
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210823T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210824T020000Z
+UID:https://gatech.campuslabs.com/engage/event/7216107
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nWelcome To Campus! Come
+  out to Rush to meet our Brothers\, have some dinner\, and get a tour of o
+ ur house!\n\nDinner Tonight is Chicken Parmesan\n\n840 Techwood Drive NW\n
+ \nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7216107
+LOCATION:Theta Chi Fraternity
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Theta Xi Formal Rush Day 5
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210823T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210824T020000Z
@@ -8194,6 +8312,15 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDelta Tau Delta Fall Ru
 LOCATION:Delta Tau Delta 
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Delta Upsilon Rush
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210824T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210825T020000Z
+UID:https://gatech.campuslabs.com/engage/event/7219216
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDelta Upsilon Rush\n\nL
+ inks:\n[0]  https://gatech.campuslabs.com/engage/event/7219216
+LOCATION:Delta Upsilon Fraternity
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Phi Kappa Theta Formal Rush 8/24
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210824T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210825T020000Z
@@ -8201,6 +8328,26 @@ UID:https://gatech.campuslabs.com/engage/event/7185588
 DESCRIPTION:Extras: Free Food\nStatus: approved\n\nPhi Kappa Theta Fall Ru
  sh\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7185588
 LOCATION:Phi Kappa Theta Fraternity
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Psi Upsilon Gamma Tau Rush
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210824T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210825T020000Z
+UID:https://gatech.campuslabs.com/engage/event/7219200
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\n831 Techwood Drive\n\nL
+ inks:\n[0]  https://gatech.campuslabs.com/engage/event/7219200
+LOCATION:Psi Upsilon Gamma Tau
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theta Chi Fraternity Fall Rush Night 6
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210824T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210825T020000Z
+UID:https://gatech.campuslabs.com/engage/event/7216108
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nWelcome To Campus! Come
+  out to Rush to meet our Brothers\, have some dinner\, and get a tour of o
+ ur house!\n\nDinner Tonight is BBQ\n\n840 Techwood Drive NW\n\nLinks:\n[0]
+   https://gatech.campuslabs.com/engage/event/7216108
+LOCATION:Theta Chi Fraternity
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Waffles and Service
@@ -8335,6 +8482,19 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#6
  \n[1]  https://arts.gatech.edu/twb
 LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:College of Sciences Week of Welcome - Neuro & Psych Day!
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210827T123000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210827T150000Z
+UID:https://gatech.campuslabs.com/engage/event/7221014
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us in
+  the courtyard every morning this week and mingle with professors from you
+ r major!\n\nGrab-and-go treats will be available daily (first come\, first
+  serve) to kick start your morning. You do not have to be in a specific ma
+ jor to attend that major's meet and greet!\n\nLinks:\n[0]  https://gatech.
+ campuslabs.com/engage/event/7221014
+LOCATION:Folk and Caldwell Courtyard
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sailing Club Open House
