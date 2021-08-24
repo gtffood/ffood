@@ -2,25 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:DCGT Fall 2020 Workshop
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200822T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200823T001500Z
-UID:http://hg.gatech.edu/node/638096#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nWe will be holding separate online and in-person (so
- cially distanced + outdoor + masks required) workshops on Saturday\, Aug. 
- 22 at 7 p.m. This free workshop is for students to try out DCGT\, and all 
- levels of dance experience are welcome. Current members are encouraged to 
- attend the online workshop\, while the in-person is primarily for new memb
- ers and those who don’t have space to dance. The in-person event will ta
- ke place on Burger Bowl (behind Fitten on west campus). Please RSVP. If we
- ather conditions are not ideal\, it will be held completely online. Dance 
- styles such as ballet and jazz will be taught. The class will be approxima
- tely 1 hour\, and there will be a short info session after.\n\nLinks:\n[0]
-   http://hg.gatech.edu/node/638096#0\n[1]  https://bluejeans.com/925201817
-LOCATION:Burger Bowl Field or Online
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:WST Lrn C Fall 2020 Virtual Orientation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200824T213000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200824T223000Z
@@ -8477,6 +8458,49 @@ DESCRIPTION:Intended audience: Graduate students\, Postdoc\, Undergraduate
 LOCATION:Harrison Square
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chinese Student Association First General Body Meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210826T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210826T220000Z
+UID:http://hg.gatech.edu/node/649967#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nCSA's first general body meeting 
+ will be this Thursday\, August 26\, from 5-6pm in 2443 Klaus! We have a lo
+ t of plans for this upcoming semester\, and we are super excited to share 
+ it with everyone. Whether you are new to CSA and want to learn more\, or a
+ re a previous CSA member who wants to see how CSA is changing/staying the 
+ same this semester\, feel free to come. We will be providng free snacks an
+ d attendees will have a chance to win half-off dues!\n\nLinks:\n[0]  http:
+ //hg.gatech.edu/node/649967#0\n[1]  https://gatech.campuslabs.com/engage/o
+ rganization/chinese-student-association
+LOCATION:Room 2443\, Klaus Advanced Computing Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Startup Exchange First-Year Mixer
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210826T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210826T220000Z
+UID:http://hg.gatech.edu/node/649992#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nJump into the semester with a networking mixer speci
+ fically for the class of 2025! Get to know fellow budding entrepreneurs wh
+ ile also learning about Startup Exchange\, participating in fun activities
+ \, and eating free food!\n\nFeel free to rsvp here: [1]\n\nLinks:\n[0]  ht
+ tp://hg.gatech.edu/node/649992#0\n[1]  https://www.eventbrite.com/e/167869
+ 667695\n[2]  https://gatech.campuslabs.com/engage/organization/startupexch
+ ange
+LOCATION:Tech Square ATL Social Club\, 848 Spring Street NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Debate Night
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210826T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210827T010000Z
+UID:https://gatech.campuslabs.com/engage/event/7230706
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDebate Team will be att
+ ending a Debate Night event hosted by "The Agenda: A social debate collect
+ ive" at Apres Diem in Midtown.\n\nLinks:\n[0]  https://gatech.campuslabs.c
+ om/engage/event/7230706
+LOCATION:Apres Diem
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Traveling While Black
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210827T040000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210828T035900Z
@@ -8535,6 +8559,17 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:311 Ferst Dr NW\, Atlanta\, GA 30332
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Vegan Brownie Giveaway
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210828T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210828T034500Z
+UID:https://gatech.campuslabs.com/engage/event/7230686
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nWe will be giving out f
+ ree vegan brownies on Friday\, August 27th starting at 10 pm outside the P
+ hi Sig house (by Tech Square) while supplies last!\n\nLinks:\n[0]  https:/
+ /gatech.campuslabs.com/engage/event/7230686
+LOCATION:Outside the Phi Sigma House
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sailing Club Open House
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210828T130000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210828T170000Z
@@ -8554,6 +8589,18 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
  ]  https://www.gtsailing.org/
 LOCATION:Lake Lanier Sailing Club\, 6206 Commodore Dr\, Flowery Branch\, G
  A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Journey Christian Fellowship Intro Day 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210828T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210828T180000Z
+UID:https://gatech.campuslabs.com/engage/event/7228856
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nCome get t
+ o know our campus ministry Journey Christian Church Fellowship with a fun 
+ afternoon of fellowship\, games\, and worship!\n\nFood\, refreshments\, an
+ d snacks will be provided!\n\nLinks:\n[0]  https://gatech.campuslabs.com/e
+ ngage/event/7228856
+LOCATION:Exhibition Hall Midtown II
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Traditions Night 2021
@@ -8677,6 +8724,22 @@ DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nCalling al
 LOCATION:Exhibition Hall 
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:1st General Meeting: What is a PA?
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210830T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210830T230000Z
+UID:http://hg.gatech.edu/node/649960#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nJoin the Physician Assistant Club
+  for our first general meeting of the semester! We will be discussing what
+  a PA is\, the history of the profession\, and if PA is right for you!\n\n
+ The meeting is on Monday\, August 30th @ 6PM in Skiles 271.\n\nWe will als
+ o have Blue Donkey coffee and donuts! We can't wait to see you!\n\nLinks:\
+ n[0]  http://hg.gatech.edu/node/649960#0\n[1]  https://gatech.campuslabs.c
+ om/engage/event/7230620\n[2]  https://gatech.campuslabs.com/engage/organiz
+ ation/physician-assistant-club
+LOCATION:Room 271\, Skiles Building
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Student Org Fair
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210831T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210831T170000Z
@@ -8709,6 +8772,23 @@ DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nCome out t
  f event we will be outside in the Klaus Courtyard.\n\nLinks:\n[0]  https:/
  /gatech.campuslabs.com/engage/event/7173237
 LOCATION:Klaus Courtyard 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First General Meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210831T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210901T000000Z
+UID:https://gatech.campuslabs.com/engage/event/7234480
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nVeggie Jackets is focus
+ ed on advocating for a plant-based lifestyle for the animals\, the planet\
+ , and our health! This will be our first meeting of the 2021-2022 school y
+ ear\, and we will be covering who we are/what we do\, upcoming events\, ou
+ r work with the Humane League\, how to stay connected with us\, and more!\
+ n\nWe will be giving out FREE vegan cinnamon rolls from Cinnaholic:)\n\nGu
+ ests who are experiencing symptoms of Covid-19 should not attend. We stron
+ gly encourage that you wear a mask when not eating (especially if indoors)
+ . We will be providing hand sanitizer.\n\nLinks:\n[0]  https://gatech.camp
+ uslabs.com/engage/event/7234480
+LOCATION:Skiles 256
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Traveling While Black
@@ -8999,6 +9079,20 @@ DESCRIPTION:Intended audience: Graduate students\nExtras: Free food\nStatu
 LOCATION:Upper Level of Peters Parking Deck
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CREATE-X Startup Spotlight
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210913T200000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210913T220000Z
+UID:https://gatech.campuslabs.com/engage/event/7229602
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nStartup Sp
+ otlight\, formerly known as Deep Startups\, is an Idea Series that feature
+ s knowledgeable entrepreneurs who discuss their experiences forming compan
+ ies that solve big-picture current problems. These individuals speak to th
+ e concept of ‘deep startups’ and how to create companies that make a d
+ ifference.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7229
+ 602
+LOCATION:Klaus 2448
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nano@Tech Fall 2022 Series | Session 2
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210914T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210914T170000Z
@@ -9036,6 +9130,36 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#1
  3\n[1]  https://arts.gatech.edu/twb
 LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Center for Integrative Genomics Advanced Research Seminar (CIGars)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210915T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210915T170000Z
+UID:http://hg.gatech.edu/node/649995#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nThe Center for In
+ tegrative Genomics (CIG) reinitiates their monthly advanced research semin
+ ars (CIGars) with two presentations given by graduate students and post-do
+ cs. Each presentation is approximately 25 minutes with 5 minutes for quest
+ ions. These talks are directed to graduate students and post-docs but are 
+ open to anyone who is interested in the topics.\n\n“Characterization of 
+ Chromatin Accessibility during B Cell Maturation\, with Implications for C
+ OVID"\n\nMaggie Brown [1]\, Ph.D. Graduate Student\, Bioinformatics\nGrego
+ ry Gibson\, Ph.D.\, Advisor\nGeorgia Tech\n\n“The Transcriptional Landsc
+ ape of B Cells by Single Cell RNAseq"\nErin Connolly [2]\, Ph.D. Graduate 
+ Student\, Bioengineering\nGregory Gibson\, Ph.D.\, Advisor\nGeorgia Tech\n
+ \nIf you cannot attend in person\, please join us virtually via BlueJeans 
+ [3].\n\nThis is a great opportunity to:\n\n- Improve your presentation ski
+ lls as a speaker\n- Communicate science\, research and technology to an au
+ dience with diverse backgrounds\n- Practice giving your talk for an upcomi
+ ng conference\, thesis defense\, or qualifying oral exams\n- Enjoy free lu
+ nch and hear about a wide range of work happening in the local bioscience 
+ community\n\nLinks:\n[0]  http://hg.gatech.edu/node/649995#0\n[1]  https:/
+ /bioinformatics.gatech.edu/people/Maggie-Brown\n[2]  https://bioinformatic
+ s.gatech.edu/people/Erin-Connolly\n[3]  https://bluejeans.com/579460145/69
+ 67\n[4]  https://ggibsongt.wixsite.com/gibsongatech
+LOCATION:Engineered Biosystems Building (EBB)\, CHOA Seminar Room\, 950 At
+ lantic Drive NW\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Traveling While Black
@@ -9258,6 +9382,39 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  w.cns.gatech.edu/dsseminar.html\n[2]  https://ce.gatech.edu/about/faciliti
  es#est
 LOCATION:311 Ferst Dr NW\, Atlanta\, GA 30332
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leader Summit 2021
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210926T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210926T150000Z
+UID:https://gatech.campuslabs.com/engage/event/7230140
+DESCRIPTION:Extras: Credit\, Free Food\, Free Stuff\nStatus: approved\n\nT
+ his event fulfills a requirement of the GOLD Route. To learn more about th
+ e GOLD Route\, click here. [1]\n\nAre you an aspiring leader or current ca
+ mpus leader? Join us for the Leader Summit (formerly known as the Presiden
+ ts Summit) to network with your fellow leaders\, connect with powerful res
+ ources\, and engage in leadership development modules!\n\nWhat? Leader Sum
+ mit is a leadership development and training conference hosted by the Cent
+ er for Student Engagement and the Student Government Association. Each fal
+ l\, this event brings together Tech's returning and new leaders for a day 
+ of collaboration\, training\, information\, and preparation with a collect
+ ive goal in mind: preparing our organization leaders to make meaningful ch
+ ange in their student organizations.\n\nWho? All students are invited to a
+ ttend Leader Summit. Even if you don't think of yourself as a leader\, if 
+ you've never held an elected position on campus or if you've been the Pres
+ ident of an org -- Leader Summit is for you. To support our Registered Stu
+ dent Organizations (RSOs)\, we encourage each RSO to send at least two rep
+ resentatives: a current officer and an emerging leader (a junior office or
+  a member the organization is encouraging to run for future officer roles)
+ .\n\nSpots are limited RSVP today! As a participant of this event\, you wi
+ ll receive exclusive RSO Leader swag!\n\nThis event is an all-day experien
+ ce! See below for a tentative schedule:\n\n9:30 - 10:00: Check-In\n\n10:00
+  - 12:00: Program Time\n\n12:00 - 1:00: FREE LUNCH\n\n1:00 - 3:30: Program
+  Time\n\n3:30 - 4:00: VIP Guest Speaker\n\n4:00: Program Concludes\n\n**No
+ te: A more detailed schedule will be released in early September\n\nLinks:
+ \n[0]  https://gatech.campuslabs.com/engage/event/7230140\n[1]  https://st
+ udent-organizations.gatech.edu/content/gold-route
+LOCATION:Exhibition Hall 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nano@Tech Fall 2022 Series | Session 3
