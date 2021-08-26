@@ -2,55 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:WST Lrn C Fall 2020 Virtual Orientation
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200824T213000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200824T223000Z
-UID:http://hg.gatech.edu/node/638174#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nOrientation: Residents of the WST
-  Learning Community will meet virtually to discuss plans for 2020-21 on Mo
- nday\, 8/24\, 5:30-6:30pm\, via BlueJeans. The link to join the meeting is
- \nhttps://bluejeans.com/688164829/2578\nResidents will be provided with in
- dividually boxed meals in Stein about 5pm.\nOther students are welcome to 
- join the virtual meeting.\n\nUpcoming WST Lrn C event: Discussion with Pro
- fessor Narin Hassan\, Director of the Global Media and Culture MS Program\
- , LMC\, speaking in a virtual meeting about de-stressing on Tuesday\, 9/15
- \, 4:30-5:30pm.\n\nInformation about Covid health precautions and testing:
-  [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/638174#0\n[1]  https://heal
- th.gatech.edu/coronavirus/prevention-wellbeing
-LOCATION:Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Student Affiliates of the American Chemical Society - Welcome Meet
- ing
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200825T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200825T160000Z
-UID:http://hg.gatech.edu/node/638286#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Undergraduate students\nSta
- tus: published\n\nYou’re invited to join the Student Affiliates of the A
- merican Chemical Society at Georgia Tech! All majors are welcome\; all you
-  need is an interest in chemistry!\n\nWhat do we do?\n\nSAACS is an academ
- ic organization at Georgia Tech dedicated to facilitating interest in chem
- istry\, coordinating student-faculty interactions\, and providing guidance
-  for future career paths.\n\nOur most popular activity is our “dinner wi
- th a professor” program. Once a month\, a small group of students will g
- et to spend an evening with a professor in the School of Chemistry and Bio
- chemistry – asking any questions they may have about the professor’s r
- esearch and experiences. These will be conducted over BlueJeans.\n\nDuring
-  the school year\, we also host several high school and campus outreach ev
- ents\, professional development workshops\, community service activities\,
-  and fun activities involving chemistry!\n\nHow do I join?\n\nCome to meet
- ings! We hold BlueJeans meetings at 11 AM every 2nd and 4th Tuesday of the
-  month\, starting on Aug. 25! The first meeting will be an information ses
- sion\, and we’ll also have some chemistry-themed trivia!\n\n[1]\n\nJoin 
- our Slack workspace! For consistent updates on meetings and activities\, t
- his is the best way to go. Make sure to turn on notifications!\n\n[2]\n\nL
- inks:\n[0]  http://hg.gatech.edu/node/638286#0\n[1]  https://bluejeans.com
- /887991881\n[2]  https://join.slack.com/t/gtsaacs/shared_invite/zt-govazh8
- 3-wX4fsv7FB7KfeZwt5F5faA\n[3]  https://www.facebook.com/groups/2200944686
-LOCATION:Online
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tuesday Night Worship
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200825T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200826T010000Z
@@ -8758,6 +8709,29 @@ DESCRIPTION:Extras: Credit\, Free Food\, Free Stuff\nStatus: approved\n\nE
 LOCATION:Tech Green/Tech Walkway 
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Working with the Renewable Bioproducts Institute at Georgia Tech -
+  Townhall
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210831T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210831T170000Z
+UID:http://hg.gatech.edu/node/650045#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nPlease join RBI leaders for a 1-hour townhall w
+ here we will describe RBI's research initiatives in renewable bioproducts\
+ , sustainable materials and bioprocessing. We welcome faculty from COE\, C
+ OS\, Scheller College and Ivan Allan College to learn about our support of
+  an interdisciplinary community through\n\n- RBI's PhD fellowship funding 
+ program and goals for FY2022\n- Facilitating industry and national lab par
+ tnering for proposals\n- RBI core lab measurement facilities\n- Workshops 
+ and industry engagement opportunities\n\nWhen: August 31\, 12-1PM\nWhere: 
+ CHOA Room\, EBB in-person / hybrid via bluejeans\nhttps:/bluejeans.com/677
+ 601554/9746 [1]\n\nLunch will be made available to in-person attendees\nRS
+ VP to Dione Morton by 8-25 to indicate in-person or virtual attendees\ndio
+ ne.morton@rbi.gatech.edu [2]\n\nLinks:\n[0]  http://hg.gatech.edu/node/650
+ 045#0\n[1]  https://gatech.us3.list-manage.com/track/click?u=b90abb4bcc0fb
+ 2b4d24d9cb5d&id=636c539318&e=48f257f379\n[2]  dione.morton@rbi.gatech.edu
+LOCATION:CHOA Room\, EBB in-person / hybrid via bluejeans
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SWE General Body Meeting - Back to School Social 
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210831T213000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210831T230000Z
@@ -8789,6 +8763,25 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nVeggie Jackets is focus
  . We will be providing hand sanitizer.\n\nLinks:\n[0]  https://gatech.camp
  uslabs.com/engage/event/7234480
 LOCATION:Skiles 256
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veggie Jackets General Meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210831T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210901T000000Z
+UID:http://hg.gatech.edu/node/650006#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nVeggie Jackets is focused on advo
+ cating for a plant-based lifestyle for the animals\, the planet\, and our 
+ health! This will be our first meeting of the 2021-2022 school year\, and 
+ we will be covering who we are/what we do\, upcoming events\, our work wit
+ h the Humane League\, how to stay connected with us\, and more!\n\nWe will
+  be giving out FREE vegan cinnamon rolls from Cinnaholic:)\n\nGuests who a
+ re experiencing symptoms of Covid-19 should not attend. We strongly encour
+ age that you wear a mask when not eating (especially if indoors). We will 
+ be providing hand sanitizer.\n\nLinks:\n[0]  http://hg.gatech.edu/node/650
+ 006#0\n[1]  https://gatech.campuslabs.com/engage/organization/veggie-jacke
+ ts
+LOCATION:Room 256\, Skiles Building
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Traveling While Black
@@ -8858,6 +8851,21 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Richards Gallery at the Ferst Center for the Arts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Students Organizing for Sustainabilty Information Session
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210902T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210902T160000Z
+UID:http://hg.gatech.edu/node/650077#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nStudents Organizing for Sustainability (SOS) is a st
+ udent-run organization that created the Community Garden on campus\, as we
+ ll as the rooftop garden at the Kendeda building. This session will allow 
+ interested students to learn more about our goals\, meet the officers\, an
+ d ask about project ideas for this coming academic year. There will also b
+ e free food for all who attend.\n\nLinks:\n[0]  http://hg.gatech.edu/node/
+ 650077#0
+LOCATION:Room 205\, Instructional Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bridge Club Open House
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210902T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210903T000000Z
@@ -8900,6 +8908,23 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Richards Gallery at the Ferst Center for the Arts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:They Did That! (And You Can Too)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210903T173000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210903T193000Z
+UID:http://hg.gatech.edu/node/650044#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nJoin us to hear about the career paths and personal 
+ journeys of the Coulter BME alumni selected for the 2020 and 2021 classes 
+ of the Georgia Tech Alumni Association 40 Under 40. Bring your questions a
+ bout their memories of BME\, their favorite stories\, the interesting path
+ ways they've chosen\, advice they have to share and more!\n\nAfter we hear
+  from our honorees\, you'll have time to mingle and network\, with light r
+ efreshments available.\n\nPlease RSVP by accepting the calendar invitation
+  all Coulter BME students received via email.\n\nLinks:\n[0]  http://hg.ga
+ tech.edu/node/650044#0\n[1]  https://www.gtalumni.org/40under40
+LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bridge Club Open House
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210903T190000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210903T210000Z
@@ -8914,6 +8939,21 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nIf you like to play car
  op by to say hi and play bridge with us!\n\nLinks:\n[0]  https://gatech.ca
  mpuslabs.com/engage/event/7203069
 LOCATION:Exhibition Hall - Centennial Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chinese Student Association Recruitment Event
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210903T190000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210903T220000Z
+UID:http://hg.gatech.edu/node/650070#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nCome to CSA's tabling event happe
+ ning on Friday\, September 3 from 3-6PM at Tech Green! Come out to the sou
+ th side of the green and hang out while we recruit new members. Get reacqu
+ ainted with your old CSA buddies\, or make new ones\, all while enjoying s
+ ome free milk tea and answering some cultural trivia questions for prizes!
+ \n\nLinks:\n[0]  http://hg.gatech.edu/node/650070#0\n[1]  https://gatech.c
+ ampuslabs.com/engage/organization/chinese-student-association
+LOCATION:Tech Walkway
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Data Science for Scientists: College of Sciences Data Science Semi
@@ -9130,6 +9170,19 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#1
  3\n[1]  https://arts.gatech.edu/twb
 LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DHL Information Session at ISyE
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210915T153000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210915T180000Z
+UID:http://hg.gatech.edu/node/650082#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nLearn about DHL Consulting and it
+ s opportunities for Georgia Tech students interested in supply chain and l
+ ogistics! The information session with also involve a mini-case study/comp
+ etition and pizza lunch for attendees!\n\nLinks:\n[0]  http://hg.gatech.ed
+ u/node/650082#0\n[1]  https://bit.ly/dhl-gt-2021
+LOCATION:ISyE Main Building\, Atrium (755 Ferst Drive\, NW)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Center for Integrative Genomics Advanced Research Seminar (CIGars)
