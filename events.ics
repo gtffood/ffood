@@ -2,17 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Tuesday Night Worship
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200825T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200826T010000Z
-UID:https://gatech.campuslabs.com/engage/event/6158596
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us Tu
- esday night for dinner and Worship! Follow our social media or join or sla
- ck channel for up-to-date information (online vs. in-person\, speakers\, e
- tc.).\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6158596
-LOCATION:Tech Wesley
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BPU Meeting 
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200827T231500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200828T013000Z
@@ -8866,6 +8855,20 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Room 205\, Instructional Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ABLE Alliance Welcome Back Party
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210902T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210903T000000Z
+UID:http://hg.gatech.edu/node/650117#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nCome to Molecular Science and Eng
+ ineering room G021 for pizza\, music\, and games!\n\nCome be Molecular Sci
+ ence and Engineering room G021 for pizza\, music\, and games!\n\nLinks:\n[
+ 0]  http://hg.gatech.edu/node/650117#0\n[1]  https://gatech.campuslabs.com
+ /engage/event/7253660\n[2]  https://gatech.campuslabs.com/engage/organizat
+ ion/pending-able-alliance
+LOCATION:Room G021\, Molecular Science and Engineering Building
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bridge Club Open House
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210902T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210903T000000Z
@@ -8954,6 +8957,20 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  \n\nLinks:\n[0]  http://hg.gatech.edu/node/650070#0\n[1]  https://gatech.c
  ampuslabs.com/engage/organization/chinese-student-association
 LOCATION:Tech Walkway
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSA Recruitment Event
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210903T190000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210903T220000Z
+UID:https://gatech.campuslabs.com/engage/event/7253713
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome to CSA 's tabling 
+ event happening on Friday\, September 3 from 3-6PM at Tech Green! Come out
+  to the south side of the green and hang out while we recruit new members.
+  Get reacquainted with your old CSA buddies\, or make new ones\, all while
+  enjoying some free milk tea and answering some cultural trivia questions 
+ for prizes!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/725
+ 3713
+LOCATION:Tech Green Walkway
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Data Science for Scientists: College of Sciences Data Science Semi
@@ -9085,6 +9102,55 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#1
  2\n[1]  https://arts.gatech.edu/twb
 LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scheller Lunchtime Live: Product Placebo: Using the Placebo Effect
+  to Improve Consumer Experience
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210910T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210910T163000Z
+UID:http://hg.gatech.edu/node/650189#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nScheller Lunchtim
+ e Live is a livestream series hosted by the Georgia Tech Scheller College 
+ of Business featuring faculty\, student\, and alumni speakers discussing r
+ elevant topics for the tech-driven\, digital age.\n\nIn this episode\, Aar
+ on Hackett\, Lecturer in Marketing\, will look at how consumer perception 
+ of a product\, regardless of its competitive advantage\, can be distorted 
+ by factors that have nothing to do with a product’s effectiveness. He’
+ ll discuss how the placebo effect can improve the consumer experience and 
+ how to resolve the perception issue using common marketing cues we all val
+ ue.\n\nJust hit "Attend event" on the LinkedIn event and refresh the event
+  page or the Georgia Tech Scheller College of Business page on Friday\, Se
+ ptember 10 at 12:00 p.m. ET to access the session. Please note\, you must 
+ have a LinkedIn profile in order to register and view the livestream.\n\nA
+ bout Aaron Hackett\n\nAaron Hackett has been at the Scheller College of Bu
+ siness since 2013 and teaches strategic brand management to MBA and underg
+ raduate classes.\n\nAaron is a marketing leader with experience in both Fo
+ rtune 500 and emerging organizations. Launching his marketing career at Pr
+ octer & Gamble as an assistant brand manager and later progressing to vice
+  president of marketing and general manager at The oneCARE Company\, Aaron
+  has assisted leading organizations successfully relaunch under-performing
+  brands\, establish strong social media presence\, and develop content man
+ agement systems.\n\nAaron has delivered successful product innovations suc
+ h as Folgers ground flavored coffee and Healthy Choice's Asian steamed mea
+ ls\, resulting in first year revenues of $10MM and $23MM respectively. He 
+ has managed business unit brand portfolios such as The oneCARE Company’s
+  $60MM fabric care business unit featuring Dryel and several P&G licensed 
+ brands. Aaron has balanced his line management success with corporate mast
+ ery experience that allowed him to deliver P&G’s current best approach f
+ or in-store messaging.\n\nDrawing from his digital marketing expertise and
+  proven track record of strong brand management with leading global organi
+ zations\, Aaron founded Hackett Consulting to help small businesses realiz
+ e the same marketing solutions and services historically reserved for larg
+ er organizations. He consults with owners of smaller organizations to deve
+ lop and execute their marketing plan.\n\nAaron is an MBA graduate of Stanf
+ ord University. He received his M.S. in Industrial Engineering from the Un
+ iversity of Tennessee at Knoxville and B.S. in Mechanical Engineering from
+  the University of Texas at Austin. Prior to marketing\, Aaron worked seve
+ ral years as an engineer and information technology professional at Bechte
+ l National\, Incorporated.\n\nLinks:\n[0]  http://hg.gatech.edu/node/65018
+ 9#0\n[1]  https://www.linkedin.com/events/6830519119037661184/
+LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Data Science for Scientists: College of Sciences Data Science Semi
@@ -9416,6 +9482,51 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#1
  8\n[1]  https://arts.gatech.edu/twb
 LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scheller Lunchtime Live: Serving on a Non-profit Board - What You 
+ Need to Know
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210924T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210924T163000Z
+UID:http://hg.gatech.edu/node/650190#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nScheller Lunchtim
+ e Live is a livestream series hosted by the Georgia Tech Scheller College 
+ of Business featuring faculty\, student\, and alumni speakers discussing r
+ elevant topics for the tech-driven\, digital age.\n\nNon-profit board serv
+ ice is an exciting\, challenging\, and fulfilling avenue to create societa
+ l impact and develop new skills. It's an opportunity that can be a good fi
+ t\, whether you're passionate about a certain social or civic issue\, you'
+ re a young professional seeking leadership opportunities and ways to expan
+ d your network\, or you're at a point in your career where you feel the ne
+ ed to engage more meaningfully in your community.\n\nIn this session Dori 
+ Pap\, Managing Director of the Institute for Leadership and Social Impact 
+ at the Georgia Tech Scheller College of Business\, will share her experien
+ ce serving on various non-profit boards. She’ll go over the basics of bo
+ ards and board service\, including requirements\, responsibilities\, types
+  of boards\, how to get started\, and more. Come with your questions and l
+ earn how you can engage.\n\nJust hit "Attend event" on the LinkedIn event 
+ and refresh the event page or the Georgia Tech Scheller College of Busines
+ s page on Friday\, September 24 at 12:00 p.m. ET to access the session. Pl
+ ease note\, you must have a LinkedIn profile in order to register and view
+  the livestream.\n\nAbout Dori Pap\n\nDori Pap is the Managing Director of
+  the Institute for Leadership and Social Impact (ILSI) (formerly known as 
+ the Institute for Leadership and Entrepreneurship) at the Georgia Tech Sch
+ eller College of Business. She directs the Leadership for Social Good Stud
+ y Abroad Program in Central and Eastern Europe\, coordinates the Impact Sp
+ eaker Series\, runs the annual Ideas to Serve student social innovation co
+ mpetition\, and teaches courses on social entrepreneurship.\n\nShe serves 
+ as board chair for Global Growers Network\, a non-profit organization that
+  connects the agricultural talent of the refugee community in and around A
+ tlanta to opportunities in sustainable agriculture. She is also board memb
+ er for the Center for Civic Innovation\, a community of good troublemakers
+  fighting to solve inequality in Atlanta by supporting the work of communi
+ ty leaders and advocating for policy change. Dori also serves on the board
+  of the Georgia Social Impact Collaborative\, an organization building Geo
+ rgia’s impact investment ecosystem. Dori is a triple Yellow Jacket\, inc
+ luding earning an MBA in 2007.\n\nLinks:\n[0]  http://hg.gatech.edu/node/6
+ 50190#0\n[1]  https://www.linkedin.com/events/6836655354323988480/
+LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Data Science for Scientists: College of Sciences Data Science Semi
