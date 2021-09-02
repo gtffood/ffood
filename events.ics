@@ -8717,6 +8717,17 @@ DESCRIPTION:Extras: Credit\, Free Food\, Free Stuff\nStatus: approved\n\nD
 LOCATION:Tech Green/Tech Walkway 
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:African Student Association 1st General Body Meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210901T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210901T233000Z
+UID:https://gatech.campuslabs.com/engage/event/7295944
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nHi Everyone!\n\nThis We
+ dnesday September 1st\, we will have our first general body meeting at 6:3
+ 0pm in the Brittan Rec Room! We will have food and mixer games to socializ
+ e\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7295944
+LOCATION:Brittan Rec Room
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Traveling While Black
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210902T040000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210903T035900Z
@@ -8761,11 +8772,13 @@ BEGIN:VEVENT
 SUMMARY:Scouting at Georgia Tech S'mores Night
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210902T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210902T230000Z
-UID:https://gatech.campuslabs.com/engage/event/7271841
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome and join us to mak
- e smores and learn more about Scouting at Georgia Tech!\n\nLinks:\n[0]  ht
- tps://gatech.campuslabs.com/engage/event/7271841
-LOCATION:West Willage Fire Pits
+UID:http://hg.gatech.edu/node/650249#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nCome and join us to make smores a
+ nd learn more about Scouting at Georgia Tech!\n\nLinks:\n[0]  http://hg.ga
+ tech.edu/node/650249#0\n[1]  https://gatech.campuslabs.com/engage/event/72
+ 71841\n[2]  https://gatech.campuslabs.com/engage/organization/eagles
+LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABLE Alliance Welcome Back Party
@@ -8796,6 +8809,33 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nIf you like to play car
  op by to say hi and play bridge with us!\n\nLinks:\n[0]  https://gatech.ca
  mpuslabs.com/engage/event/7203068
 LOCATION:Exhibition Hall - Centennial Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asian American Student Association Information Session
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210902T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210902T234500Z
+UID:https://gatech.campuslabs.com/engage/event/7283569
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on September 2n
+ d at 7:00 PM in Skiles 249 to learn more about the Asian American Student 
+ Association and how to get involved with the organization and our upcoming
+  events!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/728356
+ 9
+LOCATION:Skiles 249
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Apologetics
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210902T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210903T000000Z
+UID:http://hg.gatech.edu/node/650264#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nJoin us for Apologetics Thursdays at 7PM in the CC b
+ asement to learn more about how to defend the Catholic faith. We hope to a
+ ddress the more pressing topics of our times this semester\, all revolving
+  back to why Catholicism is the One\, True Religion.\n\nClasses will take 
+ place every other week this semester\; feel free to bring your dinners and
+  get comfy!\n\nLinks:\n[0]  http://hg.gatech.edu/node/650264#0\n[1]  https
+ ://gatech.campuslabs.com/engage/organization/cso
+LOCATION:Catholic Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Traveling While Black
@@ -8902,19 +8942,44 @@ SUMMARY:Data Science for Scientists: College of Sciences Data Science Semi
  nar
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210903T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210903T210000Z
-UID:http://hg.gatech.edu/node/649878#1
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: draft\n\nA seminar course for graduate st
- udents and postdoctoral scholars interested in learning the different type
- s of methodological and applied research that is going on in the College o
- f Sciences using data sciences (including machine learning\, AI\, network 
- sciences\, dynamics\, probability and stats\, etc.) No prerequisites requi
- red.\n\nRepeats every Friday through Nov. 19\, 2021. A list of instructors
-  for each Friday's seminar\, along with more information\, is available he
- re [1].\n\nLinks:\n[0]  http://hg.gatech.edu/node/649878#1\n[1]  http://ww
- w.cns.gatech.edu/dsseminar.html\n[2]  https://ce.gatech.edu/about/faciliti
- es#est
-LOCATION:311 Ferst Dr NW\, Atlanta\, GA 30332
+UID:http://hg.gatech.edu/node/650297#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nA seminar course for graduate students and postdoctoral scholars interes
+ ted in learning the different types of methodological and applied research
+  that is going on in the College of Sciences using data sciences (includin
+ g machine learning\, AI\, network sciences\, dynamics\, probability and st
+ ats\, etc.) No prerequisites required.\n\nRepeats every Friday through Nov
+ . 19\, 2021. A list of instructors for each Friday's seminar\, along with 
+ more information\, is available here [2].\n\nLinks:\n[0]  http://hg.gatech
+ .edu/node/650297#0\n[1]  http://hg.gatech.edu/node/649878#1\n[2]  http://w
+ ww.cns.gatech.edu/dsseminar.html\n[3]  https://ce.gatech.edu/about/facilit
+ ies#est\n[4]  https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzczY
+ zk5Y2MtYTJjNS00OTY5LWE4YzgtMzdmMmIzNGM5OGM3%40thread.v2/0?context=%7b%22Ti
+ d%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2280f253d
+ 9-02ae-418f-9c23-4f234fa2f6d8%22%7d
+LOCATION:ES&T L1205 and online via MS Teams
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Startup Exchange Kickoff - A Conversation with Sean Henry
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210903T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210903T220000Z
+UID:http://hg.gatech.edu/node/650257#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nCome out to Startup Exchange’s 
+ Kickoff and listen to one of Georgia Tech’s very own\, Sean Henry! Sean 
+ is the founder and CEO of Stord\, a Create-X company he built during his f
+ reshman year that revolutionized the way companies manage logistics. Stord
+  uses a cloud-based warehouse management system to create scalable end-to-
+ end logistics for businesses of all sizes. Sean would go on to drop out of
+  Tech in favor of the Thiel fellowship to help further Stord’s mission. 
+ To date\, Stord has raised $125 M on its journey to revolutionize how comp
+ anies manage logistics.\n\nThis Friday\, you’ll be able to learn how Sto
+ rd has become one of the most exciting companies in Atlanta. We hope you
+ ’ll join us\, and as always there will be free pizza!\n\nLinks:\n[0]  ht
+ tp://hg.gatech.edu/node/650257#0\n[1]  https://gatech.campuslabs.com/engag
+ e/event/7283484\n[2]  https://www.eventbrite.com/e/168861355861
+LOCATION:Tech Square ATL Social Club\, 848 Spring Street NW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:First GT Esport Meeting
@@ -8942,6 +9007,33 @@ DESCRIPTION:Intended audience: Graduate students\nExtras: Free food\nStatu
 LOCATION:Upper Level of Peters Parking Deck
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fall Into Dance
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210904T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210905T023000Z
+UID:http://hg.gatech.edu/node/650263#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nStatus: published\n\nHere to kick off the seaso
+ n is this year's Fall Into Dance! Get excited for a night full of music\, 
+ snacks\, and of course dancing! Beginner Tango\, Cha Cha\, and Swing lesso
+ ns will be taught at the start of the night followed by a Showcase and soc
+ ial dancing!\n\nLinks:\n[0]  http://hg.gatech.edu/node/650263#0\n[1]  http
+ s://ballroomdance.gtorg.gatech.edu/
+LOCATION:Midtown II\, Exhibition Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Service Fair
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210908T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210908T050000Z
+UID:https://gatech.campuslabs.com/engage/event/7154523
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nRESCHEDULED DUE TO RAIN
+ \n\nWe are a service-oriented organization and have plans for projects on 
+ campus and within Atlanta. Much of our volunteering will be helping the lo
+ cal Scouting community\, but anyone is welcome to help! Come check out our
+  table at the service fair to learn more!\n\nLinks:\n[0]  https://gatech.c
+ ampuslabs.com/engage/event/7154523
+LOCATION:Tech Walkway (surrounding Tech Green)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Traveling While Black
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210908T040000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210909T035900Z
@@ -8966,6 +9058,21 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#1
  0\n[1]  https://arts.gatech.edu/twb
 LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Salsa Club Fall Kickoff
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210908T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210909T010000Z
+UID:http://hg.gatech.edu/node/650250#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nJoin us in the Buckhead room at the Exhibition Hall 
+ as we Kickoff our year of dance\, pizza included! We will go into depth ab
+ out what we will be offering this semester and what you can expect as a me
+ mber!\n\nWatch our recap video that showcases our vibrant community! [1]\n
+ \nLinks:\n[0]  http://hg.gatech.edu/node/650250#0\n[1]  https://www.youtub
+ e.com/watch?v=4DfgN-1tKm0&feature=emb_title\n[2]  https://www.gtsalsa.com/
+ club-info
+LOCATION:Buckhead Room\, Exhibition Hall
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Salsa Kickoff Fall 2021
@@ -9008,6 +9115,41 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Richards Gallery at the Ferst Center for the Arts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ballroom Dance Club Org Fair Check-In
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210909T144500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210909T170000Z
+UID:https://gatech.campuslabs.com/engage/event/7287539
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nThe Center
+  for Student Engagement created this event for participating orgs to check
+ -in to the Org Fair.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/
+ event/7287539
+LOCATION:Tech Green/Tech Walkway
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IEEE PES Kickoff Event
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210909T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210909T160000Z
+UID:https://gatech.campuslabs.com/engage/event/7283589
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin the Exec Board of 
+ IEEE PES on Sept 9th (Thursday) in Van Leer C241 for the Fall Kickoff Even
+ t\, with Pizza provided.\n\nLinks:\n[0]  https://gatech.campuslabs.com/eng
+ age/event/7283589
+LOCATION:Van Leer C241
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fall Organizations Fair
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210909T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210909T170000Z
+UID:https://gatech.campuslabs.com/engage/event/7154521
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nRESCHEDULED DUE TO RAIN
+ \n\nWe will have a table at the organizations fair. Come check us out and 
+ learn more about all the fun activities\, trips\, and service projects tha
+ t we have planned for the year! Everyone is welcome\, you don't need to ha
+ ve been a Scout!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/even
+ t/7154521
+LOCATION:Tech Walkway (surrounding Tech Green)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Scheller College Dean's DE&I Speaker Series Featuring Shan Cooper\
  , Atlanta Committee for Progress
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210909T210000Z
@@ -9027,6 +9169,39 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  Links:\n[0]  http://hg.gatech.edu/node/649225#0\n[1]  https://www.scheller
  .gatech.edu/why-scheller/visit-campus/directions-parking.html
 LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bridge Club Open House
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210909T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210910T000000Z
+UID:http://hg.gatech.edu/node/650253#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nIf you like to play card games\, 
+ either for fun or competitively\, and would like to make new friends\, the
+  Bridge Club invites you to attend its Open House on Thursday\, Sep. 9th a
+ t 6pm-8pm in the Exhibition Hall Centennial Room or on Friday\, Sep. 10th 
+ at 3pm-5pm in the same room. We play bridge in a friendly and relaxed atmo
+ sphere and everyone is welcome to join\, including beginners: we'll teach 
+ you how to play and help you to improve your skills over time. Stop by to 
+ say hi and play bridge with us!\n\nLinks:\n[0]  http://hg.gatech.edu/node/
+ 650253#0\n[1]  https://gatech.campuslabs.com/engage/event/7203072\n[2]  ht
+ tps://gatech.campuslabs.com/engage/organization/bridge-club
+LOCATION:Centennial Room\, Exhibition Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Apologetics
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210909T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210910T000000Z
+UID:http://hg.gatech.edu/node/650264#1
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nJoin us for Apologetics Thursdays at 7PM in the CC b
+ asement to learn more about how to defend the Catholic faith. We hope to a
+ ddress the more pressing topics of our times this semester\, all revolving
+  back to why Catholicism is the One\, True Religion.\n\nClasses will take 
+ place every other week this semester\; feel free to bring your dinners and
+  get comfy!\n\nLinks:\n[0]  http://hg.gatech.edu/node/650264#1\n[1]  https
+ ://gatech.campuslabs.com/engage/organization/cso
+LOCATION:Catholic Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Traveling While Black
@@ -9053,6 +9228,19 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#1
  2\n[1]  https://arts.gatech.edu/twb
 LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sikh Lunch Party
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210910T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210910T170000Z
+UID:http://hg.gatech.edu/node/650251#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nKickoff your labor day weekend by connecting with th
+ e Sikh community over lunch! Feel free to bring your own lunch but we'll a
+ lso have some free pizza\, drinks\, and a chance for you to grow your Sikh
+  community!\n\nLinks:\n[0]  http://hg.gatech.edu/node/650251#0\n[1]  https
+ ://www.instagram.com/atlsikhs/
+LOCATION:Tech Green
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Scheller Lunchtime Live: Product Placebo: Using the Placebo Effect
@@ -9104,23 +9292,43 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bridge Club Open House
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210910T190000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210910T210000Z
+UID:https://gatech.campuslabs.com/engage/event/7203055
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nIf you like to play car
+ d games\, either for fun or competitively\, and would like to make new fri
+ ends\, the Bridge Club invites you to attend its Open House on Thursday\, 
+ Sep. 9th at 6pm-8pm in the Exhibition Hall Centennial Room or on Friday\, 
+ Sep. 10th at 3pm-5pm in the same room. We play bridge in a friendly and re
+ laxed atmosphere and everyone is welcome to join\, including beginners: we
+ 'll teach you how to play and help you to improve your skills over time. S
+ top by to say hi and play bridge with us!\n\nLinks:\n[0]  https://gatech.c
+ ampuslabs.com/engage/event/7203055
+LOCATION:]Exhibition Hall - Centennial
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Data Science for Scientists: College of Sciences Data Science Semi
  nar
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210910T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210910T210000Z
-UID:http://hg.gatech.edu/node/649878#2
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: draft\n\nA seminar course for graduate st
- udents and postdoctoral scholars interested in learning the different type
- s of methodological and applied research that is going on in the College o
- f Sciences using data sciences (including machine learning\, AI\, network 
- sciences\, dynamics\, probability and stats\, etc.) No prerequisites requi
- red.\n\nRepeats every Friday through Nov. 19\, 2021. A list of instructors
-  for each Friday's seminar\, along with more information\, is available he
- re [1].\n\nLinks:\n[0]  http://hg.gatech.edu/node/649878#2\n[1]  http://ww
- w.cns.gatech.edu/dsseminar.html\n[2]  https://ce.gatech.edu/about/faciliti
- es#est
-LOCATION:311 Ferst Dr NW\, Atlanta\, GA 30332
+UID:http://hg.gatech.edu/node/650298#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nA seminar course for graduate students and postdoctoral scholars interes
+ ted in learning the different types of methodological and applied research
+  that is going on in the College of Sciences using data sciences (includin
+ g machine learning\, AI\, network sciences\, dynamics\, probability and st
+ ats\, etc.) No prerequisites required.\n\nRepeats every Friday through Nov
+ . 19\, 2021. A list of instructors for each Friday's seminar\, along with 
+ more information\, is available here [2].\n\nLinks:\n[0]  http://hg.gatech
+ .edu/node/650298#0\n[1]  http://hg.gatech.edu/node/649878#2\n[2]  http://w
+ ww.cns.gatech.edu/dsseminar.html\n[3]  https://ce.gatech.edu/about/facilit
+ ies#est\n[4]  https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzczY
+ zk5Y2MtYTJjNS00OTY5LWE4YzgtMzdmMmIzNGM5OGM3%40thread.v2/0?context=%7b%22Ti
+ d%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2280f253d
+ 9-02ae-418f-9c23-4f234fa2f6d8%22%7d
+LOCATION:ES&T L1205 and online via MS Teams
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Graduate Student Tailgate
@@ -9139,15 +9347,51 @@ BEGIN:VEVENT
 SUMMARY:CREATE-X Startup Spotlight
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210913T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210913T220000Z
-UID:https://gatech.campuslabs.com/engage/event/7229602
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nStartup Sp
- otlight\, formerly known as Deep Startups\, is an Idea Series that feature
- s knowledgeable entrepreneurs who discuss their experiences forming compan
- ies that solve big-picture current problems. These individuals speak to th
- e concept of ‘deep startups’ and how to create companies that make a d
- ifference.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7229
- 602
-LOCATION:Klaus 2448
+UID:http://hg.gatech.edu/node/650367#0
+DESCRIPTION:Intended audience: Graduate students\, Public\, Undergraduate 
+ students\nExtras: Free Food\, Free Stuff\nStatus: published\n\nThese indiv
+ iduals speak to the concept of ‘deep startups’ and how to create compa
+ nies that make a difference. Each Startup Spotlight\, formerly known as De
+ ep Startups\, focuses on a different broad topic in engineering/technology
+  and allows for student Q&A at the end of the event.\n\nStartup Spotlight\
+ , formerly known as Deep Startups\, is an Idea Series that features knowle
+ dgeable entrepreneurs who discuss their experiences forming companies that
+  solve big-picture current problems. These individuals speak to the concep
+ t of ‘deep startups’ and how to create companies that make a differenc
+ e.\n\nLinks:\n[0]  http://hg.gatech.edu/node/650367#0\n[1]  https://gatech
+ .campuslabs.com/engage/event/7229602\n[2]  https://create-x.gatech.edu/upc
+ oming-events
+LOCATION:Klaus (Room 2448)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leadership for Social Good Study Abroad 2021 Info Session
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210914T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210914T160000Z
+UID:http://hg.gatech.edu/node/650288#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nCome hear about the Leadership fo
+ r Social Good Study Abroad Program [1]\, which offers students the opportu
+ nity to gain insight into global civil society\, to learn about the challe
+ nges of creating and leading effective and sustainable social enterprises\
+ , and to make a positive impact by completing a project with a non-profit 
+ organization in Budapest\, Hungary.\n\nAll four courses offered as part of
+  this program qualify for the Leadership Minor - Business Track [2]. This 
+ program is also affiliated with Serve-Learn-Sustain and fulfills both the 
+ Engage and Learn requirements for the Innovating for Social Impact program
+  [3].\n\nJoin faculty and former study abroad students at the Eastern and 
+ Central Europe Study Abroad Info Session! Lunch will be provided - please 
+ RSVP [4].\n\nLinks:\n[0]  http://hg.gatech.edu/node/650288#0\n[1]  http://
+ serve-learn-sustain.gatech.edu/leadership-social-good-central-and-eastern-
+ europe\n[2]  https://leadership.gatech.edu/content/minor-leadership-studie
+ s-0\n[3]  http://serve-learn-sustain.gatech.edu/innovating-social-impact-p
+ rogram\n[4]  http://ilebackend.gatech.edu/study-abroad-info\n[5]  https://
+ gteesa.blogspot.com/2019/06/hungary-for-knowledge_26.html\n[6]  https://ww
+ w.google.com/search?rlz=1C1GCEA_enUS865US865&sxsrf=ACYBGNQhWJzALjSJbgymiVc
+ pC1MOuNZQSg:1567792001763&q=Georgia+Institute+of+Technology&ludocid=130544
+ 75435580638479&lsig=AB86z5ULAV3OIgR5qIgJxsxweIrZ&sa=X&ved=2ahUKEwiz2eKq4Lz
+ kAhXkm-AKHb0zBxsQ8G0oADAbegQIDRAn\n[7]  https://www.scheller.gatech.edu/ce
+ nters-initiatives/ile/study_abroad/index.html
+LOCATION:Scheller College of Business\, Room 101
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nano@Tech Fall 2022 Series | Session 2
@@ -9187,6 +9431,30 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#1
  3\n[1]  https://arts.gatech.edu/twb
 LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:13th Annual Georgia Tech Diversity Symposium
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210915T120000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210915T180000Z
+UID:http://hg.gatech.edu/node/650359#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\, Freebies\nStatus: published\n\nThe 13th annual G
+ eorgia Tech Diversity Symposium\, The Globalization of Anti-Racism Activis
+ m\, will take place Wednesday\, September 15\, 2021.\n\nThe event will ope
+ n with a virtual keynote by Ibram X. Kendi\, historian and award-winning a
+ uthor of How to Be An Antiracist. The event will also include panel discus
+ sions with Tech faculty\, staff\, students\, and alumni on topics of local
+ \, national\, and international anti-racism movements. The day will conclu
+ de as we recognize this year's Diversity Champion Awards and Faces of Incl
+ usive Excellence honorees.\n\nThe campus community is invited to attend vi
+ rtually or in-person at the Global Learning Center (room 236). Registratio
+ n is open at [1].\n\nThis event is sponsored by Institute Diversity\, Equi
+ ty\, and Inclusion [2] and the 2021 Diversity Symposium Planning Committee
+  [3].\n\nLinks:\n[0]  http://hg.gatech.edu/node/650359#0\n[1]  https://gat
+ ech.co1.qualtrics.com/jfe/form/SV_08TdWX65oweF7Rc\n[2]  http://diversity.g
+ atech.edu\n[3]  https://diversity.gatech.edu/2021-diversity-symposium-plan
+ ning-committee
+LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DHL Information Session at ISyE
@@ -9258,6 +9526,21 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Richards Gallery at the Ferst Center for the Arts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Apologetics
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210916T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210917T000000Z
+UID:http://hg.gatech.edu/node/650264#2
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nJoin us for Apologetics Thursdays at 7PM in the CC b
+ asement to learn more about how to defend the Catholic faith. We hope to a
+ ddress the more pressing topics of our times this semester\, all revolving
+  back to why Catholicism is the One\, True Religion.\n\nClasses will take 
+ place every other week this semester\; feel free to bring your dinners and
+  get comfy!\n\nLinks:\n[0]  http://hg.gatech.edu/node/650264#2\n[1]  https
+ ://gatech.campuslabs.com/engage/organization/cso
+LOCATION:Catholic Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Traveling While Black
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210917T040000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210918T035900Z
@@ -9288,19 +9571,23 @@ SUMMARY:Data Science for Scientists: College of Sciences Data Science Semi
  nar
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210917T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210917T210000Z
-UID:http://hg.gatech.edu/node/649878#3
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: draft\n\nA seminar course for graduate st
- udents and postdoctoral scholars interested in learning the different type
- s of methodological and applied research that is going on in the College o
- f Sciences using data sciences (including machine learning\, AI\, network 
- sciences\, dynamics\, probability and stats\, etc.) No prerequisites requi
- red.\n\nRepeats every Friday through Nov. 19\, 2021. A list of instructors
-  for each Friday's seminar\, along with more information\, is available he
- re [1].\n\nLinks:\n[0]  http://hg.gatech.edu/node/649878#3\n[1]  http://ww
- w.cns.gatech.edu/dsseminar.html\n[2]  https://ce.gatech.edu/about/faciliti
- es#est
-LOCATION:311 Ferst Dr NW\, Atlanta\, GA 30332
+UID:http://hg.gatech.edu/node/650299#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nA seminar course for graduate students and postdoctoral scholars interes
+ ted in learning the different types of methodological and applied research
+  that is going on in the College of Sciences using data sciences (includin
+ g machine learning\, AI\, network sciences\, dynamics\, probability and st
+ ats\, etc.) No prerequisites required.\n\nRepeats every Friday through Nov
+ . 19\, 2021. A list of instructors for each Friday's seminar\, along with 
+ more information\, is available here [2].\n\nLinks:\n[0]  http://hg.gatech
+ .edu/node/650299#0\n[1]  http://hg.gatech.edu/node/649878#3\n[2]  http://w
+ ww.cns.gatech.edu/dsseminar.html\n[3]  https://ce.gatech.edu/about/facilit
+ ies#est\n[4]  https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzczY
+ zk5Y2MtYTJjNS00OTY5LWE4YzgtMzdmMmIzNGM5OGM3%40thread.v2/0?context=%7b%22Ti
+ d%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2280f253d
+ 9-02ae-418f-9c23-4f234fa2f6d8%22%7d
+LOCATION:ES&T L1205 and online via MS Teams
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:IMat Distinguished Lecture in Materials | Machine Learning and Fir
@@ -9438,6 +9725,21 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:ONLINE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Apologetics
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210923T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210924T000000Z
+UID:http://hg.gatech.edu/node/650264#3
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nJoin us for Apologetics Thursdays at 7PM in the CC b
+ asement to learn more about how to defend the Catholic faith. We hope to a
+ ddress the more pressing topics of our times this semester\, all revolving
+  back to why Catholicism is the One\, True Religion.\n\nClasses will take 
+ place every other week this semester\; feel free to bring your dinners and
+  get comfy!\n\nLinks:\n[0]  http://hg.gatech.edu/node/650264#3\n[1]  https
+ ://gatech.campuslabs.com/engage/organization/cso
+LOCATION:Catholic Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Traveling While Black
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210924T040000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210925T035900Z
@@ -9513,19 +9815,24 @@ SUMMARY:Data Science for Scientists: College of Sciences Data Science Semi
  nar
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210924T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210924T210000Z
-UID:http://hg.gatech.edu/node/649878#4
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: draft\n\nA seminar course for graduate st
- udents and postdoctoral scholars interested in learning the different type
- s of methodological and applied research that is going on in the College o
- f Sciences using data sciences (including machine learning\, AI\, network 
- sciences\, dynamics\, probability and stats\, etc.) No prerequisites requi
- red.\n\nRepeats every Friday through Nov. 19\, 2021. A list of instructors
-  for each Friday's seminar\, along with more information\, is available he
- re [1].\n\nLinks:\n[0]  http://hg.gatech.edu/node/649878#4\n[1]  http://ww
- w.cns.gatech.edu/dsseminar.html\n[2]  https://ce.gatech.edu/about/faciliti
- es#est
-LOCATION:311 Ferst Dr NW\, Atlanta\, GA 30332
+UID:http://hg.gatech.edu/node/650308#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nA seminar course for graduate students and postdoctoral scholars interes
+ ted in learning the different types of methodological and applied research
+  that is going on in the College of Sciences using data sciences (includin
+ g machine learning\, AI\, network sciences\, dynamics\, probability and st
+ ats\, etc.) No prerequisites required.\n\nRepeats every Friday through Nov
+ . 19\, 2021. A list of instructors for each Friday's seminar\, along with 
+ more information\, is available here [3].\n\nLinks:\n[0]  http://hg.gatech
+ .edu/node/650308#0\n[1]  http://hg.gatech.edu/node/649878#4\n[2]  http://h
+ g.gatech.edu/node/650300#0\n[3]  http://www.cns.gatech.edu/dsseminar.html\
+ n[4]  https://ce.gatech.edu/about/facilities#est\n[5]  https://teams.micro
+ soft.com/l/meetup-join/19%3ameeting_NzczYzk5Y2MtYTJjNS00OTY5LWE4YzgtMzdmMm
+ IzNGM5OGM3%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a
+ -6d7f32faa083%22%2c%22Oid%22%3a%2280f253d9-02ae-418f-9c23-4f234fa2f6d8%22%
+ 7d
+LOCATION:ES&T L1205 and online via MS Teams
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leader Summit 2021
@@ -9626,6 +9933,21 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Richards Gallery at the Ferst Center for the Arts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Apologetics
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210930T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211001T000000Z
+UID:http://hg.gatech.edu/node/650264#4
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nJoin us for Apologetics Thursdays at 7PM in the CC b
+ asement to learn more about how to defend the Catholic faith. We hope to a
+ ddress the more pressing topics of our times this semester\, all revolving
+  back to why Catholicism is the One\, True Religion.\n\nClasses will take 
+ place every other week this semester\; feel free to bring your dinners and
+  get comfy!\n\nLinks:\n[0]  http://hg.gatech.edu/node/650264#4\n[1]  https
+ ://gatech.campuslabs.com/engage/organization/cso
+LOCATION:Catholic Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Traveling While Black
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211001T040000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211002T035900Z
@@ -9656,19 +9978,23 @@ SUMMARY:Data Science for Scientists: College of Sciences Data Science Semi
  nar
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211001T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211001T210000Z
-UID:http://hg.gatech.edu/node/649878#5
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: draft\n\nA seminar course for graduate st
- udents and postdoctoral scholars interested in learning the different type
- s of methodological and applied research that is going on in the College o
- f Sciences using data sciences (including machine learning\, AI\, network 
- sciences\, dynamics\, probability and stats\, etc.) No prerequisites requi
- red.\n\nRepeats every Friday through Nov. 19\, 2021. A list of instructors
-  for each Friday's seminar\, along with more information\, is available he
- re [1].\n\nLinks:\n[0]  http://hg.gatech.edu/node/649878#5\n[1]  http://ww
- w.cns.gatech.edu/dsseminar.html\n[2]  https://ce.gatech.edu/about/faciliti
- es#est
-LOCATION:311 Ferst Dr NW\, Atlanta\, GA 30332
+UID:http://hg.gatech.edu/node/650301#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nA seminar course for graduate students and postdoctoral scholars interes
+ ted in learning the different types of methodological and applied research
+  that is going on in the College of Sciences using data sciences (includin
+ g machine learning\, AI\, network sciences\, dynamics\, probability and st
+ ats\, etc.) No prerequisites required.\n\nRepeats every Friday through Nov
+ . 19\, 2021. A list of instructors for each Friday's seminar\, along with 
+ more information\, is available here [2].\n\nLinks:\n[0]  http://hg.gatech
+ .edu/node/650301#0\n[1]  http://hg.gatech.edu/node/649878#5\n[2]  http://w
+ ww.cns.gatech.edu/dsseminar.html\n[3]  https://ce.gatech.edu/about/facilit
+ ies#est\n[4]  https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzczY
+ zk5Y2MtYTJjNS00OTY5LWE4YzgtMzdmMmIzNGM5OGM3%40thread.v2/0?context=%7b%22Ti
+ d%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2280f253d
+ 9-02ae-418f-9c23-4f234fa2f6d8%22%7d
+LOCATION:ES&T L1205 and online via MS Teams
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Traveling While Black
@@ -9824,19 +10150,24 @@ SUMMARY:Data Science for Scientists: College of Sciences Data Science Semi
  nar
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211008T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211008T210000Z
-UID:http://hg.gatech.edu/node/649878#6
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: draft\n\nA seminar course for graduate st
- udents and postdoctoral scholars interested in learning the different type
- s of methodological and applied research that is going on in the College o
- f Sciences using data sciences (including machine learning\, AI\, network 
- sciences\, dynamics\, probability and stats\, etc.) No prerequisites requi
- red.\n\nRepeats every Friday through Nov. 19\, 2021. A list of instructors
-  for each Friday's seminar\, along with more information\, is available he
- re [1].\n\nLinks:\n[0]  http://hg.gatech.edu/node/649878#6\n[1]  http://ww
- w.cns.gatech.edu/dsseminar.html\n[2]  https://ce.gatech.edu/about/faciliti
- es#est
-LOCATION:311 Ferst Dr NW\, Atlanta\, GA 30332
+UID:http://hg.gatech.edu/node/650310#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nA seminar course for graduate students and postdoctoral scholars interes
+ ted in learning the different types of methodological and applied research
+  that is going on in the College of Sciences using data sciences (includin
+ g machine learning\, AI\, network sciences\, dynamics\, probability and st
+ ats\, etc.) No prerequisites required.\n\nRepeats every Friday through Nov
+ . 19\, 2021. A list of instructors for each Friday's seminar\, along with 
+ more information\, is available here [3].\n\nLinks:\n[0]  http://hg.gatech
+ .edu/node/650310#0\n[1]  http://hg.gatech.edu/node/649878#6\n[2]  http://h
+ g.gatech.edu/node/650302#0\n[3]  http://www.cns.gatech.edu/dsseminar.html\
+ n[4]  https://ce.gatech.edu/about/facilities#est\n[5]  https://teams.micro
+ soft.com/l/meetup-join/19%3ameeting_NzczYzk5Y2MtYTJjNS00OTY5LWE4YzgtMzdmMm
+ IzNGM5OGM3%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a
+ -6d7f32faa083%22%2c%22Oid%22%3a%2280f253d9-02ae-418f-9c23-4f234fa2f6d8%22%
+ 7d
+LOCATION:ES&T L1205 and online via MS Teams
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nano@Tech Fall 2022 Series | Session 4
@@ -9923,6 +10254,21 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Apologetics
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211014T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211015T000000Z
+UID:http://hg.gatech.edu/node/650264#5
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nJoin us for Apologetics Thursdays at 7PM in the CC b
+ asement to learn more about how to defend the Catholic faith. We hope to a
+ ddress the more pressing topics of our times this semester\, all revolving
+  back to why Catholicism is the One\, True Religion.\n\nClasses will take 
+ place every other week this semester\; feel free to bring your dinners and
+  get comfy!\n\nLinks:\n[0]  http://hg.gatech.edu/node/650264#5\n[1]  https
+ ://gatech.campuslabs.com/engage/organization/cso
+LOCATION:Catholic Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Traveling While Black
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211015T040000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211016T035900Z
@@ -9953,19 +10299,23 @@ SUMMARY:Data Science for Scientists: College of Sciences Data Science Semi
  nar
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211015T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211015T210000Z
-UID:http://hg.gatech.edu/node/649878#7
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: draft\n\nA seminar course for graduate st
- udents and postdoctoral scholars interested in learning the different type
- s of methodological and applied research that is going on in the College o
- f Sciences using data sciences (including machine learning\, AI\, network 
- sciences\, dynamics\, probability and stats\, etc.) No prerequisites requi
- red.\n\nRepeats every Friday through Nov. 19\, 2021. A list of instructors
-  for each Friday's seminar\, along with more information\, is available he
- re [1].\n\nLinks:\n[0]  http://hg.gatech.edu/node/649878#7\n[1]  http://ww
- w.cns.gatech.edu/dsseminar.html\n[2]  https://ce.gatech.edu/about/faciliti
- es#est
-LOCATION:311 Ferst Dr NW\, Atlanta\, GA 30332
+UID:http://hg.gatech.edu/node/650303#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nA seminar course for graduate students and postdoctoral scholars interes
+ ted in learning the different types of methodological and applied research
+  that is going on in the College of Sciences using data sciences (includin
+ g machine learning\, AI\, network sciences\, dynamics\, probability and st
+ ats\, etc.) No prerequisites required.\n\nRepeats every Friday through Nov
+ . 19\, 2021. A list of instructors for each Friday's seminar\, along with 
+ more information\, is available here [2].\n\nLinks:\n[0]  http://hg.gatech
+ .edu/node/650303#0\n[1]  http://hg.gatech.edu/node/649878#7\n[2]  http://w
+ ww.cns.gatech.edu/dsseminar.html\n[3]  https://ce.gatech.edu/about/facilit
+ ies#est\n[4]  https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzczY
+ zk5Y2MtYTJjNS00OTY5LWE4YzgtMzdmMmIzNGM5OGM3%40thread.v2/0?context=%7b%22Ti
+ d%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2280f253d
+ 9-02ae-418f-9c23-4f234fa2f6d8%22%7d
+LOCATION:ES&T L1205 and online via MS Teams
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Traveling While Black
@@ -10018,6 +10368,21 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#2
  9\n[1]  https://arts.gatech.edu/twb
 LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Apologetics
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211021T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211022T000000Z
+UID:http://hg.gatech.edu/node/650264#6
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nJoin us for Apologetics Thursdays at 7PM in the CC b
+ asement to learn more about how to defend the Catholic faith. We hope to a
+ ddress the more pressing topics of our times this semester\, all revolving
+  back to why Catholicism is the One\, True Religion.\n\nClasses will take 
+ place every other week this semester\; feel free to bring your dinners and
+  get comfy!\n\nLinks:\n[0]  http://hg.gatech.edu/node/650264#6\n[1]  https
+ ://gatech.campuslabs.com/engage/organization/cso
+LOCATION:Catholic Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Traveling While Black
@@ -10130,6 +10495,21 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Richards Gallery at the Ferst Center for the Arts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Apologetics
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211028T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211029T000000Z
+UID:http://hg.gatech.edu/node/650264#7
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nJoin us for Apologetics Thursdays at 7PM in the CC b
+ asement to learn more about how to defend the Catholic faith. We hope to a
+ ddress the more pressing topics of our times this semester\, all revolving
+  back to why Catholicism is the One\, True Religion.\n\nClasses will take 
+ place every other week this semester\; feel free to bring your dinners and
+  get comfy!\n\nLinks:\n[0]  http://hg.gatech.edu/node/650264#7\n[1]  https
+ ://gatech.campuslabs.com/engage/organization/cso
+LOCATION:Catholic Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Traveling While Black
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211029T040000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211030T035900Z
@@ -10160,19 +10540,23 @@ SUMMARY:Data Science for Scientists: College of Sciences Data Science Semi
  nar
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211029T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211029T210000Z
-UID:http://hg.gatech.edu/node/649878#9
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: draft\n\nA seminar course for graduate st
- udents and postdoctoral scholars interested in learning the different type
- s of methodological and applied research that is going on in the College o
- f Sciences using data sciences (including machine learning\, AI\, network 
- sciences\, dynamics\, probability and stats\, etc.) No prerequisites requi
- red.\n\nRepeats every Friday through Nov. 19\, 2021. A list of instructors
-  for each Friday's seminar\, along with more information\, is available he
- re [1].\n\nLinks:\n[0]  http://hg.gatech.edu/node/649878#9\n[1]  http://ww
- w.cns.gatech.edu/dsseminar.html\n[2]  https://ce.gatech.edu/about/faciliti
- es#est
-LOCATION:311 Ferst Dr NW\, Atlanta\, GA 30332
+UID:http://hg.gatech.edu/node/650305#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nA seminar course for graduate students and postdoctoral scholars interes
+ ted in learning the different types of methodological and applied research
+  that is going on in the College of Sciences using data sciences (includin
+ g machine learning\, AI\, network sciences\, dynamics\, probability and st
+ ats\, etc.) No prerequisites required.\n\nRepeats every Friday through Nov
+ . 19\, 2021. A list of instructors for each Friday's seminar\, along with 
+ more information\, is available here [2].\n\nLinks:\n[0]  http://hg.gatech
+ .edu/node/650305#0\n[1]  http://hg.gatech.edu/node/649878#9\n[2]  http://w
+ ww.cns.gatech.edu/dsseminar.html\n[3]  https://ce.gatech.edu/about/facilit
+ ies#est\n[4]  https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzczY
+ zk5Y2MtYTJjNS00OTY5LWE4YzgtMzdmMmIzNGM5OGM3%40thread.v2/0?context=%7b%22Ti
+ d%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2280f253d
+ 9-02ae-418f-9c23-4f234fa2f6d8%22%7d
+LOCATION:ES&T L1205 and online via MS Teams
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Traveling While Black
@@ -10246,6 +10630,21 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  h.edu/node/649229#0\n[1]  https://www.scheller.gatech.edu/why-scheller/vis
  it-campus/directions-parking.html
 LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Apologetics
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211104T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211105T000000Z
+UID:http://hg.gatech.edu/node/650264#8
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nJoin us for Apologetics Thursdays at 7PM in the CC b
+ asement to learn more about how to defend the Catholic faith. We hope to a
+ ddress the more pressing topics of our times this semester\, all revolving
+  back to why Catholicism is the One\, True Religion.\n\nClasses will take 
+ place every other week this semester\; feel free to bring your dinners and
+  get comfy!\n\nLinks:\n[0]  http://hg.gatech.edu/node/650264#8\n[1]  https
+ ://gatech.campuslabs.com/engage/organization/cso
+LOCATION:Catholic Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Traveling While Black
@@ -10343,6 +10742,21 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#3
  8\n[1]  https://arts.gatech.edu/twb
 LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Apologetics
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211112T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211112T010000Z
+UID:http://hg.gatech.edu/node/650264#9
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nJoin us for Apologetics Thursdays at 7PM in the CC b
+ asement to learn more about how to defend the Catholic faith. We hope to a
+ ddress the more pressing topics of our times this semester\, all revolving
+  back to why Catholicism is the One\, True Religion.\n\nClasses will take 
+ place every other week this semester\; feel free to bring your dinners and
+  get comfy!\n\nLinks:\n[0]  http://hg.gatech.edu/node/650264#9\n[1]  https
+ ://gatech.campuslabs.com/engage/organization/cso
+LOCATION:Catholic Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Traveling While Black
