@@ -2,17 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Tuesday Night Worship
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200901T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200902T010000Z
-UID:https://gatech.campuslabs.com/engage/event/6158597
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us Tu
- esday night for dinner and Worship! Follow our social media or join or sla
- ck channel for up-to-date information (online vs. in-person\, speakers\, e
- tc.).\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6158597
-LOCATION:Tech Wesley
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BPU Meeting 
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200903T231500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200904T013000Z
@@ -9021,6 +9010,17 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Midtown II\, Exhibition Hall
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:General Meeting with Clark Construction 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210907T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210907T160000Z
+UID:https://gatech.campuslabs.com/engage/event/7302624
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nLunch meeting for Clark
+  Construction to present their company to our members and discuss possible
+  career opportunities.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engag
+ e/event/7302624
+LOCATION:Mason 1133
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Service Fair
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210908T040000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210908T050000Z
@@ -9331,6 +9331,29 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:ES&T L1205 and online via MS Teams
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Community Garden Workday
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210911T130000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210911T150000Z
+UID:http://hg.gatech.edu/node/650419#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nJoin us on Saturday in the garden
+ ! We will be taking care of the beds by weeding\, turning compost\, and pl
+ anting seeds. You must RSVP at the following links: click here [2] for the
+  first hour or here [3] for the second hour. Masks are strongly encouraged
+  for individuals that have not been vaccinated and hand sanitizer will be 
+ provided. Please review garden health guidelines [4] before attending.\n\n
+ You may want to bring a bag so you can take home produce and herbs with yo
+ u!\n\nThe Community Garden is located on the IC lawn adjacent to the Exhib
+ ition Hall.\n\nLinks:\n[0]  http://hg.gatech.edu/node/650419#0\n[1]  https
+ ://gatech.campuslabs.com/engage/event/7302627\n[2]  https://docs.google.co
+ m/forms/d/e/1FAIpQLScXZ_JduTcU_0lB97ZthQyey_WxGquoRxELHY74CObP0Ka8rg/viewf
+ orm?usp=sf_link\n[3]  https://docs.google.com/forms/d/e/1FAIpQLScNyVU9Qa-A
+ A_wpunLb73YRtX5CD3nD4kPAckUzgMTOliJZBA/viewform?usp=sf_link\n[4]  https://
+ docs.google.com/document/d/1B19bvV1N73QFvuwN3UnBfZ913ij5IXtbz5cb2DzmNkU/ed
+ it?usp=sharing\n[5]  https://sos.gtorg.gatech.edu/
+LOCATION:Community Garden\, 759 Ferst Drive NW
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Graduate Student Tailgate
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210911T140000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210911T153000Z
@@ -9405,6 +9428,17 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  [0]  http://hg.gatech.edu/node/648422#0\n[1]  https://ien.gatech.edu/
 LOCATION:Georgia Institute of Technology | Marcus Nanotechnology Building 
  1116-1117 | 345 Ferst Drive Atlanta | GA 30332
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ice Cream Social
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210914T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210914T223000Z
+UID:https://gatech.campuslabs.com/engage/event/7315056
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome meet the current m
+ embers of the HSOC Society and learn more about the organization as we hos
+ t our first in-person event in a year and a half! Free icecream will be pr
+ ovided.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7315056
+LOCATION:Old Civil Engineering Building Patio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Traveling While Black
