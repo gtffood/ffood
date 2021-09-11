@@ -2,35 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Tuesday Night Worship
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200908T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200909T010000Z
-UID:https://gatech.campuslabs.com/engage/event/6158598
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us Tu
- esday night for dinner and Worship! Follow our social media or join or sla
- ck channel for up-to-date information (online vs. in-person\, speakers\, e
- tc.).\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6158598
-LOCATION:Tech Wesley
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LGBTQIA Student Welcome Reception
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200909T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200909T233000Z
-UID:http://hg.gatech.edu/node/638360#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
- aduate students\nExtras: Free food\nStatus: published\n\nThis is an opport
- unity to get to know your queer peers while enjoying free food and drinks.
-  Representatives from the LGBTQIA Resource Center\, [1] Health Initiatives
- \, [2] Counseling Center\, [3] Pride Alliance\, [4] Q Chats\, [5] and more
-  will give short 2-minute presentations about the resources\, support\, an
- d programs they offer.\n\n[6]\n\nLinks:\n[0]  http://hg.gatech.edu/node/63
- 8360#0\n[1]  http://lgbtqia.gatech.edu/\n[2]  http://healthpromotion.gatec
- h.edu/\n[3]  http://counseling.gatech.edu/\n[4]  http://pride.gatech.edu/\
- n[5]  http://lgbtqia.gatech.edu/content/49/q-chats\n[6]  https://lgbtqia.g
- atech.edu/lgbtqia-student-welcome-reception
-LOCATION:Register to receive link
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BPU Meeting 
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200910T231500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200911T013000Z
@@ -9057,7 +9028,7 @@ BEGIN:VEVENT
 SUMMARY:Bridge Club Open House
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210909T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210910T000000Z
-UID:http://hg.gatech.edu/node/650253#0
+UID:http://hg.gatech.edu/node/650616#0
 DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  nExtras: Free Food\nStatus: published\n\nIf you like to play card games\, 
  either for fun or competitively\, and would like to make new friends\, the
@@ -9067,9 +9038,10 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  sphere and everyone is welcome to join\, including beginners: we'll teach 
  you how to play and help you to improve your skills over time. Stop by to 
  say hi and play bridge with us!\n\nLinks:\n[0]  http://hg.gatech.edu/node/
- 650253#0\n[1]  https://gatech.campuslabs.com/engage/event/7203072\n[2]  ht
- tps://gatech.campuslabs.com/engage/organization/bridge-club
-LOCATION:Centennial Room\, Exhibition Hall
+ 650616#0\n[1]  http://hg.gatech.edu/node/650253#0\n[2]  https://gatech.cam
+ puslabs.com/engage/event/7203072\n[3]  https://gatech.campuslabs.com/engag
+ e/organization/bridge-club
+LOCATION:Buckhead Room\, Exhibition Hall
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Fast Action Party with The Humane League
@@ -9228,6 +9200,32 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:ES&T L1205 and online via MS Teams
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CSA Family Group Event
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210910T213000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210910T223000Z
+UID:http://hg.gatech.edu/node/650582#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nJoin us at the EcoCommons by Kendeda on Friday\, Sep
+ t 10 from 5:30 to 6:30 pm to kick off our new Family Group system! This wi
+ ll be a great way to meet members of our organization and maybe even find 
+ someone who will become part of your family group. We will have speed dati
+ ng questions\, fun games\, and snacks - We can't wait to see you all there
+ !\n\nLinks:\n[0]  http://hg.gatech.edu/node/650582#0\n[1]  https://gatech.
+ campuslabs.com/engage/organization/chinese-student-association
+LOCATION:EcoCommons
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Freshman Movie Night: Black Widow
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210911T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210911T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7354145
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFreshmen! Come watch Bl
+ ack Widow with us! We will have popcorn\, soda and candy! And another sent
+ ence with an exclamation point!\n\nLinks:\n[0]  https://gatech.campuslabs.
+ com/engage/event/7354145
+LOCATION:CCF
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Community Garden Workday
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210911T130000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210911T150000Z
@@ -9262,6 +9260,23 @@ DESCRIPTION:Intended audience: Graduate students\nExtras: Free food\nStatu
  free food and drinks\, and to get to know your fellow graduate students!\n
  \nLinks:\n[0]  http://hg.gatech.edu/node/649406#0
 LOCATION:Upper Level of Peters Parking Deck
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dungeons & Dragons Club Meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210911T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210911T230000Z
+UID:http://hg.gatech.edu/node/650619#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nAfter a long wait\, we would like
+  to announce that our first full club meeting will be this Saturday\, Sept
+ ember 11 at 6pm!! We will be hosting it at Exhibition Hall 2nd floor in th
+ e Home Park room. We’ll be talking about our plans for this semester and
+  member perks for DMs and players alike\, but also its an opportunity for 
+ you all to meet your next group. There will be free pizza\, so make sure t
+ o bring your friends!\n\nLinks:\n[0]  http://hg.gatech.edu/node/650619#0\n
+ [1]  https://gatech.campuslabs.com/engage/organization/pending-dungeons-dr
+ agons-club
+LOCATION:Home Park Room\, Second Floor\, Exhibition Hall
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CREATE-X Startup Spotlight
@@ -9379,24 +9394,37 @@ BEGIN:VEVENT
 SUMMARY:13th Annual Georgia Tech Diversity Symposium
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210915T120000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210915T180000Z
-UID:http://hg.gatech.edu/node/650359#0
+UID:http://hg.gatech.edu/node/650628#0
 DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\, Freebies\nStatus: published\n\nThe 13th annual G
- eorgia Tech Diversity Symposium\, The Globalization of Anti-Racism Activis
- m\, will take place Wednesday\, September 15\, 2021.\n\nThe event will ope
- n with a virtual keynote by Ibram X. Kendi\, historian and award-winning a
- uthor of How to Be An Antiracist. The event will also include panel discus
- sions with Tech faculty\, staff\, students\, and alumni on topics of local
- \, national\, and international anti-racism movements. The day will conclu
- de as we recognize this year's Diversity Champion Awards and Faces of Incl
- usive Excellence honorees.\n\nThe campus community is invited to attend vi
- rtually or in-person at the Global Learning Center (room 236). Registratio
- n is open at [1].\n\nThis event is sponsored by Institute Diversity\, Equi
- ty\, and Inclusion [2] and the 2021 Diversity Symposium Planning Committee
-  [3].\n\nLinks:\n[0]  http://hg.gatech.edu/node/650359#0\n[1]  https://gat
- ech.co1.qualtrics.com/jfe/form/SV_08TdWX65oweF7Rc\n[2]  http://diversity.g
- atech.edu\n[3]  https://diversity.gatech.edu/2021-diversity-symposium-plan
- ning-committee
+ ents\nExtras: Free food\, Freebies\nStatus: published\n\n13th Annual Georg
+ ia Tech Diversity Symposium\nThe Globalization of Anti-Racism Activism\nWe
+ dnesday\, September 15\n8 a.m. - 2 p.m\n\nHosted by Institute Diversity\, 
+ Equity\, and Inclusion\, and 2021 Diversity Symposium Planning Committee\n
+ \nThe 2021 Georgia Tech Diversity Symposium will feature Ibram X. Kendi\, 
+ historian and award-winning author of How to Be An Antiracist. The event w
+ ill also include panel discussions with Tech community members on the topi
+ cs of local\, national\, and international anti-racism movements.\n\nGeorg
+ ia Tech President Angel Cabrera will deliver opening remarks. The day will
+  conclude with the recognition of this year's Diversity Champion Awards an
+ d Faces of Inclusive Excellence honorees.\n\nThough in-person attendance r
+ egistration is now full\, registration to attend the event virtually is st
+ ill open HERE [2].\n\nThe 13th annual Georgia Tech Diversity Symposium\, T
+ he Globalization of Anti-Racism Activism\, will take place Wednesday\, Sep
+ tember 15\, 2021.\n\nThe event will open with a virtual keynote by Ibram X
+ . Kendi\, historian and award-winning author of How to Be An Antiracist. T
+ he event will also include panel discussions with Tech faculty\, staff\, s
+ tudents\, and alumni on topics of local\, national\, and international ant
+ i-racism movements. The day will conclude as we recognize this year's Dive
+ rsity Champion Awards and Faces of Inclusive Excellence honorees.\n\nThe c
+ ampus community is invited to attend virtually or in-person at the Global 
+ Learning Center (room 236). Registration is open at [2].\n\nThis event is 
+ sponsored by Institute Diversity\, Equity\, and Inclusion [3] and the 2021
+  Diversity Symposium Planning Committee [4].\n\nLinks:\n[0]  http://hg.gat
+ ech.edu/node/650628#0\n[1]  http://hg.gatech.edu/node/650359#0\n[2]  https
+ ://gatech.co1.qualtrics.com/jfe/form/SV_08TdWX65oweF7Rc\n[3]  http://diver
+ sity.gatech.edu\n[4]  https://diversity.gatech.edu/2021-diversity-symposiu
+ m-planning-committee\n[5]  https://diversity.gatech.edu/13th-annual-georgi
+ a-tech-diversity-symposium
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
@@ -9441,6 +9469,21 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  67\n[4]  https://ggibsongt.wixsite.com/gibsongatech
 LOCATION:Engineered Biosystems Building (EBB)\, CHOA Seminar Room\, 950 At
  lantic Drive NW\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2022 InVenture Prize Kickoff
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210915T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210915T230000Z
+UID:http://hg.gatech.edu/node/650591#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\nStatus: published\n\nFind out what the InVenture 
+ Prize is all about! Network and hear from past participants of this Emmy A
+ ward-winning interdisciplinary innovation competition. Join us at 6 pm on 
+ Wed.\, Sept 15 in CULC 152.\n\nRegister for this in-person event at [1]\n\
+ nLinks:\n[0]  http://hg.gatech.edu/node/650591#0\n[1]  http://bit.ly/inven
+ turprizekickoff\n[2]  https://gatech.campuslabs.com/engage/event/7333264\n
+ [3]  https://inventureprize.gatech.edu
+LOCATION:CULC 152
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Traveling While Black
@@ -9649,6 +9692,60 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Richards Gallery at the Ferst Center for the Arts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PhD Defense by Joy Putney
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210922T171500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210922T190000Z
+UID:http://hg.gatech.edu/node/650655#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nStatus: published\n\nIn partial fulfillment of t
+ he requirements for the degree of\n\nDoctor of Philosophy in Quantitative 
+ Biosciences\n\nin the School of Biological Sciences\n\nJoy Putney\n\nDefen
+ ds her thesis:\nTEMPORAL ENCODING\, PRECISION\, AND COORDINATION IN A COMP
+ REHENSIVE\, SPIKE-RESOLVED MOTOR PROGRAM\n\nWednesday\, September 22\, 202
+ 1\n1:15pm Eastern Time\n\nHowey N201/202 and via BlueJeans: [1]\nOpen to t
+ he Community\n\nAdvisor:\n\nDr. Simon Sponberg\n\nSchool of Physics & Scho
+ ol of Biological Sciences\n\nGeorgia Institute of Technology\n\nCommittee 
+ Members:\nDr. Young-Hui Chang\; School of Biological Sciences\, Georgia Te
+ ch\n\nDr. Hannah Choi\; School of Mathematics\, Georgia Tech\nDr. Ilya Nem
+ enman\; Department of Physics\, Emory University\nDr. Garrett Stanley\; De
+ partment of Biomedical Engineering\, Georgia Tech & Emory University\n\nAb
+ stract:\n\nAnimals must execute robust\, agile movement in a variety of bi
+ omechanical and environmental contexts. The nervous system must encode inf
+ ormation for movement across multiple muscles in the "all-or-none" message
+ s of action potentials. Sequences of action potentials\, or spikes\, can c
+ arry information in the number of spikes and their timing. Spike timing co
+ des are critical in many sensory systems\, but there is now growing eviden
+ ce that millisecond-scale changes in timing also carry information in moto
+ r brain regions\, descending decision-making circuits\, and individual mot
+ or units. However\, a thorough investigation of the importance of spike ti
+ ming at the millisecond-scale for encoding information\, coordinating musc
+ les\, and causally changing motor behavior would require recording a compr
+ ehensive\, spike-resolved motor program across a complete set of muscles t
+ hat actuate a behavior.\n\nThis work leverages the comprehensive\, spike-r
+ esolved motor program of the hawk moth to demonstrate that the currency of
+  motor control is millisecond-scale precise spike timings. We show that ac
+ ross the ten muscles that control the wings during flight\, spike timing e
+ ncodes more information about yaw torque than spike rate\, and that spike 
+ timing encodes all coordinated information between pairs of muscles\, desp
+ ite there being sufficient bandwidth to encode the information in spike ra
+ te. We introduce a method to assess the necessary spike timing precision t
+ o encode information about behavior. In the comprehensive motor program of
+  the hawk moth\, the information encoded in spikes is precise to the milli
+ second or sub-millisecond scale\, losing information when noise is added t
+ o spikes that exceeds several milliseconds. We demonstrate through classif
+ ication that the motor program we record is indeed comprehensive\, capable
+  of near perfect classification of six types of behavior elicited in respo
+ nse to drifting visual stimuli as long as millisecond-scale information ab
+ out spikes is available. Additionally\, we demonstrate consistency in how 
+ muscles are coordinated across different types of behavior\, though functi
+ onally different spiking activity occurs. Finally\, we investigate specifi
+ c precise spike timing differences observed in the six behavior types to d
+ emonstrate causality of millisecond-scale spike timing for behavior.\n\nLi
+ nks:\n[0]  http://hg.gatech.edu/node/650655#0\n[1]  https://bluejeans.com/
+ 373892786/6839
+LOCATION:Howey N201/202
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Postdoc Pop-in for National Postdoctoral Appreciation Week
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210922T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210922T210000Z
@@ -9716,6 +9813,51 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  http://hg.gatech.edu/node/650225#0\n[1]  https://www.eventbrite.com/e/1687
  67168143\n[2]  https://primetime.bluejeans.com/a2m/live-event/vjqerfar
 LOCATION:ONLINE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PhD Defense by Avani Gupta
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210923T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210923T190000Z
+UID:http://hg.gatech.edu/node/650669#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\nStatus: published\n\nAvani Gupta\n[Advisor: Prof. Lakshmi Sanka
+ r]\n\nwill defend a doctoral thesis entitled\n\nApplication of an Extended
+  Messinger Model for Ice Accretion on Complex Geometries\n\nOn\n\nThursday
+ \, September 23 at 1 PM\n\nMontgomery Knight 317\n\nhttps://bluejeans.com/
+ 568440634/5222\n\nAbstract\nIce accretion can significantly degrade the pe
+ rformance\, stability\, availability\, and affordability of an airborne ve
+ hicle. It is imperative that this phenomenon be modeled accurately. While 
+ ice accretion studies have been performed on airplane wings\, propellers\,
+  and helicopter blades\, there are very few attempts to model the process 
+ on more complex geometries such as fuselages. In this study\, an existing 
+ in-house Extended Messinger methodology is generalized for complex geometr
+ ies by modeling the flow field and water droplet transport on unstructured
+  grids\, and carrying out the ice accretion calculations along surface str
+ eamlines.\n\nA general framework has been developed\, allowing the use of 
+ two-dimensional and three-dimensional\, structured\, and unstructured\, pu
+ blic domain and commercial CFD analyses. The methodology is primarily spil
+ t into three steps: the continuum flow field analysis\, the dispersed wate
+ r phase computations\, and the ice accretion module. In the present study\
+ , in-house methodologies as well as commercial solvers such as STAR-CCM+ a
+ nd ANSYS Fluent have been used for the flow field and droplet dispersed ph
+ ase computations. The in-house methodologies for the dispersed water dropl
+ et transport are done using an Eulerian approach\, with a one-way interact
+ ion between the air flow and the dispersed phase via the drag force exerte
+ d on the droplets by the air flow. The ice accretion is carried out along 
+ surface streamlines\, or optionally along two-dimensional section cuts\, u
+ sing an in-house icing methodology based on the Extended-Messinger model.\
+ n\nThe predictions from the present approach are compared to available exp
+ erimental data\, and predictions using other solvers such as LEWICE and ST
+ AR-CCM+. Several configurations with varying levels of complexity are mode
+ led. These include 2-D airfoils\, swept wings\, and helicopter fuselage co
+ nfigurations. Time and space sensitivity studies have been done.\n\nCommit
+ tee\n\n- Prof. Lakshmi Sankar – School of Aerospace Engineering (advisor
+ )\n- Prof. Jechiel Jagoda – School of Aerospace Engineering\n- Prof. JVR
+  Prasad – School of Aerospace Engineering\n- Prof. Stephen Ruffin – Sc
+ hool of Aerospace Engineering\n- Richard E. Kreeger\, NASA Glenn Research 
+ Center\, Cleveland\, OH\n\nLinks:\n[0]  http://hg.gatech.edu/node/650669#0
+ \n[1]  https://bluejeans.com/568440634/5222
+LOCATION:Montgomery Knight 317
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Apologetics
@@ -10137,6 +10279,38 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#2
  4\n[1]  https://arts.gatech.edu/twb
 LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scheller Lunchtime Live: The Rise of Social Commerce: What it Mean
+ s for Consumers & E-tailers
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211008T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211008T163000Z
+UID:http://hg.gatech.edu/node/650603#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nScheller Lunchtim
+ e Live is a livestream series hosted by the Georgia Tech Scheller College 
+ of Business featuring faculty\, student\, and alumni speakers discussing r
+ elevant topics for the tech-driven\, digital age.\n\nIn this talk\, Profes
+ sor Michael Buchanan will provide a brief history of social interactions a
+ nd key consumer trends on social media. He’ll explain how brands are cap
+ italizing on social commerce and offer his predictions on what it means fo
+ r consumers and e-tailers.\n\nJust hit "Attend event" on the LinkedIn even
+ t and refresh the event page or the Georgia Tech Scheller College of Busin
+ ess page on Friday\, October 8 at 12:00 p.m. ET to access the session. Ple
+ ase note\, you must have a LinkedIn profile in order to register and view 
+ the livestream.\n\nAbout Michael Buchanan\n\nMichael Buchanan is a Senior 
+ Lecturer at the Scheller College of Business at Georgia Tech. He teaches u
+ ndergraduate and MBA courses in marketing with a focus on digital/online m
+ arketing channels.\n\nIn addition to his teaching role at Georgia Tech\, h
+ e actively consults in the field of digital marketing and technology with 
+ an emphasis on digital strategy\, lead generation\, customer retention\, s
+ ocial media marketing\, digital brand creation\, integrated marketing comm
+ unications planning\, buyer path analysis\, and team leadership. His clien
+ ts include Cox Communications\, Coca-Cola\, Aflac\, Spanx\, Budget Rent-A-
+ Car\, Travelport\, Darden Restaurants\, Carter's\, and McKesson.\n\nLinks:
+ \n[0]  http://hg.gatech.edu/node/650603#0\n[1]  https://www.linkedin.com/e
+ vents/6841462838578438144/
+LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tapping Circle for Stress and Calm - 2nd Fridays 3:30-
