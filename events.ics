@@ -2,17 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Sunday Morning Worship
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200913T143000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200913T153000Z
-UID:https://gatech.campuslabs.com/engage/event/6158611
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Sunday Morni
- ng to Worship together! Follow our social media or join our slack channel 
- for up-to-date information (online vs. in-person\, speakers\, etc.).\n\nLi
- nks:\n[0]  https://gatech.campuslabs.com/engage/event/6158611
-LOCATION:Tech Wesley
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Entrepreneurship in Advanced Manufacturing: From Lab to Market
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200914T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200914T170000Z
@@ -9190,6 +9179,17 @@ DESCRIPTION:Intended audience: Graduate students\, Public\, Undergraduate
 LOCATION:Klaus (Room 2448)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:General Meeting with Enercon
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210914T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210914T160000Z
+UID:https://gatech.campuslabs.com/engage/event/7360622
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nLunch meeting for Enerc
+ on to present their company to our members and discuss possible career opp
+ ortunities.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/736
+ 0622
+LOCATION:Mason 1133
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Leadership for Social Good Study Abroad 2021 Info Session
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210914T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210914T160000Z
@@ -9254,6 +9254,19 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  campuslabs.com/engage/organization/westminsterchristianfellowship
 LOCATION:Westminister Christian Fellowship\, 724 Techwood Dr NW\, Atlanta\
  , 30313
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Chat with Full Circle Farm Sanctuary 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210914T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210915T000000Z
+UID:https://gatech.campuslabs.com/engage/event/7360624
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nWe will be hosting gues
+ t speaker(s) from Full Circle Farm Sanctuary and providing free vegan cinn
+ amon rolls from Cinnaholic Edgewood.\n\nGuests who are experiencing sympto
+ ms of Covid-19 should not attend. We strongly encourage that you wear a ma
+ sk when not eating (especially if indoors). We will be providing hand sani
+ tizer.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7360624
+LOCATION:Mason 2117
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Traveling While Black
@@ -9751,6 +9764,22 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Montgomery Knight 317
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PhD2Consulting Club Fall Kick-off
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210923T213000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210923T223000Z
+UID:http://hg.gatech.edu/node/650687#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nIn this event\, we will introduce consulting as a ca
+ reer and the PhD2Consulting Club\, followed by a Q&A panel and networking 
+ with current consultants from MBB and SK&P. Please come curious with any q
+ uestions you may have about consulting in general\, the transition from re
+ search to consulting\, and how to successfully step into the shoes of a co
+ nsultant from a graduate student. There will be pizza and drinks! Please R
+ SVP here: [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/650687#0\n[1]  htt
+ ps://forms.gle/PiPAJHt9DQ8KD1158
+LOCATION:Room 100\, Scheller College of Business
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Apologetics
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210923T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210924T000000Z
@@ -9859,6 +9888,20 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  -6d7f32faa083%22%2c%22Oid%22%3a%2280f253d9-02ae-418f-9c23-4f234fa2f6d8%22%
  7d
 LOCATION:ES&T L1205 and online via MS Teams
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SAW In-Person Info Session
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210924T200000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210924T210000Z
+UID:https://gatech.campuslabs.com/engage/event/7360588
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome join the SAW Execu
+ tive board as we explain how you can participate as a researcher or artist
+  to generate stunning pieces of art! We will also explain other events suc
+ h as our Spring Showcase\, our role in the Atlanta Science Festival\, and 
+ social events and workshops that we will hold. We will be snacking on home
+ made Dutch butter cookies!\n\nLinks:\n[0]  https://gatech.campuslabs.com/e
+ ngage/event/7360588
+LOCATION:Klaus 2447
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jordan Peterson Lecture Series Event
