@@ -2,63 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Entrepreneurship in Advanced Manufacturing: From Lab to Market
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200914T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200914T170000Z
-UID:http://hg.gatech.edu/node/637837#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nLunch and Learn Speaker Series Fall 2020 Speake
- r:\nChristopher Oberste\nFounder and CEO\nWeav3D\, Inc.\n\n> Additional de
- tails (talk abstract) forthcoming....\n\nBio:\nChristopher Oberste holds a
-  Ph.D. in Materials Science and Engineering from Georgia Tech and a Bachel
- or of Polymer and Fiber Engineering from Auburn University. Christopher sp
- ent 1.5 years as a process engineer at GKN Aerospace North America as part
-  of the Auburn University co-op program\, gaining hands-on experience with
-  state-of-the art composite manufacturing techniques. As a result of his e
- xperiences\, Christopher chose to focus his Ph.D. thesis on developing nov
- el\, low-cost composite forming technologies\, including the WEAV3D compos
- ite forming machine. He is named as the lead inventor on one issued patent
-  and two patent applications related to his Ph.D. research. While completi
- ng his Ph.D.\, he participated in the Georgia Tech Technological Innovatio
- n: Generating Economic Results (TI:GER) program\, receiving a doctoral min
- or in technology commercialization. TI:GER involved working with a multidi
- sciplinary team of MBA and JD students to develop a commercialization plan
-  for the WEAV3D technology.\n\nLinks:\n[0]  http://hg.gatech.edu/node/6378
- 37#0
-LOCATION:Virtual Event - Details forthcoming
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:De-stress with Dr. Narin Hassan
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200915T203000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200915T213000Z
-UID:http://hg.gatech.edu/node/638832#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nDr. Narin Hassan will speak via B
- lue Jeans about de-stressing\, while sharing tips from her career as an ac
- ademic focusing on 19th-century culture and as a teacher of yoga.\n\nNarin
-  Hassan received her PhD in English from the University of Rochester in 20
- 03. Before joining the School of Literature\, Media\, and Communication fa
- culty at Georgia Tech\, she taught at James Madison University for two yea
- rs. Her research and teaching interests include Victorian literature and c
- ulture\, postcolonial and gender studies\; and the history of medicine. Mu
- ch of her work examines representations of the body and of medicine in nin
- eteenth-century literature and culture. Her book\, Diagnosing Empire: Wome
- n\, Medical Knowledge and Colonial Mobility (Ashgate\, 2011) traces the fi
- gure of the woman doctor in the context of Victorian colonial and scientif
- ic expansion. She has published work in journals including Women's Studies
-  Quarterly\, Nineteenth-Century Gender Studies\, Mosaic\, and Nineteenth-C
- entury Contexts as well as a number of book collections. She is currently 
- working on a book that examines gender\, yoga cultures\, and shifting conc
- eptions of the mind\, body\, and spirituality in relation to British colon
- ialism. She is also co-editing (with Jessica Howell) a special issue of th
- e journal Medical Humanities on "Global Health Humanitiies" and has co-edi
- ted (with Nicole Lobdell) a special issue of Nineteenth-Century Contexts o
- n the topic of "Mobilities." She currently serves as the Vice President of
-  INCS (Interdisciplinary Nineteenth-Century Studies).\n\nLinks:\n[0]  http
- ://hg.gatech.edu/node/638832#0
-LOCATION:Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tuesday Night Worship
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200915T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200916T010000Z
@@ -9416,6 +9359,37 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Richards Gallery at the Ferst Center for the Arts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Intro to Effective Altruism Talk + Fellowship Info Session
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210916T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210916T160000Z
+UID:http://hg.gatech.edu/node/650730#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nFirst meeting of the semester for Effective Altruism
+  at Georgia Tech! We'll have a presentation providing an overview of effec
+ tive altruism and our upcoming Effective Altruism Fellowship! Free food wi
+ ll be provided afterwards for us to eat together outdoors.\n\nEffective al
+ truism is an ongoing research field that aims to find the best ways to imp
+ rove the world\, through the use of evidence and careful reasoning. It’s
+  also a community of people who strive to take action on that basis\, and 
+ to do the most good we can. Here’s an article explaining this in much mo
+ re detail: Introduction to Effective Altruism [1]\n\nAt Effective Altruism
+  at Georgia Tech [2]\, we try to apply the principles of effective altruis
+ m to help interested students have as big of a social impact as they can w
+ ith their lives\; whether that’s pursuing a social impact career that ta
+ ckles a key pressing global problem\, or through donating to highly effect
+ ive charities. Learn more about Effective Altruism at Georgia Tech at [3]\
+ n\nIf attending in-person\, we expect each attendee to wear a face mask co
+ vering their nose and mouth while indoors. A face mask will be provided if
+  you do not have one. Please attend virtually if you have symptoms of COVI
+ D-19 such as fever or cough.\n\nLocation: Skiles 254 or BlueJeans [4]\n\nL
+ inks:\n[0]  http://hg.gatech.edu/node/650730#0\n[1]  https://eagatech.us5.
+ list-manage.com/track/click?u=f18ae258bbc66427be00683c7&id=68bceb856f&e=94
+ ae28d38b\n[2]  https://eagatech.us5.list-manage.com/track/click?u=f18ae258
+ bbc66427be00683c7&id=0a712a9a12&e=94ae28d38b\n[3]  https://eagatech.org/\n
+ [4]  https://bit.ly/EAGTIntro
+LOCATION:Room 254\, Skiles Building\, or Online
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Apologetics
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210916T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210917T000000Z
@@ -9429,6 +9403,25 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
   get comfy!\n\nLinks:\n[0]  http://hg.gatech.edu/node/650264#2\n[1]  https
  ://gatech.campuslabs.com/engage/organization/cso
 LOCATION:Catholic Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SHC Movie Night
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210916T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210917T020000Z
+UID:https://gatech.campuslabs.com/engage/event/7380269
+DESCRIPTION:Extras: Credit\, Free Food\, Free Stuff\nStatus: approved\n\nW
+ here: Clary Theater\n\nWhen: 7:00 PM\n\nSchedule: Bingo Boards from 7:00 -
+  7:30 PM\, Pre-Health Organization Promotional Videos and Guest Speaker fr
+ om 7:30 - 8:00 PM\, Movie at 8:00 PM\n\nWhat: Join us as we watch Contagio
+ n and learn more about other Pre-Health organizations on campus! We will h
+ ave social activities and the movie will start at around 8:00 PM! Addition
+ ally\, we will hear from a special guest speaker\, Dr. X\, an orthopedic s
+ urgeon for Georgia Tech and Emory Athletics! This event is worth 1 point f
+ or attending members and if you can come to help run the event from 6:30 -
+  7:30 PM\, you will earn an extra 0.5 points! If you are interested\, plea
+ se reach out to shcgatech@gmail.com!\n\nLinks:\n[0]  https://gatech.campus
+ labs.com/engage/event/7380269
+LOCATION:Clary Theatre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Traveling While Black
@@ -9518,6 +9511,29 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:ES&T L1205 and online via MS Teams
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Creating a Minimum Viable Product with Nakia Melecio
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210917T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210917T220000Z
+UID:https://gatech.campuslabs.com/engage/event/7379883
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis Friday\, Startup E
+ xchange is hosting an event with Nakia Melecio of ATDC and Create-X to tal
+ k about how to validate a business idea and build the first version of you
+ r product.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7379
+ 883
+LOCATION:Tech Square ATL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General Meeting with FTI Consulting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210921T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210921T160000Z
+UID:https://gatech.campuslabs.com/engage/event/7380190
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nLunch meeting for FTI C
+ onsulting to present their company to our members and discuss possible car
+ eer opportunities.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/ev
+ ent/7380190
+LOCATION:Mason 1133
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:IMat Distinguished Lecture in Materials | Machine Learning and Fir
  st-Principles Prediction of New Superhard Ternary & High-Entropy Borides
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210921T180000Z
@@ -9568,6 +9584,22 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  campuslabs.com/engage/organization/westminsterchristianfellowship
 LOCATION:Westminister Christian Fellowship\, 724 Techwood Dr NW\, Atlanta\
  , 30313
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tea Party
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210921T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210922T020000Z
+UID:https://gatech.campuslabs.com/engage/event/7379701
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nPhi Mu presents Tea Par
+ ty\, our annual Fall event featuring live entertainment\, free food\, shop
+ ping\, and\, of course\, miracles! Join us at the Phi Mu house for an even
+ ing under the stars as we celebrate Children's Healthcare of Atlanta's lif
+ esaving efforts for children in our community.\nBuy your tickets today at 
+ helpmakemiracles.org/event/teaparty2021 [1]\n\nLinks:\n[0]  https://gatech
+ .campuslabs.com/engage/event/7379701\n[1]  http://helpmakemiracles.org/eve
+ nt/teaparty2021?fbclid=IwAR15R5AXowWzAnvUBahdGPPr7LRxDx5ACIQKUDjNpO8tmzY-0
+ wqX4vK1pH4
+LOCATION:Phi Mu at Georgia Tech
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Traveling While Black
@@ -9688,6 +9720,39 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#1
  7\n[1]  https://arts.gatech.edu/twb
 LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PhD Proposal by He Jia
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210923T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210923T160000Z
+UID:http://hg.gatech.edu/node/650757#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nStatus: published\n\nTitle: Robust Learning in H
+ igh dimension\n\nDate: Thursday\, 23 September\, 2021\nTime: 10:00 am (EST
+ )\nLocation (Physical): Klaus 2100 (featuring snacks)\nLocation (Virtual):
+  [1]\n\nHe Jia\nPhD Student\nSchool of Computer Science\nGeorgia Institute
+  of Technology\n\nCommittee:\nSantosh Vempala (Advisor) - School of Comput
+ er Science\, Georgia Institute of Technology\nKonstantin Tikhomirov - Scho
+ ol of Mathematics\, Georgia Institute of Technology\nAshwin Pananjady - Sc
+ hool of Industrial & Systems Engineering\, Georgia Institute of Technology
+ \n\nAbstract:\nGiven a collection of observations and a class of models\, 
+ the objective of a typical unsupervised learning algorithm is to find the 
+ model in the class that best fits the data. However\, real datasets are ty
+ pically exposed to some source of noise. Robust statistics focuses on the 
+ design of outlier-robust estimators — algorithms that can tolerate a con
+ stant fraction of corrupted data points or other small departures from mod
+ el assumptions\, independent of the dimension. In the outlier-robust setti
+ ng\, it is challenging to develop efficient learning algorithms for many w
+ ell-known high-dimensional models.\n\nWe give an efficient algorithm for t
+ he problem of robustly learning Gaussian mixtures. The main tools are an e
+ fficient partial clustering algorithm that relies on the sum-of-squares me
+ thod\, and a novel tensor decomposition algorithm that allows errors in bo
+ th Frobenius norm and low-rank terms. I will also discuss the problems of 
+ robustly learning affine transformations and robustly learning multi-view 
+ models\, and the possible approaches to solve these problems: e.g.\, robus
+ t tensor decomposition.\n\nLinks:\n[0]  http://hg.gatech.edu/node/650757#0
+ \n[1]  https://bluejeans.com/851759942/0635
+LOCATION:Klause 2100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Eugie Award Symposium for Speculative Fiction
@@ -9904,6 +9969,43 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome join the SAW Execu
 LOCATION:Klaus 2447
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Science. Art. Wonder Info Session
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210924T200000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210924T210000Z
+UID:http://hg.gatech.edu/node/650737#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nCome join the Science.Art.Wonder 
+ executive board as we explain how you can participate as either an artist 
+ or researcher to create incredible works of art exhibiting major scientifi
+ c work occurring on campus. We will also explain our various other events 
+ such as our Spring Showcase\, our Atlanta Science Festival participation\,
+  and artist workshops and social events! We will be snacking on homemade D
+ utch butter cookies!\n\nLinks:\n[0]  http://hg.gatech.edu/node/650737#0\n[
+ 1]  https://gatech.campuslabs.com/engage/organization/science-art-wonder
+LOCATION:Room 2447\, Klaus Advanced Computing Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Community Garden Workday
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210925T130000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210925T150000Z
+UID:https://gatech.campuslabs.com/engage/event/7379914
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Saturday in 
+ the garden! We will be taking care of the beds by weeding\, turning compos
+ t\, and planting seeds. You must RSVP at the following links: click here [
+ 1] for the first hour or here [2] for the second hour. Masks are strongly 
+ encouraged for individuals that have not been vaccinated and hand sanitize
+ r will be provided. Please review garden health guidelines [3] before atte
+ nding.\n\nYou may want to bring a bag so you can take home produce and her
+ bs with you!\n\nThe Community Garden is located on the IC lawn adjacent to
+  the Exhibition Hall.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage
+ /event/7379914\n[1]  https://docs.google.com/forms/d/e/1FAIpQLScXZ_JduTcU_
+ 0lB97ZthQyey_WxGquoRxELHY74CObP0Ka8rg/viewform?usp=sf_link\n[2]  https://d
+ ocs.google.com/forms/d/e/1FAIpQLScNyVU9Qa-AA_wpunLb73YRtX5CD3nD4kPAckUzgMT
+ OliJZBA/viewform?usp=sf_link\n[3]  https://docs.google.com/document/d/1B19
+ bvV1N73QFvuwN3UnBfZ913ij5IXtbz5cb2DzmNkU/edit?usp=sharing
+LOCATION:GT Community Garden
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jordan Peterson Lecture Series Event
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210925T140000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210925T160000Z
@@ -9950,6 +10052,18 @@ DESCRIPTION:Extras: Credit\, Free Food\, Free Stuff\nStatus: approved\n\nT
  \n[0]  https://gatech.campuslabs.com/engage/event/7230140\n[1]  https://st
  udent-organizations.gatech.edu/content/gold-route
 LOCATION:Exhibition Hall 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General Meeting with Dr. Meyer (Presentation on Army Corps of Engi
+ neers)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210928T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210928T160000Z
+UID:https://gatech.campuslabs.com/engage/event/7380154
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nGeneral meeting for Dr.
+  Meyer (new to staff in CEE) to spread information on opportunities availa
+ ble through the Army Corps of Engineers.\n\nLinks:\n[0]  https://gatech.ca
+ mpuslabs.com/engage/event/7380154
+LOCATION:Mason 1133
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nano@Tech Fall 2022 Series | Session 3
@@ -10061,6 +10175,23 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Richards Gallery at the Ferst Center for the Arts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Building Blocks for Startup Success
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210930T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210930T160000Z
+UID:http://hg.gatech.edu/node/650760#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nHave questions related to your idea or startup?
+  Join us for this open forum focused on ideation and customer discovery. H
+ ear from entrepreneurship faculty\, Todd Sulchek\, and Nakia Melecio\, abo
+ ut how to build your startup successfully.\n\nSeptember 30\, 2021\, from 1
+ 1 AM – 12 PM.\n\nCrosland Tower 7130 (GT Library).\n\nLunch will be prov
+ ided.\n\nSign up to attend at [1]\n\nLinks:\n[0]  http://hg.gatech.edu/nod
+ e/650760#0\n[1]  https://bit.ly/startupbuildingblocks\n[2]  https://gatech
+ .campuslabs.com/engage/event/7381222\n[3]  https://innovation.cae.gatech.e
+ du
+LOCATION:Crosland Tower 7130
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Apologetics
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210930T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211001T000000Z
@@ -10123,6 +10254,17 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  d%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2280f253d
  9-02ae-418f-9c23-4f234fa2f6d8%22%7d
 LOCATION:ES&T L1205 and online via MS Teams
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General Meeting  with Heath and Lineback 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211005T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211005T160000Z
+UID:https://gatech.campuslabs.com/engage/event/7380150
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nLunch meeting for Heath
+  and Lineback to present their company to our members and discuss possible
+  career opportunities.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engag
+ e/event/7380150
+LOCATION:Mason 1133
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WCF Free Dinner
@@ -10340,6 +10482,27 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  -6d7f32faa083%22%2c%22Oid%22%3a%2280f253d9-02ae-418f-9c23-4f234fa2f6d8%22%
  7d
 LOCATION:ES&T L1205 and online via MS Teams
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Community Garden Workday
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211009T130000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211009T150000Z
+UID:https://gatech.campuslabs.com/engage/event/7379915
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Saturday in 
+ the garden! We will be taking care of the beds by weeding\, turning compos
+ t\, and planting seeds. You must RSVP at the following links: click here [
+ 1] for the first hour or here [2] for the second hour. Masks are strongly 
+ encouraged for individuals that have not been vaccinated and hand sanitize
+ r will be provided. Please review garden health guidelines [3] before atte
+ nding.\n\nYou may want to bring a bag so you can take home produce and her
+ bs with you!\n\nThe Community Garden is located on the IC lawn adjacent to
+  the Exhibition Hall.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage
+ /event/7379915\n[1]  https://docs.google.com/forms/d/e/1FAIpQLScXZ_JduTcU_
+ 0lB97ZthQyey_WxGquoRxELHY74CObP0Ka8rg/viewform?usp=sf_link\n[2]  https://d
+ ocs.google.com/forms/d/e/1FAIpQLScNyVU9Qa-AA_wpunLb73YRtX5CD3nD4kPAckUzgMT
+ OliJZBA/viewform?usp=sf_link\n[3]  https://docs.google.com/document/d/1B19
+ bvV1N73QFvuwN3UnBfZ913ij5IXtbz5cb2DzmNkU/edit?usp=sharing
+LOCATION:GT Community Garden
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nano@Tech Fall 2022 Series | Session 4
@@ -10626,6 +10789,27 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:311 Ferst Dr NW\, Atlanta\, GA 30332
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Community Garden Workday
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211023T130000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211023T150000Z
+UID:https://gatech.campuslabs.com/engage/event/7379916
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Saturday in 
+ the garden! We will be taking care of the beds by weeding\, turning compos
+ t\, and planting seeds. You must RSVP at the following links: click here [
+ 1] for the first hour or here [2] for the second hour. Masks are strongly 
+ encouraged for individuals that have not been vaccinated and hand sanitize
+ r will be provided. Please review garden health guidelines [3] before atte
+ nding.\n\nYou may want to bring a bag so you can take home produce and her
+ bs with you!\n\nThe Community Garden is located on the IC lawn adjacent to
+  the Exhibition Hall.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage
+ /event/7379916\n[1]  https://docs.google.com/forms/d/e/1FAIpQLScXZ_JduTcU_
+ 0lB97ZthQyey_WxGquoRxELHY74CObP0Ka8rg/viewform?usp=sf_link\n[2]  https://d
+ ocs.google.com/forms/d/e/1FAIpQLScNyVU9Qa-AA_wpunLb73YRtX5CD3nD4kPAckUzgMT
+ OliJZBA/viewform?usp=sf_link\n[3]  https://docs.google.com/document/d/1B19
+ bvV1N73QFvuwN3UnBfZ913ij5IXtbz5cb2DzmNkU/edit?usp=sharing
+LOCATION:GT Community Garden
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nano@Tech Fall 2022 Series | Session 5
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211025T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211025T170000Z
@@ -10637,6 +10821,17 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  h.edu/node/648427#0\n[1]  https://ien.gatech.edu/
 LOCATION:Georgia Institute of Technology | Marcus Nanotechnology Building 
  1116-1117 | 345 Ferst Drive Atlanta | GA 30332
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General Meeting with Aulick Engineering
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211026T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211026T160000Z
+UID:https://gatech.campuslabs.com/engage/event/7380109
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nLunch meeting for Aulic
+ k Engineering to present their company to our members and discuss possible
+  career opportunities.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engag
+ e/event/7380109
+LOCATION:Mason 1133
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WCF Free Dinner
@@ -10765,6 +10960,16 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  d%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2280f253d
  9-02ae-418f-9c23-4f234fa2f6d8%22%7d
 LOCATION:ES&T L1205 and online via MS Teams
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General Meeting with National ASCE
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211102T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211102T160000Z
+UID:https://gatech.campuslabs.com/engage/event/7379969
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nGeneral meeting for our
+  student members to learn about the operations of ASCE on a national level
+ .\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7379969
+LOCATION:Mason 1133
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WCF Free Dinner
@@ -10910,6 +11115,38 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  ww.cns.gatech.edu/dsseminar.html\n[2]  https://ce.gatech.edu/about/facilit
  ies#est
 LOCATION:311 Ferst Dr NW\, Atlanta\, GA 30332
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Community Garden Workday
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211106T130000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211106T150000Z
+UID:https://gatech.campuslabs.com/engage/event/7379917
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Saturday in 
+ the garden! We will be taking care of the beds by weeding\, turning compos
+ t\, and planting seeds. You must RSVP at the following links: click here [
+ 1] for the first hour or here [2] for the second hour. Masks are strongly 
+ encouraged for individuals that have not been vaccinated and hand sanitize
+ r will be provided. Please review garden health guidelines [3] before atte
+ nding.\n\nYou may want to bring a bag so you can take home produce and her
+ bs with you!\n\nThe Community Garden is located on the IC lawn adjacent to
+  the Exhibition Hall.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage
+ /event/7379917\n[1]  https://docs.google.com/forms/d/e/1FAIpQLScXZ_JduTcU_
+ 0lB97ZthQyey_WxGquoRxELHY74CObP0Ka8rg/viewform?usp=sf_link\n[2]  https://d
+ ocs.google.com/forms/d/e/1FAIpQLScNyVU9Qa-AA_wpunLb73YRtX5CD3nD4kPAckUzgMT
+ OliJZBA/viewform?usp=sf_link\n[3]  https://docs.google.com/document/d/1B19
+ bvV1N73QFvuwN3UnBfZ913ij5IXtbz5cb2DzmNkU/edit?usp=sharing
+LOCATION:GT Community Garden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General Meeting with POND
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211109T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211109T170000Z
+UID:https://gatech.campuslabs.com/engage/event/7379966
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nLunch meeting for POND 
+ to present their company to our members and discuss possible career opport
+ unities.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/737996
+ 6
+LOCATION:Mason 1133
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WCF Free Dinner
@@ -11107,6 +11344,17 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:311 Ferst Dr NW\, Atlanta\, GA 30332
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:General Meeting with Tensar
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211116T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211116T170000Z
+UID:https://gatech.campuslabs.com/engage/event/7379965
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nLunch meeting for Tensa
+ r to present their company to our members and discuss possible career oppo
+ rtunities.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7379
+ 965
+LOCATION:Mason 1133
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WCF Free Dinner
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211116T233000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211117T013000Z
@@ -11162,6 +11410,17 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  .campuslabs.com/engage/organization/westminsterchristianfellowship
 LOCATION:Westminister Christian Fellowship\, 724 Techwood Dr NW\, Atlanta\
  , 30313
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:End of the Semester Social 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211130T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211130T170000Z
+UID:https://gatech.campuslabs.com/engage/event/7379962
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nGeneral meeting for our
+  student members to hang out\, and enjoy each other's company at the end o
+ f the semester.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event
+ /7379962
+LOCATION:Mason 1133
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WCF Free Dinner
