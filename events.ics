@@ -2,63 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Tuesday Night Worship
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200915T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200916T010000Z
-UID:https://gatech.campuslabs.com/engage/event/6158599
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us Tu
- esday night for dinner and Worship! Follow our social media or join or sla
- ck channel for up-to-date information (online vs. in-person\, speakers\, e
- tc.).\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6158599
-LOCATION:Tech Wesley
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SAA Alumni Connections Committee Meeting
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200917T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200917T160000Z
-UID:http://hg.gatech.edu/node/639168#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nThis committee is made up of students who are Dinner
-  Jackets facilitators and Expert Jackets and IMPACT Meet & Greet event lea
- ds. Anyone is welcome to join the committee\, and all new members will be 
- trained on skills like writing a professional email\, communicating with a
- lumni and GT faculty members\, and event planning. As a member of this com
- mittee\, you will have the opportunity to:\n\n* Serve as a Dinner Jackets 
- student facilitator.\n* Communicate with alumni as dinner plans are made -
-  letting alumni know who is coming\, special needs\, and answer questions.
- \n* Communicate plans to student attendees - letting students know alumni 
- backgrounds\, directions\, organize transportation\, and answer questions.
- \n* Act as the student host at events - assist alumni onsite\, make introd
- uctions\, and keep conversation flowing.\n* Help plan and execute all logi
- stics associated with the events.\n* Find alumni at the top of their field
-  who would be popular for Expert Jackets or Dinner Jackets.\n\nPlease emai
- l the committee chairs at expertjackets@gtsaa.com [1] if you would like mo
- re information!\n\nLinks:\n[0]  http://hg.gatech.edu/node/639168#0\n[1]  e
- xpertjackets@gtsaa.com\n[2]  https://bluejeans.com/611690607?src=calendarL
- ink\n[3]  https://bluejeans.com/611690607?src=calendarLink\;
-LOCATION:Online
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Socially-Distanced Donation Sorting with Atlanta Mission
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200917T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200917T191500Z
-UID:https://gatech.campuslabs.com/engage/event/6401115
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin Grand Challenges i
- n serving Atlantans experiencing homelessness Thursday\, September 17th 1-
- 3PM by assisting staff at Atlanta Mission in sorting donated goods.\n\nTra
- nsportation to ATL Mission's nearby administrative office will be reimburs
- ed or provided for interested volunteers. We will be carpooling in a sanit
- ized staff vehicle or traveling via Ubers. More information will be provid
- ed to registered volunteers in the days before the event via email!\n\nVol
- unteers must RSVP on Engage\, as well as create a volunteer profile and re
- gister to serve at https://atlantamission.volunteerhub.com/event/index/118
- 42935. Volunteers will be asked to wear gloves\, masks\, and maintain six 
- feet of distance between themselves and other volunteers at all time. Any 
- students\, staff\, or alumni interested in serving are welcome!\n\nLinks:\
- n[0]  https://gatech.campuslabs.com/engage/event/6401115
-LOCATION:Atlanta Mission Administrative Building
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BPU Meeting 
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200917T231500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200918T013000Z
@@ -9364,29 +9307,49 @@ DTSTART;TZID=UTC;VALUE=DATE-TIME:20210916T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210916T160000Z
 UID:http://hg.gatech.edu/node/650730#0
 DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nFirst meeting of the semester for Effective Altruism
-  at Georgia Tech! We'll have a presentation providing an overview of effec
- tive altruism and our upcoming Effective Altruism Fellowship! Free food wi
- ll be provided afterwards for us to eat together outdoors.\n\nEffective al
- truism is an ongoing research field that aims to find the best ways to imp
- rove the world\, through the use of evidence and careful reasoning. It’s
-  also a community of people who strive to take action on that basis\, and 
- to do the most good we can. Here’s an article explaining this in much mo
- re detail: Introduction to Effective Altruism [1]\n\nAt Effective Altruism
-  at Georgia Tech [2]\, we try to apply the principles of effective altruis
- m to help interested students have as big of a social impact as they can w
- ith their lives\; whether that’s pursuing a social impact career that ta
- ckles a key pressing global problem\, or through donating to highly effect
- ive charities. Learn more about Effective Altruism at Georgia Tech at [3]\
- n\nIf attending in-person\, we expect each attendee to wear a face mask co
- vering their nose and mouth while indoors. A face mask will be provided if
-  you do not have one. Please attend virtually if you have symptoms of COVI
- D-19 such as fever or cough.\n\nLocation: Skiles 254 or BlueJeans [4]\n\nL
- inks:\n[0]  http://hg.gatech.edu/node/650730#0\n[1]  https://eagatech.us5.
- list-manage.com/track/click?u=f18ae258bbc66427be00683c7&id=68bceb856f&e=94
- ae28d38b\n[2]  https://eagatech.us5.list-manage.com/track/click?u=f18ae258
- bbc66427be00683c7&id=0a712a9a12&e=94ae28d38b\n[3]  https://eagatech.org/\n
- [4]  https://bit.ly/EAGTIntro
+ nExtras: Free Food\nStatus: published\n\nFirst meeting of the semester for
+  Effective Altruism at Georgia Tech! We'll have a presentation providing a
+ n overview of effective altruism and our upcoming Effective Altruism Fello
+ wship! Free food will be provided afterwards for us to eat together outdoo
+ rs.\n\nEffective altruism is an ongoing research field that aims to find t
+ he best ways to improve the world\, through the use of evidence and carefu
+ l reasoning. It’s also a community of people who strive to take action o
+ n that basis\, and to do the most good we can. Here’s an article explain
+ ing this in much more detail: Introduction to Effective Altruism [2]\n\nAt
+  Effective Altruism at Georgia Tech [3]\, we try to apply the principles o
+ f effective altruism to help interested students have as big of a social i
+ mpact as they can with their lives\; whether that’s pursuing a social im
+ pact career that tackles a key pressing global problem\, or through donati
+ ng to highly effective charities. Learn more about Effective Altruism at G
+ eorgia Tech at [4]\n\nIf attending in-person\, we expect each attendee to 
+ wear a face mask covering their nose and mouth while indoors. A face mask 
+ will be provided if you do not have one. Please attend virtually if you ha
+ ve symptoms of COVID-19 such as fever or cough.\n\nLocation: Skiles 254 or
+  BlueJeans [5]\n\nFirst meeting of the semester for Effective Altruism at 
+ Georgia Tech! We'll have a presentation providing an overview of effective
+  altruism and our upcoming Effective Altruism Fellowship! Free food will b
+ e provided afterwards for us to eat together outdoors.\n\nEffective altrui
+ sm is an ongoing research field that aims to find the best ways to improve
+  the world\, through the use of evidence and careful reasoning. It’s als
+ o a community of people who strive to take action on that basis\, and to d
+ o the most good we can. Here’s an article explaining this in much more d
+ etail: Introduction to Effective Altruism [2]\n\nAt Effective Altruism at 
+ Georgia Tech [3]\, we try to apply the principles of effective altruism to
+  help interested students have as big of a social impact as they can with 
+ their lives\; whether that’s pursuing a social impact career that tackle
+ s a key pressing global problem\, or through donating to highly effective 
+ charities. If this sounds interesting to you\, feel free to subscribe to o
+ ur mailing list [6] and we'll keep you in the loop.\n\nIf attending in-per
+ son\, we strongly encourage each attendee to wear a face mask covering the
+ ir nose and mouth while indoors. A face mask will be provided if you do no
+ t have one. Please attend virtually if you have symptoms of COVID-19 such 
+ as fever or cough.\n\nLocation: Skiles 254 or BlueJeans [5]\n\nLinks:\n[0]
+   http://hg.gatech.edu/node/650730#0\n[1]  https://gatech.campuslabs.com/e
+ ngage/event/7387282\n[2]  https://eagatech.us5.list-manage.com/track/click
+ ?u=f18ae258bbc66427be00683c7&id=68bceb856f&e=94ae28d38b\n[3]  https://eaga
+ tech.us5.list-manage.com/track/click?u=f18ae258bbc66427be00683c7&id=0a712a
+ 9a12&e=94ae28d38b\n[4]  https://eagatech.org/\n[5]  https://bit.ly/EAGTInt
+ ro\n[6]  http://eepurl.com/hHt6vr
 LOCATION:Room 254\, Skiles Building\, or Online
 END:VEVENT
 BEGIN:VEVENT
@@ -9514,13 +9477,37 @@ BEGIN:VEVENT
 SUMMARY:Creating a Minimum Viable Product with Nakia Melecio
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210917T210000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210917T220000Z
-UID:https://gatech.campuslabs.com/engage/event/7379883
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis Friday\, Startup E
- xchange is hosting an event with Nakia Melecio of ATDC and Create-X to tal
- k about how to validate a business idea and build the first version of you
- r product.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7379
- 883
-LOCATION:Tech Square ATL
+UID:http://hg.gatech.edu/node/650796#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nThis Friday\, Startup Exchange is
+  hosting an event with Nakia Melecio of ATDC and Create-X to talk about ho
+ w to validate a business idea and build the first version of your product.
+ \n\nLinks:\n[0]  http://hg.gatech.edu/node/650796#0\n[1]  https://gatech.c
+ ampuslabs.com/engage/event/7379883\n[2]  https://www.eventbrite.com/e/how-
+ to-create-a-minimum-viable-product-with-nakia-melecio-tickets-172125340527
+LOCATION:Tech Square ATL\, 848 Spring Street Northwest
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3v3 Basketball Tournament 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210918T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210918T210000Z
+UID:https://gatech.campuslabs.com/engage/event/7387281
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome join us as we ball
+  out this Saturday at Peter's Parking Deck. There will be music and free f
+ ood!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7387281
+LOCATION:Peter's Parking Deck
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AASU 3v3 Basketball Tournament
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210918T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210918T210000Z
+UID:http://hg.gatech.edu/node/650798#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nCome join us as we ball out this Saturday at Peters 
+ Parking Deck. There will be music and free food!\n\nLinks:\n[0]  http://hg
+ .gatech.edu/node/650798#0\n[1]  https://gatech.campuslabs.com/engage/organ
+ ization/gtaasu
+LOCATION:Peters Parking Deck
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:General Meeting with FTI Consulting
@@ -10703,6 +10690,24 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Richards Gallery at the Ferst Center for the Arts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Teaching with Technology for Future Faculty
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211020T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211020T221500Z
+UID:http://hg.gatech.edu/node/650871#0
+DESCRIPTION:Intended audience: Graduate students\, Postdoc\nExtras: Free f
+ ood\nStatus: published\n\nThe fall teaching workshop series includes five 
+ workshops aimed at graduate students and postdoctoral scholars who are tea
+ ching assistants and/or preparing for careers as faculty in higher educati
+ on.\n\nTechnology permeates higher education\, from computers to smart pho
+ nes to personal response devices. However\, one question that always persi
+ sts is whether these technologies promote or inhibit learning. This worksh
+ op will explore how instructors utilize different technologies (clickers\,
+  discussion boards\, video\, etc.) to engage students and enhance learning
+ .\n\nREGISTER [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/650871#0\n[1] 
+  https://ctl.gatech.edu/grad-students/workshops
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Traveling While Black
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211021T040000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211022T035900Z
@@ -10834,6 +10839,21 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nLunch meeting for Aulic
 LOCATION:Mason 1133
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ace Space Social
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211026T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211026T233000Z
+UID:http://hg.gatech.edu/node/650864#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nStatus: published\n\nAce Space is Georgia Tech's
+  event and meeting series for asexual and aromantic students. We host game
+  nights\, dinners\, and discussions for all ace- and aro-identified studen
+ ts\, including those who are considering identifying under the ace umbrell
+ a. Ace Space also hosts an online Facebook group for questions\, community
+ \, and resource sharing.\n\n[1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/
+ 650864#0\n[1]  https://lgbtqia.gatech.edu/ace-space-aces-aros
+LOCATION:TBD
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WCF Free Dinner
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211026T223000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211027T003000Z
@@ -10870,6 +10890,18 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#3
  1\n[1]  https://arts.gatech.edu/twb
 LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3 Days of Gay Christmas (Halloween)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211027T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211027T190000Z
+UID:http://hg.gatech.edu/node/650865#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nStatus: published\n\nDrop-in event. We will be h
+ osting a Halloween Movie party. Plus drop in during the afternoon to play 
+ spoopy Halloween games and enjoy popcorn/snacks!\n\nLinks:\n[0]  http://hg
+ .gatech.edu/node/650865#0
+LOCATION:LGBTQIA Resource Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Traveling While Black
