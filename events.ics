@@ -2,17 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Sunday Morning Worship
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200920T143000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200920T153000Z
-UID:https://gatech.campuslabs.com/engage/event/6158612
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Sunday Morni
- ng to Worship together! Follow our social media or join our slack channel 
- for up-to-date information (online vs. in-person\, speakers\, etc.).\n\nLi
- nks:\n[0]  https://gatech.campuslabs.com/engage/event/6158612
-LOCATION:Tech Wesley
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Robotic Fabrication of Vascularized Tissues
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200921T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200921T170000Z
@@ -9934,6 +9923,27 @@ DESCRIPTION:Extras: Credit\, Free Food\, Free Stuff\nStatus: approved\n\nT
 LOCATION:Exhibition Hall 
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Acoustical Society of America General Meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210928T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210928T160000Z
+UID:http://hg.gatech.edu/node/650935#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nThe GT Student Chapter of ASA will be holding its Fa
+ ll 2021 General Meeting on Tuesday\, September 28\, from 11:00 am–12:00 
+ pm in the Love Manufacturing Building\, conference room 109. The meeting i
+ s open to all students at Georgia Tech and will serve as a great opportuni
+ ty to network and interact with other acoustics-enthusiasts. We will be di
+ scussing the activities of the ASA\, our local GT chapter\, and plans for 
+ the coming semester. Also\, there will be pizza!\n\nThis is our first meet
+ ing back since quarantine\, and in the meantime a few of our officers have
+  graduated. With that in mind\, I'm hoping we can use this opportunity to 
+ elect a slate of interim officers for the Fall 2021 semester.\n\nLooking f
+ orward to seeing you all soon!\n\nNick Durofchalk\nExecutive Officer\, GT-
+ ASA\n\nLinks:\n[0]  http://hg.gatech.edu/node/650935#0\n[1]  https://gatec
+ h.campuslabs.com/engage/organization/acoustical-society-of-america
+LOCATION:Room 109\, Love Manufacturing Building
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General Meeting with Dr. Meyer (Presentation on Army Corps of Engi
  neers)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210928T150000Z
@@ -9957,6 +9967,44 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  23#0\n[1]  https://ien.gatech.edu/
 LOCATION:Georgia Institute of Technology | Marcus Nanotechnology Building 
  1116-1117 | 345 Ferst Drive Atlanta | GA 30332
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How to Design an Impact Career - Fall 2021 Global Career Engagemen
+ t Series
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210928T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210928T230000Z
+UID:http://hg.gatech.edu/node/650924#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: draft\n\nDr. Nashlie H. Sephus [1] is the Appl
+ ied Science manager for Amazon Artificial Intelligence (AI) focusing on fa
+ irness and identifying biases in these technologies. She formerly led the 
+ Amazon Visual Search team in Atlanta\, which launched visual search for re
+ placement parts on the Amazon Shopping app in June 2018. This technology w
+ as a result of former startup Partpic (Atlanta) being acquired by Amazon\,
+  for which she was the Chief Technology Officer (CTO). Prior to working at
+  Partpic\, she received her Ph.D. from the School of Electrical and Comput
+ er Engineering at the Georgia Institute of Technology in 2014 and worked f
+ or a year with Exponent technical consulting firm in New York City. Her co
+ re research areas were digital signal processing\, machine learning\, and 
+ computer engineering. She received her B.S. in Computer Engineering from M
+ ississippi State University (2007).\n\nDr. Sephus is a native of Jackson\,
+  Mississippi\, and she’s had several internships and research experience
+ s worldwide with companies such as IBM\, Delphi\, University of California
+  at Berkeley\, GE Research Center\, GE Energy\, Miller Transporters\, and 
+ Kwangwoon University in Seoul\, South Korea.\n\nIn 2018\, Dr. Sephus becam
+ e the founder and CEO of The Bean Path [2] non-profit organization based i
+ n Jackson\, MS\, assisting individuals and startups with technical experti
+ se and guidance. In September of 2020\, she became the owner and developer
+  of the Jackson Tech District\, at least 12-acres of mixed-use commercial 
+ real-estate in downtown Jackson to bring tech training and workforce/econo
+ mic development to the area. In addition to these\, she is the co-founder 
+ of KITTLabs in Atlanta\, GA which was created to assist in building equity
+  and opportunity\, targeting Black entrepreneurs in STEAM (science\, techn
+ ology\, engineering\, arts\, math).\n\nLinks:\n[0]  http://hg.gatech.edu/n
+ ode/650924#0\n[1]  https://www.inc.com/teneshia-carr/nashlie-sephus-jackso
+ n-mississippi-bean-path-tech-hub.html\n[2]  https://thebeanpath.org/\n[3] 
+  https://gatech.campuslabs.com/engage/event/7218792
+LOCATION:Clary Theater - Bill Moore Student Success Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WCF Free Dinner
@@ -10885,6 +10933,49 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  d%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2280f253d
  9-02ae-418f-9c23-4f234fa2f6d8%22%7d
 LOCATION:ES&T L1205 and online via MS Teams
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2021 Freshman Cake Race
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211030T100000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211030T120000Z
+UID:https://gatech.campuslabs.com/engage/event/7409098
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThe Freshman Cake Race 
+ is a half-mile race held before sunrise on the morning of the Homecoming g
+ ame every year. This unique long-standing tradition is open to first year 
+ Georgia Tech students. This race dates back to 1911\, when the first Cake 
+ Race was held as an open cross-country run at Georgia Tech. Two years late
+ r\, some of the faculty member’s wives started baking cakes for the winn
+ ers\, thus the name Cake Race was created. While the race’s original pur
+ pose was to scout men for the track team\, today's participants are encour
+ aged to run\, jog\, or walk. Each participant receives a cupcake upon comp
+ letion and the male and female winners receive cakes and get to meet Mr. a
+ nd Mrs. GT. Each first year receives a cupcake at the end of the race. Fir
+ st years\, sign up today to take part in one of Georgia Tech’s greatest 
+ traditions!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/740
+ 9098
+LOCATION:Corner of Fowler St. and 8th St. SW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Freshman Cake Race
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211030T100000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211030T120000Z
+UID:http://hg.gatech.edu/node/650933#0
+DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\n
+ Status: published\n\nThe Freshman Cake Race is a half-mile race held befor
+ e sunrise on the morning of the Homecoming game every year. This unique lo
+ ng-standing tradition is open to first year Georgia Tech students. This ra
+ ce dates back to 1911\, when the first Cake Race was held as an open cross
+ -country run at Georgia Tech. Two years later\, some of the faculty member
+ ’s wives started baking cakes for the winners\, thus the name Cake Race 
+ was created. While the race’s original purpose was to scout men for the 
+ track team\, today's participants are encouraged to run\, jog\, or walk. E
+ ach participant receives a cupcake upon completion and the male and female
+  winners receive cakes and get to meet Mr. and Mrs. GT. Each first year re
+ ceives a cupcake at the end of the race. First years\, sign up today to ta
+ ke part in one of Georgia Tech’s greatest traditions!\n\nLinks:\n[0]  ht
+ tp://hg.gatech.edu/node/650933#0\n[1]  https://gatech.campuslabs.com/engag
+ e/submitter/form/start/8073491
+LOCATION:Corner of Fowler St. and 8th St.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:General Meeting with National ASCE
