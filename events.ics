@@ -2,19 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Robotic Fabrication of Vascularized Tissues
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200921T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200921T170000Z
-UID:http://hg.gatech.edu/node/638383#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nLunch and Learn Speaker Series Fall 2020 Speake
- r:\nJames Hoying\nChief Scientist\nAdvanced Solutions Life Sciences\n\nAbs
- tract:\n> Additional details posted closer to event\n\nBio:\n> Additional 
- details posted closer to event\n\nLinks:\n[0]  http://hg.gatech.edu/node/6
- 38383#0
-LOCATION:Virtual Event - Details forthcoming
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tuesday Night Worship
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200922T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200923T010000Z
@@ -9854,6 +9841,21 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Room 2447\, Klaus Advanced Computing Building
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Nola Pie for a Cause
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210924T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210924T230000Z
+UID:http://hg.gatech.edu/node/650981#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nStatus: published\n\nHelp the post-hurricane Je
+ wish New Orleans Community! Come pie us in the face! Throw a pie at someon
+ e for $3\, and all proceeds will benefit the Jewish Family Service of Grea
+ ter New Orleans. If you are able to donate more\, the Jewish Family Servic
+ e would really appreciate it. Also\, stay for pizza Shabbat dinner right a
+ fter!\n\nLinks:\n[0]  http://hg.gatech.edu/node/650981#0\n[1]  https://hga
+ .engage.hillel.org/events/41e97052-b1ae-4d40-8c02-0333d9fd72fd
+LOCATION:Grace House\, 182 5th St NW\, Atlanta\, GA 30313
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Community Garden Workday
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210925T130000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210925T150000Z
@@ -10182,6 +10184,15 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  d%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2280f253d
  9-02ae-418f-9c23-4f234fa2f6d8%22%7d
 LOCATION:ES&T L1205 and online via MS Teams
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FLL Tournament Director Meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211001T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211002T010000Z
+UID:http://hg.gatech.edu/node/650986#0
+DESCRIPTION:Intended audience: Public\nExtras: Free food\nStatus: publishe
+ d\n\nLinks:\n[0]  http://hg.gatech.edu/node/650986#0
+LOCATION:CEISMC\, 505 10th St NW\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:General Meeting  with Heath and Lineback 
@@ -10631,6 +10642,35 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Richards Gallery at the Ferst Center for the Arts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Center for Integrative Genomics Advanced Research Seminar (CIGars)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211020T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211020T170000Z
+UID:http://hg.gatech.edu/node/650947#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nThe Center for In
+ tegrative Genomics (CIG) hosts a monthly advanced research seminar (CIGars
+ ) with two presentations given by graduate students and post-docs. Each pr
+ esentation is approximately 25 minutes with 5 minutes for questions. These
+  talks are directed to graduate students and post-docs but are open to any
+ one who is interested in the topics.\n\n“Characterization of a Novel Var
+ iable Lymphocyte Receptor-based Chimeric Antigen Receptor T Cell for Targe
+ ting Plasma Cell Malignancies”\n\nSam McCachren\, M.D./Ph.D. Graduate St
+ udent\, Biomedical Engineering\nMelissa Kemp\, Ph.D.\, Advisor\nEmory Univ
+ ersity / Georgia Tech\n\n“Bioelectric Spatial Patterning of Induced Plur
+ ipotent Stem Cells”\nAndre Norfleet\, Ph.D. Graduate Student\, Bioengine
+ ring\nMelissa Kemp\, Ph.D.\, Advisor\nGeorgia Tech\n\nIf you cannot attend
+  in person\, please join us virtually via BlueJeans [1].\n\nThis is a grea
+ t opportunity to:\n\n- Improve your presentation skills as a speaker\n- Co
+ mmunicate science\, research and technology to an audience with diverse ba
+ ckgrounds\n- Practice giving your talk for an upcoming conference\, thesis
+  defense\, or qualifying oral exams\n- Enjoy free lunch and hear about a w
+ ide range of work happening in the local bioscience community\n\nLinks:\n[
+ 0]  http://hg.gatech.edu/node/650947#0\n[1]  https://bluejeans.com/3316180
+ 67/2914\n[2]  https://kemp.gatech.edu/
+LOCATION:Engineered Biosystems Building (EBB)\, CHOA Seminar Room\, 950 At
+ lantic Drive NW\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Teaching with Technology for Future Faculty
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211020T210000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211020T221500Z
@@ -10976,6 +11016,39 @@ DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\n
  tp://hg.gatech.edu/node/650933#0\n[1]  https://gatech.campuslabs.com/engag
  e/submitter/form/start/8073491
 LOCATION:Corner of Fowler St. and 8th St.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WST Lrn C dinner with Dr. Martha Grover
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211101T200000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211101T210000Z
+UID:http://hg.gatech.edu/node/651042#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nDr. Martha Grover\, ADVANCE Profe
+ ssor and associate chair for graduate studies in the School of Chemical an
+ d Biomolecular Engineering\, will speak about her career path\, sharing de
+ cisions she made along the way and offering advice to students\, who will 
+ be able to ask questions.\nShe will speak via Blue Jeans from 4pm to 5pm o
+ n Monday\, November 1\, 2021. The Blue Jeans link is https://bluejeans.com
+ /256046861/4307\nWST Learning Community students will be able to pickup me
+ als in Stein 5-5:30pm after the talk.\n\nDr. Grover’s research activitie
+ s in process systems engineering focus on understanding macromolecular org
+ anization and the emergence of biological function. Discrete atoms and mol
+ ecules interact to form macromolecules and even larger mesoscale assemblie
+ s\, ultimately yielding macroscopic structures and properties. A quantitat
+ ive relationship between the nanoscale discrete interactions and the macro
+ scale properties is required to design\, optimize\, and control such syste
+ ms\; yet in many applications\, predictive models do not exist or are comp
+ utationally intractable.\n\nThe Grover group [1] is dedicated to the devel
+ opment of tractable and practical approaches for the engineering of macros
+ cale behavior via explicit consideration of molecular and atomic scale int
+ eractions. We focus on applications involving the kinetics of self-assembl
+ y\, specifically those in which methods from non-equilibrium statistical m
+ echanics do not provide closed form solutions. General approaches employed
+  include stochastic modeling\, model reduction\, machine learning\, experi
+ mental design\, robust parameter design\, and estimation.\n\nhttps://chbe.
+ gatech.edu/people/martha-grover\n\nLinks:\n[0]  http://hg.gatech.edu/node/
+ 651042#0\n[1]  http://grover.chbe.gatech.edu/
+LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:General Meeting with National ASCE
