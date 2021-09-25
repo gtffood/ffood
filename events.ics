@@ -2,43 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Tuesday Night Worship
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200922T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200923T010000Z
-UID:https://gatech.campuslabs.com/engage/event/6158600
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us Tu
- esday night for dinner and Worship! Follow our social media or join or sla
- ck channel for up-to-date information (online vs. in-person\, speakers\, e
- tc.).\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6158600
-LOCATION:Tech Wesley
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SAA Alumni Connections Committee Meeting
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200924T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200924T160000Z
-UID:http://hg.gatech.edu/node/639168#1
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nThis committee is made up of students who are Dinner
-  Jackets facilitators and Expert Jackets and IMPACT Meet & Greet event lea
- ds. Anyone is welcome to join the committee\, and all new members will be 
- trained on skills like writing a professional email\, communicating with a
- lumni and GT faculty members\, and event planning. As a member of this com
- mittee\, you will have the opportunity to:\n\n* Serve as a Dinner Jackets 
- student facilitator.\n* Communicate with alumni as dinner plans are made -
-  letting alumni know who is coming\, special needs\, and answer questions.
- \n* Communicate plans to student attendees - letting students know alumni 
- backgrounds\, directions\, organize transportation\, and answer questions.
- \n* Act as the student host at events - assist alumni onsite\, make introd
- uctions\, and keep conversation flowing.\n* Help plan and execute all logi
- stics associated with the events.\n* Find alumni at the top of their field
-  who would be popular for Expert Jackets or Dinner Jackets.\n\nPlease emai
- l the committee chairs at expertjackets@gtsaa.com [1] if you would like mo
- re information!\n\nLinks:\n[0]  http://hg.gatech.edu/node/639168#1\n[1]  e
- xpertjackets@gtsaa.com\n[2]  https://bluejeans.com/611690607?src=calendarL
- ink\n[3]  https://bluejeans.com/611690607?src=calendarLink\;
-LOCATION:Online
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BPU Meeting 
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200924T231500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200925T013000Z
@@ -10137,6 +10100,24 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Catholic Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Camping Doesn't Have to Be In-Tents! - General Meeting\, Info Sess
+ ion\, and Tent Building Competition
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210930T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211001T003000Z
+UID:http://hg.gatech.edu/node/651085#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nJoin Trailblazers Thursday\, September 30th at the I
+ C lawn for a camping themed extravaganza! We'll start with a campsite-buil
+ ding competition followed by camping tips and tricks around the "campfire"
+  (ie a flashlight and some sticks) shared by some of our exec members. Mak
+ e some friends\, learn some stuff\, and maybe have some snacks!\n\nSpace i
+ s limited!\n\nWant to hear about more fun nature stuff and Trailblazers go
+ ing-ons? Join our groupme:\n\n[1]\n\nLinks:\n[0]  http://hg.gatech.edu/nod
+ e/651085#0\n[1]  https://groupme.com/join_group/61302475/FckvQhw9\n[2]  ht
+ tps://gatech.campuslabs.com/engage/organization/trailblazers
+LOCATION:Instructional Center Lawn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Traveling While Black
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211001T040000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211002T035900Z
@@ -10193,6 +10174,26 @@ UID:http://hg.gatech.edu/node/650986#0
 DESCRIPTION:Intended audience: Public\nExtras: Free food\nStatus: publishe
  d\n\nLinks:\n[0]  http://hg.gatech.edu/node/650986#0
 LOCATION:CEISMC\, 505 10th St NW\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Child Health Day Block Party
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211004T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211005T010000Z
+UID:http://hg.gatech.edu/node/651079#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nExtras: Free Food\, Free Stuff\nStatus: publish
+ ed\n\nCome join us for a relaxing\, fun and rewarding night of live music\
+ , food\, and games as we raise awareness for our local Children's Miracle 
+ Network Hospitals! Monday October 4th is Child Health Day and we will be c
+ elebrating with performers include Wrek radio\, Nothin But Treble and more
+  local musicians from GT!\n\nChild Health Day is a U.S. federal observance
+  holiday where agencies and organizations concerned with child welfare uni
+ te to raise awareness about the “fundamental necessity of a year-round p
+ rogram to protect and develop the health of children in the United States.
+ ”\n\nLinks:\n[0]  http://hg.gatech.edu/node/651079#0\n[1]  https://gatec
+ h.campuslabs.com/engage/event/7429091\n[2]  https://gatech.campuslabs.com/
+ engage/organization/for-the-kids
+LOCATION:Tech Green 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:General Meeting  with Heath and Lineback 
