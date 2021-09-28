@@ -2,17 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Sunday Morning Worship
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200927T143000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200927T153000Z
-UID:https://gatech.campuslabs.com/engage/event/6158613
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Sunday Morni
- ng to Worship together! Follow our social media or join our slack channel 
- for up-to-date information (online vs. in-person\, speakers\, etc.).\n\nLi
- nks:\n[0]  https://gatech.campuslabs.com/engage/event/6158613
-LOCATION:Tech Wesley
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Shaw’s Approach to Sustainability: Safe & Circular
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20200928T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20200928T170000Z
@@ -9836,6 +9825,20 @@ LOCATION:Westminister Christian Fellowship\, 724 Techwood Dr NW\, Atlanta\
  , 30313
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Screening and Discussion of Alex O'Connor's Why It's Time to Go Ve
+ gan
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210928T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210929T000000Z
+UID:https://gatech.campuslabs.com/engage/event/7443064
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nTuesday\, September 28t
+ h from 7 to 8 pm in Mason 2117 (free vegan cinnamon rolls provided by Cinn
+ aholic Edgewood!)\n\nGuests who are experiencing symptoms of Covid-19 shou
+ ld not attend. We strongly encourage that you wear a mask when not eating 
+ (especially if indoors). We will be providing hand sanitizer.\n\nLinks:\n[
+ 0]  https://gatech.campuslabs.com/engage/event/7443064
+LOCATION:Mason 2117
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Traveling While Black
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210929T040000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210930T035900Z
@@ -10121,6 +10124,21 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#2
  3\n[1]  https://arts.gatech.edu/twb
 LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GTVSA Moon Festival
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211007T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211008T010000Z
+UID:https://gatech.campuslabs.com/engage/event/7443076
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nThe Georgi
+ a Tech Vietnamese Student Association would like to invite you to our 11th
+  annual Moon Festival! The event will be hosted at Tech Green on Thursday\
+ , October 7th from 6:00 PM - 9:00 PM.\n\nAdmission\, food\, and drinks are
+  FREE for GT students and faculty with their Buzzcard. We will be serving 
+ many traditional Asian cuisines and will have plenty of entertainment\, ga
+ mes\, and prizes!\n\nMasks are highly encouraged!\n\nLinks:\n[0]  https://
+ gatech.campuslabs.com/engage/event/7443076
+LOCATION:Tech Green
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Traveling While Black
