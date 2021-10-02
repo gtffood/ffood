@@ -2,73 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Tuesday Night Worship
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20200929T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20200930T010000Z
-UID:https://gatech.campuslabs.com/engage/event/6158601
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us Tu
- esday night for dinner and Worship! Follow our social media or join or sla
- ck channel for up-to-date information (online vs. in-person\, speakers\, e
- tc.).\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6158601
-LOCATION:Tech Wesley
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SAA Alumni Connections Committee Meeting
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201001T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201001T160000Z
-UID:http://hg.gatech.edu/node/639168#2
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nThis committee is made up of students who are Dinner
-  Jackets facilitators and Expert Jackets and IMPACT Meet & Greet event lea
- ds. Anyone is welcome to join the committee\, and all new members will be 
- trained on skills like writing a professional email\, communicating with a
- lumni and GT faculty members\, and event planning. As a member of this com
- mittee\, you will have the opportunity to:\n\n* Serve as a Dinner Jackets 
- student facilitator.\n* Communicate with alumni as dinner plans are made -
-  letting alumni know who is coming\, special needs\, and answer questions.
- \n* Communicate plans to student attendees - letting students know alumni 
- backgrounds\, directions\, organize transportation\, and answer questions.
- \n* Act as the student host at events - assist alumni onsite\, make introd
- uctions\, and keep conversation flowing.\n* Help plan and execute all logi
- stics associated with the events.\n* Find alumni at the top of their field
-  who would be popular for Expert Jackets or Dinner Jackets.\n\nPlease emai
- l the committee chairs at expertjackets@gtsaa.com [1] if you would like mo
- re information!\n\nLinks:\n[0]  http://hg.gatech.edu/node/639168#2\n[1]  e
- xpertjackets@gtsaa.com\n[2]  https://bluejeans.com/611690607?src=calendarL
- ink\n[3]  https://bluejeans.com/611690607?src=calendarLink\;
-LOCATION:Online
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Staff Appreciation Day
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201001T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201001T210000Z
-UID:http://hg.gatech.edu/node/639725#0
-DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\, Freebies
- \nStatus: published\n\nAll Georgia Tech employees are invited to come out 
- and enjoy free food\, music\, and giveaways. Face coverings are required\,
-  and safety protocols will be in place. You must register in advance at ga
- tech.universitytickets.com [1].\n\nLinks:\n[0]  http://hg.gatech.edu/node/
- 639725#0\n[1]  https://gatech.universitytickets.com/w/event.aspx?id=1703&p
- =1\n[2]  http://gatech.universitytickets.com
-LOCATION:Tech Green and Tech Walkway
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Career Services Workshop: Interviewing- Avoid Being a Scary Candid
- ate
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201001T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201001T233000Z
-UID:http://hg.gatech.edu/node/636230#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: draft\n\nWhen did talking about yourself 
- become such a challenge? What do recruiters really want to know when they 
- ask you about your interest in the position? What is the difference betwee
- n a technical interview and a behavioral one? Learn how to master your int
- erviewing skills and land your dream job.\n\nRSVP here [1]\n\nLinks:\n[0] 
-  http://hg.gatech.edu/node/636230#0\n[1]  https://gatech.co1.qualtrics.com
- /jfe/form/SV_3a3CAiVPzXvr5bL
-LOCATION:Klaus 1116
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BPU Meeting 
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201001T231500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201002T013000Z
@@ -9930,6 +9863,29 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Crosland Tower 7130
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Grace Coffee House
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20210930T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20210930T220000Z
+UID:http://hg.gatech.edu/node/651295#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nWe are famous for our FREE coffee
+  at Grace House [2]!\n\nOur coffee house runs on Thursdays from 1- 6pm. We
+  serve coldbrew when it's hot and hot coffee when it's cold. If you don't 
+ do caffeine or your faith tradition doesn't do caffeine\, we can make you 
+ chocolate milk or hot chocolate! And it's all free.\n\nSometimes we have s
+ pecial guests\, pets\, kids\, surrogate grandparents\, cookies\, and hot m
+ eals as well during this time. This fall\, we will have some student repre
+ sentatives from Active Minds available to talk if you aren't comfortable t
+ alking with our interns or staff. Sometimes a familiar face is just what y
+ ou need.\n\nFollow @gtgracehouse on instagram [3] and text #coffee to 404.
+ 999.4471 to get alerts [4] for our coffee events.\n\nLinks:\n[0]  http://h
+ g.gatech.edu/node/651295#0\n[1]  https://gatech.campuslabs.com/engage/even
+ t/7459033\n[2]  https://gracepeople.org\n[3]  https://www.instagram.com/gt
+ gracehouse\n[4]  sms:+14049994471&body=coffee\n[5]  http://hg.gatech.edu/n
+ ode/+14049994471&body=coffee
+LOCATION:Grace House\, 182 5th Street NW\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SWE Career Panel with Capital One
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210930T223000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210930T233000Z
@@ -10147,6 +10103,46 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Richards Gallery at the Ferst Center for the Arts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:New Researchers Coffee Hour
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211007T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211007T160000Z
+UID:http://hg.gatech.edu/node/651249#0
+DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free Food\,
+  Free Stuff\nStatus: published\n\nHave you joined a lab and are looking to
+  grow as a researcher? Come to our New Researchers Coffee Hour\, where we'
+ ll have a casual chat about how to develop a good relationship with your m
+ entors\, start your own projects\, and how to advocate for yourself as a r
+ esearcher. We will be in-person in CULC 123 and 125 on Thursday\, October 
+ 7\, from 11-12. Free coffee and donuts will also be provided starting at 1
+ 0:45am!\n\nRSVP on Engage. We have 30 spots but also accept walk-ins!\n\nL
+ inks:\n[0]  http://hg.gatech.edu/node/651249#0\n[1]  https://gatech.campus
+ labs.com/engage/event/7460048
+LOCATION:Clough Undergraduate Learning Commons (CULC) 123 and 125
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grace Coffee House
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211007T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211007T220000Z
+UID:http://hg.gatech.edu/node/651295#1
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nWe are famous for our FREE coffee
+  at Grace House [2]!\n\nOur coffee house runs on Thursdays from 1- 6pm. We
+  serve coldbrew when it's hot and hot coffee when it's cold. If you don't 
+ do caffeine or your faith tradition doesn't do caffeine\, we can make you 
+ chocolate milk or hot chocolate! And it's all free.\n\nSometimes we have s
+ pecial guests\, pets\, kids\, surrogate grandparents\, cookies\, and hot m
+ eals as well during this time. This fall\, we will have some student repre
+ sentatives from Active Minds available to talk if you aren't comfortable t
+ alking with our interns or staff. Sometimes a familiar face is just what y
+ ou need.\n\nFollow @gtgracehouse on instagram [3] and text #coffee to 404.
+ 999.4471 to get alerts [4] for our coffee events.\n\nLinks:\n[0]  http://h
+ g.gatech.edu/node/651295#1\n[1]  https://gatech.campuslabs.com/engage/even
+ t/7459034\n[2]  https://gracepeople.org\n[3]  https://www.instagram.com/gt
+ gracehouse\n[4]  sms:+14049994471&body=coffee\n[5]  http://hg.gatech.edu/n
+ ode/+14049994471&body=coffee
+LOCATION:Grace House\, 182 5th Street NW\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GTVSA Moon Festival
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211007T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211008T010000Z
@@ -10212,11 +10208,12 @@ DTSTART;TZID=UTC;VALUE=DATE-TIME:20211008T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211008T180000Z
 UID:http://hg.gatech.edu/node/651254#0
 DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nWrite a goal\, fold a paper crane\, learn about the 
- background behind them\, and eat some Asian snacks with us!\n\nLinks:\n[0]
-   http://hg.gatech.edu/node/651254#0\n[1]  https://gatech.campuslabs.com/e
- ngage/organization/asian-american-student-association\n[2]  https://www.in
- stagram.com/gtaasa/
+ nExtras: Free Food\, Free Stuff\nStatus: published\n\nWrite a goal\, fold 
+ a paper crane\, learn about the background behind them\, and eat some Asia
+ n snacks with us!\n\nLinks:\n[0]  http://hg.gatech.edu/node/651254#0\n[1] 
+  https://gatech.campuslabs.com/engage/event/7459049\n[2]  https://gatech.c
+ ampuslabs.com/engage/organization/asian-american-student-association\n[3] 
+  https://www.instagram.com/gtaasa/
 LOCATION:Tech Green
 END:VEVENT
 BEGIN:VEVENT
@@ -10445,6 +10442,53 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Richards Gallery at the Ferst Center for the Arts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Admiral Sandy Winnefeld at the Atlanta Council on International Re
+ lations
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211014T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211014T173000Z
+UID:http://hg.gatech.edu/node/651320#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nAdmiral Sandy Win
+ nefeld\, Distinguished Professor of the Practice and CISTP Senior Fellow i
+ n the Sam Nunn School of International Affairs\, will be speaking to the A
+ tlanta Council on International Relations on "Facing Reality in the Nation
+ al Security Equation." He'll talk about balancing governing and securing t
+ he United States's security interests. His talk will be accompanied by a l
+ uncheon.\n\nThe deadline to register [1] is Monday\, Oct. 11 at 10 a.m. Th
+ e lunch will include a salad\, choice of entree\, dessert\, ice tea\, and 
+ coffee. The cost to attend is $25 for Georgia Tech students\, though those
+  who need assistance covering the cost can reach out to Dr. Robert Kennedy
+  [2] before registering.\n\nOnly those who are fully vaccinated are encour
+ aged to attend\, and all attendees should bring masks as well.\n\nLinks:\n
+ [0]  http://hg.gatech.edu/node/651320#0\n[1]  https://atlantacir.org/event
+ -4470740\n[2]  robert.kennedy@inta.gatech.edu
+LOCATION:Buckhead Club\, 3344 Peachtree Road NE\, Suite 2600\, Atlanta\, G
+ A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grace Coffee House
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211014T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211014T220000Z
+UID:http://hg.gatech.edu/node/651295#2
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nWe are famous for our FREE coffee
+  at Grace House [2]!\n\nOur coffee house runs on Thursdays from 1- 6pm. We
+  serve coldbrew when it's hot and hot coffee when it's cold. If you don't 
+ do caffeine or your faith tradition doesn't do caffeine\, we can make you 
+ chocolate milk or hot chocolate! And it's all free.\n\nSometimes we have s
+ pecial guests\, pets\, kids\, surrogate grandparents\, cookies\, and hot m
+ eals as well during this time. This fall\, we will have some student repre
+ sentatives from Active Minds available to talk if you aren't comfortable t
+ alking with our interns or staff. Sometimes a familiar face is just what y
+ ou need.\n\nFollow @gtgracehouse on instagram [3] and text #coffee to 404.
+ 999.4471 to get alerts [4] for our coffee events.\n\nLinks:\n[0]  http://h
+ g.gatech.edu/node/651295#2\n[1]  https://gatech.campuslabs.com/engage/even
+ t/7459035\n[2]  https://gracepeople.org\n[3]  https://www.instagram.com/gt
+ gracehouse\n[4]  sms:+14049994471&body=coffee\n[5]  http://hg.gatech.edu/n
+ ode/+14049994471&body=coffee
+LOCATION:Grace House\, 182 5th Street NW\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Scheller College Dean's CEO Speaker Series: Craig Menear - Chairma
  n and CEO\, The Home Depot
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211014T210000Z
@@ -10639,6 +10683,45 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Richards Gallery at the Ferst Center for the Arts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Diversity in Research Panel
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211021T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211021T160000Z
+UID:https://gatech.campuslabs.com/engage/event/7460247
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nAre you in
+ terested in learning more about diversity and inclusion in research? Come 
+ to our Diversity in Research panel! Our panelists will be faculty and staf
+ f talking about their research from a diversity and inclusion perspective\
+ , as well as diversity and equity initiatives at GT. The panel will take p
+ lace Thursday\, October 21\, from 11am-12pm in CULC 102. There are also fr
+ ee snacks and free URA merchandise offered at the event. We hope to see yo
+ u there!\n\nRSVP on Engage. We have 50 RSVP spots but also accept walk-ins
+ !\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7460247
+LOCATION:CULC 102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grace Coffee House
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211021T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211021T220000Z
+UID:http://hg.gatech.edu/node/651295#3
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nWe are famous for our FREE coffee
+  at Grace House [2]!\n\nOur coffee house runs on Thursdays from 1- 6pm. We
+  serve coldbrew when it's hot and hot coffee when it's cold. If you don't 
+ do caffeine or your faith tradition doesn't do caffeine\, we can make you 
+ chocolate milk or hot chocolate! And it's all free.\n\nSometimes we have s
+ pecial guests\, pets\, kids\, surrogate grandparents\, cookies\, and hot m
+ eals as well during this time. This fall\, we will have some student repre
+ sentatives from Active Minds available to talk if you aren't comfortable t
+ alking with our interns or staff. Sometimes a familiar face is just what y
+ ou need.\n\nFollow @gtgracehouse on instagram [3] and text #coffee to 404.
+ 999.4471 to get alerts [4] for our coffee events.\n\nLinks:\n[0]  http://h
+ g.gatech.edu/node/651295#3\n[1]  https://gatech.campuslabs.com/engage/even
+ t/7459036\n[2]  https://gracepeople.org\n[3]  https://www.instagram.com/gt
+ gracehouse\n[4]  sms:+14049994471&body=coffee\n[5]  http://hg.gatech.edu/n
+ ode/+14049994471&body=coffee
+LOCATION:Grace House\, 182 5th Street NW\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Apologetics
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211021T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211022T000000Z
@@ -10762,6 +10845,22 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nLunch meeting for Aulic
 LOCATION:Mason 1133
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:HSOC Society Presents: HCON 2021
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211026T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211026T230000Z
+UID:http://hg.gatech.edu/node/651315#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
+ aduate students\nExtras: Free food\nStatus: published\n\nYou're invited to
+  our annual historical costume party! Join us for fun\, costumes\, and fre
+ e food from the Halal Guys!\n\nAll are welcome — you don't need to be a 
+ member of the HSOC Society to attend.\n\nWhen: Tuesday\, Oct. 26\, 2021 at
+  5 pm\nWhere: Old Civil Engineering Building Patio\nWhy: Friends\, fun\, h
+ istorical costumes\, and free food!\n\nLinks:\n[0]  http://hg.gatech.edu/n
+ ode/651315#0
+LOCATION:Old Civil Engineering Building Patio 221 Bobby Dodd Way NW\, Atla
+ nta\, GA 30332
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ace Space Social
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211026T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211026T233000Z
@@ -10851,6 +10950,28 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#3
  2\n[1]  https://arts.gatech.edu/twb
 LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grace Coffee House
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211028T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211028T220000Z
+UID:http://hg.gatech.edu/node/651295#4
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nWe are famous for our FREE coffee
+  at Grace House [1]!\n\nOur coffee house runs on Thursdays from 1- 6pm. We
+  serve coldbrew when it's hot and hot coffee when it's cold. If you don't 
+ do caffeine or your faith tradition doesn't do caffeine\, we can make you 
+ chocolate milk or hot chocolate! And it's all free.\n\nSometimes we have s
+ pecial guests\, pets\, kids\, surrogate grandparents\, cookies\, and hot m
+ eals as well during this time. This fall\, we will have some student repre
+ sentatives from Active Minds available to talk if you aren't comfortable t
+ alking with our interns or staff. Sometimes a familiar face is just what y
+ ou need.\n\nFollow @gtgracehouse on instagram [2] and text #coffee to 404.
+ 999.4471 to get alerts [3] for our coffee events.\n\nLinks:\n[0]  http://h
+ g.gatech.edu/node/651295#4\n[1]  https://gracepeople.org\n[2]  https://www
+ .instagram.com/gtgracehouse\n[3]  http://hg.gatech.edu/node/+14049994471&b
+ ody=coffee
+LOCATION:Grace House\, 182 5th Street NW\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Apologetics
@@ -11087,6 +11208,29 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Richards Gallery at the Ferst Center for the Arts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Grace Coffee House
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211104T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211104T220000Z
+UID:http://hg.gatech.edu/node/651295#5
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nWe are famous for our FREE coffee
+  at Grace House [2]!\n\nOur coffee house runs on Thursdays from 1- 6pm. We
+  serve coldbrew when it's hot and hot coffee when it's cold. If you don't 
+ do caffeine or your faith tradition doesn't do caffeine\, we can make you 
+ chocolate milk or hot chocolate! And it's all free.\n\nSometimes we have s
+ pecial guests\, pets\, kids\, surrogate grandparents\, cookies\, and hot m
+ eals as well during this time. This fall\, we will have some student repre
+ sentatives from Active Minds available to talk if you aren't comfortable t
+ alking with our interns or staff. Sometimes a familiar face is just what y
+ ou need.\n\nFollow @gtgracehouse on instagram [3] and text #coffee to 404.
+ 999.4471 to get alerts [4] for our coffee events.\n\nLinks:\n[0]  http://h
+ g.gatech.edu/node/651295#5\n[1]  https://gatech.campuslabs.com/engage/even
+ t/7459038\n[2]  https://gracepeople.org\n[3]  https://www.instagram.com/gt
+ gracehouse\n[4]  sms:+14049994471&body=coffee\n[5]  http://hg.gatech.edu/n
+ ode/+14049994471&body=coffee
+LOCATION:Grace House\, 182 5th Street NW\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Scheller College Dean's DE&I Speaker Series Featuring Kali Beyah\,
   Global Chief Talent Officer - Huge\, Inc.
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211104T210000Z
@@ -11238,6 +11382,17 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Richards Gallery at the Ferst Center for the Arts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Intercultural Understanding in Professional Contexts: Insights fro
+ m Mind-Brain Sciences
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211110T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211111T003000Z
+UID:http://hg.gatech.edu/node/651301#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nExtras: Free food\nStatus: published\n\nLinks:\
+ n[0]  http://hg.gatech.edu/node/651301#0
+LOCATION:Clary Theatre\, Bill Moore Student Success Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Traveling While Black
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211111T050000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211112T045900Z
@@ -11262,6 +11417,29 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#3
  8\n[1]  https://arts.gatech.edu/twb
 LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grace Coffee House
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211111T180000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211111T230000Z
+UID:http://hg.gatech.edu/node/651295#6
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nWe are famous for our FREE coffee
+  at Grace House [2]!\n\nOur coffee house runs on Thursdays from 1- 6pm. We
+  serve coldbrew when it's hot and hot coffee when it's cold. If you don't 
+ do caffeine or your faith tradition doesn't do caffeine\, we can make you 
+ chocolate milk or hot chocolate! And it's all free.\n\nSometimes we have s
+ pecial guests\, pets\, kids\, surrogate grandparents\, cookies\, and hot m
+ eals as well during this time. This fall\, we will have some student repre
+ sentatives from Active Minds available to talk if you aren't comfortable t
+ alking with our interns or staff. Sometimes a familiar face is just what y
+ ou need.\n\nFollow @gtgracehouse on instagram [3] and text #coffee to 404.
+ 999.4471 to get alerts [4] for our coffee events.\n\nLinks:\n[0]  http://h
+ g.gatech.edu/node/651295#6\n[1]  https://gatech.campuslabs.com/engage/even
+ t/7459039\n[2]  https://gracepeople.org\n[3]  https://www.instagram.com/gt
+ gracehouse\n[4]  sms:+14049994471&body=coffee\n[5]  http://hg.gatech.edu/n
+ ode/+14049994471&body=coffee
+LOCATION:Grace House\, 182 5th Street NW\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Apologetics
@@ -11444,6 +11622,29 @@ LOCATION:Westminister Christian Fellowship\, 724 Techwood Dr NW\, Atlanta\
  , 30313
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Grace Coffee House
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211118T180000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211118T230000Z
+UID:http://hg.gatech.edu/node/651295#7
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nWe are famous for our FREE coffee
+  at Grace House [2]!\n\nOur coffee house runs on Thursdays from 1- 6pm. We
+  serve coldbrew when it's hot and hot coffee when it's cold. If you don't 
+ do caffeine or your faith tradition doesn't do caffeine\, we can make you 
+ chocolate milk or hot chocolate! And it's all free.\n\nSometimes we have s
+ pecial guests\, pets\, kids\, surrogate grandparents\, cookies\, and hot m
+ eals as well during this time. This fall\, we will have some student repre
+ sentatives from Active Minds available to talk if you aren't comfortable t
+ alking with our interns or staff. Sometimes a familiar face is just what y
+ ou need.\n\nFollow @gtgracehouse on instagram [3] and text #coffee to 404.
+ 999.4471 to get alerts [4] for our coffee events.\n\nLinks:\n[0]  http://h
+ g.gatech.edu/node/651295#7\n[1]  https://gatech.campuslabs.com/engage/even
+ t/7459040\n[2]  https://gracepeople.org\n[3]  https://www.instagram.com/gt
+ gracehouse\n[4]  sms:+14049994471&body=coffee\n[5]  http://hg.gatech.edu/n
+ ode/+14049994471&body=coffee
+LOCATION:Grace House\, 182 5th Street NW\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Data Science for Scientists: College of Sciences Data Science Semi
  nar
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211119T210000Z
@@ -11489,6 +11690,28 @@ LOCATION:Westminister Christian Fellowship\, 724 Techwood Dr NW\, Atlanta\
  , 30313
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Grace Coffee House
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211125T180000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211125T230000Z
+UID:http://hg.gatech.edu/node/651295#8
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nWe are famous for our FREE coffee
+  at Grace House [1]!\n\nOur coffee house runs on Thursdays from 1- 6pm. We
+  serve coldbrew when it's hot and hot coffee when it's cold. If you don't 
+ do caffeine or your faith tradition doesn't do caffeine\, we can make you 
+ chocolate milk or hot chocolate! And it's all free.\n\nSometimes we have s
+ pecial guests\, pets\, kids\, surrogate grandparents\, cookies\, and hot m
+ eals as well during this time. This fall\, we will have some student repre
+ sentatives from Active Minds available to talk if you aren't comfortable t
+ alking with our interns or staff. Sometimes a familiar face is just what y
+ ou need.\n\nFollow @gtgracehouse on instagram [2] and text #coffee to 404.
+ 999.4471 to get alerts [3] for our coffee events.\n\nLinks:\n[0]  http://h
+ g.gatech.edu/node/651295#8\n[1]  https://gracepeople.org\n[2]  https://www
+ .instagram.com/gtgracehouse\n[3]  http://hg.gatech.edu/node/+14049994471&b
+ ody=coffee
+LOCATION:Grace House\, 182 5th Street NW\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:End of the Semester Social 
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211130T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211130T170000Z
@@ -11510,6 +11733,29 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  .campuslabs.com/engage/organization/westminsterchristianfellowship
 LOCATION:Westminister Christian Fellowship\, 724 Techwood Dr NW\, Atlanta\
  , 30313
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grace Coffee House
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211202T180000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211202T230000Z
+UID:http://hg.gatech.edu/node/651295#9
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nWe are famous for our FREE coffee
+  at Grace House [2]!\n\nOur coffee house runs on Thursdays from 1- 6pm. We
+  serve coldbrew when it's hot and hot coffee when it's cold. If you don't 
+ do caffeine or your faith tradition doesn't do caffeine\, we can make you 
+ chocolate milk or hot chocolate! And it's all free.\n\nSometimes we have s
+ pecial guests\, pets\, kids\, surrogate grandparents\, cookies\, and hot m
+ eals as well during this time. This fall\, we will have some student repre
+ sentatives from Active Minds available to talk if you aren't comfortable t
+ alking with our interns or staff. Sometimes a familiar face is just what y
+ ou need.\n\nFollow @gtgracehouse on instagram [3] and text #coffee to 404.
+ 999.4471 to get alerts [4] for our coffee events.\n\nLinks:\n[0]  http://h
+ g.gatech.edu/node/651295#9\n[1]  https://gatech.campuslabs.com/engage/even
+ t/7459041\n[2]  https://gracepeople.org\n[3]  https://www.instagram.com/gt
+ gracehouse\n[4]  sms:+14049994471&body=coffee\n[5]  http://hg.gatech.edu/n
+ ode/+14049994471&body=coffee
+LOCATION:Grace House\, 182 5th Street NW\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tapping Circle for Stress and Calm - 2nd Fridays 3:30-
