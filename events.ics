@@ -2,62 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Sunday Morning Worship
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201004T143000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201004T153000Z
-UID:https://gatech.campuslabs.com/engage/event/6158614
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Sunday Morni
- ng to Worship together! Follow our social media or join our slack channel 
- for up-to-date information (online vs. in-person\, speakers\, etc.).\n\nLi
- nks:\n[0]  https://gatech.campuslabs.com/engage/event/6158614
-LOCATION:Tech Wesley
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TBD\, (CELLINK: Overview of Tools and Capabilities)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201005T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201005T170000Z
-UID:http://hg.gatech.edu/node/638391#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nLunch and Learn Speaker Series Fall 2020 Speake
- r:\nNicole Diamantides\nBioprinting Solutions Architect\nCELLINK\, Inc.\n\
- nAbstract:\n> Additional details posted closer to event\n\nBio:\n> Additio
- nal details posted closer to event\n\nLunch and Learn Speaker Series Fall 
- 2020 Speaker:\nPatrick Thayer\nBioprinting Solutions Architect\nCELLINK\, 
- Inc.\n\nAbstract:\n> Additional details posted closer to event\n\nBio:\n> 
- Additional details posted closer to event\n\nLinks:\n[0]  http://hg.gatech
- .edu/node/638391#0\n[1]  http://hg.gatech.edu/node/638385#0
-LOCATION:Virtual Event - Details forthcoming
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Movie Night
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201005T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201006T010000Z
-UID:https://gatech.campuslabs.com/engage/event/6500938
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nGeorgia Tech Students a
- re welcome to attend a free screening of the movie Divided Hearts of Ameri
- ca on Monday\, October 5th in Skiles 202. Social distancing will be applie
- d and pre-packaged snacks and drinks will be provided.\n\nLinks:\n[0]  htt
- ps://gatech.campuslabs.com/engage/event/6500938
-LOCATION:Skiles 202
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Outdoor Open Office Hours
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201006T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201006T160000Z
-UID:http://hg.gatech.edu/node/639683#1
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\, Freebies\nStatus: published\n\nThe Office of Und
- ergraduate Education welcomes all students to meet and chat with Georgia T
- ech faculty\, staff\, and administration in a safe\, socially-distanced en
- vironment.\n\nJoin us 11a-12p Tuesdays and Fridays (in October/November) a
- t the Tech Green for conversation and refreshment. Come for the snacks—s
- tay for the conversations!\n\n*In case of inclement weather\, meetings wil
- l take place in the Clough Lounge (Suite 205Q)\n\nLinks:\n[0]  http://hg.g
- atech.edu/node/639683#1\n[1]  http://instagram.com/gtoue\n[2]  http://oue.
- gatech.edu
-LOCATION:Tech Green
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tuesday Night Worship
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201006T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201007T010000Z
@@ -10258,6 +10202,21 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Richards Gallery at the Ferst Center for the Arts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:URA Recruitment Info Session
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211014T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211014T160000Z
+UID:https://gatech.campuslabs.com/engage/event/7474276
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nAre you in
+ terested in becoming an Undergraduate Research Ambassador? Come to the vir
+ tual info session on Oct. 14 from 11am-12 pm for the opportunity to join a
+  community of students dedicated to helping others find their passions in 
+ research!\nThe application is currently live and is available on our websi
+ te. The application is due Nov. 7th\, and the recommendation letter is due
+  Nov. 10th.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/747
+ 4276
+LOCATION:CULC 272
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Admiral Sandy Winnefeld at the Atlanta Council on International Re
  lations
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211014T160000Z
@@ -10339,6 +10298,20 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Catholic Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:What I Wish I Had Known about Health & Wealth as a New Grad with V
+ J Founding President Valeria Hernandez
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211014T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211015T000000Z
+UID:https://gatech.campuslabs.com/engage/event/7483356
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThursday\, October 14th
+  from 7-8 pm in Skiles 368 (free vegan cinnamon rolls provided by Cinnahol
+ ic Edgewood!)\n\nGuests who are experiencing symptoms of Covid-19 should n
+ ot attend. We strongly encourage that you wear a mask when not eating (esp
+ ecially if indoors). We will be providing hand sanitizer.\n\nLinks:\n[0]  
+ https://gatech.campuslabs.com/engage/event/7483356
+LOCATION:Skiles 368
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Traveling While Black
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211015T040000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211016T035900Z
@@ -10365,6 +10338,18 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Richards Gallery at the Ferst Center for the Arts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Vibe-Check: Coloring\, Origami\, and Chill Vibes!
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211015T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211015T183000Z
+UID:https://gatech.campuslabs.com/engage/event/7483347
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome join us for our fi
+ rst SWE social this year: Vibe-Check! Drop by the Kendeda Design Studio (R
+ oom 110) on Friday\, October 15th between 1pm and 2:30pm for some relaxati
+ on time. We’ll have coloring pages\, origami\, sweet treats\, and chill 
+ vibes!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7483347
+LOCATION:Kendeda Design Studio Room 110
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Data Science for Scientists: College of Sciences Data Science Semi
  nar
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211015T200000Z
@@ -10386,6 +10371,35 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  d%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2280f253d
  9-02ae-418f-9c23-4f234fa2f6d8%22%7d
 LOCATION:ES&T L1205 and online via MS Teams
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2021-22 General Body Meeting 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211015T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211016T000000Z
+UID:https://gatech.campuslabs.com/engage/event/7481450
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nWe will el
+ ect our Executive Committee for the academic year!\n\nLinks:\n[0]  https:/
+ /gatech.campuslabs.com/engage/event/7481450
+LOCATION:Kendeda 230
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GT Community Garden (Campus Kitchens)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211016T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211016T153000Z
+UID:https://gatech.campuslabs.com/engage/event/7481416
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCampus Kitchens will be
+  helping out at the GT Community Garden on Saturday\, October 16 from 10 a
+ m-11 am. This will be a chance to meet some of the other members of the or
+ ganization as well as the executive board.\n\nAfterward\, from 11 am-11:30
+  am we will meet in the Centennial Room in the Exhibition to discuss what 
+ Campus Kitchens is\, what we do\, and what our future plans look like. Thi
+ s will just serve as a general body meeting and even if you cannot make it
+  to the volunteering event from 10am-11am we encourage you to still show u
+ p to this meeting. (There will be freed food!)\n\nhttps://www.signupgenius
+ .com/go/10c0c45aba728a3ffcf8-ckpfall\n\nJust use the signupgenius link abo
+ ve to signup for the October 16th event!\n\nLinks:\n[0]  https://gatech.ca
+ mpuslabs.com/engage/event/7481416
+LOCATION:Community Garden/Exhibition Hall
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WCF Free Dinner
@@ -11656,5 +11670,28 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  hg.gatech.edu/node/648430#0\n[1]  https://ien.gatech.edu/
 LOCATION:Georgia Institute of Technology | Marcus Nanotechnology Building 
  1116-1117 | 345 Ferst Drive Atlanta | GA 30332
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winter Organizations Fair 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220120T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220120T180000Z
+UID:https://gatech.campuslabs.com/engage/event/7471308
+DESCRIPTION:Extras: Credit\, Free Food\, Free Stuff\nStatus: approved\n\nT
+ his event fulfills a requirement of the GOLD Route. To learn more about th
+ e GOLD Route\, click here. [1]\n\nEach Spring\, the Center for Student Eng
+ agement and SGA host the Winter Org Fair which provides new and returning 
+ Yellow Jackets an opportunity to connect with our 550+ Registered Student 
+ Organizations! Grab a coffee at Clough and stop by Tech Walkway on your wa
+ y between classes to find your community on campus!\n\nThis is a great opp
+ ortunity to meet organization leaders and kick-start your involvement at G
+ eorgia Tech!\n\nPLEASE NOTE: Student Organizations must register for a tab
+ le using this form. RSVP'ing to this event does not reserve a table for yo
+ ur RSO. [2]\n\nDownload the CORQ App [3] and present it at the Student Eng
+ agement Tent to receive free hot cocoa and a cookie!\n\nLinks:\n[0]  https
+ ://gatech.campuslabs.com/engage/event/7471308\n[1]  https://student-organi
+ zations.gatech.edu/content/gold-route\n[2]  https://gatech.campuslabs.com/
+ engage/submitter/form/start/507527\n[3]  https://student-organizations.gat
+ ech.edu/content/get-connected-stay-engaged
+LOCATION:Tech Green/Tech Walkway 
 END:VEVENT
 END:VCALENDAR
