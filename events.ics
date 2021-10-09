@@ -2,78 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Tuesday Night Worship
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201006T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201007T010000Z
-UID:https://gatech.campuslabs.com/engage/event/6158602
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us Tu
- esday night for dinner and Worship! Follow our social media or join or sla
- ck channel for up-to-date information (online vs. in-person\, speakers\, e
- tc.).\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6158602
-LOCATION:Tech Wesley
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SAA Alumni Connections Committee Meeting
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201008T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201008T160000Z
-UID:http://hg.gatech.edu/node/639168#3
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nThis committee is made up of students who are Dinner
-  Jackets facilitators and Expert Jackets and IMPACT Meet & Greet event lea
- ds. Anyone is welcome to join the committee\, and all new members will be 
- trained on skills like writing a professional email\, communicating with a
- lumni and GT faculty members\, and event planning. As a member of this com
- mittee\, you will have the opportunity to:\n\n* Serve as a Dinner Jackets 
- student facilitator.\n* Communicate with alumni as dinner plans are made -
-  letting alumni know who is coming\, special needs\, and answer questions.
- \n* Communicate plans to student attendees - letting students know alumni 
- backgrounds\, directions\, organize transportation\, and answer questions.
- \n* Act as the student host at events - assist alumni onsite\, make introd
- uctions\, and keep conversation flowing.\n* Help plan and execute all logi
- stics associated with the events.\n* Find alumni at the top of their field
-  who would be popular for Expert Jackets or Dinner Jackets.\n\nPlease emai
- l the committee chairs at expertjackets@gtsaa.com [1] if you would like mo
- re information!\n\nLinks:\n[0]  http://hg.gatech.edu/node/639168#3\n[1]  e
- xpertjackets@gtsaa.com\n[2]  https://bluejeans.com/611690607?src=calendarL
- ink\n[3]  https://bluejeans.com/611690607?src=calendarLink\;
-LOCATION:Online
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Where There's a Krill\, There's a Way!
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201008T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201008T160000Z
-UID:http://hg.gatech.edu/node/638135#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nNicole Hellessey\
- , Ph.D.\nSchool of Biological Sciences\nGeorgia Institute of Technology\n\
- nJoin the BlueJeans Meeting [1]\n\nABSTRACT\nAntarctic krill (Euphausia su
- perba) is a key component of the Antarctic food web with considerable lipi
- d reserves that are vital for both their own and higher predator survival.
-  Krill feed on diatoms\, dinoflagellates and other algal species year-roun
- d\, resulting in high omega-3 polyunsaturated fatty acids which are essent
- ial for krill health\, growth and reproduction. Krill-derived omega-3 cont
- aining products (particularly eicosapentacnoic acid (20:5w3) and docosahex
- aenoic acid (22:6w3)) are sold as nutraceuticals for human consumption. Kr
- ill oil tablets (sold as an omega-3 supplement) are now one of the fastest
-  growing nutraceuticals globally. However\, few attempts have been made to
-  link the spatial and temporal variations in krill lipids to those in thei
- r food supply. Knowledge of krill diet and krill lipid dynamics is lacking
-  for the Indian and Pacific Oceans\, as most studies have focused on the S
- outh Atlantic Ocean sector where the krill fishery is based. Most research
-  voyages are conducted during the summer and all scientific studies are re
- stricted in their spatial and temporal scales. Another major gap in curren
- t Antarctic ecosystem models is the link between environmental drivers and
-  their impact on primary production and therefore food availability. Satel
- lite-derived data for biological and ecological measures is still developi
- ng as a tool although outputs such as ocean colour data which can be conve
- rted into chlorophyll a concentrations (a proxy for primary production)\, 
- are becoming more common. This seminar will cover recent developments in t
- he knowledge of spatiotemporal fluctuations of krill lipid biochemistry in
-  relation to their environment.\n\nLinks:\n[0]  http://hg.gatech.edu/node/
- 638135#0\n[1]  https://bluejeans.com/528183560
-LOCATION:Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BPU Meeting 
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201008T231500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201009T013000Z
@@ -9863,6 +9791,21 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Richards Gallery at the Ferst Center for the Arts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Prototype to Production and Overcoming Challenges Along the Way
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211007T143000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211007T160000Z
+UID:https://gatech.campuslabs.com/engage/event/7489604
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThe skills required to 
+ develop a prototype for any product\, whether it be hardware\, software\, 
+ biomedical device\, or complex tool\, are usually much different than the 
+ skills needed to make a robust\, dependable\, low-cost\, production versio
+ n of that prototype. The panel will explore some of the pitfalls to avoid 
+ and some of the new skills that your company will need to attain to produc
+ e your technology at scale.\n\nLinks:\n[0]  https://gatech.campuslabs.com/
+ engage/event/7489604
+LOCATION:Library Theater\, Room 1280
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:New Researchers Coffee Hour
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211007T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211007T160000Z
@@ -9901,6 +9844,39 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  gracehouse\n[4]  sms:+14049994471&body=coffee\n[5]  http://hg.gatech.edu/n
  ode/+14049994471&body=coffee
 LOCATION:Grace House\, 182 5th Street NW\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PianoForte October General Meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211007T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211007T230000Z
+UID:http://hg.gatech.edu/node/650979#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Credit\, Free Food\, Free Stuff\nStatus: published\n\nPianoForte 
+ will have its monthly general meeting on Thursday\, October\, from 5-7pm.\
+ n\nThe meeting will be in-person in the Bill Moore Student Success Center 
+ (Clary Theatre) and will consist of a brief New Member’s introduction to
+  PianoForte\, an overview of upcoming events and open discussion\, and an 
+ interactive streaming of member-favorite piano videos! Attendance is optio
+ nal for any part of this meeting.\n\nIf you have any questions or topics y
+ ou would like us to add to the agenda\, please submit them via this Questi
+ ons Google Form [2] prior to the event.\n\nExample question themes:\n\n- I
+ s there anything specifically piano-related you’d want to see on campus?
+ \n- More pianos\, more practice space\, teaching resources\, socials\, con
+ certs?\n- What is currently missing on campus when it comes to music and t
+ he arts?\n\nOctober General Meeting\n\nThe meeting will be in-person in th
+ e Bill Moore Student Success Center (Clary Theatre) with catering and drin
+ ks available.\nWe will welcome new members\, announce our new exciting pro
+ jects\, and overview upcoming events/trips. Lastly\, we will watch the rec
+ ently-uploaded September Themed Concert! Attendance is encouraged but opti
+ onal for any part of this meeting.\n\nIN THE MEETING YOU WILL HAVE:\n\n- F
+ irst dibs to RSVP for Member Practice Blocks with an upright in the X-Hall
+ \n- First dibs to RSVP for October's Atlanta Symphony Orchestra tickets\n-
+  First access to the designs and interest forms for 2021-2022 Member T-Shi
+ rts and Notebooks!\n\nRSVP on Engage!\n\nLinks:\n[0]  http://hg.gatech.edu
+ /node/650979#0\n[1]  https://gatech.campuslabs.com/engage/event/7419059\n[
+ 2]  https://forms.gle/3udgvMV9X7ATGXki7\n[3]  https://docs.google.com/form
+ s/d/e/1FAIpQLSfqMuYL485nnvoBA0Y34NG3KgMHKbawPrroVltRND4Ekh9BVQ/viewform
+LOCATION:Clary Theatre\, Bill Moore Student Success Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GTVSA Moon Festival
@@ -10176,6 +10152,18 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Richards Gallery at the Ferst Center for the Arts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2YE Innovation Partners' Networking Session
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211013T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211013T220000Z
+UID:https://gatech.campuslabs.com/engage/event/7489687
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us on
+  Wed.\, Oct. 13 at 5pm for a campus innovation partners’ networking sess
+ ion. Discuss how to get involved in various innovation opportunities! Open
+  to all 2 nd years whether you live in the dorms or commute to campus.\n\n
+ Links:\n[0]  https://gatech.campuslabs.com/engage/event/7489687
+LOCATION:Yellow Jacket room\, North Avenue North Residence Hall
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Traveling While Black
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211014T040000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211015T035900Z
@@ -10381,6 +10369,22 @@ DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nWe will el
  ect our Executive Committee for the academic year!\n\nLinks:\n[0]  https:/
  /gatech.campuslabs.com/engage/event/7481450
 LOCATION:Kendeda 230
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dussehra Celebration Night
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211015T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211016T020000Z
+UID:https://gatech.campuslabs.com/engage/event/7488468
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin Asha Atlanta's ama
+ zing community for a super-fun Dussehra celebration night!\n\nVenue: Home 
+ Park Room @ Exhibition Hall GT\, 6 - 10 PM October 15\n\nWhat do we have i
+ n store? Delicious Home-cooked food\, an Open mic\, an array of Dussehra t
+ hemed activities including Rangoli\, Photo Booth and Party games\n\nRegist
+ er here [1] soon. Registration fee*: $8\n\n* All proceeds from the event w
+ ill go towards the education of underprivileged children and women in Indi
+ a.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7488468\n[1]
+   https://tinyurl.com/AshaDussehra21
+LOCATION:Home Park room @ Exhibition Hall
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GT Community Garden (Campus Kitchens)
