@@ -2,17 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Sunday Morning Worship
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201011T143000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201011T153000Z
-UID:https://gatech.campuslabs.com/engage/event/6158615
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Sunday Morni
- ng to Worship together! Follow our social media or join our slack channel 
- for up-to-date information (online vs. in-person\, speakers\, etc.).\n\nLi
- nks:\n[0]  https://gatech.campuslabs.com/engage/event/6158615
-LOCATION:Tech Wesley
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Next Generation Composite Structures Maintenance
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201012T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201012T170000Z
@@ -10072,12 +10061,16 @@ BEGIN:VEVENT
 SUMMARY:2YE Innovation Partners' Networking Session
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211013T210000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211013T220000Z
-UID:https://gatech.campuslabs.com/engage/event/7489687
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us on
-  Wed.\, Oct. 13 at 5pm for a campus innovation partners’ networking sess
- ion. Discuss how to get involved in various innovation opportunities! Open
-  to all 2 nd years whether you live in the dorms or commute to campus.\n\n
- Links:\n[0]  https://gatech.campuslabs.com/engage/event/7489687
+UID:http://hg.gatech.edu/node/651520#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free Stuff\, Free food\, Freebies\nStatus: published\n\nJoin
+  us on Wed.\, Oct. 13 at 5pm for a campus innovation partners’ networkin
+ g session. Discuss how to get involved in various innovation opportunities
+ ! Open to all 2 nd years whether you live in the dorms or commute to campu
+ s.\n\nLet us know you are coming at [2]\n\nYellow Jacket room\, North Aven
+ ue North Residence Hall\n\nLinks:\n[0]  http://hg.gatech.edu/node/651520#0
+ \n[1]  https://gatech.campuslabs.com/engage/event/7489687\n[2]  https://bi
+ t.ly/GTinnovationsession\n[3]  http://innovation.gatech.edu
 LOCATION:Yellow Jacket room\, North Avenue North Residence Hall
 END:VEVENT
 BEGIN:VEVENT
@@ -10511,6 +10504,18 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#2
  9\n[1]  https://arts.gatech.edu/twb
 LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PLUS and LA Faculty Information Session hosted by Tutoring & Acade
+ mic Support
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211021T123000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211021T140000Z
+UID:http://hg.gatech.edu/node/651590#0
+DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\nStatus: p
+ ublished\n\nGeorgia Tech Faculty - Stop by to learn about how the Peer-Led
+  Undergraduate Study (PLUS) and Learning Assistant (LA) programs can suppo
+ rt your classes.\n\nLinks:\n[0]  http://hg.gatech.edu/node/651590#0
+LOCATION:Skiles Courtyard
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Diversity in Research Panel
