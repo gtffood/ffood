@@ -2,95 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Next Generation Composite Structures Maintenance
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201012T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201012T170000Z
-UID:http://hg.gatech.edu/node/638388#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nLunch and Learn Speaker Series Fall 2020 Speake
- r:\nChuck Zhang\nProfessor\nGeorgia Tech\, School of ISYE\n\nAbstract:\n> 
- Additional details posted closer to event\n\nBio:\n> Additional details po
- sted closer to event\n\nLinks:\n[0]  http://hg.gatech.edu/node/638388#0
-LOCATION:Virtual Event - Details forthcoming
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:10/12/20 dinner with Dr. Mary Lynn Realff
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201012T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201012T230000Z
-UID:http://hg.gatech.edu/node/639344#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nOn Monday 10/12/20 Dr. Mary Lynn 
- Realff will discuss strengths\, resilience\, and thriving. Dr. Realff is A
- ssociate Professor of Materials Science and Engineering at Georgia Institu
- te of Technology. She is also Associate Chair for Undergraduate Programs i
- n the School of Materials Science and Engineering at Georgia Tech\, a Co-D
- irector of the Center for the Study of Women\, Science and Technology\, an
- d a Fellow of the Center for Deliberate Innovation.\nWST Learning Communit
- y residents can pick up meals in Stein before the meeting.\n\nThe meeting 
- will begin about 5:55pm in Blue Jeans: https://bluejeans.com/999677949\n\n
- About Dr. Realff:\n\nShe received her BS Textile Engineering from Georgia 
- Tech and her PhD in Mechanical Engineering and Polymer Science & Engineeri
- ng from the Massachusetts Institute of Technology (MIT).\n\nHer current re
- search is focused on Effective Team Dynamics for both undergraduate and gr
- aduate students. The Effective Team Dynamics Initiative develops curriculu
- m and workshops that enable students to gain the competencies to work effe
- ctively in teams and for faculty to gain the competencies to guide student
- s through challenging team dynamics is making a positive impacts at Georgi
- a Tech.\n\nAt Georgia Tech\, she also teaches graduate and undergraduate c
- ourses in the mechanics of textile structures and polymer science areas. D
- r. Realff has made a significant contribution to the understanding of the 
- mechanical behavior of woven fabrics. She is continuing her work in modeli
- ng the mechanical behavior of textile structures utilizing both theoretica
- l and experimental approaches.\n\nDr. Realff also facilitates a student/in
- dustry mentoring program which matches industry mentors with Georgia Tech 
- undergraduate students for 9 month mentoring relationships. The program ha
- s been shown to increase the retention of students.\n\nDr. Realff is a mem
- ber of The Fiber Society\, American Association of Textile Colorists and C
- hemists\, the American Society of Engineering Educators\, and the Society 
- of Women Engineers. She is currently Fellow and a Governor on the Board of
-  the American Society of Mechanical Engineers.\n\nDr. Realff is a Gallup C
- ertified Strengths Coach\, on the board of the Center for Puppetry Arts in
-  Atlanta\, GA and volunteers at Inman Middle School (directing the GEMS gi
- rls’ science club) and at Buckhead Church. She lives in Atlanta with her
-  husband (a professor at Georgia Tech). They have two children: a daughter
-  that lives in Wisconsin and a son who lives in Japan.\n\nLinks:\n[0]  htt
- p://hg.gatech.edu/node/639344#0
-LOCATION:Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Outdoor Open Office Hours
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201013T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201013T160000Z
-UID:http://hg.gatech.edu/node/639683#3
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\, Freebies\nStatus: published\n\nThe Office of Und
- ergraduate Education welcomes all students to meet and chat with Georgia T
- ech faculty\, staff\, and administration in a safe\, socially-distanced en
- vironment.\n\nJoin us 11a-12p Tuesdays and Fridays (in October/November) a
- t the Tech Green for conversation and refreshment. Come for the snacks—s
- tay for the conversations!\n\n*In case of inclement weather\, meetings wil
- l take place in the Clough Lounge (Suite 205Q)\n\nLinks:\n[0]  http://hg.g
- atech.edu/node/639683#3\n[1]  http://instagram.com/gtoue\n[2]  http://oue.
- gatech.edu
-LOCATION:Tech Green
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Career Services Workshop: Salary Negotiation
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201013T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201013T233000Z
-UID:http://hg.gatech.edu/node/636227#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: draft\n\nLanding the perfect full-time/in
- ternship position is something worth celebration! But what happens when yo
- u receive an offer that is not equally as exciting? Learn how to professio
- nally negotiate your salary and strategies for declining an offer that you
-  are no longer interested in. Practice your negotiation skills to ensure t
- hat you are professional and confident when the time comes!\n\nRSVP here [
- 1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/636227#0\n[1]  https://app.jo
- inhandshake.com/events/419479
-LOCATION:Klaus 1116
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tuesday Night Worship
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201013T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201014T010000Z
@@ -10074,6 +9985,18 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Yellow Jacket room\, North Avenue North Residence Hall
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Geberal Body Meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211013T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211013T230000Z
+UID:https://gatech.campuslabs.com/engage/event/7508492
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nGeneral Body Meeting an
+ d presentation from career services with regards to integrating the job ma
+ rket as an international student and what they can do for you.\n\nMOSE Bui
+ lding G021 Classroom\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/
+ event/7508492
+LOCATION:MOSE Building G021
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Traveling While Black
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211014T040000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211015T035900Z
@@ -10114,6 +10037,24 @@ DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free Stuff\
  tp://hg.gatech.edu/node/651478#0\n[1]  https://gatech.campuslabs.com/engag
  e/event/7474276
 LOCATION:CULC 272
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2021 Staff Appreciation Day
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211014T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211014T200000Z
+UID:http://hg.gatech.edu/node/651628#0
+DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\, Freebies
+ \nStatus: published\n\nJoin Staff Council for food\, fun\, and more during
+  Staff Appreciation Day on Tech Green\, Thursday\, Oct. 14. You can also p
+ articipate in friendly competition with colleagues in the Staff Appreciati
+ on Day Games.\n\nRegistration is required to attend Staff Appreciation Day
+ . Please sign up at at bit.ly/StaffAppreciationDay [1].\n\nLinks:\n[0]  ht
+ tp://hg.gatech.edu/node/651628#0\n[1]  https://r20.rs6.net/tn.jsp?f=001PqE
+ Ltg6rqt1fSY2zFfazLmEo7vBBS0sMEJ3CsCSqDoR6Lq0SCg4tZulJtUeldB-GsaP0gjqWwA-o2
+ G9qedkxk8O4XtBMbEQ2CppFKWQVF-IVQgK-_7Jr6H5E9_JIgvaAtipfUHR85aXO6JRcEzuAhij
+ XyeO9Le3n&c=eL3B0ixFkZBXsXObCxExJbhuwui3u1rldA8udIsZqUIsTe51WPzE9g==&ch=pJ
+ UlN5rG1FcvVAWA-qpvKf2l0UzA7qP1b8CwK1WLxhtsQNZW_K5SSw==
+LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Admiral Sandy Winnefeld at the Atlanta Council on International Re
@@ -10378,6 +10319,49 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Room 1447\, Klaus Advanced Computing Building
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Movie Night with YEF @ GT
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211016T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211017T020000Z
+UID:http://hg.gatech.edu/node/651568#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nCome join our movie night on Satu
+ rday\, October 16\, to have an amazing time as we get to fellowship togeth
+ er and learn more about God's burning desire for us and our redemption thr
+ ough life-changing films. Let's go!\n\nOnline Location Instructions: Be re
+ spectful and polite as you enter the call. Have your microphones muted. If
+  you desire\, turn on your webcam. Enjoy the movie!\n\nLinks:\n[0]  http:/
+ /hg.gatech.edu/node/651568#0\n[1]  https://gatech.campuslabs.com/engage/ev
+ ent/7508496\n[2]  https://gatech.campuslabs.com/engage/organization/youthe
+ vangelicalfellowship\n[3]  https://us02web.zoom.us/j/7771537777
+LOCATION:Buckhead Room\, Exhibition Hall\, and Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3rd General Meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211018T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211018T230000Z
+UID:https://gatech.campuslabs.com/engage/event/7508449
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin PAC for our 3rd me
+ eting of the Fall Semester! We will be discussing Physician Assistant Fell
+ owships and hearing from Brent Boyd! He is a PA-C at Piedmont Hospital.\n\
+ nWe will be meeting at 6PM in Skiles 311 on Monday\, October 18th.\n\nWe l
+ ook forward to seeing you all there!\n\nLinks:\n[0]  https://gatech.campus
+ labs.com/engage/event/7508449
+LOCATION:Skiles 311
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philosopher's Night - Karl Popper
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211018T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211018T233000Z
+UID:http://hg.gatech.edu/node/651606#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nJoin us as we discuss Karl Popper's life and debate 
+ his paradox of tolerance and his theory of falsification. This event will 
+ be held in Klaus 1447 in the Classroom Wing. Free snacks will be provided.
+ \n\nLinks:\n[0]  http://hg.gatech.edu/node/651606#0\n[1]  https://gatech.c
+ ampuslabs.com/engage/organization/greatconversations
+LOCATION:Room 1447\, Klaus Advanced Computing Building
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:What I Wish I Had Known about Health and Wealth as a New Grad
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211018T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211019T000000Z
@@ -10393,6 +10377,33 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  51474#0\n[1]  https://gatech.campuslabs.com/engage/organization/veggie-jac
  kets
 LOCATION:Room 368\, Skiles Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:French Day 2021
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211019T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211019T230000Z
+UID:http://hg.gatech.edu/node/651680#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
+ aduate students\nExtras: Free food\nStatus: published\n\nEvent Schedule\nW
+ elcome to the French Program!\n11:00 a.m. -12:15 p.m.\, Swann Atrium\, Swa
+ nn 115\n\nTables/Sessions:\nServe-Learn-Sustain GT Lorraine\nLBAT Paris\, 
+ Senegal\nMeet our students in M.S. Applied Languages and Intercultural Stu
+ dies\, M.S. Global Media and Culture\nMajor and Minor in French: Meet your
+  advisor\n\nRound Table Discussion: Futures in French with Invited Speaker
+ s\n12:30 p.m. - 2:00 p.m.\, Eng. Science and Mechanics 201\n\n- David Ruff
+ el\, Cultural Attaché\, General Consulate of France in Atlanta\n- Dawn K
+ immich\, Assistant General Counsel\, Director of Compliance\, Delta\n- Joh
+ n W. Woodward\, Vice President\, Global Commerce\, Metro Atlanta Chamber o
+ f Commerce\n- Representatives from the Swiss and Belgian Consulates\n\nPro
+ gram information sessions\, Art Contest\, Music and Cultural Trivia\n2:00 
+ p.m. - 3:00 p.m.\, Swann Atrium\, Swann 106\nRecreate famous paintings wit
+ h everyday objects!\n\nFrench Club Crêpes and Conversation\n3:00 p.m. - 
+ 4:30 p.m.\, Swann 106\n\nFilm Screening Euromerica\n5:00 p.m. - 7:00 p.m.\
+ , Clary Theatre (Georgia Tech Student Success Center)\n\nNew film by GT M.
+ S. graduate in French\, Steven Norris\, co-sponsored by Atlanta Global Stu
+ dies Center (AGSC)\n\n*Food and drinks will be served throughout the day!*
+ \n\nLinks:\n[0]  http://hg.gatech.edu/node/651680#0
+LOCATION:Multiple Locations
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WCF Free Dinner
@@ -11053,6 +11064,21 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#3
  5\n[1]  https://arts.gatech.edu/twb
 LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Summer Research Opportunities
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211104T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211104T160000Z
+UID:https://gatech.campuslabs.com/engage/event/7511314
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAre you looking to do r
+ esearch over the summer? URA’s Summer Opportunities event will discuss a
+ ll the ways to get summer research\, from opportunities right here at GT t
+ o opportunities out-of-state and even abroad. We’ll also share our finds
+  for research-oriented internships and scholarships. The event will be hel
+ d on Thursday\, November 4\, from 11am-12pm in CULC 102. We will also have
+  free food!\n\nWe have 50 RSVP spots but also welcome walk-ins!\n\nLinks:\
+ n[0]  https://gatech.campuslabs.com/engage/event/7511314
+LOCATION:CULC 102
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grace Coffee House
