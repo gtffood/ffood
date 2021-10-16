@@ -2,107 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Tuesday Night Worship
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201013T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201014T010000Z
-UID:https://gatech.campuslabs.com/engage/event/6158603
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us Tu
- esday night for dinner and Worship! Follow our social media or join or sla
- ck channel for up-to-date information (online vs. in-person\, speakers\, e
- tc.).\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6158603
-LOCATION:Tech Wesley
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PhD Defense by Manish Pokhrel
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201014T180000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201014T200000Z
-UID:http://hg.gatech.edu/node/639982#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nStatus: published\n\nManish Pokhrel\n(Advisor: P
- rof. Dimitri Mavris]\n\nwill defend a doctoral thesis entitled\,\n\nA Fram
- ework for Fan Stage Conceptual Design Under Distortion\n\nInduced by Bound
- ary Layer Ingestion\n\nWednesday\, October 14 at 12:00 p.m.\nMeeting Link:
-  [1]\n\nAbstract\nVarious tightly integrated aircraft concepts have emerge
- d as a result of aggressive performance goals set forth by various organiz
- ations. Most integrated aircraft system configurations exploit the concept
-  of Boundary Layer Ingestion (BLI). While the potential benefits of BLI ar
- e huge\, several significant challenges - both on the modeling and design 
- fronts - appear due to BLI. This dissertation focuses on addressing the im
- pacts of BLI induced circumferential flow distortion on the conceptual des
- ign of a fan stage.\n\nDistortion introduces extra losses in both rotors a
- nd stators in addition to increased unsteady rotor response. In presence o
- f incidence swings\, conventional conceptual design tools are inadequate t
- o design optimal rotor blades and generate non-axisymmetric stators\, a co
- ncept that has shown promise in alleviating stage losses due to distortion
- . Besides\, concerns of structural integrity also arise for rotor blades d
- ue to the unsteady loading they experience when rotating in a distorted fl
- ow field. Parametric effects of these phenomena with varying levels of dis
- tortion are quantified\, and a significant portion of the fan stage losses
-  are shown to be recoverable using the aero-structural design framework in
- troduced and developed in this dissertation.\n\nThe aerodynamic design fra
- mework is developed through several extensions to the conventionally used 
- multi-meanline method. The inclusion of additional features accounts for f
- low asymmetry\, parametric blade angle optimization\, rotor unsteady perfo
- rmance\, and non-axisymmetric stator design. The model is verified\, and e
- xperiments are performed to evaluate the effectiveness of each modeling el
- ement. Similarly\, the Variational Asymptotic Method (VAM) is proposed as 
- a computationally efficient technique to perform transient structural anal
- ysis of rotor blades. VAM is validated for a variety of loading scenarios 
- and is leveraged to demonstrate the nature of vibratory stresses and highl
- ight the concerns of resonance on a test case. The framework encapsulating
-  both aerodynamic design and structural analysis is finally utilized to ex
- plore the design space to minimize vibratory stresses on the blades with a
-  small trade-off in the stage efficiency. The fan stage design resulting f
- rom the framework proposed and formulated in this dissertation aims to ser
- ve as a starting point for the preliminary design of a distortion-tolerant
-  fan.\n\nCommittee\n\n- Prof. Dimitri Mavris – School of Aerospace Engin
- eering (Advisor and Committee Chair)\n- Prof. Lakshmi N. Sankar – School
-  of Aerospace Engineering\n- Prof. Dewey H. Hodges – School of Aerospace
-  Engineering\n- Dr. Jonathan Gladin – Research Engineer II\, School of A
- erospace Engineering\n- Dr. Mohit Gupta – Department of Aerospace Engine
- ering Sciences\, University of Colorado Boulder\n\nLinks:\n[0]  http://hg.
- gatech.edu/node/639982#0\n[1]  https://bluejeans.com/424060103
-LOCATION:BLUEJEANS: REMOTE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SAA Alumni Connections Committee Meeting
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201015T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201015T160000Z
-UID:http://hg.gatech.edu/node/639168#4
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nThis committee is made up of students who are Dinner
-  Jackets facilitators and Expert Jackets and IMPACT Meet & Greet event lea
- ds. Anyone is welcome to join the committee\, and all new members will be 
- trained on skills like writing a professional email\, communicating with a
- lumni and GT faculty members\, and event planning. As a member of this com
- mittee\, you will have the opportunity to:\n\n* Serve as a Dinner Jackets 
- student facilitator.\n* Communicate with alumni as dinner plans are made -
-  letting alumni know who is coming\, special needs\, and answer questions.
- \n* Communicate plans to student attendees - letting students know alumni 
- backgrounds\, directions\, organize transportation\, and answer questions.
- \n* Act as the student host at events - assist alumni onsite\, make introd
- uctions\, and keep conversation flowing.\n* Help plan and execute all logi
- stics associated with the events.\n* Find alumni at the top of their field
-  who would be popular for Expert Jackets or Dinner Jackets.\n\nPlease emai
- l the committee chairs at expertjackets@gtsaa.com [1] if you would like mo
- re information!\n\nLinks:\n[0]  http://hg.gatech.edu/node/639168#4\n[1]  e
- xpertjackets@gtsaa.com\n[2]  https://bluejeans.com/611690607?src=calendarL
- ink\n[3]  https://bluejeans.com/611690607?src=calendarLink\;
-LOCATION:Online
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Coffee and Policy
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201015T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201015T233000Z
-UID:http://hg.gatech.edu/node/640127#0
-DESCRIPTION:Intended audience: Undergraduate students\nStatus: published\n
- \nBring your coffee or your dinner and join us for a casual discussion of 
- health policy!\n\nLinks:\n[0]  http://hg.gatech.edu/node/640127#0\n[1]  ht
- tps://bluejeans.com/303937266\n[2]  https://sites.google.com/view/gtpublic
- health/home
-LOCATION:Online
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BPU Meeting 
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201015T231500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201016T013000Z
@@ -10545,6 +10444,19 @@ DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nAre you in
 LOCATION:CULC 102
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:HSOC Spring 2022 Course Preview Party!
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211021T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211021T162000Z
+UID:http://hg.gatech.edu/node/651710#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nFood\, fun\, friendship\, and BOOKS!\n\nCome check out the Spring 2022 c
+ lass schedule a week before it goes online. We'll have pizza\, drinks\, an
+ d the HSOC book raffle!\n\nAll are welcome — we can't wait to see you th
+ ere!\n\nLinks:\n[0]  http://hg.gatech.edu/node/651710#0
+LOCATION:Old Civil Engineering Building Back Patio
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Grace Coffee House
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211021T170000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211021T220000Z
@@ -10677,6 +10589,19 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Saturday in
  OliJZBA/viewform?usp=sf_link\n[3]  https://docs.google.com/document/d/1B19
  bvV1N73QFvuwN3UnBfZ913ij5IXtbz5cb2DzmNkU/edit?usp=sharing
 LOCATION:GT Community Garden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IEEE PES Annual Picnic
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211023T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211023T173000Z
+UID:http://hg.gatech.edu/node/651689#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nCome out with your family to Swee
+ twater Creek State Park for the IEEE PES Annual Picnic at Picnic Shelter 6
+  for good food and fun with your fellow IEEE PES members.\n\nRSVP Via [1]\
+ n\nLinks:\n[0]  http://hg.gatech.edu/node/651689#0\n[1]  https://gatech.ca
+ mpuslabs.com/engage/submitter/form/start/508803
+LOCATION:Sweetwater Creek State Park\, 1750 Mt Vernon Rd
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nano@Tech Fall 2022 Series | Session 5
@@ -11220,6 +11145,31 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Saturday in
 LOCATION:GT Community Garden
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2021 Step It Up 5K presented by Alpha Xi Delta
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211107T130000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211107T180000Z
+UID:http://hg.gatech.edu/node/651690#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nCALLING ALL RUNNE
+ RS!\n\nJoin us for the 7th Annual Step It Up 5K presented by Alpha Xi Delt
+ a on November 7\, 2021!\n\nRace entry is $25\, and all proceeds benefit Co
+ mmunities In Schools (CIS) of Atlanta to support students in need within M
+ etro Atlanta. This year’s race is a part of our yearlong Kindly Hearts C
+ ampaign\, which provides resources and support for those K-12 students mos
+ t impacted by the COVID-19 pandemic.\n\nThe race is an official Peachtree 
+ Qualifier. Participants will receive a free t-shirt and tickets toward oth
+ er prize drawings. Registration closes at 11:59 pm on November 5.\n\nOverv
+ iew\nEvent Date: Sunday\, November 7\, 2021\n\nEvent Location: Tech Green 
+ on the campus of Georgia Tech\, 350 Ferst Dr\, NW\, Atlanta\, GA 30332\n\n
+ Check-in Opens: 8:00 am\n\nRace Start Time: 9:00 am\n\nParking Information
+ \nParking for the race is available in visitors’ lots or metered spaces 
+ around the Georgia Tech campus – Area 4 and Area 2 are closest to the ra
+ ce.\n\nLinks:\n[0]  http://hg.gatech.edu/node/651690#0\n[1]  https://my.cr
+ owdchange.co/oubc1s
+LOCATION:Tech Green on the campus of Georgia Tech\, 350 Ferst Dr\, NW\, At
+ lanta\, GA 30332
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General Meeting with POND
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211109T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211109T170000Z
@@ -11304,6 +11254,24 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#3
  8\n[1]  https://arts.gatech.edu/twb
 LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veterans Day Luncheon
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211111T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211111T180000Z
+UID:http://hg.gatech.edu/node/651736#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nStatus: published\n\nThe Veterans Resource Cent
+ er is hosting a Veterans Day Lunch Thursday\, November 11th for Student Ve
+ terans\, Staff and Faculty and allies of veterans such as friends and fami
+ lies.\n\nThe event will take place on Thursday\, November 11 th\, in the E
+ xhibition Hall\, Midtown V Room\, from 11:00am to 1:00pm.\n\nGuest Speaker
+ :\n\nMario Mifsud\, CAPT\, USN (Ret)\n\nAssociate Director\, Electro-Optic
+ al Systems Lab\, Georgia Tech Research Institute (GTRI)\n\nDuring the even
+ t we will also have representatives from GTRI with information about their
+  research\, student internships\, and employment.\n\nLinks:\n[0]  http://h
+ g.gatech.edu/node/651736#0\n[1]  http://veterans.gatech.edu/
+LOCATION:Midtown V\, Exhibition Hall
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grace Coffee House
