@@ -2,60 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Cell Therapy Facility Design
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201019T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201019T170000Z
-UID:http://hg.gatech.edu/node/638389#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nLunch and Learn Speaker Series Fall 2020 Speake
- r:\nErich Bozenhardt\nBioprocess Subject Matter Expert & Process Manager\n
- Integrated Project Services\, LLC\n\nAbstract:\n> Additional details poste
- d closer to event\n\nBio:\n> Additional details posted closer to event\n\n
- Links:\n[0]  http://hg.gatech.edu/node/638389#0
-LOCATION:Virtual Event - Details forthcoming
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fall 2020 Grad Fest
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201020T130000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201020T210000Z
-UID:http://hg.gatech.edu/node/639943#1
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nGrad Fest is a one-sto
- p shop for graduating bachelor's\, master's and Ph.D. students to complete
-  their commencement requirements. All fall graduates are encouraged to par
- ticipate online.\n\nJoin us on the Grad Fest website to complete all your 
- Commencement needs:\n\n- Purchase your regalia online at a discounted rate
-  for pick-up at the Georgia Tech Bookstore\n- RSVP and reserve tickets for
-  Commencement\n- Learn more about Balfour and the new virtual ring orderin
- g process\n- Take professional cap and gown photos at the Exhibition Hall\
- n- Attend virtual sessions hosted by the Career Center\, the Alumni Associ
- ation and Balfour\n- Sign up for membership in the Alumni Association\n- D
- iscounted Starbucks beverages when picking up regalia at the Georgia Tech 
- Bookstore\n- Enter a raffle for a Georgia Tech Bookstore Alumni gift baske
- t by ordering your regalia online\n\nLinks:\n[0]  http://hg.gatech.edu/nod
- e/639943#1\n[1]  http://commencement.gatech.edu/commencement-fair\n[2]  ht
- tp://www.commencement.gatech.edu/
-LOCATION:Grad Fest Website\, the Georgia Tech Barnes and Noble Bookstore a
- nd Exhibition Hall
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Outdoor Open Office Hours
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201020T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201020T160000Z
-UID:http://hg.gatech.edu/node/639683#5
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\, Freebies\nStatus: published\n\nThe Office of Und
- ergraduate Education welcomes all students to meet and chat with Georgia T
- ech faculty\, staff\, and administration in a safe\, socially-distanced en
- vironment.\n\nJoin us 11a-12p Tuesdays and Fridays (in October/November) a
- t the Tech Green for conversation and refreshment. Come for the snacks—s
- tay for the conversations!\n\n*In case of inclement weather\, meetings wil
- l take place in the Clough Lounge (Suite 205Q)\n\nLinks:\n[0]  http://hg.g
- atech.edu/node/639683#5\n[1]  http://instagram.com/gtoue\n[2]  http://oue.
- gatech.edu
-LOCATION:Tech Green
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tuesday Night Worship
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201020T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201021T010000Z
@@ -10422,6 +10368,43 @@ LOCATION:Georgia Institute of Technology | Marcus Nanotechnology Building
  1116-1117 | 345 Ferst Drive Atlanta | GA 30332
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Net Impact Sustainability Workshop
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211025T213000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211025T230000Z
+UID:http://hg.gatech.edu/node/651827#0
+DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free Food\n
+ Status: published\n\nHow can your choice in coffee improve food access in 
+ Atlanta's urban food deserts?\n\nYou don't have to be a politician\, busin
+ ess executive or influencer to have an impact now. Join our workshop on gr
+ assroots consumer-advocacy.\n\nPurpose of workshop:\nTo draw out and put i
+ nto practice the unique and creative capabilities of the group through tho
+ ught-provoking discussion and collaborative exercises that explore princip
+ les of consumer-driven\, market-based solutions to environmental problems.
+  This workshop is designed to “inspire and equip emerging leaders to bui
+ ld a more just and sustainable world” by providing exposure to an action
+ able\, methodological framework for designing\, planning and implementing 
+ consumer advocacy campaigns that advance non-polluting / low-polluting alt
+ ernatives to polluting technologies\, products\, services\, processes and 
+ practices.\n\nAbout the facilitator:\n\nTyler Thompson is an experienced c
+ ommunity organizer specializing in workshop facilitation methods in both a
+ cademic and workplace settings\, including: U.S. State Department\; Cultur
+ al Heritage without Borders\; Westside Atlanta Land Trust\; Jack Ellis Com
+ pany\; Albanian Model United Nations\; Asim Zeneli High School\; and other
+ s. He is a practitioner of grassroots\, consumer-driven\, market-based sol
+ utions to the environmental problem. Son of environmental business writer\
+ , John Thompson--author of five published books\, including The Environmen
+ tal Entrepreneur: Where to find the profit in saving the Earth\, Longstree
+ t Press (1992). Formerly an internal consultant for international airports
+ \, focused on customer service and operational improvements for Delta Air 
+ Lines. Returned Peace Corps Volunteer (RPCV) Albania. Cross-continental cy
+ clist. M.A. International Development\, University of Denver.\n\nLinks:\n[
+ 0]  http://hg.gatech.edu/node/651827#0\n[1]  https://gatech.campuslabs.com
+ /engage/event/7531336\n[2]  https://gatech.campuslabs.com/engage/organizat
+ ion/enterprise-to-empower\n[3]  https://www.instagram.com/gtugnetimpact/
+LOCATION:Classroom 210\, The Kendeda Building for Innovative Sustainable D
+ esign
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General Meeting with Aulick Engineering
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211026T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211026T160000Z
@@ -10474,6 +10457,37 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  campuslabs.com/engage/organization/westminsterchristianfellowship
 LOCATION:Westminister Christian Fellowship\, 724 Techwood Dr NW\, Atlanta\
  , 30313
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GT 1000/2000 Team Leader Information Session
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211026T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211027T000000Z
+UID:http://hg.gatech.edu/node/651799#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nBECOME A TEAM LEADER!\n\nThe GT 1000/GT 2000 Program
+  is recruiting Team Leaders for their GT 1000 (First-Year Student Seminar)
+  and GT 2000 (Transfer Student Seminar) courses for Summer 2022 and Fall 2
+ 022 semesters.\n\nGT 1000/2000\, Georgia Tech’s first year and transfer 
+ seminar courses\, introduce new students to campus and support their succe
+ ssful transition to college. The courses meet one hour a week and are taug
+ ht by faculty and staff volunteers\, with upper-class students volunteerin
+ g as team leaders. Students interested in making an impact on the lives of
+  newly accepted Yellow Jackets are encouraged to apply to be a Team Leader
+ ! Team leaders are volunteers\, receiving no pay or academic credit.\n\nBe
+ ing a Team Leader is an amazing way to get involved and give back to the G
+ eorgia Tech community. As a mentor and leader on campus\, TLs have a rewar
+ ding impact on incoming students by helping them adjust to life at Georgia
+  Tech and pursue their path of success here.\n\nAll students are eligible 
+ to apply\, even if they haven’t participated in the program as a GT 1000
+ /2000 student. The application link will be released in November.\n\nIf yo
+ u would like to learn more about being a Team Leader for GT1000 or GT2000\
+ , there will be an Information Session on Tuesday\, October 26th from 7:00
+ pm to 8:00 pm in CULC 205. Food will be served!\n\nPlease use this link to
+  RSVP: Info Session Signup [1]\n\nIf you have any questions about becoming
+  a Team Leader\, please contact us at gt1000@gatech.edu [2].\n\nLinks:\n[0
+ ]  http://hg.gatech.edu/node/651799#0\n[1]  https://transitionseminars.oue
+ .gatech.edu\n[2]  gt1000@gatech.edu
+LOCATION:CULC 205Q ( Clough Lounge)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Traveling While Black
@@ -10687,6 +10701,19 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  there!\n\nLinks:\n[0]  http://hg.gatech.edu/node/651116#0
 LOCATION:Old Civil Engineering Building Patio 221 Bobby Dodd Way NW\, Atla
  nta\, GA 30332
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Student Hospital Connections - Halloween Paint & Sip
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211031T180000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211031T200000Z
+UID:http://hg.gatech.edu/node/651798#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nHalloween is just around the corner! Grab some frien
+ ds stop by SHC’s Paint & Sip event in your halloween costume to paint on
+  pumpkins and canvases! All the painting supplies\, including the canvas a
+ nd pumpkin\, along with food and drinks will be provided.\n\nLinks:\n[0]  
+ http://hg.gatech.edu/node/651798#0\n[1]  http://gtshc.weebly.com
+LOCATION:MoSE Patio\, 901 Atlantic Dr\, Atlanta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WST Lrn C dinner with Dr. Martha Grover
@@ -10973,6 +11000,37 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  owdchange.co/oubc1s
 LOCATION:Tech Green on the campus of Georgia Tech\, 350 Ferst Dr\, NW\, At
  lanta\, GA 30332
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BAPS Campus Fellowship Diwali Exhibition
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211109T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211109T020000Z
+UID:http://hg.gatech.edu/node/651858#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nIn the Joy of Others: Fostering H
+ armony Through Humility\n\nDrop in anytime between 7-9pm at our event in t
+ he Exhibition Hall which celebrates Diwali\, the festival of lights! The e
+ vent will focus on informing the Georgia Tech community about traditional 
+ Indian culture through a cultural exhibition about Diwali\, a festival cel
+ ebrated by individuals from around the world. After hosting a virtual even
+ t last year due to COVID-19 on the topic of Forgiveness\, we are more exci
+ ted than ever to host in person this year! Although the main celebration o
+ f this event is around Diwali\, the underlying values that we highlight ar
+ e really what impact people and are relatable to all. This year's theme\, 
+ “In the Joy of Others: Fostering Harmony through Humility” will connec
+ t individuals to Indian culture and help embrace diversity on our campus w
+ hile focusing on humility. As attendees enter the event\, they will go thr
+ ough an unique exhibition that will explain Diwali and its values through 
+ interactive activities.\n\nThis event will bring students of all cultural 
+ backgrounds together for a memorable evening about Diwali and humility!\n\
+ nJoin us in this FREE event and enjoy complimentary cultural food!\n\nRSVP
+  at bit.ly/GTDiwali2021 [2]\n\nCheck out our in-person event from 2019!\n\
+ n[3]\n\nLinks:\n[0]  http://hg.gatech.edu/node/651858#0\n[1]  https://gate
+ ch.campuslabs.com/engage/event/7528800\n[2]  https://gatech.campuslabs.com
+ /engage/submitter/organization/baps-campus-fellowship/eventsubmission/bit.
+ ly/GTDiwali\n[3]  https://www.youtube.com/watch?v=G6OheFhKzlA\n[4]  https:
+ //gatech.campuslabs.com/engage/organization/baps-campus-fellowship
+LOCATION:Exhibition Hall
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:General Meeting with POND
