@@ -2,109 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Tuesday Night Worship
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201020T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201021T010000Z
-UID:https://gatech.campuslabs.com/engage/event/6158604
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us Tu
- esday night for dinner and Worship! Follow our social media or join or sla
- ck channel for up-to-date information (online vs. in-person\, speakers\, e
- tc.).\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6158604
-LOCATION:Tech Wesley
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fall 2020 Grad Fest
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201021T130000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201021T210000Z
-UID:http://hg.gatech.edu/node/639943#2
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nGrad Fest is a one-sto
- p shop for graduating bachelor's\, master's and Ph.D. students to complete
-  their commencement requirements. All fall graduates are encouraged to par
- ticipate online.\n\nJoin us on the Grad Fest website to complete all your 
- Commencement needs:\n\n- Purchase your regalia online at a discounted rate
-  for pick-up at the Georgia Tech Bookstore\n- RSVP and reserve tickets for
-  Commencement\n- Learn more about Balfour and the new virtual ring orderin
- g process\n- Take professional cap and gown photos at the Exhibition Hall\
- n- Attend virtual sessions hosted by the Career Center\, the Alumni Associ
- ation and Balfour\n- Sign up for membership in the Alumni Association\n- D
- iscounted Starbucks beverages when picking up regalia at the Georgia Tech 
- Bookstore\n- Enter a raffle for a Georgia Tech Bookstore Alumni gift baske
- t by ordering your regalia online\n\nLinks:\n[0]  http://hg.gatech.edu/nod
- e/639943#2\n[1]  http://commencement.gatech.edu/commencement-fair\n[2]  ht
- tp://www.commencement.gatech.edu/
-LOCATION:Grad Fest Website\, the Georgia Tech Barnes and Noble Bookstore a
- nd Exhibition Hall
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fall 2020 Grad Fest
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201022T130000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201022T210000Z
-UID:http://hg.gatech.edu/node/639943#3
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nGrad Fest is a one-sto
- p shop for graduating bachelor's\, master's and Ph.D. students to complete
-  their commencement requirements. All fall graduates are encouraged to par
- ticipate online.\n\nJoin us on the Grad Fest website to complete all your 
- Commencement needs:\n\n- Purchase your regalia online at a discounted rate
-  for pick-up at the Georgia Tech Bookstore\n- RSVP and reserve tickets for
-  Commencement\n- Learn more about Balfour and the new virtual ring orderin
- g process\n- Take professional cap and gown photos at the Exhibition Hall\
- n- Attend virtual sessions hosted by the Career Center\, the Alumni Associ
- ation and Balfour\n- Sign up for membership in the Alumni Association\n- D
- iscounted Starbucks beverages when picking up regalia at the Georgia Tech 
- Bookstore\n- Enter a raffle for a Georgia Tech Bookstore Alumni gift baske
- t by ordering your regalia online\n\nLinks:\n[0]  http://hg.gatech.edu/nod
- e/639943#3\n[1]  http://commencement.gatech.edu/commencement-fair\n[2]  ht
- tp://www.commencement.gatech.edu/
-LOCATION:Grad Fest Website\, the Georgia Tech Barnes and Noble Bookstore a
- nd Exhibition Hall
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SAA Alumni Connections Committee Meeting
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201022T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201022T160000Z
-UID:http://hg.gatech.edu/node/639168#5
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nThis committee is made up of students who are Dinner
-  Jackets facilitators and Expert Jackets and IMPACT Meet & Greet event lea
- ds. Anyone is welcome to join the committee\, and all new members will be 
- trained on skills like writing a professional email\, communicating with a
- lumni and GT faculty members\, and event planning. As a member of this com
- mittee\, you will have the opportunity to:\n\n* Serve as a Dinner Jackets 
- student facilitator.\n* Communicate with alumni as dinner plans are made -
-  letting alumni know who is coming\, special needs\, and answer questions.
- \n* Communicate plans to student attendees - letting students know alumni 
- backgrounds\, directions\, organize transportation\, and answer questions.
- \n* Act as the student host at events - assist alumni onsite\, make introd
- uctions\, and keep conversation flowing.\n* Help plan and execute all logi
- stics associated with the events.\n* Find alumni at the top of their field
-  who would be popular for Expert Jackets or Dinner Jackets.\n\nPlease emai
- l the committee chairs at expertjackets@gtsaa.com [1] if you would like mo
- re information!\n\nLinks:\n[0]  http://hg.gatech.edu/node/639168#5\n[1]  e
- xpertjackets@gtsaa.com\n[2]  https://bluejeans.com/611690607?src=calendarL
- ink\n[3]  https://bluejeans.com/611690607?src=calendarLink\;
-LOCATION:Online
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teaching with Technology
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201022T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201022T161500Z
-UID:http://hg.gatech.edu/node/638850#0
-DESCRIPTION:Intended audience: Graduate students\, Postdoc\nExtras: Free f
- ood\nStatus: published\n\nThe fall teaching workshop series includes five 
- workshops aimed at graduate students and postdoctoral scholars who are tea
- ching assistants and/or preparing for careers as faculty in higher educati
- on.\n\nTechnology permeates higher education\, from computers to smart pho
- nes to personal response devices. However\, one question that always persi
- sts is whether these technologies promote or inhibit learning. This worksh
- op will explore how instructors utilize different technologies (clickers\,
-  discussion boards\, video\, etc.) to engage students and enhance learning
- .\n\nREGISTER [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/638850#0\n[1] 
-  https://ctl.gatech.edu/grad-students/workshops
-LOCATION:Online
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BPU Meeting 
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201022T231500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201023T013000Z
@@ -10405,6 +10302,23 @@ LOCATION:Classroom 210\, The Kendeda Building for Innovative Sustainable D
  esign
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Building Blocks for Startup Success
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211026T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211026T160000Z
+UID:http://hg.gatech.edu/node/651960#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\nStatus: published\n\nHave questions about your id
+ ea or your startup? Join us for this open forum session where you can ask 
+ any question to our startup expert. Have questions about developing your i
+ dea\, growing your customers\, building a business\, seeking investments\,
+  or anything else? This is where you want to be.\n\nOctober 26\, 2021\, fr
+ om 11 AM – 12 PM.\n\nCrosland Tower 7130 (GT Library).\n\nLunch will be 
+ provided.\n\nSign up to attend at: https://bit.ly/startupbuildingblocks\n\
+ nLinks:\n[0]  http://hg.gatech.edu/node/651960#0\n[1]  https://innovation.
+ cae.gatech.edu
+LOCATION:Crosland Tower 7130\, GT Library
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General Meeting with Aulick Engineering
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211026T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211026T160000Z
@@ -10526,6 +10440,22 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
  spoopy Halloween games and enjoy popcorn/snacks!\n\nLinks:\n[0]  http://hg
  .gatech.edu/node/650865#0
 LOCATION:LGBTQIA Resource Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neuroscience Paint and Sip!
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211027T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211027T230000Z
+UID:http://hg.gatech.edu/node/651954#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nNeuroscience Club will be hosting
+  a paint and sip on Wednesday\, October 27th at 6 PM in Weber SSTIII - Roo
+ m 098! Attendees are encouraged to complete a neuroscience themed painting
+ \, and “brain juice” will also be served for free!\n\nEveryone in atte
+ ndance will be able to vote for one art piece\, and the winner will receiv
+ e a prize! Non-members are also welcome to attend\, so feel free to bring 
+ a friend!\n\nLinks:\n[0]  http://hg.gatech.edu/node/651954#0\n[1]  https:/
+ /gatech.campuslabs.com/engage/organization/neuroscience-club
+LOCATION:Weber SST III - Room 098
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Traveling While Black
@@ -10797,6 +10727,40 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Richards Gallery at the Ferst Center for the Arts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Net Impact Sustainability Workshop
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211103T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211103T223000Z
+UID:http://hg.gatech.edu/node/651922#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\nStatus: draft\n\nHow can your choice in coffee im
+ prove food access in Atlanta's urban food deserts?\n\nYou don't have to be
+  a politician\, business executive or influencer to have an impact now. Jo
+ in our workshop on grassroots consumer-advocacy.\n\nPurpose of workshop:\n
+ \nTo draw out and put into practice the unique and creative capabilities o
+ f the group through thought-provoking discussion and collaborative exercis
+ es that explore principles of consumer-driven\, market-based solutions to 
+ environmental problems. This workshop is designed to “inspire and equip 
+ emerging leaders to build a more just and sustainable world” by providin
+ g exposure to an actionable\, methodological framework for designing\, pla
+ nning and implementing consumer advocacy campaigns that advance non-pollut
+ ing / low-polluting alternatives to polluting technologies\, products\, se
+ rvices\, processes and practices.\n\nAbout the facilitator:\n\nTyler Thomp
+ son is an experienced community organizer specializing in workshop facilit
+ ation methods in both academic and workplace settings\, including: U.S. St
+ ate Department\; Cultural Heritage without Borders\; Westside Atlanta Land
+  Trust\; Jack Ellis Company\; Albanian Model United Nations\; Asim Zeneli 
+ High School\; and others. He is a practitioner of grassroots\, consumer-dr
+ iven\, market-based solutions to the environmental problem. Son of environ
+ mental business writer\, John Thompson--author of five published books\, i
+ ncluding The Environmental Entrepreneur: Where to find the profit in savin
+ g the Earth\, Longstreet Press (1992). Formerly an internal consultant for
+  international airports\, focused on customer service and operational impr
+ ovements for Delta Air Lines. Returned Peace Corps Volunteer (RPCV) Albani
+ a. Cross-continental cyclist. M.A. International Development\, University 
+ of Denver.\n\nLinks:\n[0]  http://hg.gatech.edu/node/651922#0
+LOCATION:Kendeda Building Rm 210
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Traveling While Black
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211104T040000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211105T035900Z
@@ -11002,6 +10966,24 @@ LOCATION:Tech Green on the campus of Georgia Tech\, 350 Ferst Dr\, NW\, At
  lanta\, GA 30332
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Predatory Publication and Issues in Authorship
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211108T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211108T180000Z
+UID:http://hg.gatech.edu/node/651951#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nStatus: published\n\nIn this interactive sessio
+ n\, explore power dynamics\, fraud\, and diversity issues in publication a
+ nd authorship practices. Dr. Cassidy Sugimoto will provide with practical 
+ tips for both authors and assigners of authorship to address and ensure eq
+ uity in publication.\n\nAttendees will receive Ethics First giveaways and 
+ enjoy cold beverages and snacks. We invite all those interested both withi
+ n and outside of our Georgia Tech community to attend this event.\n\nLinks
+ :\n[0]  http://hg.gatech.edu/node/651951#0\n[1]  https://gatech.campuslabs
+ .com/engage/event/7506910\n[2]  https://generalcounsel.gatech.edu/ethics-f
+ irst/ethics-awareness-week
+LOCATION:Hybrid (Dalney Conference Room 180)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BAPS Campus Fellowship Diwali Exhibition
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211109T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211109T020000Z
@@ -11199,6 +11181,26 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#3
  9\n[1]  https://arts.gatech.edu/twb
 LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gender Equity from the Perspective of Military Leadership
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211112T183000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211112T193000Z
+UID:http://hg.gatech.edu/node/651943#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nStatus: published\n\nJoin the Veteran’s Resou
+ rce Center for a panel examining gender equality and equity in the militar
+ y through the experiences of two US military members and current Georgia T
+ ech students. They will discuss gender bias and equity\, stereotypes\, sex
+ ism\, and how these challenges affect veterans transitioning to civilian l
+ ife.\n\nPanelists:\nChelsea Selby\, U.S. Air Force Reserve member\, Studen
+ t Veterans Group President\n\nHannah Bembry\, U.S. Army Veteran\, ROTC Cad
+ et\n\nAttendees will receive Ethics First giveaways and enjoy cold beverag
+ es and snacks. This event is for our Georgia Tech campus community.\n\nLin
+ ks:\n[0]  http://hg.gatech.edu/node/651943#0\n[1]  https://gatech.campusla
+ bs.com/engage/event/7513214\n[2]  https://generalcounsel.gatech.edu/ethics
+ -first/ethics-awareness-week
+LOCATION:Room Midtown V\, Exhibition Hall\, and Online
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tapping Circle for Stress and Calm - 2nd Fridays 3:30-
