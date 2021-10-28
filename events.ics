@@ -2,53 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:High-Throughput Nanoscale Additive Manufacturing
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201026T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201026T170000Z
-UID:http://hg.gatech.edu/node/638390#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nLunch and Learn Speaker Series Fall 2020 Speake
- r:\nSourabh Saha\nAssistant Professor\nGeorgia Tech\, School of ME\n\nAbst
- ract:\n> Additional details posted closer to event\n\nBio:\n> Additional d
- etails posted closer to event\n\nLinks:\n[0]  http://hg.gatech.edu/node/63
- 8390#0
-LOCATION:Virtual Event - Details forthcoming
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HSOC Virtual Spring Preview
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201027T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201027T160000Z
-UID:http://hg.gatech.edu/node/640270#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nStatus: published\n\nOn Tuesday\, October 27 at
-  11 am\, the HSOC department will hold a virtual event to spend some time 
- with one another and give a preview of the spring schedule so that student
- s can get a jump on your planning before spring registration begins. Facul
- ty will be telling you about their upcoming classes\, and they really want
-  to see you there too!\n\nAlas\, we won't be able to offer pizza or hold o
- ur customary book raffle this year. But there will still be fun to be had!
-  And\, again\, it's really important we take a moment to be together. This
-  is a good chance.\n\nLinks:\n[0]  http://hg.gatech.edu/node/640270#0
-LOCATION:Virtual\, Link TBA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Outdoor Open Office Hours
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201027T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201027T160000Z
-UID:http://hg.gatech.edu/node/639683#7
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\, Freebies\nStatus: published\n\nThe Office of Und
- ergraduate Education welcomes all students to meet and chat with Georgia T
- ech faculty\, staff\, and administration in a safe\, socially-distanced en
- vironment.\n\nJoin us 11a-12p Tuesdays and Fridays (in October/November) a
- t the Tech Green for conversation and refreshment. Come for the snacks—s
- tay for the conversations!\n\n*In case of inclement weather\, meetings wil
- l take place in the Clough Lounge (Suite 205Q)\n\nLinks:\n[0]  http://hg.g
- atech.edu/node/639683#7\n[1]  http://instagram.com/gtoue\n[2]  http://oue.
- gatech.edu
-LOCATION:Tech Green
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tuesday Night Worship
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201027T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201028T010000Z
@@ -10120,6 +10073,22 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Crosland Tower 7130\, GT Library
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Building Blocks for Startup Success with James Rains and Nakia Mel
+ ecio
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211026T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211026T160000Z
+UID:https://gatech.campuslabs.com/engage/event/7552396
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nHave questions related 
+ to your idea or startup? Join us for this open forum focused on prototypin
+ g your idea and starting your company. Hear from entrepreneurship faculty\
+ , James Raines\, and Nakia Melecio\, about how to build your startup succe
+ ssfully.\n\nOctober 26\, 2021 at 11 AM – 12 PM.\nGT Library\, Price Gilb
+ ert\, Theater\, 2nd Floor\, Room 1280.\n\nLunch will be provided.\n\nSign 
+ up to attend at [1]\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/e
+ vent/7552396\n[1]  https://bit.ly/startupbuildingblocks
+LOCATION:GT Library\, Price Gilbert\, Theater\, 2nd Floor\, Room 1280
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General Meeting with Aulick Engineering
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211026T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211026T160000Z
@@ -10208,14 +10177,28 @@ BEGIN:VEVENT
 SUMMARY:Intro to Animal Rights Activism with Chris "Soul" Eubanks
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211026T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211027T000000Z
-UID:https://gatech.campuslabs.com/engage/event/7546589
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nTuesday\, October 26th 
- from 7 to 8 pm in Mason 2117 (free vegan cinnamon rolls provided by Cinnah
- olic Edgewood!)\n\nGuests who are experiencing symptoms of Covid-19 should
-  not attend. We strongly encourage that you wear a mask when not eating (e
- specially if indoors). We will be providing hand sanitizer.\n\nLinks:\n[0]
-   https://gatech.campuslabs.com/engage/event/7546589
-LOCATION:Mason 2117
+UID:http://hg.gatech.edu/node/652075#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nTuesday\, October 26th from 7 to 8 pm in Mason 2117 (free vegan cinnamon
+  rolls provided by Cinnaholic Edgewood!)\n\nGuests who are experiencing sy
+ mptoms of Covid-19 should not attend. We strongly encourage that you wear 
+ a mask when not eating (especially if indoors). We will be providing hand 
+ sanitizer.\n\nLinks:\n[0]  http://hg.gatech.edu/node/652075#0\n[1]  https:
+ //gatech.campuslabs.com/engage/event/7546589
+LOCATION:Mason 2117\, 790 Atlantic Drive NW\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asian American Student Association Halloween Party!
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211026T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211027T010000Z
+UID:http://hg.gatech.edu/node/652069#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Stuff\, Free food\, Freebies\nStatus: published\n\nCome cele
+ brate the spooky szn with us! There will be a costume competition\, bracel
+ et making\, pizza\, prizes\, and more!!\n\nLinks:\n[0]  http://hg.gatech.e
+ du/node/652069#0\n[1]  https://gatech.campuslabs.com/engage/event/7551540
+LOCATION:Midtown V\, Exhibition Hall
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Traveling While Black
@@ -10296,6 +10279,40 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  Equity\, and Inclusion.\n\nLinks:\n[0]  http://hg.gatech.edu/node/649420#3
  2\n[1]  https://arts.gatech.edu/twb
 LOCATION:Richards Gallery at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VFS General Meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211028T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211028T160000Z
+UID:http://hg.gatech.edu/node/652115#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nThe Vertical Flight Society Georg
+ ia Tech student chapter will be hosting its second general meeting this Th
+ ursday\, October 28th at 11am in Montgomery Knight 317. Pizza will be serv
+ ed!\n\nWe plan on discussing the VFS Student Design Competition as well as
+  plans for upcoming meetings and events. We hope to get some feedback and 
+ recommendations from our new members.\n\nWe hope you can join us there!\n\
+ nLinks:\n[0]  http://hg.gatech.edu/node/652115#0\n[1]  https://ahs.gatech.
+ edu/
+LOCATION:Montgomery Knight 317
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ADVANCE-CoE Fall Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211028T153000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211028T170000Z
+UID:http://hg.gatech.edu/node/652056#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nWe will get together for lunch on Thursday Octo
+ ber 28 from 11:30 am – 1 pm at the Unity Plaza in the EcoCommons (879 He
+ mphill Ave NW\, Atlanta\, GA 30318). Box lunches will be provided\, and we
+  will enjoy the beautiful fall weather together outside. We will also have
+  small group discussions around communication on campus\, with an optional
+  walk at 12:30 through the EcoCommons.\n\nPlease RSVP by Wednesday October
+  20: [1] (including dietary restrictions and accommodations). I hope to ca
+ tch up with you there!\n\nLinks:\n[0]  http://hg.gatech.edu/node/652056#0\
+ n[1]  https://gatech.co1.qualtrics.com/jfe/form/SV_3qJPAfyn33gBaho
+LOCATION:Unity Plaza in the EcoCommons 879 Hemphill Ave NW\, Atlanta\, GA 
+ 30318
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grace Coffee House
@@ -10398,6 +10415,22 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:ES&T L1205 and online via MS Teams
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pitch Your Idea!
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211029T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211030T000000Z
+UID:https://gatech.campuslabs.com/engage/event/7551527
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nRemember the last time 
+ you had an incredible business idea\, but you couldn’t really explain it
+  to anyone. That’s a terrible position to be in\, especially when you’
+ re looking to recruit members to join you or even when trying to pitch VCs
+ . To ensure you never face this issue\, Startup Exchange is hosting a pitc
+ h workshop this Friday.\n\nCome meet other students at the early stages of
+  their entrepreneurial journeys and learn how to successfully pitch your i
+ deas! RSVP here!! [1]\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage
+ /event/7551527\n[1]  https://www.eventbrite.com/e/196542593187
+LOCATION:Tech Square ATL Social Club
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:2021 Freshman Cake Race
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211030T100000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211030T120000Z
@@ -10461,6 +10494,41 @@ LOCATION:Old Civil Engineering Building Patio 221 Bobby Dodd Way NW\, Atla
  nta\, GA 30332
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:World of Coca-Cola and Picnic in the Park
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211031T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211031T170000Z
+UID:https://gatech.campuslabs.com/engage/event/7552108
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nFeel like 
+ you haven't explored as much of Atlanta as you've wanted to? Feel stuck in
+  the Tech bubble? Join us this Sunday to visit the World of Coca-Cola and 
+ follow up with exploring the local lunch options and eating a picnic in Ce
+ ntennial Olympic Park! The tickets are for the 10:00am time slot this Sund
+ ay\, 10/31.\n\nLunch will be reimbursed by GC\, but your order must remain
+  under the $9 per diem limit. Any overages will not be reimbursable. To be
+  reimbursed\, please go to this page [1] and select the form "Expense Reim
+ bursement Form" to submit your itemized receipt.\n\nRSVP and our student a
+ ssistant\, Victor Cama\, will reach out to you with tickets and details.\n
+ \nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7552108\n[1]  ht
+ tps://grandchallenges.gatech.edu/forms
+LOCATION:World of Coca-Cola
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Georgia Tech Athletics Trick or Treat
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211031T153000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211031T163000Z
+UID:http://hg.gatech.edu/node/652116#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\nExtras: Free food\, Freebies\nStatus: published\n\nGeorgia Tech
+  Athletics is facilitating a Trick or Treat route starting at O'Keefe Gym 
+ at 11:30 AM\, going up to Callaway Plaza\, and circling back to O'Keefe Gy
+ m at 12:30 PM in time for the Volleyball match that begins at 1:00 PM. Fea
+ tured Greek organizations will be passing out candy at their houses along 
+ with student athletes at their sport facilities. Trick or Treating is open
+  to the public and costumes are encouraged!\n\nLinks:\n[0]  http://hg.gate
+ ch.edu/node/652116#0
+LOCATION:O'Keefe Gym- Georgia Tech Campus
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Student Hospital Connections - Halloween Paint & Sip
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211031T180000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211031T200000Z
@@ -10515,6 +10583,16 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nGeneral meeting for our
   student members to learn about the operations of ASCE on a national level
  .\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7379969
 LOCATION:Mason 1133
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Learn to Read Russian in One Hour
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211102T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211102T220000Z
+UID:http://hg.gatech.edu/node/652117#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
+ aduate students\nExtras: Free food\nStatus: published\n\nRussian snacks wi
+ ll be provided!\n\nLinks:\n[0]  http://hg.gatech.edu/node/652117#0
+LOCATION:D.M. Smith 207
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WCF Free Dinner
@@ -10628,6 +10706,83 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAre you looking to do r
   free food!\n\nWe have 50 RSVP spots but also welcome walk-ins!\n\nLinks:\
  n[0]  https://gatech.campuslabs.com/engage/event/7511314
 LOCATION:CULC 102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brazil and the U.S.: The Importance of a Strong U.S.-Brazil Relati
+ onship and Economic Cooperation
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211104T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211104T173000Z
+UID:http://hg.gatech.edu/node/652084#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nPlease join The S
+ am Nunn School of International Affairs and Atlanta Council on Internation
+ al Relations (ACIR) in-person for a luncheon and discussion with Ambassado
+ r Nestor Forster Jr.\, Ambassador of Brazil to the United States\n\nFor yo
+ ur safety and the safety of others\, ACIR requests that only fully vaccina
+ ted people or those immune from a previous COVID Infection attend.\n\nThe 
+ Sam Nunn School of International Affairs and ACIR is honored to host Ambas
+ sador Nestor Forster Jr. for an in-person event entitled "Brazil and the U
+ .S.: The Importance of a Strong U.S.-Brazil Relationship and Economic Coop
+ eration"\, November 4\, 2021.\n\nAbout the Event\n\nThe United States and 
+ Brazil enjoy robust political and economic relations. Brazil is the world
+ ’s twelfth-largest economy and the United States is Brazil’s second-la
+ rgest trading partner. In 2020\, the United States had an overall trade su
+ rplus of $21.4 billion for goods and services\, including an $11.2 billion
+  trade surplus for goods alone. The United States is Brazil’s second-lar
+ gest export market. The primary products are crude oil\, aircraft\, iron a
+ nd steel\, and machinery. The U.S. Bureau of Economic Analysis counted $70
+ .7 billion of U.S. direct investment in Brazil as of 2020.\n\nThe United S
+ tates and Brazil are strengthening cooperation on defense issues\, includi
+ ng research and development\, technology security\, and the acquisition an
+ d development of products and services. Under the umbrella of the U.S-Braz
+ il Defense Cooperation Agreement\, which entered into force in 2015\, a ra
+ nge of security cooperation agreements and initiatives promote joint exerc
+ ises and facilitate the sharing of sophisticated capabilities and technolo
+ gies. The third iteration of the U.S.-Brazil Defense Industry Dialogue too
+ k place in Rio de Janeiro in April 2019. This ongoing\, public-private dia
+ logue has generated important results and spurred numerous industry collab
+ orations since its launch in 2016. Brazil became a Major Non-NATO Ally of 
+ the United States in July 2019.\n\nACIR is pleased to welcome Ambassador N
+ estor Forster to discuss this robust relationship between Brazil and the U
+ .S. Attendees will have the opportunity to ask questions as part of the pr
+ ogram.\n\nREGISTER HERE: [1]\n\nRegistration Deadline: November 1\, 10 a.m
+ .\n\nRegistration: 11:30 a.m.\n\nProgram: 12:00 p.m. - 1:30 p.m.\n\nPrice:
+  Members $40 / Non-Members $50 /Students $25 (Lunch & Parking Included)\n\
+ nLunch: Three-course dinner\, including salad\, choice of entree\, dessert
+ \, ice tea and coffee.\n\nCancellation Policy: If you need to cancel\, ple
+ ase do so not later than 48 hours before the event. ACIR is charged for yo
+ ur meal\, so no refund can be provided.\n\nVenue: The Capital City Club\n\
+ n7 John Portman Boulevard\n\nAtlanta\, GA 30303\n\nComplimentary valet par
+ king is available\n\nAbout Ambassador Nestor Forster Jr.\n\nBorn in Porto 
+ Alegre\, Brazil\, in 1963\, Ambassador Forster graduated from the Brazilia
+ n Diplomatic Academy (Instituto Rio Branco) in 1986. As a diplomat\, he se
+ rved in Canada\, Costa Rica\, and the United States\, where he was posted 
+ three times to the Embassy in Washington\, as well as to the Brazilian con
+ sulates in Hartford (CT) and New York (NY). His diplomatic experience cove
+ rs areas such as trade negotiations\, intellectual property\, financial po
+ licy\, political affairs\, international law\, consular affairs\, administ
+ ration\, and information technology.\n\nAfter starting his career in consu
+ lar affairs\, Forster was posted twice to the Office of the President of B
+ razil (1990-92 and 2002)\, having also served as chief of staff at the Off
+ ice of the Attorney General. Most recently\, he headed the Foreign Ministr
+ y’s Information Technology Division. Ambassador Forster has led numerous
+  Brazilian delegations to regional and multilateral meetings.\n\nIn 2006\,
+  Nestor Forster successfully concluded his high studies dissertation on 
+ “Development Finance” at the Rio Branco diplomatic academy. He also co
+ authored the Official Style Guide of Brazil’s federal administration\, i
+ n use for almost 30 years\, and participated in the first institutionalize
+ d Brazilian presidential transition team in 2002\, which resulted in the b
+ ook “Transition and Democracy: institutionalizing the transferring of po
+ wer.” He has also appeared as guest speaker at Columbia University\, Tor
+ onto University\, University of Alberta\, Université Laval à Montreal\, 
+ and Instituto Rio Branco.\n\nAmbassador Forster was the Chargé d’affair
+ es of the Embassy of Brazil in Washington from June 2019 to October 2020. 
+ He is the Ambassador of Brazil to the United States of America since Octob
+ er 2020.\n\nNestor Forster is married to Maria Theresa. They have two daug
+ hters and two grandchildren.\n\nLinks:\n[0]  http://hg.gatech.edu/node/652
+ 084#0\n[1]  https://atlantacir.org/event-4528221
+LOCATION:The Capital City Club\, 7 John Portman Boulevard Atlanta\, GA 303
+ 03
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grace Coffee House
@@ -10794,6 +10949,21 @@ LOCATION:Tech Green on the campus of Georgia Tech\, 350 Ferst Dr\, NW\, At
  lanta\, GA 30332
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:HyperJackets General Body Meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211108T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211108T013000Z
+UID:https://gatech.campuslabs.com/engage/event/7558766
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nGT HyperJackets\, Georg
+ ia Tech's Hyperloop pod competition team is currently recruiting members f
+ rom all majors and academic levels to help research\, design\, build\, and
+  test hyperloop pod concepts. Our sub-teams include:\n\nAerostructures\, V
+ ehicle Dynamics\, Electronics\, and Operations\n\nAttend the general body 
+ meeting on 11/7 to learn more and join this team of motivated individuals!
+ ! Contact us at gthyperloop@gmail.com for more details.\n\nLinks:\n[0]  ht
+ tps://gatech.campuslabs.com/engage/event/7558766
+LOCATION:Instructional Center 209
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Predatory Publication and Issues in Authorship
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211108T170000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211108T180000Z
@@ -10945,6 +11115,49 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
   research\, student internships\, and employment.\n\nLinks:\n[0]  http://h
  g.gatech.edu/node/651736#0\n[1]  http://veterans.gatech.edu/
 LOCATION:Midtown V\, Exhibition Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GVU Center Brown Bag: Noopur Raval — Studying Intersectional Cha
+ llenges in Gig Work — co-hosted by CHIWORK.org
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211111T173000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211111T182000Z
+UID:http://hg.gatech.edu/node/652105#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nStatus: draft\n\nAbstract:\n\nWith the rise and 
+ proliferation of gig economy platforms providing ride hailing\, food deliv
+ ery and other app-based services on-demand in major urban centers of the w
+ orld\, there have been major transformations in work and life globally. Gi
+ g platforms have certainly disrupted and redefined the discovery and alloc
+ ation of casual work through algorithmic management\, creating grave conce
+ rns for regulating the future of work. Simultaneously\, especially in the 
+ global South\, gig platforms have also emerged as important avenues for ga
+ ining temporary paid work and socio-economic mobility for low income indiv
+ iduals\, women and migrant workers. Drawing on over five years of ethnogra
+ phic research with a variety of stakeholders in the gig economy including 
+ workers\, managers\, consumers and regulators\, my work shows how platform
+ ization produces heterogeneous effects on the lives\, livelihoods and prod
+ uctive and reproductive capacities of different individuals in urban India
+ . This talk will draw on multiple case studies of gig work to show these h
+ eterogeneous effects and how everyday technology practice also informs pla
+ tform design in return. I will also offer some considerations for HCI scho
+ lars looking to study the effects of emerging technologies in global South
+  settings.\n\nSpeaker Bio:\n\nNoopur Raval is a postdoctoral researcher at
+  the AI Now Institute and an adjunct professor at the Tandon School of Eng
+ ineering at New York University. She received her PhD in Informatics from 
+ UC Irvine in 2020 and is a tech ethnographer and interdisciplinary scholar
+  at the intersection of HCI\, Communication and Media Studies\, Cultural A
+ nthropology and Postcolonial History. She has written extensively on gig w
+ ork\, platformization and the future of work in the global South. Her new 
+ work extends to studying the cultural labor and subjective decision-making
+  by global South data annotators in order to train AI/ML systems. Her work
+  has appeared in CSCW\, CHI\, ACM Interactions among other venues. She has
+  also worked in UX research at multiple Microsoft Research labs. Noopur is
+  an alumna of the Berkman-Klein Center for Internet & Society at Harvard U
+ niversity and the Center for Tech\, Society and Policy at UC Berkeley.\n\n
+ Watch via Zoom Meeting: [1]\n\nSchedule of Brown Bag Speakers Fall 2021 [2
+ ]\n\nLinks:\n[0]  http://hg.gatech.edu/node/652105#0\n[1]  https://washing
+ ton.zoom.us/j/98578905160\n[2]  https://gvu.gatech.edu/events
+LOCATION:Via Zoom Meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grace Coffee House
@@ -11121,6 +11334,28 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:311 Ferst Dr NW\, Atlanta\, GA 30332
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Boulderween
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211114T010000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211114T150000Z
+UID:https://gatech.campuslabs.com/engage/event/7558808
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFor the first time ever
+ \, the Climbing Club at Georgia Tech will be hosting its annual Boulderwee
+ n event as a lock-in at Stone Summit. Provide your own transportation. Cus
+ tom event t-shirts will be handed out at entry while supplies last.\n\nCli
+ mbers will also have the opportunity to participate in a COSTUME COMPETITI
+ ON and a friendly bouldering competition for prizes from our sponsors.\n\n
+ The event will begin after business hours and end the following morning an
+ d will provide attendees with the opportunity to 'camp out' and climb at a
+  world class facility.\n\nLocation: Stone Summit Kennesaw\nDate: 8pm\, Sat
+ urday\, November 13th - Sunday\, November 14th morning\n\nCost:\nAdmission
+ : $10\nOptional Competition Entry Additional Fee: $10\nCompetition Format:
+  Redpoint+Finals (Beginner\, Intermediate\, Advanced)\nPay at door\n\nFood
+  will be provided!\n\nPlease RSVP here so we know how much food to get: ht
+ tps://forms.gle/gzBAt7TXR4nQtYWf8\n\nLinks:\n[0]  https://gatech.campuslab
+ s.com/engage/event/7558808
+LOCATION:Stone Summit Kennesaw
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WST Lrn C dinner on internships with Camille Liverpool & Shubhangi
   Gupta
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211115T223000Z
@@ -11223,6 +11458,17 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  ww.cns.gatech.edu/dsseminar.html\n[2]  https://ce.gatech.edu/about/facilit
  ies#est
 LOCATION:311 Ferst Dr NW\, Atlanta\, GA 30332
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Final Stand 2021
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211121T030000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211121T070000Z
+UID:http://hg.gatech.edu/node/652058#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\, Freebies\nStatus: published\n\nLinks:\n[0]  http://hg
+ .gatech.edu/node/652058#0
+LOCATION:Georgia Tech Campus Recreation Center\, 750 Ferst Dr\, Atlanta\, 
+ GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nano@Tech Fall 2022 Series | Session 7
