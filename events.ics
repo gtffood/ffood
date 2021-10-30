@@ -2,98 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Tuesday Night Worship
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201027T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201028T010000Z
-UID:https://gatech.campuslabs.com/engage/event/6158605
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us Tu
- esday night for dinner and Worship! Follow our social media or join or sla
- ck channel for up-to-date information (online vs. in-person\, speakers\, e
- tc.).\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6158605
-LOCATION:Tech Wesley
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SCPC Presents: Halloweek
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201028T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201029T020000Z
-UID:https://gatech.campuslabs.com/engage/event/6565526
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nSCPC Presents Halloweek
- : a 3-day event throughout the week of Halloween\, starting with Murder My
- stery on Wednesday\, October 28th (7-10 PM):\n\nOnce in a generation\, som
- eone dares to complete the ultimate campus tradition: Stealing the T. This
-  Halloween\, someone did just that\, but their intentions are nefarious. T
- he culprit must be found immediately\, or Georgia Tech as we know it may n
- ot survive. Join SCPC October 28th 7-10 pm\, either in-person or virtually
- \, on this twisty-turny mystery with familiar faces and locations to get t
- he T back! Just be sure you watch your back...\n\nSign up for an in-person
-  or virtual time slot this Friday 10/23 at Georgia Tech Campus Tickets.\n\
- nThen\, Harry Potter Magicthon on Friday\, October 30th at 5:30 PM and 9:1
- 5 PM:\n\nHave you seen this wizard? A chilling wind sweeps across campus\,
-  and with it brings Harry Potter Magicthon: Prisoner of Azkaban! Do you dr
- eam of catching a Cornish Pixie in a Jar\, creating a Harry Potter head bo
- okmark\, drinking butter beer\, dueling it out in trivia\, and watching th
- e movie with a friend? Both virtual and in-person\, this event goes straig
- ht for your soul... unless you have a Patronus at hand?\n\nLastly\, Deathl
- y Hallow(een) on Saturday\, October 31st from 7-11 PM:\n\nCalling all mugg
- les and magicians! SCPC presents Deathly Hallow(een)\, the last event of H
- alloweek\, which will take place in the Exhibition Hall on October 31st fr
- om 7-11 PM. Join us dressed in your best costume for a costume contest\, m
- ystical maze\, take-home craft or cookie decorating activity\, and many ot
- her ghoulish games. Tickets for the in-person event can be reserved on Cam
- pus Tickets starting Tuesday\, October 27th.\n\nFor those who would like t
- o attend the event virtually\, we will be playing Jackbox games throughout
-  the duration of the event. There will also be a virtual walk-through of o
- ur maze. If you would like to participate in the costume contest without a
- ttending our in-person event\, virtual submissions will be open throughout
-  the week of the event.\n\nTickets for all three events go live soon on Ca
- mpus Tickets at bit.ly/campustickets [1]\n\nLinks:\n[0]  https://gatech.ca
- mpuslabs.com/engage/event/6565526\n[1]  https://l.facebook.com/l.php?u=htt
- ps%3A%2F%2Fbit.ly%2Fcampustickets%3Ffbclid%3DIwAR1kZacU69qgCGgTsyMd64j85nJ
- 7ok_oeioR9gOebg8A8NEgJSSpDRMEPXs&h=AT0HqHKryjjEKIUoavTac-L4S2a4zuemv3BPyGQ
- IBLP6QQ2FLWogH1iwSPBQUSCYPn78cA62KEFy2kXicMoly0cmLMKKdCHx-n6yh81ijK3fMrNIW
- QcRhxSHUT5LmF9yBymqPvue9n64tInyMonwjiVQxg
-LOCATION:Exhibition Hall
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Save the Date for SCPC Presents: Take a Professor to Lunch!
-DTSTART;VALUE=DATE:20201029
-DTEND;VALUE=DATE:20201030
-UID:http://hg.gatech.edu/node/639472#0
-DESCRIPTION:Status: published\n\nSave the date for SCPC Presents: Take a P
- rofessor to Lunch. More details and ticket reservations to come! Follow us
-  on Facebook and Instagram @gtscpc to stay up to date on all of our events
- ! Tickets for this event and other SCPC events will be available at https:
- //gatech.universitytickets.com [1]\n\nLinks:\n[0]  http://hg.gatech.edu/no
- de/639472#0\n[1]  https://gatech.universitytickets.com/
-LOCATION:None
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SAA Alumni Connections Committee Meeting
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201029T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201029T160000Z
-UID:http://hg.gatech.edu/node/639168#6
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nThis committee is made up of students who are Dinner
-  Jackets facilitators and Expert Jackets and IMPACT Meet & Greet event lea
- ds. Anyone is welcome to join the committee\, and all new members will be 
- trained on skills like writing a professional email\, communicating with a
- lumni and GT faculty members\, and event planning. As a member of this com
- mittee\, you will have the opportunity to:\n\n* Serve as a Dinner Jackets 
- student facilitator.\n* Communicate with alumni as dinner plans are made -
-  letting alumni know who is coming\, special needs\, and answer questions.
- \n* Communicate plans to student attendees - letting students know alumni 
- backgrounds\, directions\, organize transportation\, and answer questions.
- \n* Act as the student host at events - assist alumni onsite\, make introd
- uctions\, and keep conversation flowing.\n* Help plan and execute all logi
- stics associated with the events.\n* Find alumni at the top of their field
-  who would be popular for Expert Jackets or Dinner Jackets.\n\nPlease emai
- l the committee chairs at expertjackets@gtsaa.com [1] if you would like mo
- re information!\n\nLinks:\n[0]  http://hg.gatech.edu/node/639168#6\n[1]  e
- xpertjackets@gtsaa.com\n[2]  https://bluejeans.com/611690607?src=calendarL
- ink\n[3]  https://bluejeans.com/611690607?src=calendarLink\;
-LOCATION:Online
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BPU Meeting 
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201029T231500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201030T013000Z
@@ -10870,6 +10778,30 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Richards Gallery at the Ferst Center for the Arts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Scheller Lunchtime Live: Pushing the Needle - Corporate Vaccinatio
+ n Mandates in the Age of Covid Featuring Lucien Dhooge
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211105T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211105T163000Z
+UID:http://hg.gatech.edu/node/652182#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nScheller Lunchtim
+ e Live is a livestream series hosted by the Georgia Tech Scheller College 
+ of Business featuring faculty\, student\, and alumni speakers discussing r
+ elevant topics for the tech-driven\, digital age.\n\nIn this episode\, Luc
+ ien Dhooge\, Sue and John Staton Professor\, Law and Ethics\, will explore
+  the positives and negatives associated with private vaccination mandates.
+  Topics for discussion will include the Equal Employment Opportunity Commi
+ ssion's revised guidelines regarding vaccination mandates\, the decision t
+ o impose mandates\, and possible strategies for private employers adopting
+  vaccination policies.\n\nJust hit "Attend" on the LinkedIn event and refr
+ esh the event page or the Georgia Tech Scheller College of Business page o
+ n Friday\, November 5 at 12:00 p.m. ET to access the session. Please note\
+ , you must have a LinkedIn profile in order to register and view the lives
+ tream.\n\nLinks:\n[0]  http://hg.gatech.edu/node/652182#0\n[1]  https://ww
+ w.linkedin.com/events/6851564608541474817/
+LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Data Science for Scientists: College of Sciences Data Science Semi
  nar
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211105T200000Z
@@ -11336,6 +11268,30 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Boulderween
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211114T010000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211114T130000Z
+UID:http://hg.gatech.edu/node/652242#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nFor the first time ever\, the Climbing Club at Georg
+ ia Tech will be hosting its annual Boulderween event as a lock-in at Stone
+  Summit. Provide your own transportation. Custom event t-shirts will be ha
+ nded out at entry while supplies last.\n\nClimbers will also have the oppo
+ rtunity to participate in a COSTUME COMPETITION and a friendly bouldering 
+ competition for prizes from our sponsors.\n\nThe event will begin after bu
+ siness hours and end the following morning and will provide attendees with
+  the opportunity to 'camp out' and climb at a world class facility.\n\nLoc
+ ation: Stone Summit Kennesaw\nDate: 8pm\, Saturday\, November 13th - Sunda
+ y\, November 14th morning\n\nCost:\n\n- Admission: $10\n- Optional Competi
+ tion Entry Additional Fee: $10\n- Competition Format: Redpoint+Finals (Beg
+ inner\, Intermediate\, Advanced)\n- Pay at door\n\nFood will be provided!\
+ n\nPlease RSVP here so we know how much food to get: [1]\n\nLinks:\n[0]  h
+ ttp://hg.gatech.edu/node/652242#0\n[1]  https://forms.gle/gzBAt7TXR4nQtYWf
+ 8\n[2]  https://gatech.campuslabs.com/engage/organization/climbing-club
+LOCATION:Stone Summit Kennesaw\, 2801 George Busbee Parkway\, Kennesaw\, G
+ A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boulderween
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211114T010000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211114T150000Z
 UID:https://gatech.campuslabs.com/engage/event/7558808
 DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFor the first time ever
@@ -11396,13 +11352,14 @@ BEGIN:VEVENT
 SUMMARY:Japan Day
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211116T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211116T190000Z
-UID:https://gatech.campuslabs.com/engage/event/7549711
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nPlease join us\, "Japan
-  Day"! Learn about the Japanese program at Tech! Meet Furoshiki master and
-  Kendama master and have fun with Anime trivia contest and more! Japanese 
- sweet and bakery will be served. Rain date is 11/18!\n\nContact:\n\nKyoko 
- Mausda\n\nkyoko.masuda@modlangs.gatech.edu\n\nLinks:\n[0]  https://gatech.
- campuslabs.com/engage/event/7549711
+UID:http://hg.gatech.edu/node/652233#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free Food\nStatus: published\n\nPlease join us\, "Japan Day"
+ ! Learn about the Japanese program at Tech! Meet Furoshiki master and Kend
+ ama master and have fun with Anime trivia contest and more! Japanese sweet
+  and bakery will be served. Rain date is 11/18!\n\nContact:\n\nKyoko Mausd
+ a\n\nkyoko.masuda@modlangs.gatech.edu\n\nLinks:\n[0]  http://hg.gatech.edu
+ /node/652233#0\n[1]  https://gatech.campuslabs.com/engage/event/7549711
 LOCATION:Swann Building Backyard
 END:VEVENT
 BEGIN:VEVENT
@@ -11439,6 +11396,21 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  gracehouse\n[4]  sms:+14049994471&body=coffee\n[5]  http://hg.gatech.edu/n
  ode/+14049994471&body=coffee
 LOCATION:Grace House\, 182 5th Street NW\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nitro-chillN (PLEASE CHECK THE DETAILS)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211119T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211119T020000Z
+UID:https://gatech.campuslabs.com/engage/event/7567014
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nHave you ever been curi
+ ous about how ice cream is made? How about an ice cream made in less than 
+ 30 seconds? Join us for a presentation from the Atlanta local liquid nitro
+ gen ice cream shop\, Sub-Zero\, about the chemistry behind liquid nitrogen
+  ice cream. Afterwards you will get to participate in a taste testing wher
+ e your idea of ice cream will be changed forever!\n\nThe event will start 
+ at 7:00 in the West Commons Classroom (next to cluck and moo)\n\nLinks:\n[
+ 0]  https://gatech.campuslabs.com/engage/event/7567014
+LOCATION:West Commons Classroom
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Data Science for Scientists: College of Sciences Data Science Semi
