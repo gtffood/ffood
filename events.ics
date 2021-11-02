@@ -2,227 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:BPU Meeting 
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201029T231500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201030T013000Z
-UID:https://gatech.campuslabs.com/engage/event/6155497
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is the weekly gath
- ering time for the College Ministry of Blueprint Church. During our gather
- ing\, we will sing\, listen to teaching from the Bible\, and spend time in
-  fellowship with one another.\n\nLinks:\n[0]  https://gatech.campuslabs.co
- m/engage/event/6155497
-LOCATION:Blueprint Church
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Outdoor Open Office Hours
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201030T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201030T160000Z
-UID:http://hg.gatech.edu/node/639683#8
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\, Freebies\nStatus: published\n\nThe Office of Und
- ergraduate Education welcomes all students to meet and chat with Georgia T
- ech faculty\, staff\, and administration in a safe\, socially-distanced en
- vironment.\n\nJoin us 11a-12p Tuesdays and Fridays (in October/November) a
- t the Tech Green for conversation and refreshment. Come for the snacks—s
- tay for the conversations!\n\n*In case of inclement weather\, meetings wil
- l take place in the Clough Lounge (Suite 205Q)\n\nLinks:\n[0]  http://hg.g
- atech.edu/node/639683#8\n[1]  http://instagram.com/gtoue\n[2]  http://oue.
- gatech.edu
-LOCATION:Tech Green
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Popu-up - Mindfulness\, Movement & Tapping
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201030T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201030T163000Z
-UID:http://hg.gatech.edu/node/638739#9
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nStatus: draft\n\nThe build up of stress has con
- sequences for the mind and body. Poor sleep\, lack of appetite\, decreased
-  productivity\, decreased immunity\, susceptibility to sickness\, are some
-  of the few\, and we might find it difficult to get out of the vicious cyc
- le of stress. Except\, nowadays there are some very simple and effective w
- ays to nip the stress bud so we can prevent the over-growth! Come\, join\,
-  and learn and try "Tapping" - a simple stress management method to add to
-  your tool box. A brief introduction (and actually doing it) is all you ne
- ed so we can better Tap into calm. When: Noon ~ 12:30\, most Fridays start
- ing August 28.\nWhere: Drop In Zoom (Initial download/setup likely require
- d for phone/computer) [01]\nWhat: 1. "Tapping" similar to this video " Tra
- uma Tapping Technique [02]."\n2. Chat and Q&A (Please feel free to leave e
- arly after Tapping\, as needed\, or you are more than welcome to stay a li
- ttle longer and enjoy a Q&A and some more chat.)\n\n- Mental Health Resour
- ces @ GT [03]\n- Mental Health Support Events via the Counseling Center @ 
- GT [04]\n- GA Emotional Support Line information (pdf) [05]\n- RESILIENCE 
- Employee Resource Group [06] -> "Leveraging Your Strengths as a Resilience
-  Strategy during Challenging Times" on September 1.\n- GT Mental Health Re
- sources in Canva [07]\n- Video: " Trauma Tapping Technique [02] " - Simila
- r style to our Lunch Time Tapping\n- " Your Immune System Is Your Greatest
-  Asset — Here’s How to Care for It [08] " by Dr. Jeffrey Rediger\, M.D
- .\, MDiv [09]\n- Video: " How to Make Stress Your Friend [10] " by Psychol
- ogist Kelly McGonigal\n".... the harmful effects of stress on your health 
- are not inevitable. How you think and how you act can transform your exper
- ience of stress. When you choose to view your stress response as helpful\,
-  you create the biology of courage. And when you choose to connect with ot
- hers under stress\, you can create resilience....Stress gives us access to
-  our hearts. The compassionate heart that finds joy and meaning in connect
- ing with others\, and yes\, your pounding physical heart\, working so hard
-  to give you strength and energy. And when you choose to view stress in th
- is way\, you're not just getting better at stress\, you're actually making
-  a pretty profound statement. You're saying that you can trust yourself to
-  handle life's challenges. And you're remembering that you don't have to f
- ace them alone. "\n- Video: " First Aid for Emotional Distress - Trauma Ta
- pping Technique (TTT) [11] "\n- Peaceful Heart Network [12]\n- Video: " Ch
- aplain Foster - Interview on Tapping etc [13] "\n- "The Body Keeps the Sco
- re" - Dr. Bessel Van der Kolk\n- "Waking the Tiger" - Dr. Peter Levine\n- 
- "The Science Behind Tapping" - Dr. Peta Stapleton\n- " Evaluating a 3-Week
-  Model for Reducing Symptoms of Stress in Traumatised Youth Using the Trau
- ma Tapping Technique (TTT) for Self-help: A Pilot Trial [14] " - Dr. Peta 
- Stapleton\, Ulf Sandstrom\, & Gunilla Hamne\n- " Clinical EFT Improves Phy
- siological Markers of Health [15] " - Donna Bach\, ND\, et al.\n- Recent R
- esearch Studies on (EFT Tapping) [16] compiled by Dr. Craig Weiner\n\nThe 
- self-help technique to be shared may provide you with some ways to calm do
- wn stress and other emotions. However\, it is not a treatment or prescript
- ion for any medial or mental health issues\, nor a substitute for regular 
- medical or psychological care. If you have a medical or psychological cond
- ition\, please consult your doctor or other appropriate licensed health pr
- actitioner. Joining the Tapping session does not constitute a professional
-  relationship between the viewers and the presenters. Choosing to Tap alon
- g means you are taking responsibility for your own self. We hope the sessi
- on will contain some helpful information to you. The following EFT Tapping
-  practitioners have been kind to spend their time to support this effort f
- or free - Thank you:)\n\nAndrea Lewis: Solace4me.com (under construction\,
-  almost done) [17]\nNancy Gnecco: NancyGnecco.com [18]\nKatie Nall: NallEd
- geCo.com [19] | " A Technique to Eliminate Math Anxiety [20] "\nLori Lamon
- t: FemaleEmpowermentEFT.com [21] |\nFree Tapping Calls [22] (3rd Fri@10am 
- & Last Mon@Noon EST)\nLaurie Heyl: LaurieHeyl.com [23]\nSilke Johnson: Mel
- odyCenter.de [24]\nTrina Markusson: [25] | [26]\nSuzanne Velasquez-Sheehy:
-  BoltToSuccess.com [27]\n\nAlso gratitude goes to the many masters\, train
- ers\, mentors\, founders and pioneers who have discovered and distilled th
- eories\, practices and tools of empowernment.\n\n"The ability to consisten
- tly self-regulate with EFT [Tapping] has greatly increased my quality of l
- ife. Better and more consistent moods\, more present with clients\, family
- \, friends and colleagues...."\n- Dr. Robert Rhoton\, CEO Arizona Trauma I
- nstitute\, co-editor International Journal of Trauma Practice and Research
- \n\nLinks:\n[00]  http://hg.gatech.edu/node/638739#9\n[01]  https://zoom.u
- s/j/96236201459?pwd=dVJuOTNlRGVMdUNDL1FpTGdVNTNoQT09\n[02]  https://youtu.
- be/_jHWq6n6WNM\n[03]  https://www.news.gatech.edu/2020/06/15/mental-health
- -resources-available-during-challenging-times\n[04]  https://counseling.ga
- tech.edu/support-mental-health-events\n[05]  https://health.gatech.edu/sit
- es/default/files/documents/ga-covid19-emotional-support.pdf\n[06]  https:/
- /sdie.gatech.edu/resilience-employee-resource-group\n[07]  https://gatech.
- instructure.com/courses/108574\n[08]  https://elemental.medium.com/your-im
- mune-system-is-your-greatest-asset-heres-how-to-care-for-it-4356cee6598c\n
- [09]  https://elemental.medium.com/@drjeffreyrediger?source=post_page-----
- 4356cee6598c----------------------\n[10]  https://www.ted.com/talks/kelly_
- mcgonigal_how_to_make_stress_your_friend/transcript?language=en#t-727244\n
- [11]  https://youtu.be/UcyaudlgkGo\n[12]  https://peacefulheart.se\n[13]  
- https://vimeo.com/434759839\n[14]  http://www.lidsen.com/journals/icm/icm-
- 03-04-036\n[15]  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6381429/\n[1
- 6]  https://www.efttappingtraining.com/eft-research/\n[17]  http://www.sol
- ace4me.com/?fbclid=IwAR2SW3IfRmYg5HDPpMfhZIf_Jrtb8eZjOAovsBJghmVpWVjB9jMZ0
- Y-bFXo\n[18]  http://www.nancygnecco.com\n[19]  http://www.nalledgeco.com/
- \n[20]  https://youtu.be/KZNdBxdNGIE\n[21]  http://www.femaleempowermentef
- t.com\n[22]  https://femaleempowermenteft.as.me/Freetappingcall\n[23]  htt
- p://laurieheyl.com\n[24]  https://www.melodycenter.de/en/about-us/#Silke\n
- [25]  http://www.presentmomentliving.ca/\n[26]  http://thereleaseapp.com/\
- n[27]  https://www.bolttosuccess.com
-LOCATION:Online
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SCPC Presents: Halloweek
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201030T213000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201031T000000Z
-UID:https://gatech.campuslabs.com/engage/event/6565527
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nSCPC Presents Halloweek
- : a 3-day event throughout the week of Halloween\, starting with Murder My
- stery on Wednesday\, October 28th (7-10 PM):\n\nOnce in a generation\, som
- eone dares to complete the ultimate campus tradition: Stealing the T. This
-  Halloween\, someone did just that\, but their intentions are nefarious. T
- he culprit must be found immediately\, or Georgia Tech as we know it may n
- ot survive. Join SCPC October 28th 7-10 pm\, either in-person or virtually
- \, on this twisty-turny mystery with familiar faces and locations to get t
- he T back! Just be sure you watch your back...\n\nSign up for an in-person
-  or virtual time slot this Friday 10/23 at Georgia Tech Campus Tickets.\n\
- nThen\, Harry Potter Magicthon on Friday\, October 30th at 5:30 PM and 9:1
- 5 PM:\n\nHave you seen this wizard? A chilling wind sweeps across campus\,
-  and with it brings Harry Potter Magicthon: Prisoner of Azkaban! Do you dr
- eam of catching a Cornish Pixie in a Jar\, creating a Harry Potter head bo
- okmark\, drinking butter beer\, dueling it out in trivia\, and watching th
- e movie with a friend? Both virtual and in-person\, this event goes straig
- ht for your soul... unless you have a Patronus at hand?\n\nLastly\, Deathl
- y Hallow(een) on Saturday\, October 31st from 7-11 PM:\n\nCalling all mugg
- les and magicians! SCPC presents Deathly Hallow(een)\, the last event of H
- alloweek\, which will take place in the Exhibition Hall on October 31st fr
- om 7-11 PM. Join us dressed in your best costume for a costume contest\, m
- ystical maze\, take-home craft or cookie decorating activity\, and many ot
- her ghoulish games. Tickets for the in-person event can be reserved on Cam
- pus Tickets starting Tuesday\, October 27th.\n\nFor those who would like t
- o attend the event virtually\, we will be playing Jackbox games throughout
-  the duration of the event. There will also be a virtual walk-through of o
- ur maze. If you would like to participate in the costume contest without a
- ttending our in-person event\, virtual submissions will be open throughout
-  the week of the event.\n\nTickets for all three events go live soon on Ca
- mpus Tickets at bit.ly/campustickets [1]\n\nLinks:\n[0]  https://gatech.ca
- mpuslabs.com/engage/event/6565527\n[1]  https://l.facebook.com/l.php?u=htt
- ps%3A%2F%2Fbit.ly%2Fcampustickets%3Ffbclid%3DIwAR1kZacU69qgCGgTsyMd64j85nJ
- 7ok_oeioR9gOebg8A8NEgJSSpDRMEPXs&h=AT0HqHKryjjEKIUoavTac-L4S2a4zuemv3BPyGQ
- IBLP6QQ2FLWogH1iwSPBQUSCYPn78cA62KEFy2kXicMoly0cmLMKKdCHx-n6yh81ijK3fMrNIW
- QcRhxSHUT5LmF9yBymqPvue9n64tInyMonwjiVQxg
-LOCATION:Ferst Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SCPC Presents: Halloweek
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201101T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201101T040000Z
-UID:https://gatech.campuslabs.com/engage/event/6565529
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nSCPC Presents Halloweek
- : a 3-day event throughout the week of Halloween\, starting with Murder My
- stery on Wednesday\, October 28th from 7-10 PM:\n\nOnce in a generation\, 
- someone dares to complete the ultimate campus tradition: Stealing the T. T
- his Halloween\, someone did just that\, but their intentions are nefarious
- . The culprit must be found immediately\, or Georgia Tech as we know it ma
- y not survive. Join SCPC October 28th 7-10 pm\, either in-person or virtua
- lly\, on this twisty-turny mystery with familiar faces and locations to ge
- t the T back! Just be sure you watch your back...\n\nSign up for an in-per
- son or virtual time slot this Friday 10/23 at Georgia Tech Campus Tickets.
- \n\nThen\, Harry Potter Magicthon on Friday\, October 30th at 5:30 PM and 
- 9:15 PM:\n\nHave you seen this wizard? A chilling wind sweeps across campu
- s\, and with it brings Harry Potter Magicthon: Prisoner of Azkaban! Do you
-  dream of catching a Cornish Pixie in a Jar\, creating a Harry Potter head
-  bookmark\, drinking butter beer\, dueling it out in trivia\, and watching
-  the movie with a friend? Both virtual and in-person\, this event goes str
- aight for your soul... unless you have a Patronus at hand?\n\nLastly\, Dea
- thly Hallow(een) on Saturday\, October 31st from 8PM-12AM:\n\nCalling all 
- muggles and magicians! SCPC presents Deathly Hallow(een)\, the last event 
- of Halloweek\, which will take place in the Exhibition Hall on October 31s
- t from 8 PM-12 AM. Join us dressed in your best costume for a costume cont
- est\, mystical maze\, take-home craft or cookie decorating activity\, and 
- many other ghoulish games. Tickets for the in-person event can be reserved
-  on Campus Tickets starting Tuesday\, October 27th.\n\nFor those who would
-  like to attend the event virtually\, we will be playing Jackbox games thr
- oughout the duration of the event. There will also be a virtual walk-throu
- gh of our maze. If you would like to participate in the costume contest wi
- thout attending our in-person event\, virtual submissions will be open thr
- oughout the week of the event.\n\nTickets for all three events go live soo
- n on Campus Tickets at bit.ly/campustickets [1]\n\nLinks:\n[0]  https://ga
- tech.campuslabs.com/engage/event/6565529\n[1]  https://l.facebook.com/l.ph
- p?u=https%3A%2F%2Fbit.ly%2Fcampustickets%3Ffbclid%3DIwAR1kZacU69qgCGgTsyMd
- 64j85nJ7ok_oeioR9gOebg8A8NEgJSSpDRMEPXs&h=AT0HqHKryjjEKIUoavTac-L4S2a4zuem
- v3BPyGQIBLP6QQ2FLWogH1iwSPBQUSCYPn78cA62KEFy2kXicMoly0cmLMKKdCHx-n6yh81ijK
- 3fMrNIWQcRhxSHUT5LmF9yBymqPvue9n64tInyMonwjiVQxg
-LOCATION:Exhibition Hall
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sunday Morning Worship
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201101T153000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201101T163000Z
-UID:https://gatech.campuslabs.com/engage/event/6158618
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Sunday Morni
- ng to Worship together! Follow our social media or join our slack channel 
- for up-to-date information (online vs. in-person\, speakers\, etc.).\n\nLi
- nks:\n[0]  https://gatech.campuslabs.com/engage/event/6158618
-LOCATION:Tech Wesley
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Impact of COVID-19 on Manufacturing Supply Chain Design & Operatio
  ns
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201102T170000Z
@@ -10493,6 +10272,31 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nGeneral meeting for our
 LOCATION:Mason 1133
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Weekly EA Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211102T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211102T170000Z
+UID:https://gatech.campuslabs.com/engage/event/7569611
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nWe’ll have weekly on-
+ campus lunches in the Exhibition Hall [1] ’s Dining Hub together from 11
+ am to 1pm starting on Tuesday\, November 2. You can bring your own lunch o
+ r buy lunch on-campus (reimbursable up to $12 if it’s vegan)! This shoul
+ d be a great way to get to know your fellow aspiring effective altruists. 
+ You can discuss your key uncertainties about how best to do good\, things 
+ going on in your life\, or anything you'd like. We’ll post a pic of the 
+ table we’re at on our GroupMe [2].\n\nWith the Student Center still unde
+ r renovation\, on-campus dining options are unfortunately a bit limited\, 
+ but here are some tasty options for vegan food on Tuesdays during lunchtim
+ e:\n\n- Exhibition Hall: Panda Express\n\n- Exhibition Hall: Twisted Taco\
+ n\n- Tech Green: Slutty Vegan food truck—burgers\n\n- Tech Green: Gyro C
+ hef food truck—falafel\, falafel sandwich\n\n- Tech Green: Bento Bus foo
+ d truck—veggie bowl with edamame\n\n- Tech Green: Low-Co Motion food tru
+ ck—vegan MLT\n\n- Whistle Bistro\n\n- West Village\n\n- Brittain Dining 
+ Hall\n\n- North Ave Dining\n\nLinks:\n[0]  https://gatech.campuslabs.com/e
+ ngage/event/7569611\n[1]  https://studentcenter.gatech.edu/exhibition-hall
+ \n[2]  https://web.groupme.com/join_group/68220460/aC3JTAuO
+LOCATION:Exhibition Hall
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Learn to Read Russian in One Hour
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211102T210000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211102T220000Z
@@ -10956,6 +10760,31 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nLunch meeting for POND
 LOCATION:Mason 1133
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Weekly EA Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211109T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211109T180000Z
+UID:https://gatech.campuslabs.com/engage/event/7569612
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nWe’ll have weekly on-
+ campus lunches in the Exhibition Hall [1] ’s Dining Hub together from 11
+ am to 1pm starting on Tuesday\, November 2. You can bring your own lunch o
+ r buy lunch on-campus (reimbursable up to $12 if it’s vegan)! This shoul
+ d be a great way to get to know your fellow aspiring effective altruists. 
+ You can discuss your key uncertainties about how best to do good\, things 
+ going on in your life\, or anything you'd like. We’ll post a pic of the 
+ table we’re at on our GroupMe [2].\n\nWith the Student Center still unde
+ r renovation\, on-campus dining options are unfortunately a bit limited\, 
+ but here are some tasty options for vegan food on Tuesdays during lunchtim
+ e:\n\n- Exhibition Hall: Panda Express\n\n- Exhibition Hall: Twisted Taco\
+ n\n- Tech Green: Slutty Vegan food truck—burgers\n\n- Tech Green: Gyro C
+ hef food truck—falafel\, falafel sandwich\n\n- Tech Green: Bento Bus foo
+ d truck—veggie bowl with edamame\n\n- Tech Green: Low-Co Motion food tru
+ ck—vegan MLT\n\n- Whistle Bistro\n\n- West Village\n\n- Brittain Dining 
+ Hall\n\n- North Ave Dining\n\nLinks:\n[0]  https://gatech.campuslabs.com/e
+ ngage/event/7569612\n[1]  https://studentcenter.gatech.edu/exhibition-hall
+ \n[2]  https://web.groupme.com/join_group/68220460/aC3JTAuO
+LOCATION:Exhibition Hall
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WCF Free Dinner
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211109T233000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211110T013000Z
@@ -11266,6 +11095,28 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:311 Ferst Dr NW\, Atlanta\, GA 30332
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Taste of Africa 2021 || BLACK JOY
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211113T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211113T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7572186
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCLICK HERE TO BUY 5$ TI
+ CKETS [1]\n\nInspired by the joyous and vibrant culture of the African dia
+ spora\, this year’s Taste of Africa is themed Black joy\, intending to s
+ howcase the appreciation and beauty of Black joy in all its forms. The eve
+ nt will begin with a filling dinner at the Exhibition Hall Midtown Room fr
+ om 7- 8 p.m.\, with a diverse assortment of foods commonly eaten in 15+ Af
+ rican countries. The walk from the Exhibition Hall to the Ferst Center lob
+ by will simultaneously hold an Art Crawl\, including displays of various a
+ rt from local Black/African artists. The showcase will begin at 8:30 p.m. 
+ in the Ferst Center presenting African fashion shows\, comedic skits\, vib
+ rant music\, dance performances\, and a finale guest star artist performan
+ ce! It will be a night you won't want to miss out on!\n\nLinks:\n[0]  http
+ s://gatech.campuslabs.com/engage/event/7572186\n[1]  https://gatech.campus
+ labs.com/engage/submitter/organization/african-student-association/eventsu
+ bmission/tinyurl.com/toa21
+LOCATION:Ferst Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Boulderween
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211114T010000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211114T130000Z
@@ -11432,6 +11283,21 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:311 Ferst Dr NW\, Atlanta\, GA 30332
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GC Friendsgiving Night!
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211120T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211121T010000Z
+UID:https://gatech.campuslabs.com/engage/event/7572321
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCran you believe it’s
+  almost Thanksgiving?\n\nJoin GC Saturday\, November 20th\, 5-8PM at Brita
+ in Rec. for GC Friendsgiving to get in the holiday spirit and give back!\n
+ \nStop by to make a no-sew blanket to be donated to Atlantans who may othe
+ rwise go without\, enjoy seasonal snacks\, and watch festive movies with u
+ s.\n\nEngage RSVPs appreciated\, but not required. GC first-years\, staff\
+ , and alumni welcome!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage
+ /event/7572321
+LOCATION:Britain Rec
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Final Stand 2021
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211121T030000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211121T070000Z
@@ -11441,6 +11307,31 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  .gatech.edu/node/652058#0
 LOCATION:Georgia Tech Campus Recreation Center\, 750 Ferst Dr\, Atlanta\, 
  GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weekly EA Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211123T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211123T180000Z
+UID:https://gatech.campuslabs.com/engage/event/7569614
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nWe’ll have weekly on-
+ campus lunches in the Exhibition Hall [1] ’s Dining Hub together from 11
+ am to 1pm starting on Tuesday\, November 2. You can bring your own lunch o
+ r buy lunch on-campus (reimbursable up to $12 if it’s vegan)! This shoul
+ d be a great way to get to know your fellow aspiring effective altruists. 
+ You can discuss your key uncertainties about how best to do good\, things 
+ going on in your life\, or anything you'd like. We’ll post a pic of the 
+ table we’re at on our GroupMe [2].\n\nWith the Student Center still unde
+ r renovation\, on-campus dining options are unfortunately a bit limited\, 
+ but here are some tasty options for vegan food on Tuesdays during lunchtim
+ e:\n\n- Exhibition Hall: Panda Express\n\n- Exhibition Hall: Twisted Taco\
+ n\n- Tech Green: Slutty Vegan food truck—burgers\n\n- Tech Green: Gyro C
+ hef food truck—falafel\, falafel sandwich\n\n- Tech Green: Bento Bus foo
+ d truck—veggie bowl with edamame\n\n- Tech Green: Low-Co Motion food tru
+ ck—vegan MLT\n\n- Whistle Bistro\n\n- West Village\n\n- Brittain Dining 
+ Hall\n\n- North Ave Dining\n\nLinks:\n[0]  https://gatech.campuslabs.com/e
+ ngage/event/7569614\n[1]  https://studentcenter.gatech.edu/exhibition-hall
+ \n[2]  https://web.groupme.com/join_group/68220460/aC3JTAuO
+LOCATION:Exhibition Hall
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nano@Tech Fall 2022 Series | Session 7
@@ -11502,6 +11393,31 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nGeneral meeting for our
 LOCATION:Mason 1133
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Weekly EA Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211130T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211130T180000Z
+UID:https://gatech.campuslabs.com/engage/event/7569615
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nWe’ll have weekly on-
+ campus lunches in the Exhibition Hall [1] ’s Dining Hub together from 11
+ am to 1pm starting on Tuesday\, November 2. You can bring your own lunch o
+ r buy lunch on-campus (reimbursable up to $12 if it’s vegan)! This shoul
+ d be a great way to get to know your fellow aspiring effective altruists. 
+ You can discuss your key uncertainties about how best to do good\, things 
+ going on in your life\, or anything you'd like. We’ll post a pic of the 
+ table we’re at on our GroupMe [2].\n\nWith the Student Center still unde
+ r renovation\, on-campus dining options are unfortunately a bit limited\, 
+ but here are some tasty options for vegan food on Tuesdays during lunchtim
+ e:\n\n- Exhibition Hall: Panda Express\n\n- Exhibition Hall: Twisted Taco\
+ n\n- Tech Green: Slutty Vegan food truck—burgers\n\n- Tech Green: Gyro C
+ hef food truck—falafel\, falafel sandwich\n\n- Tech Green: Bento Bus foo
+ d truck—veggie bowl with edamame\n\n- Tech Green: Low-Co Motion food tru
+ ck—vegan MLT\n\n- Whistle Bistro\n\n- West Village\n\n- Brittain Dining 
+ Hall\n\n- North Ave Dining\n\nLinks:\n[0]  https://gatech.campuslabs.com/e
+ ngage/event/7569615\n[1]  https://studentcenter.gatech.edu/exhibition-hall
+ \n[2]  https://web.groupme.com/join_group/68220460/aC3JTAuO
+LOCATION:Exhibition Hall
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WCF Free Dinner
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211130T233000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211201T013000Z
@@ -11535,6 +11451,31 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  gracehouse\n[4]  sms:+14049994471&body=coffee\n[5]  http://hg.gatech.edu/n
  ode/+14049994471&body=coffee
 LOCATION:Grace House\, 182 5th Street NW\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weekly EA Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211207T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211207T180000Z
+UID:https://gatech.campuslabs.com/engage/event/7569616
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nWe’ll have weekly on-
+ campus lunches in the Exhibition Hall [1] ’s Dining Hub together from 11
+ am to 1pm starting on Tuesday\, November 2. You can bring your own lunch o
+ r buy lunch on-campus (reimbursable up to $12 if it’s vegan)! This shoul
+ d be a great way to get to know your fellow aspiring effective altruists. 
+ You can discuss your key uncertainties about how best to do good\, things 
+ going on in your life\, or anything you'd like. We’ll post a pic of the 
+ table we’re at on our GroupMe [2].\n\nWith the Student Center still unde
+ r renovation\, on-campus dining options are unfortunately a bit limited\, 
+ but here are some tasty options for vegan food on Tuesdays during lunchtim
+ e:\n\n- Exhibition Hall: Panda Express\n\n- Exhibition Hall: Twisted Taco\
+ n\n- Tech Green: Slutty Vegan food truck—burgers\n\n- Tech Green: Gyro C
+ hef food truck—falafel\, falafel sandwich\n\n- Tech Green: Bento Bus foo
+ d truck—veggie bowl with edamame\n\n- Tech Green: Low-Co Motion food tru
+ ck—vegan MLT\n\n- Whistle Bistro\n\n- West Village\n\n- Brittain Dining 
+ Hall\n\n- North Ave Dining\n\nLinks:\n[0]  https://gatech.campuslabs.com/e
+ ngage/event/7569616\n[1]  https://studentcenter.gatech.edu/exhibition-hall
+ \n[2]  https://web.groupme.com/join_group/68220460/aC3JTAuO
+LOCATION:Exhibition Hall
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tapping Circle for Stress and Calm - 2nd Fridays 3:30-
