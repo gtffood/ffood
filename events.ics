@@ -2,36 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Impact of COVID-19 on Manufacturing Supply Chain Design & Operatio
- ns
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201102T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201102T180000Z
-UID:http://hg.gatech.edu/node/638393#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nLunch and Learn Speaker Series Fall 2020 Speake
- r:\nChip White\nProfessor\nGeorgia Tech\, School of ISYE\n\nAbstract:\n> A
- dditional details posted closer to event\n\nBio:\n> Additional details pos
- ted closer to event\n\nLinks:\n[0]  http://hg.gatech.edu/node/638393#0
-LOCATION:Virtual Event - Details forthcoming
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Outdoor Open Office Hours
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201103T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201103T170000Z
-UID:http://hg.gatech.edu/node/639683#9
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\, Freebies\nStatus: published\n\nThe Office of Und
- ergraduate Education welcomes all students to meet and chat with Georgia T
- ech faculty\, staff\, and administration in a safe\, socially-distanced en
- vironment.\n\nJoin us 11a-12p Tuesdays and Fridays (in October/November) a
- t the Tech Green for conversation and refreshment. Come for the snacks—s
- tay for the conversations!\n\n*In case of inclement weather\, meetings wil
- l take place in the Clough Lounge (Suite 205Q)\n\nLinks:\n[0]  http://hg.g
- atech.edu/node/639683#9\n[1]  http://instagram.com/gtoue\n[2]  http://oue.
- gatech.edu
-LOCATION:Tech Green
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tuesday Night Worship
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201104T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201104T020000Z
@@ -10297,6 +10267,33 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nWe’ll have weekly on-
 LOCATION:Exhibition Hall
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Weekly Effective Altriusm Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211102T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211102T170000Z
+UID:http://hg.gatech.edu/node/652260#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nWe’ll have weekly on-campus lun
+ ches in the Exhibition Hall [1] ’s Dining Hub together from 11am to 1pm 
+ starting on Tuesday\, November 2. You can bring your own lunch or buy lunc
+ h on-campus (reimbursable up to $12 if it’s vegan)! This should be a gre
+ at way to get to know your fellow aspiring effective altruists. You can di
+ scuss your key uncertainties about how best to do good\, things going on i
+ n your life\, or anything you'd like. We’ll post a pic of the table we
+ ’re at on our GroupMe [2].\n\nWith the Student Center still under renova
+ tion\, on-campus dining options are unfortunately a bit limited\, but here
+  are some tasty options for vegan food on Tuesdays during lunchtime:\n\n- 
+ Exhibition Hall: Panda Express\n\n- Exhibition Hall: Twisted Taco\n\n- Tec
+ h Green: Slutty Vegan food truck—burgers\n\n- Tech Green: Gyro Chef food
+  truck—falafel\, falafel sandwich\n\n- Tech Green: Bento Bus food truck
+ —veggie bowl with edamame\n\n- Tech Green: Low-Co Motion food truck—ve
+ gan MLT\n\n- Whistle Bistro\n\n- West Village\n\n- Brittain Dining Hall\n\
+ n- North Ave Dining\n\nLinks:\n[0]  http://hg.gatech.edu/node/652260#0\n[1
+ ]  https://studentcenter.gatech.edu/exhibition-hall\n[2]  https://web.grou
+ pme.com/join_group/68220460/aC3JTAuO\n[3]  https://eagatech.org/\n[4]  htt
+ ps://gatech.campuslabs.com/engage/organization/effective-altruism
+LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Learn to Read Russian in One Hour
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211102T210000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211102T220000Z
@@ -10541,6 +10538,18 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:French Club: Third Rendezvous
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211104T224500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211105T000000Z
+UID:http://hg.gatech.edu/node/652263#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nDetails TBD. However\, expect a similar feeling as t
+ he first two rendezvous. French speaking\, meeting people\, and snacks.\n\
+ nLinks:\n[0]  http://hg.gatech.edu/node/652263#0\n[1]  https://gatech.camp
+ uslabs.com/engage/organization/french-club
+LOCATION:Room 256\, Skiles Building
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Apologetics
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211104T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211105T000000Z
@@ -10660,6 +10669,16 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Saturday in
 LOCATION:GT Community Garden
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Jordan Peterson Lecture Series Event
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211106T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211106T160000Z
+UID:http://hg.gatech.edu/node/652337#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatech.edu
+ /node/652337#0
+LOCATION:Klaus 1447 \, 266 Ferst Dr NW\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:2021 Step It Up 5K presented by Alpha Xi Delta
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211107T130000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211107T180000Z
@@ -10688,16 +10707,19 @@ BEGIN:VEVENT
 SUMMARY:HyperJackets General Body Meeting
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211108T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211108T013000Z
-UID:https://gatech.campuslabs.com/engage/event/7558766
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nGT HyperJackets\, Georg
- ia Tech's Hyperloop pod competition team is currently recruiting members f
- rom all majors and academic levels to help research\, design\, build\, and
-  test hyperloop pod concepts. Our sub-teams include:\n\nAerostructures\, V
- ehicle Dynamics\, Electronics\, and Operations\n\nAttend the general body 
- meeting on 11/7 to learn more and join this team of motivated individuals!
- ! Contact us at gthyperloop@gmail.com for more details.\n\nLinks:\n[0]  ht
- tps://gatech.campuslabs.com/engage/event/7558766
-LOCATION:Instructional Center 209
+UID:http://hg.gatech.edu/node/652265#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nGT HyperJackets\, Georgia Tech's 
+ Hyperloop pod competition team is currently recruiting members from all ma
+ jors and academic levels to help research\, design\, build\, and test hype
+ rloop pod concepts. Our sub-teams include:\n\nAerostructures\, Vehicle Dyn
+ amics\, Electronics\, and Operations\n\nAttend the general body meeting on
+  11/7 to learn more and join this team of motivated individuals!! Contact 
+ us at gthyperloop@gmail.com for more details.\n\nLinks:\n[0]  http://hg.ga
+ tech.edu/node/652265#0\n[1]  https://gatech.campuslabs.com/engage/event/75
+ 58766\n[2]  https://gatech.campuslabs.com/engage/organization/hyperjackets
+ \n[3]  gthyperloop@gmail.com
+LOCATION:Room 209\, Instructional Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Predatory Publication and Issues in Authorship
@@ -10783,6 +10805,33 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nWe’ll have weekly on-
  ngage/event/7569612\n[1]  https://studentcenter.gatech.edu/exhibition-hall
  \n[2]  https://web.groupme.com/join_group/68220460/aC3JTAuO
 LOCATION:Exhibition Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weekly Effective Altriusm Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211109T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211109T180000Z
+UID:http://hg.gatech.edu/node/652260#1
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nWe’ll have weekly on-campus lun
+ ches in the Exhibition Hall [1] ’s Dining Hub together from 11am to 1pm 
+ starting on Tuesday\, November 2. You can bring your own lunch or buy lunc
+ h on-campus (reimbursable up to $12 if it’s vegan)! This should be a gre
+ at way to get to know your fellow aspiring effective altruists. You can di
+ scuss your key uncertainties about how best to do good\, things going on i
+ n your life\, or anything you'd like. We’ll post a pic of the table we
+ ’re at on our GroupMe [2].\n\nWith the Student Center still under renova
+ tion\, on-campus dining options are unfortunately a bit limited\, but here
+  are some tasty options for vegan food on Tuesdays during lunchtime:\n\n- 
+ Exhibition Hall: Panda Express\n\n- Exhibition Hall: Twisted Taco\n\n- Tec
+ h Green: Slutty Vegan food truck—burgers\n\n- Tech Green: Gyro Chef food
+  truck—falafel\, falafel sandwich\n\n- Tech Green: Bento Bus food truck
+ —veggie bowl with edamame\n\n- Tech Green: Low-Co Motion food truck—ve
+ gan MLT\n\n- Whistle Bistro\n\n- West Village\n\n- Brittain Dining Hall\n\
+ n- North Ave Dining\n\nLinks:\n[0]  http://hg.gatech.edu/node/652260#1\n[1
+ ]  https://studentcenter.gatech.edu/exhibition-hall\n[2]  https://web.grou
+ pme.com/join_group/68220460/aC3JTAuO\n[3]  https://eagatech.org/\n[4]  htt
+ ps://gatech.campuslabs.com/engage/organization/effective-altruism
+LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WCF Free Dinner
@@ -11098,23 +11147,25 @@ BEGIN:VEVENT
 SUMMARY:Taste of Africa 2021 || BLACK JOY
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211113T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211113T030000Z
-UID:https://gatech.campuslabs.com/engage/event/7572186
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCLICK HERE TO BUY 5$ TI
- CKETS [1]\n\nInspired by the joyous and vibrant culture of the African dia
- spora\, this year’s Taste of Africa is themed Black joy\, intending to s
- howcase the appreciation and beauty of Black joy in all its forms. The eve
- nt will begin with a filling dinner at the Exhibition Hall Midtown Room fr
- om 7- 8 p.m.\, with a diverse assortment of foods commonly eaten in 15+ Af
- rican countries. The walk from the Exhibition Hall to the Ferst Center lob
- by will simultaneously hold an Art Crawl\, including displays of various a
- rt from local Black/African artists. The showcase will begin at 8:30 p.m. 
- in the Ferst Center presenting African fashion shows\, comedic skits\, vib
- rant music\, dance performances\, and a finale guest star artist performan
- ce! It will be a night you won't want to miss out on!\n\nLinks:\n[0]  http
- s://gatech.campuslabs.com/engage/event/7572186\n[1]  https://gatech.campus
- labs.com/engage/submitter/organization/african-student-association/eventsu
- bmission/tinyurl.com/toa21
-LOCATION:Ferst Center
+UID:http://hg.gatech.edu/node/652310#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free Food\nStatus: published\n
+ \nCLICK HERE TO BUY 5$ TICKETS [2]\n\nInspired by the joyous and vibrant c
+ ulture of the African diaspora\, this year’s Taste of Africa is themed B
+ lack joy\, intending to showcase the appreciation and beauty of Black joy 
+ in all its forms. The event will begin with a filling dinner at the Exhibi
+ tion Hall Midtown Room from 7- 8 p.m.\, with a diverse assortment of foods
+  commonly eaten in 15+ African countries. The walk from the Exhibition Hal
+ l to the Ferst Center lobby will simultaneously hold an Art Crawl\, includ
+ ing displays of various art from local Black/African artists. The showcase
+  will begin at 8:30 p.m. in the Ferst Center presenting African fashion sh
+ ows\, comedic skits\, vibrant music\, dance performances\, and a finale gu
+ est star artist performance! It will be a night you won't want to miss out
+  on!\n\nLinks:\n[0]  http://hg.gatech.edu/node/652310#0\n[1]  https://gate
+ ch.campuslabs.com/engage/event/7572186\n[2]  https://gatech.campuslabs.com
+ /engage/submitter/organization/african-student-association/eventsubmission
+ /tinyurl.com/toa21
+LOCATION:Ferst Center\, 349 Ferst Drive\, Atlanta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Boulderween
@@ -11200,6 +11251,33 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nLunch meeting for Tensa
 LOCATION:Mason 1133
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Weekly Effective Altriusm Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211116T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211116T180000Z
+UID:http://hg.gatech.edu/node/652260#2
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nWe’ll have weekly on-campus lun
+ ches in the Exhibition Hall [1] ’s Dining Hub together from 11am to 1pm 
+ starting on Tuesday\, November 2. You can bring your own lunch or buy lunc
+ h on-campus (reimbursable up to $12 if it’s vegan)! This should be a gre
+ at way to get to know your fellow aspiring effective altruists. You can di
+ scuss your key uncertainties about how best to do good\, things going on i
+ n your life\, or anything you'd like. We’ll post a pic of the table we
+ ’re at on our GroupMe [2].\n\nWith the Student Center still under renova
+ tion\, on-campus dining options are unfortunately a bit limited\, but here
+  are some tasty options for vegan food on Tuesdays during lunchtime:\n\n- 
+ Exhibition Hall: Panda Express\n\n- Exhibition Hall: Twisted Taco\n\n- Tec
+ h Green: Slutty Vegan food truck—burgers\n\n- Tech Green: Gyro Chef food
+  truck—falafel\, falafel sandwich\n\n- Tech Green: Bento Bus food truck
+ —veggie bowl with edamame\n\n- Tech Green: Low-Co Motion food truck—ve
+ gan MLT\n\n- Whistle Bistro\n\n- West Village\n\n- Brittain Dining Hall\n\
+ n- North Ave Dining\n\nLinks:\n[0]  http://hg.gatech.edu/node/652260#2\n[1
+ ]  https://studentcenter.gatech.edu/exhibition-hall\n[2]  https://web.grou
+ pme.com/join_group/68220460/aC3JTAuO\n[3]  https://eagatech.org/\n[4]  htt
+ ps://gatech.campuslabs.com/engage/organization/effective-altruism
+LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Japan Day
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211116T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211116T190000Z
@@ -11212,6 +11290,24 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  a\n\nkyoko.masuda@modlangs.gatech.edu\n\nLinks:\n[0]  http://hg.gatech.edu
  /node/652233#0\n[1]  https://gatech.campuslabs.com/engage/event/7549711
 LOCATION:Swann Building Backyard
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Japan Day 2021
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211116T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211116T190000Z
+UID:http://hg.gatech.edu/node/652327#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\, Freebies\nStatus: published\n\nSwann Atrium/Swan
+ n Backyard\n11:00 am Welcome the Japanese Program\n\n11:00 am - 11:45 am F
+ uroshiki Master Demonstration\n\n11:45 am - 11:55 am Door prize\n\nSwann 1
+ 06\n12:00 pm - 12:10 pm OIE Study Abroad/Internship\n\n12:10 pm - 12:20 pm
+  Japanese Program Information Session (ALIS\, IAML/GEML\, GMC)\n\n12:20 pm
+  - 12:30 pm Japanese Student Association\n\nSwann Atrium/Swann Backyard\n1
+ 2:30 pm - 1:00 pm Meet Kendam Master (Kendama=skill-based Japanese wooden 
+ toy)\n\n1 pm - 2 pm Game! Anime Trivia & Cosplay Contest\n\nJapanese sweet
+ s and snacks will be provided.\n\nLinks:\n[0]  http://hg.gatech.edu/node/6
+ 52327#0
+LOCATION:Swann Atrium/Backyard and Swann 106
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WCF Free Dinner
@@ -11334,6 +11430,33 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nWe’ll have weekly on-
 LOCATION:Exhibition Hall
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Weekly Effective Altriusm Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211123T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211123T180000Z
+UID:http://hg.gatech.edu/node/652260#3
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nWe’ll have weekly on-campus lun
+ ches in the Exhibition Hall [1] ’s Dining Hub together from 11am to 1pm 
+ starting on Tuesday\, November 2. You can bring your own lunch or buy lunc
+ h on-campus (reimbursable up to $12 if it’s vegan)! This should be a gre
+ at way to get to know your fellow aspiring effective altruists. You can di
+ scuss your key uncertainties about how best to do good\, things going on i
+ n your life\, or anything you'd like. We’ll post a pic of the table we
+ ’re at on our GroupMe [2].\n\nWith the Student Center still under renova
+ tion\, on-campus dining options are unfortunately a bit limited\, but here
+  are some tasty options for vegan food on Tuesdays during lunchtime:\n\n- 
+ Exhibition Hall: Panda Express\n\n- Exhibition Hall: Twisted Taco\n\n- Tec
+ h Green: Slutty Vegan food truck—burgers\n\n- Tech Green: Gyro Chef food
+  truck—falafel\, falafel sandwich\n\n- Tech Green: Bento Bus food truck
+ —veggie bowl with edamame\n\n- Tech Green: Low-Co Motion food truck—ve
+ gan MLT\n\n- Whistle Bistro\n\n- West Village\n\n- Brittain Dining Hall\n\
+ n- North Ave Dining\n\nLinks:\n[0]  http://hg.gatech.edu/node/652260#3\n[1
+ ]  https://studentcenter.gatech.edu/exhibition-hall\n[2]  https://web.grou
+ pme.com/join_group/68220460/aC3JTAuO\n[3]  https://eagatech.org/\n[4]  htt
+ ps://gatech.campuslabs.com/engage/organization/effective-altruism
+LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nano@Tech Fall 2022 Series | Session 7
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211123T170000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211123T180000Z
@@ -11418,6 +11541,33 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nWe’ll have weekly on-
 LOCATION:Exhibition Hall
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Weekly Effective Altriusm Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211130T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211130T180000Z
+UID:http://hg.gatech.edu/node/652260#4
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nWe’ll have weekly on-campus lun
+ ches in the Exhibition Hall [1] ’s Dining Hub together from 11am to 1pm 
+ starting on Tuesday\, November 2. You can bring your own lunch or buy lunc
+ h on-campus (reimbursable up to $12 if it’s vegan)! This should be a gre
+ at way to get to know your fellow aspiring effective altruists. You can di
+ scuss your key uncertainties about how best to do good\, things going on i
+ n your life\, or anything you'd like. We’ll post a pic of the table we
+ ’re at on our GroupMe [2].\n\nWith the Student Center still under renova
+ tion\, on-campus dining options are unfortunately a bit limited\, but here
+  are some tasty options for vegan food on Tuesdays during lunchtime:\n\n- 
+ Exhibition Hall: Panda Express\n\n- Exhibition Hall: Twisted Taco\n\n- Tec
+ h Green: Slutty Vegan food truck—burgers\n\n- Tech Green: Gyro Chef food
+  truck—falafel\, falafel sandwich\n\n- Tech Green: Bento Bus food truck
+ —veggie bowl with edamame\n\n- Tech Green: Low-Co Motion food truck—ve
+ gan MLT\n\n- Whistle Bistro\n\n- West Village\n\n- Brittain Dining Hall\n\
+ n- North Ave Dining\n\nLinks:\n[0]  http://hg.gatech.edu/node/652260#4\n[1
+ ]  https://studentcenter.gatech.edu/exhibition-hall\n[2]  https://web.grou
+ pme.com/join_group/68220460/aC3JTAuO\n[3]  https://eagatech.org/\n[4]  htt
+ ps://gatech.campuslabs.com/engage/organization/effective-altruism
+LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WCF Free Dinner
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211130T233000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211201T013000Z
@@ -11476,6 +11626,33 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nWe’ll have weekly on-
  ngage/event/7569616\n[1]  https://studentcenter.gatech.edu/exhibition-hall
  \n[2]  https://web.groupme.com/join_group/68220460/aC3JTAuO
 LOCATION:Exhibition Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weekly Effective Altriusm Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211207T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211207T180000Z
+UID:http://hg.gatech.edu/node/652260#5
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nWe’ll have weekly on-campus lun
+ ches in the Exhibition Hall [1] ’s Dining Hub together from 11am to 1pm 
+ starting on Tuesday\, November 2. You can bring your own lunch or buy lunc
+ h on-campus (reimbursable up to $12 if it’s vegan)! This should be a gre
+ at way to get to know your fellow aspiring effective altruists. You can di
+ scuss your key uncertainties about how best to do good\, things going on i
+ n your life\, or anything you'd like. We’ll post a pic of the table we
+ ’re at on our GroupMe [2].\n\nWith the Student Center still under renova
+ tion\, on-campus dining options are unfortunately a bit limited\, but here
+  are some tasty options for vegan food on Tuesdays during lunchtime:\n\n- 
+ Exhibition Hall: Panda Express\n\n- Exhibition Hall: Twisted Taco\n\n- Tec
+ h Green: Slutty Vegan food truck—burgers\n\n- Tech Green: Gyro Chef food
+  truck—falafel\, falafel sandwich\n\n- Tech Green: Bento Bus food truck
+ —veggie bowl with edamame\n\n- Tech Green: Low-Co Motion food truck—ve
+ gan MLT\n\n- Whistle Bistro\n\n- West Village\n\n- Brittain Dining Hall\n\
+ n- North Ave Dining\n\nLinks:\n[0]  http://hg.gatech.edu/node/652260#5\n[1
+ ]  https://studentcenter.gatech.edu/exhibition-hall\n[2]  https://web.grou
+ pme.com/join_group/68220460/aC3JTAuO\n[3]  https://eagatech.org/\n[4]  htt
+ ps://gatech.campuslabs.com/engage/organization/effective-altruism
+LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tapping Circle for Stress and Calm - 2nd Fridays 3:30-
@@ -11583,5 +11760,19 @@ DESCRIPTION:Extras: Credit\, Free Food\, Free Stuff\nStatus: approved\n\nT
  engage/submitter/form/start/507527\n[3]  https://student-organizations.gat
  ech.edu/content/get-connected-stay-engaged
 LOCATION:Tech Green/Tech Walkway 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Accelerate Skills Conference 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220206T190000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220206T230000Z
+UID:https://gatech.campuslabs.com/engage/event/7580687
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nPRIVATE EV
+ ENT | ACCELERATE YOUR LEADERSHIP\n\nThe Accelerate Skills Conference is he
+ re! Join us for conference-style leadership training created to enhance yo
+ ur coaching and facilitation skills.\n\nWHEN: Sunday\, February 6\, 2022 f
+ rom 2:00 PM - 6:00 PM\n\nWHERE: Exhibition Hall (Various Rooms)\n\nDINNER 
+ & SWAG WILL BE PROVIDED\n\nLinks:\n[0]  https://gatech.campuslabs.com/enga
+ ge/event/7580687
+LOCATION:Exhibition Hall
 END:VEVENT
 END:VCALENDAR
