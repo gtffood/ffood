@@ -2,171 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Tuesday Night Worship
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201104T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201104T020000Z
-UID:https://gatech.campuslabs.com/engage/event/6158606
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us Tu
- esday night for dinner and Worship! Follow our social media or join or sla
- ck channel for up-to-date information (online vs. in-person\, speakers\, e
- tc.).\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6158606
-LOCATION:Tech Wesley
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OMED Post-election Kickback
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201104T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201104T203000Z
-UID:http://hg.gatech.edu/node/640791#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nThe Office of Minority Educationa
- l Development (OMED) will host a post-election kickback in the Chapin Buil
- ding\, Wednesday\, November 4 from 10 a.m. – 3:30 p.m. Students are invi
- ted to come by\, grab food\, listen to music\, hop on the open mic\, or di
- alogue with others!\n\nLinks:\n[0]  http://hg.gatech.edu/node/640791#0
-LOCATION:Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Petit Institute Distinguished Lecture
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201104T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201104T180000Z
-UID:http://hg.gatech.edu/node/629586#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nGordana Vunjak-No
- vakovic\, Ph.D.\nUniversity Professor\nThe Mikati Foundation Professor of 
- Biomedical Engineering and Medicine\nDirector\, Laboratory for Stem Cells 
- and Tissue Engineering\nColumbia University\n\nApproximately 35 million me
- n and women in the United States suffer from TMJ problems\, and as many as
-  one in four people experience symptoms of TMJ disorders\, including pain 
- in the chewing muscles\, jaw stiffness\, clicking\, popping or grating\, o
- r the pain of arthritis. The temporomandibular joint\, or TMJ\, is the jaw
-  joint that lies in front of each ear\, connecting the mandible (lower jaw
- ) to the skull\, providing the mobility necessary for biting\, chewing\, s
- wallowing food\, speaking\, and making facial expressions.\n\nGordana Vunj
- ak-Novakovic and her research team have been able to grow bone grafts that
-  will match a patient’s original jaw bone for facial reconstruction surg
- ery to repair injuries\, disease\, or birth defects. This spectacular adva
- ncement in bone tissue engineering provides all the advantages of the body
- ’s original jaw bone. The team used real bone as a scaffold to grow the 
- new TMJ graft. Taking the knee joints of calves\, they stripped them of al
- l their living cells and carved them into cubic centimeter-size parts of a
-  human jaw joint.\n\nUsing mesenchymal stem cells\, which can differentiat
- e into many cell types\, to seed the scaffolding\, they fed them with stre
- ams of nutrients\, growth factors\, and oxygen in a bioreactor. The next s
- tep will be to determine the best way to grow blood vessels in the bone gr
- afts to continue their viability.\n\nIn another research area\, Vunjak-Nov
- akovic is engineering thick\, vascularized\, and electromechanically funct
- ional cardiac tissue\, by culturing stem cells\, the actual “tissue engi
- neers\,” on a channeled elastomer scaffold perfused with culture medium 
- containing oxygen carriers\, to mimic blood flow. This research may lead t
- o a heart patch that could be laid over injured heart tissue to restore no
- rmal function in someone who has suffered a heart attack.\n\n“As a biome
- dical engineer actively involved in this field\, I look forward to unlocki
- ng the full regenerative potential of human stem cells\, so we can cure di
- sease and live longer than our failing organs\,” she said.\n\nHer lab ho
- sts the Bioreactor Core of the National Institutes of Health (NIH) Tissue 
- Engineering Resource Center. “This sophisticated bioreactor and imaging 
- instrumentation has moved stem cell research from the ‘flat biology’ o
- f petri dishes to controllable models of high biological fidelity\, which 
- can be studied in real time to observe the interacting factors mediating s
- elf-renewal and differentiation of stem cells\,” said Vunjak-Novakovic. 
- “We now have the capacity to develop entirely new research paradigms and
-  approaches to engineering human tissues.”\n\nIn 2002\, Vunjak-Novakovic
-  was elected a fellow of the American Institute for Medical and Biological
-  Engineering. In 2007\, she gave the Director’s lecture at the NIH\, as 
- the first woman engineer to receive this distinction. She was inducted int
- o the Women in Technology International Hall of Fame in 2008\, elected to 
- the New York Academy of Sciences in 2009\, and\, in 2010\, received the Cl
- emson Award of the Biomaterials Society for contribution to literature.\n\
- nBS\, University of Belgrade (Serbia)\, 1972\; SM\, University of Belgrade
- \, 1975\; University of Belgrade\, PhD\, 1980\n\nA community lunch will be
-  served immediately following the presentation.\n\nLinks:\n[0]  http://hg.
- gatech.edu/node/629586#0\n[1]  http://gvn.hostedplace.com/\n[2]  http://pe
- titinstitute.gatech.edu/
-LOCATION:Parker H. Petit Institute for Bioengineering and Bioscience\, Atr
- ium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FREE Yoga for Body\, Mind & Soul
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201105T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201105T013000Z
-UID:https://gatech.campuslabs.com/engage/event/6582622
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nWe strive 
- to provide a healing family environment in these uncertain times. This eve
- nt will be socially distanced and PPE is required!\n\nWe at Bhakti Yoga Cl
- ub at GeorgiaTech want to improve the quality of living of students and fa
- culty by teaching them principles for a stress-free\, happy and meaningful
-  life. Our teacher has been practicing the principles of yoga for 40 years
-  and has a deep desire to share this knowledge to heal students. We offer 
- free online classes on various forms of yoga every day. We do simple yoga 
- practices and go deep into our consciousness with discussions from differe
- nt ancient Yoga texts. Don't miss this opportunity to learn Intentional Li
- ving\, Conscious Eating and Mindful Co-existence - this might be the point
-  where your life is changed for the better!\n\nZoom video link to join eve
- ry day. Recorded Videos on Facebook live page.\n\nFollow us on Facebook an
- d Instagram:\n\n[1]\n\nhttps://www.instagram.com/gtbhaktiyoga/ [2]\n\nLink
- s:\n[0]  https://gatech.campuslabs.com/engage/event/6582622\n[1]  https://
- www.facebook.com/BYCGT/\n[2]  https://l.facebook.com/l.php?u=https%3A%2F%2
- Fwww.instagram.com%2Fgtbhaktiyoga%2F%3Ffbclid%3DIwAR12tEkQBTPUw_gzAzvDJrqs
- eyCszcAHKwfYNOjCcGWKzNpBrxK_hX53j7Y&h=AT09WxecGIcpUyrCBsRa8SVVc8a1kEW_Kwmc
- hedAq6T_PyKCwrx9dDL7rGz3pycHvGBK48ML0WwJOYkBQXy0DUYghfK9H2RBxDZTKswS-9kgqg
- MpV5q0bloL7ObExJvOrQ
-LOCATION:Couch Park (Burger Bowl)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SAA Alumni Connections Committee Meeting
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201105T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201105T170000Z
-UID:http://hg.gatech.edu/node/639168#7
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nThis committee is made up of students who are Dinner
-  Jackets facilitators and Expert Jackets and IMPACT Meet & Greet event lea
- ds. Anyone is welcome to join the committee\, and all new members will be 
- trained on skills like writing a professional email\, communicating with a
- lumni and GT faculty members\, and event planning. As a member of this com
- mittee\, you will have the opportunity to:\n\n* Serve as a Dinner Jackets 
- student facilitator.\n* Communicate with alumni as dinner plans are made -
-  letting alumni know who is coming\, special needs\, and answer questions.
- \n* Communicate plans to student attendees - letting students know alumni 
- backgrounds\, directions\, organize transportation\, and answer questions.
- \n* Act as the student host at events - assist alumni onsite\, make introd
- uctions\, and keep conversation flowing.\n* Help plan and execute all logi
- stics associated with the events.\n* Find alumni at the top of their field
-  who would be popular for Expert Jackets or Dinner Jackets.\n\nPlease emai
- l the committee chairs at expertjackets@gtsaa.com [1] if you would like mo
- re information!\n\nLinks:\n[0]  http://hg.gatech.edu/node/639168#7\n[1]  e
- xpertjackets@gtsaa.com\n[2]  https://bluejeans.com/611690607?src=calendarL
- ink\n[3]  https://bluejeans.com/611690607?src=calendarLink\;
-LOCATION:Online
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fall Festival
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201105T210000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201106T000000Z
-UID:https://gatech.campuslabs.com/engage/event/6590592
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nAre you re
- ady for an evening of waffles\, wacky games\, and wonderful crafts? Join G
- C in celebrating the start of autumn at our socially-distanced Fall Festiv
- al Thursday\, November 5th!\n\nWe will have two areas where you can enjoy 
- our fall fun and food--the Waffle House Truck\, which will be serving stud
- ents in the Britain Rec Parking Lot\, and the quad beside the Connector\, 
- where we will offer games and crafts.\n\nTo help us all stay safe and well
- \, please come to the festival at your time allotted below:\n\nHowell Floo
- r 1:\n\nWaffle House: 4-4:30PM\n\nQuad: 4:30-5PM\n\nHowell Floor 2:\n\nWaf
- fle House: 5:00-5:30PM\n\nQuad: 5:30-6:00PM\n\nHowell Floor 3:\n\nWaffle H
- ouse: 6-6:30PM\n\nQuad: 6:30-7PM\n\nCloudman 1:\n\nWaffle House: 4:30-5PM\
- n\nQuad: 4-4:30PM\n\nCloudman 2:\n\nWaffle House: 5:30-6PM\n\nQuad: 5-5:30
- PM\n\nCloudman 3:\n\nWaffle House: 6:30-7PM\n\nQuad: 6-6:30PM\n\nEach floo
- r will be given different colored wristbands on Thursday morning. Students
-  must wear a mask and their wristband\, and report to a check-in station a
- t each area (where temperature and wristbands will be checked) to enter th
- e festival.\n\nIf you are unable to attend the festival at your allotted t
- ime for any reason\, please contact Ashton.bettis@studentlife.gatech.edu t
- o discuss alternate times.\n\nWe are so excited for you to join us for pum
- pkin painting\, King of Pops\, and so much more!\n\nLinks:\n[0]  https://g
- atech.campuslabs.com/engage/event/6590592
-LOCATION:Brittain Rec
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BPU Meeting 
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201106T001500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201106T023000Z
@@ -10844,6 +10679,20 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  campuslabs.com/engage/organization/westminsterchristianfellowship
 LOCATION:Westminister Christian Fellowship\, 724 Techwood Dr NW\, Atlanta\
  , 30313
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ultimate Veggie Tier Lists
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211110T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211110T010000Z
+UID:https://gatech.campuslabs.com/engage/event/7586567
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome vote for your favo
+ rite plant-based foods and see how they rank!\n\nTuesday\, November 9th fr
+ om 7 to 8 pm in Mason 2117 (free vegan cinnamon rolls provided by Cinnahol
+ ic Edgewood!)\n\nGuests who are experiencing symptoms of Covid-19 should n
+ ot attend. We strongly encourage that you wear a mask when not eating (esp
+ ecially if indoors). We will be providing hand sanitizer.\n\nLinks:\n[0]  
+ https://gatech.campuslabs.com/engage/event/7586567
+LOCATION:Mason 2117
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Traveling While Black
