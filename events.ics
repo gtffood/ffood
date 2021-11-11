@@ -2,38 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:The Ecommerce Waterfall: Insights on Supply Chains in a Post-COVID
-  World
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201109T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201109T180000Z
-UID:http://hg.gatech.edu/node/638394#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nLunch and Learn Speaker Series Fall 2020 Speake
- r:\nAlan Amling\nCEO\, Former VP of Corporate Strategy\, and\nFormer VP of
-  Marketing for UPS Global Logistics & Distribution\nThrive and Advance\, L
- LC\; UPS\;\nExecutive Advisory Board Member of GTMI\n\nAbstract:\n> Additi
- onal details posted closer to event\n\nBio:\n> Additional details posted c
- loser to event\n\nLinks:\n[0]  http://hg.gatech.edu/node/638394#0
-LOCATION:Virtual Event - Details forthcoming
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Outdoor Open Office Hours
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201110T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201110T170000Z
-UID:http://hg.gatech.edu/node/639683#11
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\, Freebies\nStatus: published\n\nThe Office of Und
- ergraduate Education welcomes all students to meet and chat with Georgia T
- ech faculty\, staff\, and administration in a safe\, socially-distanced en
- vironment.\n\nJoin us 11a-12p Tuesdays and Fridays (in October/November) a
- t the Tech Green for conversation and refreshment. Come for the snacks—s
- tay for the conversations!\n\n*In case of inclement weather\, meetings wil
- l take place in the Clough Lounge (Suite 205Q)\n\nLinks:\n[0]  http://hg.g
- atech.edu/node/639683#11\n[1]  http://instagram.com/gtoue\n[2]  http://oue
- .gatech.edu
-LOCATION:Tech Green
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FREE Yoga for Body\, Mind & Soul
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201112T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201112T013000Z
@@ -10532,6 +10500,47 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:How to Maximize Your Impact in a Career in Computer Science
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211109T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211110T000000Z
+UID:http://hg.gatech.edu/node/652588#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nWe'll have a ~25 minute presentation about the remar
+ kable opportunities we have to improve the lives of others through our car
+ eers\, followed by a lengthy Q&A session. There will be free samosas and s
+ nacks!\n\nOne possible approach to doing good is "earning to give". Someon
+ e in the US earning $65K/year—which is already more than the income of 9
+ 9% of people in the world—would be able to save dozens of lives over the
+  course of their career by donating to effective charities such as the Aga
+ inst Malaria Foundation. This is an incredible amount of impact! But anoth
+ er option which is likely even more impactful is applying our skills in CS
+  to directly work on pressing global problems\, and ultimately have a more
+  meaningful and fulfilling career.\n\nEffective altruism is a global movem
+ ent centered around how we can use evidence and reason to help us do the m
+ ost good we can\, given our limited time and resources. You can learn more
+  about Effective Altruism at GT on its website https://eagatech.org/ [1]\,
+  subscribe to its mailing list at http://eepurl.com/hHt6vr [2]\, and join 
+ its GroupMe at https://groupme.com/join_group/68220460/aC3JTAuO [3].\n\nGT
+  CS Careers Club is dedicated to forming a space where GT students interes
+ ted in careers in computer science can discuss their careers\, prepare for
+  interviews\, find open jobs\, have their resumes critiqued\, and receive 
+ mentorship and encouragement from other accomplished students who have bee
+ n in their shoes before. You can join its Discord at https://discord.gg/aF
+ 2S6AzrAP [4].\n\n- Add this event to Google Calendar: [5]\n- Add this even
+ t to Outlook Calendar: [6]\n\nOnline Location: [7]\n\nLinks:\n[0]  http://
+ hg.gatech.edu/node/652588#0\n[1]  https://www.google.com/url?q=https://eag
+ atech.org/&sa=D&source=calendar&usd=2&usg=AOvVaw0N3HhHbVQXF206U2hX186x\n[2
+ ]  https://www.google.com/url?q=http://eepurl.com/hHt6vr&sa=D&source=calen
+ dar&usd=2&usg=AOvVaw1O84ZkHxCzLgS4sP8MGArd\n[3]  https://www.google.com/ur
+ l?q=https://groupme.com/join_group/68220460/aC3JTAuO&sa=D&source=calendar&
+ usd=2&usg=AOvVaw0Lri9mNwUv2a4p5qCEgSPu\n[4]  https://www.google.com/url?q=
+ https://discord.gg/aF2S6AzrAP&sa=D&source=calendar&usd=2&usg=AOvVaw3azuM62
+ 0NFCFW7PXF2hGm5\n[5]  https://bit.ly/cscareerimpact_gcal\n[6]  https://bit
+ .ly/cscareerimpact_outlook\n[7]  https://bluejeans.com/653221460/0942\n[8]
+   https://eagatech.org/
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WCF Free Dinner
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211109T233000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211110T013000Z
@@ -10547,15 +10556,18 @@ BEGIN:VEVENT
 SUMMARY:Ultimate Veggie Tier Lists
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211110T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211110T010000Z
-UID:https://gatech.campuslabs.com/engage/event/7586567
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome vote for your favo
- rite plant-based foods and see how they rank!\n\nTuesday\, November 9th fr
- om 7 to 8 pm in Mason 2117 (free vegan cinnamon rolls provided by Cinnahol
- ic Edgewood!)\n\nGuests who are experiencing symptoms of Covid-19 should n
- ot attend. We strongly encourage that you wear a mask when not eating (esp
- ecially if indoors). We will be providing hand sanitizer.\n\nLinks:\n[0]  
- https://gatech.campuslabs.com/engage/event/7586567
-LOCATION:Mason 2117
+UID:http://hg.gatech.edu/node/652596#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nCome vote for your favorite plant
+ -based foods and see how they rank!\n\nTuesday\, November 9th from 7 to 8 
+ pm in Mason 2117 (free vegan cinnamon rolls provided by Cinnaholic Edgewoo
+ d!)\n\nGuests who are experiencing symptoms of Covid-19 should not attend.
+  We strongly encourage that you wear a mask when not eating (especially if
+  indoors). We will be providing hand sanitizer.\n\nLinks:\n[0]  http://hg.
+ gatech.edu/node/652596#0\n[1]  https://gatech.campuslabs.com/engage/event/
+ 7586567\n[2]  https://gatech.campuslabs.com/engage/organization/veggie-jac
+ kets
+LOCATION:Room 2117\, Mason Building
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Traveling While Black
@@ -10936,6 +10948,19 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFor the first time ever
 LOCATION:Stone Summit Kennesaw
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:IEW Kick-off Event
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211115T153000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211115T163000Z
+UID:http://hg.gatech.edu/node/652626#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\nStatus: published\n\nFind out more about Internat
+ ional Education Week by picking up your 'passport' to the week of event an
+ d taking your IEW Flag photo! Come take pictures with Buzz\, grab a donut\
+ , or win an IEW t-shirt. Join us in kicking-off IEW!\n\nLinks:\n[0]  http:
+ //hg.gatech.edu/node/652626#0
+LOCATION:Skiles Walkway
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WST Lrn C dinner on internships with Camille Liverpool & Shubhangi
   Gupta
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211115T223000Z
@@ -10960,6 +10985,23 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  ce research intern at Google.\n\nLinks:\n[0]  http://hg.gatech.edu/node/65
  1163#0\n[1]  https://bluejeans.com/684680443/0174
 LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4th GBM: What is GAPA and why you should be a PA
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211115T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211116T000000Z
+UID:http://hg.gatech.edu/node/652660#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nWe will be having our 4th meeting
+  of the semester in one week on November 15th\, 2021 at 6PM in the Swann R
+ oom 106. We will be meeting with the current and past presidents of the Ge
+ orgia Association of Physician Assistants ( GAPA [2] )\, Haley Queen and N
+ egin Bauer! They will be talking about their different experiences\, what 
+ GAPA is\, and why you should be a PA!\n\nLinks:\n[0]  http://hg.gatech.edu
+ /node/652660#0\n[1]  https://gatech.campuslabs.com/engage/event/7595158\n[
+ 2]  https://www.gapa.net/\n[3]  https://gatech.campuslabs.com/engage/organ
+ ization/physician-assistant-club
+LOCATION:Room 106\, Swann Building
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:General Meeting with Tensar
@@ -11044,6 +11086,22 @@ LOCATION:Westminister Christian Fellowship\, 724 Techwood Dr NW\, Atlanta\
  , 30313
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SCPC Presents: Take-A-Prof Fall 2021!
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211117T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211117T180000Z
+UID:http://hg.gatech.edu/node/652669#0
+DESCRIPTION:Status: published\n\nThe Student Center Programs Council invit
+ es you to the 2021 Fall Take-A-Prof!\n\nEnd the year of 2021 right by invi
+ ting a professor\, RA/PL\, TA\, or mentor out to a picnic inspired lunch!\
+ n\nTake-A-Prof will take place on Wednesday\, November 17th from 11:30 AM 
+ to 1 PM in the Klaus Atrium. Tickets are $4 per person ($8 for you and you
+ r guest) and can be purchased at [1]\n\nEmail us at homecoming@scpc.gatech
+ .edu [2] if you have any questions\, comments\, or concerns.\n\nLinks:\n[0
+ ]  http://hg.gatech.edu/node/652669#0\n[1]  http://bit.ly/campustickets\n[
+ 2]  homecoming@scpc.gatech.edu
+LOCATION:Klaus Atrium
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Grace Coffee House
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211118T180000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211118T230000Z
@@ -11067,6 +11125,18 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Grace House\, 182 5th Street NW\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tour of Asia!!
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211118T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211119T013000Z
+UID:https://gatech.campuslabs.com/engage/event/7598913
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nTour of As
+ ia is AASA’s biggest event of the year! Come get free shirts and food af
+ ter participating in activities hosted by over 15 cultural orgs! There wil
+ l be performances\, a photo booth\, music\, and good vibes overall:)\n\nLi
+ nks:\n[0]  https://gatech.campuslabs.com/engage/event/7598913
+LOCATION:Tech Green
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nitro-chillN (PLEASE CHECK THE DETAILS)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211119T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211119T020000Z
@@ -11085,15 +11155,56 @@ BEGIN:VEVENT
 SUMMARY:IEW Fest
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211119T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211119T180000Z
-UID:https://gatech.campuslabs.com/engage/event/7592902
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us in a mini UN Su
- stainable Development Goal passport fair\, where students will visit each 
- of the five tables\, get their passports stamped\, and learn about program
- s and resources at GT that are advancing the SDGs. Students who get all fi
- ve stamps will earn a tasty plate of food from Latin America\, Europe\, Af
- rica\, and Asia!\n\nContact:\n\nKelci Reyes-Brannon\n\nkelci@oie.gatech.ed
- u\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7592902
+UID:http://hg.gatech.edu/node/652622#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\nStatus: published\n\nJoin us in a mini UN Sustain
+ able Development Goal passport fair\, where students will visit each of th
+ e five tables\, get their passports stamped\, and learn about programs and
+  resources at GT that are advancing the SDGs. Students who get all five st
+ amps will earn a tasty plate of food from Latin America\, Europe\, Africa\
+ , and Asia!\n\nContact:\n\nKelci Reyes-Brannon\n\nkelci@oie.gatech.edu\n\n
+ Links:\n[0]  http://hg.gatech.edu/node/652622#0\n[1]  https://gatech.campu
+ slabs.com/engage/event/7592902
 LOCATION:Exhibition Hall: 2nd floor
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scheller Lunchtime Live: Applying a DIY Paradigm in Any Organizati
+ on Featuring Karthik Ramachandran
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211119T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211119T173000Z
+UID:http://hg.gatech.edu/node/652640#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nScheller Lunchtim
+ e Live is a livestream series hosted by the Georgia Tech Scheller College 
+ of Business featuring faculty\, student\, and alumni speakers discussing r
+ elevant topics for the tech-driven\, digital age.\n\nIn this latest episod
+ e of Scheller Lunchtime Live\, Associate Professor Karthik Ramachandran wi
+ ll discuss ways an organization can achieve a positive impact for its cust
+ omers in the face of financial or other constraints by providing unfinishe
+ d products or services that recipients can complete according to their own
+  tastes and abilities. In essence\, this means moving from an off-the-shel
+ f mode of delivery to a partial DIY paradigm.\n\nJust hit "Attend event" o
+ n the LinkedIn event and refresh the event page or the Georgia Tech Schell
+ er College of Business page on Friday\, November 19 at 12:00 p.m. ET to ac
+ cess the session. Please note\, you must have a LinkedIn profile in order 
+ to register and view the livestream.\n\nAbout Karthik Ramachandran\n\nKart
+ hik Ramachandran is an Associate Professor of Operations Management in Geo
+ rgia Institute of Technology’s Scheller College of Business. He obtained
+  his Ph.D. in Operations Management and M.S. in Operations Research from t
+ he University of Texas at Austin. He was also a Research Associate at the 
+ University of California\, San Diego. Previously\, he did his B.S. in Mech
+ anical Engineering at the Indian Institute of Technology\, Madras (Chennai
+ ). Before joining Georgia Tech\, he taught at Southern Methodist Universit
+ y in Dallas\, TX.\n\nHis areas of interest include New Product Development
+ \, Operations Strategy\, and Behavioral Operations. His research has appea
+ red in journals such as Management Science\, Manufacturing & Service Opera
+ tions Management\, Production & Operations Management and IIE Transactions
+ . At Georgia Tech\, he teaches graduate and undergraduate courses in New P
+ roduct Development\, Collaborative Innovation and Global Product Strategie
+ s.\n\nLinks:\n[0]  http://hg.gatech.edu/node/652640#0\n[1]  https://www.sc
+ heller.gatech.edu/news-events/events/event.html?event_id=f1e84a690a1504477
+ 33a7daf73480d43
+LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Data Science for Scientists: College of Sciences Data Science Semi
