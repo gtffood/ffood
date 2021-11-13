@@ -2,59 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:FREE Yoga for Body\, Mind & Soul
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201112T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201112T013000Z
-UID:https://gatech.campuslabs.com/engage/event/6582623
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nWe strive 
- to provide a healing family environment in these uncertain times. This eve
- nt will be socially distanced and PPE is required!\n\nWe at Bhakti Yoga Cl
- ub at GeorgiaTech want to improve the quality of living of students and fa
- culty by teaching them principles for a stress-free\, happy and meaningful
-  life. Our teacher has been practicing the principles of yoga for 40 years
-  and has a deep desire to share this knowledge to heal students. We offer 
- free online classes on various forms of yoga every day. We do simple yoga 
- practices and go deep into our consciousness with discussions from differe
- nt ancient Yoga texts. Don't miss this opportunity to learn Intentional Li
- ving\, Conscious Eating and Mindful Co-existence - this might be the point
-  where your life is changed for the better!\n\nZoom video link to join eve
- ry day. Recorded Videos on Facebook live page.\n\nFollow us on Facebook an
- d Instagram:\n\n[1]\n\nhttps://www.instagram.com/gtbhaktiyoga/ [2]\n\nLink
- s:\n[0]  https://gatech.campuslabs.com/engage/event/6582623\n[1]  https://
- www.facebook.com/BYCGT/\n[2]  https://l.facebook.com/l.php?u=https%3A%2F%2
- Fwww.instagram.com%2Fgtbhaktiyoga%2F%3Ffbclid%3DIwAR12tEkQBTPUw_gzAzvDJrqs
- eyCszcAHKwfYNOjCcGWKzNpBrxK_hX53j7Y&h=AT09WxecGIcpUyrCBsRa8SVVc8a1kEW_Kwmc
- hedAq6T_PyKCwrx9dDL7rGz3pycHvGBK48ML0WwJOYkBQXy0DUYghfK9H2RBxDZTKswS-9kgqg
- MpV5q0bloL7ObExJvOrQ
-LOCATION:Couch Park (Burger Bowl)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SAA Alumni Connections Committee Meeting
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201112T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201112T170000Z
-UID:http://hg.gatech.edu/node/639168#8
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nThis committee is made up of students who are Dinner
-  Jackets facilitators and Expert Jackets and IMPACT Meet & Greet event lea
- ds. Anyone is welcome to join the committee\, and all new members will be 
- trained on skills like writing a professional email\, communicating with a
- lumni and GT faculty members\, and event planning. As a member of this com
- mittee\, you will have the opportunity to:\n\n* Serve as a Dinner Jackets 
- student facilitator.\n* Communicate with alumni as dinner plans are made -
-  letting alumni know who is coming\, special needs\, and answer questions.
- \n* Communicate plans to student attendees - letting students know alumni 
- backgrounds\, directions\, organize transportation\, and answer questions.
- \n* Act as the student host at events - assist alumni onsite\, make introd
- uctions\, and keep conversation flowing.\n* Help plan and execute all logi
- stics associated with the events.\n* Find alumni at the top of their field
-  who would be popular for Expert Jackets or Dinner Jackets.\n\nPlease emai
- l the committee chairs at expertjackets@gtsaa.com [1] if you would like mo
- re information!\n\nLinks:\n[0]  http://hg.gatech.edu/node/639168#8\n[1]  e
- xpertjackets@gtsaa.com\n[2]  https://bluejeans.com/611690607?src=calendarL
- ink\n[3]  https://bluejeans.com/611690607?src=calendarLink\;
-LOCATION:Online
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BPU Meeting 
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201113T001500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201113T023000Z
@@ -11425,6 +11372,23 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  .campuslabs.com/engage/organization/westminsterchristianfellowship
 LOCATION:Westminister Christian Fellowship\, 724 Techwood Dr NW\, Atlanta\
  , 30313
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RSO Annual Registration Information Session
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211202T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211202T170000Z
+UID:https://gatech.campuslabs.com/engage/event/7604133
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nWhat is Annual Registra
+ tion (AR)? Want to learn more about the AR timeline? Not sure who should f
+ ill out the AR forms? Join the Student Orgs Team for an Annual Registratio
+ n information session! RSVP today and let us know what questions you have 
+ about the AR process.\n\nWhat you can expect:\n\n- Annual Registration tra
+ ining dates\n- Tips & Tricks for a seamless AR season\n- Engage tutorials\
+ n- FREE FOOD\n- & much more!\n\nWant to learn more about the AR process? C
+ lick here for our new and improved website! [1]\n\nLinks:\n[0]  https://ga
+ tech.campuslabs.com/engage/event/7604133\n[1]  https://student-organizatio
+ ns.gatech.edu/content/annual-registration-101-0
+LOCATION:Clough 127
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grace Coffee House
