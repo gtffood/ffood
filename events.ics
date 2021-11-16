@@ -2,17 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Sunday Morning Worship
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201115T153000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201115T163000Z
-UID:https://gatech.campuslabs.com/engage/event/6158620
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Sunday Morni
- ng to Worship together! Follow our social media or join our slack channel 
- for up-to-date information (online vs. in-person\, speakers\, etc.).\n\nLi
- nks:\n[0]  https://gatech.campuslabs.com/engage/event/6158620
-LOCATION:Tech Wesley
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Network Enabled Manufacturing and Supply Chain
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201116T170000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201116T180000Z
@@ -10982,6 +10971,26 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nHave you ever been curi
 LOCATION:West Commons Classroom
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A Day with Furry Friends
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211119T151500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211119T200000Z
+UID:http://hg.gatech.edu/node/652825#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nJoin MOVE on Nov. 19th for its volunteer event with 
+ Furkids Animal Rescue! Come meet some furry friends!!\n\nNOTE: We have a m
+ aximum of 15 volunteer spots so please sign up if you are sure you will be
+  able to attend:)\n\nWe will meet at 10:15am outside the Exhibition Hall a
+ nd depart campus for Furkids. Please bring a bag lunch. We will have a lun
+ ch break after our project\, and then will get to visit with the kittens!!
+ ! Also\, please bring a mask for going inside the shelter.\n\nWhen:\nNovem
+ ber 19th\, 11am-3pm\n\nWhere:\nFurkids Animal Rescue - Cat Shelter\n5235 U
+ nion Hill Rd\, Cumming\, GA 30040\n\nLinks:\n[0]  http://hg.gatech.edu/nod
+ e/652825#0\n[1]  https://gatech.campuslabs.com/engage/organization/mobiliz
+ ing-opportunities-for-volunteer-experiences
+LOCATION:Furkids Animal Rescue - Cat Shelter\, 5235 Union Hill Rd\, Cummin
+ g\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:IEW Fest
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211119T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211119T180000Z
@@ -11076,8 +11085,25 @@ DTSTART;TZID=UTC;VALUE=DATE-TIME:20211121T030000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211121T070000Z
 UID:http://hg.gatech.edu/node/652058#0
 DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\, Freebies\nStatus: published\n\nLinks:\n[0]  http://hg
- .gatech.edu/node/652058#0
+ nExtras: Free Stuff\, Free food\, Freebies\nStatus: published\n\nGet wild 
+ for your finals at The Final Stand! The Final Stand is an annual event hos
+ ted by the Freshman Student Government Association (FreShGA) at the end of
+  fall semester. The Final Stand is an opportunity for students to destress
+  before finals with free food\, t-shirts\, movies\, trivia\, a photo booth
+ \, team competitions (with awesome prizes for our winners!)\, and giveaway
+ s. Bring your buddies and join us in roundin' up the semester!\n\nTeam tou
+ rnament events include Volleyball\, Indoor Soccer\, Basketball\, Cornhole\
+ , Spikeball\, and Dodgeball. To register a team for the tournament\, pleas
+ e click here [2].\n\nTo view registered teams\, brackets\, and for trackin
+ g during the event\, please check this Google Spreadsheet [3].\n\nThe Fina
+ l Stand will take place on Saturday\, November 20th from 10pm - 2am at Geo
+ rgia Tech's Campus Recreation Center (CRC). We look forward to seeing you 
+ there!!\n\n*Please note that the CRC & FreShGA are not responsible for any
+  lost or stolen goods.\n\nLinks:\n[0]  http://hg.gatech.edu/node/652058#0\
+ n[1]  https://gatech.campuslabs.com/engage/event/7551522\n[2]  https://doc
+ s.google.com/forms/d/e/1FAIpQLScxnBwEU0Nn9oVPLijgdHPDG9i-cRw3gPBeHgzTPP3EF
+ Ygyjg/viewform?usp=sf_link\n[3]  https://docs.google.com/spreadsheets/d/1c
+ 2QeFbV0S34iQrglD098l_4n2DZuJ0tiMNLVH2pknFA/edit?usp=sharing
 LOCATION:Georgia Tech Campus Recreation Center\, 750 Ferst Dr\, Atlanta\, 
  GA
 END:VEVENT
