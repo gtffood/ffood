@@ -2,100 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Network Enabled Manufacturing and Supply Chain
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201116T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201116T180000Z
-UID:http://hg.gatech.edu/node/638395#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nLunch and Learn Speaker Series Fall 2020 Speake
- r:\nAl Salour\nTechnical Fellow\nBoeing\n\nAbstract:\n> Additional details
-  posted closer to event\n\nBio:\n> Additional details posted closer to eve
- nt\n\nLinks:\n[0]  http://hg.gatech.edu/node/638395#0
-LOCATION:Virtual Event - Details forthcoming
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WST Lrn C with Meg Sonstroem\, International Education
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201116T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201117T000000Z
-UID:http://hg.gatech.edu/node/640307#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nMeg Sonstroem (International Educ
- ation) will speak about study abroad and exchange opportunities with WST L
- earning Community residents and any other interested students. Blue Jeans 
- link: https://bluejeans.com/813148070\n\nWST Learning Community residents 
- can pick up meals in Stein at 5:30pm on Monday\, November 16.\nOIE's websi
- te: https://oie.gatech.edu/\nSearch countries and programs:\nhttps://atlas
- .gatech.edu/index.cfm?FuseAction=Programs.ListAll\n\nLinks:\n[0]  http://h
- g.gatech.edu/node/640307#0
-LOCATION:Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SCPC Presents: Friendsgiving Midnight Breakfast
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201117T010000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201117T050000Z
-UID:https://gatech.campuslabs.com/engage/event/6590264
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nMidnight B
- reakfast is back!\n\nFriendsgiving edition! Reserve your FREE ticket on Ca
- mpus Tickets for a time between 8 PM and 12 AM with the meal options liste
- d below. Then\, come to the Exhibition Hall at your time slot on November 
- 16th to pick up your to-go Midnight Breakfast meal. Stop by the IC Lawn to
-  say hello to some familiar faces\, participate in an arts and crafts acti
- vity\, and get a FREE t-shirt! T-shirts are on a first-come\, first-served
-  basis. Tickets will be reservable on Campus Tickets starting on November 
- 2nd and ending on November 13th.\n\nBelow are the ticket/meal options. Ple
- ase read carefully before reserving a ticket!\n\nGold Ticket: Pancake/waff
- le\, scrambled eggs\, bacon/pork sausage\, home-fried potatoes\, cinnamon 
- sugar donut\, vanilla yogurt and fresh fruit.\n\nGreen Ticket (Vegetarian\
- , Vegan & Kosher friendly): GF Waffle (Vans)\, tofu scramble\, home-fried 
- potatoes\, vegan donut\, vegan yogurt & fresh fruit.\n\nPurple Ticket: (Gl
- uten Free & Kosher friendly): GF Waffle (Vans)\, scrambled eggs\, home-fri
- ed potatoes\, turkey sausage\, GF muffin\, vanilla yogurt & fresh fruit.\n
- \n*Drinks and condiments will be provided*\n\n*If you have comments or con
- cerns in regards to a dietary restriction\, please email campustickets@stu
- cen.gatech.edu prior to reserving your ticket. We will do our best to ensu
- re you have everything you need to know!*\n\nNote: You will check in at th
- e purple SCPC tent! From there\, you will follow floor stickers that corre
- spond to the color of the ticket you reserved. Following this will help en
- sure that we are able to safely spread out lines to adhere to the safety p
- lan we have created for this event. If you have any questions upon arrival
- \, please find a volunteer in a purple SCPC shirt!\n\nSCPC will be taking 
- a number of precautions following the guidelines of both the CDC and Georg
- ia Tech Campus Services\, with the number one priority of all our events b
- eing the safety and well-being of our attendants. The following list docum
- ent lists the current steps we are taking to make events safer for student
- s. However\, this list may not be comprehensive\, and we will continue to 
- update this list with more information as we receive additional guidelines
- .\nhttps://docs.google.com/.../1KmnlBqYMctvEUp5IBajg.../edit... [1]\n\nWe 
- recommend that all attendees get their asymptomatic COVID-19 testing on ca
- mpus at least 72 hours prior to attending the event. For more details\, go
-  to: http://health.gatech.edu/coronavirus/testing [2]\n\nIf you have any q
- uestions regarding the ticket options\, or comments/concerns regarding acc
- essibility\, please reach out to ramblin@scpc.gatech.edu\n\nLinks:\n[0]  h
- ttps://gatech.campuslabs.com/engage/event/6590264\n[1]  https://docs.googl
- e.com/document/d/1KmnlBqYMctvEUp5IBajgtguVG2IOXWHxDh6iCRvQm2I/edit?usp=sha
- ring&fbclid=IwAR2SWT7nGjqKMIMRj6NfCZjWfoV0Xn2qJWY1Gr7liApxqVmtKIUsZB6lBeA\
- n[2]  http://health.gatech.edu/coronavirus/testing?fbclid=IwAR3xJrwN_PMDRB
- uyt_xKDA_T03LkjDhnG5knP00BVORa0rFBJH9WqnL5ONs
-LOCATION:Exhibition Hall
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Outdoor Open Office Hours
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201117T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201117T170000Z
-UID:http://hg.gatech.edu/node/639683#13
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\, Freebies\nStatus: published\n\nThe Office of Und
- ergraduate Education welcomes all students to meet and chat with Georgia T
- ech faculty\, staff\, and administration in a safe\, socially-distanced en
- vironment.\n\nJoin us 11a-12p Tuesdays and Fridays (in October/November) a
- t the Tech Green for conversation and refreshment. Come for the snacks—s
- tay for the conversations!\n\n*In case of inclement weather\, meetings wil
- l take place in the Clough Lounge (Suite 205Q)\n\nLinks:\n[0]  http://hg.g
- atech.edu/node/639683#13\n[1]  http://instagram.com/gtoue\n[2]  http://oue
- .gatech.edu
-LOCATION:Tech Green
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Faculty-Grad Student Mixer
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201118T170000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201118T180000Z
@@ -11065,6 +10971,25 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:311 Ferst Dr NW\, Atlanta\, GA 30332
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Naadham\, A Night of Carnatic Music
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211119T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211120T003000Z
+UID:http://hg.gatech.edu/node/652946#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nDon’t miss Aarohi GT’s first 
+ live concert in almost 2 years!\n\nAarohi GT is proud to present Naadham\,
+  A Night of Carnatic Music. Come by and enjoy a variety of Indian classica
+ l music performances (and some free refreshments)!\n\nThis event is fully 
+ organized and performed by Georgia Tech students\, and admission is FREE.\
+ n\nMake sure to be there at Scheller College of Business\, Room 100 on Fri
+ day\, November 19\, 5:30-7:30 PM\, and RSVP at tinyurl.com/naadhamrsvp!\n\
+ nPlease feel free to reach us at aarohigt@gmail.com [2].\n\nLinks:\n[0]  h
+ ttp://hg.gatech.edu/node/652946#0\n[1]  https://gatech.campuslabs.com/enga
+ ge/event/7615516\n[2]  aarohigt@gmail.com\n[3]  http://tinyurl.com/naadham
+ rsvp
+LOCATION:Room 100\, Scheller College of Business
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GC Friendsgiving Night!
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211120T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211121T010000Z
@@ -11106,6 +11031,26 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  2QeFbV0S34iQrglD098l_4n2DZuJ0tiMNLVH2pknFA/edit?usp=sharing
 LOCATION:Georgia Tech Campus Recreation Center\, 750 Ferst Dr\, Atlanta\, 
  GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:End-of-Semester Potluck
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211123T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211123T020000Z
+UID:http://hg.gatech.edu/node/652945#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nPlease bring a vegan dish to shar
+ e! Share what dish you're bringing [2]\n\nGuests who are experiencing symp
+ toms of Covid-19 should not attend. We strongly encourage that you wear a 
+ mask when not eating (especially if indoors). We will be providing hand sa
+ nitizer.\n\nPlease bring a vegan dish to share ( Veggie Jackets Potluck Si
+ gnup - Google Sheets [2] )\n\nGuests who are experiencing symptoms of Covi
+ d-19 should not attend. We strongly encourage that you wear a mask when no
+ t eating (especially if indoors). We will be providing hand sanitizer.\n\n
+ Links:\n[0]  http://hg.gatech.edu/node/652945#0\n[1]  https://gatech.campu
+ slabs.com/engage/event/7613296\n[2]  https://docs.google.com/spreadsheets/
+ d/1iqXWV2kxS1sdlXoOhC42hO_XSOxME_PuOqT6EiyYcag/edit#gid=0\n[3]  https://ga
+ tech.campuslabs.com/engage/organization/veggie-jackets
+LOCATION:Ella's House in Home Park\, 1033 Hemphill Ave NW\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Weekly EA Lunch
@@ -11283,6 +11228,23 @@ LOCATION:Westminister Christian Fellowship\, 724 Techwood Dr NW\, Atlanta\
  , 30313
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:HSOC Fall 2021 Undergraduate Research Symposium
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211201T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211201T220000Z
+UID:http://hg.gatech.edu/node/652919#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nJoin us on Wednesday\, December 1\, 2021\, for the Fall 2021 Undergradua
+ te Research Symposium!\n\nHistory\, Technology\, and Society majors in our
+  capstone seminars will present their research in Stephen C. Hall Building
+ \, Room 102 and lunch will be provided. The event will take place from 11:
+ 30 AM to 5:00 pm.\n\nPlease visit this website [1] to see the presentation
+  schedule and please RSVP so we can provide lunch for everyone who attends
+ .\n\nLinks:\n[0]  http://hg.gatech.edu/node/652919#0\n[1]  https://hsoc.ga
+ tech.edu/undergrad_symposium
+LOCATION:Stephen C. Hall Building\, Room 102
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:RSO Annual Registration Information Session
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211202T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211202T170000Z
@@ -11321,6 +11283,25 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  gracehouse\n[4]  sms:+14049994471&body=coffee\n[5]  http://hg.gatech.edu/n
  ode/+14049994471&body=coffee
 LOCATION:Grace House\, 182 5th Street NW\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Microphysiological Systems Seminar
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211203T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211203T170000Z
+UID:http://hg.gatech.edu/node/652870#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\n"Biophysical Char
+ acterization of 3D Cell Cultures"\n\nFrancisco Bacchi\, MsC [1]\nApplicati
+ on Specialist\nCell Dynamics\n\nWith introductions by Dilara Sever [2]\, O
+ perations Specialist\, Nexus Scientific.\n\nRegister HERE [3] for in-perso
+ n attendance. Individual boxed lunches to be provided to in-person guests\
+ , while supplies last.\n\nTo participate remotely\, click here [4].\n\nLin
+ ks:\n[0]  http://hg.gatech.edu/node/652870#0\n[1]  https://www.linkedin.co
+ m/in/francescobacchi90/?originalSubdomain=it\n[2]  https://www.linkedin.co
+ m/in/dilara-sever/\n[3]  http://forms.gle/bmcZazrQQZndQUGt6\n[4]  http://p
+ articipation link
+LOCATION:Engineered Biosystems Building (EBB)\, CHOA Seminar Room\, 950 At
+ lantic Drive NW\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Project ENGAGES Winter Celebration & Poster Session
@@ -11477,6 +11458,73 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  hg.gatech.edu/node/648430#0\n[1]  https://ien.gatech.edu/
 LOCATION:Georgia Institute of Technology | Marcus Nanotechnology Building 
  1116-1117 | 345 Ferst Drive Atlanta | GA 30332
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tapping Circle for Stress and Calm - 2nd Fridays 3:00-3:30pm (Spri
+ ng 2022)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220114T200000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220114T203000Z
+UID:http://hg.gatech.edu/node/652927#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nStatus: draft\n\nDates: Second Fridays of Each 
+ Month\nTime: 3:00pm - 3:30pm\nTheme: Come join theTapping Circle as we exp
+ lore some effective\, cutting edge yet ancient\, brain balancing methods t
+ o better manage our daily stress. Accredited Certified EFT Tapping Practit
+ ioner Andrea Lewis [01] from NY joins to guide us with some exercises that
+  engages and balances the body and mind.\nWhere: Sessions will be held onl
+ ine on Zoom for the Thursday sessions.\nRegistration: Please pre-register 
+ in advance. [02]\n\n- Center for Assessment\, Referral\, and Education (CA
+ RE) [03]\n- Tech Ends Suicide Together [04]\n- Counseling Center [05]\n- C
+ ollegiate Recovery Program [06]\n- Stamps Psychiatry [07]\n- Vice Presiden
+ t and Dean of Students Office and Student Referral Form [08]\n- AAPI Herit
+ age Month (Student Diversity Programs) [09]\n- " Lunch & Learn: Eastern Me
+ dicine and Acupuncture with Dr. Zhaoxue Lu [10] "\n\n- Georgia Tech CARE: 
+ [11]\n- Georgia Tech Counseling Center: [12]\n- Georgia Tech Police Depart
+ ment: [13]\n- Georgia Crisis and Access Line: [14]\n- National Suicide Pre
+ vention Lifeline: 1.800.273.TALK (8255)\n- National Hopeline Network: 1-80
+ 0.784.2433\n\n- Studies: " The effect of Emotional Freedom Techniques on n
+ urses' stress\, anxiety\, and burnout levels during the COVID-19 pandemic:
+  A randomized controlled trial [15] "\n- Studies: " Emotional Freedom Tech
+ niques for Anxiety - A Systematic Review With Meta-analysis [16] "\n- Stud
+ ies: " The polyvagal theory: New insights into adaptive reactions of the a
+ utonomic nervous system [17] "\n- Studies: " Clinical EFT Improves Physiol
+ ogical Markers of Health [18] " - Donna Bach\, ND\, et al.\n- Studies: " E
+ valuating a 3-Week Model for Reducing Symptoms of Stress in Traumatised Yo
+ uth Using the Trauma Tapping Technique (TTT) for Self-help: A Pilot Trial 
+ [19] " - Dr. Peta Stapleton\, Ulf Sandstrom\, & Gunilla Hamne\n- Research 
+ Collection: EFTTappingResearch.com [20]\n- Book: " The Science Behind Tapp
+ ing [21] " - Dr. Peta Stapleton\n- Book: " The Body Keeps the Score [22] "
+  - Dr. Bassel van der Kolk\n- Book: " Waking the Tiger [23] " - Dr. Peter 
+ Levine\n- Video: Dr. Stephen Porges - "What is the Polyvagal Theory [24] "
+ \n- Video: "Research Spotlight - What are Borrowed Benefits in EFT Tapping
+ " [25] - Dr. Peta Stapleton\n- Video: " Is Therapy Facing a Revolution? [2
+ 6] " by Dr. Peta Stapleton [27]\n- Video: Tapping @ Vulfpeck Concert with 
+ 14000 at Madison Square Garden\, Sept. 2019 [28]\n- Video: " Chaplain Fost
+ er - Interview on Tapping etc [29] "\n- Audio: "Tapping Q&A" podcasts\, in
+ terviews\, resources [30] by Gene Monterastelli\n- Weekly Tapping Circles 
+ for the GT Community [31]\n\nLinks:\n[00]  http://hg.gatech.edu/node/65292
+ 7#0\n[01]  https://www.solace4me.com/\n[02]  https://forms.gle/89M6JVFjQPi
+ 3BsdQ9\n[03]  https://care.gatech.edu/\n[04]  http://endsuicide.gatech.edu
+ /\n[05]  http://counseling.gatech.edu/\n[06]  https://counseling.gatech.ed
+ u/content/collegiate-recovery-program\n[07]  https://health.gatech.edu/ser
+ vices/psych\n[08]  https://referral.studentlife.gatech.edu/\n[09]  https:/
+ /diversityprograms.gatech.edu/aapi-heritage-month\n[10]  https://gatech.ca
+ mpuslabs.com/engage/event/7022783\n[11]  tel:404.894.3498\n[12]  tel:404.8
+ 94.2575\n[13]  tel:404.894.2500\n[14]  tel:1.800.715.4225\n[15]  https://w
+ ww.sciencedirect.com/science/article/pii/S1550830720303839\n[16]  https://
+ journals.lww.com/jonmd/Abstract/2016/05000/Emotional_Freedom_Techniques_fo
+ r_Anxiety__A.9.aspx\n[17]  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC31
+ 08032/\n[18]  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6381429/\n[19] 
+  http://www.lidsen.com/journals/icm/icm-03-04-036\n[20]  http://efttapping
+ research.com/\n[21]  https://petastapleton.com/the-science-behind-tapping/
+ \n[22]  http://www.besselvanderkolk.com/resources/the-body-keeps-the-score
+ \n[23]  https://www.goodreads.com/book/show/384924.Waking_the_Tiger\n[24] 
+  https://youtu.be/ec3AUMDjtKQ\n[25]  https://youtu.be/5sBtlVhvH_s\n[26]  h
+ ttps://www.youtube.com/watch?v=0Vu0Tibt1bQ\n[27]  https://petastapleton.co
+ m/about-peta/\n[28]  https://youtu.be/rv4wf7bzfFE?t=1208\n[29]  https://vi
+ meo.com/434759839\n[30]  https://tappingqanda.com/category/podcast/\n[31] 
+  http://tapping.ece.gatech.edu/tapping-circles
+LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Winter Organizations Fair 
