@@ -2,73 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Faculty-Grad Student Mixer
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201118T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201118T180000Z
-UID:http://hg.gatech.edu/node/640313#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \nStatus: published\n\nHSOC will host a meet-and-greet/mixer for faculty a
- nd graduate students on Wednesday\, November 18th at 12 PM. This event is 
- a digital substitute for the usual in-person lunch at orientation\, and is
-  a great opportunity to meet faculty you have not already met in class. A 
- Bluejeans link will be sent out closer to the date\, so mark your calendar
- s and keep an eye out.\n\nLinks:\n[0]  http://hg.gatech.edu/node/640313#0
-LOCATION:Virtual\, Link TBA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FREE Yoga for Body\, Mind & Soul
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201119T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201119T013000Z
-UID:https://gatech.campuslabs.com/engage/event/6582624
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nWe strive 
- to provide a healing family environment in these uncertain times. This eve
- nt will be socially distanced and PPE is required!\n\nWe at Bhakti Yoga Cl
- ub at GeorgiaTech want to improve the quality of living of students and fa
- culty by teaching them principles for a stress-free\, happy and meaningful
-  life. Our teacher has been practicing the principles of yoga for 40 years
-  and has a deep desire to share this knowledge to heal students. We offer 
- free online classes on various forms of yoga every day. We do simple yoga 
- practices and go deep into our consciousness with discussions from differe
- nt ancient Yoga texts. Don't miss this opportunity to learn Intentional Li
- ving\, Conscious Eating and Mindful Co-existence - this might be the point
-  where your life is changed for the better!\n\nZoom video link to join eve
- ry day. Recorded Videos on Facebook live page.\n\nFollow us on Facebook an
- d Instagram:\n\n[1]\n\nhttps://www.instagram.com/gtbhaktiyoga/ [2]\n\nLink
- s:\n[0]  https://gatech.campuslabs.com/engage/event/6582624\n[1]  https://
- www.facebook.com/BYCGT/\n[2]  https://l.facebook.com/l.php?u=https%3A%2F%2
- Fwww.instagram.com%2Fgtbhaktiyoga%2F%3Ffbclid%3DIwAR12tEkQBTPUw_gzAzvDJrqs
- eyCszcAHKwfYNOjCcGWKzNpBrxK_hX53j7Y&h=AT09WxecGIcpUyrCBsRa8SVVc8a1kEW_Kwmc
- hedAq6T_PyKCwrx9dDL7rGz3pycHvGBK48ML0WwJOYkBQXy0DUYghfK9H2RBxDZTKswS-9kgqg
- MpV5q0bloL7ObExJvOrQ
-LOCATION:Couch Park (Burger Bowl)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SAA Alumni Connections Committee Meeting
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201119T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201119T170000Z
-UID:http://hg.gatech.edu/node/639168#9
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nThis committee is made up of students who are Dinner
-  Jackets facilitators and Expert Jackets and IMPACT Meet & Greet event lea
- ds. Anyone is welcome to join the committee\, and all new members will be 
- trained on skills like writing a professional email\, communicating with a
- lumni and GT faculty members\, and event planning. As a member of this com
- mittee\, you will have the opportunity to:\n\n* Serve as a Dinner Jackets 
- student facilitator.\n* Communicate with alumni as dinner plans are made -
-  letting alumni know who is coming\, special needs\, and answer questions.
- \n* Communicate plans to student attendees - letting students know alumni 
- backgrounds\, directions\, organize transportation\, and answer questions.
- \n* Act as the student host at events - assist alumni onsite\, make introd
- uctions\, and keep conversation flowing.\n* Help plan and execute all logi
- stics associated with the events.\n* Find alumni at the top of their field
-  who would be popular for Expert Jackets or Dinner Jackets.\n\nPlease emai
- l the committee chairs at expertjackets@gtsaa.com [1] if you would like mo
- re information!\n\nLinks:\n[0]  http://hg.gatech.edu/node/639168#9\n[1]  e
- xpertjackets@gtsaa.com\n[2]  https://bluejeans.com/611690607?src=calendarL
- ink\n[3]  https://bluejeans.com/611690607?src=calendarLink\;
-LOCATION:Online
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BPU Meeting 
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201120T001500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201120T023000Z
@@ -10990,6 +10923,17 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Room 100\, Scheller College of Business
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Caterpillar's Promise Karaoke and Game Night
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211120T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211120T010000Z
+UID:https://gatech.campuslabs.com/engage/event/7622560
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome out from7-8 @ to t
+ he Exbition Hall (Rm: Little Five Points) to enjoy a night of fun and find
+  out more about CP.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/e
+ vent/7622560
+LOCATION:Exhibition Hall Rm: Little Five Points
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GC Friendsgiving Night!
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211120T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211121T010000Z
@@ -11304,6 +11248,26 @@ LOCATION:Engineered Biosystems Building (EBB)\, CHOA Seminar Room\, 950 At
  lantic Drive NW\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Multi-Cellular Engineered Living Systems (M-CELS) Symposium
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211203T190000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211203T220000Z
+UID:http://hg.gatech.edu/node/653015#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nExtras: Free food\nStatus: published\n\nThe M-C
+ ELS Symposium will highlight recent research in multi-cellular engineered 
+ living systems.\n\nSymposium Agenda\n\n- 2:00 – 2:30 p.m. Introduction t
+ o M-CELS and Past EBICS Activities\n- 2:30 – 3:30 p.m. Flash Talks (Six 
+ talks\, 10 minutes each)\n- 3:30 – 3:45 p.m. Break with Refreshments\n- 
+ 3:45 – 4:15 p.m. Discussion/brainstorming of Future M-CELS Activities (s
+ eed grant mechanism\, potential center/training grants\, seminar series)\n
+ - 4:15 – 5:00 p.m. Poster Session\, Networking\, Refreshments\n\nIf you 
+ cannot attend in-person\, please join us virtually on BlueJeans with this 
+ link. [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/653015#0\n[1]  https:/
+ /bluejeans.com/736849024/2620
+LOCATION:Petit Biotech Building\, Suddath Room 1128 - 315 Ferst Drive NW\,
+  Atlanta\, GA 30332
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Project ENGAGES Winter Celebration & Poster Session
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211206T223000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211207T000000Z
@@ -11445,6 +11409,21 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  ygnecco.com/\n[32]  http://solace4me.com\n[33]  https://us02web.zoom.us/j/
  87951279059?pwd=anFNeCtIMExZY0RxTlIyRE1jdkVxZz09
 LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:But First\, Coffee
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211213T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211213T190000Z
+UID:http://hg.gatech.edu/node/653009#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nNeed a break from
+  Finals Week? We've got you covered!\n\nStop by the Petit Biotech Building
+  atrium for a hot cup of coffee and other fun beverages and snacks to help
+  you un-wind\, de-stress\, and re-charge for finals!\n\nOpen to all in the
+  bio-community\, while supplies last.\n\nLinks:\n[0]  http://hg.gatech.edu
+ /node/653009#0
+LOCATION:Petit Biotech Building\, Atrium - 315 Ferst Drive NW\, Atlanta\, 
+ GA 30332
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nano@Tech Fall 2022 Series | Session 8
