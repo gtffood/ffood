@@ -2,108 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:BPU Meeting 
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201120T001500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201120T023000Z
-UID:https://gatech.campuslabs.com/engage/event/6155500
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is the weekly gath
- ering time for the College Ministry of Blueprint Church. During our gather
- ing\, we will sing\, listen to teaching from the Bible\, and spend time in
-  fellowship with one another.\n\nLinks:\n[0]  https://gatech.campuslabs.co
- m/engage/event/6155500
-LOCATION:Blueprint Church
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fall President's Graduation Celebration
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201120T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201120T210000Z
-UID:http://hg.gatech.edu/node/640394#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nExtras: Free food\, Freebies\nStatus: published\
- n\nGraduating students are invited to share in the excitement of Commencem
- ent at Georgia Tech’s President's Graduation Celebration. Held on Friday
- \, November 20\, from 10 a.m.– 4 p.m. on Tech Green and Clough Commons\,
-  graduating students have an opportunity to take photos with beloved Tech 
- mascots\, and share in unique traditions that make Georgia Tech such a che
- rished institution.\n\nAdmission is free to all graduating students. More 
- information can be found at https://commencement.gatech.edu/presidents-gra
- duation-celebration [1].\n\nLinks:\n[0]  http://hg.gatech.edu/node/640394#
- 0\n[1]  http://www.commencement.gatech.edu/presidents-graduation-celebrati
- on\n[2]  https://commencement.gatech.edu/presidents-graduation-celebration
-LOCATION:Tech Green and Clough Commons
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Outdoor Open Office Hours
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201120T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201120T170000Z
-UID:http://hg.gatech.edu/node/639683#14
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\, Freebies\nStatus: published\n\nThe Office of Und
- ergraduate Education welcomes all students to meet and chat with Georgia T
- ech faculty\, staff\, and administration in a safe\, socially-distanced en
- vironment.\n\nJoin us 11a-12p Tuesdays and Fridays (in October/November) a
- t the Tech Green for conversation and refreshment. Come for the snacks—s
- tay for the conversations!\n\n*In case of inclement weather\, meetings wil
- l take place in the Clough Lounge (Suite 205Q)\n\nLinks:\n[0]  http://hg.g
- atech.edu/node/639683#14\n[1]  http://instagram.com/gtoue\n[2]  http://oue
- .gatech.edu
-LOCATION:Tech Green
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Weekend With GradSGA
-DTSTART;VALUE=DATE:20201121
-DTEND;VALUE=DATE:20201122
-UID:http://hg.gatech.edu/node/641432#0
-DESCRIPTION:Intended audience: Graduate students\nStatus: published\n\nWit
- h finals week and Thanksgiving just around the corner\, we invite you to j
- oin GSGA for a weekend of exciting events held from Saturday\, Nov 21st to
-  Sunday\, Nov 22nd!\n\nLive Cooking: GSGA\, in collaboration with GTIA [1]
-  and Asha Atlanta [2]\, is bringing you the opportunity to join us for a l
- ive virtual cooking demonstration! Here’s how it works: one of our fello
- w graduate students will be teaching us how to prepare a dish from home li
- ve on Bluejeans. We’ll share the list of ingredients and where to find t
- hem beforehand so you can follow along too! Plus\, if you send us a pictur
- e of you cooking along with us\, you’ll be entered in a raffle for small
-  kitchen appliances like air fryer or coffee maker. Join your fellow Yello
- w Jackets on Nov 21st (Fish Taco) and Nov 22nd (Chicken Curry) from 11AM-1
- PM. To register\, visit [3]\n\nGame Night v2.0: Join us for a night of gam
- es and conversation with our second Virtual Game Night on Saturday\, Nov 2
- 1st from 8-10PM! For a list of games and how to register\, visit [4]. Alre
- ady a veteran gamer? Sign-up to volunteer as a game moderator - [5]. We wi
- ll have a special giveaway for our volunteers!\n\nLinks:\n[0]  http://hg.g
- atech.edu/node/641432#0\n[1]  https://gtia.gtorg.gatech.edu/\n[2]  http://
- atlanta.ashanet.org/\n[3]  https://bit.ly/gt-live-cooking\n[4]  https://bi
- t.ly/game-night-2-gt\n[5]  https://bit.ly/gt-game-night-2-volunteers
-LOCATION:Online
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Weekend With GradSGA
-DTSTART;VALUE=DATE:20201122
-DTEND;VALUE=DATE:20201123
-UID:http://hg.gatech.edu/node/641432#1
-DESCRIPTION:Intended audience: Graduate students\nStatus: published\n\nWit
- h finals week and Thanksgiving just around the corner\, we invite you to j
- oin GSGA for a weekend of exciting events held from Saturday\, Nov 21st to
-  Sunday\, Nov 22nd!\n\nLive Cooking: GSGA\, in collaboration with GTIA [1]
-  and Asha Atlanta [2]\, is bringing you the opportunity to join us for a l
- ive virtual cooking demonstration! Here’s how it works: one of our fello
- w graduate students will be teaching us how to prepare a dish from home li
- ve on Bluejeans. We’ll share the list of ingredients and where to find t
- hem beforehand so you can follow along too! Plus\, if you send us a pictur
- e of you cooking along with us\, you’ll be entered in a raffle for small
-  kitchen appliances like air fryer or coffee maker. Join your fellow Yello
- w Jackets on Nov 21st (Fish Taco) and Nov 22nd (Chicken Curry) from 11AM-1
- PM. To register\, visit [3]\n\nGame Night v2.0: Join us for a night of gam
- es and conversation with our second Virtual Game Night on Saturday\, Nov 2
- 1st from 8-10PM! For a list of games and how to register\, visit [4]. Alre
- ady a veteran gamer? Sign-up to volunteer as a game moderator - [5]. We wi
- ll have a special giveaway for our volunteers!\n\nLinks:\n[0]  http://hg.g
- atech.edu/node/641432#1\n[1]  https://gtia.gtorg.gatech.edu/\n[2]  http://
- atlanta.ashanet.org/\n[3]  https://bit.ly/gt-live-cooking\n[4]  https://bi
- t.ly/game-night-2-gt\n[5]  https://bit.ly/gt-game-night-2-volunteers
-LOCATION:Online
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Outdoor Open Office Hours
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201124T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201124T170000Z
@@ -11338,6 +11236,25 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  pme.com/join_group/68220460/aC3JTAuO\n[3]  https://eagatech.org/\n[4]  htt
  ps://gatech.campuslabs.com/engage/organization/effective-altruism
 LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:School of Biological Sciences Holiday Party
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211207T213000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211207T233000Z
+UID:http://hg.gatech.edu/node/653093#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \nStatus: published\n\nWe look forward to seeing you at this year’s Scho
+ ol of Biological Sciences Holiday Party for music\, food\, and the return 
+ of the White Elephant Gift Exchange! The School of Biological Sciences wil
+ l provide individually wrapped dinner plates and beverages. We invite you 
+ to bring a gift to exchange.\n\nWhite Elephant Gift Exchange\nEach person 
+ who would like to participate should bring a wrapped\, unmarked gift and p
+ lace it in the designated area. Gifts should be appropriate for the work p
+ lace and/or family friendly. The gift exchange will take place toward the 
+ end of the party.\n\nRSVP by Friday\, December 3 [1]\n\nLinks:\n[0]  http:
+ //hg.gatech.edu/node/653093#0\n[1]  https://gatech.us3.list-manage.com/tra
+ ck/click?u=164e6880b2f288b3bc3070db7&id=8b8f3ec856&e=1a6fee5e19
+LOCATION:Dalney 180
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tapping Circle for Stress and Calm - 2nd Fridays 3:30-
