@@ -2,33 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:FREE Yoga for Body\, Mind & Soul
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201126T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201126T013000Z
-UID:https://gatech.campuslabs.com/engage/event/6582626
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nWe strive 
- to provide a healing family environment in these uncertain times. This eve
- nt will be socially distanced and PPE is required!\n\nWe at Bhakti Yoga Cl
- ub at GeorgiaTech want to improve the quality of living of students and fa
- culty by teaching them principles for a stress-free\, happy and meaningful
-  life. Our teacher has been practicing the principles of yoga for 40 years
-  and has a deep desire to share this knowledge to heal students. We offer 
- free online classes on various forms of yoga every day. We do simple yoga 
- practices and go deep into our consciousness with discussions from differe
- nt ancient Yoga texts. Don't miss this opportunity to learn Intentional Li
- ving\, Conscious Eating and Mindful Co-existence - this might be the point
-  where your life is changed for the better!\n\nZoom video link to join eve
- ry day. Recorded Videos on Facebook live page.\n\nFollow us on Facebook an
- d Instagram:\n\n[1]\n\nhttps://www.instagram.com/gtbhaktiyoga/ [2]\n\nLink
- s:\n[0]  https://gatech.campuslabs.com/engage/event/6582626\n[1]  https://
- www.facebook.com/BYCGT/\n[2]  https://l.facebook.com/l.php?u=https%3A%2F%2
- Fwww.instagram.com%2Fgtbhaktiyoga%2F%3Ffbclid%3DIwAR12tEkQBTPUw_gzAzvDJrqs
- eyCszcAHKwfYNOjCcGWKzNpBrxK_hX53j7Y&h=AT09WxecGIcpUyrCBsRa8SVVc8a1kEW_Kwmc
- hedAq6T_PyKCwrx9dDL7rGz3pycHvGBK48ML0WwJOYkBQXy0DUYghfK9H2RBxDZTKswS-9kgqg
- MpV5q0bloL7ObExJvOrQ
-LOCATION:Couch Park (Burger Bowl)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Card Writing Session
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201209T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201209T180000Z
@@ -11149,6 +11122,23 @@ LOCATION:Petit Biotech Building\, Suddath Room 1128 - 315 Ferst Drive NW\,
   Atlanta\, GA 30332
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FSLO Movie Night + Clothing Drive
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211204T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211204T030000Z
+UID:http://hg.gatech.edu/node/653154#0
+DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\n
+ Status: published\n\nGive back at FSLO's Winter Movie Night! Join us for a
+  fun movie night to help you relax before exams and remember it’s the ho
+ lidays! Your "ticket" into the movie is either an article of clothing (new
+  or washed) or a $3 donation.\n\nPopcorn\, candy\, and water will be provi
+ ded. Bring extra articles of clothing for extra concessions!\n\nAll donati
+ ons will be given to Gateway Center [1] in Atlanta\, GA.\n\nRSVP is not re
+ quired\, but is encouraged!\n\nLinks:\n[0]  http://hg.gatech.edu/node/6531
+ 54#0\n[1]  https://www.gatewayctr.org/\n[2]  https://gatech.campuslabs.com
+ /engage/organization/freshman-servant-leadership-organization
+LOCATION:Room 111\, Instructional Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Project ENGAGES Winter Celebration & Poster Session
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211206T223000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211207T000000Z
@@ -11167,6 +11157,34 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  ech.edu/bio
 LOCATION:Petit Institute Biotech Building (IBB) - 315 Ferst Drive\, Atrium
  \, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Warriors Screening with Panel Discussion
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211206T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211207T010000Z
+UID:http://hg.gatech.edu/node/653152#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nStatus: published\n\nCome join Care About Clima
+ te's screening with Water Warriors\, followed by a panel discussion of lea
+ ding environmental activists in Atlanta!\n\nWe will discuss how you can ge
+ t involved in sustainability efforts in your local community. We believe t
+ hat large scale societal change begins at the local level. We are hosting 
+ a screening of Exposure Lab's short film "Water Warriors" followed by Q&A 
+ session with the following panelists:\n\nDr. Jairo Garcia - CEO at Urban C
+ limate Nexus - Professor of Climate Policies and Sustainable Cities\n\nChr
+ istina Cummings - Vice President of Operations at the Partnership for Sout
+ hern Equity\n\nDr. Michael Black - Neuroscience and Sustainability Senior 
+ Lecturer at Georgia State University\n\nLindsay Harper\, MBA\, MAE - Arm i
+ n Arm National Coordinator\n\nOur goal is to create a global community of 
+ climate activists\, which can start with you. Our panelists have significa
+ nt experience across multiple issues and can help guide you on your path. 
+ If you need any more motivation to attend\, dinner will be provided for al
+ l attendees!\n\nRegistration Link [1]\n\nCare About Climate [2]\n\nExposur
+ e Labs [3]\n\nLinks:\n[0]  http://hg.gatech.edu/node/653152#0\n[1]  https:
+ //www.eventbrite.com/e/water-warrior-screening-with-panel-discussion-ticke
+ ts-194505199287\n[2]  https://www.careaboutclimate.org/\n[3]  https://www.
+ exposurelabs.com/
+LOCATION:Room 152\, Kendeda Building
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Weekly EA Lunch
@@ -11238,6 +11256,19 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  //hg.gatech.edu/node/653093#0\n[1]  https://gatech.us3.list-manage.com/tra
  ck/click?u=164e6880b2f288b3bc3070db7&id=8b8f3ec856&e=1a6fee5e19
 LOCATION:Dalney 180
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:StressBuzzters at the Library
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211208T200000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211208T220000Z
+UID:http://hg.gatech.edu/node/653218#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nAs always\, we'll have snacks\, counseling and 
+ more in the Library during finals. This semester\, it'll take place betwee
+ n 3 and 5 p.m. on the Grove level between Sideways Cafe and INFODesk. Stop
+  by and take a break!\n\nLinks:\n[0]  http://hg.gatech.edu/node/653218#0
+LOCATION:Price Gilbert Library\, Grove Level (Between Sideways Cafe and IN
+ FODesk)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tapping Circle for Stress and Calm - 2nd Fridays 3:30-
@@ -11337,6 +11368,36 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  hg.gatech.edu/node/648430#0\n[1]  https://ien.gatech.edu/
 LOCATION:Georgia Institute of Technology | Marcus Nanotechnology Building 
  1116-1117 | 345 Ferst Drive Atlanta | GA 30332
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CIGars - Center for Integrative Genomics Advanced Research Seminar
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211215T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211215T180000Z
+UID:http://hg.gatech.edu/node/653170#0
+DESCRIPTION:Intended audience: Graduate students\, Postdoc\nExtras: Free f
+ ood\nStatus: published\n\nThe Center for Integrative Genomics (CIG) holds 
+ a monthly advanced research seminar (CIGars) with two presentations given 
+ by graduate students and post-docs. Each presentation is approximately 25 
+ minutes with five minutes for questions. These talks are directed to gradu
+ ate students and post-docs but are open to anyone who is interested in the
+  topics.\n\n“ Supervised Domain Adaptation Networks for Single-Cell RNA-
+ seq Data Integration "\n\nYutong Sun [1]\, Ph.D. Graduate Student\, Electr
+ ical and Computer Engineering Ph.D. Program – Peng Qiu\, Ph.D.\, Advisor
+  Georgia Tech\n\n“ Quantification of Characteristics of Single-cell Data
+  Distribution in a High-dimension Space for an Appropriate Algorithm Choic
+ e for scRNA-seq Analysis "\n\nHong Seo Lim [1]\, Ph.D. Graduate Student\, 
+ Biomedical Engineering Ph.D. Program Georgia Tech / Emory – Peng Qiu\, P
+ h.D.\, Advisor Georgia Tech\n\nThis is a great opportunity to:\n\n- Improv
+ e your presentation skills as a speaker\n- Communicate science\, research\
+ , and technology to an audience with diverse backgrounds\n- Practice givin
+ g your talk for an upcoming conference\, thesis defense\, or qualifying or
+ al exams\n- Enjoy free lunch and hear about a wide range of work happening
+  in the local bioscience community\n\nIf you cannot attend in person\, ple
+ ase join us virtually on BlueJeans with this link [2].\n\nLinks:\n[0]  htt
+ p://hg.gatech.edu/node/653170#0\n[1]  http://mlb.bme.gatech.edu/people/\n[
+ 2]  https://bluejeans.com/860590714/8243
+LOCATION:Engineered Biosystems Building (EBB)\, CHOA Seminar Room\, 950 At
+ lantic Drive NW\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WST Lrn C dinner with Dr. Mary Lynn Realff
