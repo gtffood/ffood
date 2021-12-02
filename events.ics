@@ -11043,6 +11043,15 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Stephen C. Hall Building\, Room 102
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:test
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211201T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211201T180000Z
+UID:https://gatech.campuslabs.com/engage/event/7637115
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\ntest\n\nLi
+ nks:\n[0]  https://gatech.campuslabs.com/engage/event/7637115
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:RSO Annual Registration Information Session
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211202T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211202T170000Z
@@ -11398,6 +11407,24 @@ DESCRIPTION:Intended audience: Graduate students\, Postdoc\nExtras: Free f
  2]  https://bluejeans.com/860590714/8243
 LOCATION:Engineered Biosystems Building (EBB)\, CHOA Seminar Room\, 950 At
  lantic Drive NW\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fall 2021 President's Graduation Celebration
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211216T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211216T190000Z
+UID:http://hg.gatech.edu/node/650638#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
+ , Undergraduate students\nExtras: Free food\, Freebies\nStatus: published\
+ n\nGraduating students are invited to share in the excitement of Commencem
+ ent at Georgia Tech’s President's Graduation Celebration. Held on Thursd
+ ay\, Dec. 16\, from 11 a.m.– 2 p.m. on Tech Green\, graduating students 
+ have an opportunity to take photos with beloved Tech mascots\, and share i
+ n unique traditions that make Georgia Tech such a cherished institution. M
+ cCamish Pavilion will serve as the location in the case of inclement weath
+ er.\n\nMore information can be found at [1].\n\nLinks:\n[0]  http://hg.gat
+ ech.edu/node/650638#0\n[1]  https://commencement.gatech.edu/presidents-gra
+ duation-celebration
+LOCATION:Tech Green
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WST Lrn C dinner with Dr. Mary Lynn Realff
