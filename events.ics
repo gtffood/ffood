@@ -11092,6 +11092,20 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Grace House\, 182 5th Street NW\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:First-Year Activities Board Presents Tie Time
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211202T183000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211202T203000Z
+UID:https://gatech.campuslabs.com/engage/event/7638533
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nCome by Ti
+ e Time to experience all things "Tie". From neckties\, to Thai tea\, to ti
+ e-dye\, we have it all! We will be tabling all these goodies\, and assisti
+ ng with our tie-dye station\, and handing out donuts at Tech Green on Thur
+ sday\, December 2nd. This event is completely free and provided by First-Y
+ ear Activities Board!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage
+ /event/7638533
+LOCATION:Tech Green
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Microphysiological Systems Seminar
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211203T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211203T170000Z
@@ -11278,6 +11292,19 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
   by and take a break!\n\nLinks:\n[0]  http://hg.gatech.edu/node/653218#0
 LOCATION:Price Gilbert Library\, Grove Level (Between Sideways Cafe and IN
  FODesk)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FAB Presents Rock N' Cinnamon Roll
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211208T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211209T010000Z
+UID:https://gatech.campuslabs.com/engage/event/7638510
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDo you like cinnamon ro
+ lls? Do you like music? Of course\, you do! Come by the Exhibition Hall on
+  Wednesday\, December 8th to relax before finals and grab a sweet treat. S
+ tick around and enjoy the music as well! This event is completely free to 
+ students and entirely provided by First-Year Activities Bord!\n\nLinks:\n[
+ 0]  https://gatech.campuslabs.com/engage/event/7638510
+LOCATION:Exhibition Hall: 2nd Floor
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tapping Circle for Stress and Calm - 2nd Fridays 3:30-
