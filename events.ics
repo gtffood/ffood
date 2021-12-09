@@ -11281,6 +11281,24 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Dalney 180
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Studypalooza!!
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211208T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211208T220000Z
+UID:http://hg.gatech.edu/node/653471#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Undergraduate students\nExt
+ ras: Free food\, Freebies\nStatus: published\n\nStudypalooza ( formerly Re
+ ading Day Study Sessions ) is designed to foster a collaborative learning 
+ environment where students work together to tackle posted problem sets as 
+ they prepare for final exams. Teaching assistants\, PLUS leaders\, tutors\
+ , and instructors are available throughout the day to help students get 
+ ‘un-stuck’ as they work their way through the study guides.\n\nPlease 
+ direct questions that are not related to the posted problem sets to your T
+ A\, Instructor\, or peers (piazza\, groupme\, etc.)\n\nLinks:\n[0]  http:/
+ /hg.gatech.edu/node/653471#0\n[1]  https://tutoring.gatech.edu/reading-day
+ /
+LOCATION:Clough 144 & 152
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:StressBuzzters at the Library
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211208T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211208T220000Z
@@ -11297,14 +11315,17 @@ BEGIN:VEVENT
 SUMMARY:FAB Presents Rock N' Cinnamon Roll
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211208T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211209T010000Z
-UID:https://gatech.campuslabs.com/engage/event/7638510
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDo you like cinnamon ro
- lls? Do you like music? Of course\, you do! Come by the Exhibition Hall on
-  Wednesday\, December 8th to relax before finals and grab a sweet treat. S
- tick around and enjoy the music as well! This event is completely free to 
- students and entirely provided by First-Year Activities Bord!\n\nLinks:\n[
- 0]  https://gatech.campuslabs.com/engage/event/7638510
-LOCATION:Exhibition Hall: 2nd Floor
+UID:http://hg.gatech.edu/node/653463#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nDo you like cinnamon rolls? Do yo
+ u like music? Of course\, you do! Come by the Exhibition Hall on Wednesday
+ \, December 8th to relax before finals and grab a sweet treat. Stick aroun
+ d and enjoy the music as well! This event is completely free to students a
+ nd entirely provided by First-Year Activities Bord!\n\nLinks:\n[0]  http:/
+ /hg.gatech.edu/node/653463#0\n[1]  https://gatech.campuslabs.com/engage/ev
+ ent/7638510\n[2]  https://gatech.campuslabs.com/engage/organization/freshm
+ an-activities-board
+LOCATION:Second Floor\, Exhibition Hall
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tapping Circle for Stress and Calm - 2nd Fridays 3:30-
@@ -11500,6 +11521,25 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TA Orientation
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220112T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220112T230000Z
+UID:http://hg.gatech.edu/node/653508#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nIn addition to completing a set o
+ f asynchronous training modules\, new TAs are invited to further enhance t
+ heir preparation for their TA position by attending the TA Orientation Pan
+ el Discussion. At this panel discussion featuring experienced TAs\, new TA
+ s will learn helpful information\, techniques\, and advice on managing TA 
+ duties.\n\nTA Orientation Panel Discussion\nWednesday\, January 12\, 5:00 
+ p.m. - 6:00 p.m.\nCrosland Tower Room 4160 or via BlueJeans\nA boxed meal 
+ will be provided for in-person attendees\, which is limited to 30 people. 
+ Remote synchronous attendance is unlimited.\n\nLearn more and register! [1
+ ]\n\nLinks:\n[0]  http://hg.gatech.edu/node/653508#0\n[1]  https://ctl.gat
+ ech.edu/teaching-assistant-orientation
+LOCATION:Crosland Tower Room 4160 or via BlueJeans
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tapping Circle for Stress and Calm - 2nd Fridays 3:00-3:30pm (Spri
  ng 2022)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220114T200000Z
@@ -11565,6 +11605,59 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  meo.com/434759839\n[30]  https://tappingqanda.com/category/podcast/\n[31] 
   http://tapping.ece.gatech.edu/tapping-circles
 LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MLK Day of Service 2022
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220117T123000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220117T180000Z
+UID:https://gatech.campuslabs.com/engage/event/7647485
+DESCRIPTION:Extras: Credit\, Free Food\, Free Stuff\nStatus: approved\n\nJ
+ oin us for the 12th MLK Day of Service! MLK Day of Service is an immersive
+ \, community service program that connects GT community members to hands-o
+ n service projects and social issue education in the Atlanta area. Each ye
+ ar\, on the observed Dr. Martin Luther King Jr.\, we offer the chance to m
+ ake it a “day on\, not a day off” partnering with Atlanta community or
+ ganizations to connect\, serve\, and move us closer to Dr. King’s vision
+  of a ‘Beloved Community’. Participation is open to Georgia Tech facul
+ ty\, staff\, and students!\n\nMLK Day of Service Schedule - Monday\, Janua
+ ry 17\, 2022:\n7:30-8:15am - Check-in and Breakfast (Exhibition Hall)\n8:1
+ 5-8:30am - MLK Day of Service Welcome Exhibition Hall)\n8:30-9:00am - Serv
+ ice Project Travel (Provided for Off-Campus Service Sites)\n9:00am - 12:00
+ pm - Service Project Block!\n12:00-12:30pm - Return to Campus\n\nRegistrat
+ ion:\nComplete the registration process here: [1]\nRegistration closes Wed
+ nesday\, January 12\, 2022 at noon (12pm). Submissions received after this
+  date cannot be accommodated.\n\nThis year we will offer individual and gr
+ oup sign-up processes. Groups should identify a team lead who will complet
+ e the registration process. Group leads will be responsible for:\n\n- rece
+ iving communication from the MLK Day of Service planning team\n- sharing i
+ nformation as necessary to the group members\n- compiling and submitting t
+ he final group roster\n- ensuring volunteers are present the day of the ev
+ ent\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7647485\n[1
+ ]  https://gatech.campuslabs.com/engage/submitter/form/start/517292
+LOCATION:Exhibition Hall 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MLK "Sunday" Supper: A Community Meal and Conversation 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220117T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220118T003000Z
+UID:https://gatech.campuslabs.com/engage/event/7647513
+DESCRIPTION:Extras: Credit\, Free Food\nStatus: approved\n\nAs we honor Dr
+ . King's life and legacy\, it is important to take time to celebrate and r
+ eflect together as a community\, we invite you to the 9th annual Georgia T
+ ech "Sunday Supper". This event gives our GT community the opportunity to 
+ share a meal together and engage in meaningful dialogue about the 2022 MLK
+  Celebration events and this year's theme\, "It Starts with Me: Shifting P
+ riorities to Create the Beloved Community".\n\nThe 2022 "Sunday Supper" ev
+ ent will take place in-person and will include a speaker session\, free di
+ nner\, and active discussion. Come ready to connect and discuss!\n\nEvent 
+ Details\nDate: Monday\, January 17\, 2022\nTime: Starting at 5:30pm\nLocat
+ ion: Exhibition Hall\, Midtown Rooms (First Floor)\n\nThis event is open t
+ o GT faculty\, staff\, and students!\n\nRegistration\nRegistration for "Su
+ nday Supper" is required as space is limited. Secure your seat by completi
+ ng this form: [1]\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/eve
+ nt/7647513\n[1]  https://gatech.campuslabs.com/engage/submitter/form/start
+ /517619
+LOCATION:Exhibition Hall 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Winter Organizations Fair 
