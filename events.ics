@@ -2,113 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Card Writing Session
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201209T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201209T180000Z
-UID:https://gatech.campuslabs.com/engage/event/6627814
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nIf you'll still be on c
- ampus on Wednesday\, Dec. 9 between 11am-1pm\, please join the Honors Prog
- ram in writing thank you cards for healthcare workers in Atlanta and/or gr
- eeting cards to residents in long term care facilities. This event will be
-  outdoors and socially distanced\, and the Honors Program will provide sup
- plies AND LUNCH. We need to know how many of you can attend\, so please RS
- VP. We will be on West Campus\, and will update you on the exact location 
- once we know how many people are attending. Please wear your masks.\n\nLik
- e many of you\, healthcare workers and residents in long term care facilit
- ies could be unable to spend time with their families this winter\, and a 
- card from you could brighten their day.\n\nMore info here: https://lovefor
- ourelders.org/letters & https://www.handsonatlanta.org/blog/thank-a-metro-
- atlanta-health-care-provider\n\nLinks:\n[0]  https://gatech.campuslabs.com
- /engage/event/6627814
-LOCATION:Armstrong Residence Hall
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BioE PhD Defense Presentation- Jeffrey Gau
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201209T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201209T190000Z
-UID:http://hg.gatech.edu/node/641691#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nAdvisor:\n\nDr. Simon Sponberg (Georgia Institu
- te of Technology)\n\nCommittee:\n\nDr. Saad Bhamla (Georgia Institute of T
- echnology)\n\nDr. Nick Gravish (University of California\, San Diego)\n\nD
- r. David Hu (Georgia Institute of Technology)\n\nDr. Kurt Wiesenfeld (Geor
- gia Institute of Technology)\n\nBeyond resonance: synchronous and stretch-
- activated actuation in insect flight\n\nThe generation of high power\, rhy
- thmic movement is a common feature of biological and robotic locomotion. I
- nsects stand out among these systems because wingbeat frequencies are ofte
- n an order of magnitude greater (up to 1000 Hz) and face the extreme energ
- etic costs of flapping wing flight. Given the oscillatory nature of insect
-  flight\, insects are believed to be resonant. In this framework\, elastic
-  structures significantly reduce inertial power costs by storing and retur
- ning excess kinetic energy during a wing stroke. However\, evidence sugges
- ts that a resonance model of flight is incomplete. Unlike the time-periodi
- c (e.g. sinusoidal) forcing of resonant systems\, many insects have evolve
- d strain-dependent muscles. Pairs of these muscles excite each other indep
- endently from neural input.\n\nThis thesis explores how strain-dependent a
- ctuators coupled to deformable systems generate high power\, rhythmic move
- ments. In Chapter 1\, we identified how spring-like properties emerge from
-  heterogeneous exoskeletal shell. Notably\, the exoskeleton alone satisfie
- s the energy exchange demands of flight. In Chapter 2\, we perturbed hawkm
- oths and discovered the capacity for +/- 16% frequency modulation at the w
- ingstroke timescale. Unlike their robotic counterparts that explicitly abd
- icate frequency modulation in favor of energy efficiency\, frequency modul
- ation is an underappreciated control strategy in insect flight. In Chapter
-  3\, we developed a mechanical model of hawkmoth mechanics and found that 
- wingbeat frequencies are 50% above resonance. These results suggest that r
- esonance tuning is neither a ubiquitous nor necessary feature of insect fl
- ight. Finally\, in Chapter 4\, we introduced both time periodic and stretc
- h activated forcing to the passive mechanical system. We discovered that a
-  small set of parameters drive transitions between synchronous and self-ex
- cited wingbeats. This single dynamical system explains evolutionary transi
- tions in insects and generalizes to robotic systems.\n\nLinks:\n[0]  http:
- //hg.gatech.edu/node/641691#0
-LOCATION:https://bluejeans.com/589089628
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PhD Defense by Jeff Gau
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201209T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201209T190000Z
-UID:http://hg.gatech.edu/node/641793#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nStatus: published\n\nJeff Gau\n\nBioE PhD Defens
- e Presentation\n\n12:00 pm EST on Wednesday\, December 9\, 2020\n\n[1]\n\n
- Advisor:\n\nDr. Simon Sponberg (Georgia Institute of Technology)\n\nCommit
- tee:\n\nDr. Saad Bhamla (Georgia Institute of Technology)\n\nDr. Nick Grav
- ish (University of California\, San Diego)\n\nDr. David Hu (Georgia Instit
- ute of Technology)\n\nDr. Kurt Wiesenfeld (Georgia Institute of Technology
- )\n\nBeyond resonance: synchronous and stretch-activated actuation in inse
- ct flight\n\nThe generation of high power\, rhythmic movement is a common 
- feature of biological and robotic locomotion. Insects stand out among thes
- e systems because wingbeat frequencies are often an order of magnitude gre
- ater (up to 1000 Hz) and face the extreme energetic costs of flapping wing
-  flight. Given the oscillatory nature of insect flight\, insects are belie
- ved to be resonant. In this framework\, elastic structures significantly r
- educe inertial power costs by storing and returning excess kinetic energy 
- during a wing stroke. However\, evidence suggests that a resonance model o
- f flight is incomplete. Unlike the time-periodic (e.g. sinusoidal) forcing
-  of resonant systems\, many insects have evolved strain-dependent muscles.
-  Pairs of these muscles excite each other independently from neural input.
- \n\nThis thesis explores how strain-dependent actuators coupled to deforma
- ble systems generate high power\, rhythmic movements. In Chapter 1\, we id
- entified how spring-like properties emerge from heterogeneous exoskeletal 
- shell. Notably\, the exoskeleton alone satisfies the energy exchange deman
- ds of flight. In Chapter 2\, we perturbed hawkmoths and discovered the cap
- acity for +/- 16% frequency modulation at the wingstroke timescale. Unlike
-  their robotic counterparts that explicitly abdicate frequency modulation 
- in favor of energy efficiency\, frequency modulation is an underappreciate
- d control strategy in insect flight. In Chapter 3\, we developed a mechani
- cal model of hawkmoth mechanics and found that wingbeat frequencies are 50
- % above resonance. These results suggest that resonance tuning is neither 
- a ubiquitous nor necessary feature of insect flight. Finally\, in Chapter 
- 4\, we introduced both time periodic and stretch activated forcing to the 
- passive mechanical system. We discovered that a small set of parameters dr
- ive transitions between synchronous and self-excited wingbeats. This singl
- e dynamical system explains evolutionary transitions in insects and genera
- lizes to robotic systems.\n\nLinks:\n[0]  http://hg.gatech.edu/node/641793
- #0\n[1]  https://bluejeans.com/589089628
-LOCATION:Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:How to Build Resilient (Virtual) Teams: A Live Stream Featuring Da
  vid Slus
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201211T170000Z
@@ -11414,6 +11307,38 @@ LOCATION:Petit Biotech Building\, Atrium - 315 Ferst Drive NW\, Atlanta\,
  GA 30332
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SCPC Presents: Midnight Breakfast
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211214T010000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211214T050000Z
+UID:https://gatech.campuslabs.com/engage/event/7650828
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nFinals got
+  you hungry? Join SCPC for Midnight Breakfast sponsored by InvescoQQQ on D
+ ecember 8th at the Exhibition Hall from 8pm-midnight! Students will be abl
+ e to choose from vegan/gluten free\, vegetarian\, and non-restricted dinin
+ g option.\n\nTimed tickets for Midnight Breakfast are FREE at bit.ly/campu
+ stickets [1] starting Thursday\, December 9 at 5PM EST.\n\nSCPC strongly e
+ ncourages students to wear masks at our events to ensure the protection of
+  the GT community to use. We recommend that all attendees get their asympt
+ omatic COVID-19 testing on campus at least 72 hours prior to attending the
+  event. For more details\, go to: http://health.gatech.edu/coronavirus/tes
+ ting [2]\n\nFor any questions\, please email ramblin@scpc.gatech.edu.\n\nL
+ inks:\n[0]  https://gatech.campuslabs.com/engage/event/7650828\n[1]  https
+ ://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2Fcampustickets%3Ffbclid%3D
+ IwAR2G9PF2omBUZSE_nBPUonMAqYsHVKi7jIoty9BzPiLIjXyUzx-jrNUUzj0&h=AT0jZOAHcf
+ uCd9PERB6057eitJ8pjLlUkggiiack4YDqH3d-UhWpXKUf9KR1-ljnkMObDUPkq7czWCMx5oB3
+ vx1xevoHSnQCqcmTbRVL7OzXSOI6VIDkhJw35_RdqbRxgyaF8CvnBoOoMw-tm5HFrK4ZCg&__t
+ n__=q&c[0]=AT1TUzyC-BuY33_Hn0hHc0JtrIYtvQXWuTe5q9ZID4QhkY0EUcpGJeXEYi1XMQf
+ NU40-uT18wC-_e-LcB8AiIgSCytNg1A2UXvlWmaOvcinFWfcuoUJGcNXNHwP6bQAauoMLAlsgO
+ vbeL4JYFvZdkTOJ\n[2]  https://l.facebook.com/l.php?u=http%3A%2F%2Fhealth.g
+ atech.edu%2Fcoronavirus%2Ftesting%3Ffbclid%3DIwAR0xrbsjcemtWCOAAeVQKV7D0dv
+ XIv35jlsY83oEf5JkAPDK_d52FB4pf7c&h=AT0et44kzGrHr2pqUKxVlfXtWLQydvKfVCkAACw
+ IrvS6lff-4eZn0O5sgIKCva7OcZBBPK_Dt4Ibsw1meMlcX_nScKU0TPRD8ZZ1Tmp-d03Y7epCP
+ 2EHfE1vIwEyYaK5eOI0zoGCXvdKSQCwlLAJcDyudg&__tn__=q&c[0]=AT1TUzyC-BuY33_Hn0
+ hHc0JtrIYtvQXWuTe5q9ZID4QhkY0EUcpGJeXEYi1XMQfNU40-uT18wC-_e-LcB8AiIgSCytNg
+ 1A2UXvlWmaOvcinFWfcuoUJGcNXNHwP6bQAauoMLAlsgOvbeL4JYFvZdkTOJ
+LOCATION:Georgia Tech Exhibition Hall
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nano@Tech Fall 2022 Series | Session 8
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20211214T170000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20211214T180000Z
@@ -11473,6 +11398,38 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
  ech.edu/node/650638#0\n[1]  https://commencement.gatech.edu/presidents-gra
  duation-celebration
 LOCATION:Tech Green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Research Event Testing Feeds
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20211227T132200Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20211227T212200Z
+UID:http://hg.gatech.edu/node/653602#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\, Freebies\nStatus: published\n\nBlah Blah informa
+ tion goes here\,\n\nLorem ipsum dolor sit amet\, consectetur adipiscing el
+ it. Nunc faucibus\, odio at imperdiet posuere\, purus diam posuere nunc\, 
+ non mattis arcu augue eu nibh. Sed accumsan eros id quam feugiat volutpat.
+  Curabitur sit amet suscipit lacus. Donec sed hendrerit neque\, non fringi
+ lla lorem. Aliquam et nulla nec urna lobortis vulputate. Fusce hendrerit s
+ apien id sapien convallis\, vitae lacinia dui vulputate. Aliquam laoreet\,
+  turpis a lobortis laoreet\, ligula eros tincidunt orci\, non scelerisque 
+ lacus dolor et purus. Vestibulum augue erat\, tempus eget venenatis nec\, 
+ blandit venenatis nulla. Morbi porta ligula ac pulvinar efficitur. Fusce c
+ ongue gravida erat. Praesent aliquam tincidunt faucibus.\n\nSuspendisse bi
+ bendum nisl leo. Integer ligula diam\, placerat et nulla porta\, bibendum 
+ suscipit erat. Etiam eu faucibus nunc\, in malesuada odio. Nunc scelerisqu
+ e venenatis nisi\, eget venenatis lorem finibus ut. Ut finibus nibh sit am
+ et nisl mattis\, nec consequat turpis mattis. Fusce dapibus purus leo\, se
+ d tristique sapien ultrices ut. Donec elit quam\, maximus sit amet ornare 
+ at\, commodo eu velit. Nam dignissim felis lectus\, mollis eleifend lectus
+  venenatis quis. Proin id feugiat enim.\n\nNullam mattis enim eu vestibulu
+ m venenatis. Praesent quis semper felis. Vivamus pellentesque lectus felis
+ \, a viverra ipsum pharetra et. Lorem ipsum dolor sit amet\, consectetur a
+ dipiscing elit. Cras eu risus vel metus semper dignissim quis non nunc. Nu
+ llam vehicula ipsum sed dui dictum maximus. Mauris et hendrerit urna.\n\nL
+ inks:\n[0]  http://hg.gatech.edu/node/653602#0\n[1]  http://cnn.com\n[2]  
+ http://foxnews.com\n[3]  http://google.com
+LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WST Lrn C dinner with Dr. Mary Lynn Realff
