@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:How to Build Resilient (Virtual) Teams: A Live Stream Featuring Da
- vid Slus
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20201211T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20201211T173000Z
-UID:http://hg.gatech.edu/node/641950#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nIn this episode o
- f Scheller Lunchtime Live\, Associate Professor David Sluss talks about le
- arning how to build people\, broaden other’s perspectives\, and boost yo
- ur own patience for more resilient (virtual) teams. Just hit "Attend event
- " and log into LinkedIn on December 11th at 12 p.m. ET to access the sessi
- on.\n\nLinks:\n[0]  http://hg.gatech.edu/node/641950#0\n[1]  https://www.l
- inkedin.com/events/6732748686574526464/
-LOCATION:Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PhD Defense by Darshan Sarojini
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20201215T140000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20201215T160000Z
@@ -11430,6 +11414,24 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  inks:\n[0]  http://hg.gatech.edu/node/653602#0\n[1]  http://cnn.com\n[2]  
  http://foxnews.com\n[3]  http://google.com
 LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CREATE-X I2P Kickoff
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220110T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220111T000000Z
+UID:https://gatech.campuslabs.com/engage/event/7655264
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis event is for those
+  that have applied already to Idea2Prototype (I2P) program or intend to ap
+ ply [1] to Kickoff the semester and interested students that want an overv
+ iew of I2P.\n\nBring your ideas\, teammates\, prospective teammates and fr
+ iends who are curious about I2P! We're happy to answer any of your questio
+ ns. Until we meet for our kickoff\, learn more about Idea to Prototype her
+ e (this is a clickable link) [2].\n\nReady to apply for I2P? Apply here! (
+ this is a clickable link) [1]\n\nApplications are open until midnight\, Ja
+ nuary 11th\, 2022.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/ev
+ ent/7655264\n[1]  https://gatech.co1.qualtrics.com/jfe/form/SV_5arBXLjcc8L
+ uJlY\n[2]  http://create-x.gatech.edu/idea-prototype
+LOCATION:Klaus Advanced Computing Building Room 2448
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WST Lrn C dinner with Dr. Mary Lynn Realff
