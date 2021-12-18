@@ -11424,6 +11424,57 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Nano@Tech | Creative Epitaxy: Finding Ways to Violate Assumptions 
+ that Breach Material Barriers
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220111T050000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220111T180000Z
+UID:http://hg.gatech.edu/node/653808#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nProf. W. Alan Doolittle\; School of Electrical and Computer Engineering\
+ , Georgia Institute of Technology\nAbstract: Epitaxial processes are consi
+ dered routine for applications spanning established industries from the si
+ licon and GaN semiconductor industries to cutting edge research. As many a
+ s 10\,000 epitaxial reactors crank out billions of dollars’ worth of lig
+ ht emitting diode chips for solid state white lighting alone. Those metric
+ s increase 100-fold for silicon applications. Epitaxy is core to countless
+  industries but is mostly performed in ways that have not changed for deca
+ des. But epitaxy can also be performed in non-standard ways to overcome 
+ “perceived” barriers to materials synthesis. Several examples will be 
+ given in this talk including: 1) Dynamic control of surface chemistry so a
+ s to enable higher solubility of desirable impurities\; 2) Dynamic control
+  of surface energy facilitating 3D control of alloy composition and materi
+ al properties\; 3) Electrothermal control of epitaxy to enable metastable 
+ phase materials\; and 4) the “invention” of the widest semiconductor k
+ nown. Each of these example problems has been solved by a common “though
+ t process” wherein the fundamental assumption behind the limitation was 
+ defined and ways of violating the identified assumption was explored leadi
+ ng to new functionality in materials. The importance of the process – as
+ sumption identification and violation – will be discussed in hopes of co
+ nveying an important approach to solving hard problems. New emerging indus
+ tries such as optoelectronics\, neuromorphic computing and power electroni
+ cs will be highlighted as beneficiaries of these unique approaches.\n\nBio
+ : Dr. W. Alan Doolittle is the Joseph M. Pettit professor in the School of
+  Electrical and Computer Engineering at Georgia Institute of Technology. D
+ oolittle is a proud\, two-time Georgia Tech alumnus\, earning his B.E.E. d
+ egree with highest honors in 1989 and his Ph.D. in Electrical Engineering 
+ in 1996. Doolittle leads the Advanced Semiconductor Technology Facility wi
+ th an estimated equipment capitalization of $8 million and works in the ar
+ eas of microelectronic fabrication\, materials growth\, materials and devi
+ ce characterization\, neuromorphic computational devices\, power devices\,
+  high frequency transistors and optoelectronic devices. Doolittle pioneere
+ d the area of hyper doping of wide bandgap semiconductors which has enable
+ d the creation of new semiconductors including the widest bandgap semicond
+ uctor known\, new devices that utilize quantum mechanical processes to red
+ uce power losses and to allow new ways of interconnecting advanced power a
+ nd optoelectronic devices. Doolittle has also pioneered the synthesis of l
+ ithium-metal-oxides which have recently gained attraction for very low pow
+ er neuromorphic devices– devices that emulate human brain functionality.
+ \n\nLinks:\n[0]  http://hg.gatech.edu/node/653808#0\n[1]  https://research
+ .gatech.edu/nano/nanotechseminars
+LOCATION:Marcus Nanotechnology Building 1116 - 1118
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TA Orientation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220112T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220112T230000Z
