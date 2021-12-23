@@ -11334,6 +11334,22 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Spring 2022 Kickoff Meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220109T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220109T170000Z
+UID:https://gatech.campuslabs.com/engage/event/7668765
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nWelcome back for anothe
+ r semester! At this meeting\, we'll be discussing many of the details of t
+ he club\, including our different tiers of membership\, how to register an
+ d pay dues\, events to look forward to during the semester\, and involveme
+ nt in the club. Anyone wishing to pay dues in cash must attend and pay at 
+ this meeting.\n\nAfterwards\, we will be carpooling to Marietta Barbell Gy
+ m for club practice\, and you're welcome to tag along! We will be giving o
+ ut some pre-workout snacks.\n\nLinks:\n[0]  https://gatech.campuslabs.com/
+ engage/event/7668765
+LOCATION:Howey L3
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CREATE-X I2P Kickoff
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220110T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220111T000000Z
