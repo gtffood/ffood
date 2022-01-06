@@ -11334,6 +11334,23 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Barbell Club Spring 2022 Kickoff Meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220109T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220109T170000Z
+UID:http://hg.gatech.edu/node/653997#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nWelcome back for another semester! At this meeting\,
+  we'll be discussing many of the details of the club\, including our diffe
+ rent tiers of membership\, how to register and pay dues\, events to look f
+ orward to during the semester\, and involvement in the club. Anyone wishin
+ g to pay dues in cash must attend and pay at this meeting.\n\nAfterwards\,
+  we will be carpooling to Marietta Barbell Gym for club practice\, and you
+ 're welcome to tag along! We will be giving out some pre-workout snacks.\n
+ \nLinks:\n[0]  http://hg.gatech.edu/node/653997#0\n[1]  https://www.instag
+ ram.com/gtbarbell/
+LOCATION:Howey L3
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Spring 2022 Kickoff Meeting
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220109T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220109T170000Z
@@ -11440,6 +11457,30 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Catholic Student Organization Cookout
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220110T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220111T040000Z
+UID:http://hg.gatech.edu/node/654095#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nCome enjoy a free\, cookout style dinner while catch
+ ing up with friends and watching the NCAA Championship game! Dinner begins
+  at 6:30 PM on the patio followed by the game at 8 PM (may move to basemen
+ t depending on weather).\n\nLinks:\n[0]  http://hg.gatech.edu/node/654095#
+ 0\n[1]  https://gatech.campuslabs.com/engage/organization/cso
+LOCATION:Catholic Center Patio\, 172 4th St NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cookout
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220110T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220111T040000Z
+UID:https://gatech.campuslabs.com/engage/event/7674250
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome enjoy a free\, coo
+ kout style dinner while catching up with friends after the winter break! D
+ inner begins at 6:30 PM on the patio (may move to basement depending on we
+ ather).\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7674250
+LOCATION:Catholic Center Patio
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nano@Tech | Creative Epitaxy: Finding Ways to Violate Assumptions 
  that Breach Material Barriers
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220111T050000Z
@@ -11491,6 +11532,18 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Marcus Nanotechnology Building 1116 - 1118
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Service Night
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220112T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220112T013000Z
+UID:https://gatech.campuslabs.com/engage/event/7674248
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nWe will be making sandw
+ iches and packing them in bags with some other items to be given out to th
+ e homeless. All are welcome to join\, and there will be pizza provided at 
+ the beginning!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/
+ 7674248
+LOCATION:Catholic Center 
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TA Orientation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220112T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220112T230000Z
@@ -11508,6 +11561,36 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  ]\n\nLinks:\n[0]  http://hg.gatech.edu/node/653508#0\n[1]  https://ctl.gat
  ech.edu/teaching-assistant-orientation
 LOCATION:Crosland Tower Room 4160 or via BlueJeans
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Postdoc Social Hour and Meet-and-Greet
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220113T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220113T180000Z
+UID:http://hg.gatech.edu/node/654072#0
+DESCRIPTION:Intended audience: Postdoc\nExtras: Free food\nStatus: publish
+ ed\n\nStop by to meet Karena and other postdocs\, and grab a cupcake! As t
+ he new Assistant Director of Postdoctoral Services\, Karena would very muc
+ h like to hear your thoughts on how we can better serve the needs of GT po
+ stdocs\, especially in the areas of community building and professional de
+ velopment.\n\nLinks:\n[0]  http://hg.gatech.edu/node/654072#0\n[1]  https:
+ //www.google.com/maps/place/Parker+H.+Petit+Institute+for+Bioengineering+a
+ nd+Biosciences+at+Georgia+Tech/@33.7785897\,-84.3980462\,19z/data=!4m5!3m4
+ !1s0x88f5048a7d30c7b5:0x8a5640871e53729d!8m2!3d33.7785897!4d-84.3974829
+LOCATION:Parker H. Petit Institute for Bioengineering and Bioscience (IBB)
+  Building Atrium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Catholic Center - Renew
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220114T003000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220114T020000Z
+UID:http://hg.gatech.edu/node/654099#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nJoin us for a talk from the CEO of LifeTeen\, Randy 
+ Raus\, followed by Eucharistic Adoration\, praise and worship\, and confes
+ sion! The night will be followed with snacks and desserts to share in fell
+ owship.\n\nLinks:\n[0]  http://hg.gatech.edu/node/654099#0\n[1]  https://g
+ atech.campuslabs.com/engage/organization/cso
+LOCATION:Catholic Center Chapel\, 172 4th St NW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tapping Circle for Stress and Calm - 2nd Fridays 3:00-3:30pm (Spri
@@ -11682,6 +11765,32 @@ DESCRIPTION:Extras: Credit\, Free Food\, Free Stuff\nStatus: approved\n\nT
  engage/submitter/form/start/507527\n[3]  https://student-organizations.gat
  ech.edu/content/get-connected-stay-engaged
 LOCATION:Tech Green/Tech Walkway 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AMSA Olympics x Medicine Madness
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220122T193700Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220122T203700Z
+UID:http://hg.gatech.edu/node/654096#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nPlease fill out this form [1] if you would like to p
+ articipate in AMSA Olympics x Medicine Madness sponsored by RHA! The Ameri
+ can Medical Student Association hosts its annual 3v3 basketball tournament
+ \, Medicine Madness on a yearly basis\, but this year wants to be more inc
+ lusive! Therefore we are hosting the AMSA Olympics\, with modified Olympic
+  games. Modified Olympic games include a pool noodle javelin throw\, dodge
+ ball\, a paper airplane toss\, ring toss\, and more! It should be lots of 
+ fun and require no athleticism!\n\nThe event will occur on January 22nd! A
+ MSA Olympics will take place from approximately 9AM to 12PM with lunch and
+  awards served soon after! Medicine Madness will occur in the afternoon fo
+ llowing lunch!\n\nTeams will be 3-4 people\, but if you do not have a team
+ \, do not worry! We will match you with teammates the day of the event! Th
+ ere is no limit to the number of teams for AMSA Olympics\, but there is a 
+ maximum of 8 teams for Medicine Madness so register early if you want to s
+ ecure your spot!\n\nThe last day to sign up is 1/16 at 11:59 PM! [1]\n\nLi
+ nks:\n[0]  http://hg.gatech.edu/node/654096#0\n[1]  https://forms.gle/zYdz
+ khDZHxJzZ6AFA\n[2]  https://gatech.campuslabs.com/engage/organization/amer
+ ican-medical-student-association
+LOCATION:Campus Recreation Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WST Lrn C dinner with Tegra Myanna & Camilla Frost-Brewer
