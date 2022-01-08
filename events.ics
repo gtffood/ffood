@@ -11544,6 +11544,19 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nWe will be making sandw
 LOCATION:Catholic Center 
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Meet Your IAC Career Educator
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220112T190000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220112T210000Z
+UID:http://hg.gatech.edu/node/654126#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nOn Wednesday\, January 12th from 2pm – 4pm\, IAC students can meet car
+ eer educators to ask anything career related and learn how the Career Serv
+ ices office can support their career goals. Free pizza will be provided.\n
+ \nLinks:\n[0]  http://hg.gatech.edu/node/654126#0
+LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TA Orientation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220112T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220112T230000Z
@@ -11808,6 +11821,57 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Scheller Lunchtime Live: The Global Politics of Technology
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220128T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220128T173000Z
+UID:http://hg.gatech.edu/node/654177#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nScheller Lunchtim
+ e Live is a livestream series hosted by the Georgia Tech Scheller College 
+ of Business featuring faculty\, student\, and alumni speakers discussing r
+ elevant topics for the tech-driven\, digital age.\n\nIn this talk\, Dr. Di
+ ane Alleva Cáceres will discuss the science\, technology\, and innovation
+  strategies that countries are pursuing and why they are important to supp
+ ort long-term economic growth. She will also explore the different mechani
+ sms – from exporting to foreign direct investment (FDI) – through whic
+ h global technological innovation occurs.\n\nAttendees will gain a greater
+  understanding of the role played by the private sector\, government\, and
+  universities in these processes and what this means for their own organiz
+ ation’s global growth.\n\nJust hit "Attend event" on the LinkedIn event 
+ and refresh the event page or the Georgia Tech Scheller College of Busines
+ s page on Friday\, January 28 at 12:00 p.m. ET to access the session. Plea
+ se note\, you must have a LinkedIn profile to register and view the livest
+ ream.\n\nAbout Diane Alleva Cáceres\n\nDr. Alleva Cáceres is a lecturer 
+ at the Scheller College of Business and the Sam Nunn School of Internation
+ al Affairs at the Georgia Institute of Technology. She teaches graduate an
+ d undergraduate courses in International Business\, the Global Politics of
+  Technology\, Globalization\, and a senior capstone course.\n\nShe is also
+  the founder and CEO of Market Access International\, Inc. (MAI)\, an inte
+ rnational trade\, investment\, and enterprise growth consulting practice. 
+ She and her team engage in competitiveness benchmarking and strategic plan
+ ning\, global value chain analysis\, export and foreign direct investment 
+ development\, and B2B market missions. Her work has taken her around the w
+ orld from European Union member countries\, Quebec and Malta to China and 
+ Argentina\, among many others in a variety of industries\, from advanced m
+ anufacturing and agribusiness to life sciences and fintech.\n\nPreviously\
+ , she held leadership positions in several organizations including the Wor
+ ld Trade Center Atlanta\, Georgia Tech’s European Union Center of Excell
+ ence\, the Australian Trade Commission\, the U.S. Agency for International
+  Development’s Center for Trade and Investment Services covering North A
+ frica and the Middle East\, the World Technology Foundation\, and the Wood
+ row Wilson International Center for Scholars’ Asia Program.\n\nDr. Allev
+ a Cáceres is a member of several leadership organizations including the C
+ ouncil on Foreign Relations (CFR) and its Committee on the National Progra
+ m\, Bretton Woods Committee\, U.S. Global Leadership Council\, and the Int
+ ernational Women’s Forum.\n\nDr. Alleva Cáceres earned a Ph.D. in Inter
+ national Affairs\, Science\, and Technology from the Georgia Institute of 
+ Technology. She obtained a B.A. in Economics and M.A. in Government from t
+ he College of William and Mary in Virginia.\n\nLinks:\n[0]  http://hg.gate
+ ch.edu/node/654177#0\n[1]  https://www.linkedin.com/video/event/urn:li:ugc
+ Post:6884576202217005056/
+LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Accelerate Skills Conference 
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220206T190000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220206T230000Z
@@ -11820,6 +11884,96 @@ DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nPRIVATE EV
  & SWAG WILL BE PROVIDED\n\nLinks:\n[0]  https://gatech.campuslabs.com/enga
  ge/event/7580687
 LOCATION:Exhibition Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nano@Tech Spring 2022 Series | Session 3
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220208T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220208T180000Z
+UID:http://hg.gatech.edu/node/654134#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nAbstract: TBA\n\nBio: TBA\n\nLinks:\n[0]  http://hg.gatech.edu/node/6541
+ 34#0\n[1]  https://research.gatech.edu/nano/nanotechseminars
+LOCATION:Marcus Nanotechnology Building 1116-1118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nano@Tech Spring 2022 Series | Session 4
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220222T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220222T180000Z
+UID:http://hg.gatech.edu/node/654135#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nAbstract: TBA\n\nBio: TBA\n\nLinks:\n[0]  http://hg.gatech.edu/node/6541
+ 35#0\n[1]  https://research.gatech.edu/nano/nanotechseminars
+LOCATION:Pettit Microelectronics Building 102 A&B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nano@Tech Spring 2022 Series | Session 5
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220308T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220308T180000Z
+UID:http://hg.gatech.edu/node/654136#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nAbstract: TBA\n\nBio: TBA\n\nLinks:\n[0]  http://hg.gatech.edu/node/6541
+ 36#0\n[1]  https://research.gatech.edu/nano/nanotechseminars
+LOCATION:Pettit Microelectronics Building 102 A&B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WST Lrn C dinner with Dr. Mary Lynn Realff
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220314T213000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220314T223000Z
+UID:http://hg.gatech.edu/node/654152#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nM 3/14/22\, 5pm dinner pickup for
+  WST Lrn C residents\, 5:30 pm Blue Jeans meeting. Dr. Mary Lynn Realff\, 
+ Associate Professor and Undergraduate Director\, Material Sciences and Eng
+ ineering\, will host a workshop on Emotional Equations by Chip Conley. Boo
+ ks are available in Stein just outside the office door. Blue Jeans link: [
+ 1]\n\nBiography: Dr. Mary Lynn Realff is an Associate Professor of Materia
+ ls Science and Engineering at Georgia Institute of Technology (Georgia Tec
+ h). She received her BS Textile Engineering from Georgia Tech and her PhD 
+ in Mechanical Engineering and Polymer Science & Engineering from the Massa
+ chusetts Institute of Technology (MIT).\n\nHer current research is focused
+  on Effective Team Dynamics for both undergraduate and graduate students. 
+ The Effective Team Dynamics Initiative develops curriculum and workshops t
+ hat enable students to gain the competencies to work effectively in teams 
+ and for faculty to gain the competencies to guide students through challen
+ ging team dynamics is making a positive impacts at Georgia Tech.\n\nAt Geo
+ rgia Tech\, she also teaches graduate and undergraduate courses in the mec
+ hanics of textile structures and polymer science areas. Dr. Realff has mad
+ e a significant contribution to the understanding of the mechanical behavi
+ or of woven fabrics. She is continuing her work in modeling the mechanical
+  behavior of textile structures utilizing both theoretical and experimenta
+ l approaches.\n\nDr. Realff is the Associate Chair for Undergraduate Progr
+ ams in the School of Materials Science and Engineering at Georgia Tech\, a
+  Co-Director of the Center for the Study of Women\, Science and Technology
+ \, and a Fellow of the Center for Deliberate Innovation. She also facilita
+ tes a student/industry mentoring program which matches industry mentors wi
+ th Georgia Tech undergraduate students for 9 month mentoring relationships
+ . The program has been shown to increase the retention of students.\n\nDr.
+  Realff is a member of The Fiber Society\, American Association of Textile
+  Colorists and Chemists\, the American Society of Engineering Educators\, 
+ and the Society of Women Engineers. She is currently Fellow and a Governor
+  on the Board of the American Society of Mechanical Engineers.\n\nDr. Real
+ ff is a Gallup Certified Strengths Coach\, on the board of the Center for 
+ Puppetry Arts in Atlanta\, GA and volunteers at Inman Middle School (direc
+ ting the GEMS girls’ science club) and at Buckhead Church. She lives in 
+ Atlanta with her husband (a professor at Georgia Tech). They have two chil
+ dren: a daughter that lives in Wisconsin and a son who lives in Japan.\n\n
+ Links:\n[0]  http://hg.gatech.edu/node/654152#0\n[1]  https://bluejeans.co
+ m/990388399
+LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nano@Tech Spring 2022 Series | Session 6
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220329T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220329T170000Z
+UID:http://hg.gatech.edu/node/654137#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nAbstract: TBA\n\nBio: TBA\n\nLinks:\n[0]  http://hg.gatech.edu/node/6541
+ 37#0\n[1]  https://research.gatech.edu/nano/nanotechseminars
+LOCATION:Marcus Nanotechnology Building 1116-1118
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2022 Brumley D. Pritchett Lecture & the IMat Symposium on Material
@@ -11976,5 +12130,16 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  m/IMatSympS22
 LOCATION:Marcus Nanotechnology Building | 345 Ferst Drive | Atlanta GA 303
  32
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nano@Tech Spring 2022 Series | Session 8
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220426T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220426T170000Z
+UID:http://hg.gatech.edu/node/654139#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nAbstract: TBA\n\nBio: TBA\n\nLinks:\n[0]  http://hg.gatech.edu/node/6541
+ 39#0\n[1]  https://research.gatech.edu/nano/nanotechseminars
+LOCATION:Marcus Nanotechnology Building 1116-1118
 END:VEVENT
 END:VCALENDAR
