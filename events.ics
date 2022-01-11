@@ -11606,6 +11606,18 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Catholic Center Chapel\, 172 4th St NW
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Renew
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220114T003000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220114T020000Z
+UID:https://gatech.campuslabs.com/engage/event/7692072
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for a talk from
+  the CEO of LifeTeen\, Randy Raus\, followed by Eucharistic Adoration\, pr
+ aise and worship\, and confession! The night will be followed with snacks 
+ and desserts to share in fellowship.\n\nLinks:\n[0]  https://gatech.campus
+ labs.com/engage/event/7692072
+LOCATION:Catholic Center Chapel
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tapping Circle for Stress and Calm - 2nd Fridays 3:00-3:30pm (Spri
  ng 2022)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220114T200000Z
@@ -11671,6 +11683,19 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  meo.com/434759839\n[30]  https://tappingqanda.com/category/podcast/\n[31] 
   http://tapping.ece.gatech.edu/tapping-circles
 LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RHA's Bingo Bonanza
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220115T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220115T033000Z
+UID:https://gatech.campuslabs.com/engage/event/7692044
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nTest your 
+ luck at RHA’s Bingo Bonanza! With over $ 5 00 in prizes\, music\, snacks
+ \, and more you are sure to relive Grandma’s glorious bingo days. Chance
+ s are high with 10 total games of 1 winner or more\, so bring a friend and
+  show them your bingo skills!\n\nLinks:\n[0]  https://gatech.campuslabs.co
+ m/engage/event/7692044
+LOCATION:Brittain Dining Hall
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MOVEments Live: Hosting Conversations that Matter | A Live Podcast
@@ -11819,6 +11844,19 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  /lgbtqia.gatech.edu/staff\n\nLinks:\n[0]  http://hg.gatech.edu/node/653101
  #0\n[1]  https://bluejeans.com/377265445/9284
 LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greek Community Bonfire
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220125T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220125T020000Z
+UID:https://gatech.campuslabs.com/engage/event/7692071
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nInviting the Greek comm
+ unity to come join us on the Catholic Center Patio for a bonfire with s'mo
+ res and games to kickoff the semester! (Will move to indoor fireplace if r
+ aining)\n\nTo subscribe to the Catholic Center's Greek community events Go
+ ogle calendar: gtcc.co/greekcalendar\n\nLinks:\n[0]  https://gatech.campus
+ labs.com/engage/event/7692071
+LOCATION:Catholic Center Patio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Scheller Lunchtime Live: The Global Politics of Technology
