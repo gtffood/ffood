@@ -2,41 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Petit Entrepreneurship Academy Seminar
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210112T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210112T170000Z
-UID:http://hg.gatech.edu/node/641416#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: draft\n\n"What VC's are Lookin
- g For"\n\nChristopher Seabolt [1]\n\nRSVP HERE\n\nParticipation Link [2]\n
- \nChris holds approximately 30 years of venture capital and operational ex
- perience in early-stage growth companies\, most recently with T-Venture\, 
- Deutsche Telekom’s captive corporate venture capital subsidiary\, where 
- he sourced and completed numerous transactions in the technology sector in
-  both the U.S. and Europe. Prior to this\, Chris was responsible for the h
- ighly successful turnaround and divestiture of Central Europe Telecom Inve
- stment (CETI) LP assets\, one of the first true venture funds in the Regio
- n. He was previously associated with the Silicon Valley office of Patricof
-  & Co (now APAX Partners) as well as the in-house LBO fund of Kidder\, Pea
- body & Co. in New York. Prior positions also include CFO roles in Solvo Bi
- otechnology Rt.\, a Hungarian biotech start-up\, and Hild Real Estate Inve
- stment\, CEE’s first large-scale life annuity provider.\n\nOf almost 20 
- deals in the early-stage sector\, including a majority of Seed and Start-u
- p\, Chris has engineered successful (+money) exits for well over half of t
- hese\, with extraordinarily high returns across all managed portfolios\, p
- articularly given the extremely early stage and EU focus.\n\nChris is a fr
- equent juror and mentor in the US and EU through various accelerators and 
- start-up and seed events. His network is multinational - spanning the EU\,
-  UK and the East and West Coasts of the USA.\n\nHe is an avid\, if amateur
- \, lifelong student of philosophy\, cultures and history. He is also an av
- id rider and scuba diver\, and a deliberately novice martial artist. His b
- road interests\, coupled with his ruthless training as an Economist\, tend
-  to make him highly unpopular at dinner parties.\n\nLinks:\n[0]  http://hg
- .gatech.edu/node/641416#0\n[1]  https://www.linkedin.com/in/christopher-se
- abolt-144a5a/\n[2]  https://gatech.bluejeans.com/986502317
-LOCATION:Virtual Event - see description for participation info
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Me\, Myself\, and I: A Conversation About Narcissism in the Workpl
  ace: A Live Stream Featuring Katie Badura
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210115T170000Z
@@ -11576,6 +11541,17 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Crosland Tower Room 4160 or via BlueJeans
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pride Alliance Campfire
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220112T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220113T000000Z
+UID:https://gatech.campuslabs.com/engage/event/7700555
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nOn Wednesday Jan 12th a
+ t 6pm\, Pride Alliance is hosting a Campfire! Come relax before the start 
+ of classes! The event will be outside Willage at the fire pits.\n\nLinks:\
+ n[0]  https://gatech.campuslabs.com/engage/event/7700555
+LOCATION:Willage Campfires
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Postdoc Social Hour and Meet-and-Greet
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220113T163000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220113T180000Z
@@ -11803,6 +11779,23 @@ DESCRIPTION:Extras: Credit\, Free Food\, Free Stuff\nStatus: approved\n\nT
  engage/submitter/form/start/507527\n[3]  https://student-organizations.gat
  ech.edu/content/get-connected-stay-engaged
 LOCATION:Tech Green/Tech Walkway 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GT French Club Spring 2022 Intro Meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220120T234500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220121T010000Z
+UID:https://gatech.campuslabs.com/engage/event/7706972
+DESCRIPTION:Extras: Credit\, Free Food\nStatus: approved\n\nIn our Intro M
+ eeting\, we will cover all the important information about our club\, our 
+ leadership team\, and our meetings for the rest of the semester. Then\, we
+ 'll have an activity planned to get everyone acquainted with each other (i
+ n French\, of course). If this is your first time coming to a French club 
+ Rendezvous\, you should expect that we will be speaking in French for most
+  of the meetings. That being said\, all levels of French speakers are welc
+ ome- you will fit in whether you are here to meet Francophones or to pract
+ ice your French conversation skills!\n\nAlso\, there will be free sweets!\
+ n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7706972
+LOCATION:Skiles 368
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AMSA Olympics x Medicine Madness
