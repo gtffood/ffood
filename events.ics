@@ -11544,12 +11544,15 @@ BEGIN:VEVENT
 SUMMARY:Pride Alliance Campfire
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220112T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220113T000000Z
-UID:https://gatech.campuslabs.com/engage/event/7700555
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nOn Wednesday Jan 12th a
- t 6pm\, Pride Alliance is hosting a Campfire! Come relax before the start 
- of classes! The event will be outside Willage at the fire pits.\n\nLinks:\
- n[0]  https://gatech.campuslabs.com/engage/event/7700555
-LOCATION:Willage Campfires
+UID:http://hg.gatech.edu/node/654261#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nOn Wednesday Jan 12th at 6pm\, Pr
+ ide Alliance is hosting a Campfire! Come relax before the start of classes
+ ! The event will be outside Willage at the fire pits.\n\nLinks:\n[0]  http
+ ://hg.gatech.edu/node/654261#0\n[1]  https://gatech.campuslabs.com/engage/
+ event/7700555\n[2]  https://gatech.campuslabs.com/engage/organization/prid
+ e-alliance
+LOCATION:West Village Fire Pits
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Postdoc Social Hour and Meet-and-Greet
@@ -11585,13 +11588,15 @@ BEGIN:VEVENT
 SUMMARY:Renew
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220114T003000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220114T020000Z
-UID:https://gatech.campuslabs.com/engage/event/7692072
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for a talk from
-  the CEO of LifeTeen\, Randy Raus\, followed by Eucharistic Adoration\, pr
- aise and worship\, and confession! The night will be followed with snacks 
- and desserts to share in fellowship.\n\nLinks:\n[0]  https://gatech.campus
- labs.com/engage/event/7692072
-LOCATION:Catholic Center Chapel
+UID:http://hg.gatech.edu/node/654289#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free Food\nStatus: published\n
+ \nJoin us for a talk from the CEO of LifeTeen\, Randy Raus\, followed by E
+ ucharistic Adoration\, praise and worship\, and confession! The night will
+  be followed with snacks and desserts to share in fellowship.\n\nLinks:\n[
+ 0]  http://hg.gatech.edu/node/654289#0\n[1]  https://gatech.campuslabs.com
+ /engage/event/7692072
+LOCATION:Catholic Student Organization
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tapping Circle for Stress and Calm - 2nd Fridays 3:00-3:30pm (Spri
@@ -11664,13 +11669,20 @@ BEGIN:VEVENT
 SUMMARY:RHA's Bingo Bonanza
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220115T021500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220115T033000Z
-UID:https://gatech.campuslabs.com/engage/event/7692044
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nTest your 
- luck at RHA’s Bingo Bonanza! With over $ 5 00 in prizes\, music\, snacks
- \, and more you are sure to relive Grandma’s glorious bingo days. Chance
- s are high with 10 total games of 1 winner or more\, so bring a friend and
-  show them your bingo skills!\n\nLinks:\n[0]  https://gatech.campuslabs.co
- m/engage/event/7692044
+UID:http://hg.gatech.edu/node/654272#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\, Free Stuff\nStatus: published\n\nTest your luck at RH
+ A’s Bingo Bonanza! With over $500 in prizes\, music\, snacks\, and more 
+ you are sure to relive Grandma’s glorious bingo days. Chances are high w
+ ith 10 total games of 1 winner or more\, so bring a friend and show them y
+ our bingo skills!\n\nTest your luck at RHA’s Bingo Bonanza! With over $ 
+ 5 00 in prizes\, music\, snacks\, and more you are sure to relive Grandma
+ ’s glorious bingo days. Chances are high with 10 total games of 1 winner
+  or more\, so bring a friend and show them your bingo skills!\n\nLinks:\n[
+ 0]  http://hg.gatech.edu/node/654272#0\n[1]  http://hg.gatech.edu/node/654
+ 259#0\n[2]  https://gatech.campuslabs.com/engage/event/7692044\n[3]  https
+ ://sites.gatech.edu/residencehallassociation/2022/01/06/rhas-spring-week-o
+ f-welcome-events/
 LOCATION:Brittain Dining Hall
 END:VEVENT
 BEGIN:VEVENT
@@ -11758,6 +11770,58 @@ DESCRIPTION:Extras: Credit\, Free Food\nStatus: approved\n\nAs we honor Dr
 LOCATION:Exhibition Hall 
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Jon's Office Hours
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220118T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220118T170000Z
+UID:http://hg.gatech.edu/node/654280#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatech.edu
+ /node/654280#0
+LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Information Session- Become a Member of AIESEC
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220119T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220120T000000Z
+UID:https://gatech.campuslabs.com/engage/event/7715699
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAIESEC is the world's l
+ argest youth-led organization. Focused on providing a platform for youth l
+ eadership development\, AIESEC offers young people the opportunity to be g
+ lobal citizens\, to change the world\, and to get experience and skills th
+ at matter today through experiential learning\, volunteer experiences\, an
+ d professional internships abroad!\n\nTo apply\, please fill out this appl
+ ication by January 31st!\n\nhttps://www.aiesecus.org/join\n\nContact vptm-
+ atlanta@aiesecus.org for any questions!\n\nCategories\n\nLinks:\n[0]  http
+ s://gatech.campuslabs.com/engage/event/7715699
+LOCATION:Skiles 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omega Phi Alpha Recruitment: Info Session
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220120T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220120T010000Z
+UID:https://gatech.campuslabs.com/engage/event/7720969
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nLearn more about Georgi
+ a Tech's only service sorority as we kick off Spring 2022 informal recruit
+ ment! We are an inclusive service sorority dedicated to developing friends
+ hip\, leadership\, and cooperation through service projects and sisterhood
+ . We've been serving the GT community since 1986!\n\nLinks:\n[0]  https://
+ gatech.campuslabs.com/engage/event/7720969
+LOCATION:Kendeda 110
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring Welcome Meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220120T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220120T010000Z
+UID:https://gatech.campuslabs.com/engage/event/7715977
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\n- Play fun games and en
+ joy free vegan cinnamon rolls provided by Cinnaholic Edgewood!\n- Guests w
+ ho are experiencing symptoms of Covid-19 should not attend. We strongly en
+ courage that you wear a mask when not eating (especially if indoors). We w
+ ill be providing hand sanitizer.\n\nLinks:\n[0]  https://gatech.campuslabs
+ .com/engage/event/7715977
+LOCATION:Kendeda 230
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Winter Organizations Fair 
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220120T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220120T180000Z
@@ -11781,6 +11845,16 @@ DESCRIPTION:Extras: Credit\, Free Food\, Free Stuff\nStatus: approved\n\nT
 LOCATION:Tech Green/Tech Walkway 
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Meet and Great
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220120T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220121T000000Z
+UID:http://hg.gatech.edu/node/654274#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatech.edu
+ /node/654274#0
+LOCATION:D.M. Smith 207
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GT French Club Spring 2022 Intro Meeting
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220120T234500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220121T010000Z
@@ -11796,6 +11870,34 @@ DESCRIPTION:Extras: Credit\, Free Food\nStatus: approved\n\nIn our Intro M
  ice your French conversation skills!\n\nAlso\, there will be free sweets!\
  n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7706972
 LOCATION:Skiles 368
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omega Phi Alpha Recruitment Info Session (Service Sorority)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220121T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220121T010000Z
+UID:https://gatech.campuslabs.com/engage/event/7715673
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nLearn more about Georgi
+ a Tech's only service sorority as we kick off Spring 2022 informal recruit
+ ment! We are an inclusive service sorority dedicated to developing friends
+ hip\, leadership\, and cooperation through service projects and sisterhood
+ . We've been serving the GT community since 1986!\n\nLinks:\n[0]  https://
+ gatech.campuslabs.com/engage/event/7715673
+LOCATION:Kendeda 110
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Psychology\, Philosophy\, and Science Lecture Series Event
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220122T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220122T170000Z
+UID:http://hg.gatech.edu/node/654277#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nJoin us in learning more about psychology and its interaction with philo
+ sophy and science by watching Jordan Peterson’s 2017 Personality Lecture
+  Series and discussing his ideas. For those that attend\, a pizza lunch wi
+ ll be provided free of charge. The event will be held in Clough Auditorium
+  144. Help us as we work to foster insightful dialogue among diverse persp
+ ectives.\n\nLinks:\n[0]  http://hg.gatech.edu/node/654277#0
+LOCATION:Clough Auditorium 144
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AMSA Olympics x Medicine Madness
@@ -11852,6 +11954,174 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nInviting the Greek comm
 LOCATION:Catholic Center Patio
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Jon's Office Hours
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220125T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220125T170000Z
+UID:http://hg.gatech.edu/node/654280#1
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatech.edu
+ /node/654280#1
+LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring 2022 Rush
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220125T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220125T170000Z
+UID:https://gatech.campuslabs.com/engage/event/7720682
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome meet the brothers 
+ and learn more about Alpha Chi Sigma\, Georgia Tech's only co-ed chemical 
+ sciences fraternity! You will have the opportunity to meet others in your 
+ major\, grow your professional and personal skill sets\, give back to the 
+ community\, and more! We are open to all chemistry-related majors includin
+ g Biomedical Engineering\, Earth and Atmospheric Sciences\, Biology\, Chem
+ istry\, Biochemistry\, Chemical Engineering\, Material Science Engineering
+ \, Health Medicine and Society Minor\, Environmental Engineering\, Neurosc
+ ience\, Pre-Health\, Pre-Pharmacy\, Pre-Veterinary\, etc. You must have cr
+ edit for a chemistry class (received AP credit\, taken at Tech\, etc) to b
+ e eligible to receive a bid.\n\nRush will be held at the following dates a
+ nd times:\n\nTue 1/25\, 11am - 12pm\, MoSE 1224 Get to Know AXS!\n\nTue 1/
+ 25\, 5pm - 6pm\, MoSE 2nd Floor Atrium Speed Dating\n\nWed 1/26\, 6pm - 7p
+ m\, MoSE 1224 Resume Workshop\n\nThu 1/27\, 11am - 12pm\, MoSE 2nd Floor A
+ trium Ice Cream & Board Games\n\nThu 1/27\, 5pm - 6 pm\, MoSE 2nd Floor At
+ rium Cookie Bar\n\nAll rush events will be held in Molecular Sciences and 
+ Engineering (MoSE). You must attend at least 2 rush events but are absolut
+ ely welcome to attend more!\n\nIf uncomfortable/unable to attend any event
+ s in-person or have any questions\, please reach out to axsigma.gatech@gma
+ il.com [1]! To learn more about us: axs.gtorg.gatech.edu\n\nLinks:\n[0]  h
+ ttps://gatech.campuslabs.com/engage/event/7720682\n[1]  axsigma.gatech@gma
+ il.com
+LOCATION:Molecular Science and Engineering Room 1224 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring 2022 Rush
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220125T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220125T230000Z
+UID:https://gatech.campuslabs.com/engage/event/7720683
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome meet the brothers 
+ and learn more about Alpha Chi Sigma\, Georgia Tech's only co-ed chemical 
+ sciences fraternity! You will have the opportunity to meet others in your 
+ major\, grow your professional and personal skill sets\, give back to the 
+ community\, and more! We are open to all chemistry-related majors includin
+ g Biomedical Engineering\, Earth and Atmospheric Sciences\, Biology\, Chem
+ istry\, Biochemistry\, Chemical Engineering\, Material Science Engineering
+ \, Health Medicine and Society Minor\, Environmental Engineering\, Neurosc
+ ience\, Pre-Health\, Pre-Pharmacy\, Pre-Veterinary\, etc. You must have cr
+ edit for a chemistry class (received AP credit\, taken at Tech\, etc) to b
+ e eligible to receive a bid.\n\nRush will be held at the following dates a
+ nd times:\n\nTue 1/25\, 11am - 12pm\, MoSE 1224 Get to Know AXS!\n\nTue 1/
+ 25\, 5pm - 6pm\, MoSE 2nd Floor Atrium Speed Dating\n\nWed 1/26\, 6pm - 7p
+ m\, MoSE 1224 Resume Workshop\n\nThu 1/27\, 11am - 12pm\, MoSE 2nd Floor A
+ trium Ice Cream & Board Games\n\nThu 1/27\, 5pm - 6 pm\, MoSE 2nd Floor At
+ rium Cookie Bar\n\nAll rush events will be held in Molecular Sciences and 
+ Engineering (MoSE). You must attend at least 2 rush events but are absolut
+ ely welcome to attend more!\n\nIf uncomfortable/unable to attend any event
+ s in-person or have any questions\, please reach out to axsigma.gatech@gma
+ il.com [1]! To learn more about us: axs.gtorg.gatech.edu\n\nLinks:\n[0]  h
+ ttps://gatech.campuslabs.com/engage/event/7720683\n[1]  axsigma.gatech@gma
+ il.com
+LOCATION:Molecular Science and Engineering 2nd Floor Atrium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IRIM Seminar Series | Robot Motion Planning: Challenges and Opport
+ unities for Increasing Robot Autonomy
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220126T171500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220126T181500Z
+UID:http://hg.gatech.edu/node/654443#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nMark Moll Ph.D. | Director of Research\, PickNik Robotics\nAbstract: Rob
+ ot manipulators are increasingly deployed outside of carefully controlled 
+ factory settings. Advances in robot motion planning have made it possible 
+ to compute feasible motions for more complex systems. My work is focused o
+ n enabling planning over varying time horizons subject to complex soft and
+  hard constraints. The goal is to reduce the amount of user input required
+  to command a robot and enable ever greater levels of autonomy. In this pr
+ esentation I will first give a brief overview of sampling-based motion pla
+ nning\, a class of methods that has been successfully applied to a broad r
+ ange of complex systems. I will present recent results that show that sati
+ sfying hard constraints can be decoupled from the particular planning stra
+ tegy\, which can lead to surprising performance improvements. Next\, I wil
+ l present some results on using hyperparameter optimization to select and 
+ tune motion planning algorithms for a given robot. Finally\, will present 
+ some initial results on supervised autonomy that combines motion planning 
+ with compliant control\, perception\, and human input.\n\nBio: Mark Moll r
+ eceived an M.S. in Computer Science from the University of Twente in the N
+ etherlands and a Ph.D. in Computer Science from Carnegie Mellon University
+ . Mark Moll is currently the Director of Research at PickNik\, a robotics 
+ software development and consultancy company that is supporting the MoveIt
+  motion planning framework. Previously\, he was a senior research scientis
+ t in the Computer Science Department at Rice University. He has worked in 
+ robotics for more than 20 years\, with a focus on motion planning. He has 
+ led the development of the Open Motion Planning Library (OMPL)\, which is 
+ widely used in industry and academic research (often via MoveIt / ROS). He
+  has over 80 peer-reviewed publications with research contributions in app
+ lied algorithms for problems in robotics and computational structural biol
+ ogy. He has extensive experience deploying novel algorithms on a variety o
+ f robotic platforms\, ranging from NASA’s Robonaut 2 to autonomous under
+ water vehicles and self-reconfigurable robots.\n\nLinks:\n[0]  http://hg.g
+ atech.edu/node/654443#0\n[1]  https://research.gatech.edu/robotics/irim-se
+ minar-series
+LOCATION:Marcus Nanotechnology Building 1116-1118 | 345 Ferst Drive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring 2022 Rush
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220126T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220127T000000Z
+UID:https://gatech.campuslabs.com/engage/event/7720684
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome meet the brothers 
+ and learn more about Alpha Chi Sigma\, Georgia Tech's only co-ed chemical 
+ sciences fraternity! You will have the opportunity to meet others in your 
+ major\, grow your professional and personal skill sets\, give back to the 
+ community\, and more! We are open to all chemistry-related majors includin
+ g Biomedical Engineering\, Earth and Atmospheric Sciences\, Biology\, Chem
+ istry\, Biochemistry\, Chemical Engineering\, Material Science Engineering
+ \, Health Medicine and Society Minor\, Environmental Engineering\, Neurosc
+ ience\, Pre-Health\, Pre-Pharmacy\, Pre-Veterinary\, etc. You must have cr
+ edit for a chemistry class (received AP credit\, taken at Tech\, etc) to b
+ e eligible to receive a bid.\n\nRush will be held at the following dates a
+ nd times:\n\nTue 1/25\, 11am - 12pm\, MoSE 1224 Get to Know AXS!\n\nTue 1/
+ 25\, 5pm - 6pm\, MoSE 2nd Floor Atrium Speed Dating\n\nWed 1/26\, 6pm - 7p
+ m\, MoSE 1224 Resume Workshop\n\nThu 1/27\, 11am - 12pm\, MoSE 2nd Floor A
+ trium Ice Cream & Board Games\n\nThu 1/27\, 5pm - 6 pm\, MoSE 2nd Floor At
+ rium Cookie Bar\n\nAll rush events will be held in Molecular Sciences and 
+ Engineering (MoSE). You must attend at least 2 rush events but are absolut
+ ely welcome to attend more!\n\nIf uncomfortable/unable to attend any event
+ s in-person or have any questions\, please reach out to axsigma.gatech@gma
+ il.com [1]! To learn more about us: axs.gtorg.gatech.edu\n\nLinks:\n[0]  h
+ ttps://gatech.campuslabs.com/engage/event/7720684\n[1]  axsigma.gatech@gma
+ il.com
+LOCATION:Molecular Science and Engineering Room 1224
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring 2022 Rush
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220127T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220127T170000Z
+UID:https://gatech.campuslabs.com/engage/event/7720685
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome meet the brothers 
+ and learn more about Alpha Chi Sigma\, Georgia Tech's only co-ed chemical 
+ sciences fraternity! You will have the opportunity to meet others in your 
+ major\, grow your professional and personal skill sets\, give back to the 
+ community\, and more! We are open to all chemistry-related majors includin
+ g Biomedical Engineering\, Earth and Atmospheric Sciences\, Biology\, Chem
+ istry\, Biochemistry\, Chemical Engineering\, Material Science Engineering
+ \, Health Medicine and Society Minor\, Environmental Engineering\, Neurosc
+ ience\, Pre-Health\, Pre-Pharmacy\, Pre-Veterinary\, etc. You must have cr
+ edit for a chemistry class (received AP credit\, taken at Tech\, etc) to b
+ e eligible to receive a bid.\n\nRush will be held at the following dates a
+ nd times:\n\nTue 1/25\, 11am - 12pm\, MoSE 1224 Get to Know AXS!\n\nTue 1/
+ 25\, 5pm - 6pm\, MoSE 2nd Floor Atrium Speed Dating\n\nWed 1/26\, 6pm - 7p
+ m\, MoSE 1224 Resume Workshop\n\nThu 1/27\, 11am - 12pm\, MoSE 2nd Floor A
+ trium Ice Cream & Board Games\n\nThu 1/27\, 5pm - 6 pm\, MoSE 2nd Floor At
+ rium Cookie Bar\n\nAll rush events will be held in Molecular Sciences and 
+ Engineering (MoSE). You must attend at least 2 rush events but are absolut
+ ely welcome to attend more!\n\nIf uncomfortable/unable to attend any event
+ s in-person or have any questions\, please reach out to axsigma.gatech@gma
+ il.com [1]! To learn more about us: axs.gtorg.gatech.edu\n\nLinks:\n[0]  h
+ ttps://gatech.campuslabs.com/engage/event/7720685\n[1]  axsigma.gatech@gma
+ il.com
+LOCATION:Molecular Science and Engineering 2nd Floor Atrium
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Scheller Lunchtime Live: The Global Politics of Technology
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220128T170000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220128T173000Z
@@ -11903,6 +12173,16 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Jon's Office Hours
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220201T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220201T170000Z
+UID:http://hg.gatech.edu/node/654280#2
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatech.edu
+ /node/654280#2
+LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Accelerate Skills Conference 
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220206T190000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220206T230000Z
@@ -11917,6 +12197,16 @@ DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nPRIVATE EV
 LOCATION:Exhibition Hall
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Jon's Office Hours
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220208T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220208T170000Z
+UID:http://hg.gatech.edu/node/654280#3
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatech.edu
+ /node/654280#3
+LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nano@Tech Spring 2022 Series | Session 3
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220208T170000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220208T180000Z
@@ -11926,6 +12216,26 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  \nAbstract: TBA\n\nBio: TBA\n\nLinks:\n[0]  http://hg.gatech.edu/node/6541
  34#0\n[1]  https://research.gatech.edu/nano/nanotechseminars
 LOCATION:Marcus Nanotechnology Building 1116-1118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jon's Office Hours
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220215T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220215T170000Z
+UID:http://hg.gatech.edu/node/654280#4
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatech.edu
+ /node/654280#4
+LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jon's Office Hours
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220222T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220222T170000Z
+UID:http://hg.gatech.edu/node/654280#5
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatech.edu
+ /node/654280#5
+LOCATION:Westminster Christian Fellowship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nano@Tech Spring 2022 Series | Session 4
@@ -11939,6 +12249,26 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Pettit Microelectronics Building 102 A&B
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Jon's Office Hours
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220301T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220301T170000Z
+UID:http://hg.gatech.edu/node/654280#6
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatech.edu
+ /node/654280#6
+LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jon's Office Hours
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220308T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220308T170000Z
+UID:http://hg.gatech.edu/node/654280#7
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatech.edu
+ /node/654280#7
+LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nano@Tech Spring 2022 Series | Session 5
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220308T170000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220308T180000Z
@@ -11948,6 +12278,16 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  \nAbstract: TBA\n\nBio: TBA\n\nLinks:\n[0]  http://hg.gatech.edu/node/6541
  36#0\n[1]  https://research.gatech.edu/nano/nanotechseminars
 LOCATION:Pettit Microelectronics Building 102 A&B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WCF Free Dinner
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220308T230300Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220309T011500Z
+UID:http://hg.gatech.edu/node/654285#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatech.edu
+ /node/654285#0
+LOCATION:Westminster Christian Fellowship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WST Lrn C dinner with Dr. Mary Lynn Realff
@@ -11996,6 +12336,36 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Jon's Office Hours
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220315T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220315T160000Z
+UID:http://hg.gatech.edu/node/654280#8
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatech.edu
+ /node/654280#8
+LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WCF Free Dinner
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220315T220300Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220316T001500Z
+UID:http://hg.gatech.edu/node/654285#1
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatech.edu
+ /node/654285#1
+LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jon's Office Hours
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220329T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220329T160000Z
+UID:http://hg.gatech.edu/node/654280#9
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatech.edu
+ /node/654280#9
+LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nano@Tech Spring 2022 Series | Session 6
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220329T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220329T170000Z
@@ -12005,6 +12375,36 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  \nAbstract: TBA\n\nBio: TBA\n\nLinks:\n[0]  http://hg.gatech.edu/node/6541
  37#0\n[1]  https://research.gatech.edu/nano/nanotechseminars
 LOCATION:Marcus Nanotechnology Building 1116-1118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WCF Free Dinner
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220329T220300Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220330T001500Z
+UID:http://hg.gatech.edu/node/654285#2
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatech.edu
+ /node/654285#2
+LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jon's Office Hours
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220405T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220405T160000Z
+UID:http://hg.gatech.edu/node/654280#10
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatech.edu
+ /node/654280#10
+LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WCF Free Dinner
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220405T220300Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220406T001500Z
+UID:http://hg.gatech.edu/node/654285#3
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatech.edu
+ /node/654285#3
+LOCATION:Westminster Christian Fellowship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2022 Brumley D. Pritchett Lecture & the IMat Symposium on Material
@@ -12163,6 +12563,46 @@ LOCATION:Marcus Nanotechnology Building | 345 Ferst Drive | Atlanta GA 303
  32
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Jon's Office Hours
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220412T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220412T160000Z
+UID:http://hg.gatech.edu/node/654280#11
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatech.edu
+ /node/654280#11
+LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WCF Free Dinner
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220412T220300Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220413T001500Z
+UID:http://hg.gatech.edu/node/654285#4
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatech.edu
+ /node/654285#4
+LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jon's Office Hours
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220419T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220419T160000Z
+UID:http://hg.gatech.edu/node/654280#12
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatech.edu
+ /node/654280#12
+LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WCF Free Dinner
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220419T220300Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220420T001500Z
+UID:http://hg.gatech.edu/node/654285#5
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatech.edu
+ /node/654285#5
+LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nano@Tech Spring 2022 Series | Session 8
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220426T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220426T170000Z
@@ -12172,5 +12612,15 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  \nAbstract: TBA\n\nBio: TBA\n\nLinks:\n[0]  http://hg.gatech.edu/node/6541
  39#0\n[1]  https://research.gatech.edu/nano/nanotechseminars
 LOCATION:Marcus Nanotechnology Building 1116-1118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WCF Free Dinner
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220426T220300Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220427T001500Z
+UID:http://hg.gatech.edu/node/654285#6
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatech.edu
+ /node/654285#6
+LOCATION:Westminster Christian Fellowship
 END:VEVENT
 END:VCALENDAR
