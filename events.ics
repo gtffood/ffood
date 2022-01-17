@@ -2,21 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Me\, Myself\, and I: A Conversation About Narcissism in the Workpl
- ace: A Live Stream Featuring Katie Badura
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210115T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210115T173000Z
-UID:http://hg.gatech.edu/node/642024#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nIn this episode o
- f Scheller Lunchtime Live\, Assistant Professor Katie Badura talks about h
- ow to identify a narcissistic individual\, the pitfalls of working with na
- rcissists\, and how to best navigate these pitfalls to improve your work e
- xperience.\n\nLinks:\n[0]  http://hg.gatech.edu/node/642024#0\n[1]  https:
- //www.linkedin.com/events/6742096657741074432/about/
-LOCATION:Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Spring Opening Meeting for WST Lrn C 
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210118T223000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210118T233000Z
@@ -12197,6 +12182,20 @@ DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nPRIVATE EV
 LOCATION:Exhibition Hall
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:WST Lrn C dinner: Kevin Buckins on Stress Management
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220207T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220207T233000Z
+UID:http://hg.gatech.edu/node/654468#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\nStatus: published\n\nM 2/7/22 5pm dinner pickup f
+ or WST Learning Community residents\, with online meeting beginning at 5:3
+ 0pm: Kevin Buckins of Student Life will discuss Stress Management\nBlue Je
+ ans link: https://bluejeans.com/137029724\nFor more information about Coun
+ seling Services at Georgia Tech\, see\nhttps://counseling.gatech.edu/conte
+ nt/welcome\n\nLinks:\n[0]  http://hg.gatech.edu/node/654468#0
+LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jon's Office Hours
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220208T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220208T170000Z
@@ -12247,6 +12246,33 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  \nAbstract: TBA\n\nBio: TBA\n\nLinks:\n[0]  http://hg.gatech.edu/node/6541
  35#0\n[1]  https://research.gatech.edu/nano/nanotechseminars
 LOCATION:Pettit Microelectronics Building 102 A&B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WST Lrn C dinner with Dr. Mindy Millard-Stafford
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220228T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220228T220000Z
+UID:http://hg.gatech.edu/node/654469#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nM 2/28/22\, 4pm meeting\, 5pm din
+ ner pickup for WST Lrn C residents:\nAt 4pm\, Dr. Mindy Millard-Stafford\,
+  Professor and Director of the Exercise Physiology Laboratory\, Biological
+  Sciences\, will discuss her career and work.\nBlue Jeans link: https://bl
+ uejeans.com/940468427\n\nMindy L. Millard-Stafford\, Ph.D.\, is Full Profe
+ ssor and Associate Chair in the School of Applied Physiology at Georgia In
+ stitute of Technology where she has either directed or co-directed the Exe
+ rcise Physiology Laboratory for the past 30 years. She received her B.S. i
+ n Health and Physical Education from Pennsylvania State University in 1979
+ \, Masters of Arts in Exercise Physiology from the University of Florida i
+ n 1980\, and doctoral degree in Exercise Physiology from the University of
+  Georgia in 1986. Her research has primarily focused on thermoregulation a
+ nd fluid replacement during exercise in the heat and appropriate counterme
+ asures to fatigue.\nFor more details\, see https://sites.gatech.edu/exerci
+ sephysiology/personnel/\n\nThe main research goals within the Exercise Phy
+ siology Laboratory are to seek nutritional and exercise interventions that
+  can improve human performance\, health and well-being. See https://biosci
+ ences.gatech.edu/people/mindy-millard-stafford\n\nLinks:\n[0]  http://hg.g
+ atech.edu/node/654469#0
+LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jon's Office Hours
