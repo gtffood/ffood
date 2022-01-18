@@ -11830,6 +11830,17 @@ DESCRIPTION:Extras: Credit\, Free Food\, Free Stuff\nStatus: approved\n\nT
 LOCATION:Tech Green/Tech Walkway 
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sambazon Acai Bowl Samples at Wreck Stop
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220120T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220120T190000Z
+UID:http://hg.gatech.edu/node/654470#0
+DESCRIPTION:Intended audience: Undergraduate students\nExtras: Free food\n
+ Status: draft\n\nTry free samples of Sambazon Acai Bowls from noon\, Janua
+ ry 20 until supplies run out.\n\nLinks:\n[0]  http://hg.gatech.edu/node/65
+ 4470#0
+LOCATION:Wreck Stop at West Village Dining Hall
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Meet and Great
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220120T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220121T000000Z
