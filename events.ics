@@ -2,50 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Spring Opening Meeting for WST Lrn C 
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210118T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210118T233000Z
-UID:https://gatech.campuslabs.com/engage/event/6680370
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nWST Learning Community 
- dinner\, Monday\, January 18\, 2021. Residents can pick up boxed meals in 
- Stein at 5pm. Please bring questions and suggestions for spring term to th
- is virtual meeting. The Blue Jeans link is https://bluejeans.com/106761163
-  [1]\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6680370\n[
- 1]  https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fblue
- jeans.com%2F106761163%3Fsrc%3DcalendarLink&data=04%7C01%7Cshubhangi%40gate
- ch.edu%7C03ff4e95d1e24031ec5408d8bbc9c742%7C482198bbae7b4b258b7a6d7f32faa0
- 83%7C0%7C0%7C637465822676440697%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMD
- AiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=RC7vsoIh45ek
- VdptZNk7sWFGk0ekZ2UWWdsogOR0L1o%3D&reserved=0
-LOCATION:Online
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WST Learning Community spring opening meeting
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210118T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210118T233000Z
-UID:http://hg.gatech.edu/node/642633#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nWST Learning Community Dinner\nre
- sidents can pick up boxed dinners in Stein House at 5pm\nMonday\, Jan 18\,
-  2021\, 5:30pm: Spring Opening Meeting for WST Lrn C\nBlue Jeans Link http
- s://bluejeans.com/106761163 [1]\nInformal discussion about spring planning
-  for the WST Lrn C\n\nWST Learning Community fall 2021 - spring 2022 appli
- cation [2]\nApplication Due January 29\, 2021\, 5pm.\n\nGEMS\, WST Learnin
- g Community Service Project —Howard Middle School Girls Excelling in Mat
- h and Science (GEMS) Club. Online or in-person most Tuesdays\, August-May\
- , 4:15-5:45 pm. For information\, contact: marylynn.realff@mse.gatech.edu 
- [3] or monicamarks@gatech.edu [4]\n\nLinks:\n[0]  http://hg.gatech.edu/nod
- e/642633#0\n[1]  https://nam12.safelinks.protection.outlook.com/?url=https
- %3A%2F%2Fbluejeans.com%2F106761163&data=04%7C01%7Ccarol.colatrella%40lmc.g
- atech.edu%7C9284101ff784469ad67008d8a46ce430%7C482198bbae7b4b258b7a6d7f32f
- aa083%7C0%7C0%7C637440134909810272%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjA
- wMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=14hzOqyhz
- v%2B%2BJXwYo6dyDjn9vMClco%2BI2wu6HUryV5c%3D&reserved=0\n[2]  https://gatec
- h.campuslabs.com/engage/submitter/form/start/446266\n[3]  marylynn.realff@
- mse.gatech.edu\n[4]  monicamarks@gatech.edu
-LOCATION:Stein House\, Georgia Tech\, Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Food4Lives Service with CCF
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210126T183000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210126T203000Z
@@ -11755,6 +11711,19 @@ DESCRIPTION:Extras: Credit\, Free Food\nStatus: approved\n\nAs we honor Dr
 LOCATION:Exhibition Hall 
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Delta Sigma Phi Spring Rush 2022
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220118T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220118T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7732848
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFeel free to stop by ou
+ r house for free Chick-Fil-A on Rush Day 1! If you have any questions cont
+ act Rush Chair\, Tim Lee at (917) 502-7299 or Recruitment Director Jared W
+ itz at (404) 862-9444.\n\nCheck out our instagram:\n\nDelta Sigma Phi Inst
+ agram [1]\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/77328
+ 48\n[1]  https://instagram.com/gtdeltasig?utm_medium=copy_link
+LOCATION:165 4th Street NW
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jon's Office Hours
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220118T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220118T170000Z
@@ -11763,6 +11732,119 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatech.edu
  /node/654280#0
 LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alpha Sig Formal Rush Day 1
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220119T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220119T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7732630
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFirst day of formal rus
+ h in Spring 2022 for Alpha Sig\n\nLinks:\n[0]  https://gatech.campuslabs.c
+ om/engage/event/7732630
+LOCATION:Alpha Sigma Phi Fraternity
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ATO Formal Recruitment- 01/18/2022
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220119T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220119T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7734346
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAlpha Tau Omega will be
+  holding its Spring formal recruitment inside the Beta Iota house.\n\nLink
+ s:\n[0]  https://gatech.campuslabs.com/engage/event/7734346
+LOCATION:205 4th Street NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chi Phi Formal Rush Day 1
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220119T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220119T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7732593
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDay 1 of formal rush fo
+ r Chi Phi Spring 2022.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engag
+ e/event/7732593
+LOCATION:Chi Phi Fraternity House
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chi Psi Spring Rush 2022 - Day One
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220119T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220119T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7732649
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFirst day of Spring Rus
+ h\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7732649
+LOCATION:Chi Psi Lodge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Delta Sigma Phi Spring Rush 2022
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220119T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220119T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7732847
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFeel free to stop by ou
+ r house for free Chick-Fil-A on Rush Day 1! If you have any questions cont
+ act Rush Chair\, Tim Lee at (917) 502-7299 or Recruitment Director Jared W
+ itz at (404) 862-9444.\n\nCheck out our instagram:\n\nDelta Sigma Phi Inst
+ agram [1]\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/77328
+ 47\n[1]  https://instagram.com/gtdeltasig?utm_medium=copy_link
+LOCATION:Delta Sigma Phi Fraternity - Alpha Gamma Chapter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Delta Tau Delta Formal Recruitment 1/18 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220119T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220119T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7732842
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nChick-Fil-A Provided\n\
+ nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7732842
+LOCATION:Delta Tau Delta Fraternity
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Formal Rush
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220119T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220119T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7732834
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nPhi Sig Rush\n\nLinks:\
+ n[0]  https://gatech.campuslabs.com/engage/event/7732834
+LOCATION:Phi Sigma Kappa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phi Gamma Delta (FIJI) Rush Day 1
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220119T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220119T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7732855
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFraternity recruitment 
+ period for potential new members to come to the house and meet brothers.\n
+ \nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7732855
+LOCATION:Fiji House
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phi Kappa Psi Rush - Free Papa Johns Pizza!
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220119T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220119T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7734336
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nPhi Kappa Psi will be t
+ abling at the Culc Back Entrance. Come out\, get some free pizza and get t
+ o know the brothers!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/
+ event/7734336
+LOCATION:Culc Back Entrance
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phi Kappa Theta Formal Rush 1/18 - Luau Night ft. Hawaiian Burgers
+ 🍍
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220119T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220119T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7732640
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nPhi Kappa Theta Formal 
+ Rush 1/18 - Luau Night ft. Hawaiian Burgers 🍍\n\nLinks:\n[0]  https://g
+ atech.campuslabs.com/engage/event/7732640
+LOCATION:Phi Kappa Theta Fraternity
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theta Chi Fraternity Spring Rush Night 1
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220119T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220119T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7732660
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome out to Rush to mee
+ t our Brothers\, have some dinner\, and get a tour of our house!\n\nDinner
+  Tonight is Willy's Mexicana Grill!\n\n840 Techwood Drive NW\n\nLinks:\n[0
+ ]  https://gatech.campuslabs.com/engage/event/7732660
+LOCATION:Theta Chi Fraternity
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Information Session- Become a Member of AIESEC
@@ -11805,6 +11887,143 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\n- Play fun games and en
  ill be providing hand sanitizer.\n\nLinks:\n[0]  https://gatech.campuslabs
  .com/engage/event/7715977
 LOCATION:Kendeda 230
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alpha Sig Formal Rush Day 2
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220120T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220120T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7746257
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nSecond day of formal ru
+ sh in Spring 2022 for Alpha Sig\n\nLinks:\n[0]  https://gatech.campuslabs.
+ com/engage/event/7746257
+LOCATION:Alpha Sigma Phi Fraternity
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ATO Formal Recruitment- 01/19/2022
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220120T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220120T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7746064
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAlpha Tau Omega will be
+  hosting its Spring Formal Recruitment within the Beta Iota house. Dinner 
+ will be provided.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/eve
+ nt/7746064
+LOCATION:Alpha Tau Omega
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chi Phi Formal Rush Day 2
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220120T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220120T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7746258
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDay 2 of Chi Phi formal
+  rush Spring 2022.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/ev
+ ent/7746258
+LOCATION:Chi Phi Fraternity House
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chi Psi Spring Rush 2022 - Day Two
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220120T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220120T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7746250
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nSecond Day of Spring Ru
+ sh 2022\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7746250
+LOCATION:Chi Psi Lodge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Delta Sigma Phi Spring Rush 2022
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220120T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220120T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7746098
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFeel free to stop by ou
+ r house for free Chick-Fil-A on Rush Day 1! If you have any questions cont
+ act Rush Chair\, Tim Lee at (917) 502-7299 or Recruitment Director Jared W
+ itz at (404) 862-9444.\n\nCheck out our instagram:\n\nDelta Sigma Phi Inst
+ agram [1]\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/77460
+ 98\n[1]  https://instagram.com/gtdeltasig?utm_medium=copy_link
+LOCATION:Delta Sigma Phi Fraternity - Alpha Gamma Chapter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Formal Rush
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220120T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220120T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7732835
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nPhi Sig Rush\n\nLinks:\
+ n[0]  https://gatech.campuslabs.com/engage/event/7732835
+LOCATION:Phi Sigma Kappa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phi Gamma Delta (FIJI) Rush Night 2
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220120T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220120T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7749123
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThe second night of rec
+ ruitment where potential new members can come by the house and meet brothe
+ rs.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7749123
+LOCATION:Fiji House
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phi Kappa Psi Rush - Free Zaxby's Chicken!
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220120T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220120T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7746078
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nPhi Kappa Psi will be t
+ abling for Rush by the Culc Back Entrance on Wednesday\, January 19th. Com
+ e by\, chat with the brothers and get some free food!\n\nLinks:\n[0]  http
+ s://gatech.campuslabs.com/engage/event/7746078
+LOCATION:Culc Back Entrance
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phi Kappa Theta Formal Rush 1/19 - Catapult Night 🍉 + Wingnuts 
+ 🍗
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220120T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220120T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7752602
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nPhi Kappa Theta Formal 
+ Rush 1/19 - Catapult Night 🍉 + Wingnuts 🍗\n\nLinks:\n[0]  https://ga
+ tech.campuslabs.com/engage/event/7752602
+LOCATION:Phi Kappa Theta Fraternity (800 Fowler Street)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theta Chi Fraternity Spring Rush Night 2
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220120T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220120T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7746210
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome out to Rush to mee
+ t our Brothers\, have some dinner\, and get a tour of our house!\n\nDinner
+  Tonight is Hattie B's Hot Chicken!\n\n840 Techwood Drive NW\n\nLinks:\n[0
+ ]  https://gatech.campuslabs.com/engage/event/7746210
+LOCATION:Theta Chi Fraternity
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intro to Effective Altruism Talk
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220120T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220120T170000Z
+UID:https://gatech.campuslabs.com/engage/event/7743509
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFirst meeting of the se
+ mester for Effective Altruism at Georgia Tech! We'll have a presentation p
+ roviding an overview of effective altruism and our upcoming Effective Altr
+ uism Seminar program! Free food will be provided afterwards for us to eat 
+ together outdoors.\n\nEffective altruism is an ongoing research field that
+  aims to find the best ways to improve the world\, through the use of evid
+ ence and careful reasoning. It’s also a community of people who strive t
+ o take action on that basis\, and to do the most good we can. Here’s an 
+ article explaining this in much more detail: Introduction to Effective Alt
+ ruism [1]\n\nAt Effective Altruism at Georgia Tech [2]\, we try to apply t
+ he principles of effective altruism to help interested students have as bi
+ g of a social impact as they can with their lives\; whether that’s pursu
+ ing a social impact career that tackles a key pressing global problem\, or
+  through donating to highly effective charities. If this sounds interestin
+ g to you\, feel free to subscribe to our mailing list [3] and we'll keep y
+ ou in the loop.\n\nIf attending in-person\, we strongly encourage each att
+ endee to wear a face mask covering their nose and mouth while indoors. A f
+ ace mask will be provided if you do not have one. Please attend virtually 
+ if you have symptoms of COVID-19 such as fever or cough.\n\nLocation: Skil
+ es 154 or BlueJeans [4]\n\nLinks:\n[0]  https://gatech.campuslabs.com/enga
+ ge/event/7743509\n[1]  https://eagatech.us5.list-manage.com/track/click?u=
+ f18ae258bbc66427be00683c7&id=68bceb856f&e=94ae28d38b\n[2]  https://eagatec
+ h.us5.list-manage.com/track/click?u=f18ae258bbc66427be00683c7&id=0a712a9a1
+ 2&e=94ae28d38b\n[3]  http://eepurl.com/hHt6vr\n[4]  https://bluejeans.com/
+ 298878491/0553
+LOCATION:Skiles
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Winter Organizations Fair 
@@ -11851,6 +12070,17 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:D.M. Smith 207
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Freshmen Event: Make Your Own Pizza
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220120T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220121T003000Z
+UID:https://gatech.campuslabs.com/engage/event/7730957
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCalling all first years
+ ! Come join us for a fun night of personalized pizza making and board game
+ s. All supplies provided.\n\nLinks:\n[0]  https://gatech.campuslabs.com/en
+ gage/event/7730957
+LOCATION:Catholic Center Basement
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GT French Club Spring 2022 Intro Meeting
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220120T234500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220121T010000Z
@@ -11868,6 +12098,15 @@ DESCRIPTION:Extras: Credit\, Free Food\nStatus: approved\n\nIn our Intro M
 LOCATION:Skiles 368
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Formal Rush
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220121T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220121T010000Z
+UID:https://gatech.campuslabs.com/engage/event/7732836
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nPhi Sig Rush\n\nLinks:\
+ n[0]  https://gatech.campuslabs.com/engage/event/7732836
+LOCATION:Phi Sigma Kappa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Omega Phi Alpha Recruitment Info Session (Service Sorority)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220121T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220121T010000Z
@@ -11879,6 +12118,36 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nLearn more about Georgi
  . We've been serving the GT community since 1986!\n\nLinks:\n[0]  https://
  gatech.campuslabs.com/engage/event/7715673
 LOCATION:Kendeda 110
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Formal Rush
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220122T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220122T010000Z
+UID:https://gatech.campuslabs.com/engage/event/7732837
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nPhi Sig Rush\n\nLinks:\
+ n[0]  https://gatech.campuslabs.com/engage/event/7732837
+LOCATION:Phi Sigma Kappa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Community Garden Workday
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220122T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220122T170000Z
+UID:https://gatech.campuslabs.com/engage/event/7737304
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Saturday in 
+ the garden! We will be taking care of the beds by weeding\, turning compos
+ t\, and planting seeds. You must RSVP at the following links: click here [
+ 1] for the first hour or here [2] for the second hour. Masks are strongly 
+ encouraged for individuals that have not been vaccinated and hand sanitize
+ r will be provided. Please review garden health guidelines [3] before atte
+ nding.\n\nYou may want to bring a bag so you can take home produce and her
+ bs with you!\n\nThe Community Garden is located on the IC lawn adjacent to
+  the Exhibition Hall.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage
+ /event/7737304\n[1]  https://docs.google.com/forms/d/e/1FAIpQLScXZ_JduTcU_
+ 0lB97ZthQyey_WxGquoRxELHY74CObP0Ka8rg/viewform?usp=sf_link\n[2]  https://d
+ ocs.google.com/forms/d/e/1FAIpQLScNyVU9Qa-AA_wpunLb73YRtX5CD3nD4kPAckUzgMT
+ OliJZBA/viewform?usp=sf_link\n[3]  https://docs.google.com/document/d/1B19
+ bvV1N73QFvuwN3UnBfZ913ij5IXtbz5cb2DzmNkU/edit?usp=sharing
+LOCATION:GT Community Garden
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Psychology\, Philosophy\, and Science Lecture Series Event
@@ -11920,6 +12189,17 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  khDZHxJzZ6AFA\n[2]  https://gatech.campuslabs.com/engage/organization/amer
  ican-medical-student-association
 LOCATION:Campus Recreation Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pancake Breakfast
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220123T173000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220123T183000Z
+UID:https://gatech.campuslabs.com/engage/event/7730954
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for a free panc
+ ake breakfast immediately following the 11:30 AM Mass! Pancakes will be se
+ rved in the basement.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage
+ /event/7730954
+LOCATION:Catholic Center Basement
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WST Lrn C dinner with Tegra Myanna & Camilla Frost-Brewer
@@ -12169,6 +12449,17 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Community Dinner
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220130T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220131T000000Z
+UID:https://gatech.campuslabs.com/engage/event/7730948
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for a community
+  dinner immediately following the 5:00 PM Mass! Food will be served in the
+  basement of the Catholic Center.\n\nLinks:\n[0]  https://gatech.campuslab
+ s.com/engage/event/7730948
+LOCATION:Catholic Center Basement
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jon's Office Hours
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220201T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220201T170000Z
@@ -12177,6 +12468,27 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatech.edu
  /node/654280#2
 LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Community Garden Workday
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220205T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220205T170000Z
+UID:https://gatech.campuslabs.com/engage/event/7737305
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Saturday in 
+ the garden! We will be taking care of the beds by weeding\, turning compos
+ t\, and planting seeds. You must RSVP at the following links: click here [
+ 1] for the first hour or here [2] for the second hour. Masks are strongly 
+ encouraged for individuals that have not been vaccinated and hand sanitize
+ r will be provided. Please review garden health guidelines [3] before atte
+ nding.\n\nYou may want to bring a bag so you can take home produce and her
+ bs with you!\n\nThe Community Garden is located on the IC lawn adjacent to
+  the Exhibition Hall.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage
+ /event/7737305\n[1]  https://docs.google.com/forms/d/e/1FAIpQLScXZ_JduTcU_
+ 0lB97ZthQyey_WxGquoRxELHY74CObP0Ka8rg/viewform?usp=sf_link\n[2]  https://d
+ ocs.google.com/forms/d/e/1FAIpQLScNyVU9Qa-AA_wpunLb73YRtX5CD3nD4kPAckUzgMT
+ OliJZBA/viewform?usp=sf_link\n[3]  https://docs.google.com/document/d/1B19
+ bvV1N73QFvuwN3UnBfZ913ij5IXtbz5cb2DzmNkU/edit?usp=sharing
+LOCATION:GT Community Garden
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Accelerate Skills Conference 
@@ -12191,6 +12503,16 @@ DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nPRIVATE EV
  & SWAG WILL BE PROVIDED\n\nLinks:\n[0]  https://gatech.campuslabs.com/enga
  ge/event/7580687
 LOCATION:Exhibition Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sundae Night
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220207T030000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220207T040000Z
+UID:https://gatech.campuslabs.com/engage/event/7730943
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for free sundae
+ s following the 9pm Mass! Served in the basement\n\nLinks:\n[0]  https://g
+ atech.campuslabs.com/engage/event/7730943
+LOCATION:Catholic Center Basement
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WST Lrn C dinner: Kevin Buckins on Stress Management
@@ -12238,6 +12560,38 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Westminster Christian Fellowship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Community Garden Workday
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220219T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220219T170000Z
+UID:https://gatech.campuslabs.com/engage/event/7737306
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Saturday in 
+ the garden! We will be taking care of the beds by weeding\, turning compos
+ t\, and planting seeds. You must RSVP at the following links: click here [
+ 1] for the first hour or here [2] for the second hour. Masks are strongly 
+ encouraged for individuals that have not been vaccinated and hand sanitize
+ r will be provided. Please review garden health guidelines [3] before atte
+ nding.\n\nYou may want to bring a bag so you can take home produce and her
+ bs with you!\n\nThe Community Garden is located on the IC lawn adjacent to
+  the Exhibition Hall.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage
+ /event/7737306\n[1]  https://docs.google.com/forms/d/e/1FAIpQLScXZ_JduTcU_
+ 0lB97ZthQyey_WxGquoRxELHY74CObP0Ka8rg/viewform?usp=sf_link\n[2]  https://d
+ ocs.google.com/forms/d/e/1FAIpQLScNyVU9Qa-AA_wpunLb73YRtX5CD3nD4kPAckUzgMT
+ OliJZBA/viewform?usp=sf_link\n[3]  https://docs.google.com/document/d/1B19
+ bvV1N73QFvuwN3UnBfZ913ij5IXtbz5cb2DzmNkU/edit?usp=sharing
+LOCATION:GT Community Garden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pancake Breakfast
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220220T173000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220220T183000Z
+UID:https://gatech.campuslabs.com/engage/event/7730955
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for a free panc
+ ake breakfast immediately following the 11:30 AM Mass! Pancakes will be se
+ rved in the basement.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage
+ /event/7730955
+LOCATION:Catholic Center Basement
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jon's Office Hours
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220222T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220222T170000Z
@@ -12257,6 +12611,17 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  \nAbstract: TBA\n\nBio: TBA\n\nLinks:\n[0]  http://hg.gatech.edu/node/6541
  35#0\n[1]  https://research.gatech.edu/nano/nanotechseminars
 LOCATION:Pettit Microelectronics Building 102 A&B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Community Dinner
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220227T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220228T000000Z
+UID:https://gatech.campuslabs.com/engage/event/7730949
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for a community
+  dinner immediately following the 5:00 PM Mass! Food will be served in the
+  basement of the Catholic Center.\n\nLinks:\n[0]  https://gatech.campuslab
+ s.com/engage/event/7730949
+LOCATION:Catholic Center Basement
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WST Lrn C dinner with Dr. Mindy Millard-Stafford
@@ -12296,6 +12661,27 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Westminster Christian Fellowship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Community Garden Workday
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220305T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220305T160000Z
+UID:https://gatech.campuslabs.com/engage/event/7737307
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Saturday in 
+ the garden! We will be taking care of the beds by weeding\, turning compos
+ t\, and planting seeds. You must RSVP at the following links: click here [
+ 1] for the first hour or here [2] for the second hour. Masks are strongly 
+ encouraged for individuals that have not been vaccinated and hand sanitize
+ r will be provided. Please review garden health guidelines [3] before atte
+ nding.\n\nYou may want to bring a bag so you can take home produce and her
+ bs with you!\n\nThe Community Garden is located on the IC lawn adjacent to
+  the Exhibition Hall.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage
+ /event/7737307\n[1]  https://docs.google.com/forms/d/e/1FAIpQLScXZ_JduTcU_
+ 0lB97ZthQyey_WxGquoRxELHY74CObP0Ka8rg/viewform?usp=sf_link\n[2]  https://d
+ ocs.google.com/forms/d/e/1FAIpQLScNyVU9Qa-AA_wpunLb73YRtX5CD3nD4kPAckUzgMT
+ OliJZBA/viewform?usp=sf_link\n[3]  https://docs.google.com/document/d/1B19
+ bvV1N73QFvuwN3UnBfZ913ij5IXtbz5cb2DzmNkU/edit?usp=sharing
+LOCATION:GT Community Garden
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jon's Office Hours
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220308T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220308T170000Z
@@ -12325,6 +12711,16 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatech.edu
  /node/654285#0
 LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sundae Night
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220314T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220314T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7730944
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for free sundae
+ s following the 9pm Mass! Served in the basement\n\nLinks:\n[0]  https://g
+ atech.campuslabs.com/engage/event/7730944
+LOCATION:Catholic Center Basement
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WST Lrn C dinner with Dr. Mary Lynn Realff
@@ -12393,6 +12789,27 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Westminster Christian Fellowship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Community Garden Workday
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220319T130000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220319T150000Z
+UID:https://gatech.campuslabs.com/engage/event/7737308
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Saturday in 
+ the garden! We will be taking care of the beds by weeding\, turning compos
+ t\, and planting seeds. You must RSVP at the following links: click here [
+ 1] for the first hour or here [2] for the second hour. Masks are strongly 
+ encouraged for individuals that have not been vaccinated and hand sanitize
+ r will be provided. Please review garden health guidelines [3] before atte
+ nding.\n\nYou may want to bring a bag so you can take home produce and her
+ bs with you!\n\nThe Community Garden is located on the IC lawn adjacent to
+  the Exhibition Hall.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage
+ /event/7737308\n[1]  https://docs.google.com/forms/d/e/1FAIpQLScXZ_JduTcU_
+ 0lB97ZthQyey_WxGquoRxELHY74CObP0Ka8rg/viewform?usp=sf_link\n[2]  https://d
+ ocs.google.com/forms/d/e/1FAIpQLScNyVU9Qa-AA_wpunLb73YRtX5CD3nD4kPAckUzgMT
+ OliJZBA/viewform?usp=sf_link\n[3]  https://docs.google.com/document/d/1B19
+ bvV1N73QFvuwN3UnBfZ913ij5IXtbz5cb2DzmNkU/edit?usp=sharing
+LOCATION:GT Community Garden
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jon's Office Hours
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220329T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220329T160000Z
@@ -12424,6 +12841,38 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Westminster Christian Fellowship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Community Garden Workday
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220402T130000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220402T150000Z
+UID:https://gatech.campuslabs.com/engage/event/7737309
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Saturday in 
+ the garden! We will be taking care of the beds by weeding\, turning compos
+ t\, and planting seeds. You must RSVP at the following links: click here [
+ 1] for the first hour or here [2] for the second hour. Masks are strongly 
+ encouraged for individuals that have not been vaccinated and hand sanitize
+ r will be provided. Please review garden health guidelines [3] before atte
+ nding.\n\nYou may want to bring a bag so you can take home produce and her
+ bs with you!\n\nThe Community Garden is located on the IC lawn adjacent to
+  the Exhibition Hall.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage
+ /event/7737309\n[1]  https://docs.google.com/forms/d/e/1FAIpQLScXZ_JduTcU_
+ 0lB97ZthQyey_WxGquoRxELHY74CObP0Ka8rg/viewform?usp=sf_link\n[2]  https://d
+ ocs.google.com/forms/d/e/1FAIpQLScNyVU9Qa-AA_wpunLb73YRtX5CD3nD4kPAckUzgMT
+ OliJZBA/viewform?usp=sf_link\n[3]  https://docs.google.com/document/d/1B19
+ bvV1N73QFvuwN3UnBfZ913ij5IXtbz5cb2DzmNkU/edit?usp=sharing
+LOCATION:GT Community Garden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Community Dinner
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220403T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220403T230000Z
+UID:https://gatech.campuslabs.com/engage/event/7730950
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for a community
+  dinner immediately following the 5:00 PM Mass! Food will be served in the
+  basement of the Catholic Center.\n\nLinks:\n[0]  https://gatech.campuslab
+ s.com/engage/event/7730950
+LOCATION:Catholic Center Basement
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jon's Office Hours
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220405T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220405T160000Z
@@ -12442,6 +12891,17 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatech.edu
  /node/654285#3
 LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pancake Breakfast
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220410T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220410T173000Z
+UID:https://gatech.campuslabs.com/engage/event/7730956
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for a free panc
+ ake breakfast immediately following the 11:30 AM Mass! Pancakes will be se
+ rved in the basement.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage
+ /event/7730956
+LOCATION:Catholic Center Basement
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2022 Brumley D. Pritchett Lecture & the IMat Symposium on Material
@@ -12620,6 +13080,27 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Westminster Christian Fellowship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Community Garden Workday
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220416T130000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220416T150000Z
+UID:https://gatech.campuslabs.com/engage/event/7737310
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Saturday in 
+ the garden! We will be taking care of the beds by weeding\, turning compos
+ t\, and planting seeds. You must RSVP at the following links: click here [
+ 1] for the first hour or here [2] for the second hour. Masks are strongly 
+ encouraged for individuals that have not been vaccinated and hand sanitize
+ r will be provided. Please review garden health guidelines [3] before atte
+ nding.\n\nYou may want to bring a bag so you can take home produce and her
+ bs with you!\n\nThe Community Garden is located on the IC lawn adjacent to
+  the Exhibition Hall.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage
+ /event/7737310\n[1]  https://docs.google.com/forms/d/e/1FAIpQLScXZ_JduTcU_
+ 0lB97ZthQyey_WxGquoRxELHY74CObP0Ka8rg/viewform?usp=sf_link\n[2]  https://d
+ ocs.google.com/forms/d/e/1FAIpQLScNyVU9Qa-AA_wpunLb73YRtX5CD3nD4kPAckUzgMT
+ OliJZBA/viewform?usp=sf_link\n[3]  https://docs.google.com/document/d/1B19
+ bvV1N73QFvuwN3UnBfZ913ij5IXtbz5cb2DzmNkU/edit?usp=sharing
+LOCATION:GT Community Garden
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jon's Office Hours
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220419T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220419T160000Z
@@ -12638,6 +13119,16 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatech.edu
  /node/654285#5
 LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sundae Night
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220425T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220425T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7730945
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for free sundae
+ s following the 9pm Mass! Served in the basement\n\nLinks:\n[0]  https://g
+ atech.campuslabs.com/engage/event/7730945
+LOCATION:Catholic Center Basement
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nano@Tech Spring 2022 Series | Session 8
