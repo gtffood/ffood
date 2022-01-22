@@ -11540,6 +11540,23 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Catholic Student Organization
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Veggie Jackets Bring-Your-Own-Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220114T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220114T183000Z
+UID:http://hg.gatech.edu/node/654573#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nBring a lunch and join your fello
+ w Veggie Jackets to chat and eat every Friday from 11:30 - 1:30. Check our
+  GroupMe [1] and Instagram [2] for location details.\n\nGuests who are exp
+ eriencing symptoms of Covid-19 should not attend. We strongly encourage th
+ at you wear a mask when not eating (especially if indoors). We will be pro
+ viding hand sanitizer.\n\nLinks:\n[0]  http://hg.gatech.edu/node/654573#0\
+ n[1]  https://web.groupme.com/join_group/39228278/cEqwOYHa\n[2]  https://w
+ ww.instagram.com/gtveggiejackets/\n[3]  https://gatech.campuslabs.com/enga
+ ge/organization/veggie-jackets
+LOCATION:Check GroupMe
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tapping Circle for Stress and Calm - 2nd Fridays 3:00-3:30pm (Spri
  ng 2022)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220114T200000Z
@@ -11850,17 +11867,20 @@ BEGIN:VEVENT
 SUMMARY:Information Session- Become a Member of AIESEC
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220119T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220120T000000Z
-UID:https://gatech.campuslabs.com/engage/event/7715699
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAIESEC is the world's l
- argest youth-led organization. Focused on providing a platform for youth l
- eadership development\, AIESEC offers young people the opportunity to be g
- lobal citizens\, to change the world\, and to get experience and skills th
- at matter today through experiential learning\, volunteer experiences\, an
- d professional internships abroad!\n\nTo apply\, please fill out this appl
- ication by January 31st!\n\nhttps://www.aiesecus.org/join\n\nContact vptm-
- atlanta@aiesecus.org for any questions!\n\nCategories\n\nLinks:\n[0]  http
- s://gatech.campuslabs.com/engage/event/7715699
-LOCATION:Skiles 
+UID:http://hg.gatech.edu/node/654575#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nAIESEC is the world's largest you
+ th-led organization. Focused on providing a platform for youth leadership 
+ development\, AIESEC offers young people the opportunity to be global citi
+ zens\, to change the world\, and to get experience and skills that matter 
+ today through experiential learning\, volunteer experiences\, and professi
+ onal internships abroad!\n\nTo apply\, please fill out this application by
+  January 31st!\n\nhttps://www.aiesecus.org/join\n\nContact vptm-atlanta@ai
+ esecus.org for any questions!\n\nCategories\n\nLinks:\n[0]  http://hg.gate
+ ch.edu/node/654575#0\n[1]  https://gatech.campuslabs.com/engage/event/7715
+ 699\n[2]  https://gatech.campuslabs.com/engage/organization/AIESEC\n[3]  h
+ ttps://www.aiesecus.org/join
+LOCATION:Skiles Building
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Omega Phi Alpha Recruitment: Info Session
@@ -11994,36 +12014,52 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome out to Rush to mee
 LOCATION:Theta Chi Fraternity
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Veggie Jackets Spring Welcome Meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220120T003000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220120T010000Z
+UID:http://hg.gatech.edu/node/654572#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nPlay fun games and enjoy free veg
+ an cinnamon rolls provided by Cinnaholic Edgewood!\n\nGuests who are exper
+ iencing symptoms of Covid-19 should not attend. We strongly encourage that
+  you wear a mask when not eating (especially if indoors). We will be provi
+ ding hand sanitizer.\n\nLinks:\n[0]  http://hg.gatech.edu/node/654572#0\n[
+ 1]  https://gatech.campuslabs.com/engage/organization/veggie-jackets
+LOCATION:Classroom 230\, The Kendeda Building for Innovative Sustainable D
+ esign
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Intro to Effective Altruism Talk
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220120T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220120T170000Z
-UID:https://gatech.campuslabs.com/engage/event/7743509
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFirst meeting of the se
- mester for Effective Altruism at Georgia Tech! We'll have a presentation p
- roviding an overview of effective altruism and our upcoming Effective Altr
- uism Seminar program! Free food will be provided afterwards for us to eat 
- together outdoors.\n\nEffective altruism is an ongoing research field that
-  aims to find the best ways to improve the world\, through the use of evid
- ence and careful reasoning. It’s also a community of people who strive t
- o take action on that basis\, and to do the most good we can. Here’s an 
- article explaining this in much more detail: Introduction to Effective Alt
- ruism [1]\n\nAt Effective Altruism at Georgia Tech [2]\, we try to apply t
- he principles of effective altruism to help interested students have as bi
- g of a social impact as they can with their lives\; whether that’s pursu
- ing a social impact career that tackles a key pressing global problem\, or
-  through donating to highly effective charities. If this sounds interestin
- g to you\, feel free to subscribe to our mailing list [3] and we'll keep y
- ou in the loop.\n\nIf attending in-person\, we strongly encourage each att
- endee to wear a face mask covering their nose and mouth while indoors. A f
- ace mask will be provided if you do not have one. Please attend virtually 
- if you have symptoms of COVID-19 such as fever or cough.\n\nLocation: Skil
- es 154 or BlueJeans [4]\n\nLinks:\n[0]  https://gatech.campuslabs.com/enga
- ge/event/7743509\n[1]  https://eagatech.us5.list-manage.com/track/click?u=
- f18ae258bbc66427be00683c7&id=68bceb856f&e=94ae28d38b\n[2]  https://eagatec
- h.us5.list-manage.com/track/click?u=f18ae258bbc66427be00683c7&id=0a712a9a1
- 2&e=94ae28d38b\n[3]  http://eepurl.com/hHt6vr\n[4]  https://bluejeans.com/
- 298878491/0553
-LOCATION:Skiles
+UID:http://hg.gatech.edu/node/654581#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nFirst meeting of the semester for
+  Effective Altruism at Georgia Tech! We'll have a presentation providing a
+ n overview of effective altruism and our upcoming Effective Altruism Semin
+ ar program! Free food will be provided afterwards for us to eat together o
+ utdoors.\n\nEffective altruism is an ongoing research field that aims to f
+ ind the best ways to improve the world\, through the use of evidence and c
+ areful reasoning. It’s also a community of people who strive to take act
+ ion on that basis\, and to do the most good we can. Here’s an article ex
+ plaining this in much more detail: Introduction to Effective Altruism [2]\
+ n\nAt Effective Altruism at Georgia Tech [3]\, we try to apply the princip
+ les of effective altruism to help interested students have as big of a soc
+ ial impact as they can with their lives\; whether that’s pursuing a soci
+ al impact career that tackles a key pressing global problem\, or through d
+ onating to highly effective charities. If this sounds interesting to you\,
+  feel free to subscribe to our mailing list [4] and we'll keep you in the 
+ loop.\n\nIf attending in-person\, we strongly encourage each attendee to w
+ ear a face mask covering their nose and mouth while indoors. A face mask w
+ ill be provided if you do not have one. Please attend virtually if you hav
+ e symptoms of COVID-19 such as fever or cough.\n\nLocation: Skiles 154 or 
+ BlueJeans [5]\n\nLinks:\n[0]  http://hg.gatech.edu/node/654581#0\n[1]  htt
+ ps://gatech.campuslabs.com/engage/event/7743509\n[2]  https://eagatech.us5
+ .list-manage.com/track/click?u=f18ae258bbc66427be00683c7&id=68bceb856f&e=9
+ 4ae28d38b\n[3]  https://eagatech.us5.list-manage.com/track/click?u=f18ae25
+ 8bbc66427be00683c7&id=0a712a9a12&e=94ae28d38b\n[4]  http://eepurl.com/hHt6
+ vr\n[5]  https://bluejeans.com/298878491/0553\n[6]  http://eagatech.org
+LOCATION:Room 154\, Skiles Building\, and Online
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Winter Organizations Fair 
@@ -12073,28 +12109,32 @@ BEGIN:VEVENT
 SUMMARY:Freshmen Event: Make Your Own Pizza
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220120T233000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220121T003000Z
-UID:https://gatech.campuslabs.com/engage/event/7730957
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCalling all first years
- ! Come join us for a fun night of personalized pizza making and board game
- s. All supplies provided.\n\nLinks:\n[0]  https://gatech.campuslabs.com/en
- gage/event/7730957
-LOCATION:Catholic Center Basement
+UID:http://hg.gatech.edu/node/654558#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nCalling all first years! Come joi
+ n us for a fun night of personalized pizza making and board games. All sup
+ plies provided.\n\nLinks:\n[0]  http://hg.gatech.edu/node/654558#0\n[1]  h
+ ttps://gatech.campuslabs.com/engage/event/7730957\n[2]  https://gatech.cam
+ puslabs.com/engage/organization/cso
+LOCATION:Catholic Center Basement\, 172 4th St NW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GT French Club Spring 2022 Intro Meeting
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220120T234500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220121T010000Z
-UID:https://gatech.campuslabs.com/engage/event/7706972
-DESCRIPTION:Extras: Credit\, Free Food\nStatus: approved\n\nIn our Intro M
- eeting\, we will cover all the important information about our club\, our 
- leadership team\, and our meetings for the rest of the semester. Then\, we
- 'll have an activity planned to get everyone acquainted with each other (i
- n French\, of course). If this is your first time coming to a French club 
- Rendezvous\, you should expect that we will be speaking in French for most
-  of the meetings. That being said\, all levels of French speakers are welc
- ome- you will fit in whether you are here to meet Francophones or to pract
- ice your French conversation skills!\n\nAlso\, there will be free sweets!\
- n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7706972
+UID:http://hg.gatech.edu/node/654566#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Credit\, Free Food\nStatus: published\n\nIn our Intro Meeting\, w
+ e will cover all the important information about our club\, our leadership
+  team\, and our meetings for the rest of the semester. Then\, we'll have a
+ n activity planned to get everyone acquainted with each other (in French\,
+  of course). If this is your first time coming to a French club Rendezvous
+ \, you should expect that we will be speaking in French for most of the me
+ etings. That being said\, all levels of French speakers are welcome- you w
+ ill fit in whether you are here to meet Francophones or to practice your F
+ rench conversation skills!\n\nAlso\, there will be free sweets!\n\nLinks:\
+ n[0]  http://hg.gatech.edu/node/654566#0\n[1]  https://gatech.campuslabs.c
+ om/engage/event/7706972
 LOCATION:Skiles 368
 END:VEVENT
 BEGIN:VEVENT
@@ -12110,14 +12150,128 @@ BEGIN:VEVENT
 SUMMARY:Omega Phi Alpha Recruitment Info Session (Service Sorority)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220121T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220121T010000Z
-UID:https://gatech.campuslabs.com/engage/event/7715673
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nLearn more about Georgi
- a Tech's only service sorority as we kick off Spring 2022 informal recruit
- ment! We are an inclusive service sorority dedicated to developing friends
- hip\, leadership\, and cooperation through service projects and sisterhood
- . We've been serving the GT community since 1986!\n\nLinks:\n[0]  https://
- gatech.campuslabs.com/engage/event/7715673
-LOCATION:Kendeda 110
+UID:http://hg.gatech.edu/node/654576#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nLearn more about Georgia Tech's o
+ nly service sorority as we kick off Spring 2022 informal recruitment! We a
+ re an inclusive service sorority dedicated to developing friendship\, lead
+ ership\, and cooperation through service projects and sisterhood. We've be
+ en serving the GT community since 1986!\n\nLinks:\n[0]  http://hg.gatech.e
+ du/node/654576#0\n[1]  https://gatech.campuslabs.com/engage/event/7715673\
+ n[2]  https://gatech.campuslabs.com/engage/organization/omega-phi-alpha
+LOCATION:Room 110\, Kendeda Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ATO Formal Recruitment- 01/20/2022
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220121T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220121T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7760827
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAlpha Tau Omega will be
+  hosting its Spring Formal Recruitment within the Beta Iota house. Dinner 
+ will be provided.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/eve
+ nt/7760827
+LOCATION:Alpha Tau Omega
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chi Phi Formal Rush Day 3
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220121T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220121T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7755148
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDay 3 of Chi Phi formal
+  rush Spring 2022.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/ev
+ ent/7755148
+LOCATION:Chi Phi Fraternity House
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chi Psi Spring Rush 2022 - Day Three
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220121T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220121T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7755138
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThird Day of Rush Sprin
+ g 2022\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7755138
+LOCATION:Chi Psi Lodge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Delta Sigma Phi Spring Rush 2022
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220121T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220121T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7755049
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFeel free to stop by ou
+ r house for free Moe's Mexican Tacos on Rush Day 3! If you have any questi
+ ons contact Rush Chair\, Tim Lee at (917) 502-7299 or Recruitment Director
+  Jared Witz at (404) 862-9444.\n\nCheck out our instagram:\n\nDelta Sigma 
+ Phi Instagram [1]\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/eve
+ nt/7755049\n[1]  https://instagram.com/gtdeltasig?utm_medium=copy_link
+LOCATION:Delta Sigma Phi Fraternity - Alpha Gamma Chapter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Delta Tau Delta Formal Recruitment 1/20
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220121T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220121T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7755054
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nChick-Fil-A Provided\n\
+ nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7755054
+LOCATION:Delta Tau Delta Fraternity
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phi Gamma Delta (FIJI) Rush Day 3
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220121T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220121T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7761204
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAn opportunity for pote
+ ntial new members to come by the house and meet brothers.\n\nLinks:\n[0]  
+ https://gatech.campuslabs.com/engage/event/7761204
+LOCATION:Fiji House
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phi Kappa Psi Rush - Game Night at the House!
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220121T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220121T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7755039
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome join us for game n
+ ight at the house on Thursday January 20th! We'll have catering from Naan 
+ Stop. Come have a good time and get to know the brothers!\n\nLinks:\n[0]  
+ https://gatech.campuslabs.com/engage/event/7755039
+LOCATION:Phi Kappa Psi 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phi Kappa Theta Formal Rush 1/20 - Winter Wonderland Night ft. Piz
+ za/Salad/Smores/Hot Cocoa ❄️
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220121T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220121T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7755140
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nPhi Kappa Theta Formal 
+ Rush 1/20 - Winter Wonderland Night ft. Pizza/Salad/Smores/Hot Cocoa ❄
+ ️\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7755140
+LOCATION:Phi Kappa Theta Fraternity
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theta Chi Fraternity Spring Rush Night 3
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220121T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220121T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7755106
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome out to Rush to mee
+ t our Brothers\, have some dinner\, and get a tour of our house!\n\nDinner
+  Tonight is Chef Tina's Chicken Parmesan!\n\n840 Techwood Drive NW\n\nLink
+ s:\n[0]  https://gatech.campuslabs.com/engage/event/7755106
+LOCATION:Theta Chi Fraternity
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veggie Jackets Bring-Your-Own-Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220121T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220121T183000Z
+UID:http://hg.gatech.edu/node/654573#1
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nBring a lunch and join your fello
+ w Veggie Jackets to chat and eat every Friday from 11:30 - 1:30. Check our
+  GroupMe [1] and Instagram [2] for location details.\n\nGuests who are exp
+ eriencing symptoms of Covid-19 should not attend. We strongly encourage th
+ at you wear a mask when not eating (especially if indoors). We will be pro
+ viding hand sanitizer.\n\nLinks:\n[0]  http://hg.gatech.edu/node/654573#1\
+ n[1]  https://web.groupme.com/join_group/39228278/cEqwOYHa\n[2]  https://w
+ ww.instagram.com/gtveggiejackets/\n[3]  https://gatech.campuslabs.com/enga
+ ge/organization/veggie-jackets
+LOCATION:Check GroupMe
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Formal Rush
@@ -12129,25 +12283,123 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nPhi Sig Rush\n\nLinks:\
 LOCATION:Phi Sigma Kappa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Phi Gamma Delta (FIJI) Rush Day 4
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220122T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220122T020000Z
+UID:https://gatech.campuslabs.com/engage/event/7764577
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAn opportunity for pote
+ ntial new members to come by the house and meet brothers.\n\nLinks:\n[0]  
+ https://gatech.campuslabs.com/engage/event/7764577
+LOCATION:Fiji House
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alpha Sig Formal Rush Day 4
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220122T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220122T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7764495
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFourth and final day of
+  formal rush in Spring 2022 for Alpha Sig\n\nLinks:\n[0]  https://gatech.c
+ ampuslabs.com/engage/event/7764495
+LOCATION:Alpha Sigma Phi Fraternity
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ATO Formal Recruitment- 01/21/2022
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220122T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220122T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7764575
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAlpha Tau Omega will be
+  hosting its Spring Formal Recruitment within the Beta Iota house. Dinner 
+ will be provided.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/eve
+ nt/7764575
+LOCATION:Alpha Tau Omega
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chi Phi Formal Rush Day 4
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220122T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220122T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7764491
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDay 4 of Chi Phi formal
+  rush Spring 2022.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/ev
+ ent/7764491
+LOCATION:Chi Phi Fraternity House
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Delta Sigma Phi Spring Rush 2022
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220122T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220122T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7764556
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFeel free to stop by ou
+ r house for free Ray's Pizza on Rush Day 4! If you have any questions cont
+ act Rush Chair\, Tim Lee at (917) 502-7299 or Recruitment Director Jared W
+ itz at (404) 862-9444.\n\nCheck out our instagram:\n\nDelta Sigma Phi Inst
+ agram [1]\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/77645
+ 56\n[1]  https://instagram.com/gtdeltasig?utm_medium=copy_link
+LOCATION:Delta Sigma Phi Fraternity - Alpha Gamma Chapter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Delta Tau Delta Formal Recruitment 1/21
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220122T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220122T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7764553
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nWilly's Provided\n\nLin
+ ks:\n[0]  https://gatech.campuslabs.com/engage/event/7764553
+LOCATION:Delta Tau Delta Fraternity
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phi Kappa Psi Rush - Trivia Night at the House!
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220122T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220122T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7764557
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome join us for a grou
+ p trivia competition created by one of our very own brothers!\n\nThere'll 
+ be free food\, some prizes\, and more. Come by and show off your knowledge
+ !\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7764557
+LOCATION:Phi Kappa Psi 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phi Kappa Theta Formal Rush 1/21 - Sit-down Italian Dinner 🍝
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220122T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220122T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7764497
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nPhi Kappa Theta Formal 
+ Rush 1/21 - Sit-down Italian Dinner 🍝\n\nLinks:\n[0]  https://gatech.ca
+ mpuslabs.com/engage/event/7764497
+LOCATION:Phi Kappa Theta Fraternity
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theta Chi Fraternity Spring Rush Night 4
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220122T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220122T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7764504
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome out to Rush to mee
+ t our Brothers\, have some dinner\, and get a tour of our house!\n\nDinner
+  Tonight is Papi's Cuban Subs!\n\n840 Techwood Drive NW\n\nLinks:\n[0]  ht
+ tps://gatech.campuslabs.com/engage/event/7764504
+LOCATION:Theta Chi Fraternity
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Community Garden Workday
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220122T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220122T170000Z
-UID:https://gatech.campuslabs.com/engage/event/7737304
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Saturday in 
- the garden! We will be taking care of the beds by weeding\, turning compos
- t\, and planting seeds. You must RSVP at the following links: click here [
- 1] for the first hour or here [2] for the second hour. Masks are strongly 
- encouraged for individuals that have not been vaccinated and hand sanitize
- r will be provided. Please review garden health guidelines [3] before atte
- nding.\n\nYou may want to bring a bag so you can take home produce and her
- bs with you!\n\nThe Community Garden is located on the IC lawn adjacent to
-  the Exhibition Hall.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage
- /event/7737304\n[1]  https://docs.google.com/forms/d/e/1FAIpQLScXZ_JduTcU_
- 0lB97ZthQyey_WxGquoRxELHY74CObP0Ka8rg/viewform?usp=sf_link\n[2]  https://d
- ocs.google.com/forms/d/e/1FAIpQLScNyVU9Qa-AA_wpunLb73YRtX5CD3nD4kPAckUzgMT
- OliJZBA/viewform?usp=sf_link\n[3]  https://docs.google.com/document/d/1B19
- bvV1N73QFvuwN3UnBfZ913ij5IXtbz5cb2DzmNkU/edit?usp=sharing
-LOCATION:GT Community Garden
+UID:http://hg.gatech.edu/node/654519#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nExtras: Free Food\nStatus: published\n\nJoin us
+  on Saturday in the garden! We will be taking care of the beds by weeding\
+ , turning compost\, and planting seeds. You must RSVP at the following lin
+ ks: click here [2] for the first hour or here [3] for the second hour. Mas
+ ks are strongly encouraged for individuals that have not been vaccinated a
+ nd hand sanitizer will be provided. Please review garden health guidelines
+  [4] before attending.\n\nYou may want to bring a bag so you can take home
+  produce and herbs with you!\n\nThe Community Garden is located on the IC 
+ lawn adjacent to the Exhibition Hall.\n\nLinks:\n[0]  http://hg.gatech.edu
+ /node/654519#0\n[1]  https://gatech.campuslabs.com/engage/event/7737304\n[
+ 2]  https://docs.google.com/forms/d/e/1FAIpQLScXZ_JduTcU_0lB97ZthQyey_WxGq
+ uoRxELHY74CObP0Ka8rg/viewform?usp=sf_link\n[3]  https://docs.google.com/fo
+ rms/d/e/1FAIpQLScNyVU9Qa-AA_wpunLb73YRtX5CD3nD4kPAckUzgMTOliJZBA/viewform?
+ usp=sf_link\n[4]  https://docs.google.com/document/d/1B19bvV1N73QFvuwN3UnB
+ fZ913ij5IXtbz5cb2DzmNkU/edit?usp=sharing\n[5]  https://gatech.campuslabs.c
+ om/engage/organization/students-organizing-for-sustainability
+LOCATION:Community Garden\, Instructional Center Lawn\, 759 Ferst Drive NW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Psychology\, Philosophy\, and Science Lecture Series Event
@@ -12194,12 +12446,14 @@ BEGIN:VEVENT
 SUMMARY:Pancake Breakfast
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220123T173000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220123T183000Z
-UID:https://gatech.campuslabs.com/engage/event/7730954
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for a free panc
- ake breakfast immediately following the 11:30 AM Mass! Pancakes will be se
- rved in the basement.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage
- /event/7730954
-LOCATION:Catholic Center Basement
+UID:http://hg.gatech.edu/node/654536#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nJoin us for a free pancake breakf
+ ast immediately following the 11:30 AM Mass! Pancakes will be served in th
+ e basement.\n\nLinks:\n[0]  http://hg.gatech.edu/node/654536#0\n[1]  https
+ ://gatech.campuslabs.com/engage/event/7730954\n[2]  https://gatech.campusl
+ abs.com/engage/organization/cso
+LOCATION:Catholic Center Basement\, 172 4th St NW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WST Lrn C dinner with Tegra Myanna & Camilla Frost-Brewer
@@ -12398,6 +12652,39 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome meet the brothers
 LOCATION:Molecular Science and Engineering 2nd Floor Atrium
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Is the European Union Disunited by Diversity?
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220127T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220127T183000Z
+UID:http://hg.gatech.edu/node/654543#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nThe European Union appears to be at a crossroads\, struggling with its i
+ dentity. Outwardly\, a monolithic giant to be dealt with. Inwardly\, at wa
+ r with itself. Where is it going? Professor and Neal Family Chair\, Alasda
+ ir Young\, who is also among America's foremost experts on the European Un
+ ion will be our guest as we explore this important question: Is the Europe
+ an Union Disunited by Diversity?\n\nLinks:\n[0]  http://hg.gatech.edu/node
+ /654543#0\n[1]  https://atlantacir.org/event-4635485
+LOCATION:Capital City Club\, 7 John Portman Boulevard Atlanta\, GA 30303
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veggie Jackets Bring-Your-Own-Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220128T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220128T183000Z
+UID:http://hg.gatech.edu/node/654573#2
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nBring a lunch and join your fello
+ w Veggie Jackets to chat and eat every Friday from 11:30 - 1:30. Check our
+  GroupMe [1] and Instagram [2] for location details.\n\nGuests who are exp
+ eriencing symptoms of Covid-19 should not attend. We strongly encourage th
+ at you wear a mask when not eating (especially if indoors). We will be pro
+ viding hand sanitizer.\n\nLinks:\n[0]  http://hg.gatech.edu/node/654573#2\
+ n[1]  https://web.groupme.com/join_group/39228278/cEqwOYHa\n[2]  https://w
+ ww.instagram.com/gtveggiejackets/\n[3]  https://gatech.campuslabs.com/enga
+ ge/organization/veggie-jackets
+LOCATION:Check GroupMe
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Scheller Lunchtime Live: The Global Politics of Technology
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220128T170000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220128T173000Z
@@ -12452,12 +12739,14 @@ BEGIN:VEVENT
 SUMMARY:Community Dinner
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220130T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220131T000000Z
-UID:https://gatech.campuslabs.com/engage/event/7730948
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for a community
-  dinner immediately following the 5:00 PM Mass! Food will be served in the
-  basement of the Catholic Center.\n\nLinks:\n[0]  https://gatech.campuslab
- s.com/engage/event/7730948
-LOCATION:Catholic Center Basement
+UID:http://hg.gatech.edu/node/654533#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nJoin us for a community dinner im
+ mediately following the 5:00 PM Mass! Food will be served in the basement 
+ of the Catholic Center.\n\nLinks:\n[0]  http://hg.gatech.edu/node/654533#0
+ \n[1]  https://gatech.campuslabs.com/engage/event/7730948\n[2]  https://ga
+ tech.campuslabs.com/engage/organization/cso
+LOCATION:Catholic Center Basement\, 172 4th St NW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jon's Office Hours
@@ -12470,25 +12759,45 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Westminster Christian Fellowship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Veggie Jackets Bring-Your-Own-Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220204T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220204T183000Z
+UID:http://hg.gatech.edu/node/654573#3
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nBring a lunch and join your fello
+ w Veggie Jackets to chat and eat every Friday from 11:30 - 1:30. Check our
+  GroupMe [1] and Instagram [2] for location details.\n\nGuests who are exp
+ eriencing symptoms of Covid-19 should not attend. We strongly encourage th
+ at you wear a mask when not eating (especially if indoors). We will be pro
+ viding hand sanitizer.\n\nLinks:\n[0]  http://hg.gatech.edu/node/654573#3\
+ n[1]  https://web.groupme.com/join_group/39228278/cEqwOYHa\n[2]  https://w
+ ww.instagram.com/gtveggiejackets/\n[3]  https://gatech.campuslabs.com/enga
+ ge/organization/veggie-jackets
+LOCATION:Check GroupMe
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Community Garden Workday
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220205T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220205T170000Z
-UID:https://gatech.campuslabs.com/engage/event/7737305
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Saturday in 
- the garden! We will be taking care of the beds by weeding\, turning compos
- t\, and planting seeds. You must RSVP at the following links: click here [
- 1] for the first hour or here [2] for the second hour. Masks are strongly 
- encouraged for individuals that have not been vaccinated and hand sanitize
- r will be provided. Please review garden health guidelines [3] before atte
- nding.\n\nYou may want to bring a bag so you can take home produce and her
- bs with you!\n\nThe Community Garden is located on the IC lawn adjacent to
-  the Exhibition Hall.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage
- /event/7737305\n[1]  https://docs.google.com/forms/d/e/1FAIpQLScXZ_JduTcU_
- 0lB97ZthQyey_WxGquoRxELHY74CObP0Ka8rg/viewform?usp=sf_link\n[2]  https://d
- ocs.google.com/forms/d/e/1FAIpQLScNyVU9Qa-AA_wpunLb73YRtX5CD3nD4kPAckUzgMT
- OliJZBA/viewform?usp=sf_link\n[3]  https://docs.google.com/document/d/1B19
- bvV1N73QFvuwN3UnBfZ913ij5IXtbz5cb2DzmNkU/edit?usp=sharing
-LOCATION:GT Community Garden
+UID:http://hg.gatech.edu/node/654519#1
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nExtras: Free Food\nStatus: published\n\nJoin us
+  on Saturday in the garden! We will be taking care of the beds by weeding\
+ , turning compost\, and planting seeds. You must RSVP at the following lin
+ ks: click here [2] for the first hour or here [3] for the second hour. Mas
+ ks are strongly encouraged for individuals that have not been vaccinated a
+ nd hand sanitizer will be provided. Please review garden health guidelines
+  [4] before attending.\n\nYou may want to bring a bag so you can take home
+  produce and herbs with you!\n\nThe Community Garden is located on the IC 
+ lawn adjacent to the Exhibition Hall.\n\nLinks:\n[0]  http://hg.gatech.edu
+ /node/654519#1\n[1]  https://gatech.campuslabs.com/engage/event/7737305\n[
+ 2]  https://docs.google.com/forms/d/e/1FAIpQLScXZ_JduTcU_0lB97ZthQyey_WxGq
+ uoRxELHY74CObP0Ka8rg/viewform?usp=sf_link\n[3]  https://docs.google.com/fo
+ rms/d/e/1FAIpQLScNyVU9Qa-AA_wpunLb73YRtX5CD3nD4kPAckUzgMTOliJZBA/viewform?
+ usp=sf_link\n[4]  https://docs.google.com/document/d/1B19bvV1N73QFvuwN3UnB
+ fZ913ij5IXtbz5cb2DzmNkU/edit?usp=sharing\n[5]  https://gatech.campuslabs.c
+ om/engage/organization/students-organizing-for-sustainability
+LOCATION:Community Garden\, Instructional Center Lawn\, 759 Ferst Drive NW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Accelerate Skills Conference 
@@ -12508,11 +12817,13 @@ BEGIN:VEVENT
 SUMMARY:Sundae Night
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220207T030000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220207T040000Z
-UID:https://gatech.campuslabs.com/engage/event/7730943
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for free sundae
- s following the 9pm Mass! Served in the basement\n\nLinks:\n[0]  https://g
- atech.campuslabs.com/engage/event/7730943
-LOCATION:Catholic Center Basement
+UID:http://hg.gatech.edu/node/654530#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nJoin us for free sundaes followin
+ g the 9pm Mass! Served in the basement\n\nLinks:\n[0]  http://hg.gatech.ed
+ u/node/654530#0\n[1]  https://gatech.campuslabs.com/engage/event/7730943\n
+ [2]  https://gatech.campuslabs.com/engage/organization/cso
+LOCATION:Catholic Center Basement\, 172 4th St NW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WST Lrn C dinner: Kevin Buckins on Stress Management
@@ -12539,6 +12850,50 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Westminster Christian Fellowship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lunchtime Impact Talks: Chief Purpose Officer\, Deloitte
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220208T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220208T170000Z
+UID:http://hg.gatech.edu/node/654585#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nJoin us for Impac
+ t and try out our new lunchtime format. We continue to bring you meaningfu
+ l conversations with remarkable leaders in a more dynamic format.\n\nThis 
+ week we talk with Kwasi Mitchell\, Chief Purpose Officer at Deloitte.\n\nK
+ wasi serves as the Chief Purpose Officer of Deloitte. He is responsible fo
+ r driving a firm-wide strategy around Deloitte’s commitments to include 
+ but not limited to Diversity\, Equity and Inclusion\, Sustainability and C
+ limate Change\, and Education and Workforce Development. He is also respon
+ sible for engaging employees to live their Purpose daily\, supporting Delo
+ itte’s clients on their Purpose journey\, forming alliances with key par
+ tners to co-create solutions to address systemic societal issues\, and dri
+ ving internal policy and process changes to achieve the company’s Purpos
+ e aspirations. His team is also bringing focus to the lasting impact Deloi
+ tte works to bring to communities through Corporate Citizenship.\n\nHe for
+ merly served as the Diversity\, Equity and Inclusion leader and the Pro Bo
+ no and Social Impact lead for Deloitte’s +50\,000 person Consulting prac
+ tice. Currently\, he advises clients within both the Government and Commer
+ cial sectors and previously served as the Strategy Offering Leader for Del
+ oitte’s Government & Public Services (GPS) practice.\n\nKwasi earned a P
+ hD in inorganic chemistry\, sits on the board of several national and glob
+ al nonprofits\, and lives in Washington\, D.C. with his wife\, Kathleen. I
+ n his spare time\, you can find him at his favorite spin studio\, travelin
+ g\, or sharpening his piano skills.\n\nImpact is a weekly series of meanin
+ gful conversations\, free and open to all. The main goal of the series is 
+ to engage students\, faculty\, staff\, and the wider community on topics t
+ hat matter through conversations and presentations by leaders and entrepre
+ neurs from all sectors. For the 2021-2022 school year our focus remains on
+  social and racial justice\, inclusive leadership\, and diversity and equi
+ ty. Past talks are accessible on the Institute for Leadership and Social I
+ mpact's YouTube [1] page.\n\nRegister for the event here. [2]\n\nLinks:\n[
+ 0]  http://hg.gatech.edu/node/654585#0\n[1]  https://www.youtube.com/user/
+ GeorgiaTechILE\n[2]  https://www.scheller.gatech.edu/news-events/events/ev
+ ent.html?event_id=a0b1K00000otGIOQA2#above-the-form\n[3]  https://primetim
+ e.bluejeans.com/a2m/live-event/hwvjwgfu\n[4]  https://serve-learn-sustain.
+ gatech.edu/\n[5]  https://www.scheller.gatech.edu/centers-initiatives/ile/
+ index.html
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nano@Tech Spring 2022 Series | Session 3
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220208T170000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220208T180000Z
@@ -12548,6 +12903,23 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  \nAbstract: TBA\n\nBio: TBA\n\nLinks:\n[0]  http://hg.gatech.edu/node/6541
  34#0\n[1]  https://research.gatech.edu/nano/nanotechseminars
 LOCATION:Marcus Nanotechnology Building 1116-1118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veggie Jackets Bring-Your-Own-Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220211T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220211T183000Z
+UID:http://hg.gatech.edu/node/654573#4
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nBring a lunch and join your fello
+ w Veggie Jackets to chat and eat every Friday from 11:30 - 1:30. Check our
+  GroupMe [1] and Instagram [2] for location details.\n\nGuests who are exp
+ eriencing symptoms of Covid-19 should not attend. We strongly encourage th
+ at you wear a mask when not eating (especially if indoors). We will be pro
+ viding hand sanitizer.\n\nLinks:\n[0]  http://hg.gatech.edu/node/654573#4\
+ n[1]  https://web.groupme.com/join_group/39228278/cEqwOYHa\n[2]  https://w
+ ww.instagram.com/gtveggiejackets/\n[3]  https://gatech.campuslabs.com/enga
+ ge/organization/veggie-jackets
+LOCATION:Check GroupMe
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jon's Office Hours
@@ -12560,36 +12932,73 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Westminster Christian Fellowship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Veggie Jackets Bring-Your-Own-Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220218T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220218T183000Z
+UID:http://hg.gatech.edu/node/654573#5
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nBring a lunch and join your fello
+ w Veggie Jackets to chat and eat every Friday from 11:30 - 1:30. Check our
+  GroupMe [1] and Instagram [2] for location details.\n\nGuests who are exp
+ eriencing symptoms of Covid-19 should not attend. We strongly encourage th
+ at you wear a mask when not eating (especially if indoors). We will be pro
+ viding hand sanitizer.\n\nLinks:\n[0]  http://hg.gatech.edu/node/654573#5\
+ n[1]  https://web.groupme.com/join_group/39228278/cEqwOYHa\n[2]  https://w
+ ww.instagram.com/gtveggiejackets/\n[3]  https://gatech.campuslabs.com/enga
+ ge/organization/veggie-jackets
+LOCATION:Check GroupMe
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Community Garden Workday
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220219T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220219T170000Z
-UID:https://gatech.campuslabs.com/engage/event/7737306
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Saturday in 
- the garden! We will be taking care of the beds by weeding\, turning compos
- t\, and planting seeds. You must RSVP at the following links: click here [
- 1] for the first hour or here [2] for the second hour. Masks are strongly 
- encouraged for individuals that have not been vaccinated and hand sanitize
- r will be provided. Please review garden health guidelines [3] before atte
- nding.\n\nYou may want to bring a bag so you can take home produce and her
- bs with you!\n\nThe Community Garden is located on the IC lawn adjacent to
-  the Exhibition Hall.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage
- /event/7737306\n[1]  https://docs.google.com/forms/d/e/1FAIpQLScXZ_JduTcU_
- 0lB97ZthQyey_WxGquoRxELHY74CObP0Ka8rg/viewform?usp=sf_link\n[2]  https://d
- ocs.google.com/forms/d/e/1FAIpQLScNyVU9Qa-AA_wpunLb73YRtX5CD3nD4kPAckUzgMT
- OliJZBA/viewform?usp=sf_link\n[3]  https://docs.google.com/document/d/1B19
- bvV1N73QFvuwN3UnBfZ913ij5IXtbz5cb2DzmNkU/edit?usp=sharing
-LOCATION:GT Community Garden
+UID:http://hg.gatech.edu/node/654519#2
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nExtras: Free Food\nStatus: published\n\nJoin us
+  on Saturday in the garden! We will be taking care of the beds by weeding\
+ , turning compost\, and planting seeds. You must RSVP at the following lin
+ ks: click here [2] for the first hour or here [3] for the second hour. Mas
+ ks are strongly encouraged for individuals that have not been vaccinated a
+ nd hand sanitizer will be provided. Please review garden health guidelines
+  [4] before attending.\n\nYou may want to bring a bag so you can take home
+  produce and herbs with you!\n\nThe Community Garden is located on the IC 
+ lawn adjacent to the Exhibition Hall.\n\nLinks:\n[0]  http://hg.gatech.edu
+ /node/654519#2\n[1]  https://gatech.campuslabs.com/engage/event/7737306\n[
+ 2]  https://docs.google.com/forms/d/e/1FAIpQLScXZ_JduTcU_0lB97ZthQyey_WxGq
+ uoRxELHY74CObP0Ka8rg/viewform?usp=sf_link\n[3]  https://docs.google.com/fo
+ rms/d/e/1FAIpQLScNyVU9Qa-AA_wpunLb73YRtX5CD3nD4kPAckUzgMTOliJZBA/viewform?
+ usp=sf_link\n[4]  https://docs.google.com/document/d/1B19bvV1N73QFvuwN3UnB
+ fZ913ij5IXtbz5cb2DzmNkU/edit?usp=sharing\n[5]  https://gatech.campuslabs.c
+ om/engage/organization/students-organizing-for-sustainability
+LOCATION:Community Garden\, Instructional Center Lawn\, 759 Ferst Drive NW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pancake Breakfast
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220220T173000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220220T183000Z
-UID:https://gatech.campuslabs.com/engage/event/7730955
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for a free panc
- ake breakfast immediately following the 11:30 AM Mass! Pancakes will be se
- rved in the basement.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage
- /event/7730955
-LOCATION:Catholic Center Basement
+UID:http://hg.gatech.edu/node/654537#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nJoin us for a free pancake breakf
+ ast immediately following the 11:30 AM Mass! Pancakes will be served in th
+ e basement.\n\nLinks:\n[0]  http://hg.gatech.edu/node/654537#0\n[1]  https
+ ://gatech.campuslabs.com/engage/event/7730955\n[2]  https://gatech.campusl
+ abs.com/engage/organization/cso
+LOCATION:Catholic Center Basement\, 172 4th St NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Power of Two
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220222T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220222T210000Z
+UID:http://hg.gatech.edu/node/654518#0
+DESCRIPTION:Intended audience: Graduate students\, Postdoc\, Undergraduate
+  students\nExtras: Free food\nStatus: published\n\nThe College of Computin
+ g is celebrating the Power of Two in this special day-long event. The Powe
+ r of Two is fundamental to computing in two ways: as a reference to binary
+ \, and as a way to talk about the strength we have when we work together. 
+ There will be multiple student events (with food!) and two keynote speeche
+ s from prominent executives at major tech companies.\n\nLinks:\n[0]  http:
+ //hg.gatech.edu/node/654518#0
+LOCATION:College of Computing
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jon's Office Hours
@@ -12613,15 +13022,34 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Pettit Microelectronics Building 102 A&B
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Veggie Jackets Bring-Your-Own-Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220225T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220225T183000Z
+UID:http://hg.gatech.edu/node/654573#6
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nBring a lunch and join your fello
+ w Veggie Jackets to chat and eat every Friday from 11:30 - 1:30. Check our
+  GroupMe [1] and Instagram [2] for location details.\n\nGuests who are exp
+ eriencing symptoms of Covid-19 should not attend. We strongly encourage th
+ at you wear a mask when not eating (especially if indoors). We will be pro
+ viding hand sanitizer.\n\nLinks:\n[0]  http://hg.gatech.edu/node/654573#6\
+ n[1]  https://web.groupme.com/join_group/39228278/cEqwOYHa\n[2]  https://w
+ ww.instagram.com/gtveggiejackets/\n[3]  https://gatech.campuslabs.com/enga
+ ge/organization/veggie-jackets
+LOCATION:Check GroupMe
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Community Dinner
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220227T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220228T000000Z
-UID:https://gatech.campuslabs.com/engage/event/7730949
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for a community
-  dinner immediately following the 5:00 PM Mass! Food will be served in the
-  basement of the Catholic Center.\n\nLinks:\n[0]  https://gatech.campuslab
- s.com/engage/event/7730949
-LOCATION:Catholic Center Basement
+UID:http://hg.gatech.edu/node/654534#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nJoin us for a community dinner im
+ mediately following the 5:00 PM Mass! Food will be served in the basement 
+ of the Catholic Center.\n\nLinks:\n[0]  http://hg.gatech.edu/node/654534#0
+ \n[1]  https://gatech.campuslabs.com/engage/event/7730949\n[2]  https://ga
+ tech.campuslabs.com/engage/organization/cso
+LOCATION:Catholic Center Basement\, 172 4th St NW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WST Lrn C dinner with Dr. Mindy Millard-Stafford
@@ -12659,6 +13087,34 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatech.edu
  /node/654280#6
 LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WCF Free Dinner
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220301T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220302T011500Z
+UID:http://hg.gatech.edu/node/654285#7
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nCome join WCF for a free meal and
+  conversation! Dinner will start around 7:30 and be followed by a discussi
+ on or other activity!\n\nLinks:\n[0]  http://hg.gatech.edu/node/654285#7
+LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veggie Jackets Bring-Your-Own-Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220304T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220304T183000Z
+UID:http://hg.gatech.edu/node/654573#7
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nBring a lunch and join your fello
+ w Veggie Jackets to chat and eat every Friday from 11:30 - 1:30. Check our
+  GroupMe [1] and Instagram [2] for location details.\n\nGuests who are exp
+ eriencing symptoms of Covid-19 should not attend. We strongly encourage th
+ at you wear a mask when not eating (especially if indoors). We will be pro
+ viding hand sanitizer.\n\nLinks:\n[0]  http://hg.gatech.edu/node/654573#7\
+ n[1]  https://web.groupme.com/join_group/39228278/cEqwOYHa\n[2]  https://w
+ ww.instagram.com/gtveggiejackets/\n[3]  https://gatech.campuslabs.com/enga
+ ge/organization/veggie-jackets
+LOCATION:Check GroupMe
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Community Garden Workday
@@ -12713,14 +13169,44 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Westminster Christian Fellowship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:WCF Free Dinner
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220308T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220309T011500Z
+UID:http://hg.gatech.edu/node/654285#8
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nCome join WCF for a free meal and
+  conversation! Dinner will start around 7:30 and be followed by a discussi
+ on or other activity!\n\nLinks:\n[0]  http://hg.gatech.edu/node/654285#8
+LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veggie Jackets Bring-Your-Own-Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220311T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220311T183000Z
+UID:http://hg.gatech.edu/node/654573#8
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nBring a lunch and join your fello
+ w Veggie Jackets to chat and eat every Friday from 11:30 - 1:30. Check our
+  GroupMe [1] and Instagram [2] for location details.\n\nGuests who are exp
+ eriencing symptoms of Covid-19 should not attend. We strongly encourage th
+ at you wear a mask when not eating (especially if indoors). We will be pro
+ viding hand sanitizer.\n\nLinks:\n[0]  http://hg.gatech.edu/node/654573#8\
+ n[1]  https://web.groupme.com/join_group/39228278/cEqwOYHa\n[2]  https://w
+ ww.instagram.com/gtveggiejackets/\n[3]  https://gatech.campuslabs.com/enga
+ ge/organization/veggie-jackets
+LOCATION:Check GroupMe
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sundae Night
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220314T020000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220314T030000Z
-UID:https://gatech.campuslabs.com/engage/event/7730944
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for free sundae
- s following the 9pm Mass! Served in the basement\n\nLinks:\n[0]  https://g
- atech.campuslabs.com/engage/event/7730944
-LOCATION:Catholic Center Basement
+UID:http://hg.gatech.edu/node/654531#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nJoin us for free sundaes followin
+ g the 9pm Mass! Served in the basement\n\nLinks:\n[0]  http://hg.gatech.ed
+ u/node/654531#0\n[1]  https://gatech.campuslabs.com/engage/event/7730944\n
+ [2]  https://gatech.campuslabs.com/engage/organization/cso
+LOCATION:Catholic Center Basement\, 172 4th St NW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WST Lrn C dinner with Dr. Mary Lynn Realff
@@ -12789,6 +13275,94 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Westminster Christian Fellowship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:WCF Free Dinner
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220315T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220316T001500Z
+UID:http://hg.gatech.edu/node/654285#9
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nCome join WCF for a free meal and
+  conversation! Dinner will start around 7:30 and be followed by a discussi
+ on or other activity!\n\nLinks:\n[0]  http://hg.gatech.edu/node/654285#9
+LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Impact Talks: 'Level Up'
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220317T151500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220317T161500Z
+UID:http://hg.gatech.edu/node/654587#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nJoin us for Impact and try out our new lunchtime format. We continue to 
+ bring you meaningful conversations with remarkable leaders in a more dynam
+ ic format. And did we mention lunch is included?\n\nThis week ILSI's Chuck
+  Easley will talk with Lara O'Connor Hodgson\, President\, and CEO of NowA
+ ccount about the recent book she co-authored with Stacey Abrams\, Level Up
+ : Rise Above the Hidden Forces Holding Your Business Back.\n\nGT alumna (A
+ E) Lara O’Connor Hodgson\, President and CEO of Now\, serves as an Entre
+ preneur in Residence at Harvard Business School and is an internationally 
+ recognized speaker\, leading seminars on creativity\, innovation and acces
+ s to capital.\n\nPrior to Now\, Lara co-founded Nourish (the manufacturing
+  company)\, and Insomnia\, LLC\, a firm specializing in investment\, devel
+ opment\, and management of complex and innovative “world-changing” pro
+ jects. Her background also includes 5 years with Dewberry Capital Corporat
+ ion\, an Atlanta-based commercial real estate development and investment f
+ irm\, where she served as the company’s Chief Marketing Officer and Chie
+ f Operating Officer.\n\nHer product experience includes Dunk\, a performan
+ ce footwear and apparel manufacturing/retail company built on the concept 
+ of mass customization and founded with Shaquille O’Neal & Mike Piazza\, 
+ where she served as Executive Vice President.\n\nLara received an MBA from
+  the Harvard Business School\, and a BS in Aerospace Engineering with high
+ est honors from the Georgia Institute of Technology. Today\, she serves as
+  a Trustee of the Georgia Tech Foundation in addition to other Boards. E&Y
+  recognized Lara as a 2018 Finalist for the Southeast Entrepreneur of the 
+ Year.\n\nChuck Easley is no stranger to Georgia Tech. A former Rhodes Scho
+ lar State Finalist\, two-times Academic All-ACC\, and three-time Letterman
+  in Football\, he has been named to the Top Ten Outstanding Young Atlantan
+ s\, and was recognized for his service with awards like the Camp Fire Embe
+ r Award\, Georgia Tech Outstanding Young Alumni\, and Georgia Tech Total P
+ erson-Former Student Athlete of the Year. Chuck has extensive experience i
+ n strategy execution of supply chain optimization and design\, business tr
+ ansformation\, operations improvement\, process improvement\, and executiv
+ e coaching. After many years in various corporate roles\, he started and l
+ eads his own firm\, EPIC Performance Group LLC.\n\nChuck holds a BS in Ind
+ ustrial Management and a minor in Industrial/Organizational Psychology fro
+ m Georgia Tech graduating cum laude. He is a member of various academic ho
+ nor societies including Gamma Beta Phi\, Omicron Delta Kappa\, Beta Gamma 
+ Sigma\, and the ANAK Society\, Georgia Tech’s highest honor.\n\nPlease j
+ oin us for a lunch reception after the talk. The first twenty to register 
+ and attend in-person will receive a copy of the book.\n\nImpact is a weekl
+ y series of meaningful conversations\, free and open to all. The main goal
+  of the series is to engage students\, faculty\, staff\, and the wider com
+ munity on topics that matter through conversations and presentations by le
+ aders and entrepreneurs from all sectors. For the 2021-2022 school year ou
+ r focus remains on social and racial justice\, inclusive leadership\, and 
+ diversity and equity. Past talks are accessible on the Institute for Leade
+ rship and Social Impact's YouTube [1] page.\n\nRegister for the event here
+ . [2]\n\nLinks:\n[0]  http://hg.gatech.edu/node/654587#0\n[1]  https://www
+ .youtube.com/user/GeorgiaTechILE\n[2]  https://www.scheller.gatech.edu/new
+ s-events/events/event.html?event_id=a0b1K00000otGJCQA2\n[3]  https://prime
+ time.bluejeans.com/a2m/live-event/ywdwdrsd\n[4]  https://www.scheller.gate
+ ch.edu/centers-initiatives/ile/index.html
+LOCATION:Scheller College of Business\, Room 200
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veggie Jackets Bring-Your-Own-Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220318T153000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220318T173000Z
+UID:http://hg.gatech.edu/node/654573#9
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nBring a lunch and join your fello
+ w Veggie Jackets to chat and eat every Friday from 11:30 - 1:30. Check our
+  GroupMe [1] and Instagram [2] for location details.\n\nGuests who are exp
+ eriencing symptoms of Covid-19 should not attend. We strongly encourage th
+ at you wear a mask when not eating (especially if indoors). We will be pro
+ viding hand sanitizer.\n\nLinks:\n[0]  http://hg.gatech.edu/node/654573#9\
+ n[1]  https://web.groupme.com/join_group/39228278/cEqwOYHa\n[2]  https://w
+ ww.instagram.com/gtveggiejackets/\n[3]  https://gatech.campuslabs.com/enga
+ ge/organization/veggie-jackets
+LOCATION:Check GroupMe
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Community Garden Workday
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220319T130000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220319T150000Z
@@ -12808,6 +13382,23 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Saturday in
  OliJZBA/viewform?usp=sf_link\n[3]  https://docs.google.com/document/d/1B19
  bvV1N73QFvuwN3UnBfZ913ij5IXtbz5cb2DzmNkU/edit?usp=sharing
 LOCATION:GT Community Garden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veggie Jackets Bring-Your-Own-Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220325T153000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220325T173000Z
+UID:http://hg.gatech.edu/node/654573#10
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nBring a lunch and join your fello
+ w Veggie Jackets to chat and eat every Friday from 11:30 - 1:30. Check our
+  GroupMe [1] and Instagram [2] for location details.\n\nGuests who are exp
+ eriencing symptoms of Covid-19 should not attend. We strongly encourage th
+ at you wear a mask when not eating (especially if indoors). We will be pro
+ viding hand sanitizer.\n\nLinks:\n[0]  http://hg.gatech.edu/node/654573#10
+ \n[1]  https://web.groupme.com/join_group/39228278/cEqwOYHa\n[2]  https://
+ www.instagram.com/gtveggiejackets/\n[3]  https://gatech.campuslabs.com/eng
+ age/organization/veggie-jackets
+LOCATION:Check GroupMe
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jon's Office Hours
@@ -12841,6 +13432,34 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Westminster Christian Fellowship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:WCF Free Dinner
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220329T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220330T001500Z
+UID:http://hg.gatech.edu/node/654285#10
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nCome join WCF for a free meal and
+  conversation! Dinner will start around 7:30 and be followed by a discussi
+ on or other activity!\n\nLinks:\n[0]  http://hg.gatech.edu/node/654285#10
+LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veggie Jackets Bring-Your-Own-Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220401T153000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220401T173000Z
+UID:http://hg.gatech.edu/node/654573#11
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nBring a lunch and join your fello
+ w Veggie Jackets to chat and eat every Friday from 11:30 - 1:30. Check our
+  GroupMe [1] and Instagram [2] for location details.\n\nGuests who are exp
+ eriencing symptoms of Covid-19 should not attend. We strongly encourage th
+ at you wear a mask when not eating (especially if indoors). We will be pro
+ viding hand sanitizer.\n\nLinks:\n[0]  http://hg.gatech.edu/node/654573#11
+ \n[1]  https://web.groupme.com/join_group/39228278/cEqwOYHa\n[2]  https://
+ www.instagram.com/gtveggiejackets/\n[3]  https://gatech.campuslabs.com/eng
+ age/organization/veggie-jackets
+LOCATION:Check GroupMe
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Community Garden Workday
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220402T130000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220402T150000Z
@@ -12865,12 +13484,14 @@ BEGIN:VEVENT
 SUMMARY:Community Dinner
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220403T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220403T230000Z
-UID:https://gatech.campuslabs.com/engage/event/7730950
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for a community
-  dinner immediately following the 5:00 PM Mass! Food will be served in the
-  basement of the Catholic Center.\n\nLinks:\n[0]  https://gatech.campuslab
- s.com/engage/event/7730950
-LOCATION:Catholic Center Basement
+UID:http://hg.gatech.edu/node/654535#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nJoin us for a community dinner im
+ mediately following the 5:00 PM Mass! Food will be served in the basement 
+ of the Catholic Center.\n\nLinks:\n[0]  http://hg.gatech.edu/node/654535#0
+ \n[1]  https://gatech.campuslabs.com/engage/event/7730950\n[2]  https://ga
+ tech.campuslabs.com/engage/organization/cso
+LOCATION:Catholic Center Basement\, 172 4th St NW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jon's Office Hours
@@ -12883,6 +13504,52 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Westminster Christian Fellowship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lunchtime Impact Talks with Joey Womack\, Goodie Nation
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220405T151500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220405T161500Z
+UID:http://hg.gatech.edu/node/654589#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nJoin us for Impact and try out our new lunchtime format. We continue to 
+ bring you meaningful conversations with remarkable leaders in a more dynam
+ ic format. And did we mention lunch is included?\n\nThis week we talk with
+  Joey Womack\, Founder and CEO\, Goodie Nation.\n\nJoey Womack\, the found
+ er of Goodie Nation\, is a part entrepreneur coach and part super-connecto
+ r. Since starting Goodie Nation in 2014\, Womack is on track to impact a f
+ ew million people by working with the likes of CARE USA\, Google\, NetHope
+ \, Hartsfield-Jackson Atlanta International Airport\, Ford Motor Company\,
+  Coca-Cola\, UNCF\, Coca-Cola Scholars Foundation\, Village Capital\, and 
+ the White House HBCU Initiative.\n\nGoodie Nation is a tech nonprofit that
+  accelerates relationships to influencers\, large companies\, and investor
+ s/funders for the next generation of promising diverse founders and social
+  entrepreneurs. Joey is also the Founder of Amplify 4 Good\, a mission-dri
+ ven agency that uses rapid problem-solving to help large companies\, nonpr
+ ofits\, and government agencies create social impact\, and Co-Founder of A
+ tlanta Black Tech.\n\nIn 2012\, Womack was bitten by the entrepreneurial b
+ ug when he launched [1] as a graduate student at Florida A&M University. T
+ he site grew to 80\,000 subscribers/users\, and advertised thousands of ev
+ ents for Fortune 500 companies\, agencies\, and high-profile promoters dur
+ ing special events weekends like NBA All-Star\, Super Bowl\, and Essence M
+ usic Festival. He also used innovative digital marketing strategies to exe
+ cute events in the Southeast for brands such as Crown Royal\, Ciroc\, Smir
+ noff\, Coors Light\, Warner Bros.\, and Hennessy.\n\nPlease join us for a 
+ lunch reception after the talk.\n\nImpact is a weekly series of meaningful
+  conversations\, free and open to all. The main goal of the series is to e
+ ngage students\, faculty\, staff\, and the wider community on topics that 
+ matter through conversations and presentations by leaders and entrepreneur
+ s from all sectors. For the 2021-2022 school year our focus remains on soc
+ ial and racial justice\, inclusive leadership\, and diversity and equity. 
+ Past talks are accessible on the Institute for Leadership and Social Impac
+ t's YouTube [2] page.\n\nRegister for the event here. [3]\n\nLinks:\n[0]  
+ http://hg.gatech.edu/node/654589#0\n[1]  http://digitalguestlist.com\n[2] 
+  https://www.youtube.com/user/GeorgiaTechILE\n[3]  https://www.scheller.ga
+ tech.edu/news-events/events/event.html?event_id=a0b1K00000otGJWQA2\n[4]  h
+ ttps://primetime.bluejeans.com/a2m/live-event/bphrtutt\n[5]  https://serve
+ -learn-sustain.gatech.edu/\n[6]  https://www.scheller.gatech.edu/centers-i
+ nitiatives/ile/index.html
+LOCATION:Scheller College of Business\, Room 200
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WCF Free Dinner
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220405T220300Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220406T001500Z
@@ -12893,15 +13560,45 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Westminster Christian Fellowship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:WCF Free Dinner
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220405T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220406T001500Z
+UID:http://hg.gatech.edu/node/654285#11
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nCome join WCF for a free meal and
+  conversation! Dinner will start around 7:30 and be followed by a discussi
+ on or other activity!\n\nLinks:\n[0]  http://hg.gatech.edu/node/654285#11
+LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veggie Jackets Bring-Your-Own-Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220408T153000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220408T173000Z
+UID:http://hg.gatech.edu/node/654573#12
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nBring a lunch and join your fello
+ w Veggie Jackets to chat and eat every Friday from 11:30 - 1:30. Check our
+  GroupMe [1] and Instagram [2] for location details.\n\nGuests who are exp
+ eriencing symptoms of Covid-19 should not attend. We strongly encourage th
+ at you wear a mask when not eating (especially if indoors). We will be pro
+ viding hand sanitizer.\n\nLinks:\n[0]  http://hg.gatech.edu/node/654573#12
+ \n[1]  https://web.groupme.com/join_group/39228278/cEqwOYHa\n[2]  https://
+ www.instagram.com/gtveggiejackets/\n[3]  https://gatech.campuslabs.com/eng
+ age/organization/veggie-jackets
+LOCATION:Check GroupMe
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pancake Breakfast
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220410T163000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220410T173000Z
-UID:https://gatech.campuslabs.com/engage/event/7730956
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for a free panc
- ake breakfast immediately following the 11:30 AM Mass! Pancakes will be se
- rved in the basement.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage
- /event/7730956
-LOCATION:Catholic Center Basement
+UID:http://hg.gatech.edu/node/654538#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nJoin us for a free pancake breakf
+ ast immediately following the 11:30 AM Mass! Pancakes will be served in th
+ e basement.\n\nLinks:\n[0]  http://hg.gatech.edu/node/654538#0\n[1]  https
+ ://gatech.campuslabs.com/engage/event/7730956\n[2]  https://gatech.campusl
+ abs.com/engage/organization/cso
+LOCATION:Catholic Center Basement\, 172 4th St NW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2022 Brumley D. Pritchett Lecture & the IMat Symposium on Material
@@ -13080,6 +13777,34 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Westminster Christian Fellowship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:WCF Free Dinner
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220412T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220413T001500Z
+UID:http://hg.gatech.edu/node/654285#12
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nCome join WCF for a free meal and
+  conversation! Dinner will start around 7:30 and be followed by a discussi
+ on or other activity!\n\nLinks:\n[0]  http://hg.gatech.edu/node/654285#12
+LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veggie Jackets Bring-Your-Own-Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220415T153000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220415T173000Z
+UID:http://hg.gatech.edu/node/654573#13
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nBring a lunch and join your fello
+ w Veggie Jackets to chat and eat every Friday from 11:30 - 1:30. Check our
+  GroupMe [1] and Instagram [2] for location details.\n\nGuests who are exp
+ eriencing symptoms of Covid-19 should not attend. We strongly encourage th
+ at you wear a mask when not eating (especially if indoors). We will be pro
+ viding hand sanitizer.\n\nLinks:\n[0]  http://hg.gatech.edu/node/654573#13
+ \n[1]  https://web.groupme.com/join_group/39228278/cEqwOYHa\n[2]  https://
+ www.instagram.com/gtveggiejackets/\n[3]  https://gatech.campuslabs.com/eng
+ age/organization/veggie-jackets
+LOCATION:Check GroupMe
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Community Garden Workday
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220416T130000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220416T150000Z
@@ -13121,14 +13846,44 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Westminster Christian Fellowship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:WCF Free Dinner
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220419T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220420T001500Z
+UID:http://hg.gatech.edu/node/654285#13
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nCome join WCF for a free meal and
+  conversation! Dinner will start around 7:30 and be followed by a discussi
+ on or other activity!\n\nLinks:\n[0]  http://hg.gatech.edu/node/654285#13
+LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veggie Jackets Bring-Your-Own-Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220422T153000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220422T173000Z
+UID:http://hg.gatech.edu/node/654573#14
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nBring a lunch and join your fello
+ w Veggie Jackets to chat and eat every Friday from 11:30 - 1:30. Check our
+  GroupMe [1] and Instagram [2] for location details.\n\nGuests who are exp
+ eriencing symptoms of Covid-19 should not attend. We strongly encourage th
+ at you wear a mask when not eating (especially if indoors). We will be pro
+ viding hand sanitizer.\n\nLinks:\n[0]  http://hg.gatech.edu/node/654573#14
+ \n[1]  https://web.groupme.com/join_group/39228278/cEqwOYHa\n[2]  https://
+ www.instagram.com/gtveggiejackets/\n[3]  https://gatech.campuslabs.com/eng
+ age/organization/veggie-jackets
+LOCATION:Check GroupMe
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sundae Night
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220425T020000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220425T030000Z
-UID:https://gatech.campuslabs.com/engage/event/7730945
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for free sundae
- s following the 9pm Mass! Served in the basement\n\nLinks:\n[0]  https://g
- atech.campuslabs.com/engage/event/7730945
-LOCATION:Catholic Center Basement
+UID:http://hg.gatech.edu/node/654532#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nJoin us for free sundaes followin
+ g the 9pm Mass! Served in the basement\n\nLinks:\n[0]  http://hg.gatech.ed
+ u/node/654532#0\n[1]  https://gatech.campuslabs.com/engage/event/7730945\n
+ [2]  https://gatech.campuslabs.com/engage/organization/cso
+LOCATION:Catholic Center Basement\, 172 4th St NW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nano@Tech Spring 2022 Series | Session 8
@@ -13150,5 +13905,33 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatech.edu
  /node/654285#6
 LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WCF Free Dinner
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220426T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220427T001500Z
+UID:http://hg.gatech.edu/node/654285#14
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nCome join WCF for a free meal and
+  conversation! Dinner will start around 7:30 and be followed by a discussi
+ on or other activity!\n\nLinks:\n[0]  http://hg.gatech.edu/node/654285#14
+LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veggie Jackets Bring-Your-Own-Lunch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220429T153000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220429T173000Z
+UID:http://hg.gatech.edu/node/654573#15
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nBring a lunch and join your fello
+ w Veggie Jackets to chat and eat every Friday from 11:30 - 1:30. Check our
+  GroupMe [1] and Instagram [2] for location details.\n\nGuests who are exp
+ eriencing symptoms of Covid-19 should not attend. We strongly encourage th
+ at you wear a mask when not eating (especially if indoors). We will be pro
+ viding hand sanitizer.\n\nLinks:\n[0]  http://hg.gatech.edu/node/654573#15
+ \n[1]  https://web.groupme.com/join_group/39228278/cEqwOYHa\n[2]  https://
+ www.instagram.com/gtveggiejackets/\n[3]  https://gatech.campuslabs.com/eng
+ age/organization/veggie-jackets
+LOCATION:Check GroupMe
 END:VEVENT
 END:VCALENDAR
