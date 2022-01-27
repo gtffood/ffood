@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Food4Lives Service with CCF
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210126T183000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210126T203000Z
-UID:http://hg.gatech.edu/node/643371#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nServing with a local organization\, Food4Lives\, to 
- prepare\, pack\, and distribute food to our friends on the streets of Atla
- nta.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643371#0\n[1]  http://www.g
- tccf.org/compassion/
-LOCATION:CCF\, 767 Techwood Drive NW
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Servicization: Necessary Evil or Competitive Advantage: A livestre
  am featuring Manpreet Hora
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210129T170000Z
@@ -12552,6 +12540,26 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome meet the brothers
 LOCATION:Molecular Science and Engineering 2nd Floor Atrium
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GT Seoulstice General Meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220126T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220126T010000Z
+UID:https://gatech.campuslabs.com/engage/event/7784161
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nGT Seoulstice is a gene
+ ral club for anyone interested in K-Pop on campus! We also have an associa
+ ted dance team that you may have heard of. If not\, please check them out 
+ on YouTube [1].\n\nWe strive to be welcoming to anyone interested in K-Pop
+ . At each of our meetings\, we take time to learn something new about Kore
+ an Culture\, discuss recent comebacks\, and test our K-Pop Knowledge with 
+ Kahoots and other games. We also have Korean Snacks for everyone and free 
+ photocards for our game winners!\n\nIf you are interested\, please join ou
+ r GroupMe [2]\, and come to our first meeting of the semester on Tuesday\,
+  January 25th from 7-8pm in Skiles 268. We hope to see you there!\n\nLinks
+ :\n[0]  https://gatech.campuslabs.com/engage/event/7784161\n[1]  https://w
+ ww.youtube.com/c/GTSeoulstice\n[2]  https://groupme.com/join_group/2609147
+ 4/0ThQsz
+LOCATION:Skiles 268
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:IRIM Seminar Series | Robot Motion Planning: Challenges and Opport
  unities for Increasing Robot Autonomy
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220126T171500Z
@@ -12623,6 +12631,17 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome meet the brothers
 LOCATION:Molecular Science and Engineering Room 1224
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lotería Night
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220127T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220127T010000Z
+UID:https://gatech.campuslabs.com/engage/event/7784168
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for a night of 
+ loteria\, the famous Hispanic bingo game\, at the Catholic Center! There w
+ ill be snacks for all those that come. All are welcome!\n\nLinks:\n[0]  ht
+ tps://gatech.campuslabs.com/engage/event/7784168
+LOCATION:Catholic Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Spring 2022 Rush
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220127T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220127T170000Z
@@ -12666,6 +12685,45 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  an Union Disunited by Diversity?\n\nLinks:\n[0]  http://hg.gatech.edu/node
  /654543#0\n[1]  https://atlantacir.org/event-4635485
 LOCATION:Capital City Club\, 7 John Portman Boulevard Atlanta\, GA 30303
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring 2022 Rush
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220127T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220127T230000Z
+UID:https://gatech.campuslabs.com/engage/event/7720686
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome meet the brothers 
+ and learn more about Alpha Chi Sigma\, Georgia Tech's only co-ed chemical 
+ sciences fraternity! You will have the opportunity to meet others in your 
+ major\, grow your professional and personal skill sets\, give back to the 
+ community\, and more! We are open to all chemistry-related majors includin
+ g Biomedical Engineering\, Earth and Atmospheric Sciences\, Biology\, Chem
+ istry\, Biochemistry\, Chemical Engineering\, Material Science Engineering
+ \, Health Medicine and Society Minor\, Environmental Engineering\, Neurosc
+ ience\, Pre-Health\, Pre-Pharmacy\, Pre-Veterinary\, etc. You must have cr
+ edit for a chemistry class (received AP credit\, taken at Tech\, etc) to b
+ e eligible to receive a bid.\n\nRush will be held at the following dates a
+ nd times:\n\nTue 1/25\, 11am - 12pm\, MoSE 1224 Get to Know AXS!\n\nTue 1/
+ 25\, 5pm - 6pm\, MoSE 2nd Floor Atrium Speed Dating\n\nWed 1/26\, 6pm - 7p
+ m\, MoSE 1224 Resume Workshop\n\nThu 1/27\, 11am - 12pm\, MoSE 2nd Floor A
+ trium Ice Cream & Board Games\n\nThu 1/27\, 5pm - 6 pm\, MoSE 2nd Floor At
+ rium Cookie Bar\n\nAll rush events will be held in Molecular Sciences and 
+ Engineering (MoSE). You must attend at least 2 rush events but are absolut
+ ely welcome to attend more!\n\nIf uncomfortable/unable to attend any event
+ s in-person or have any questions\, please reach out to axsigma.gatech@gma
+ il.com [1]! To learn more about us: axs.gtorg.gatech.edu\n\nLinks:\n[0]  h
+ ttps://gatech.campuslabs.com/engage/event/7720686\n[1]  axsigma.gatech@gma
+ il.com
+LOCATION:Molecular Science and Engineering 3rd Floor Atrium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SAME Officer Meet & Greet
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220128T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220128T173000Z
+UID:https://gatech.campuslabs.com/engage/event/7784166
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nTo kick off the spring 
+ semester\, come and socialize with SAME's officers and enjoy lunch on us!\
+ n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7784166
+LOCATION:109 Conference Room Bradley Building
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Veggie Jackets Bring-Your-Own-Lunch
@@ -12736,6 +12794,44 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lunch and Learn with Goldman Sachs
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220128T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220128T180000Z
+UID:http://hg.gatech.edu/node/654741#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nJoin GT-SWE at this event for a catered lunch a
+ nd the opportunity to network with representatives from Goldman Sachs.\n\n
+ Links:\n[0]  http://hg.gatech.edu/node/654741#0\n[1]  https://gatech.campu
+ slabs.com/engage/organization/society-of-women-engineers
+LOCATION:Exhibition Hall\, Cabbagetown Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Escape Room
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220128T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220129T003000Z
+UID:https://gatech.campuslabs.com/engage/event/7784140
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for an evening 
+ of socializing\, solving puzzles\, bubble tea\, and a lot more!\n\nRegistr
+ ation required! Link to register: https://forms.gle/NJ2RqXFsD9XtezPa6\n\nL
+ inks:\n[0]  https://gatech.campuslabs.com/engage/event/7784140
+LOCATION:Kendeda Building Room 230 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surya Namaskar Yogathon
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220129T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220129T180000Z
+UID:https://gatech.campuslabs.com/engage/event/7784157
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us in the Surya Na
+ maskar Yogathon on Saturday\, January 29th\, in Exhibition Hall!! Start of
+ f the new year healthy by participating in yoga!\n\nOn Makar Sankranti\, t
+ he Sun begins its Uttarayan movement\, from the south to the north. To cel
+ ebrate this movement\, the importance of the Sun in our lives\, and to rai
+ se awareness for the importance of yoga\, join us as we come together to d
+ o Surya Namaskar.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/eve
+ nt/7784157
+LOCATION:Midtown 2\, Exhibition Hall
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Community Dinner
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220130T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220131T000000Z
@@ -12749,6 +12845,31 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Catholic Center Basement\, 172 4th St NW
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Information Session- Become a Member of AIESEC
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220201T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220201T010000Z
+UID:https://gatech.campuslabs.com/engage/event/7792056
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nAIESEC is 
+ the world's largest youth-led organization. AIESEC is a non-profit student
+  organization and we focus on seeing people abroad on internships as well 
+ as bringing people to the US for internship opportunities with Atlanta Com
+ panies (We do have some contracts with some Atlanta fortune-500 companies.
+ ) We personally prioritize and focus on personal and professional developm
+ ent as an organization by focusing on skill development\, soft skills\, bu
+ ilding sales skills\, and more.\n\nSome positions within AIESEC include Bu
+ ssiness Development Analyst (working with and contacting companies)\, Mark
+ eting Strategist (Developing Marketing campaigns\, and Event Coordinator a
+ mong others.\n\nUltimately we focus on providing a platform for youth lead
+ ership development\, AIESEC offering young people the opportunity to be gl
+ obal citizens\, to change the world\, and to get experience and skills tha
+ t matter today through experiential learning\, volunteer experiences\, and
+  professional internships abroad!\n\nTo apply\, please fill out this appli
+ cation by February 4th!\n\nhttps://www.aiesecus.org/join\n\nContact vptm-a
+ tlanta@aiesecus.org for any questions!\n\nLinks:\n[0]  https://gatech.camp
+ uslabs.com/engage/event/7792056
+LOCATION:Skiles - Room 249
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jon's Office Hours
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220201T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220201T170000Z
@@ -12757,6 +12878,23 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatech.edu
  /node/654280#2
 LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Future Faculty Job Search Academy: Interviewing and Job Talk
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220204T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220204T173000Z
+UID:http://hg.gatech.edu/node/654747#0
+DESCRIPTION:Intended audience: Graduate students\, Postdoc\nExtras: Free f
+ ood\nStatus: published\n\nThe Spring 2022 Future Faculty Job Search Academ
+ y will feature a face-to-face "boot camp" format to help you prepare for y
+ our academic interviews and job talk presentations. Learn what to expect i
+ n first and second round academic interviews\, how to make a positive impr
+ ession on the interview committee\, and how to structure and deliver a job
+  talk that wows your audience. Advance registration required\; limited to 
+ 40 attendees.\n\nRegister here. [1]\n\nLinks:\n[0]  http://hg.gatech.edu/n
+ ode/654747#0\n[1]  https://ctl.gatech.edu/grad-students/preparing-faculty/
+ career-dev
+LOCATION:Exhibition Hall Home Park
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Veggie Jackets Bring-Your-Own-Lunch
@@ -12930,6 +13068,20 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatech.edu
  /node/654280#4
 LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How to Get Into Research
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220217T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220217T170000Z
+UID:https://gatech.campuslabs.com/engage/event/7791630
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAre you interested in g
+ etting into research? URA is hosting a workshop that will show you how to 
+ start looking for labs to join\, how to email professors\, and more! Come 
+ for a collaborative conversation with our research ambassadors\, and also 
+ for free food! The event will be on Thursday\, February 17\, from 11am-12p
+ m in CULC 102. We offer 50 RSVP spots\, but walk-ins are welcome.\n\nLinks
+ :\n[0]  https://gatech.campuslabs.com/engage/event/7791630
+LOCATION:CULC 102
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Veggie Jackets Bring-Your-Own-Lunch
