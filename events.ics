@@ -12716,14 +12716,31 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome meet the brothers
 LOCATION:Molecular Science and Engineering 3rd Floor Atrium
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GT Salsa - Spring '22 KICKOFF
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220128T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220128T020000Z
+UID:http://hg.gatech.edu/node/654873#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nSpring Kickoff is THIS THURSDAY at 7pm in the Exhibi
+ tion Hall! Invite your friends and come swing by to see what's new this se
+ mester! There will be social dancing after pizza\n\nLocation: Exhibition H
+ all - 2nd Floor\n\nWhen: 1/27/22 7-9pm\n\nLinks:\n[0]  http://hg.gatech.ed
+ u/node/654873#0\n[1]  https://www.instagram.com/gatechsalsa/
+LOCATION:Second Floor\, Exhibition Hall
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SAME Officer Meet & Greet
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220128T163000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220128T173000Z
-UID:https://gatech.campuslabs.com/engage/event/7784166
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nTo kick off the spring 
- semester\, come and socialize with SAME's officers and enjoy lunch on us!\
- n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7784166
-LOCATION:109 Conference Room Bradley Building
+UID:http://hg.gatech.edu/node/654836#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nTo kick off the spring semester\,
+  come and socialize with SAME's officers and enjoy lunch on us!\n\nLinks:\
+ n[0]  http://hg.gatech.edu/node/654836#0\n[1]  https://gatech.campuslabs.c
+ om/engage/event/7784166\n[2]  https://gatech.campuslabs.com/engage/organiz
+ ation/same
+LOCATION:Room 109 (Conference Room)\, Bradley Building (back side of Tech 
+ Tower)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Veggie Jackets Bring-Your-Own-Lunch
@@ -12820,16 +12837,18 @@ BEGIN:VEVENT
 SUMMARY:Surya Namaskar Yogathon
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220129T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220129T180000Z
-UID:https://gatech.campuslabs.com/engage/event/7784157
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us in the Surya Na
- maskar Yogathon on Saturday\, January 29th\, in Exhibition Hall!! Start of
- f the new year healthy by participating in yoga!\n\nOn Makar Sankranti\, t
- he Sun begins its Uttarayan movement\, from the south to the north. To cel
- ebrate this movement\, the importance of the Sun in our lives\, and to rai
- se awareness for the importance of yoga\, join us as we come together to d
- o Surya Namaskar.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/eve
- nt/7784157
-LOCATION:Midtown 2\, Exhibition Hall
+UID:http://hg.gatech.edu/node/654840#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nJoin us in the Surya Namaskar Yog
+ athon on Saturday\, January 29th\, in Exhibition Hall!! Start off the new 
+ year healthy by participating in yoga!\n\nOn Makar Sankranti\, the Sun beg
+ ins its Uttarayan movement\, from the south to the north. To celebrate thi
+ s movement\, the importance of the Sun in our lives\, and to raise awarene
+ ss for the importance of yoga\, join us as we come together to do Surya Na
+ maskar.\n\nLinks:\n[0]  http://hg.gatech.edu/node/654840#0\n[1]  https://g
+ atech.campuslabs.com/engage/event/7784157\n[2]  https://www.instagram.com/
+ gthinduyuva/
+LOCATION:Midtown II\, Exhibition Hall
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Community Dinner
@@ -12845,29 +12864,44 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Catholic Center Basement\, 172 4th St NW
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FAN Action Party
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220201T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220201T010000Z
+UID:https://gatech.campuslabs.com/engage/event/7801939
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nGuests who are experien
+ cing symptoms of Covid-19 should not attend. We strongly encourage that yo
+ u wear a mask when not eating (especially if indoors). We will be providin
+ g hand sanitizer.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/eve
+ nt/7801939
+LOCATION:Kendeda 230
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Information Session- Become a Member of AIESEC
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220201T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220201T010000Z
-UID:https://gatech.campuslabs.com/engage/event/7792056
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nAIESEC is 
- the world's largest youth-led organization. AIESEC is a non-profit student
-  organization and we focus on seeing people abroad on internships as well 
- as bringing people to the US for internship opportunities with Atlanta Com
- panies (We do have some contracts with some Atlanta fortune-500 companies.
- ) We personally prioritize and focus on personal and professional developm
- ent as an organization by focusing on skill development\, soft skills\, bu
- ilding sales skills\, and more.\n\nSome positions within AIESEC include Bu
- ssiness Development Analyst (working with and contacting companies)\, Mark
- eting Strategist (Developing Marketing campaigns\, and Event Coordinator a
- mong others.\n\nUltimately we focus on providing a platform for youth lead
- ership development\, AIESEC offering young people the opportunity to be gl
- obal citizens\, to change the world\, and to get experience and skills tha
- t matter today through experiential learning\, volunteer experiences\, and
-  professional internships abroad!\n\nTo apply\, please fill out this appli
- cation by February 4th!\n\nhttps://www.aiesecus.org/join\n\nContact vptm-a
- tlanta@aiesecus.org for any questions!\n\nLinks:\n[0]  https://gatech.camp
- uslabs.com/engage/event/7792056
-LOCATION:Skiles - Room 249
+UID:http://hg.gatech.edu/node/654876#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\, Free Stuff\nStatus: published\n\nAIESEC is the world'
+ s largest youth-led organization. AIESEC is a non-profit student organizat
+ ion and we focus on seeing people abroad on internships as well as bringin
+ g people to the US for internship opportunities with Atlanta Companies (We
+  do have some contracts with some Atlanta fortune-500 companies.) We perso
+ nally prioritize and focus on personal and professional development as an 
+ organization by focusing on skill development\, soft skills\, building sal
+ es skills\, and more.\n\nSome positions within AIESEC include Bussiness De
+ velopment Analyst (working with and contacting companies)\, Marketing Stra
+ tegist (Developing Marketing campaigns\, and Event Coordinator among other
+ s.\n\nUltimately we focus on providing a platform for youth leadership dev
+ elopment\, AIESEC offering young people the opportunity to be global citiz
+ ens\, to change the world\, and to get experience and skills that matter t
+ oday through experiential learning\, volunteer experiences\, and professio
+ nal internships abroad!\n\nTo apply\, please fill out this application by 
+ February 4th!\n\nhttps://www.aiesecus.org/join\n\nContact vptm-atlanta@aie
+ secus.org for any questions!\n\nLinks:\n[0]  http://hg.gatech.edu/node/654
+ 876#0\n[1]  https://gatech.campuslabs.com/engage/event/7792056\n[2]  https
+ ://forms.gle/7XvDK7cPGaazPX7g9\n[3]  https://www.aiesecus.org/join\n[4]  v
+ ptm-atlanta@aiesecus.org
+LOCATION:Room 249\, Skiles Building
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jon's Office Hours
@@ -12878,6 +12912,22 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatech.edu
  /node/654280#2
 LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCPC Presents: Harry Potter Magicthon - Goblet of Fire
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220203T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220204T033000Z
+UID:http://hg.gatech.edu/node/654925#0
+DESCRIPTION:Status: published\n\nCalling all witches\, wizards\, and anyon
+ e in between! Our biannual Harry Potter movie event is coming up on Thursd
+ ay February 3rd at 6:00 pm and this semester we’ll be watching the Goble
+ t of Fire! The first half of the event will take place on the IC lawn wher
+ e you can battle it out in a game of quidditch (muggle-style)\, then we’
+ ll migrate to Midtown V in the Exhibition Hall to start the movie around 7
+ :30 pm where there'll be snacks and drinks as well. Admission is free but 
+ spots are limited so reserve your ticket today!\n\nLinks:\n[0]  http://hg.
+ gatech.edu/node/654925#0
+LOCATION:IC Lawn and Midtown V (Exhibition Hall)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Future Faculty Job Search Academy: Interviewing and Job Talk
@@ -13058,6 +13108,22 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  ww.instagram.com/gtveggiejackets/\n[3]  https://gatech.campuslabs.com/enga
  ge/organization/veggie-jackets
 LOCATION:Check GroupMe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jordan Peterson Lecture Series Event
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220212T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220212T170000Z
+UID:http://hg.gatech.edu/node/654932#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nHosted by Great Conversations [1]\n\nJoin us in lear
+ ning more about psychology and its interaction with philosophy and science
+  by watching Jordan Peterson’s 2015 Personality Lecture Series and discu
+ ssing his ideas. For those that attend\, a pizza lunch will be provided fr
+ ee of charge. The event will be held in Klaus 1447\, located in the classr
+ oom wing. Help us have great conversations!\n\nLinks:\n[0]  http://hg.gate
+ ch.edu/node/654932#0\n[1]  https://gatech.campuslabs.com/engage/organizati
+ on/greatconversations
+LOCATION:Room 144\, Clough Commons
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jon's Office Hours
@@ -13288,6 +13354,22 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Saturday in
  OliJZBA/viewform?usp=sf_link\n[3]  https://docs.google.com/document/d/1B19
  bvV1N73QFvuwN3UnBfZ913ij5IXtbz5cb2DzmNkU/edit?usp=sharing
 LOCATION:GT Community Garden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jordan Peterson Lecture Series Event
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220305T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220305T170000Z
+UID:http://hg.gatech.edu/node/654932#1
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nHosted by Great Conversations [1]\n\nJoin us in lear
+ ning more about psychology and its interaction with philosophy and science
+  by watching Jordan Peterson’s 2015 Personality Lecture Series and discu
+ ssing his ideas. For those that attend\, a pizza lunch will be provided fr
+ ee of charge. The event will be held in Klaus 1447\, located in the classr
+ oom wing. Help us have great conversations!\n\nLinks:\n[0]  http://hg.gate
+ ch.edu/node/654932#1\n[1]  https://gatech.campuslabs.com/engage/organizati
+ on/greatconversations
+LOCATION:Room 144\, Clough Commons
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jon's Office Hours
@@ -13976,6 +14058,22 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Saturday in
  OliJZBA/viewform?usp=sf_link\n[3]  https://docs.google.com/document/d/1B19
  bvV1N73QFvuwN3UnBfZ913ij5IXtbz5cb2DzmNkU/edit?usp=sharing
 LOCATION:GT Community Garden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jordan Peterson Lecture Series Event
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220416T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220416T160000Z
+UID:http://hg.gatech.edu/node/654932#2
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nHosted by Great Conversations [1]\n\nJoin us in lear
+ ning more about psychology and its interaction with philosophy and science
+  by watching Jordan Peterson’s 2015 Personality Lecture Series and discu
+ ssing his ideas. For those that attend\, a pizza lunch will be provided fr
+ ee of charge. The event will be held in Klaus 1447\, located in the classr
+ oom wing. Help us have great conversations!\n\nLinks:\n[0]  http://hg.gate
+ ch.edu/node/654932#2\n[1]  https://gatech.campuslabs.com/engage/organizati
+ on/greatconversations
+LOCATION:Room 144\, Clough Commons
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jon's Office Hours
