@@ -2,64 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Servicization: Necessary Evil or Competitive Advantage: A livestre
- am featuring Manpreet Hora
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210129T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210129T173000Z
-UID:http://hg.gatech.edu/node/642281#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: draft\n\nIn this episode of Sc
- heller Lunchtime Live\, Associate Professor Manpreet Hora talks about the 
- opportunities and risks of selling products through delivering services an
- d what basic conditions need to be in place to enhance the value propositi
- on and avoid failures.\n\nJust hit "Attend event" on the LinkedIn event an
- d log into LinkedIn on January 29 at 12: p.m. ET to access the session. at
-  12 p.m. ET to access the session.\n\nLinks:\n[0]  http://hg.gatech.edu/no
- de/642281#0
-LOCATION:Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nature Walk to Piedmont Park!
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210130T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210130T190000Z
-UID:http://hg.gatech.edu/node/643639#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nCome hang out with cool people and learn about natur
- e with a low key walk to and around Piedmont Park!\n\nWe'll leave from cam
- pus (the corner of 5th St and Techwood Drive\, the intersection right befo
- re Tech Square) at 11am\, and amble over at a relaxed pace to Piedmont Par
- k. We'll then walk around the park and show y'all some cool corners of it 
- and local ecology within the park\, probably finding a nice picnicky area 
- where we can all sit down and spread out. We'll then walk back\, returning
-  to campus around 2 p.m.\, about 4-5 miles round trip (we'll be taking it 
- quite slow\, and y'all are free to leave earlier or not walk as long if yo
- u're not feeling it).\n\nWear a mask and keep social distance (6+ feet) at
-  all times\, bring layers\, water\, snacks and sunscreen if needed.\n\nIf 
- you're not in the Trailblazers GroupMe\, join to keep in the loop with all
-  our events: [1].\n\nLinks:\n[0]  http://hg.gatech.edu/node/643639#0\n[1] 
-  https://groupme.com/join_group/61302475/FckvQhw9
-LOCATION:Corner of Techwood and 5th\, 176 5th St NW
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dinner Jacket: Civil and Computer Engineering Young Alumni
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210131T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210201T000000Z
-UID:http://hg.gatech.edu/node/643643#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nOur Young Alumni Council is hosting 6 dinners this s
- emester! Each Dinner Jacket is focused on their degrees and industries -- 
- pick the one that interests you!\n\nThis Dinner is with Sarah Jane Lowentr
- itt (CE ’19)\, Jourdyn Fuga (CE ’14)\, and Sarthak Jaiswal (CMPE ’14
- ). These alumni hope to discuss classes\, internships\, co-ops\, study abr
- oad\, extra-curricular activities\, and the job search!\n\nLinks:\n[0]  ht
- tp://hg.gatech.edu/node/643643#0\n[1]  https://www.gtsaa.com/s/1481/alumni
- /17/interior-wide.aspx?sid=1481&gid=39&pgid=20366&cid=45186&ecid=45186&cri
- d=0&calpgid=3165&calcid=23811\n[2]  https://www.gtsaa.com/s/1481/alumni/17
- /interior-wide.aspx?sid=1481&gid=39&pgid=20366&cid=45186&ecid=45186&crid=0
- &calpgid=3165&calcid=23811.
-LOCATION:Online
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Food4Lives Service with CCF
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210202T183000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210202T203000Z
@@ -12914,6 +12856,18 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Westminster Christian Fellowship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:1st GBM 2022: Is PA right for you?
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220201T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220202T000000Z
+UID:https://gatech.campuslabs.com/engage/event/7820447
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is our first meeti
+ ng of the 2022 Spring Semester! Join PAC to learn if PA is the right caree
+ r for you! We will also be hearing from our guest speaker\, Joe Hwang PA-C
+ \, on what being a PA is really like!\n\nLinks:\n[0]  https://gatech.campu
+ slabs.com/engage/event/7820447
+LOCATION:Skiles 271
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SCPC Presents: Harry Potter Magicthon - Goblet of Fire
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220203T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220204T033000Z
@@ -13124,6 +13078,31 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  ch.edu/node/654932#0\n[1]  https://gatech.campuslabs.com/engage/organizati
  on/greatconversations
 LOCATION:Room 144\, Clough Commons
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valentine's Dinner and Dance
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220212T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220213T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7820433
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThe Catholic Center wil
+ l be hosting the famous Valentine's Day Dinner and Dance this year! The di
+ nner and dance will be on Saturday\, February 12th\, at 6 pm at the Cathol
+ ic Center.\nLadies\, you can sign up to attend using this link: https://fo
+ rms.gle/nJ4R6NH2Z2o8hp3W7\n\nGentlemen\, you can sign up to help out using
+  this link: https://forms.gle/rBnXCkVwbK7Da1sa7\n\nWe are looking forward 
+ to a wonderful night and hope to see you all there!\n\nLinks:\n[0]  https:
+ //gatech.campuslabs.com/engage/event/7820433
+LOCATION:Catholic Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Superbowl Watchparty
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220213T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220214T030000Z
+UID:https://gatech.campuslabs.com/engage/event/7820430
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome enjoy the Superbow
+ l at the Catholic Center with friends and food!\n\nLinks:\n[0]  https://ga
+ tech.campuslabs.com/engage/event/7820430
+LOCATION:Catholic Center Basement
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jon's Office Hours
