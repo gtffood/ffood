@@ -2,90 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Food4Lives Service with CCF
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210202T183000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210202T203000Z
-UID:http://hg.gatech.edu/node/643371#1
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nServing with a local organization\, Food4Lives\, to 
- prepare\, pack\, and distribute food to our friends on the streets of Atla
- nta.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643371#1\n[1]  http://www.g
- tccf.org/compassion/
-LOCATION:CCF\, 767 Techwood Drive NW
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clone of WST Learning Community dinner discussion: Dr. Kim Cobb
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210202T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210202T233000Z
-UID:http://hg.gatech.edu/node/643555#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nWST Learning Community Dinner\nre
- sidents can pick up boxed dinners in Stein House at 5pm\n\nTuesday\, Feb 2
- \, 2021\, 5:30pm: Dr. Kim Cobb\, College of Sciences ADVANCE Professor\nBl
- ue Jeans Link: https://bluejeans.com/901891909/8973 [1]\n\nDr. Cobb is a p
- rofessor in the School of Earth and Atmospheric Sciences at the Georgia In
- stitute of Technology\, and a Georgia Power Faculty Scholar. She is partic
- ularly interested in oceanography\, geochemistry and paleoclimate modeling
- .\nhttps://cobblab.eas.gatech.edu/people/people.html\n\nWST Learning Commu
- nity fall 2021 - spring 2022 application [2]\nApplication Due January 29\,
-  2021\, 5pm.\n\nGEMS\, WST Learning Community Service Project —Howard Mi
- ddle School Girls Excelling in Math and Science (GEMS) Club. Online or in-
- person most Tuesdays\, August-May\, 4:15-5:45 pm. For information\, contac
- t: marylynn.realff@mse.gatech.edu [3] or monicamarks@gatech.edu [4]\n\nLin
- ks:\n[0]  http://hg.gatech.edu/node/643555#0\n[1]  https://nam12.safelinks
- .protection.outlook.com/?url=https%3A%2F%2Fbluejeans.com%2F901891909%2F897
- 3%3Fsrc%3DcalendarLink&data=04%7C01%7Ccarol.colatrella%40lmc.gatech.edu%7C
- 9284101ff784469ad67008d8a46ce430%7C482198bbae7b4b258b7a6d7f32faa083%7C0%7C
- 0%7C637440134909820266%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjo
- iV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=Y2vAkrUgfHsfjTeph8YW2
- rv0YHw343TNcRdn8SvRqEc%3D&reserved=0\n[2]  https://gatech.campuslabs.com/e
- ngage/submitter/form/start/446266\n[3]  marylynn.realff@mse.gatech.edu\n[4
- ]  monicamarks@gatech.edu
-LOCATION:Stein House\, Georgia Tech\, Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Conversation with Dr. Kim Cobb\, College of Sciences ADVANCE Profe
- ssor
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210202T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210202T233000Z
-UID:https://gatech.campuslabs.com/engage/event/6680374
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nTuesday\, Feb 2\, 2021\
- , 5:30 pm: Dr. Kim Cobb\, College of Sciences ADVANCE Professor\n\nBlue Je
- ans Link: https://bluejeans.com/901891909/8973\n\nLinks:\n[0]  https://gat
- ech.campuslabs.com/engage/event/6680374
-LOCATION:Online
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WST Learning Community dinner discussion: Dr. Kim Cobb
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210202T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210202T233000Z
-UID:http://hg.gatech.edu/node/642635#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nWST Learning Community Dinner\nre
- sidents can pick up boxed dinners in Stein House at 5pm\n\nTuesday\, Feb 2
- \, 2021\, 5:30pm: Dr. Kim Cobb\, College of Sciences ADVANCE Professor\nBl
- ue Jeans Link: https://bluejeans.com/901891909/8973 [1]\n\nDr. Cobb is a p
- rofessor in the School of Earth and Atmospheric Sciences at the Georgia In
- stitute of Technology\, and a Georgia Power Faculty Scholar. She is partic
- ularly interested in oceanography\, geochemistry and paleoclimate modeling
- .\nhttps://cobblab.eas.gatech.edu/people/people.html\n\nWST Learning Commu
- nity fall 2021 - spring 2022 application [2]\nApplication Due January 29\,
-  2021\, 5pm.\n\nGEMS\, WST Learning Community Service Project —Howard Mi
- ddle School Girls Excelling in Math and Science (GEMS) Club. Online or in-
- person most Tuesdays\, August-May\, 4:15-5:45 pm. For information\, contac
- t: marylynn.realff@mse.gatech.edu [3] or monicamarks@gatech.edu [4]\n\nLin
- ks:\n[0]  http://hg.gatech.edu/node/642635#0\n[1]  https://nam12.safelinks
- .protection.outlook.com/?url=https%3A%2F%2Fbluejeans.com%2F901891909%2F897
- 3%3Fsrc%3DcalendarLink&data=04%7C01%7Ccarol.colatrella%40lmc.gatech.edu%7C
- 9284101ff784469ad67008d8a46ce430%7C482198bbae7b4b258b7a6d7f32faa083%7C0%7C
- 0%7C637440134909820266%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjo
- iV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=Y2vAkrUgfHsfjTeph8YW2
- rv0YHw343TNcRdn8SvRqEc%3D&reserved=0\n[2]  https://gatech.campuslabs.com/e
- ngage/submitter/form/start/446266\n[3]  marylynn.realff@mse.gatech.edu\n[4
- ]  monicamarks@gatech.edu
-LOCATION:Stein House\, Georgia Tech\, Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCF The Event
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210205T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210205T040000Z
@@ -12868,6 +12784,17 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThis is our first meeti
 LOCATION:Skiles 271
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Meeting with Astra Group 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220203T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220203T170000Z
+UID:https://gatech.campuslabs.com/engage/event/7839057
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nMeeting wi
+ th Astra Group this Thursday (2/3) in SEB 316 from 11am-12pm. There will b
+ e FREE FOOD and CEA SWAG so make sure to save the date!\n\nLinks:\n[0]  ht
+ tps://gatech.campuslabs.com/engage/event/7839057
+LOCATION:Sustainable Education Building RM 316
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SCPC Presents: Harry Potter Magicthon - Goblet of Fire
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220203T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220204T033000Z
@@ -12966,6 +12893,53 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  u/node/654530#0\n[1]  https://gatech.campuslabs.com/engage/event/7730943\n
  [2]  https://gatech.campuslabs.com/engage/organization/cso
 LOCATION:Catholic Center Basement\, 172 4th St NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meatless Monday at West Village Feb. 7
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220207T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220207T190000Z
+UID:http://hg.gatech.edu/node/655046#0
+DESCRIPTION:Intended audience: Public\nStatus: published\n\nEnjoy and vega
+ n / vegetarian takeover of West Village Dining Hall for lunch February 7.\
+ n\nWhite & Gold\nPoutine Station\nYucca Fries / Sweet Potato Fries / Shoes
+ tring Fries (vegan)\nVegan Gravy (vegan)\nRoasted Mushrooms (vegan)\nBuffa
+ lo Cauliflower (vegan)\nBBQ Pulled Jackfruit (vegan)\nSeasoned Beyond Meat
+  Crumbles\nFresh Cheese Curds\n\nWhite & Gold Grill Station\nGrilled Beyon
+ d Burger (vegan)\nSeasoned Black Bean Burgers\nPlant Based Chicken Philly 
+ Subs\nAssorted Burger Toppings\nLeaf Lettuce (vegan)\nSliced Tomatoes (veg
+ an)\nPickle Chips (vegan)\nGrilled Onions (vegan)\nSliced Avocados (vegan)
+ \nSautéed Mushrooms (vegan)\nSautéed Peppers (vegan)\nVegan Gouda Cheese
+  (vegan)\nVegan Cheddar Cheese (vegan)\nAmerican Cheese\nProvolone Cheese\
+ nJalapenos (vegan)\n\nGinger & Spice\nTofu Fried Rice Station (vegan)\nPla
+ nt-based Chicken Fried Rice Station (vegan)\nEggplant and Tempeh Masala\nW
+ arm Naan Bread\nBasmati Rice (vegan)\nCoconut Braised Butternut Squash (ve
+ gan)\nSauteed Garlic Green Beans (vegan)\n\nLeaning Tower of Tech\nRoasted
+  Vegetable\, Goat Cheese\, Arugula\, Flatbread\nSpinach\, Artichoke\, Plan
+ t-based Italian Sausage\nMargherita Pizza (vegan)\nSweet Potato and Lentil
+  Lasagna\nPlant Based Meatballs (vegan)\nTomato Basil Sauce (vegan)\nSpagh
+ etti (vegan)\nGarlic Breadstick (vegan)\n\nTech Taqueria\nCauliflower Chic
+ kpea Mole Taco (vegan)\nAncho Pasilla Chile Rubbed Tofu Taco (vegan)\nQues
+ o Blanco\nSpanish Rice Pilaf (vegan)\nPinto Beans (vegan)\nSoft Shell Flou
+ r Tortillas (vegan)\nCorn Tortillas (vegan)\nCorn Tortilla Chips (vegan)\n
+ Assorted Toppings\nSalsa vVrde (vegan)\nFire Roasted Tomato Salsa (vegan)\
+ nPico De Gallo (vegan)\nSour Cream\nGuacamole (vegan)\nBlack Olives (vegan
+ )\nJalapenos (vegan)\nShredded Lettuce (vegan)\nVegan Shredded Cheddar Che
+ ese (vegan)\nShredded Cheddar Jack Cheese\n\nMindful Bytes\nBuild Your Own
+  Bowl\nQuinoa (vegan)\nBamboo Rice (vegan)\nRice Noodles (vegan)\nVegetabl
+ e Broth (vegan)\nLemon Basil Broth (vegan)\nFalafel (vegan)\nAssorted Topp
+ ings\nBroccoli (vegan)\nCauliflower (vegan)\nBlack Beans (vegan)\nGarbanzo
+  Beans (vegan)\nRoasted Peppers (vegan)\nGreen Onions (vegan)\nCorn Kernel
+ s (vegan)\nDiced Tomatoes (vegan)\nBaby Arugula /Spinach (vegan)\nSeaweed 
+ Salad (vegan)\nVegan Kimchi (vegan)\nShredded Carrots (vegan)\nLemon Tahin
+ i Dressing\, Red Chili Vinaigrette\, Red Wine Herb Vinaigrette (all vegan)
+ \n\nSalad Bar – Separate (set up outside Mindful Bytes)\nSpring Mix (veg
+ an)\nBaby Spinach (vegan)\nChopped Romaine Lettuce (vegan)\nAssorted Salad
+  Dressings\nFresh Fruit (vegan)\nAssorted Toppings\nPotato Salad\nTabboule
+ h (vegan)\n\nDessert Station\nIn addition to our regular desserts:\nHarves
+ t Root Vegetable Cake (vegan)\nWarm Sweet Potato Bread Pudding\nVegan Doug
+ hnut Holes with assorted sauces and toppings (vegan)\n\nLinks:\n[0]  http:
+ //hg.gatech.edu/node/655046#0
+LOCATION:West Village Dining Commons
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WST Lrn C dinner: Kevin Buckins on Stress Management
@@ -13083,26 +13057,30 @@ BEGIN:VEVENT
 SUMMARY:Valentine's Dinner and Dance
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220212T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220213T030000Z
-UID:https://gatech.campuslabs.com/engage/event/7820433
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nThe Catholic Center wil
- l be hosting the famous Valentine's Day Dinner and Dance this year! The di
- nner and dance will be on Saturday\, February 12th\, at 6 pm at the Cathol
- ic Center.\nLadies\, you can sign up to attend using this link: https://fo
- rms.gle/nJ4R6NH2Z2o8hp3W7\n\nGentlemen\, you can sign up to help out using
-  this link: https://forms.gle/rBnXCkVwbK7Da1sa7\n\nWe are looking forward 
- to a wonderful night and hope to see you all there!\n\nLinks:\n[0]  https:
- //gatech.campuslabs.com/engage/event/7820433
-LOCATION:Catholic Center
+UID:http://hg.gatech.edu/node/655111#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nThe Catholic Center will be hosti
+ ng the famous Valentine's Day Dinner and Dance this year! The dinner and d
+ ance will be on Saturday\, February 12th\, at 6 pm at the Catholic Center.
+ \nLadies\, you can sign up to attend using this link: https://forms.gle/nJ
+ 4R6NH2Z2o8hp3W7\n\nGentlemen\, you can sign up to help out using this link
+ : https://forms.gle/rBnXCkVwbK7Da1sa7\n\nWe are looking forward to a wonde
+ rful night and hope to see you all there!\n\nLinks:\n[0]  http://hg.gatech
+ .edu/node/655111#0\n[1]  https://gatech.campuslabs.com/engage/event/782043
+ 3\n[2]  https://gatech.campuslabs.com/engage/organization/cso
+LOCATION:Catholic Center\, 172 4th Street NW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Superbowl Watchparty
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220213T233000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220214T030000Z
-UID:https://gatech.campuslabs.com/engage/event/7820430
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome enjoy the Superbow
- l at the Catholic Center with friends and food!\n\nLinks:\n[0]  https://ga
- tech.campuslabs.com/engage/event/7820430
-LOCATION:Catholic Center Basement
+UID:http://hg.gatech.edu/node/655112#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nCome enjoy the Superbowl at the C
+ atholic Center with friends and food!\n\nLinks:\n[0]  http://hg.gatech.edu
+ /node/655112#0\n[1]  https://gatech.campuslabs.com/engage/event/7820430\n[
+ 2]  https://gatech.campuslabs.com/engage/organization/cso
+LOCATION:Catholic Center Basement\, 172 4th St NW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jon's Office Hours
