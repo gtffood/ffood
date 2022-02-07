@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:CCF The Event
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210205T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210205T040000Z
-UID:https://gatech.campuslabs.com/engage/event/6869223
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nA time of community\, a
-  faith-based talk\, worship\, discussion and fun. We have two large group 
- starting times\, 7:00pm and 8:30pm and optional discussion groups after ea
- ch. Around 10pm\, we have an after-event that is something like a dance pa
- rty\, going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, regardle
- ss of what you believe\, is welcome. We have both in-person and online opt
- ions. Our service is available on Zoom at 8:30pm: https://us02web.zoom.us/
- j/84188146312\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6
- 869223
-LOCATION:Christian Campus Fellowship (CCF)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Trivia Lunch
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210208T164500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210208T184500Z
