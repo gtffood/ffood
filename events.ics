@@ -12926,6 +12926,45 @@ DESCRIPTION:Intended audience: Public\nStatus: published\n\nEnjoy and vega
 LOCATION:West Village Dining Commons
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ideas to Serve Workshops: Equitable Teams
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220207T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220208T003000Z
+UID:http://hg.gatech.edu/node/655284#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: draft\n\nTHis is a weekly workshop series for 
+ Ideas to Serve participants. This week we explore the fundamental of Equit
+ able Teams and learn about the 5WHY's tool of problem discovery.\n\nWe tak
+ e a comprehensive approach to social innovation encouraging students to be
+  compassionate listeners\; identify and build on the assets\; research the
+  solution landscape to learn from both what works and what failed\; take a
+  systems approach to identify the root cause versus the symptoms of the is
+ sue.\n\nStudents who aspire to work closely with and learn from a communit
+ y partner/civic entrepreneur\, those who want to affect change in the Unit
+ ed Nations Sustainable Development Goals (UNSDGs)\, and those who are wond
+ ering how they can make a real\, lasting\, and appropriate difference in o
+ ther people’s lives are ideal candidates for I2S.\n\nIn the 2022 season\
+ , student teams will learn from and work with our Atlanta area community p
+ artners and civic entrepreneurs. A series of hands-on workshops and discus
+ sions\, complemented by conversations with experts from the frontlines\, w
+ ill equip participants with broadly relevant problem discovery tools and s
+ kills that they can apply in any field and career. The workshops are offer
+ ed as part of the MGT4803 Social Impact course and they are open to any st
+ udent interested.\n\nThe deliverable for I2S is a Stakeholder Map of the s
+ ocial issue student teams explore with their community partner's guidance.
+  The I2S Showcase will take place on April 18 where teams will present the
+  outcome of their work to an audience of practitioners\, community leaders
+ \, faculty\, and students.\n\nParticipating I2S Teams can apply to the Map
+  the System Global Challenge [1] as a part of our collaboration with the S
+ koll Center for Social Entrepreneurship at the Saïd Business School at Ox
+ ford. The top team(s) from I2S will represent Georgia Tech at Oxford and c
+ ompete with teams focused on social impact from top universities around th
+ e world.\n\nLearn more about our community partners and our supporters at 
+ ilsi.gatech.edu/i2s\n\nLinks:\n[0]  http://hg.gatech.edu/node/655284#0\n[1
+ ]  https://mapthesystem.sbs.ox.ac.uk/home\n[2]  https://www.scheller.gatec
+ h.edu/centers-initiatives/ile/i2s/index.html
+LOCATION:Scheller 203
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WST Lrn C dinner: Kevin Buckins on Stress Management
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220207T223000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220207T233000Z
@@ -13096,6 +13135,15 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  /node/655112#0\n[1]  https://gatech.campuslabs.com/engage/event/7820430\n[
  2]  https://gatech.campuslabs.com/engage/organization/cso
 LOCATION:Catholic Center Basement\, 172 4th St NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valentine's Day Cookie Decorating
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220214T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220215T000000Z
+UID:https://gatech.campuslabs.com/engage/event/7860602
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDecorate cookies with A
+ WM!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7860602
+LOCATION:Skiles 006
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jon's Office Hours
