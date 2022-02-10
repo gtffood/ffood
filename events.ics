@@ -2,83 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Trivia Lunch
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210208T164500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210208T184500Z
-UID:https://gatech.campuslabs.com/engage/event/6891739
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFree lunch and trivia e
- very Monday! All lunches are pre-packaged in to-go boxes\, and seating is 
- available in a safe\, socially distant fashion inside and outside. Trivia 
- begins at 11:50am and 12:50pm.\n\nLinks:\n[0]  https://gatech.campuslabs.c
- om/engage/event/6891739
-LOCATION:Christian Campus Fellowship (CCF)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:"Manufacturing in Unstructured Environments"
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210208T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210208T180000Z
-UID:http://hg.gatech.edu/node/643617#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nStatus: published\n\nGary McMurray\, Ph.D.\nDire
- ctor and Principal Research Engineer\, Georgia Tech Research Institute\, a
- nd Institute for Robotics and Intelligent Machines\n\nMonday\, Feb. 8 -Onl
- ine Seminar-\nNoon - 1:00 pm Eastern Time\, U.S.\nMEETING LINK: https://pr
- imetime.bluejeans.com/a2m/live-event/ztdkzxce [1]\n\n"Manufacturing in Uns
- tructured Environments"\n\nAbstract: Robotic systems have traditional been
-  very successful in performing tasks where the inputs are well defined and
-  known in advance. Automotive and electronic manufacturing are the classic
-  success stories where robotic systems have demonstrated incredible value 
- for the industry. The tasks performed by the robots almost exclusively inv
- olve the manipulation or interacting with objects whose physical propertie
- s are known a priori and the objects are rigid and dry. In the many manufa
- cturing sectors\, robotic systems must be able to work in an unstructured 
- environment where every product is unique\, deformable and even wet. This 
- presentation will discuss various approaches to enable autonomous solution
- s to these problems. This will include software to minimize manual program
- ming of robots as well systems that integrate advanced perception and cont
- rol technologies to perform complex tasks like cutting\, grasping\, and ma
- nipulation.\n\nBio: Gary McMurray is a Principal Research Engineer and Div
- ision Chief for the Intelligent Sustainable Technologies Division at the G
- eorgia Tech Research Institute. He is also an Associate Director for the I
- nstitute for Robotics and Intelligent Machines (IRIM) at Georgia Tech. IRI
- M serves as an umbrella under which robotics researchers\, educators\, and
-  students from across campus can come together to advance the many high-po
- wered and diverse robotics activities at Georgia Tech. The Intelligent Sus
- tainable Technologies Division conducts innovative research to improve the
-  human condition through transforming the agricultural and food systems\, 
- sustainable use and access to energy and water\, and safety of people at w
- ork and from pandemics. Mr. McMurray’s research has focused on the devel
- opment of robotic technologies and solutions for the manufacturing and agr
- ibusiness communities\, including the protein and the fruit and vegetable 
- industries. He is an expert in visual servoing – the use of vision for t
- he real-time control of robotics\, and the author of over 50-refereed tech
- nical papers and journal publications in robotics.\n\nMr. McMurray serves 
- on the advisory board for Advanced Animal Systems for the Foundation of Fo
- od and Agricultural Research. He also serves on the Board of Directors for
-  the Robotics Industry Association.\n\nLinks:\n[0]  http://hg.gatech.edu/n
- ode/643617#0\n[1]  https://nam12.safelinks.protection.outlook.com/?url=htt
- ps%3A%2F%2Fgatech.us7.list-manage.com%2Ftrack%2Fclick%3Fu%3D789c2f71dc30a8
- bdcaeff7e62%26id%3Df44fbcc692%26e%3D7bce06de22&data=04%7C01%7Cwalter.rich%
- 40research.gatech.edu%7C3353542e6271409c19d608d8c3c6b8af%7C482198bbae7b4b2
- 58b7a6d7f32faa083%7C0%7C0%7C637474606065677899%7CUnknown%7CTWFpbGZsb3d8eyJ
- WIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sda
- ta=hKJRw44XZfoVMw%2F8l0Yr%2BTMIh2gIjXlxxf6YAZV6sSE%3D&reserved=0\n[2]  htt
- ps://primetime.bluejeans.com/a2m/live-event/ztdkzxce
-LOCATION:https://primetime.bluejeans.com/a2m/live-event/ztdkzxce
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Food4Lives Service with CCF
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210209T183000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210209T203000Z
-UID:http://hg.gatech.edu/node/643371#2
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nServing with a local organization\, Food4Lives\, to 
- prepare\, pack\, and distribute food to our friends on the streets of Atla
- nta.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643371#2\n[1]  http://www.g
- tccf.org/compassion/
-LOCATION:CCF\, 767 Techwood Drive NW
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCF The Event
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210212T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210212T040000Z
@@ -13044,6 +12967,18 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Marcus Nanotechnology Building 1116-1118
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Movie Night: The Girl Who Leapt Through Time
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220210T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220211T010000Z
+UID:https://gatech.campuslabs.com/engage/event/7869953
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAnime O'Tekku\, the off
+ icial anime club on the Georgia Tech campus\, is hosting one a movie night
+ ! This time we'll be watching The Girl Who Leapt Through Time. Pizza will 
+ be provided. Don't forget to RSVP!\n\nLinks:\n[0]  https://gatech.campusla
+ bs.com/engage/event/7869953
+LOCATION:College of Computing Room 016
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Veggie Jackets Bring-Your-Own-Lunch
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220211T163000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220211T183000Z
@@ -13123,6 +13058,25 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  .edu/node/655111#0\n[1]  https://gatech.campuslabs.com/engage/event/782043
  3\n[2]  https://gatech.campuslabs.com/engage/organization/cso
 LOCATION:Catholic Center\, 172 4th Street NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First Love Atlanta Presents: MyFirstLove!
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220213T180000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220213T210000Z
+UID:http://hg.gatech.edu/node/655321#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nAs we're in this season of love\,
+  come find out this Valentine's Day weekend about our First Love\, the eve
+ rlasting love of Jesus! Join us for an awesome time of live music\, song a
+ nd dance performances\, and a sermon that will expose you more to this Fir
+ st Love of ours. Not to mention\, enjoy interacting with other fellow stud
+ ents and FREE FOOD (you heard that right)! Catch you there with a friend/b
+ eloved! And if you can't make it in person\, feel free to join us on Zoom 
+ with the info below.\n\nZoom: 346-615-3947\n\nPasscode:783172\n\nLinks:\n[
+ 0]  http://hg.gatech.edu/node/655321#0\n[1]  https://gatech.campuslabs.com
+ /engage/event/7869955\n[2]  https://gatech.campuslabs.com/engage/organizat
+ ion/first-love-church
+LOCATION:Exhibition Hall - Centennial Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Superbowl Watchparty
@@ -13217,6 +13171,38 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:West Village Dining Commons
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Trailblazers: Hike With a Scientist!
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220219T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220219T180000Z
+UID:http://hg.gatech.edu/node/655314#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nGeorgia Tech Trailblazers invites you to hike with a
+  scientist from 9 am to 1 pm at Pigeon Hill!\n\nA roughly 30-minute drive 
+ from Georgia Tech\, embark on a 2.9-mile moderate hike with our very own E
+ arth & Atmospheric Science professors. The professors joining us on this a
+ dventure will be Dr. Samantha Wilson and Dr. Ellery Ingall! No pop quizzes
+  here\, just come and enjoy nature while learning about the geology beneat
+ h our feet!\n\n** Note this is not your average hike\, expect frequent sto
+ ps and pondering **\n\nWe suggest bringing: comfortable hiking clothes\, s
+ turdy shoes\, a mask\, snacks\, and plenty of water.\n\nThis event does ha
+ ve limited spots\, so an RSVP is required to attend. In order to provide a
+ n equal opportunity for everyone to attend spots to attend are filled base
+ d on a lottery system. To enter into the lottery fill out this google form
+  [1] to express interest. Spots will be drawn randomly through MatLab and 
+ winners will be emailed on Sunday\, 2/13 and winners must confirm their at
+ tendance by Wednesday\, 2/16. If your number is not drawn\, you will recei
+ ve an email that you are waitlisted. We will observe all COVID guidelines 
+ including mask-wearing while in vehicles with others.\n\nWe hope to see yo
+ u there!\n\nFor any questions or concerns contact Samantha Motz (smotz3@ga
+ tech.edu)\n\nIf you’re not on our GroupMe [2] or Slack [3]\, join! It’
+ s where we do all our communication and event coordination.\n\nLinks:\n[0]
+   http://hg.gatech.edu/node/655314#0\n[1]  https://forms.gle/KpmDsKSUo3SGB
+ ZUd6\n[2]  https://groupme.com/join_group/61302475/FckvQhw9\n[3]  https://
+ join.slack.com/t/trailblazers-2fo1434/shared_invite/zt-ynx9o700-U2z5B1eo8s
+ Xsb8~L2vQ2uw
+LOCATION:Pigeon Hill
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Community Garden Workday
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220219T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220219T170000Z
@@ -13305,6 +13291,59 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  ww.instagram.com/gtveggiejackets/\n[3]  https://gatech.campuslabs.com/enga
  ge/organization/veggie-jackets
 LOCATION:Check GroupMe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scheller Lunchtime Live: How to Analyze an Emerging Technology
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220225T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220225T173000Z
+UID:http://hg.gatech.edu/node/655297#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nScheller Lunchtim
+ e Live is a livestream series hosted by the Georgia Tech Scheller College 
+ of Business featuring faculty\, student\, and alumni speakers discussing r
+ elevant topics for the tech-driven\, digital age.\n\nEmerging technologies
+  can change the business and societal environment rapidly and dramatically
+ . In this session\, Scheller Professor Eric Overby will present a structur
+ ed method for analyzing an emerging technology using 3-D printed houses as
+  an example.\n\nJust hit "Attend" on this LinkedIn event and refresh this 
+ page on Friday\, February 25 at 12:00 p.m. ET to access the session. Pleas
+ e note\, you must have a LinkedIn profile in order to register and view th
+ e livestream.\n\nAbout Eric Overby\n\nDr. Eric Overby joined the Scheller 
+ College of Business faculty in the fall of 2007 after completing his Ph.D 
+ at Emory University. He is currently the Catherine and Edward Wahlen profe
+ ssor of Information Technology Management.\n\nEric's research has appeared
+  in academic journals such as Management Science\, Information Systems Res
+ earch\, MIS Quarterly\, Organization Science\, Journal of Management Infor
+ mation Systems\, and the European Journal of Information Systems. His rese
+ arch has received awards from scholarly organizations such as INFORMS and 
+ the Academy of Management including the Best Published Paper of 2008 award
+  and the Best Program Paper of 2010 award from the Organizational Communic
+ ation and Information Systems division of the Academy of Management. He re
+ ceived the Sandy Slaughter Early Career Award from the INFORMS Information
+  System Society in 2015.\n\nHe also received the Linda and Lloyd Byars Awa
+ rd for Faculty Research Excellence from the Scheller College in 2015\, and
+  he was one of three finalists for the Association for Computing Machinery
+ 's SIGMIS Best Dissertation Award in 2007. Eric was one of two recipients 
+ (out of 221 junior faculty) of Georgia Tech's university-wide Junior Facul
+ ty Teaching Excellence award in 2011 and was the first Scheller College fa
+ culty member to receive this award since 1993. He also received the James 
+ F. Frazier\, Jr. Award for Teaching Excellence in 2011. Eric received the 
+ 2012 Best Reviewer Award for his service to Information Systems Research. 
+ He received the Meritorious Service awards for his service to Management S
+ cience in 2013 and 2015 and he is an associate editor at Management Scienc
+ e.\n\nEric's research is motivated by a central observation: activities an
+ d processes that have traditionally been conducted in physical environment
+ s are shifting to electronic environments. For example\, shopping processe
+ s that were once conducted in physical stores are shifting online\, and th
+ e process of applying for a loan is shifting from physical bank branches t
+ o online lending platforms. Eric's research: a) seeks to explain why some 
+ activities and processes are more suitable for migration to electronic env
+ ironments than others\, and b) explores the implications of physical-to-el
+ ectronic shifts in contexts such as the used car market\, consumer lending
+ \, medical records\, and the news media.\n\nLinks:\n[0]  http://hg.gatech.
+ edu/node/655297#0\n[1]  https://www.linkedin.com/video/event/urn:li:ugcPos
+ t:6895019979335380992/
+LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Community Dinner
