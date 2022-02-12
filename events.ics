@@ -13126,6 +13126,19 @@ LOCATION:Auditorium\, The Kendeda Building for Innovative Sustainable Desi
  gn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Vegan Cookie Decorating
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220217T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220217T010000Z
+UID:https://gatech.campuslabs.com/engage/event/7884043
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nWednesday\, February 16
+ th from 7 to 8 pm in Kendeda 230 with vegan and gluten-free cookies!\n\nGu
+ ests who are experiencing symptoms of Covid-19 should not attend. We stron
+ gly encourage that you wear a mask when not eating (especially if indoors)
+ . We will be providing hand sanitizer.\n\nLinks:\n[0]  https://gatech.camp
+ uslabs.com/engage/event/7884043
+LOCATION:Kendeda 230
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:How to Get Into Research
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220217T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220217T170000Z
@@ -13138,6 +13151,24 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAre you interested in g
  m in CULC 102. We offer 50 RSVP spots\, but walk-ins are welcome.\n\nLinks
  :\n[0]  https://gatech.campuslabs.com/engage/event/7791630
 LOCATION:CULC 102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bridge Club Open House
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220217T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220218T020000Z
+UID:http://hg.gatech.edu/node/655390#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nIf you like to play card games\, 
+ either for fun or competitively\, and would like to make new friends\, the
+  Bridge Club invites you to attend its Open House on Thursday\, Feb. 10 at
+  6pm-9pm or Friday\, Sep. 10th at 3pm-5pm in the Exhibition Hall\, Buckhea
+ d Room. We play bridge in a friendly and relaxed atmosphere and everyone i
+ s welcome to join\, including beginners: we'll teach you how to play and h
+ elp you to improve your skills over time. Stop by to say hi and play bridg
+ e with us!\n\nLinks:\n[0]  http://hg.gatech.edu/node/655390#0\n[1]  https:
+ //gatech.campuslabs.com/engage/event/7884049\n[2]  https://gatech.campusla
+ bs.com/engage/organization/bridge-club
+LOCATION:Buckhead Room\, Exhibition Hall
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Veggie Jackets Bring-Your-Own-Lunch
@@ -13157,6 +13188,22 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Check GroupMe
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bridge Club Open House
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220218T200000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220218T220000Z
+UID:https://gatech.campuslabs.com/engage/event/7884050
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nIf you like to play car
+ d games\, either for fun or competitively\, and would like to make new fri
+ ends\, the Bridge Club invites you to attend its Open House on Thursday\, 
+ Feb. 10 at 6pm-9pm or Friday\, Sep. 10th at 3pm-5pm in the Exhibition Hall
+ \, Buckhead Room. We play bridge in a friendly and relaxed atmosphere and 
+ everyone is welcome to join\, including beginners: we'll teach you how to 
+ play and help you to improve your skills over time. Stop by to say hi and 
+ play bridge with us!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/
+ event/7884050
+LOCATION:Exhibition Hall - Buckhead
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Students Organizing for Sustainability Campfire Social
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220219T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220219T010000Z
@@ -13169,6 +13216,21 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  \n[0]  http://hg.gatech.edu/node/655179#0\n[1]  https://gatech.campuslabs.
  com/engage/organization/students-organizing-for-sustainability
 LOCATION:West Village Dining Commons
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sanskrit Workshop
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220219T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220219T180000Z
+UID:http://hg.gatech.edu/node/655385#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free Food\nStatus: published\n\nHosted by Hindu Youth for Un
+ ity\, Virtues\, and Action\n\nJoin GT Hindu YUVA in a beginners two-day Sa
+ nskrit Workshop!! Learn basic Sanskrit in one weekend in an interactive wo
+ rkshop led by an instructor from Samskritam Bharati! No experience necessa
+ ry!\n\nLinks:\n[0]  http://hg.gatech.edu/node/655385#0\n[1]  https://gatec
+ h.campuslabs.com/engage/event/7884067\n[2]  http://instagram.com/gthinduyu
+ va
+LOCATION:Home Park\, Exhibition Hall
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trailblazers: Hike With a Scientist!
@@ -13227,6 +13289,21 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Community Garden\, Instructional Center Lawn\, 759 Ferst Drive NW
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sanskrit Workshop
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220220T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220220T180000Z
+UID:http://hg.gatech.edu/node/655385#1
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free Food\nStatus: published\n\nHosted by Hindu Youth for Un
+ ity\, Virtues\, and Action\n\nJoin GT Hindu YUVA in a beginners two-day Sa
+ nskrit Workshop!! Learn basic Sanskrit in one weekend in an interactive wo
+ rkshop led by an instructor from Samskritam Bharati! No experience necessa
+ ry!\n\nLinks:\n[0]  http://hg.gatech.edu/node/655385#1\n[1]  https://gatec
+ h.campuslabs.com/engage/event/7884068\n[2]  http://instagram.com/gthinduyu
+ va
+LOCATION:Home Park\, Exhibition Hall
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pancake Breakfast
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220220T173000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220220T183000Z
@@ -13238,6 +13315,17 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  ://gatech.campuslabs.com/engage/event/7730955\n[2]  https://gatech.campusl
  abs.com/engage/organization/cso
 LOCATION:Catholic Center Basement\, 172 4th St NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Misa en Español
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220221T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220222T000000Z
+UID:https://gatech.campuslabs.com/engage/event/7884066
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for a Mass cele
+ brated in Spanish. Afterwards\, the Hispanic Outreach team will be serving
+  dinner. It's a great chance to hang out and meet new people!\n\nLinks:\n[
+ 0]  https://gatech.campuslabs.com/engage/event/7884066
+LOCATION:Catholic Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Power of Two
@@ -13386,6 +13474,40 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:I2S Workshops and SLS presents: Asset-Based Community Development
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220228T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220301T003000Z
+UID:http://hg.gatech.edu/node/655416#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nJoin the Institute for Leadership
+  and Social Impact [1] and Serve-Learn-Sustain [2] for a community worksho
+ p on ABCD led by CivicGeorgia [3].\n\nCivicGeorgia is a BIPOC-led advocacy
+  organization striving to amplify the voice\, frequency\, and impact of co
+ mmunity-led efforts for progress.\n\nThis workshop is part of the Ideas to
+  Serve weekly series.\n\nMore about I2S:\n\nWe take a comprehensive approa
+ ch to social innovation encouraging students to be compassionate listeners
+ \; identify and build on the assets of communities\; research the solution
+  landscape to learn from both what works and what failed\; take a systems 
+ approach to identify the root cause versus the symptoms of the issue.\n\nS
+ tudents who aspire to work closely with and learn from a community partner
+ /civic entrepreneur\, those who want to affect change in the United Nation
+ s Sustainable Development Goals (UNSDGs)\, and those who are wondering how
+  they can make a real\, lasting\, and appropriate difference in other peop
+ le’s lives are ideal candidates for I2S.\n\nIn the 2022 season\, student
+  teams will learn from and work with our Atlanta area community partners a
+ nd civic entrepreneurs.\n\nThe deliverable for I2S is a Stakeholder Map of
+  the social issue student teams explore with their community partner's gui
+ dance. The I2S Showcase will take place on April 18 where teams will prese
+ nt the outcome of their work to an audience of practitioners\, community l
+ eaders\, faculty\, and students.\n\nLearn more about our community partner
+ s and our supporters at ilsi.gatech.edu/i2s\n\nLinks:\n[0]  http://hg.gate
+ ch.edu/node/655416#0\n[1]  https://www.scheller.gatech.edu/centers-initiat
+ ives/ile/index.html\n[2]  https://serve-learn-sustain.gatech.edu/\n[3]  ht
+ tps://www.civicga.org/\n[4]  https://www.scheller.gatech.edu/centers-initi
+ atives/ile/i2s/index.html
+LOCATION:Scheller 203
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jon's Office Hours
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220301T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220301T170000Z
@@ -13405,6 +13527,21 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
   conversation! Dinner will start around 7:30 and be followed by a discussi
  on or other activity!\n\nLinks:\n[0]  http://hg.gatech.edu/node/654285#7
 LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Researchers/Storytime
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220304T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220304T010000Z
+UID:https://gatech.campuslabs.com/engage/event/7886244
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAre you involved in res
+ earch? Are you looking for advice on how to grow in your lab while hanging
+  out with other people in research? No matter where you are in your resear
+ ch journey\, we invite you to ask for advice\, share interesting stories a
+ bout your lab\, and laugh with us about the ups and downs of research over
+  s'mores. This event will be held Thursday\, March 3\, from 7-8pm at the W
+ est Village fire pits. We have 50 RSVP spots but accept walk-ins!\n\nLinks
+ :\n[0]  https://gatech.campuslabs.com/engage/event/7886244
+LOCATION:West Village fire pits
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Veggie Jackets Bring-Your-Own-Lunch
