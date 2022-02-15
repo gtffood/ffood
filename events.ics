@@ -2,123 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:CCF The Event
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210212T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210212T040000Z
-UID:http://hg.gatech.edu/node/643935#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free Food\nStatus: published\n\nA time of community\, a faith-bas
- ed talk\, worship\, discussion and fun. We have two large group starting t
- imes\, 7 p.m. and 8:30 p.m. and optional discussion groups after each. Aro
- und 10 p.m.\, we have an after-event that is something like a dance party\
- , going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, regardless o
- f what you believe\, is welcome. We have both in-person and online options
- . Our service is available on Zoom at 8:30 p.m.: [2].\n\nA time of communi
- ty\, a faith-based talk\, worship\, discussion and fun. We have two large 
- group starting times\, 7:00pm and 8:30pm and optional discussion groups af
- ter each. Around 10pm\, we have an after-event that is something like a da
- nce party\, going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, re
- gardless of what you believe\, is welcome. We have both in-person and onli
- ne options. Our service is available on Zoom at 8:30pm: https://us02web.zo
- om.us/j/84188146312\n\nLinks:\n[0]  http://hg.gatech.edu/node/643935#0\n[1
- ]  https://gatech.campuslabs.com/engage/event/6869224\n[2]  https://us02we
- b.zoom.us/j/84188146312\n[3]  https://linktr.ee/gtccf
-LOCATION:Christian Campus Fellowship\, 767 Techwood Dr. NW or Online
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scheller Lunchtime Live: Virtual Reality and its Place in The Futu
- re of Learning
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210212T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210212T173000Z
-UID:http://hg.gatech.edu/node/643491#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: draft\n\nAbout\n\nScheller Lunchtime Live is a livestream se
- ries hosted by the Georgia Tech Scheller College of Business featuring fac
- ulty\, student\, and alumni speakers discussing relevant topics for the te
- ch-driven\, digital age.\n\nIn this episode\, Scheller alumni and Foundry 
- 45 [1] 's Managing Partner Dave Beck talks about how VR technology is bein
- g used to train\, reskill\, and upskill the current workforce. The present
- ation will include several examples of case studies from companies includi
- ng Delta Air Lines\, UPS\, and The Weather Channel.\n\nJust hit "Attend ev
- ent" on the LinkedIn event and visit the Georgia Tech Scheller College of 
- Business page on Friday\, February 12 at 12:00 p.m. ET to access the sessi
- on.\n\nAbout Dave Beck\n\nDave Beck is a founder and managing partner at F
- oundry 45\, an immersive technology company that develops enterprise-level
-  virtual reality training experiences. His company has built hundreds of e
- xperiences for notable clients such as Delta Air Lines\, Chevron\, and UPS
- . A passionate advocate of his industry\, Dave is a frequent speaker on to
- pics related to technology and the future of learning. Before starting Fou
- ndry 45\, he held leadership positions in both training and technology. Da
- ve also serves as a board member at Georgia Tech\, where he earned his MBA
- \, the Metro Atlanta Chamber of Commerce\, and the MAK Historic District.\
- n\nLinks:\n[0]  http://hg.gatech.edu/node/643491#0\n[1]  https://foundry45
- .com/vr-training/\n[2]  https://www.linkedin.com/events/676024764282915635
- 5
-LOCATION:Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AGSC Movie Night
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210212T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210213T010000Z
-UID:http://hg.gatech.edu/node/644087#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
- aduate students\nStatus: published\n\nAfrican Graduate Students Connect @ 
- GT (AGSC) will be having her first social this Friday at MSE G011. There w
- ill be a lot of food (jollof rice\, chicken\, fried plantain\, etc.) but p
- lease come on time. Please join us by participating in this long-standing 
- tradition at AGSC. Hope to see you soon!\n\nLinks:\n[0]  http://hg.gatech.
- edu/node/644087#0
-LOCATION:Molecular Science and Engineering Building\, Room G011
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:中国新年活动
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210212T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210213T000000Z
-UID:http://hg.gatech.edu/node/644001#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free Food\nStatus: published\n
- \nThe Chinese Christian Fellowship at Georgia Tech invites you to a Chines
- e-speaking community get-together at 6 p.m. (EST) on Friday\, Feb. 12!\n\n
- 疫情不能使我们与爱隔绝\n有一种乡愁，是大洋彼岸的我
- 们因为疫情和各种其他原因无法回家过春节。校园之家
- 希望在新春为大家送上祝福，让爱连接独自在异乡的我
- 们。在这周五大年初一（2/12/2021）傍晚，欢迎想要庆祝
- 农历新年的你来线下领取我们准备的春节大礼包以及参
- 加咱们举办的网上联欢。\n活动具体安排：\n· 领取春节
- 大礼包：\n时间：6-7 p.m.\n地址：Exhibition Hall Home Park\, 460 
- 4th St NW\, Atlanta\, GA30313\n· 线上春节联欢：\n时间：7:15-9 p
- .m.\n地址：Zoom Meeting: 82602157880\nPasscode: 1234\n活动安排：
- 有奖问答（Amazon Gift Cards），社交和游戏\n\nplease write the 
- form:\nhttps://docs.google.com/forms/d/1tcTZcobrgL4544__Sfs-OmoYmX-mHsfuJb
- X9ROguEB8/edit?usp=sharing [2]\n\nThe Chinese Christian Fellowship at Geor
- gia Tech invites you to a Chinese-speaking community get-together at 6PM (
- EST) on Friday\, February 12!\n\n今天校园之家的聚会是我们会
- 在exhibition hall的home park提供1h的食物窗口，还会有人与你
- 一起探讨你生活中的困难。今晚我们一起来探讨吧[Rose]
- 。我们会在活动中给每位来访者提供神秘礼物。不过小
- 编还是提醒注意带口罩参加哦。\n\n如果你来不及来取食
- 物，也欢迎你来参加晚上7：30 开始的新年特别活动。 我
- 们将会提供线上交流平台，同时和一些小游戏。\n\nLinks:\
- n[0]  http://hg.gatech.edu/node/644001#0\n[1]  https://gatech.campuslabs.c
- om/engage/event/6888843\n[2]  http://the chinese christian fellowship at g
- eorgia tech invites you to a chinese-speaking community get-together at 6p
- m (est) on friday\, february 12 ! 疫情不能使我们与爱隔绝 有一
- 种乡愁，是大洋彼岸的我们因为疫情和各种其他原因无
- 法回家过春节。校园之家希望在新春为大家送上祝福，
- 让爱连接独自在异乡的我们。在这周五大年初一（2/12/202
- 1）傍晚，欢迎想要庆祝农历新年的你来线下领取我们准
- 备的春节大礼包以及参加咱们举办的网上联欢。 活动具
- 体安排： · 领取春节大礼包： 时间：6pm – 7pm 地址：Exh
- ibition Hall Home Park\, 460 4th St NW\, Atlanta\, GA30313 · 线上春节
- 联欢： 时间：7:15 pm – 9pm 地址：Zoom Meeting: 82602157880 Pass
- code: 1234 活动安排：有奖问答（Amazon Gift Cards），社交和
- 游戏 please write the form: https://docs.google.com/forms/d/1tcTZcobrgL4
- 544__Sfs-OmoYmX-mHsfuJbX9ROguEB8/edit?usp=sharing\n[3]  https://gatech.cam
- puslabs.com/engage/organization/chinese-christian-fellowship\n[4]  https:/
- /us02web.zoom.us/j/82602157880
-LOCATION:Exhibition Hall\, Home Park Room or Online
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCF Trivia Lunch
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210215T164500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210215T184500Z
@@ -13091,6 +12974,44 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Catholic Center Basement\, 172 4th St NW
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ideas to Serve Workshops: Finding Data with Social Explorer
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220214T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220215T003000Z
+UID:http://hg.gatech.edu/node/655451#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nThis is a weekly workshop series 
+ for Ideas to Serve participants. This week we explore finding data with So
+ cial Explorer.\n\nWe take a comprehensive approach to social innovation en
+ couraging students to be compassionate listeners\; identify and build on t
+ he assets\; research the solution landscape to learn from both what works 
+ and what failed\; take a systems approach to identify the root cause versu
+ s the symptoms of the issue.\n\nStudents who aspire to work closely with a
+ nd learn from a community partner/civic entrepreneur\, those who want to a
+ ffect change in the United Nations Sustainable Development Goals (UNSDGs)\
+ , and those who are wondering how they can make a real\, lasting\, and app
+ ropriate difference in other people’s lives are ideal candidates for I2S
+ .\n\nIn the 2022 season\, student teams will learn from and work with our 
+ Atlanta area community partners and civic entrepreneurs. A series of hands
+ -on workshops and discussions\, complemented by conversations with experts
+  from the frontlines\, will equip participants with broadly relevant probl
+ em discovery tools and skills that they can apply in any field and career.
+  The workshops are offered as part of the MGT4803 Social Impact course and
+  they are open to any student interested.\n\nThe deliverable for I2S is a 
+ Stakeholder Map of the social issue student teams explore with their commu
+ nity partner's guidance. The I2S Showcase will take place on April 18 wher
+ e teams will present the outcome of their work to an audience of practitio
+ ners\, community leaders\, faculty\, and students.\n\nParticipating I2S Te
+ ams can apply to the Map the System Global Challenge [1] as a part of our 
+ collaboration with the Skoll Center for Social Entrepreneurship at the Sa
+ ïd Business School at Oxford. The top team(s) from I2S will represent Geo
+ rgia Tech at Oxford and compete with teams focused on social impact from t
+ op universities around the world.\n\nLearn more about our community partne
+ rs and our supporters at ilsi.gatech.edu/i2s\n\nLinks:\n[0]  http://hg.gat
+ ech.edu/node/655451#0\n[1]  https://mapthesystem.sbs.ox.ac.uk/home\n[2]  h
+ ttps://www.scheller.gatech.edu/centers-initiatives/ile/i2s/index.html
+LOCATION:Scheller 203
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Valentine's Day Cookie Decorating
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220214T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220215T000000Z
@@ -13315,6 +13236,46 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  ://gatech.campuslabs.com/engage/event/7730955\n[2]  https://gatech.campusl
  abs.com/engage/organization/cso
 LOCATION:Catholic Center Basement\, 172 4th St NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ideas to Serve Workshops: Presenting Data for Storytelling/Data Vi
+ sualization
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220221T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220222T003000Z
+UID:http://hg.gatech.edu/node/655452#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nThis is a weekly workshop series 
+ for Ideas to Serve participants. This week we explore presenting data for 
+ storytelling/data visualization.\n\nWe take a comprehensive approach to so
+ cial innovation encouraging students to be compassionate listeners\; ident
+ ify and build on the assets\; research the solution landscape to learn fro
+ m both what works and what failed\; take a systems approach to identify th
+ e root cause versus the symptoms of the issue.\n\nStudents who aspire to w
+ ork closely with and learn from a community partner/civic entrepreneur\, t
+ hose who want to affect change in the United Nations Sustainable Developme
+ nt Goals (UNSDGs)\, and those who are wondering how they can make a real\,
+  lasting\, and appropriate difference in other people’s lives are ideal 
+ candidates for I2S.\n\nIn the 2022 season\, student teams will learn from 
+ and work with our Atlanta area community partners and civic entrepreneurs.
+  A series of hands-on workshops and discussions\, complemented by conversa
+ tions with experts from the frontlines\, will equip participants with broa
+ dly relevant problem discovery tools and skills that they can apply in any
+  field and career. The workshops are offered as part of the MGT4803 Social
+  Impact course and they are open to any student interested.\n\nThe deliver
+ able for I2S is a Stakeholder Map of the social issue student teams explor
+ e with their community partner's guidance. The I2S Showcase will take plac
+ e on April 18 where teams will present the outcome of their work to an aud
+ ience of practitioners\, community leaders\, faculty\, and students.\n\nPa
+ rticipating I2S Teams can apply to the Map the System Global Challenge [1]
+  as a part of our collaboration with the Skoll Center for Social Entrepren
+ eurship at the Saïd Business School at Oxford. The top team(s) from I2S w
+ ill represent Georgia Tech at Oxford and compete with teams focused on soc
+ ial impact from top universities around the world.\n\nLearn more about our
+  community partners and our supporters at ilsi.gatech.edu/i2s\n\nLinks:\n[
+ 0]  http://hg.gatech.edu/node/655452#0\n[1]  https://mapthesystem.sbs.ox.a
+ c.uk/home\n[2]  https://www.scheller.gatech.edu/centers-initiatives/ile/i2
+ s/index.html
+LOCATION:Scheller 203
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Misa en Español
@@ -13598,6 +13559,44 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Room 144\, Clough Commons
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ideas to Serve Workshops: Mapping (part 1): Introducing the Tool
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220307T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220308T003000Z
+UID:http://hg.gatech.edu/node/655453#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nThis is a weekly workshop series 
+ for Ideas to Serve participants. This week we explore the mapping tool.\n\
+ nWe take a comprehensive approach to social innovation encouraging student
+ s to be compassionate listeners\; identify and build on the assets\; resea
+ rch the solution landscape to learn from both what works and what failed\;
+  take a systems approach to identify the root cause versus the symptoms of
+  the issue.\n\nStudents who aspire to work closely with and learn from a c
+ ommunity partner/civic entrepreneur\, those who want to affect change in t
+ he United Nations Sustainable Development Goals (UNSDGs)\, and those who a
+ re wondering how they can make a real\, lasting\, and appropriate differen
+ ce in other people’s lives are ideal candidates for I2S.\n\nIn the 2022 
+ season\, student teams will learn from and work with our Atlanta area comm
+ unity partners and civic entrepreneurs. A series of hands-on workshops and
+  discussions\, complemented by conversations with experts from the frontli
+ nes\, will equip participants with broadly relevant problem discovery tool
+ s and skills that they can apply in any field and career. The workshops ar
+ e offered as part of the MGT4803 Social Impact course and they are open to
+  any student interested.\n\nThe deliverable for I2S is a Stakeholder Map o
+ f the social issue student teams explore with their community partner's gu
+ idance. The I2S Showcase will take place on April 18 where teams will pres
+ ent the outcome of their work to an audience of practitioners\, community 
+ leaders\, faculty\, and students.\n\nParticipating I2S Teams can apply to 
+ the Map the System Global Challenge [1] as a part of our collaboration wit
+ h the Skoll Center for Social Entrepreneurship at the Saïd Business Schoo
+ l at Oxford. The top team(s) from I2S will represent Georgia Tech at Oxfor
+ d and compete with teams focused on social impact from top universities ar
+ ound the world.\n\nLearn more about our community partners and our support
+ ers at ilsi.gatech.edu/i2s\n\nLinks:\n[0]  http://hg.gatech.edu/node/65545
+ 3#0\n[1]  https://mapthesystem.sbs.ox.ac.uk/home\n[2]  https://www.schelle
+ r.gatech.edu/centers-initiatives/ile/i2s/index.html
+LOCATION:Scheller 203
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jon's Office Hours
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220308T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220308T170000Z
@@ -13688,6 +13687,44 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  u/node/654531#0\n[1]  https://gatech.campuslabs.com/engage/event/7730944\n
  [2]  https://gatech.campuslabs.com/engage/organization/cso
 LOCATION:Catholic Center Basement\, 172 4th St NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ideas to Serve Workshops: Mapping (part 2): Creating Your Map
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220314T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220314T233000Z
+UID:http://hg.gatech.edu/node/655455#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nThis is a weekly workshop series 
+ for Ideas to Serve participants. This week we explore creating your map.\n
+ \nWe take a comprehensive approach to social innovation encouraging studen
+ ts to be compassionate listeners\; identify and build on the assets\; rese
+ arch the solution landscape to learn from both what works and what failed\
+ ; take a systems approach to identify the root cause versus the symptoms o
+ f the issue.\n\nStudents who aspire to work closely with and learn from a 
+ community partner/civic entrepreneur\, those who want to affect change in 
+ the United Nations Sustainable Development Goals (UNSDGs)\, and those who 
+ are wondering how they can make a real\, lasting\, and appropriate differe
+ nce in other people’s lives are ideal candidates for I2S.\n\nIn the 2022
+  season\, student teams will learn from and work with our Atlanta area com
+ munity partners and civic entrepreneurs. A series of hands-on workshops an
+ d discussions\, complemented by conversations with experts from the frontl
+ ines\, will equip participants with broadly relevant problem discovery too
+ ls and skills that they can apply in any field and career. The workshops a
+ re offered as part of the MGT4803 Social Impact course and they are open t
+ o any student interested.\n\nThe deliverable for I2S is a Stakeholder Map 
+ of the social issue student teams explore with their community partner's g
+ uidance. The I2S Showcase will take place on April 18 where teams will pre
+ sent the outcome of their work to an audience of practitioners\, community
+  leaders\, faculty\, and students.\n\nParticipating I2S Teams can apply to
+  the Map the System Global Challenge [1] as a part of our collaboration wi
+ th the Skoll Center for Social Entrepreneurship at the Saïd Business Scho
+ ol at Oxford. The top team(s) from I2S will represent Georgia Tech at Oxfo
+ rd and compete with teams focused on social impact from top universities a
+ round the world.\n\nLearn more about our community partners and our suppor
+ ters at ilsi.gatech.edu/i2s\n\nLinks:\n[0]  http://hg.gatech.edu/node/6554
+ 55#0\n[1]  https://mapthesystem.sbs.ox.ac.uk/home\n[2]  https://www.schell
+ er.gatech.edu/centers-initiatives/ile/i2s/index.html
+LOCATION:Scheller 203
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WST Lrn C dinner with Dr. Mary Lynn Realff
@@ -13863,6 +13900,44 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Saturday in
  OliJZBA/viewform?usp=sf_link\n[3]  https://docs.google.com/document/d/1B19
  bvV1N73QFvuwN3UnBfZ913ij5IXtbz5cb2DzmNkU/edit?usp=sharing
 LOCATION:GT Community Garden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ideas to Serve Workshops: Persuasive Presentations
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220321T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220321T233000Z
+UID:http://hg.gatech.edu/node/655456#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nThis is a weekly workshop series 
+ for Ideas to Serve participants. This week we explore persuasive presentat
+ ions.\n\nWe take a comprehensive approach to social innovation encouraging
+  students to be compassionate listeners\; identify and build on the assets
+ \; research the solution landscape to learn from both what works and what 
+ failed\; take a systems approach to identify the root cause versus the sym
+ ptoms of the issue.\n\nStudents who aspire to work closely with and learn 
+ from a community partner/civic entrepreneur\, those who want to affect cha
+ nge in the United Nations Sustainable Development Goals (UNSDGs)\, and tho
+ se who are wondering how they can make a real\, lasting\, and appropriate 
+ difference in other people’s lives are ideal candidates for I2S.\n\nIn t
+ he 2022 season\, student teams will learn from and work with our Atlanta a
+ rea community partners and civic entrepreneurs. A series of hands-on works
+ hops and discussions\, complemented by conversations with experts from the
+  frontlines\, will equip participants with broadly relevant problem discov
+ ery tools and skills that they can apply in any field and career. The work
+ shops are offered as part of the MGT4803 Social Impact course and they are
+  open to any student interested.\n\nThe deliverable for I2S is a Stakehold
+ er Map of the social issue student teams explore with their community part
+ ner's guidance. The I2S Showcase will take place on April 18 where teams w
+ ill present the outcome of their work to an audience of practitioners\, co
+ mmunity leaders\, faculty\, and students.\n\nParticipating I2S Teams can a
+ pply to the Map the System Global Challenge [1] as a part of our collabora
+ tion with the Skoll Center for Social Entrepreneurship at the Saïd Busine
+ ss School at Oxford. The top team(s) from I2S will represent Georgia Tech 
+ at Oxford and compete with teams focused on social impact from top univers
+ ities around the world.\n\nLearn more about our community partners and our
+  supporters at ilsi.gatech.edu/i2s\n\nLinks:\n[0]  http://hg.gatech.edu/no
+ de/655456#0\n[1]  https://mapthesystem.sbs.ox.ac.uk/home\n[2]  https://www
+ .scheller.gatech.edu/centers-initiatives/ile/i2s/index.html
+LOCATION:Scheller 203
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Veggie Jackets Bring-Your-Own-Lunch
@@ -14160,6 +14235,45 @@ LOCATION:Marcus Nanotechnology Building | 345 Ferst Drive | Atlanta GA 303
  32
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ideas to Serve Workshops: Mapping (part 3): Peer Feedback and Fina
+ lizing Your Map
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220411T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220411T233000Z
+UID:http://hg.gatech.edu/node/655457#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nThis is a weekly workshop series 
+ for Ideas to Serve participants. This week we explore peer feedback and fi
+ nalizing your map.\n\nWe take a comprehensive approach to social innovatio
+ n encouraging students to be compassionate listeners\; identify and build 
+ on the assets\; research the solution landscape to learn from both what wo
+ rks and what failed\; take a systems approach to identify the root cause v
+ ersus the symptoms of the issue.\n\nStudents who aspire to work closely wi
+ th and learn from a community partner/civic entrepreneur\, those who want 
+ to affect change in the United Nations Sustainable Development Goals (UNSD
+ Gs)\, and those who are wondering how they can make a real\, lasting\, and
+  appropriate difference in other people’s lives are ideal candidates for
+  I2S.\n\nIn the 2022 season\, student teams will learn from and work with 
+ our Atlanta area community partners and civic entrepreneurs. A series of h
+ ands-on workshops and discussions\, complemented by conversations with exp
+ erts from the frontlines\, will equip participants with broadly relevant p
+ roblem discovery tools and skills that they can apply in any field and car
+ eer. The workshops are offered as part of the MGT4803 Social Impact course
+  and they are open to any student interested.\n\nThe deliverable for I2S i
+ s a Stakeholder Map of the social issue student teams explore with their c
+ ommunity partner's guidance. The I2S Showcase will take place on April 18 
+ where teams will present the outcome of their work to an audience of pract
+ itioners\, community leaders\, faculty\, and students.\n\nParticipating I2
+ S Teams can apply to the Map the System Global Challenge [1] as a part of 
+ our collaboration with the Skoll Center for Social Entrepreneurship at the
+  Saïd Business School at Oxford. The top team(s) from I2S will represent 
+ Georgia Tech at Oxford and compete with teams focused on social impact fro
+ m top universities around the world.\n\nLearn more about our community par
+ tners and our supporters at ilsi.gatech.edu/i2s\n\nLinks:\n[0]  http://hg.
+ gatech.edu/node/655457#0\n[1]  https://mapthesystem.sbs.ox.ac.uk/home\n[2]
+   https://www.scheller.gatech.edu/centers-initiatives/ile/i2s/index.html
+LOCATION:Scheller 203
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:2022 Brumley D. Pritchett Lecture & the IMat Symposium on Material
  s Innovation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220412T130000Z
@@ -14323,6 +14437,44 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Room 144\, Clough Commons
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ideas to Serve Workshops: I2S Showcase and Partner Celebration
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220418T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220418T233000Z
+UID:http://hg.gatech.edu/node/655459#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nThis is a weekly workshop series 
+ for Ideas to Serve participants. This week we have the I2S Showcase and Pa
+ rtner Celebration.\n\nWe take a comprehensive approach to social innovatio
+ n encouraging students to be compassionate listeners\; identify and build 
+ on the assets\; research the solution landscape to learn from both what wo
+ rks and what failed\; take a systems approach to identify the root cause v
+ ersus the symptoms of the issue.\n\nStudents who aspire to work closely wi
+ th and learn from a community partner/civic entrepreneur\, those who want 
+ to affect change in the United Nations Sustainable Development Goals (UNSD
+ Gs)\, and those who are wondering how they can make a real\, lasting\, and
+  appropriate difference in other people’s lives are ideal candidates for
+  I2S.\n\nIn the 2022 season\, student teams will learn from and work with 
+ our Atlanta area community partners and civic entrepreneurs. A series of h
+ ands-on workshops and discussions\, complemented by conversations with exp
+ erts from the frontlines\, will equip participants with broadly relevant p
+ roblem discovery tools and skills that they can apply in any field and car
+ eer. The workshops are offered as part of the MGT4803 Social Impact course
+  and they are open to any student interested.\n\nThe deliverable for I2S i
+ s a Stakeholder Map of the social issue student teams explore with their c
+ ommunity partner's guidance. The I2S Showcase will take place on April 18 
+ where teams will present the outcome of their work to an audience of pract
+ itioners\, community leaders\, faculty\, and students.\n\nParticipating I2
+ S Teams can apply to the Map the System Global Challenge [1] as a part of 
+ our collaboration with the Skoll Center for Social Entrepreneurship at the
+  Saïd Business School at Oxford. The top team(s) from I2S will represent 
+ Georgia Tech at Oxford and compete with teams focused on social impact fro
+ m top universities around the world.\n\nLearn more about our community par
+ tners and our supporters at ilsi.gatech.edu/i2s\n\nLinks:\n[0]  http://hg.
+ gatech.edu/node/655459#0\n[1]  https://mapthesystem.sbs.ox.ac.uk/home\n[2]
+   https://www.scheller.gatech.edu/centers-initiatives/ile/i2s/index.html
+LOCATION:Scheller 203
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jon's Office Hours
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220419T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220419T160000Z
@@ -14381,6 +14533,44 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  u/node/654532#0\n[1]  https://gatech.campuslabs.com/engage/event/7730945\n
  [2]  https://gatech.campuslabs.com/engage/organization/cso
 LOCATION:Catholic Center Basement\, 172 4th St NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ideas to Serve Workshops: Reflections and Team Awards
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220425T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220425T233000Z
+UID:http://hg.gatech.edu/node/655460#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nThis is a weekly workshop series 
+ for Ideas to Serve participants. This week we have reflections and team aw
+ ards.\n\nWe take a comprehensive approach to social innovation encouraging
+  students to be compassionate listeners\; identify and build on the assets
+ \; research the solution landscape to learn from both what works and what 
+ failed\; take a systems approach to identify the root cause versus the sym
+ ptoms of the issue.\n\nStudents who aspire to work closely with and learn 
+ from a community partner/civic entrepreneur\, those who want to affect cha
+ nge in the United Nations Sustainable Development Goals (UNSDGs)\, and tho
+ se who are wondering how they can make a real\, lasting\, and appropriate 
+ difference in other people’s lives are ideal candidates for I2S.\n\nIn t
+ he 2022 season\, student teams will learn from and work with our Atlanta a
+ rea community partners and civic entrepreneurs. A series of hands-on works
+ hops and discussions\, complemented by conversations with experts from the
+  frontlines\, will equip participants with broadly relevant problem discov
+ ery tools and skills that they can apply in any field and career. The work
+ shops are offered as part of the MGT4803 Social Impact course and they are
+  open to any student interested.\n\nThe deliverable for I2S is a Stakehold
+ er Map of the social issue student teams explore with their community part
+ ner's guidance. The I2S Showcase will take place on April 18 where teams w
+ ill present the outcome of their work to an audience of practitioners\, co
+ mmunity leaders\, faculty\, and students.\n\nParticipating I2S Teams can a
+ pply to the Map the System Global Challenge [1] as a part of our collabora
+ tion with the Skoll Center for Social Entrepreneurship at the Saïd Busine
+ ss School at Oxford. The top team(s) from I2S will represent Georgia Tech 
+ at Oxford and compete with teams focused on social impact from top univers
+ ities around the world.\n\nLearn more about our community partners and our
+  supporters at ilsi.gatech.edu/i2s\n\nLinks:\n[0]  http://hg.gatech.edu/no
+ de/655460#0\n[1]  https://mapthesystem.sbs.ox.ac.uk/home\n[2]  https://www
+ .scheller.gatech.edu/centers-initiatives/ile/i2s/index.html
+LOCATION:Scheller 203
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nano@Tech Spring 2022 Series | Session 8
