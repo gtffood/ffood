@@ -2,59 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:CCF Trivia Lunch
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210215T164500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210215T184500Z
-UID:http://hg.gatech.edu/node/643999#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nFree lunch and trivia every Monday! All lunches are 
- pre-packaged in to-go boxes\, and seating is available in a safe\, sociall
- y distant fashion inside and outside. Trivia begins at 11:50 a.m. and 12:5
- 0 p.m.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643999#0\n[1]  https://li
- nktr.ee/gtccf
-LOCATION:Christian Campus Fellowship (CCF)\, 767 Techwood Dr. NW
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trivia Lunch
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210215T164500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210215T184500Z
-UID:https://gatech.campuslabs.com/engage/event/6891740
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFree lunch and trivia e
- very Monday! All lunches are pre-packaged in to-go boxes\, and seating is 
- available in a safe\, socially distant fashion inside and outside. Trivia 
- begins at 11:50am and 12:50pm.\n\nLinks:\n[0]  https://gatech.campuslabs.c
- om/engage/event/6891740
-LOCATION:Christian Campus Fellowship (CCF)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Food4Lives Service with CCF
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210216T183000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210216T203000Z
-UID:http://hg.gatech.edu/node/643371#3
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nServing with a local organization\, Food4Lives\, to 
- prepare\, pack\, and distribute food to our friends on the streets of Atla
- nta.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643371#3\n[1]  http://www.g
- tccf.org/compassion/
-LOCATION:CCF\, 767 Techwood Drive NW
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dinner Jacket: Mechanical Engineering Young Alumni
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210216T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210217T000000Z
-UID:http://hg.gatech.edu/node/644204#0
-DESCRIPTION:Intended audience: Undergraduate students\nStatus: published\n
- \nOur Young Alumni Council is hosting 6 dinners this semester! Each Dinner
-  Jacket is focused on their degrees and industries- pick the one that inte
- rests you!\n\nThis Dinner is with (Morgan Bentley ME '16)\, Sid Gore (ME 
- ’17)\, D’Andre Waller (ME ’17)\, and Conor Martin (ME ’16). The al
- umni’s hopeful takeaway from this event? Network\, network\, network!\n\
- nLinks:\n[0]  http://hg.gatech.edu/node/644204#0\n[1]  https://www.gtsaa.c
- om/s/1481/alumni/17/interior-wide.aspx?sid=1481&gid=39&pgid=20393&cid=4524
- 6&ecid=45246&crid=0&calpgid=3165&calcid=23811
-LOCATION:Online
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCF The Event
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210219T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210219T040000Z
@@ -13047,6 +12994,49 @@ LOCATION:Auditorium\, The Kendeda Building for Innovative Sustainable Desi
  gn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Project for Awesome Video Making
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220216T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220217T010000Z
+UID:http://hg.gatech.edu/node/655475#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nJoin our Project for Awesome work
+ shop to make videos for high-impact charities\, in order to win money for 
+ them and introduce them to a wider audience! During Project for Awesome\, 
+ a community-driven charitable event created by Hank and John Green\, thous
+ ands of people create videos advocating for various charities. Then\, peop
+ le vote for their favorite videos during a 48-hour continuous live stream.
+  Last year\, the effective altruism community won about $190\,000 split ac
+ ross 7 charities: The Against Malaria Foundation\, The Good Food Institute
+ \, GiveDirectly\, Clean Air Task Force\, The Humane League\, Givewell Maxi
+ mum Impact Fund\, and Wild Animal Initiative. Three of the EA community's 
+ videos were featured\, and John gave a shoutout to EA.\n\nDuring our works
+ hop\, you'll choose a charity\, research it\, record a short 1–3 minute 
+ video (can be low-effort or high-effort)\, and submit it to Project for Aw
+ esome! Last year\, on average each of the EA community's videos moved $2.5
+ K to high-impact charities\, and the expected marginal value of an additio
+ nal video might be around $1K. We think this event will be a lot of fun an
+ d will also make an impact!\n\nJoin our Project for Awesome workshop to ma
+ ke videos for high-impact charities\, in order to win money for them and i
+ ntroduce them to a wider audience! During Project for Awesome\, a communit
+ y-driven charitable event created by Hank and John Green\, thousands of pe
+ ople create videos advocating for various charities. Then\, people vote fo
+ r their favorite videos during a 48-hour continuous live stream. Last year
+ \, the effective altruism community won about $190\,000 split across 7 cha
+ rities: The Against Malaria Foundation\, The Good Food Institute\, GiveDir
+ ectly\, Clean Air Task Force\, The Humane League\, Givewell Maximum Impact
+  Fund\, and Wild Animal Initiative. T hree of the EA community's videos we
+ re featured\, and John gave a shoutout to EA.\n\nDuring our workshop\, you
+ 'll choose a charity\, research it\, record a short 1–3 minute video (ca
+ n be low-effort or high-effort)\, and submit it to Project for Awesome! La
+ st year\, on average each of the EA community's videos moved $2.5K to high
+ -impact charities\, and the expected marginal value of an additional video
+  might be around $1K. We think this event will be a lot of fun and will al
+ so make an impact!\n\nLinks:\n[0]  http://hg.gatech.edu/node/655475#0\n[1]
+   https://gatech.campuslabs.com/engage/event/7902988\n[2]  https://gatech.
+ campuslabs.com/engage/organization/effective-altruism
+LOCATION:Room 254\, Skiles Building
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Vegan Cookie Decorating
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220217T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220217T010000Z
@@ -13314,6 +13304,50 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Westminster Christian Fellowship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Ultimate Taco Twosday at Tech Dining
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220222T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220222T190000Z
+UID:http://hg.gatech.edu/node/655508#0
+DESCRIPTION:Intended audience: Public\nStatus: published\n\nIt’s the ULT
+ IMATE Taco Twosday on 2/22/22! Celebrate for lunch at the West Village Din
+ ing Commons and experience an incredible taco menu.\n\nEntrance is a meal 
+ swipe or the door rate of $12.50 for an all-you-care-to-eat experience.\n\
+ nBreakfast\nChorizo/black bean scramble\nMigas- fresh vegetables scrambled
+  with vegan eggs and corn tortillas\nFlour tortillas\, corn tortillas\, sc
+ allion pancake\nConchas\n\nLunch\nTacos al pastor\nLamb birria taco\nNopal
+ es tacos\nSkillet rice and beans with corn and tomatoes\nSopapillas\nAssor
+ ted Jarritos Sodas\n\nDinner\nCarne asada tacos\nChipotle tilapia taco\nPl
+ ant based chicken tinga\nRoasted sweet potato and quinoa\nTres Leches Cake
+ \nAssorted Jarritos Sodas\n\nVegetable Bar\nescabeche\npickled onions\ncab
+ bage slaw\ncucumbers\nradish/carrots\npickled jicama salad\n\nToppings\nto
+ matillo salsa\ngrilled pineapple salsa\npico de gallo\nlimes\ncilantro/oni
+ ons\nqueso fresco\nguacamole\ntortilla chips\n\nLinks:\n[0]  http://hg.gat
+ ech.edu/node/655508#0
+LOCATION:West Village Dining Commons
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ultimate Taco Twosday with Tech Dining
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220222T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220222T190000Z
+UID:http://hg.gatech.edu/node/655507#0
+DESCRIPTION:Intended audience: Public\nStatus: published\n\nIt’s the ULT
+ IMATE Taco Twosday on 2/22/22! Celebrate for lunch at the West Village Din
+ ing Commons and experience an incredible taco menu.\n\nEntrance is a meal 
+ swipe or the door rate of $12.50 for an all-you-care-to-eat experience.\n\
+ nMenu:\n\nBreakfast\nChorizo/black bean scramble\nMigas- fresh vegetables 
+ scrambled with vegan eggs and corn tortillas\nFlour tortillas\, corn torti
+ llas\, scallion pancake\nConchas\n\nLunch\nTacos al pastor\nLamb birria ta
+ co\nNopales tacos\nSkillet rice and beans with corn and tomatoes\nSopapill
+ as\nAssorted Jarritos Sodas\n\nDinner\nCarne asada tacos\nChipotle tilapia
+  taco\nPlant based chicken tinga\nRoasted sweet potato and quinoa\nTres Le
+ ches Cake\nAssorted Jarritos Sodas\n\nVegetable Bar\nescabeche\npickled on
+ ions\ncabbage slaw\ncucumbers\nradish/carrots\npickled jicama salad\n\nTop
+ pings\ntomatillo salsa\ngrilled pineapple salsa\npico de gallo\nlimes\ncil
+ antro/onions\nqueso fresco\nguacamole\ntortilla chips\n\nLinks:\n[0]  http
+ ://hg.gatech.edu/node/655507#0
+LOCATION:West Village Dining Commons
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nano@Tech Spring 2022 Series | Session 4
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220222T170000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220222T180000Z
@@ -13323,6 +13357,18 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  \nAbstract: TBA\n\nBio: TBA\n\nLinks:\n[0]  http://hg.gatech.edu/node/6541
  35#0\n[1]  https://research.gatech.edu/nano/nanotechseminars
 LOCATION:Pettit Microelectronics Building 102 A&B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Women's Kickboxing Night
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220223T013000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220223T023000Z
+UID:https://gatech.campuslabs.com/engage/event/7909015
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCalling all Catholic Ce
+ nter women to join us for a kickboxing night led by our very own FOCUS mis
+ sionary\, Elizabeth Nash! Come ready to sweat and laugh\, starting at 8:30
+ PM in the basement\, with smoothies to share after.\n\nLinks:\n[0]  https:
+ //gatech.campuslabs.com/engage/event/7909015
+LOCATION:Catholic Center Basement
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Veggie Jackets Bring-Your-Own-Lunch
@@ -13957,6 +14003,20 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Check GroupMe
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:WST Lrn C dinner with Monica Marks about Consent app
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220328T213000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220328T223000Z
+UID:http://hg.gatech.edu/node/655510#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nMonica Marks (MSE doctoral studen
+ t) describes Consent app being developed by graduate students and shares i
+ nformation about related campus resources.\n\nDinner for Stein & Goldin re
+ sidents available at 5pm in Stein.\n\nLink for 5:30pm Blue Jeans meeting: 
+ https://bluejeans.com/953570417/2328\n\nLinks:\n[0]  http://hg.gatech.edu/
+ node/655510#0
+LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jon's Office Hours
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220329T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220329T160000Z
@@ -14274,6 +14334,18 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Scheller 203
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:WST Lrn C dinner with Amanda Planchard\, Health Services on VOICE
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220411T213000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220411T223000Z
+UID:http://hg.gatech.edu/node/655514#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nWST Lrn C dinner with Amanda Plan
+ chard\, Health Services on VOICE\n\n5pm dinner pickup for Stein and Goldin
+  residents\n\n5:30 pm meeting at. Blue Jeans link: [1]\n\nLinks:\n[0]  htt
+ p://hg.gatech.edu/node/655514#0\n[1]  https://bluejeans.com/501307992/3519
+LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:2022 Brumley D. Pritchett Lecture & the IMat Symposium on Material
  s Innovation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220412T130000Z
@@ -14435,6 +14507,49 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  ch.edu/node/654932#2\n[1]  https://gatech.campuslabs.com/engage/organizati
  on/greatconversations
 LOCATION:Room 144\, Clough Commons
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WST Lrn C dinner with Dr. Nassim Parvin\, Digital Media/LMC
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220418T200000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220418T210000Z
+UID:http://hg.gatech.edu/node/655515#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nWST Lrn C dinner with Dr. Nassim 
+ Parvin\, Digital Media/LMC\n\n4pm meeting at Blue Jeans link: [1]\n\n5pm d
+ inner pickup for Stein and Goldin residents\n\nDr. Parvin (JafariNaimi) is
+  an Associate Professor of Digital Media in the School of Literature\, Med
+ ia\, and Communication at Georgia Tech\, where she also directs the Design
+  and Social Justice Studio [2]. Parvin’s research explores the ethical a
+ nd political dimensions of design and technology\, especially as related t
+ o values of democratic participation and social justice. Integrating metho
+ ds of humanistic scholarship and design-based inquiry\, her research answe
+ rs pressing questions about the influence of digital technologies on the f
+ uture of social and collective interactions. Her papers have appeared in p
+ remier publication venues in design studies\, science and technology studi
+ es\, and human-computer interaction.\n\nParvin has a lead editorial role i
+ n Catalyst: Feminism\, Theory\, Technoscience [3]\, an innovative open-acc
+ ess journal in the expanding interdisciplinary field of STS that recently 
+ received 2020 Society for Social Studies of Science (4S) Infrastructure Aw
+ ard. [4] She also serves as the associate director of Digital Integrative 
+ Liberal Arts Center [5]\, an interdisciplinary research center funded by t
+ he Mellon Foundation\; and the associate director of the newly established
+  Ethics\, Technology\, and Human Interaction Center [6] (ETHICx). Parvin
+ ’s teaching has received multiple recognitions inclusive of the campus-w
+ ide 2017 GATECH CETL/BP Junior Faculty Teaching Excellence Award. Her desi
+ gns have been deployed at non-profit organizations such as the Mayo Clinic
+  and exhibited in venues such as the Smithsonian Museum\, receiving multip
+ le awards and recognitions. Dr. Parvin received her PhD in Design from Car
+ negie Mellon University. She holds an MS in Information Design and Technol
+ ogy from Georgia Tech and a BS in Electrical Engineering from the Universi
+ ty of Tehran.\n\nLinks:\n[0]  http://hg.gatech.edu/node/655515#0\n[1]  htt
+ ps://bluejeans.com/889488672/1026\n[2]  http://designstudio.gatech.edu/\n[
+ 3]  https://catalystjournal.org/index.php/catalyst\n[4]  https://www.4sonl
+ ine.org/prizes/infrastructure#:~:text=2020%20STS%20Infrastructure%20Award%
+ 20goes%20to%20Catalyst:%20Feminism\,%20Theory\,%20Technoscience&text=Catal
+ yst%20is%20an%20interdisciplinary%20peer\,and%20technology%20studies%20(ST
+ S).\n[5]  https://dilac.iac.gatech.edu/\n[6]  https://ethicxcenter.gatech.
+ edu/
+LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ideas to Serve Workshops: I2S Showcase and Partner Celebration
