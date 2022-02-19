@@ -13371,6 +13371,27 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCalling all Catholic Ce
 LOCATION:Catholic Center Basement
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MOVE General Body Meeting & Blanket Making
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220224T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220225T003000Z
+UID:http://hg.gatech.edu/node/655558#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nJoin MOVE at our General Body Mee
+ ting to help make blankets with free food and learn more about how to beco
+ me involved with service on campus!\n\nMOVE is currently recruiting studen
+ ts to serve as com mittee members in our 6 co mmittees which include Anima
+ l Welfare\, Education and STEM\, Hunger and Homelessness\, Medical Assista
+ nce\, Sustainability\, and Special Projects\, which combines a variety of 
+ needs not met by other committees. Throughout the year\, these committees 
+ host a variety of service projects and awareness events. If you’re inter
+ ested in this leadership opportunity where you’ll get experience with pl
+ anning service event s and coordinating with other service organizations o
+ n and off campus\, as well opportunities to volunteer to help your communi
+ ty\, please consider applying!\n\nLinks:\n[0]  http://hg.gatech.edu/node/6
+ 55558#0\n[1]  https://gatech.campuslabs.com/engage/event/7908359
+LOCATION:Highlands Room - Exhibition Hall (Floor 2)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Veggie Jackets Bring-Your-Own-Lunch
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220225T163000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220225T183000Z
@@ -14718,6 +14739,22 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
   conversation! Dinner will start around 7:30 and be followed by a discussi
  on or other activity!\n\nLinks:\n[0]  http://hg.gatech.edu/node/654285#14
 LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Faculty and Staff Honors Luncheon
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220429T153000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220429T173000Z
+UID:http://hg.gatech.edu/node/655595#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nThe Faculty & Staff Honors Luncheon [1] recogni
+ zes those who have received accolades and awards throughout the previous a
+ cademic year. The luncheon will begin at 11:30 a.m.\; awards presentation 
+ at noon.\n\nFor more information on nominating faculty or staff members fo
+ r an award\, please visit here [2].\n\nTo RSVP for the event\, please visi
+ t here [3].\n\nLinks:\n[0]  http://hg.gatech.edu/node/655595#0\n[1]  https
+ ://specialevents.gatech.edu/faculty-and-staff-honors\n[2]  https://hr.gate
+ ch.edu/view-staff-awards\n[3]  https://specialevents.gatech.edu/form/2162
+LOCATION:The Historic Academy of Medicine
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Veggie Jackets Bring-Your-Own-Lunch
