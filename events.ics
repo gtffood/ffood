@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:CCF The Event
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210219T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210219T040000Z
-UID:http://hg.gatech.edu/node/643935#1
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free Food\nStatus: published\n\nA time of community\, a faith-bas
- ed talk\, worship\, discussion and fun. We have two large group starting t
- imes\, 7 p.m. and 8:30 p.m. and optional discussion groups after each. Aro
- und 10 p.m.\, we have an after-event that is something like a dance party\
- , going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, regardless o
- f what you believe\, is welcome. We have both in-person and online options
- . Our service is available on Zoom at 8:30 p.m.: [2].\n\nA time of communi
- ty\, a faith-based talk\, worship\, discussion and fun. We have two large 
- group starting times\, 7:00pm and 8:30pm and optional discussion groups af
- ter each. Around 10pm\, we have an after-event that is something like a da
- nce party\, going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, re
- gardless of what you believe\, is welcome. We have both in-person and onli
- ne options. Our service is available on Zoom at 8:30pm: https://us02web.zo
- om.us/j/84188146312\n\nLinks:\n[0]  http://hg.gatech.edu/node/643935#1\n[1
- ]  https://gatech.campuslabs.com/engage/event/6869225\n[2]  https://us02we
- b.zoom.us/j/84188146312\n[3]  https://linktr.ee/gtccf
-LOCATION:Christian Campus Fellowship\, 767 Techwood Dr. NW or Online
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCF Trivia Lunch
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210222T164500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210222T184500Z
