@@ -13338,13 +13338,15 @@ BEGIN:VEVENT
 SUMMARY:Women's Kickboxing Night
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220223T013000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220223T023000Z
-UID:https://gatech.campuslabs.com/engage/event/7909015
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCalling all Catholic Ce
- nter women to join us for a kickboxing night led by our very own FOCUS mis
- sionary\, Elizabeth Nash! Come ready to sweat and laugh\, starting at 8:30
- PM in the basement\, with smoothies to share after.\n\nLinks:\n[0]  https:
- //gatech.campuslabs.com/engage/event/7909015
-LOCATION:Catholic Center Basement
+UID:http://hg.gatech.edu/node/655625#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nCalling all Catholic Center women
+  to join us for a kickboxing night led by our very own FOCUS missionary\, 
+ Elizabeth Nash! Come ready to sweat and laugh\, starting at 8:30PM in the 
+ basement\, with smoothies to share after.\n\nLinks:\n[0]  http://hg.gatech
+ .edu/node/655625#0\n[1]  https://gatech.campuslabs.com/engage/event/790901
+ 5\n[2]  https://gatech.campuslabs.com/engage/organization/cso
+LOCATION:Catholic Center Basement\, 172 4th St NW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MOVE General Body Meeting & Blanket Making
@@ -13436,6 +13438,18 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  edu/node/655297#0\n[1]  https://www.linkedin.com/video/event/urn:li:ugcPos
  t:6895019979335380992/
 LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swing Dance
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220226T003000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220226T023000Z
+UID:http://hg.gatech.edu/node/655626#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nJoin us for a Swing Dance in the CC Basement startin
+ g at 7:30PM! The night will begin with lessons and then the dance floor wi
+ ll be open. Refreshments provided.\n\nLinks:\n[0]  http://hg.gatech.edu/no
+ de/655626#0\n[1]  https://gatech.campuslabs.com/engage/organization/cso
+LOCATION:Catholic Center Basement\, 172 4th St NW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Community Dinner
