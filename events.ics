@@ -2,43 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:CCF Trivia Lunch
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210222T164500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210222T184500Z
-UID:http://hg.gatech.edu/node/643999#1
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nFree lunch and trivia every Monday! All lunches are 
- pre-packaged in to-go boxes\, and seating is available in a safe\, sociall
- y distant fashion inside and outside. Trivia begins at 11:50 a.m. and 12:5
- 0 p.m.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643999#1\n[1]  https://li
- nktr.ee/gtccf
-LOCATION:Christian Campus Fellowship (CCF)\, 767 Techwood Dr. NW
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trivia Lunch
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210222T164500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210222T184500Z
-UID:https://gatech.campuslabs.com/engage/event/6891741
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFree lunch and trivia e
- very Monday! All lunches are pre-packaged in to-go boxes\, and seating is 
- available in a safe\, socially distant fashion inside and outside. Trivia 
- begins at 11:50am and 12:50pm.\n\nLinks:\n[0]  https://gatech.campuslabs.c
- om/engage/event/6891741
-LOCATION:Christian Campus Fellowship (CCF)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Food4Lives Service with CCF
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210223T183000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210223T203000Z
-UID:http://hg.gatech.edu/node/643371#4
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nServing with a local organization\, Food4Lives\, to 
- prepare\, pack\, and distribute food to our friends on the streets of Atla
- nta.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643371#4\n[1]  http://www.g
- tccf.org/compassion/
-LOCATION:CCF\, 767 Techwood Drive NW
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Strengthening Community Resilience & Moving Toward Transformative 
  Change
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210225T160000Z
@@ -13352,22 +13315,34 @@ BEGIN:VEVENT
 SUMMARY:MOVE General Body Meeting & Blanket Making
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220224T233000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220225T003000Z
-UID:http://hg.gatech.edu/node/655558#0
+UID:http://hg.gatech.edu/node/655694#0
 DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  nExtras: Free Food\nStatus: published\n\nJoin MOVE at our General Body Mee
  ting to help make blankets with free food and learn more about how to beco
  me involved with service on campus!\n\nMOVE is currently recruiting studen
- ts to serve as com mittee members in our 6 co mmittees which include Anima
- l Welfare\, Education and STEM\, Hunger and Homelessness\, Medical Assista
- nce\, Sustainability\, and Special Projects\, which combines a variety of 
- needs not met by other committees. Throughout the year\, these committees 
- host a variety of service projects and awareness events. If you’re inter
- ested in this leadership opportunity where you’ll get experience with pl
- anning service event s and coordinating with other service organizations o
- n and off campus\, as well opportunities to volunteer to help your communi
- ty\, please consider applying!\n\nLinks:\n[0]  http://hg.gatech.edu/node/6
- 55558#0\n[1]  https://gatech.campuslabs.com/engage/event/7908359
-LOCATION:Highlands Room - Exhibition Hall (Floor 2)
+ ts to serve as committee members in our 6 committees which include Animal 
+ Welfare\, Education and STEM\, Hunger and Homelessness\, Medical Assistanc
+ e\, Sustainability\, and Special Projects\, which combines a variety of ne
+ eds not met by other committees. Throughout the year\, these committees ho
+ st a variety of service projects and awareness events. If you’re interes
+ ted in this leadership opportunity where you’ll get experience with plan
+ ning service events and coordinating with other service organizations on a
+ nd off campus\, as well opportunities to volunteer to help your community\
+ , please consider applying!\n\nJoin MOVE at our General Body Meeting to he
+ lp make blankets with free food and learn more about how to become involve
+ d with service on campus!\n\nMOVE is currently recruiting students to serv
+ e as com mittee members in our 6 co mmittees which include Animal Welfare\
+ , Education and STEM\, Hunger and Homelessness\, Medical Assistance\, Sust
+ ainability\, and Special Projects\, which combines a variety of needs not 
+ met by other committees. Throughout the year\, these committees host a var
+ iety of service projects and awareness events. If you’re interested in t
+ his leadership opportunity where you’ll get experience with planning ser
+ vice event s and coordinating with other service organizations on and off 
+ campus\, as well opportunities to volunteer to help your community\, pleas
+ e consider applying!\n\nLinks:\n[0]  http://hg.gatech.edu/node/655694#0\n[
+ 1]  http://hg.gatech.edu/node/655558#0\n[2]  https://gatech.campuslabs.com
+ /engage/event/7908359
+LOCATION:Highlands Room - Exhibition Hall (2nd Floor)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Veggie Jackets Bring-Your-Own-Lunch
@@ -13452,6 +13427,19 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Catholic Center Basement\, 172 4th St NW
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SOS Movie Watching
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220226T213000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220226T233000Z
+UID:http://hg.gatech.edu/node/655696#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nCome hang and chill as we watch a movie from your ch
+ ildhood. Coraline. Feel free to bring any snacks. We will be at the Instru
+ ctional Center Room 111.\n\nLinks:\n[0]  http://hg.gatech.edu/node/655696#
+ 0\n[1]  https://gatech.campuslabs.com/engage/organization/students-organiz
+ ing-for-sustainability
+LOCATION:Room 111\, Instructional Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Community Dinner
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220227T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220228T000000Z
@@ -13463,6 +13451,25 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  \n[1]  https://gatech.campuslabs.com/engage/event/7730949\n[2]  https://ga
  tech.campuslabs.com/engage/organization/cso
 LOCATION:Catholic Center Basement\, 172 4th St NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tech Dining Sustainability Showcase
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220228T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220228T190000Z
+UID:http://hg.gatech.edu/node/655660#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nStatus: published\n\nJoin us at West Village on
+  Monday\, 2/28\, for a Tech Dining Sustainability Showcase\, part of the I
+ nstitution’s UN Sustainable Development Goals week. Stop in anytime betw
+ een 12 pm-2 pm at Wreck Stop in West Village for sustainability giveaways\
+ , free samples of Wreck Stop’s best-selling local snacks and beverages\,
+  and information on our sustainable sourcing and composting programs on ca
+ mpus. The event will be hosted on the 1st floor of West Village\, and is o
+ pen to the public\, so grab a friend and join us as we celebrate our local
+  producers and sustainability initiatives in Tech Dining!\n\nMore informat
+ ion [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/655660#0\n[1]  https://d
+ ining.gatech.edu/sustainability
+LOCATION:Wreck Stop in West Village Dining Hall (floor one and patio)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WST Lrn C dinner with Dr. Mindy Millard-Stafford
@@ -13577,6 +13584,20 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  ww.instagram.com/gtveggiejackets/\n[3]  https://gatech.campuslabs.com/enga
  ge/organization/veggie-jackets
 LOCATION:Check GroupMe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Westminster Christian Fellowship Fish Fry
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220304T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220305T010000Z
+UID:http://hg.gatech.edu/node/655702#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nStatus: published\n\nJoin WCF on Fridays during
+  Lent to enjoy a fasting friendly fish dinner as well as fellowship and co
+ nversations on the meaning and importance of lent!\n\nLinks:\n[0]  http://
+ hg.gatech.edu/node/655702#0\n[1]  https://gatech.campuslabs.com/engage/org
+ anization/westminsterchristianfellowship
+LOCATION:Westminister Christian Fellowship\, 742 Techwood Dr\, Atlanta\, G
+ a
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Community Garden Workday
@@ -13711,6 +13732,20 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  ww.instagram.com/gtveggiejackets/\n[3]  https://gatech.campuslabs.com/enga
  ge/organization/veggie-jackets
 LOCATION:Check GroupMe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Westminster Christian Fellowship Fish Fry
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220311T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220312T010000Z
+UID:http://hg.gatech.edu/node/655702#1
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nStatus: published\n\nJoin WCF on Fridays during
+  Lent to enjoy a fasting friendly fish dinner as well as fellowship and co
+ nversations on the meaning and importance of lent!\n\nLinks:\n[0]  http://
+ hg.gatech.edu/node/655702#1\n[1]  https://gatech.campuslabs.com/engage/org
+ anization/westminsterchristianfellowship
+LOCATION:Westminister Christian Fellowship\, 742 Techwood Dr\, Atlanta\, G
+ a
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dance Marathon 2022
@@ -13938,6 +13973,20 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Check GroupMe
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Westminster Christian Fellowship Fish Fry
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220318T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220319T000000Z
+UID:http://hg.gatech.edu/node/655702#2
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nStatus: published\n\nJoin WCF on Fridays during
+  Lent to enjoy a fasting friendly fish dinner as well as fellowship and co
+ nversations on the meaning and importance of lent!\n\nLinks:\n[0]  http://
+ hg.gatech.edu/node/655702#2\n[1]  https://gatech.campuslabs.com/engage/org
+ anization/westminsterchristianfellowship
+LOCATION:Westminister Christian Fellowship\, 742 Techwood Dr\, Atlanta\, G
+ a
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Community Garden Workday
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220319T130000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220319T150000Z
@@ -14087,6 +14136,20 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Check GroupMe
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Westminster Christian Fellowship Fish Fry
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220401T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220402T000000Z
+UID:http://hg.gatech.edu/node/655702#3
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nStatus: published\n\nJoin WCF on Fridays during
+  Lent to enjoy a fasting friendly fish dinner as well as fellowship and co
+ nversations on the meaning and importance of lent!\n\nLinks:\n[0]  http://
+ hg.gatech.edu/node/655702#3\n[1]  https://gatech.campuslabs.com/engage/org
+ anization/westminsterchristianfellowship
+LOCATION:Westminister Christian Fellowship\, 742 Techwood Dr\, Atlanta\, G
+ a
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Community Garden Workday
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220402T130000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220402T150000Z
@@ -14213,6 +14276,20 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  www.instagram.com/gtveggiejackets/\n[3]  https://gatech.campuslabs.com/eng
  age/organization/veggie-jackets
 LOCATION:Check GroupMe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Westminster Christian Fellowship Fish Fry
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220408T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220409T000000Z
+UID:http://hg.gatech.edu/node/655702#4
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nStatus: published\n\nJoin WCF on Fridays during
+  Lent to enjoy a fasting friendly fish dinner as well as fellowship and co
+ nversations on the meaning and importance of lent!\n\nLinks:\n[0]  http://
+ hg.gatech.edu/node/655702#4\n[1]  https://gatech.campuslabs.com/engage/org
+ anization/westminsterchristianfellowship
+LOCATION:Westminister Christian Fellowship\, 742 Techwood Dr\, Atlanta\, G
+ a
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pancake Breakfast
@@ -14481,6 +14558,20 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  www.instagram.com/gtveggiejackets/\n[3]  https://gatech.campuslabs.com/eng
  age/organization/veggie-jackets
 LOCATION:Check GroupMe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Westminster Christian Fellowship Fish Fry
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220415T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220416T000000Z
+UID:http://hg.gatech.edu/node/655702#5
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nStatus: published\n\nJoin WCF on Fridays during
+  Lent to enjoy a fasting friendly fish dinner as well as fellowship and co
+ nversations on the meaning and importance of lent!\n\nLinks:\n[0]  http://
+ hg.gatech.edu/node/655702#5\n[1]  https://gatech.campuslabs.com/engage/org
+ anization/westminsterchristianfellowship
+LOCATION:Westminister Christian Fellowship\, 742 Techwood Dr\, Atlanta\, G
+ a
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Community Garden Workday
