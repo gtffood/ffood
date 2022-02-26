@@ -2,32 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Strengthening Community Resilience & Moving Toward Transformative 
- Change
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210225T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210225T173000Z
-UID:http://hg.gatech.edu/node/644442#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nBlack\, Indigenou
- s\, People of Color (BIPOC) staff and faculty are invited to join or drop-
- in for an empowering 90-minute lunchtime virtual SIT. This will be a safe\
- , meditative space for connecting in solidarity. Designed for our well-bei
- ng\, we will relinquish customary fatigue\, hypervigilance\, and internali
- zed subjugation (which results from constant producing\, making\, accompli
- shing\, serving and/or doing). Instead\, we will engage in radical acts of
-  stillness\, meditation\, conscious awareness\, interconnectedness\, self-
- care\, self-compassion\, and care of one another.\n\nFacilitator/Session L
- eader: angel Kyodo williams is a writer\, activist\, ordained Zen priest a
- nd the author of Being Black: Zen and the Art of Living with​ Fearlessne
- ss and Grace (Viking Press 2000)\, and co-author of ​ Radical Dharma: Ta
- lking Race\, Love\, and Liberation​ (North Atlantic Books).\n\nCo-hosted
-  by Institute Diversity\, Equity\, and Inclusion and Employee Resource Gro
- ups\n\nRegister at: [1].\n\nLinks:\n[0]  http://hg.gatech.edu/node/644442#
- 0\n[1]  https://sdie.gatech.edu/strengthening-community-resilience-moving-
- toward-transformative-change
-LOCATION:Online (Viewing link will be sent after registration)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCF The Event
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210226T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210226T040000Z
@@ -13541,6 +13515,40 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatech.edu
  /node/654280#6
 LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mardi Gras with Tech Dining
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220301T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220302T000000Z
+UID:http://hg.gatech.edu/node/655739#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nCelebrate Fat Tuesday at Mardi Gras with Tech D
+ ining on Tuesday\, March 1! Special themed menus will be available for lun
+ ch at West Village from 11 a.m. - 2 p.m\, and for dinner at North Avenue D
+ ining from 5 to 7 p.m.\n\nMenu will include selections of:\n\n- Crawfish b
+ oil\n- Cajun stuffed chicken\n- Creamy blackened salmon\n- Vegan dirty ric
+ e\n- Garlic green beans and grape tomatoes\n- Alligator gumbo\n- Shrimp an
+ d grits\n- Bourbon chicken\n- Mac and cheese\n- Fried green tomatoes\n- Bl
+ ackened ribs\n- Herb roasted chicken\n- Baked catfish\n- Red beans and ric
+ e\n- Collard greens\n- Jambalaya pasta bar with chicken\, crawfish\, shrim
+ p\, andouille sausage\, pasta\, and rice\n- Beignets\n- King cake\n- Banan
+ as foster\n- Bread pudding\n- Mini crab cake sliders with remoulade\n- Muf
+ fulettas\n- Fried catfish / fried oyster Po Boy\n- Creole spiced skillet\n
+ - Vegan gumbo\n- Fried okra\n- Shrimp bisque\n- Tomato soup\n- Boudin saus
+ age\n- Fried frog legs\n- Hush puppies\n\nLinks:\n[0]  http://hg.gatech.ed
+ u/node/655739#0
+LOCATION:West Village Dining Commons and North Avenue Dining
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mardi Gras Celebration
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220301T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220302T000000Z
+UID:https://gatech.campuslabs.com/engage/event/7937867
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us after daily mas
+ s Tuesday as we enjoy the last few hours of feasting before the Lenten sea
+ son begins! We will have treats and drinks to celebrate starting at 6pm.\n
+ \nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7937867
+LOCATION:Catholic Center Lobby
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WCF Free Dinner
