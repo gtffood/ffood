@@ -13434,6 +13434,18 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Scheller 203
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A Chat with Vegan Meals that Heal
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220301T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220301T010000Z
+UID:https://gatech.campuslabs.com/engage/event/7946970
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nGuests who are experien
+ cing symptoms of Covid-19 should not attend. We strongly encourage that yo
+ u wear a mask when not eating (especially if indoors). We will be providin
+ g hand sanitizer.\n\nFree cinnamon rolls provided by Cinnaholic Edgewood!\
+ n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7946970
+LOCATION:Kendeda 230
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jon's Office Hours
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220301T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220301T170000Z
