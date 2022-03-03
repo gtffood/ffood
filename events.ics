@@ -2,99 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:CCF Trivia Lunch
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210301T164500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210301T184500Z
-UID:http://hg.gatech.edu/node/643999#2
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nFree lunch and trivia every Monday! All lunches are 
- pre-packaged in to-go boxes\, and seating is available in a safe\, sociall
- y distant fashion inside and outside. Trivia begins at 11:50 a.m. and 12:5
- 0 p.m.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643999#2\n[1]  https://li
- nktr.ee/gtccf
-LOCATION:Christian Campus Fellowship (CCF)\, 767 Techwood Dr. NW
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trivia Lunch
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210301T164500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210301T184500Z
-UID:https://gatech.campuslabs.com/engage/event/6891742
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFree lunch and trivia e
- very Monday! All lunches are pre-packaged in to-go boxes\, and seating is 
- available in a safe\, socially distant fashion inside and outside. Trivia 
- begins at 11:50am and 12:50pm.\n\nLinks:\n[0]  https://gatech.campuslabs.c
- om/engage/event/6891742
-LOCATION:Christian Campus Fellowship (CCF)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Explore LLC Monday Call Night
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210302T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210302T030000Z
-UID:https://gatech.campuslabs.com/engage/event/6923462
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDaily Call Night where 
- we will be calling incoming first-year students in the College of Sciences
- . Each caller will call 25 incoming students. Students making calls can al
- so join a Bluejeans call if they need help or have questions about making 
- calls: https://bluejeans.com/2560634424\n\nFood will be provided each nigh
- t!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6923462
-LOCATION:West Commons 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Food4Lives Service with CCF
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210302T183000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210302T203000Z
-UID:http://hg.gatech.edu/node/643371#5
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nServing with a local organization\, Food4Lives\, to 
- prepare\, pack\, and distribute food to our friends on the streets of Atla
- nta.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643371#5\n[1]  http://www.g
- tccf.org/compassion/
-LOCATION:CCF\, 767 Techwood Drive NW
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Prepare Emergency Food Aid with Urban Recipe
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210302T183000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210302T210000Z
-UID:https://gatech.campuslabs.com/engage/event/6927107
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nHelp support food secur
- ity in our community and prepare emergency food aid with Urban Recipe! Joi
- n GC March 2nd\, 1:30PM-4PM to help package and organize food at Urban Rec
- ipe\, a nonprofit providing meals to Atlantans facing food insecurity.\n\n
- Volunteers must wear a mask and closed toed shoes\, as well as maintain 10
-  feet of distance between themselves and other volunteers while serving.\n
- \nTo serve\, volunteers must sign up for our March 2nd\, 1:30PM-4PM volunt
- eer shift before our shift: https://volunteer.handsonatlanta.org/opportuni
- ty/a0C1H00001tuoNCUAY\n\nTransportation to and from Georgia Tech's campus 
- via Uber or Lyft will be reimbursed. To receive a reimbursement\, email a 
- screenshot of your ride receipts to mreddic3@gatech.edu. Please plan to le
- ave campus around 1:00PM to ensure our group has sufficient time to check 
- in. We will meet at 970 Jefferson St NW\nAtlanta\, GA 30318. Students will
-  have the chance to enjoy lunch before the event on GC and will be emailed
-  more details closer to the event.\n\nWe are so excited to give back to th
- e community with you this March!\n\nLinks:\n[0]  https://gatech.campuslabs
- .com/engage/event/6927107
-LOCATION:Urban Recipe
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dinner Jacket: BA and International Affairs Young Alumni
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210302T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210303T000000Z
-UID:http://hg.gatech.edu/node/644691#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nOur Young Alumni Council is hosting 6 dinners this s
- emester! Each Dinner Jacket is focused on their degrees and industries\; p
- ick the one that interests you!\n\nThis Dinner is with Olivia Watkins (INT
- A ’09)\, Rani Tilva (BA ’18)\, Nairita Nandy\, and Alex Hanson (BA ’
- 13). BA/INTA can sometimes be hard to decide what path you want to take af
- ter graduation since there are so many options available to you\, so explo
- re what you like/don't like during college\, do everything you can\, enjoy
-  every moment\, try to meet someone new every day!\n\nLinks:\n[0]  http://
- hg.gatech.edu/node/644691#0\n[1]  https://www.gtsaa.com/s/1481/alumni/17/i
- nterior-wide.aspx?sid=1481&gid=39&pgid=20495&cid=45545&ecid=45545&crid=0&c
- alpgid=3165&calcid=23811
-LOCATION:Online
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Explore LLC Tuesday Call Night
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210303T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210303T030000Z
@@ -13501,6 +13408,39 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Westminster Christian Fellowship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Great Conversations General Body Meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220302T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220303T000000Z
+UID:http://hg.gatech.edu/node/655869#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nJoin us as we debate the topic "D
+ oes free will exist\, or are our lives governed by forces outside of our c
+ ontrol?" Snacks will be provided. The event will be held in D.M. Smith 207
+  from 6-7 PM.\n\nLinks:\n[0]  http://hg.gatech.edu/node/655869#0\n[1]  htt
+ ps://sites.gatech.edu/greatconversations/
+LOCATION:Room 207\, D.M. Smith Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pride Alliance General Meeting
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220302T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220303T000000Z
+UID:http://hg.gatech.edu/node/655389#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nPride Alliance General Meeting in
+  Mason 3132 Wednesday at 6pm. Further details will be added closer to the 
+ event.\n\nPride Alliance is having tea party this upcoming Wednesday in Ma
+ son 3132 at 6pm to encourage our members to take a well deserved break. We
+ 'll be serving tea\, hot chocolate\, sweets\, and good vibes! We would lov
+ e to have you join us for a chill evening. See you there!\n\n----------\nY
+ 'all means all: this is an event for all LGBTQIA+ folks and their allies. 
+ Please email pride@gatech.edu if we can provide any accommodations to make
+  this event more accessible or if you have any questions.\n\nLinks:\n[0]  
+ http://hg.gatech.edu/node/655389#0\n[1]  https://gatech.campuslabs.com/eng
+ age/event/7884059\n[2]  https://gatech.campuslabs.com/engage/organization/
+ pride-alliance
+LOCATION:Room 3132\, Mason Building
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:New Researchers/Storytime
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220304T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220304T010000Z
@@ -13531,6 +13471,29 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  ww.instagram.com/gtveggiejackets/\n[3]  https://gatech.campuslabs.com/enga
  ge/organization/veggie-jackets
 LOCATION:Check GroupMe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fireside Chat with JJ Balisanyuka-Smith
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220304T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220305T010000Z
+UID:http://hg.gatech.edu/node/655885#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nJoin us for a Q&A with JJ Balisanyuka-Smith about AI
+  safety and getting into machine learning engineering! It's on Friday\, Ma
+ rch 4th at 6:30pm–8pm. JJ is a machine learning engineer at Cohere\, a $
+ 125M+ AI startup focused on democratizing access to natural language proce
+ ssing services\, powered by large language models. JJ's current work focus
+ es on aligning multi-billion parameter language models to perform tasks. H
+ e previously founded Swarthmore Effective Altruism. We'll start at 6:30pm 
+ with icebreakers and an introductory video about AI safety\, and start the
+  Q&A at 7pm.\n\nRSVP here [1] and get a free Chipotle dinner at the event!
+  You can attend virtually or in-person\, and more location information wil
+ l be provided once you RSVP.\n\nOnline Location [2]\n\nLinks:\n[0]  http:/
+ /hg.gatech.edu/node/655885#0\n[1]  https://airtable.com/shr6MJRWiFkFlMChQ?
+ prefill_Event=Fireside%20Chat%20with%20JJ%20Balisanyuka-Smith\n[2]  https:
+ //gatech.zoom.us/j/98718217954?pwd=bzRtck1Tcjk5WjdZN3dKcGNsUnFpUT09\n[3]  
+ https://gatech.campuslabs.com/engage/organization/effective-altruism
+LOCATION:Room 154\, Skiles Building\, and Online
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Westminster Christian Fellowship Fish Fry
@@ -13664,6 +13627,26 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Westminster Christian Fellowship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TEDxGeorgiaTech Open Mic Night
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220311T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220311T020000Z
+UID:http://hg.gatech.edu/node/655858#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\, Free Stuff\nStatus: published\n\nDo you have a talent
+  or skill that you want to share with the rest of the GT community? If so\
+ , apply to be a participant at the TEDxGeorgiaTech Open Mic Night on March
+  10 th from 7-9pm below!\n\nTEDxGeorgiaTech Open Mic Night Participant [2]
+ \n\nDo you want to come out and watch your fellow GT community's talents a
+ nd skills? Then RSVP to the free event now in the link below!\n\nTEDxGeorg
+ iaTech Open Mic Night Audience RSVP [3]\n\nWe will have games\, fun intera
+ ctive activities and of course GT talent!\n\nLinks:\n[0]  http://hg.gatech
+ .edu/node/655858#0\n[1]  https://gatech.campuslabs.com/engage/event/795159
+ 4\n[2]  https://forms.gle/11wUeuK5CaG9MMnS8\n[3]  https://www.eventbrite.c
+ om/e/tedxgeorgiatech-open-mic-night-tickets-278317734837\n[4]  https://www
+ .eventbrite.com/e/278317734837
+LOCATION:The Clubhouse at Tech Sqaure\, 848 Spring St NW
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Veggie Jackets Bring-Your-Own-Lunch
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220311T163000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220311T183000Z
@@ -13714,6 +13697,26 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  fuseaction=donordrive.event&eventID=4609\n[3]  https://gatech.campuslabs.c
  om/engage/organization/for-the-kids
 LOCATION:Exhibition Hall 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Step Into STEM by GT Junior STEM
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220313T120000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220313T180000Z
+UID:http://hg.gatech.edu/node/655961#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nJunior STEM is hosting its annual event\, Step Into 
+ STEM\, on Sunday March 13th from 8 am to 2 pm\, where we invite students i
+ n grades K-8 to view and participate in demonstrations put on by other Geo
+ rgia Tech student organizations.\n\nWe expect around 150 students and pare
+ nts. We provide free pizza lunch to everyone in attendance\, including vol
+ unteers. Our organization is looking for volunteers to set up demonstratio
+ ns\, which have in the past been anything from bottle rockets to solar pow
+ ered mechanical arms.\n\n- Sign Up As A Demonstrator [1]\n- Sign Up As A G
+ eneral Volunteer [2]\n- Junior STEM Website [3]\n\nLinks:\n[0]  http://hg.
+ gatech.edu/node/655961#0\n[1]  https://forms.gle/oy1cTPHiYCDom6dE7\n[2]  h
+ ttps://forms.gle/Wka7DXFeK7BmESn59\n[3]  https://juniorstem.wordpress.com/
+ junior-stem
+LOCATION:Molecular Science and Engineering Building
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sundae Night
