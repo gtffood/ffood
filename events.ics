@@ -2,32 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Explore LLC Tuesday Call Night
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210303T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210303T030000Z
-UID:https://gatech.campuslabs.com/engage/event/6923493
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDaily Call Night where 
- we will be calling incoming first-year students in the College of Sciences
- . Each caller will call 25 incoming students. Students making calls can al
- so join a Bluejeans call if they need help or have questions about making 
- calls: https://bluejeans.com/2560634424\n\nFood will be provided each nigh
- t!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6923493
-LOCATION:Caldwell Basement
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Explore LLC Wednesday Call Night
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210304T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210304T030000Z
-UID:https://gatech.campuslabs.com/engage/event/6923530
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nDaily Call Night where 
- we will be calling incoming first-year students in the College of Sciences
- . Each caller will call 25 incoming students. Students making calls can al
- so join a Bluejeans call if they need help or have questions about making 
- calls: https://bluejeans.com/2560634424\n\nFood will be provided each nigh
- t!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6923530
-LOCATION:West Commons 
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Explore LLC Thursday Call Night
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210305T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210305T030000Z
@@ -13846,6 +13820,22 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Westminster Christian Fellowship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Impact Lunchtime Talks: Lara O'Connor Hodgson\, President\, and CE
+ O of NowAccount 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220317T151500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220317T161500Z
+UID:https://gatech.campuslabs.com/engage/event/7960176
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us fo
+ r our first in person impact lunchtime talk featuring Lara O'Connor Hodgso
+ n\, President\, and CEO of NowAccount\, she will discuss her recent book s
+ he co-authored with Stacey Abrams\, Level Up: Rise Above the Hidden Forces
+  Holding Your Business Back.\n\nLunch included with registration and the f
+ irst 20 to arrive will receive a copy of the book!\n\nRegister to secure y
+ our lunch: [1]\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/
+ 7960176\n[1]  https://lnkd.in/eHeQq9gX
+LOCATION:Scheller College of Business Room 200
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lunchtime Impact Talks: 'Level Up'
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220317T151500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220317T161500Z
@@ -13921,6 +13911,18 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  ww.instagram.com/gtveggiejackets/\n[3]  https://gatech.campuslabs.com/enga
  ge/organization/veggie-jackets
 LOCATION:Check GroupMe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Women's Tennis vs. Wake Forest (Faculty/Staff Appreciation)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220318T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220318T180000Z
+UID:http://hg.gatech.edu/node/656048#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nGeorgia Tech host
+ s Wake Forest at home. The game will include a pizza party for faculty and
+  staff members.\n\nLinks:\n[0]  http://hg.gatech.edu/node/656048#0\n[1]  h
+ ttps://ramblinwreck.com/sports/w-tennis/schedule/
+LOCATION:Ken Byers Tennis Complex
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Westminster Christian Fellowship Fish Fry
@@ -14240,6 +14242,31 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  anization/westminsterchristianfellowship
 LOCATION:Westminister Christian Fellowship\, 742 Techwood Dr\, Atlanta\, G
  a
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TEDxGeorgiaTech Conference
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220410T130000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220410T190000Z
+UID:https://gatech.campuslabs.com/engage/event/7962158
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nTEDxGeorgiaTech is brin
+ ging back their annual Professional Conference for our Georgia Tech and At
+ lanta community!\n\nCLICK HERE TO BUY YOUR TICKETS NOW [1]\n\nWe are very 
+ excited to have you all join us for this event and cannot wait for you to 
+ hear about our speakers “ideas worth spreading”! This year\, we have 8
+  amazing speakers from the GT and ATL community who will be speaking about
+  a variety of topics. Through the course of the conference\, we will have 
+ engaging activities to allow you to meet some new people and grow your net
+ work.\n\n- Light refreshments and lunch will be provided during the confer
+ ence as well.\n- This is a professional conference so we ask you dress app
+ ropriately for the event.\n\nWe are bringing the conference back after a l
+ ong 4 year break and we are so excited that you will be joining us for the
+  event! The speakers have been working hard to share some novel\, inventiv
+ e and creative ideas with you!\n\nIf you have any questions or concerns\, 
+ please reach out by sending us an email at tedxgeorgiatech@gmail.com and w
+ e will get back to you as soon as possible.\n\nLinks:\n[0]  https://gatech
+ .campuslabs.com/engage/event/7962158\n[1]  https://gatech.universityticket
+ s.com/w/event.aspx?id=1886&p=1
+LOCATION:Westside Cultural Arts Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pancake Breakfast
