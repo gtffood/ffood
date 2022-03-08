@@ -13471,6 +13471,18 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Westminster Christian Fellowship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Movie Night: Kiki's Delivery Service
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220310T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220311T010000Z
+UID:https://gatech.campuslabs.com/engage/event/7970133
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAnime O'Tekku\, the off
+ icial anime club on the Georgia Tech campus\, is hosting one a movie night
+ ! This time we'll be watching Kiki's Delivery Service. Pizza will be provi
+ ded. Don't forget to RSVP!\n\nLinks:\n[0]  https://gatech.campuslabs.com/e
+ ngage/event/7970133
+LOCATION:College of Computing Room 016
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TEDxGeorgiaTech Open Mic Night
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220311T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220311T020000Z
@@ -13520,6 +13532,24 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  anization/westminsterchristianfellowship
 LOCATION:Westminister Christian Fellowship\, 742 Techwood Dr\, Atlanta\, G
  a
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2022 Black Leadership Conference
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220312T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220312T220000Z
+UID:https://gatech.campuslabs.com/engage/event/7967795
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nThe purpos
+ e of the conference is to engage Black students and alumni\, providing the
+ m with both inspiration and essential expertise to take on leadership posi
+ tions at Tech and beyond. Since 2004\, the Black Leadership Conference has
+  been our premier leadership event created for and by Black students\, pro
+ viding hundreds of young Black leaders a forum where they can hone their l
+ eadership skills to become changemakers on campus and in their communities
+ . This year's theme is Young Black Brilliance: Passion. Purpose. Intention
+ ality. This event is open to the entire Georgia Tech community. Please com
+ e out and enjoy workshops\, discussions\, free food and headshots!\n\nLink
+ s:\n[0]  https://gatech.campuslabs.com/engage/event/7967795
+LOCATION:Clough Undergraduate Learning Commons
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dance Marathon 2022
