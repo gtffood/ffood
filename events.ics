@@ -2,187 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:CCF Trivia Lunch
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210308T164500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210308T184500Z
-UID:http://hg.gatech.edu/node/643999#3
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nFree lunch and trivia every Monday! All lunches are 
- pre-packaged in to-go boxes\, and seating is available in a safe\, sociall
- y distant fashion inside and outside. Trivia begins at 11:50 a.m. and 12:5
- 0 p.m.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643999#3\n[1]  https://li
- nktr.ee/gtccf
-LOCATION:Christian Campus Fellowship (CCF)\, 767 Techwood Dr. NW
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trivia Lunch
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210308T164500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210308T184500Z
-UID:https://gatech.campuslabs.com/engage/event/6891743
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFree lunch and trivia e
- very Monday! All lunches are pre-packaged in to-go boxes\, and seating is 
- available in a safe\, socially distant fashion inside and outside. Trivia 
- begins at 11:50am and 12:50pm.\n\nLinks:\n[0]  https://gatech.campuslabs.c
- om/engage/event/6891743
-LOCATION:Christian Campus Fellowship (CCF)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clone of WST Learning Community dinner discussion: Ti Chang\, GT 2
- 002 ID alumna
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210308T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210308T233000Z
-UID:http://hg.gatech.edu/node/643666#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nWST Learning Community Dinner\nre
- sidents can pick up boxed dinners in Stein House at 5pm\nMonday\, March 8\
- , 2021\, 5:30pm: Ti Chang\, GT 2002 ID alumna and founder of Crave\nBlue J
- eans Link: https://bluejeans.com/106761163\n\nJoin Georgia Tech alum Ti Ch
- ang\, a celebrated industrial designer\, activist\, and entrepreneur to di
- scuss how design is the pathway to social change and empowerment. Learn th
- e five essential steps of design activism and how to use them to make a me
- aningful and lasting impact. Ti will share the basics of what design activ
- ism can look like and how it all starts with designers.\n\nBiography: Ti C
- hang is an industrial designer\, entrepreneur\, and activist passionate ab
- out designing products for women. She is the co-founder and VP of Design o
- f CRAVE\, a San Francisco-based company specializing in aesthetic pleasure
-  products. Ti leads the design vision for the company’s full line of pro
- ducts which has won international design awards and has led CRAVE to outle
- ts such as the Nordstrom\, MoMA Design Store\, Standard Hotel\, Goop\, and
-  Saint Laurent.\n\nShe is the chair of Women in Design section of Industri
- al Designers Society of America\, where she support the community of indus
- trial designers and women in design. She is also on the advisory board for
-  San Francisco Design Week\, Reimagine\, and CRAVE Foundation for Women. T
- i holds an M.A. in Design Products from the Royal College of Art in London
-  and a B.S. in Industrial Design from the Georgia Institute of Technology.
- \n\nWST Learning Community fall 2021 - spring 2022 application [1]\nApplic
- ation Due February 18\, 2021\, 5pm. (extended deadline)\n\nGEMS\, WST Lear
- ning Community Service Project —Howard Middle School Girls Excelling in 
- Math and Science (GEMS) Club. Online or in-person most Tuesdays\, August-M
- ay\, 4:15-5:45 pm. For information\, contact: marylynn.realff@mse.gatech.e
- du [2] or monicamarks@gatech.edu [3]\n\nLinks:\n[0]  http://hg.gatech.edu/
- node/643666#0\n[1]  https://gatech.campuslabs.com/engage/submitter/form/st
- art/446266\n[2]  marylynn.realff@mse.gatech.edu\n[3]  monicamarks@gatech.e
- du
-LOCATION:Stein House\, Georgia Tech\, Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Conversation with Ti Chang\, GT 2002 ID alumna and founder of Crav
- e
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210308T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210308T233000Z
-UID:https://gatech.campuslabs.com/engage/event/6680375
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nMonday\, March 8\, 2021
- \, 5:30 pm: Ti Chang\, GT 2002 ID alumna and founder of Crave\n\nBlue Jean
- s Link: https://bluejeans.com/106761163\n\nLinks:\n[0]  https://gatech.cam
- puslabs.com/engage/event/6680375
-LOCATION:Online
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Women\, Science\, and Technology (WST) Learning Community Dinner: 
- Ti Chang
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210308T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210308T233000Z
-UID:http://hg.gatech.edu/node/643896#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nTi Chang (ID 2002) Georgia Tech alumna and foun
- der of Crave\nMonday\, March 8\, 2021\, 5:30pm:\nBlue Jeans Link: https://
- bluejeans.com/193757554 [1]\n\nJoin Georgia Tech alum Ti Chang\, a celebra
- ted industrial designer\, activist\, and entrepreneur to discuss how desig
- n is the pathway to social change and empowerment. Learn the five essentia
- l steps of design activism and how to use them to make a meaningful and la
- sting impact. Ti will share the basics of what design activism can look li
- ke and how it all starts with designers.\n\nBiography: Ti Chang is an indu
- strial designer\, entrepreneur\, and activist passionate about designing p
- roducts for women. She is the co-founder and VP of Design of CRAVE\, a San
-  Francisco-based company specializing in aesthetic pleasure products. Ti l
- eads the design vision for the company’s full line of products which has
-  won international design awards and has led CRAVE to outlets such as the 
- Nordstrom\, MoMA Design Store\, Standard Hotel\, Goop\, and Saint Laurent.
- \n\nShe is the chair of Women in Design section of Industrial Designers So
- ciety of America\, where she support the community of industrial designers
-  and women in design. She is also on the advisory board for San Francisco 
- Design Week\, Reimagine\, and CRAVE Foundation for Women. Ti holds an M.A.
-  in Design Products from the Royal College of Art in London and a B.S. in 
- Industrial Design from the Georgia Institute of Technology.\n\nWomen\, Sci
- ence\, and Technology (WST) Learning Community Dinner\nresidents can pick 
- up boxed dinners in Stein House at 5pm\n\nOther upcoming WST events and de
- adlines:\n\n- WST Learning Community fall 2021 - spring 2022 application h
- ttps://gatech.campuslabs.com/engage/submitter/form/start/446266 [2] - Appl
- ication Due February 18\, 2021\, 5pm. (extended deadline)\n- GEMS\, WST Le
- arning Community Service Project —Howard Middle School Girls Excelling i
- n Math and Science (GEMS) Club. Online or in-person most Tuesdays\, August
- -May\, 4:15-5:45 pm. For information\, contact: marylynn.realff@mse.gatech
- .edu [3] or monicamarks@gatech.edu [4]\n\nLinks:\n[0]  http://hg.gatech.ed
- u/node/643896#0\n[1]  https://nam12.safelinks.protection.outlook.com/?url=
- https%3A%2F%2Fbluejeans.com%2F193757554&data=04%7C01%7Ccourtney.hill%40gat
- ech.edu%7C28fb232dcc3942e6833e08d8ca015493%7C482198bbae7b4b258b7a6d7f32faa
- 083%7C0%7C0%7C637481454347897365%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwM
- DAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=aJst4%2BM8N
- vPEkANMfwPkOtNaWu9mZhGSxwdNdyLY9iw%3D&reserved=0\n[2]  https://nam12.safel
- inks.protection.outlook.com/?url=https%3A%2F%2Fgatech.campuslabs.com%2Feng
- age%2Fsubmitter%2Fform%2Fstart%2F446266&data=04%7C01%7Ccourtney.hill%40gat
- ech.edu%7C2874f791a4214d666efc08d8c93cc7f2%7C482198bbae7b4b258b7a6d7f32faa
- 083%7C0%7C0%7C637480610167913630%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwM
- DAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=lkGvwF20X8i
- bBBXltOzOF1AtoWDIUJagaz9xF1lZjNk%3D&reserved=0\n[3]  marylynn.realff@mse.g
- atech.edu\n[4]  monicamarks@gatech.edu
-LOCATION:Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WST Learning Community dinner discussion: Ti Chang\, GT 2002 ID al
- umna
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210308T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210308T233000Z
-UID:http://hg.gatech.edu/node/642637#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nWST Learning Community Dinner\nre
- sidents can pick up boxed dinners in Stein House at 5pm\nMonday\, March 8\
- , 2021\, 5:30pm: Ti Chang\, GT 2002 ID alumna and founder of Crave\nBlue J
- eans Link: https://bluejeans.com/106761163\n\nWST Learning Community fall 
- 2021 - spring 2022 application [1]\nApplication Due January 29\, 2021\, 5p
- m.\n\nGEMS\, WST Learning Community Service Project —Howard Middle Schoo
- l Girls Excelling in Math and Science (GEMS) Club. Online or in-person mos
- t Tuesdays\, August-May\, 4:15-5:45 pm. For information\, contact: marylyn
- n.realff@mse.gatech.edu [2] or monicamarks@gatech.edu [3]\n\nLinks:\n[0]  
- http://hg.gatech.edu/node/642637#0\n[1]  https://gatech.campuslabs.com/eng
- age/submitter/form/start/446266\n[2]  marylynn.realff@mse.gatech.edu\n[3] 
-  monicamarks@gatech.edu
-LOCATION:Stein House\, Georgia Tech\, Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SCPC Presents: 119th Take-A-Prof!
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210309T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210309T190000Z
-UID:http://hg.gatech.edu/node/644750#0
-DESCRIPTION:Status: published\n\nThe Student Center Programs Council invit
- es you to the 119th Take-A-Prof!\n\nStart 2021 off right by inviting a pro
- fessor\, RA/PL\, TA\, or mentor out to a lunch inspired by a Cozy Cabin ge
- taway.\n\nTake-A-Prof will take place on Tuesday\, March 9th from 11:30 AM
-  to 2 PM in the Klaus Atrium. Tickets are $4 per person ($8 for you and yo
- ur guest) and can be purchased at bit.ly/campustickets [1]\n\nEmail us at 
- homecoming@scpc.gatech.edu [2] if you have any questions\, comments\, or c
- oncerns.\n\nLinks:\n[0]  http://hg.gatech.edu/node/644750#0\n[1]  https://
- nam12.safelinks.protection.outlook.com/?url=http%3A%2F%2Fbit.ly%2Fcampusti
- ckets&data=04%7C01%7Cawashington44%40gatech.edu%7Cdca778ac7f644d7789ac08d8
- d7595cd7%7C482198bbae7b4b258b7a6d7f32faa083%7C0%7C0%7C637496126219175415%7
- CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWw
- iLCJXVCI6Mn0%3D%7C1000&sdata=rDnu6toBgaJXMIvUeuCJ5dMktQNlZ8erySrCSIGi4BA%3
- D&reserved=0\n[2]  homecoming@scpc.gatech.edu
-LOCATION:Klaus Atrium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Food4Lives Service with CCF
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210309T183000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210309T203000Z
-UID:http://hg.gatech.edu/node/643371#6
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nServing with a local organization\, Food4Lives\, to 
- prepare\, pack\, and distribute food to our friends on the streets of Atla
- nta.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643371#6\n[1]  http://www.g
- tccf.org/compassion/
-LOCATION:CCF\, 767 Techwood Drive NW
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCF The Event
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210312T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210312T040000Z
@@ -13471,6 +13290,21 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Westminster Christian Fellowship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SWE tour of the HIVE
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220310T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220310T230000Z
+UID:https://gatech.campuslabs.com/engage/event/7975140
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nHi all! GTSWE will be t
+ ouring the HIVE on 10th March Thursday from 5pm to 6pm. The Interdisciplin
+ ary Design Commons\, better known as the Hive Makerspace\, is here to prov
+ ide the Georgia Tech community with accessible engineering space and resou
+ rces to bring ideas to life in a non-traditional classroom setting. So com
+ e tour the HIVE with GTSWE!\n\nFor any questions\, DM Fehmeen Tariq on Sla
+ ck or email at fehmeen@gatech.edu [1]\n\nLinks:\n[0]  https://gatech.campu
+ slabs.com/engage/event/7975140\n[1]  fehmeen@gatech.edu
+LOCATION:The HIVE
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Movie Night: Kiki's Delivery Service
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220310T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220311T010000Z
@@ -13481,6 +13315,27 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAnime O'Tekku\, the off
  ded. Don't forget to RSVP!\n\nLinks:\n[0]  https://gatech.campuslabs.com/e
  ngage/event/7970133
 LOCATION:College of Computing Room 016
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MOVE General Body Meeting & Blanket Making
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220310T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220311T003000Z
+UID:http://hg.gatech.edu/node/656104#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nJoin MOVE at our General Body Meeting to help make b
+ lankets with free food and learn more about how to become involved with se
+ rvice on campus!\n\nMOVE is currently recruiting students to serve as comm
+ ittee members in our 6 committees which include Animal Welfare\, Education
+  and STEM\, Hunger and Homelessness\, Medical Assistance\, Sustainability\
+ , and Special Projects\, which combines a variety of needs not met by othe
+ r committees. Throughout the year\, these committees host a variety of ser
+ vice projects and awareness events. If you’re interested in this leaders
+ hip opportunity where you’ll get experience with planning service events
+  and coordinating with other service organizations on and off campus\, as 
+ well opportunities to volunteer to help your community\, please consider a
+ pplying!\n\nLinks:\n[0]  http://hg.gatech.edu/node/656104#0\n[1]  https://
+ gatech.campuslabs.com/engage/event/7908359
+LOCATION:Room 317\, Skiles Building
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TEDxGeorgiaTech Open Mic Night
@@ -13520,6 +13375,19 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Check GroupMe
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GT MSA Spoken Word
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220311T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220312T020000Z
+UID:https://gatech.campuslabs.com/engage/event/7975138
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nOur Spoken Word Event (
+ & March GBM) is this week!! This event is an opportunity for Muslims to sp
+ eak about their faith and share their experiences with others. This event 
+ is open to the public\, so please feel free to share with your friends and
+  family and anyone who would be interested in performing or attending!!\n\
+ nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7975138
+LOCATION:Exhibition Hall
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Westminster Christian Fellowship Fish Fry
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220311T233000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220312T010000Z
@@ -13537,19 +13405,21 @@ BEGIN:VEVENT
 SUMMARY:2022 Black Leadership Conference
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220312T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220312T220000Z
-UID:https://gatech.campuslabs.com/engage/event/7967795
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nThe purpos
- e of the conference is to engage Black students and alumni\, providing the
- m with both inspiration and essential expertise to take on leadership posi
- tions at Tech and beyond. Since 2004\, the Black Leadership Conference has
-  been our premier leadership event created for and by Black students\, pro
- viding hundreds of young Black leaders a forum where they can hone their l
- eadership skills to become changemakers on campus and in their communities
- . This year's theme is Young Black Brilliance: Passion. Purpose. Intention
- ality. This event is open to the entire Georgia Tech community. Please com
- e out and enjoy workshops\, discussions\, free food and headshots!\n\nLink
- s:\n[0]  https://gatech.campuslabs.com/engage/event/7967795
-LOCATION:Clough Undergraduate Learning Commons
+UID:http://hg.gatech.edu/node/656102#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\, Free Stuff\nStatus: published\n\nThe purpose of the c
+ onference is to engage Black students and alumni\, providing them with bot
+ h inspiration and essential expertise to take on leadership positions at T
+ ech and beyond. Since 2004\, the Black Leadership Conference has been our 
+ premier leadership event created for and by Black students\, providing hun
+ dreds of young Black leaders a forum where they can hone their leadership 
+ skills to become changemakers on campus and in their communities. This yea
+ r's theme is Young Black Brilliance: Passion. Purpose. Intentionality. Thi
+ s event is open to the entire Georgia Tech community. Please come out and 
+ enjoy workshops\, discussions\, free food and headshots!\n\nLinks:\n[0]  h
+ ttp://hg.gatech.edu/node/656102#0\n[1]  https://gatech.campuslabs.com/enga
+ ge/event/7967795\n[2]  https://gtaasu.weebly.com/?redirect=%2F
+LOCATION:Clough Commons
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dance Marathon 2022
@@ -13603,6 +13473,18 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  u/node/654531#0\n[1]  https://gatech.campuslabs.com/engage/event/7730944\n
  [2]  https://gatech.campuslabs.com/engage/organization/cso
 LOCATION:Catholic Center Basement\, 172 4th St NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:National Potato Chip Day at Brittain
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220314T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220315T010000Z
+UID:http://hg.gatech.edu/node/656174#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nMarch 14 is National Potato Chip Day and the be
+ st way to celebrate is with Tech Dining! Join us a Brittain during both lu
+ nch and dinner for a homemade potato chip and dip bar.\n\nLinks:\n[0]  htt
+ p://hg.gatech.edu/node/656174#0
+LOCATION:Brittain Dining Hall
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ideas to Serve Workshops: Mapping (part 2): Creating Your Map
@@ -13689,6 +13571,19 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A Chat on Effective Altruism with Effective Altruism Georgia Tech
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220314T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220315T000000Z
+UID:https://gatech.campuslabs.com/engage/event/7971651
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nEnjoy free vegan cinnam
+ on rolls provided by Cinnaholic Edgewood!\n\nGuests who are experiencing s
+ ymptoms of Covid-19 should not attend. We strongly encourage that you wear
+  a mask when not eating (especially if indoors). We will be providing hand
+  sanitizer.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/797
+ 1651
+LOCATION:Kendeda 230
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jon's Office Hours
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220315T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220315T160000Z
@@ -13718,6 +13613,25 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
   conversation! Dinner will start around 7:30 and be followed by a discussi
  on or other activity!\n\nLinks:\n[0]  http://hg.gatech.edu/node/654285#9
 LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Student Commencement Speaker Info Session
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220316T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220316T170000Z
+UID:https://gatech.campuslabs.com/engage/event/7974769
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAttention Spring Gradua
+ tes:\n\nInterested in speaking at your upcoming graduation?\n\nFor those i
+ nterested in learning more about the application process and tips on writi
+ ng your speech\, plan to virtually attend the info session being held on W
+ ednesday\, March 16 from 12:00PM to 1:00PM.\n\nRSVP for link – debbie.do
+ rsey@studentlife.gatech.edu [1]\n\nOne student will be selected for each c
+ eremony to present an inspirational speech of two to three minutes before 
+ his/her/their classmates and guests. For more information visit - [2]\n\nT
+ he deadline to submit your reflection speech is Monday\, March 28 – 12:0
+ 0PM.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7974769\n[
+ 1]  debbie.dorsey@studentlife.gatech.edu\n[2]  http://studentlife.gatech.e
+ du
+LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Impact Lunchtime Talks: Lara O'Connor Hodgson\, President\, and CE
@@ -13825,6 +13739,38 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Ken Byers Tennis Complex
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A Taste of Nowruz- Persian New Year
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220318T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220319T000000Z
+UID:https://gatech.campuslabs.com/engage/event/7976020
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin Irani
+ an Student Association (ISA) in celebrating Nowruz\, Persian New Year\, on
+  March 18th in the Alumni House Griffin Ballroom. Experience Persian cultu
+ re\, art\, live traditional music\, and delicious food during this free ev
+ ent!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7976020
+LOCATION:Alumni House Griffin Ballroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Night of Diversity
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220318T213000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220319T020000Z
+UID:https://gatech.campuslabs.com/engage/event/7972386
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nIT'S BACK!
+ \n\nDelta Phi Lambda Sorority\, Inc. is hosting their annual 12th Annual N
+ ight of Diversity on Friday\, March 18th.\n\nNight of Diversity celebrates
+  Georgia Tech’s vibrant and varied cultures with a night of performances
+  and serves as a platform for Tech’s premier cultural and talent-related
+  organizations. We’ll be showcasing some of Georgia Tech’s top talent 
+ including T.E.R.A\, Ramblin' Raas\, DPhiL Stroll\, Seoulstice\, Tekstyles\
+ , Jerry Han\, and many more!\n\nThe first 200 attendees will receive FREE 
+ FOOD and FREE T-SHIRTS\, and all attendees will have the chance to WIN RAF
+ FLE PRIZES!\n\nInterested in attending? Let us know you’re going on our 
+ Facebook event here.\n\nNight of Diversity is sponsored by Beaute & Le Bar
+  Nail Lounge\, Mukja\, RHA\, and Parent's Fund.\n\nLinks:\n[0]  https://ga
+ tech.campuslabs.com/engage/event/7972386
+LOCATION:Exhibition Hall Midtown II
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Westminster Christian Fellowship Fish Fry
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220318T223000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220319T000000Z
@@ -13915,6 +13861,48 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Check GroupMe
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Scheller Lunchtime Live: Servant Leadership - From the Georgia Tec
+ h Football Field to the Board Room and Beyond
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220325T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220325T163000Z
+UID:http://hg.gatech.edu/node/656106#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nScheller Lunchtim
+ e Live is a livestream series hosted by the Georgia Tech Scheller College 
+ of Business featuring faculty\, student\, and alumni speakers discussing r
+ elevant topics for the tech-driven\, digital age.\n\nIn this talk\, Dr. Ko
+ fi Smith\, Georgia Tech B.S. Industrial and Systems Engineering and Execut
+ ive MBA alum\, will discuss how adopting a servant leadership approach too
+ k him from the football field of Georgia Tech to the board room and on to 
+ becoming an entrepreneur running a multi-million-dollar business. Drawing 
+ on his life experiences\, Smith will provide definitions of what it means 
+ to be a servant leader and share ways to adopt this leadership ideology.\n
+ \nJust hit "Attend" on this LinkedIn event and refresh this page on Friday
+ \, March 25 at 12:00 p.m. ET to access the session. Please note\, you must
+  have a LinkedIn profile to register and view the livestream.\n\nAbout Dr.
+  Kofi Smith\n\nDr. Smith served as president & CEO of the Atlanta Airlines
+  Terminal Company (AATC) from 2010 to December 2020 leading the strategic 
+ direction and management of all building operations and facility maintenan
+ ce responsibilities for the world’s most traveled airport\, Hartsfield-J
+ ackson Atlanta International Airport. He managed more than $945M in operat
+ ions and approximately $650M in capital improvement projects during his te
+ nure. He grew AATC’s employee base by 114%\, creating more positions and
+  employment opportunities for Atlanta residents. In 2021\, Dr. Smith launc
+ hed his own company\, Keystone Management\, LLC. He currently has operatio
+ ns in four cities across four different states.\n\nDr. Smith is a graduate
+  of Leadership Georgia\, Leadership Atlanta\, and the Regional Leadership 
+ Institute. He serves as vice chair to the boards of Goodwill of North Geor
+ gia and the National Black Child Development Institute. He is also a trust
+ ee for Children’s Healthcare of Atlanta Foundation and the Youth Service
+  Fund Foundation for the Rotary Club of Atlanta. He is also on the Advisor
+ y Board to the President of Georgia Tech.\n\nHe holds an B.S. degree in In
+ dustrial and Systems Engineering and an MBA in Global Business from Georgi
+ a Tech\, and a Ph.D. in Business Administration from Georgia State Univers
+ ity.\n\nLinks:\n[0]  http://hg.gatech.edu/node/656106#0\n[1]  https://www.
+ linkedin.com/video/event/urn:li:ugcPost:6905599705221279744/
+LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WST Lrn C dinner with Monica Marks about Consent app
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220328T213000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220328T223000Z
@@ -13950,6 +13938,22 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Marcus Nanotechnology Building 1116-1118
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:In-Person Group Coaching | Building Tolerance for Ambiguity
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220329T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220329T220000Z
+UID:https://gatech.campuslabs.com/engage/event/7972580
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nEmbracing ambiguity can
+  be a challenge. After all\, it’s natural to desire direction and a sens
+ e of control in our lives. It’s comforting to have specific instructions
+  provided to you or to have a clear vision of the future to work towards. 
+ However\, uncertainty is a part of life\, especially after the COVID-19 cr
+ isis. In this session we will work to build up your tolerance for ambiguit
+ y\, to help you feel better equipped to navigate gray areas and deal with 
+ uncertainty.\n\nRSVP to attend\n\nDinner will be served!\n\nLinks:\n[0]  h
+ ttps://gatech.campuslabs.com/engage/event/7972580
+LOCATION:Brittain Rec Classroom
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WCF Free Dinner
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220329T220300Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220330T001500Z
@@ -13969,6 +13973,30 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
   conversation! Dinner will start around 7:30 and be followed by a discussi
  on or other activity!\n\nLinks:\n[0]  http://hg.gatech.edu/node/654285#10
 LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Media Bridge and Terraces Grand Opening
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220330T180000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220330T190000Z
+UID:http://hg.gatech.edu/node/656132#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nJoin us Wednesday\, March 30 from 2 to 3 p.m. a
+ s the Georgia Tech Library officially unveils both the Media Bridge and Cr
+ osland Rooftop art installation to campus.\n\nThe event will kick off with
+  a demonstration of the Library’s Media Bridge\, which connects Judge S.
+  Price Gilbert Memorial Library to Dorothy M. Crosland Tower.\n\nShowcasin
+ g Georgia Tech’s culture of research\, scholarship and creativity\, the 
+ Bridge will feature work from across campus\, including student pieces fro
+ m a collaborative content creation workshop.\n\nNext\, guests will be take
+ n to Crosland Tower’s seventh floor roof top terraces. There they’ll e
+ xperience Crosland Chroma\, the intersection of public safety and art crea
+ ted by Professor of the Practice Tristan Al-Haddad and his student assista
+ nts.\n\nAfter the rooftop grand opening\, light refreshments will be serve
+ d in the seventh floor meeting room.\n\nLinks:\n[0]  http://hg.gatech.edu/
+ node/656132#0\n[1]  https://gatech.co1.qualtrics.com/jfe/form/SV_aVNLHPnb0
+ Hz82JE
+LOCATION:LIbrary Courtyard (between Price GIlbert Memorial Library and Cro
+ sland Tower)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Veggie Jackets Bring-Your-Own-Lunch
@@ -14147,26 +14175,29 @@ BEGIN:VEVENT
 SUMMARY:TEDxGeorgiaTech Conference
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220410T130000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220410T190000Z
-UID:https://gatech.campuslabs.com/engage/event/7962158
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nTEDxGeorgiaTech is brin
- ging back their annual Professional Conference for our Georgia Tech and At
- lanta community!\n\nCLICK HERE TO BUY YOUR TICKETS NOW [1]\n\nWe are very 
- excited to have you all join us for this event and cannot wait for you to 
- hear about our speakers “ideas worth spreading”! This year\, we have 8
-  amazing speakers from the GT and ATL community who will be speaking about
-  a variety of topics. Through the course of the conference\, we will have 
- engaging activities to allow you to meet some new people and grow your net
- work.\n\n- Light refreshments and lunch will be provided during the confer
- ence as well.\n- This is a professional conference so we ask you dress app
- ropriately for the event.\n\nWe are bringing the conference back after a l
- ong 4 year break and we are so excited that you will be joining us for the
-  event! The speakers have been working hard to share some novel\, inventiv
- e and creative ideas with you!\n\nIf you have any questions or concerns\, 
- please reach out by sending us an email at tedxgeorgiatech@gmail.com and w
- e will get back to you as soon as possible.\n\nLinks:\n[0]  https://gatech
- .campuslabs.com/engage/event/7962158\n[1]  https://gatech.universityticket
- s.com/w/event.aspx?id=1886&p=1
-LOCATION:Westside Cultural Arts Center
+UID:http://hg.gatech.edu/node/656099#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nExtras: Free Food\nStatus: published\n\nTEDxGeo
+ rgiaTech is bringing back their annual Professional Conference for our Geo
+ rgia Tech and Atlanta community!\n\nCLICK HERE TO BUY YOUR TICKETS NOW [2]
+ \n\nWe are very excited to have you all join us for this event and cannot 
+ wait for you to hear about our speakers “ideas worth spreading”! This 
+ year\, we have 8 amazing speakers from the GT and ATL community who will b
+ e speaking about a variety of topics. Through the course of the conference
+ \, we will have engaging activities to allow you to meet some new people a
+ nd grow your network.\n\n- Light refreshments and lunch will be provided d
+ uring the conference as well.\n- This is a professional conference so we a
+ sk you dress appropriately for the event.\n\nWe are bringing the conferenc
+ e back after a long 4 year break and we are so excited that you will be jo
+ ining us for the event! The speakers have been working hard to share some 
+ novel\, inventive and creative ideas with you!\n\nIf you have any question
+ s or concerns\, please reach out by sending us an email at tedxgeorgiatech
+ @gmail.com and we will get back to you as soon as possible.\n\nLinks:\n[0]
+   http://hg.gatech.edu/node/656099#0\n[1]  https://gatech.campuslabs.com/e
+ ngage/event/7962158\n[2]  https://gatech.universitytickets.com/w/event.asp
+ x?id=1886&p=1
+LOCATION:Westside Cultural Arts Center\, 760 10th St NW\, Atlanta\, GA 303
+ 18
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pancake Breakfast
@@ -14598,6 +14629,34 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
   conversation! Dinner will start around 7:30 and be followed by a discussi
  on or other activity!\n\nLinks:\n[0]  http://hg.gatech.edu/node/654285#13
 LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2022 Ivan Allen Jr. Prize for Social Courage
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220420T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220420T180000Z
+UID:http://hg.gatech.edu/node/655597#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nGeorgia Tech is p
+ roud to honor the legacy of a great alumnus and civic leader\, former Atla
+ nta Mayor Ivan Allen Jr. The Ivan Allen Jr. Prize for Social Courage shine
+ s a light on those around the world who bravely act to improve the human c
+ ondition\, often in the face of seemingly insurmountable challenges.\n\nTh
+ e Ivan Allen Jr. Prize for Social Courage was first awarded in 2011 and is
+  funded in perpetuity by a grant from the Wilbur and Hilda Glenn Family Fo
+ undation. It provides a stipend of $100\,000 to the awardee or a charitabl
+ e contribution to a non-profit in honor of the awardee.\n\nFor additional 
+ information\, visit: [1]\n\nRecipients\nFord Greene\, Ralph Long Jr.\, and
+  Lawrence Williams\, Georgia Tech’s first Black students\, and Ronald Ya
+ ncey\, Tech’s first Black graduate\, will receive the 2022 Ivan Allen Jr
+ . Prize for Social Courage\n\nGeorgia Tech invites you to attend our event
+ s surrounding the award celebration.\nWednesday\, April 20\, 2022\n10 a.m.
+  - Noon - Symposium and panel discussion\nNoon - 2 p.m. - Lunch and award 
+ presentation\n\nAsk questions prior to the event by emailing events@comm.g
+ atech.edu [2].\nFor more information and to RSVP\, please visit here [1].\
+ n\nLinks:\n[0]  http://hg.gatech.edu/node/655597#0\n[1]  https://ivanallen
+ prize.gatech.edu/\n[2]  events@comm.gatech.edu\n[3]  http://novareevents.c
+ om/biltmore-ballrooms/
+LOCATION:Biltmore Ballrooms
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Veggie Jackets Bring-Your-Own-Lunch
