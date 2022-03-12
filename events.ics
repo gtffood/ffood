@@ -13378,14 +13378,17 @@ BEGIN:VEVENT
 SUMMARY:GT MSA Spoken Word
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220311T223000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220312T020000Z
-UID:https://gatech.campuslabs.com/engage/event/7975138
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nOur Spoken Word Event (
- & March GBM) is this week!! This event is an opportunity for Muslims to sp
- eak about their faith and share their experiences with others. This event 
- is open to the public\, so please feel free to share with your friends and
-  family and anyone who would be interested in performing or attending!!\n\
- nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7975138
-LOCATION:Exhibition Hall
+UID:http://hg.gatech.edu/node/656273#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nOur Spoken Word Event (& March GB
+ M) is this week!! This event is an opportunity for Muslims to speak about 
+ their faith and share their experiences with others. This event is open to
+  the public\, so please feel free to share with your friends and family an
+ d anyone who would be interested in performing or attending!!\n\nLinks:\n[
+ 0]  http://hg.gatech.edu/node/656273#0\n[1]  http://hg.gatech.edu/node/656
+ 208#0\n[2]  https://gatech.campuslabs.com/engage/event/7975138\n[3]  https
+ ://www.instagram.com/gatechmsa/?hl=en
+LOCATION:The Kendeda Auditorium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Westminster Christian Fellowship Fish Fry
@@ -13574,14 +13577,16 @@ BEGIN:VEVENT
 SUMMARY:A Chat on Effective Altruism with Effective Altruism Georgia Tech
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220314T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220315T000000Z
-UID:https://gatech.campuslabs.com/engage/event/7971651
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nEnjoy free vegan cinnam
- on rolls provided by Cinnaholic Edgewood!\n\nGuests who are experiencing s
- ymptoms of Covid-19 should not attend. We strongly encourage that you wear
-  a mask when not eating (especially if indoors). We will be providing hand
-  sanitizer.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/797
- 1651
-LOCATION:Kendeda 230
+UID:http://hg.gatech.edu/node/656200#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nEnjoy free vegan cinnamon rolls p
+ rovided by Cinnaholic Edgewood!\n\nGuests who are experiencing symptoms of
+  Covid-19 should not attend. We strongly encourage that you wear a mask wh
+ en not eating (especially if indoors). We will be providing hand sanitizer
+ .\n\nLinks:\n[0]  http://hg.gatech.edu/node/656200#0\n[1]  https://gatech.
+ campuslabs.com/engage/event/7971651\n[2]  https://linktr.ee/veggiejackets
+LOCATION:Classroom 230\, The Kendeda Building for Innovative Sustainable D
+ esign
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jon's Office Hours
@@ -13613,6 +13618,60 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
   conversation! Dinner will start around 7:30 and be followed by a discussi
  on or other activity!\n\nLinks:\n[0]  http://hg.gatech.edu/node/654285#9
 LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Few Lessons Learned: Researching and Publishing
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220316T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220316T160000Z
+UID:http://hg.gatech.edu/node/656205#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nMSE's Dr. Rosario
+  Gerhardt is an accomplished researcher and professor at Georgia Tech. She
+  became a faculty member in 1991 and has authored and co-authored over 200
+  publications! For this talk\, she will be sharing many of the lessons tha
+ t she's learned throughout her career\, which will be valuable for aspirin
+ g researchers.\n\nThis event will be both in-person and virtual. Refreshme
+ nts will be available for those who attend in-person. If you'd like to att
+ end\, please RSVP [1]. And if you'd like to stay up-to-date on future talk
+ s\, access all past seminars\, and join the Research Paper's club communit
+ y\, join our MS Teams channel [2]!\n\nLinks:\n[0]  http://hg.gatech.edu/no
+ de/656205#0\n[1]  https://gatech.co1.qualtrics.com/jfe/form/SV_2tzQwFTVbpd
+ 0Hv8\n[2]  https://teams.microsoft.com/l/channel/19%3afc5393be46144a95bc26
+ c684bf98f5d8%40thread.tacv2/General?groupId=ae2c0ccc-edc3-4e7c-af8d-11dd86
+ d7b787&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083\n[3]  https://bluejea
+ ns.com/403608968/7837
+LOCATION:Room 110\, Kendeda Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CIGars - Center for Integrative Genomics Advanced Research Seminar
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220316T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220316T170000Z
+UID:http://hg.gatech.edu/node/656220#0
+DESCRIPTION:Intended audience: Graduate students\, Postdoc\nExtras: Free f
+ ood\nStatus: published\n\nThe Center for Integrative Genomics (CIG) holds 
+ a monthly advanced research seminar (CIGars) with two presentations given 
+ by graduate students and post-docs. Each presentation is approximately 25 
+ minutes with five minutes for questions. These talks are directed to gradu
+ ate students and post-docs but are open to anyone who is interested in the
+  topics. We would love to see you in person or on our BlueJeans live strea
+ m!\n\n“ Polygenic Adaptation is not a Major Driver of Disparities in Dis
+ ease Mortality Across Global Populations "\n\nUjani Hazra [1]\, Ph.D. Grad
+ uate Student\, Bioinformatics Ph.D. Program – Joseph Lachance\, Ph.D.\, 
+ Advisor Georgia Tech\n\n“Hybrid Fitness Effects Modify Fixation Probabil
+ ities of Introgressed Alleles"\n\nAaron Pfennig [2]\, Ph.D. Graduate Stude
+ nt\, Quantitative Bioscience Ph.D. Program Georgia Tech – Joesph Lachanc
+ e\, Ph.D.\, Advisor Georgia Tech\n\nThis is a great opportunity to:\n\n- I
+ mprove your presentation skills as a speaker\n- Communicate science\, rese
+ arch\, and technology to an audience with diverse backgrounds\n- Practice 
+ giving your talk for an upcoming conference\, thesis defense\, or qualifyi
+ ng oral exams\n- Enjoy free lunch and hear about a wide range of work happ
+ ening in the local bioscience community\n\nIf you cannot attend in person\
+ , please join us virtually on BlueJeans with this link [3].\n\nLinks:\n[0]
+   http://hg.gatech.edu/node/656220#0\n[1]  https://popgen.gatech.edu/peopl
+ e/\n[2]  https://biosciences.gatech.edu/people/aaron-pfennig\n[3]  https:/
+ /bluejeans.com/486028976/2461
+LOCATION:Engineered Biosystems Building (EBB)\, CHOA Seminar Room\, 950 At
+ lantic Drive NW\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Student Commencement Speaker Info Session
@@ -13710,6 +13769,16 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Scheller College of Business\, Room 200
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:French Club Media Night
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220317T224500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220318T000000Z
+UID:http://hg.gatech.edu/node/656263#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatech.edu
+ /node/656263#0
+LOCATION:Skiles 368
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Veggie Jackets Bring-Your-Own-Lunch
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220318T153000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220318T173000Z
@@ -13742,32 +13811,37 @@ BEGIN:VEVENT
 SUMMARY:A Taste of Nowruz- Persian New Year
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220318T210000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220319T000000Z
-UID:https://gatech.campuslabs.com/engage/event/7976020
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin Irani
- an Student Association (ISA) in celebrating Nowruz\, Persian New Year\, on
-  March 18th in the Alumni House Griffin Ballroom. Experience Persian cultu
- re\, art\, live traditional music\, and delicious food during this free ev
- ent!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7976020
+UID:http://hg.gatech.edu/node/656279#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free Food\, Free Stuff\nStatus
+ : published\n\nJoin Iranian Student Association (ISA)\, Diversity Program\
+ , and Office of International Education in celebrating Nowruz\, Persian Ne
+ w Year\, on March 18th in the Alumni House Griffin Ballroom. Experience Pe
+ rsian culture\, art\, live traditional music\, and delicious food during t
+ his free event!\n\nLinks:\n[0]  http://hg.gatech.edu/node/656279#0\n[1]  h
+ ttps://gatech.campuslabs.com/engage/event/7976020
 LOCATION:Alumni House Griffin Ballroom
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Night of Diversity
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220318T213000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220319T020000Z
-UID:https://gatech.campuslabs.com/engage/event/7972386
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nIT'S BACK!
- \n\nDelta Phi Lambda Sorority\, Inc. is hosting their annual 12th Annual N
- ight of Diversity on Friday\, March 18th.\n\nNight of Diversity celebrates
-  Georgia Tech’s vibrant and varied cultures with a night of performances
-  and serves as a platform for Tech’s premier cultural and talent-related
-  organizations. We’ll be showcasing some of Georgia Tech’s top talent 
- including T.E.R.A\, Ramblin' Raas\, DPhiL Stroll\, Seoulstice\, Tekstyles\
- , Jerry Han\, and many more!\n\nThe first 200 attendees will receive FREE 
- FOOD and FREE T-SHIRTS\, and all attendees will have the chance to WIN RAF
- FLE PRIZES!\n\nInterested in attending? Let us know you’re going on our 
- Facebook event here.\n\nNight of Diversity is sponsored by Beaute & Le Bar
-  Nail Lounge\, Mukja\, RHA\, and Parent's Fund.\n\nLinks:\n[0]  https://ga
- tech.campuslabs.com/engage/event/7972386
+UID:http://hg.gatech.edu/node/656204#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nExtras: Free Food\, Free Stuff\nStatus: publish
+ ed\n\nIT'S BACK!\n\nDelta Phi Lambda Sorority\, Inc. is hosting their annu
+ al 12th Annual Night of Diversity on Friday\, March 18th.\n\nNight of Dive
+ rsity celebrates Georgia Tech’s vibrant and varied cultures with a night
+  of performances and serves as a platform for Tech’s premier cultural an
+ d talent-related organizations. We’ll be showcasing some of Georgia Tech
+ ’s top talent including T.E.R.A\, Ramblin' Raas\, DPhiL Stroll\, Seoulst
+ ice\, Tekstyles\, Jerry Han\, and many more!\n\nThe first 200 attendees wi
+ ll receive FREE FOOD and FREE T-SHIRTS\, and all attendees will have the c
+ hance to WIN RAFFLE PRIZES!\n\nInterested in attending? Let us know you’
+ re going on our Facebook event here.\n\nNight of Diversity is sponsored by
+  Beaute & Le Bar Nail Lounge\, Mukja\, RHA\, and Parent's Fund.\n\nLinks:\
+ n[0]  http://hg.gatech.edu/node/656204#0\n[1]  https://gatech.campuslabs.c
+ om/engage/event/7972386
 LOCATION:Exhibition Hall Midtown II
 END:VEVENT
 BEGIN:VEVENT
@@ -14139,6 +14213,32 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
   conversation! Dinner will start around 7:30 and be followed by a discussi
  on or other activity!\n\nLinks:\n[0]  http://hg.gatech.edu/node/654285#11
 LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southeastern Energy Conference
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220408T003100Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220408T013100Z
+UID:http://hg.gatech.edu/node/656196#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nStatus: published\n\nThe Energy Club @ GT is ho
+ sting the 2022 Southeastern Energy Conference on April 7 and 8\, in partne
+ rship with the Strategic Energy Institute and IEEE PES at Georgia Tech. Th
+ is year’s conference theme is The Electric Grid of the Future.\n\nThe ev
+ ent is hosted virtually on April 7 and in-person on April 8 at the Kendeda
+  Building room 210. It includes:\n\n- A poster session\, with cash prizes 
+ ($500\, $250\, $150) for top contestants. Click here [1] to sign up for th
+ e poster session. Posters can be on any topic broadly related to energy.\n
+ - Free food!\n- Keynote addresses by Matt Cox\, CEO of Greenlink\, and Anu
+ j Chokshi\, FPL Development Project Director for E-Mobility\n- A Grid Tech
+ nologies workshop\n- Panels focused on grid policy\, the use of artificial
+  intelligence for grid data\, and grid resiliency\n\nPlease visit our webs
+ ite for a full agenda and list of speakers [2].\n\nSign up for the confere
+ nce here [3] so we can get an estimate for food!\n\nLinks:\n[0]  http://hg
+ .gatech.edu/node/656196#0\n[1]  http://www.energyexpo.gatech.edu/showcase/
+ \n[2]  http://www.energyexpo.gatech.edu/\n[3]  https://www.energyexpo.gate
+ ch.edu/register/\n[4]  http://www.energyexpo.gatech.edu
+LOCATION:Classroom 210\, The Kendeda Building for Innovative Sustainable D
+ esign
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Veggie Jackets Bring-Your-Own-Lunch
