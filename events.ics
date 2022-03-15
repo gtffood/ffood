@@ -3,29 +3,6 @@ VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
 SUMMARY:Virtual Pi Day 5k
-DTSTART;VALUE=DATE:20210314
-DTEND;VALUE=DATE:20210315
-UID:http://hg.gatech.edu/node/644110#2
-DESCRIPTION:Intended audience: Public\nExtras: Free food\, Freebies\nStatu
- s: published\n\nRegistration for the Pi Day 5k Virtual Run is now open! Th
- e 4th Annual run/walk event will have the same 3.14 mile distance and awes
- ome t-shirts the community has come to know\, but with plenty of time to c
- omplete your 5k safely! Participants have between Friday\, March 12 and Tu
- esday\, March 16 to complete their 5k.\n\nAfter your run/walk\, stop by th
- e CRC’s tables for refreshments and your complimentary long sleeve t-shi
- rt:\nFriday\, March 12: 8 a.m. - 4 p.m.\nMonday\, March 15: 2 p.m. - 4 p.m
- .\nTuesday\, March 16: 2 p.m. - 4 p.m.\n\nStudents\, faculty\, staff\, alu
- mni\, families\, and non-CRC members are welcome to participate.\n\nRegist
- er by Feb. 22 at 11:59 p.m. to secure your preferred size long-sleeve even
- t t-shirt for just $5. Complimentary registration is available\, with shir
- t size subject to availability. Register before Tuesday\, March 16 at 3:14
-  p.m. here >> [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/644110#2\n[1] 
-  https://mycrc.gatech.edu/Program/GetProducts?classification=91951787-a96a
- -49aa-b977-dcc405edf43a
-LOCATION:Campus Recreation Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual Pi Day 5k
 DTSTART;VALUE=DATE:20210315
 DTEND;VALUE=DATE:20210316
 UID:http://hg.gatech.edu/node/644110#3
@@ -14365,6 +14342,30 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatech.edu
  /node/654280#11
 LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3rd Annual Fraternal Excellence Awards
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220412T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220413T000000Z
+UID:https://gatech.campuslabs.com/engage/event/7983927
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nIn celebration of Georg
+ ia Tech’s 133-year-old fraternity and sorority community\, the Fraternal
+  Excellence Awards is an annual celebration of Georgia Tech’s Fraternity
+  and Sorority Life. The ceremony provides community members and chapters a
+ n opportunity to be recognized by their peers and acknowledged for their h
+ ard work. Awards are presented by the department\, all four governing coun
+ cils\, and leadership organizations within Fraternity and Sorority Life. A
+ ttire is formal with a dessert reception to follow.\n\nThe Fraternal Excel
+ lence Awards ceremony is also under the umbrella of Student Celebration We
+ ek! Launched in 2021\, units from the Division of Student Engagement & Wel
+ l-Being\, Institute Communications\, and the Office of Graduate Studies ar
+ e collaborating to bring together unique student recognition ceremonies to
+  create a cohesive Student Celebration Week. This week honors all of our
+  students who champion campus engagement and help build a thriving GT comm
+ unity through their leadership\, service\, and scholarship. Learn more abo
+ ut Student Celebration Week at studentawards.gatech.edu.\n\nLinks:\n[0]  h
+ ttps://gatech.campuslabs.com/engage/event/7983927
+LOCATION:Academy of Medicine
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WCF Free Dinner
