@@ -2,117 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Virtual Pi Day 5k
-DTSTART;VALUE=DATE:20210315
-DTEND;VALUE=DATE:20210316
-UID:http://hg.gatech.edu/node/644110#3
-DESCRIPTION:Intended audience: Public\nExtras: Free food\, Freebies\nStatu
- s: published\n\nRegistration for the Pi Day 5k Virtual Run is now open! Th
- e 4th Annual run/walk event will have the same 3.14 mile distance and awes
- ome t-shirts the community has come to know\, but with plenty of time to c
- omplete your 5k safely! Participants have between Friday\, March 12 and Tu
- esday\, March 16 to complete their 5k.\n\nAfter your run/walk\, stop by th
- e CRC’s tables for refreshments and your complimentary long sleeve t-shi
- rt:\nFriday\, March 12: 8 a.m. - 4 p.m.\nMonday\, March 15: 2 p.m. - 4 p.m
- .\nTuesday\, March 16: 2 p.m. - 4 p.m.\n\nStudents\, faculty\, staff\, alu
- mni\, families\, and non-CRC members are welcome to participate.\n\nRegist
- er by Feb. 22 at 11:59 p.m. to secure your preferred size long-sleeve even
- t t-shirt for just $5. Complimentary registration is available\, with shir
- t size subject to availability. Register before Tuesday\, March 16 at 3:14
-  p.m. here >> [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/644110#3\n[1] 
-  https://mycrc.gatech.edu/Program/GetProducts?classification=91951787-a96a
- -49aa-b977-dcc405edf43a
-LOCATION:Campus Recreation Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCF Trivia Lunch
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210315T154500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210315T174500Z
-UID:http://hg.gatech.edu/node/643999#4
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nFree lunch and trivia every Monday! All lunches are 
- pre-packaged in to-go boxes\, and seating is available in a safe\, sociall
- y distant fashion inside and outside. Trivia begins at 11:50 a.m. and 12:5
- 0 p.m.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643999#4\n[1]  https://li
- nktr.ee/gtccf
-LOCATION:Christian Campus Fellowship (CCF)\, 767 Techwood Dr. NW
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trivia Lunch
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210315T154500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210315T174500Z
-UID:https://gatech.campuslabs.com/engage/event/6891744
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFree lunch and trivia e
- very Monday! All lunches are pre-packaged in to-go boxes\, and seating is 
- available in a safe\, socially distant fashion inside and outside. Trivia 
- begins at 11:50am and 12:50pm.\n\nLinks:\n[0]  https://gatech.campuslabs.c
- om/engage/event/6891744
-LOCATION:Christian Campus Fellowship (CCF)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pi Day Celebration 
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210315T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210315T190000Z
-UID:https://gatech.campuslabs.com/engage/event/6989612
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nJoin us on
-  Monday\, March 15th from 1:00 PM - 3:00 PM in the Klaus Atrium to celebra
- te Pi Day! We will be hosting a "drive-by" event where you can come and pi
- ck up a pie. Register here [1]!\n\nLinks:\n[0]  https://gatech.campuslabs.
- com/engage/event/6989612\n[1]  https://nam12.safelinks.protection.outlook.
- com/?url=https%3A%2F%2Fgatech.us5.list-manage.com%2Ftrack%2Fclick%3Fu%3D4e
- 0d695c3e0039442fd7b2e1d%26id%3D1f35bd97f9%26e%3Da8696187ad&data=04%7C01%7C
- gunesen%40gatech.edu%7C9daeb358f9e248a0996f08d8e22fd2f4%7C482198bbae7b4b25
- 8b7a6d7f32faa083%7C0%7C0%7C637508042365721484%7CUnknown%7CTWFpbGZsb3d8eyJW
- IjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdat
- a=TK5KufCKrnPhMfCDvMU2%2FJn6EnokT2cfDn1G7%2FDNvZk%3D&reserved=0
-LOCATION:2nd floor on Van Leer outside the Hive
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual Pi Day 5k
-DTSTART;VALUE=DATE:20210316
-DTEND;VALUE=DATE:20210317
-UID:http://hg.gatech.edu/node/644110#4
-DESCRIPTION:Intended audience: Public\nExtras: Free food\, Freebies\nStatu
- s: published\n\nRegistration for the Pi Day 5k Virtual Run is now open! Th
- e 4th Annual run/walk event will have the same 3.14 mile distance and awes
- ome t-shirts the community has come to know\, but with plenty of time to c
- omplete your 5k safely! Participants have between Friday\, March 12 and Tu
- esday\, March 16 to complete their 5k.\n\nAfter your run/walk\, stop by th
- e CRC’s tables for refreshments and your complimentary long sleeve t-shi
- rt:\nFriday\, March 12: 8 a.m. - 4 p.m.\nMonday\, March 15: 2 p.m. - 4 p.m
- .\nTuesday\, March 16: 2 p.m. - 4 p.m.\n\nStudents\, faculty\, staff\, alu
- mni\, families\, and non-CRC members are welcome to participate.\n\nRegist
- er by Feb. 22 at 11:59 p.m. to secure your preferred size long-sleeve even
- t t-shirt for just $5. Complimentary registration is available\, with shir
- t size subject to availability. Register before Tuesday\, March 16 at 3:14
-  p.m. here >> [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/644110#4\n[1] 
-  https://mycrc.gatech.edu/Program/GetProducts?classification=91951787-a96a
- -49aa-b977-dcc405edf43a
-LOCATION:Campus Recreation Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Coffee with a Cop
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210316T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210316T180000Z
-UID:http://hg.gatech.edu/node/645334#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nExtras: Free food\nStatus: published\n\nLinks:\
- n[0]  http://hg.gatech.edu/node/645334#0
-LOCATION:CULC First Floor - Rain Location is outdoor canopy area
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Food4Lives Service with CCF
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210316T173000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210316T193000Z
-UID:http://hg.gatech.edu/node/643371#7
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nServing with a local organization\, Food4Lives\, to 
- prepare\, pack\, and distribute food to our friends on the streets of Atla
- nta.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643371#7\n[1]  http://www.g
- tccf.org/compassion/
-LOCATION:CCF\, 767 Techwood Drive NW
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Create-A-Crystal 
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210317T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210318T000000Z
@@ -13583,6 +13472,50 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Scheller College of Business\, Room 200
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GT MSA Culture Fest
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220317T190000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220317T230000Z
+UID:http://hg.gatech.edu/node/656400#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\, Free Stuff\nStatus: published\n\nAsalaamualaikum! We 
+ will be holding Culture Fest on Thursday March 17th in Tech Green from 3-7
+ pm. This event is our entertaining\, fun way of exhibiting various aspects
+  of our wonderful culture and religion to the general Georgia Tech body. W
+ e will have multiple tables set up\, and as such we need all hands on deck
+ . Please fill out this form ( https://docs.google.com/forms/d/e/1FAIpQLSeF
+ ngm8LrkCICzMsh9Ll7kb7QMU6EWSAqO81iIxspqOwzZ7Qw/viewform [2] ) if you would
+  like to volunteer at Culture Fest. Furthermore\, try to wear your MSA t-s
+ hirt on the day of the event.\n\nLinks:\n[0]  http://hg.gatech.edu/node/65
+ 6400#0\n[1]  https://gatech.campuslabs.com/engage/event/7986696\n[2]  http
+ s://forms.gle/vfwkgKFgShJHLSaA7\n[3]  https://docs.google.com/forms/d/e/1F
+ AIpQLSeFngm8LrkCICzMsh9Ll7kb7QMU6EWSAqO81iIxspqOwzZ7Qw/viewform\n[4]  http
+ s://www.instagram.com/gatechmsa/
+LOCATION:Tech Green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Georgia Tech Football Spring Game
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220317T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220318T000000Z
+UID:http://hg.gatech.edu/node/656417#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nAn on-field\, in-
+ game tailgate party highlights the fan promotions for Georgia Tech footbal
+ l’s 2022 spring game\, which will be held on Thursday\, March 17 at Bobb
+ y Dodd Stadium. Admission and parking are FREE.\n\nOn-campus parking areas
+  (Lower Peters Parking Deck\, Klaus Deck and McCamish Lot) and the Bobby D
+ odd Stadium gates will open at 4 p.m. for the 6 p.m. kickoff. Once inside\
+ , fans are invited to participate in a St. Patrick’s Day-themed tailgate
+  party in one of the end zones on Grant Field. Food and beverages (includi
+ ng beer and wine) will be available for purchase at the on-field tailgate 
+ party\, which will be open throughout the game\, giving fans an up-close l
+ ook at the 2022 Yellow Jackets. The on-field tailgate party is open to all
+  fans in attendance on a first-come\, first-served basis (including an exc
+ lusive area designated for Georgia Tech students).\n\nMore information [1]
+ \n\nLinks:\n[0]  http://hg.gatech.edu/node/656417#0\n[1]  https://ramblinw
+ reck.com/tech-announces-spring-game-fan-promotions/
+LOCATION:Bobby Dodd Stadium
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:French Club Media Night
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220317T224500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220318T000000Z
@@ -13625,16 +13558,19 @@ BEGIN:VEVENT
 SUMMARY:A Taste of Nowruz- Persian New Year
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220318T210000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220319T000000Z
-UID:http://hg.gatech.edu/node/656279#0
+UID:http://hg.gatech.edu/node/656395#0
 DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  \, Public\, Undergraduate students\nExtras: Free Food\, Free Stuff\nStatus
  : published\n\nJoin Iranian Student Association (ISA)\, Diversity Program\
  , and Office of International Education in celebrating Nowruz\, Persian Ne
  w Year\, on March 18th in the Alumni House Griffin Ballroom. Experience Pe
  rsian culture\, art\, live traditional music\, and delicious food during t
- his free event!\n\nLinks:\n[0]  http://hg.gatech.edu/node/656279#0\n[1]  h
- ttps://gatech.campuslabs.com/engage/event/7976020
-LOCATION:Alumni House Griffin Ballroom
+ his free event!\n\nLinks:\n[0]  http://hg.gatech.edu/node/656395#0\n[1]  h
+ ttp://hg.gatech.edu/node/656279#0\n[2]  https://gatech.campuslabs.com/enga
+ ge/event/7976020\n[3]  https://gatech.campuslabs.com/engage/organization/i
+ ranian-student-association
+LOCATION:Alumni House Griffin Ballroom\, 190 North Avenue NW\, Atlanta\, G
+ A
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Night of Diversity
@@ -13791,6 +13727,19 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Greek Off-Campus Dinner
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220327T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220328T000000Z
+UID:http://hg.gatech.edu/node/656397#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nPlease join us after returning to campus from spring
+  break to enjoy an off-campus dinner and catching up with your Catholic Gr
+ eek community! We will meet in the lobby of the Catholic Center immediatel
+ y following the 5pm mass.\n\nLinks:\n[0]  http://hg.gatech.edu/node/656397
+ #0\n[1]  https://gatech.campuslabs.com/engage/organization/cso
+LOCATION:Catholic Center Lobby\, 172 4th St NW
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WST Lrn C dinner with Monica Marks about Consent app
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220328T213000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220328T223000Z
@@ -13803,6 +13752,35 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  https://bluejeans.com/953570417/2328\n\nLinks:\n[0]  http://hg.gatech.edu/
  node/655510#0
 LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Insights in Materials Research with Innovations in AFM\, nanoI
+ R\, and Nanoindentation
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220329T123000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220329T194500Z
+UID:http://hg.gatech.edu/node/656415#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\nStatus: published\n\nPresented by Georgia Institu
+ te of Technology and Bruker\nNew Insights in Materials Research with Innov
+ ations in AFM\, nanoIR\, and Nanoindentation\n\nTuesday\, March 29\, 2022\
+ n\nWorkshop Location: Suddath Seminar Room 1128\, Parker H. Petit Institut
+ e for Bioengineering and Biosciences at Georgia Tech\, 315 Ferst Dr. NW\, 
+ Atlanta\, GA 30332 View Map\n\nHands-on Sessions: Room G139\, MCF Suite\, 
+ Marcus Nanotechnology Building at Georgia Tech\, 345 Ferst Drive NW\, Atla
+ nta\, GA 30332\n\nParking: Visitor Area 5 - W23 (next to MSE building) 911
+  State St. NW\, Atlanta\, GA 30318\n\nJoin us Tuesday\, March 29\, for a f
+ ree atomic force microscopy (AFM)\, nanoscale infrared (AFM-IR) spectrosco
+ py\, and nanoindentation workshop at the Georgia Institute of Technology. 
+ During the workshop\, we will explore the latest advances in AFM\, BioAFM\
+ , AFM-IR\, nanoindentation technologies\, and perform hands-on demonstrati
+ ons with Bruker’s Dimension Icon [1] AFM.\n\nRegister Today! [2]\n\nLink
+ s:\n[0]  http://hg.gatech.edu/node/656415#0\n[1]  https://www.bruker.com/e
+ n/products-and-solutions/microscopes/materials-afm/dimension-icon-afm.html
+ \n[2]  https://mbns.bruker.com/acton/fs/blocks/showLandingPage/a/9063/p/p-
+ 028d/t/page/fm/1
+LOCATION:Suddath Seminar Room 1128\, Parker H. Petit Institute for Bioengi
+ neering and Biosciences at Georgia Tech\, 315 Ferst Dr. NW\, Atlanta\, GA 
+ 30332
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jon's Office Hours
@@ -13887,6 +13865,56 @@ LOCATION:LIbrary Courtyard (between Price GIlbert Memorial Library and Cro
  sland Tower)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Murder Mystery Dinner at Brittain Dining Hall
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220330T203000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220331T010000Z
+UID:http://hg.gatech.edu/node/656418#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Undergraduate students\nSta
+ tus: published\n\nMarch 30 th\, Brittian Dining Hall is hosting a night of
+  dinner and intrigue with Midnight at the Masquerade: A Murder Mystery Din
+ ner.\n\nShows begin at 4:30 p.m. and 7:30 p.m.\, reservations are required
+ . To save your seat\, visit: [1]. Guests may either use a meal swipe or pa
+ y the dinner door rate of $15.75 for entrance. Entrance includes access to
+  the murder mystery show and an all-you-care-to-eat buffet.\n\nThe rustle 
+ of silks and feathers under muted conversation was probably the last thing
+  heard by the tragically and unexpectedly deceased at the Billionaires’ 
+ Club Annual Masquerade Ball. With a mystery under each feathery façade\, 
+ unmasking the killer may be quite a challenge. It’s up to you to determi
+ ne which partygoer is guilty\, bring this crime to justice\, and save the 
+ party!\n\nAttend the Billionaires’ Club Annual Masquerade Ball and help 
+ get this soiree back on track by trading clues with your guests\, gatherin
+ g information\, and solving the crime before the masked menace gets away! 
+ Evening wear\, ball gowns\, Venetian masks\, suits\, and tuxes are what to
+  wear to this high-class night of masks and murder. Get ready for a glamor
+ ous evening of mystery\, intrigue\, and murder at this masquerade ball mur
+ der mystery party!\n\nLinks:\n[0]  http://hg.gatech.edu/node/656418#0\n[1]
+   http://flowcode.com/p/54ziZl3ON?fc=0
+LOCATION:Brittain Dining Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:College of Computing Graduate Student Mixer
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220331T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220401T000000Z
+UID:http://hg.gatech.edu/node/656390#0
+DESCRIPTION:Intended audience: Graduate students\nStatus: published\n\nThe
+  College of Computing is hosting a mixer for its graduate student communit
+ y on March 31. Come meet and mingle with your friends\, colleagues\, a few
+  partners from the College's Corporate Affiliate Program (CAP) and Dean Is
+ bell!\n\nWhere: GT Hotel Club Room [1]\n800 Spring St NW\, Atlanta\, GA 30
+ 308 [2]\nthe Club Room is located on the first floor of the Hotel\nWhen: T
+ hursday\, March 31\, 5 - 8 p.m.\n\nThere are two pool tables in the club r
+ oom and we have reserved a photo booth so you can have a souvenir of the e
+ vening. Refreshments and drink tickets provided. So take a break from your
+  studies\, and come relax and have fun!\n\nLinks:\n[0]  http://hg.gatech.e
+ du/node/656390#0\n[1]  https://www.gatechhotel.com/\n[2]  https://www.goog
+ le.com/maps/place/800+Spring+St+NW\,+Atlanta\,+GA+30308/@33.7764024\,-84.3
+ 914487\,17z/data=!3m1!4b1!4m5!3m4!1s0x88f5046693bc42f9:0x991e5135bdaf9b05!
+ 8m2!3d33.7764024!4d-84.38926\n[3]  https://gatech.co1.qualtrics.com/jfe/fo
+ rm/SV_eVUGWJtV4V1CtD0
+LOCATION:Georgia Tech Hotel and Conference Center Club Room\, 800 Spring S
+ t NW\, Atlanta\, GA 30308
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Veggie Jackets Bring-Your-Own-Lunch
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220401T153000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220401T173000Z
@@ -13902,6 +13930,23 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  www.instagram.com/gtveggiejackets/\n[3]  https://gatech.campuslabs.com/eng
  age/organization/veggie-jackets
 LOCATION:Check GroupMe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:French Club Cheese Tasting Event
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220401T193000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220401T210000Z
+UID:http://hg.gatech.edu/node/656396#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nJoin us for our first Cheese Tasting Event! It is co
+ mpletely free to attend!\n\nWe will be serving many types of cheese\, incl
+ uding Brie\, Manchego\, Gouda\, Gruyere\, etc. for attendees to taste. Tas
+ ting will be free\, and cheeses will be served with toothpicks. Sparkling 
+ apple cider will be served as an accompaniment.\n\nLike most of our meetin
+ gs\, we will encourage French as the language for conversation.\n\nSince f
+ ood will be served\, please RSVP to the meeting on this page!\n\nLinks:\n[
+ 0]  http://hg.gatech.edu/node/656396#0\n[1]  https://gatech.campuslabs.com
+ /engage/organization/french-club
+LOCATION:Home Park (Exhibition Hall Room)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Westminster Christian Fellowship Fish Fry
@@ -13950,6 +13995,23 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  \n[1]  https://gatech.campuslabs.com/engage/event/7730950\n[2]  https://ga
  tech.campuslabs.com/engage/organization/cso
 LOCATION:Catholic Center Basement\, 172 4th St NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grad Student Appreciation Week: Monday Funday
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220404T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220404T170000Z
+UID:http://hg.gatech.edu/node/656356#0
+DESCRIPTION:Intended audience: Graduate students\nExtras: Free food\, Free
+ bies\nStatus: published\n\nTo kick of GSAW Week\, you're invited to Monday
+  Funday! Stop by to grab a complimentary lunch\, play a yard game\, and ge
+ t a free frisbee to take home. No registration is required.\n\nRain Locati
+ on: Clough Commons Second Floor Atrium\n\nApril 4-8 is Grad Student Apprec
+ iation Week at Georgia Tech. It’s a week to celebrate the contributions\
+ , impact\, and value of graduate and professional students. Events are onl
+ y open to graduate education students. Learn more about Grad Student Appre
+ ciation Week events here [1].\n\nLinks:\n[0]  http://hg.gatech.edu/node/65
+ 6356#0\n[1]  https://grad.gatech.edu/gsaw
+LOCATION:Tech Walkway South
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jon's Office Hours
@@ -14029,6 +14091,38 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Westminster Christian Fellowship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Grad Student Appreciation Week: Grad SGA Picnic
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220406T200000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220406T220000Z
+UID:http://hg.gatech.edu/node/656379#0
+DESCRIPTION:Intended audience: Graduate students\nExtras: Free food\nStatu
+ s: published\n\nJoin Grad Student Government Association (SGA) at Tech Gre
+ en for free food\, fun\, and inflatables!\n\nApril 4-8 is Grad Student App
+ reciation Week at Georgia Tech. It’s a week to celebrate the contributio
+ ns\, impact\, and value of graduate and professional students. Events are 
+ only open to graduate education students. Learn more about Grad Student Ap
+ preciation Week events here [1].\n\nLinks:\n[0]  http://hg.gatech.edu/node
+ /656379#0\n[1]  https://grad.gatech.edu/gsaw
+LOCATION:Tech Green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grad Student Appreciation Week: Grateful for Grads
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220407T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220407T170000Z
+UID:http://hg.gatech.edu/node/656380#0
+DESCRIPTION:Intended audience: Graduate students\nExtras: Free food\, Free
+ bies\nStatus: published\n\nGeorgia Tech shows its appreciation for graduat
+ e students with sweets and treats. Pick up a cupcake and swag bag and part
+ icipate in a mini-mindfulness bootcamp.\n\nRain location: Clough Commons S
+ econd Floor Atrium\n\nApril 4-8 is Grad Student Appreciation Week at Georg
+ ia Tech. It’s a week to celebrate the contributions\, impact\, and value
+  of graduate and professional students. Events are only open to graduate e
+ ducation students. Learn more about Grad Student Appreciation Week events 
+ here [1].\n\nLinks:\n[0]  http://hg.gatech.edu/node/656380#0\n[1]  https:/
+ /grad.gatech.edu/gsaw
+LOCATION:Tech Walkway South
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Southeastern Energy Conference
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220408T003100Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220408T013100Z
@@ -14084,6 +14178,39 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  anization/westminsterchristianfellowship
 LOCATION:Westminister Christian Fellowship\, 742 Techwood Dr\, Atlanta\, G
  a
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Catalyst 2022: Your Learning Liftoff
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220409T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220410T035900Z
+UID:http://hg.gatech.edu/node/656404#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nOn Saturday\, April 9th HexLabs is hosting Catalyst 
+ 2022: Your Learning Liftoff – our annual STEM education learn-a-thon. Ou
+ r program reaches over 400 high schoolers across the Metropolitan Atlanta 
+ Area every year and we seek to recruit mentors passionate about our missio
+ n.\n\nWith the goal of connecting youth to fundamental computing principle
+ s\, Catalyst will be offering four tracks: AI/ML/Data Science\, Web Develo
+ pment\, Entrepreneurship/Product Development\, and Cybersecurity! As a Cat
+ alyst mentor\, you’ll have the opportunity to work with students that cu
+ rrently have limited access to STEM education at their high schools. By sh
+ aring your CS\, engineering\, or entrepreneurial experiences\, you can bec
+ ome a part of these students’ STEM learning journeys and spark inspirati
+ on.\n\nTo make this initiative a success\, we need your help. HexLabs woul
+ d like to invite you and your friends to guide these aspiring inventors as
+  mentors!\n\nMentor responsibilities include:\n\n- Co-leading a student co
+ hort of up to 12 students\n- Fostering peer-to-peer connections between me
+ ntees within cohorts\n- Encouraging mentees to take advantage of learning 
+ opportunities throughout the day\n- Supporting mentees to continue engagin
+ g with topics even after Catalyst\n- Arriving on time and staying the enti
+ re duration of the event\n\nWe’ll cover breakfast\, lunch\, and dinner a
+ nd you will also receive swag from HexLabs and our sponsors.\n\nIf you are
+  interested\, please register as a mentor at [1]. Registration will close 
+ at 11:59 pm on Tuesday\, March 15th so we encourage you to apply soon!\n\n
+ If you have any questions\, feel free to send an email to hello@hexlabs.or
+ g [2] - we'd love to help!\n\nLinks:\n[0]  http://hg.gatech.edu/node/65640
+ 4#0\n[1]  http://catalyst.hexlabs.org/\n[2]  hello@hexlabs.org
+LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TEDxGeorgiaTech Conference
@@ -14404,6 +14531,21 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  www.instagram.com/gtveggiejackets/\n[3]  https://gatech.campuslabs.com/eng
  age/organization/veggie-jackets
 LOCATION:Check GroupMe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eta Kappa Nu Spring Picnic
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220415T190000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220415T210000Z
+UID:http://hg.gatech.edu/node/656370#0
+DESCRIPTION:Intended audience: Faculty/Staff\nStatus: draft\n\nDate: Frida
+ y\, April 15\nTime: 3 p.m. - 5 p.m.\nLocations: Klaus Atrium\n\nECE studen
+ ts and personnel. RSVP\n\nRaffles and free food for first 150 Guests!\n\nA
+ t the picnic\, HKN will be announcing the recipients of the Outstanding Te
+ acher Awards. All ECE seniors are eligible to vote for the professors they
+  think most deserve these awards using the following link: [1] Form closes
+  the on April 8.\n\nLinks:\n[0]  http://hg.gatech.edu/node/656370#0\n[1]  
+ https://gatech.co1.qualtrics.com/jfe/form/SV_cYfxsXDoWrNVPwy
+LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Westminster Christian Fellowship Fish Fry
