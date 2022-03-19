@@ -2,75 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Create-A-Crystal 
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210317T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210318T000000Z
-UID:https://gatech.campuslabs.com/engage/event/6952636
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nHave you e
- ver wanted to see a crystal form right before your eyes? On\, March 17\, 2
- 021 you will have the chance to! Join us at 7pm in Caldwell basement to le
- arn all about crystals! Information about their composition\, how they are
-  formed\, and more will be covered. At the end of the information session\
- , you will get the chance to set up your very own crystal growing kit. RSV
- P to watch the crystals grow right before your eyes!\n\nLinks:\n[0]  https
- ://gatech.campuslabs.com/engage/event/6952636
-LOCATION:Caldwell Basement
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CMaT Lunch & Learn with Scientific Bioprocessing Inc.
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210318T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210318T180000Z
-UID:http://hg.gatech.edu/node/645412#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nPARTICIPATION LIN
- K [1]\n\nIn this Lunch and Learn presentation\, we share how we have combi
- ned multiple sensors in suitable form factors for the measurement of pH an
- d dissolved oxygen in a range of culture systems such as multi-well cultur
- e plates\, microfluidics devices\, shake flasks\, and bioreactors.\n\nScie
- ntific Bioprocessing Inc. Presenters:\n\n- Jake Boy - Senior Application S
- cientist\n- Ian Sarad - Senior Bioprocessing Application Scientist\n\nPers
- onalized medicine in cell and gene therapy has moved therapeutics developm
- ent back to small scale bioreactors and added new process constraints: cos
- t and form factor. SBI has developed technologies that overcome these chal
- lenges and allow researchers to collect real-time sensing data with non-in
- vasive\, biocompatible\, sterilizable sensors.\n\nWe will also present our
-  new fiber optic sensor platform that allows for sensing measurements insi
- de a bioreactor at multiple locatins in a perfusion flow loop upstream or 
- downstream of the bioreactor. This mapping can reveal stagnation zones\, i
- nsufficient mixing and other process improvement opportunities.\n\nWhile o
- vercoming form factor limitations is highly beneficial for personalized me
- dicine applications\, multi-sensing platforms are also critical in bioproc
- essing and in increasing reproducibility\, reducing cost\, and resulting i
- n better cell outcomes. We welcome the CMaT community to this presentation
-  and offer evaluations of our technology to the CMaT researchers to encour
- age collaborations and help accelerate the development and commercializati
- on of cell therapies.\n\nLinks:\n[0]  http://hg.gatech.edu/node/645412#0\n
- [1]  https://bluejeans.com/352461581\n[2]  http://cellmanufacturingusa.org
- /\n[3]  https://selectbiosciences.com/
-LOCATION:Virtual Event - see description for participation info
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PianoForte at the Atlanta (Virtual) Symphony
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210318T193000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210318T210000Z
-UID:https://gatech.campuslabs.com/engage/event/6981262
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin PianoForte for a n
- ight at the Atlanta Symphony Orchestra’s virtual concert\, “Behind The
-  Curtain: Yefim Bronfman Plays Beethoven"!\n\nOriginally aired on March 4\
- , Robert Spano welcomes one of the great pianists of our age\, Yefim Bronf
- man\, for the stormy Piano Concerto No. 3 by Beethoven. Also\, the Merian 
- Ensemble presents the world premiere of The Book of Spells by Brazilian-Am
- erican Clarice Assad. The Merian Ensemble is a chamber music group dedicat
- ed to the exploration of works by women\, composed of ASO musicians Elisab
- eth Remy Johnson\, Christina Smith\, Emily Brebach\, Marci Gurnow\, and Je
- ssica Oudin.\n\nPianoForte has purchased streaming access to ASO concerts\
- , so you can attend our events for free.\n\n*** The event is limited to 20
-  people. If you would like to attend\, please reserve your spot in this Go
- ogle form [1] ***\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/eve
- nt/6981262\n[1]  https://forms.gle/2ZeSRmVqxD84t9Ce9
-LOCATION:Clary Theatre at Bill Moore Student Success Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCF The Event
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210318T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210319T030000Z
@@ -13754,6 +13685,19 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY: A Chat with Farm of the Free
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220328T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220329T000000Z
+UID:https://gatech.campuslabs.com/engage/event/7995589
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nMonday\, March 28th fro
+ m 7 to 8 pm in Kendeda 230\n\n(free vegan cinnamon rolls provided by Cinna
+ holic Edgewood!)\n\nG uests who are experiencing symptoms of Covid-19 shou
+ ld not attend. We strongly encourage that you wear a mask when not eating 
+ (especially if indoors). We will be providing hand sanitizer.\n\nLinks:\n[
+ 0]  https://gatech.campuslabs.com/engage/event/7995589
+LOCATION:Kendeda 230
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:New Insights in Materials Research with Innovations in AFM\, nanoI
  R\, and Nanoindentation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220329T123000Z
@@ -13913,6 +13857,19 @@ DESCRIPTION:Intended audience: Graduate students\nStatus: published\n\nThe
  rm/SV_eVUGWJtV4V1CtD0
 LOCATION:Georgia Tech Hotel and Conference Center Club Room\, 800 Spring S
  t NW\, Atlanta\, GA 30308
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Enabling Miniaturization
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220401T130000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220401T143000Z
+UID:http://hg.gatech.edu/node/656461#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\nStatus: published\n\nSpeaker: Phil Mooney\n\nThis
+  will be an overview of the technology behind the microArch system\, compa
+ tible materials\, post processing techniques for the S140 Boston Micro Fab
+  printer.\n\nLinks:\n[0]  http://hg.gatech.edu/node/656461#0\n[1]  https:/
+ /bme.gatech.edu/bme/marcus-nanotechnology-building
+LOCATION:Marcus Nanotechnology Building\, Room: 1116-1118
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Veggie Jackets Bring-Your-Own-Lunch
@@ -14091,6 +14048,27 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Westminster Christian Fellowship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Student-Alumni Networking Affair
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220406T193000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220406T210000Z
+UID:http://hg.gatech.edu/node/656444#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nThe GT Career Cen
+ ter\, in partnership with Ivan Allen College of Liberal Arts\, is hosting 
+ its Spring 2022 Ivan Allen College Alumni - Student Networking Affair! Thi
+ s event is an opportunity for Ivan Allen College students to learn about t
+ he diverse career paths of IAC alumni\, and how they can continue to lead 
+ and create an impact in a variety of fields.\n\nIvan Allen College alumni\
+ , students\, faculty and staff are invited to come and network with dedica
+ ted in an intimate atmosphere and learn more about each other’s’ uniqu
+ e talents and experiences.\n\nDoor prizes and light refreshments will be s
+ erved! RSVP by March 28.\n\nAlumni RSVP Here [1]\n\nStudents RSVP via Care
+ erBuzz\n\nLinks:\n[0]  http://hg.gatech.edu/node/656444#0\n[1]  https://ga
+ tech.us8.list-manage.com/track/click?u=aa5ad272041e122a55e84b587&id=d4eef2
+ 6321&e=f0c5ec13c7
+LOCATION:Georgia Tech Alumni House
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Grad Student Appreciation Week: Grad SGA Picnic
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220406T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220406T220000Z
@@ -14104,6 +14082,22 @@ DESCRIPTION:Intended audience: Graduate students\nExtras: Free food\nStatu
  preciation Week events here [1].\n\nLinks:\n[0]  http://hg.gatech.edu/node
  /656379#0\n[1]  https://grad.gatech.edu/gsaw
 LOCATION:Tech Green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Presenting Your Research
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220407T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220407T160000Z
+UID:https://gatech.campuslabs.com/engage/event/7996707
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome learn about the di
+ fferent ways researchers communicate their work with the Undergraduate Res
+ earch Ambassadors! We’ll be going over how to write a research proposal\
+ , tips for oral presentations\, and examples of great research posters. Th
+ is is a great workshop for anyone who’s presenting at the 2022 Undergrad
+ uate Research Spring Symposium or for anyone who's planning to apply for P
+ URA. Come by our workshop on Thursday\, April 7 from 11am-12pm in CULC 102
+ . There will also be free Insmonia cookies!\n\nLinks:\n[0]  https://gatech
+ .campuslabs.com/engage/event/7996707
+LOCATION:CULC 102
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grad Student Appreciation Week: Grateful for Grads
@@ -14737,6 +14731,34 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  prize.gatech.edu/\n[2]  events@comm.gatech.edu\n[3]  http://novareevents.c
  om/biltmore-ballrooms/
 LOCATION:Biltmore Ballrooms
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Center for Integrative Genomics Advanced Research Seminar
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220420T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220420T170000Z
+UID:http://hg.gatech.edu/node/656439#0
+DESCRIPTION:Intended audience: Graduate students\, Postdoc\, Public\, Unde
+ rgraduate students\nExtras: Free food\nStatus: published\n\n“A Multi-fac
+ eted Investigation of Gene Expression Variation in Wild C. elegans Strains
+ ” Avery Davis Bell\, Ph.D. [1]\, Postdoctoral researcher – Annalise Pa
+ aby\, Ph.D.\, Advisor\, Georgia Tech\n\n“Compensatory Evolution in Mitoc
+ hondrial tRNAs in Caenorhabditis Nematodes”\nLing Wang [1]\, Graduate St
+ udent\, Georgia Tech – Annalise Paaby\, Ph.D.\, Advisor Georgia Tech\n\n
+ This is a great opportunity to:\n\n- Improve your presentation skills as a
+  speaker\n- Communicate science\, research\, and technology to an audience
+  with diverse backgrounds\n- Practice giving your talk for an upcoming con
+ ference\, thesis defense\, or qualifying oral exams\n- Enjoy free lunch an
+ d hear about a wide range of work happening in the local bioscience commun
+ ity\n\nCenter for Integrative Genomics Advanced Research Seminar—CIGars\
+ nThe Center for Integrative Genomics ( CIG [2] ) holds monthly advanced re
+ search seminars (CIGars) with two presentations given by graduate students
+  and post-docs. Each presentation is approximately 25 minutes with five mi
+ nutes for questions. These talks are directed to graduate students and pos
+ t-docs but are open to anyone who is interested in the topics.\n\nLinks:\n
+ [0]  http://hg.gatech.edu/node/656439#0\n[1]  https://genaamics.org/people
+ .html\n[2]  https://cig.gatech.edu/
+LOCATION:Engineered Biosystems Building (EBB)\, CHOA Seminar Room\, 950 At
+ lantic Drive NW\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Veggie Jackets Bring-Your-Own-Lunch
