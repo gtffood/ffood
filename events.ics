@@ -2,110 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:CCF The Event
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210318T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210319T030000Z
-UID:http://hg.gatech.edu/node/643935#5
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free Food\nStatus: published\n\nA time of community\, a faith-bas
- ed talk\, worship\, discussion and fun. We have two large group starting t
- imes\, 7 p.m. and 8:30 p.m. and optional discussion groups after each. Aro
- und 10 p.m.\, we have an after-event that is something like a dance party\
- , going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, regardless o
- f what you believe\, is welcome. We have both in-person and online options
- . Our service is available on Zoom at 8:30 p.m.: [2].\n\nA time of communi
- ty\, a faith-based talk\, worship\, discussion and fun. We have two large 
- group starting times\, 7:00pm and 8:30pm and optional discussion groups af
- ter each. Around 10pm\, we have an after-event that is something like a da
- nce party\, going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, re
- gardless of what you believe\, is welcome. We have both in-person and onli
- ne options. Our service is available on Zoom at 8:30pm: https://us02web.zo
- om.us/j/84188146312\n\nLinks:\n[0]  http://hg.gatech.edu/node/643935#5\n[1
- ]  https://gatech.campuslabs.com/engage/event/6869229\n[2]  https://us02we
- b.zoom.us/j/84188146312\n[3]  https://linktr.ee/gtccf
-LOCATION:Christian Campus Fellowship\, 767 Techwood Dr. NW or Online
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Volunteer as an Urban Farmer at Truly Living Well Farms
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210319T130000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210319T170000Z
-UID:https://gatech.campuslabs.com/engage/event/6926933
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nGo green with GC this S
- t. Patrick's Day season and volunteer at an urban farm! Join GC Friday\, M
- arch 19th 9AM-1PM to help care for crops at Truly Living Well\, a nonprofi
- t providing sustainably-farmed fresh food to Atlantans facing food insecur
- ity. Volunteer can expect to weed and cultivate beds\,\nmulch\, process co
- mpost and harvesting produce.\n\nVolunteers must wear a mask\, long pants\
- , clothes that can get dirty\, and closed toed shoes\, as well as maintain
-  6 feet of distance between themselves and other volunteers while serving.
- \n\nTo serve\, volunteers must sign up for our March 19th\, 9AM-1PM volunt
- eer shift before our shift: https://volunteer.handsonatlanta.org/opportuni
- ty/a0C1H00001tuu31UAA\n\nTransportation to and from Georgia Tech's campus 
- via Uber or Lyft will be reimbursed. To receive a reimbursement\, email a 
- screenshot of your ride receipts to mreddic3@gatech.edu. Please plan to le
- ave campus around 8:30AM to ensure our group has sufficient time to check 
- in. We will meet at the Collegetown Farm at 324 Lawton Street SW\, Atlanta
- \, GA 30310.\n\nStudents will have the chance to enjoy breakfast before or
-  lunch after the event on GC and will be emailed more details closer to th
- e event.\n\nWe are so excited to give back to the community with you this 
- March!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/6926933
-LOCATION:Truly Living Well Farm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HackDLC: Video-based Movement Analysis Tutorial and Hackathon
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210320T130000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210320T190000Z
-UID:http://hg.gatech.edu/node/644825#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nAfter attending t
- he March 18 workshop "Human and Animal Movement: Where does stereotypy end
-  and individual variability start?" ( [1] ) join us for a day of fun\, cod
- ing\, and tutorials!\n\nHackDLC is a virtual tutorial/hackathon aimed to b
- ring together the community of undergraduate and graduate students\, postd
- ocs\, engineers\, data scientists\, and faculty with diverse expertise and
-  training from the greater Atlanta area.\n\nAbout\nThis event will focus o
- n learning to use Deep Lab Cut (DLC)\, an open-source software package for
-  the analysis of video data of animal and human movements. DLC enables mar
- ker-less movement analysis based on transfer learning with deep neural net
- works. Diverse teams will be formed and each team will be given a video to
-  analyze and to answer a relevant research and/or clinical question.\n\nPr
- ior Hackathon or DLC experience is not required\, you will be teamed up wi
- th people that have various skill sets!\n\nRegistration\nSpace is limited!
-  Please apply at https://forms.gle/9WTaHeCeidRfp6rz7\, no later than Monda
- y\, March 8\, 2021. Lunch will be provided to participants.\n\nLinks:\n[0]
-   http://hg.gatech.edu/node/644825#0\n[1]  https://bit.ly/3khgjaj\n[2]  ht
- tps://forms.gle/9WTaHeCeidRfp6rz7
-LOCATION:Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trash Pickup in Atlanta
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210321T133000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210321T143000Z
-UID:http://hg.gatech.edu/node/645388#0
-DESCRIPTION:Intended audience: Undergraduate students\nStatus: published\n
- \nVolunteer to serve your community and meet new people! Join other passio
- nate Georgia Tech students as we clean up Atlanta. Much of Atlanta is not 
- as well-kept as our campus. Our trash pickup will help out our neighbors a
- nd make the city a nicer place to be. Is there a better way to contribute 
- your Saturday morning to a good cause?\n\nWe will meet by the intersection
-  outside North Ave Dining Hall and walk to the area around Centennial Olym
- pic Park / Fairlie-Poplar District. First-year Servant Leadership Organiza
- tion (FSLO) will provide trash bags\, grabbers\, gloves\, reflective vests
- \, and\, of course— snacks!\n\nRSVP is required and incorporates a waive
- r of liability for risk associated with in-person events. RSVP will remain
-  open the day of the event. Masks\, social distancing\, and adherence to G
- T Covid-19 policy are required. Your group of volunteers will be under 15 
- people (likely significantly under).\n\nTime & Date: 9:30-12:30 Sunday\, M
- arch 21*\n\nLocation: North Ave Dining Hall Intersection\n\nWater: Bring w
- ater bottles! (and likely a small backpack for it)\n\nSnacks: FreeYumm Ban
- ana Maple Cookies (should be friendly towards all dietary restrictions\, b
- ut feel free to contact us for substitute)\, CLIF Bars\n\nContact: Charlie
-  Bauer\, cbauer32@gatech.edu [1]\n\n*Date subject to weather. Date moved a
- s of 3/14.\n\nLinks:\n[0]  http://hg.gatech.edu/node/645388#0\n[1]  cbauer
- 32@gatech.edu
-LOCATION:North Ave Dining Hall Intersection\, 120 North Avenue NW
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCF Trivia Lunch
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210322T154500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210322T174500Z
@@ -14326,6 +14222,20 @@ LOCATION:Marcus Nanotechnology Building | 345 Ferst Drive | Atlanta GA 303
  32
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CREATE-X Startup Spotlight
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220411T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220411T230000Z
+UID:http://hg.gatech.edu/node/655361#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free Food\nStatus: published\n\nStartup Spotlight is a month
+ ly series that features knowledgeable entrepreneurs who discuss their expe
+ riences forming companies that solve big-picture\, current problems.\n\nTh
+ is month’s Startup Spotlight features TBD from TBD.\n\n*The event is ope
+ n to all Georgia Tech students.\n\nLinks:\n[0]  http://hg.gatech.edu/node/
+ 655361#0\n[1]  https://gatech.campuslabs.com/engage/event/7882095
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ideas to Serve Workshops: Mapping (part 3): Peer Feedback and Fina
  lizing Your Map
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220411T210000Z
@@ -14465,6 +14375,23 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Westminster Christian Fellowship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CREATE-X Startup Ideas
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220412T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220412T230000Z
+UID:http://hg.gatech.edu/node/655363#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free Food\nStatus: published\n\nAre you ready to refine your
+  ideas for Startup Launch [2] with the guidance of CREATE-X mentors? Join 
+ us for Startup Ideas\, an event where students can share their ideas with 
+ members of the CREATE-X team to gain instant feedback\, meet potential co-
+ founders\, and learn more about launching projects from idea stage (or bey
+ ond) into fully functioning and viable startups!\n\n*The event is open to 
+ all Georgia Tech students.\n\nLinks:\n[0]  http://hg.gatech.edu/node/65536
+ 3#0\n[1]  https://gatech.campuslabs.com/engage/event/7882312\n[2]  https:/
+ /sites.gatech.edu/startuplaunch2021/
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:3rd Annual Fraternal Excellence Awards
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220412T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220413T000000Z
@@ -14510,6 +14437,21 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Westminster Christian Fellowship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CREATE-X Legal Buzz
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220414T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220414T230000Z
+UID:http://hg.gatech.edu/node/655442#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free Food\nStatus: published\n\nDo you have burning legal qu
+ estions? Lawyers from Troutman Sanders have the answers! Join us for Legal
+  Buzz and receive free legal advice tailored to entrepreneurs. Guest lawye
+ rs will cover questions ranging from what kind of companies you can form t
+ o questions on patents\, IPs\, equity\, and more for startups.\n\n*The eve
+ nt is open to all Georgia Tech students.\n\nLinks:\n[0]  http://hg.gatech.
+ edu/node/655442#0\n[1]  https://gatech.campuslabs.com/engage/event/7897589
+LOCATION:Centergy One Building - ATDC 3100
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Veggie Jackets Bring-Your-Own-Lunch
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220415T153000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220415T173000Z
@@ -14525,6 +14467,22 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  www.instagram.com/gtveggiejackets/\n[3]  https://gatech.campuslabs.com/eng
  age/organization/veggie-jackets
 LOCATION:Check GroupMe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CREATE-X Meet Your Co-Founder
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220415T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220415T180000Z
+UID:http://hg.gatech.edu/node/655443#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free Food\nStatus: published\n\nMeet Your Co-founder is a sp
+ eed networking event for students to find co-founders. Do you have a start
+ up idea but no teammates to build it with? Do you have skills you want to 
+ apply to a startup but don't have an idea? Come meet the co-founders you n
+ eed to apply to Startup Launch [2]!\n\n*The event is open to all Georgia T
+ ech students.\n\nLinks:\n[0]  http://hg.gatech.edu/node/655443#0\n[1]  htt
+ ps://gatech.campuslabs.com/engage/event/7897666\n[2]  https://sites.gatech
+ .edu/startuplaunch2021/
+LOCATION:Klaus Advanced Computing Building Room 2448
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eta Kappa Nu Spring Picnic
