@@ -2,43 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:CCF Trivia Lunch
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210322T154500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210322T174500Z
-UID:http://hg.gatech.edu/node/643999#5
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nFree lunch and trivia every Monday! All lunches are 
- pre-packaged in to-go boxes\, and seating is available in a safe\, sociall
- y distant fashion inside and outside. Trivia begins at 11:50 a.m. and 12:5
- 0 p.m.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643999#5\n[1]  https://li
- nktr.ee/gtccf
-LOCATION:Christian Campus Fellowship (CCF)\, 767 Techwood Dr. NW
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trivia Lunch
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210322T154500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210322T174500Z
-UID:https://gatech.campuslabs.com/engage/event/6891745
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFree lunch and trivia e
- very Monday! All lunches are pre-packaged in to-go boxes\, and seating is 
- available in a safe\, socially distant fashion inside and outside. Trivia 
- begins at 11:50am and 12:50pm.\n\nLinks:\n[0]  https://gatech.campuslabs.c
- om/engage/event/6891745
-LOCATION:Christian Campus Fellowship (CCF)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Food4Lives Service with CCF
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210323T173000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210323T193000Z
-UID:http://hg.gatech.edu/node/643371#8
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nServing with a local organization\, Food4Lives\, to 
- prepare\, pack\, and distribute food to our friends on the streets of Atla
- nta.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643371#8\n[1]  http://www.g
- tccf.org/compassion/
-LOCATION:CCF\, 767 Techwood Drive NW
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Relax\, Recharge\, Reboot With Health Initiatives
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210324T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210324T190000Z
@@ -13644,6 +13607,21 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Marcus Nanotechnology Building 1116-1118
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A Chat with Farm of the Free
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220329T180400Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220329T190400Z
+UID:http://hg.gatech.edu/node/656534#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\n(free vegan cinnamon rolls provid
+ ed by Cinnaholic Edgewood!)\n\nGuests who are experiencing symptoms of Cov
+ id-19 should not attend. We strongly encourage that you wear a mask when n
+ ot eating (especially if indoors). We will be providing hand sanitizer.\n\
+ nLinks:\n[0]  http://hg.gatech.edu/node/656534#0\n[1]  https://linktr.ee/v
+ eggiejackets
+LOCATION:Classroom 230\, The Kendeda Building for Innovative Sustainable D
+ esign
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:In-Person Group Coaching | Building Tolerance for Ambiguity
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220329T210000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220329T220000Z
@@ -13865,6 +13843,18 @@ DESCRIPTION:Intended audience: Graduate students\nExtras: Free food\, Free
  ciation Week events here [1].\n\nLinks:\n[0]  http://hg.gatech.edu/node/65
  6356#0\n[1]  https://grad.gatech.edu/gsaw
 LOCATION:Tech Walkway South
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Historic Rama with Nilesh Oak
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220404T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220404T233000Z
+UID:http://hg.gatech.edu/node/656535#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nJoin GT Hindu YUVA on Monday\, April 4th for a talk 
+ on The Historic Rama and Q&A session with renowned author Nilesh Nilkanth 
+ Oak!\n\nLassi and dinner will be provided!\n\nLinks:\n[0]  http://hg.gatec
+ h.edu/node/656535#0\n[1]  http://instagram.com/gthinduyuva
+LOCATION:Home Park Room\, Exhibition Hall
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jon's Office Hours
@@ -14101,6 +14091,21 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  g [2] - we'd love to help!\n\nLinks:\n[0]  http://hg.gatech.edu/node/65640
  4#0\n[1]  http://catalyst.hexlabs.org/\n[2]  hello@hexlabs.org
 LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flower Power Party Hour
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220410T010000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220410T050000Z
+UID:http://hg.gatech.edu/node/656528#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nOur annual Silent Disco will be themed as a flower p
+ arty!! Wear your best Hawaiian shirts and flowered outfits. We will have t
+ wo rad playlists for any music lovers\, and lots of lights\, water\, and f
+ un!\n\nWe will provide headphones for students\, all they have to do is sh
+ ow up and dance! The only food provided is water\, we will have trash cans
+ .\n\nLinks:\n[0]  http://hg.gatech.edu/node/656528#0\n[1]  https://www.ins
+ tagram.com/gtwreckless/
+LOCATION:Peters Parking Deck
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TEDxGeorgiaTech Conference
@@ -14719,6 +14724,18 @@ LOCATION:Engineered Biosystems Building (EBB)\, CHOA Seminar Room\, 950 At
  lantic Drive NW\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:31st College of Computing Awards Ceremony Luncheon
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220421T153000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220421T170000Z
+UID:http://hg.gatech.edu/node/656517#0
+DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\n31 st C
+ ollege of Computing Awards Ceremony Luncheon\n\nThursday\, April 21\n\n11:
+ 30 a.m.– 1 p.m.\n\nKlaus Atrium\n\n266 Ferst Drive NW\n\nRSVP: [1]\n\nLi
+ nks:\n[0]  http://hg.gatech.edu/node/656517#0\n[1]  https://gatech.co1.qua
+ ltrics.com/jfe/form/SV_bIMZuDw1O6Q8zm6
+LOCATION:Klaus Advanced Computing Bldg. Atrium
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Veggie Jackets Bring-Your-Own-Lunch
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220422T153000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220422T173000Z
@@ -14746,6 +14763,33 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  u/node/654532#0\n[1]  https://gatech.campuslabs.com/engage/event/7730945\n
  [2]  https://gatech.campuslabs.com/engage/organization/cso
 LOCATION:Catholic Center Basement\, 172 4th St NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CREATE-X I2P Spring Showcase
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220425T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220425T230000Z
+UID:http://hg.gatech.edu/node/656592#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nExtras: Free food\nStatus: draft\n\nOn Monday\, April 25\, CREATE-X 
+ will host the Spring 2022 Idea to Prototype (I2P) Showcase in the Marcus N
+ anotechnology Building Atrium from 5 to 7 p.m. At the showcase\, student i
+ nventors across campus will present over 30 functional prototypes with app
+ lication to real-world problems. The event is free and open to the public.
+ \n\nThe showcase is the culmination of the I2P course\, where Georgia Tech
+  students spend a semester turning their invention idea into a working pro
+ duct. Students earn research credit for the course\, in addition to receiv
+ ing financial support and faculty mentorship.\n\nThe I2P course was establ
+ ished through CREATE-X\, a Georgia Tech initiative devoted to instilling e
+ ntrepreneurial confidence in students and empowering them to launch succes
+ sful startups. CREATE-X consists of three programmatic elements – LEARN-
+ MAKE-LAUNCH – and I2P is a key part of MAKE.\n\nThe showcase in April wi
+ ll highlight the talent and hard work of students who participated in I2P 
+ throughout the fall semester. Prizes will be awarded for first\, second an
+ d third place.\n\nEvent Schedule:\n\n5:00 P.M. - I2P Showcase open to the 
+ public\n6:45 P.M. - Winners announced\n7:00 P.M. - Event ends\n\nParking: 
+ The closest paid parking lot is Visitor Parking #4.\n\nRegister for the ev
+ ent:\n\nLinks:\n[0]  http://hg.gatech.edu/node/656592#0
+LOCATION:Marcus Nanotechnology Building Atrium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ideas to Serve Workshops: Reflections and Team Awards
