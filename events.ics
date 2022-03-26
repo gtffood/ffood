@@ -2,39 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Relax\, Recharge\, Reboot With Health Initiatives
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210324T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210324T190000Z
-UID:http://hg.gatech.edu/node/645319#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nExtras: Free food\nStatus: published\n\nEnjoy free lunch from food t
- rucks and a King of Pops for dessert while taking time to relax and connec
- t with others. Activities will include painting\, giant games\, and a self
- -massage station. Stop by the table for SMILE (Spreading Messages In Love 
- and Encouragement) during the event to learn how you can participate in a 
- campuswide initiative to break a world record. Before leaving\, grab a Sel
- f-Care Goodie Bag full of items to help you relax\, recharge\, and reboot 
- at home. Register at [1].\n\nLinks:\n[0]  http://hg.gatech.edu/node/645319
- #0\n[1]  https://gatech.universitytickets.com/w/event.aspx?id=1769
-LOCATION:Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Campfire at West Village Fire Pit!
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210324T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210325T010000Z
-UID:http://hg.gatech.edu/node/645483#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
- aduate students\nStatus: published\n\nJoin GT Trailblazers in recreating y
- our perfect Spring Break outdoors getaway\, all in the comfort of campus! 
- Come by and spend time with friendly faces new and old by the campfire. Si
- lly campfire songs and a way to unwind! Throw a potato in the coals and ta
- ke it home with you for a dinner you'll never forget.\n\nMasks on\, social
- ly distanced. Time slots are split into 7 - 8 p.m. and 8 - 9 p.m.\n\nLinks
- :\n[0]  http://hg.gatech.edu/node/645483#0\n[1]  https://groupme.com/join_
- group/61302475/FckvQhw9
-LOCATION:West Village Fire Pit
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCF The Event
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210325T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210326T030000Z
@@ -13710,6 +13677,21 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Undergraduate students\nSta
 LOCATION:Brittain Dining Hall
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:LEAD Opportunities Information Session
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220331T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220331T220000Z
+UID:https://gatech.campuslabs.com/engage/event/8016462
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nWhen: Thursday\, March 
+ 31 at 5 pm\n\nWhere: Sen Theater - GT Library\n\nEnjoy boba and sweets whi
+ le learning about opportunities in Leadership Education and Development su
+ ch as being a:\n\n- Leadership Coach (3+ Year Undergrad/Graduate/Faculty/S
+ taff)\n\n- Grand Challenges Facilitator (2+ Year Undergrad/Graduate)\n\n- 
+ GT 1000 Facilitator (Graduate/Faculty/Staff)\n\n- Teams for Tech Facilitat
+ or (Graduate Only)\n\n- PUBP 4140 teaching Assistant (Graduate Only)\n\nLi
+ nks:\n[0]  https://gatech.campuslabs.com/engage/event/8016462
+LOCATION:SEN Theater - GT Library
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:College of Computing Graduate Student Mixer
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220331T210000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220401T000000Z
@@ -13845,15 +13827,59 @@ DESCRIPTION:Intended audience: Graduate students\nExtras: Free food\, Free
 LOCATION:Tech Walkway South
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ECE Student Seminar - So…what exactly do you professors and acad
+ emics do anyways?
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220404T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220404T172000Z
+UID:http://hg.gatech.edu/node/656611#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nDate: Monday\, April 4\, 2022\n\nTime: 12:30 p.
+ m. - 1:20 p.m.\n\nLocation: Van Leer\, WC240\n\nSpeaker: Morris Cohen\n\nS
+ peaker’s Title: Associate Professor\n\nSpeaker’s Affiliation: ECE Geor
+ gia Tech\n\nSeminar Title: So…what exactly do you professors and academi
+ cs do anyways?\n\nAbstract of Talk: When I tell people I’m a professor\,
+  often the first question is “what do you teach?” For many people teac
+ hing is the only picture of what professors do. As students in a top-tier 
+ research-heavy institution\, you are aware that there is also the research
+  piece of our jobs\, which can be as big or bigger. You may or may not hav
+ e a feel for what “research” is like\, but even still you probably are
+  missing various other aspects of what professors and academics actually d
+ o. This won’t be easy because “research and academia” looks very dif
+ ferent from one school\, or one lab\, to the next. But\, I’ll do my best
+  to open up and (1) fill in those gaps\, including the many pieces of an a
+ cademic job\, (2) go into the decision process I went into that landed me 
+ here\, and (3) discuss why I love my job and would not change my career ro
+ ute\, but at the same time this job is not for everyone (no job is\, excep
+ t maybe Senior Vice President of Ice Cream Tasting).\n\nBiographical Sketc
+ h of the Speaker: Morris Cohen received his B.S. and Ph.D. degrees in Elec
+ trical Engineering from Stanford University in 2003 and 2010\, respectivel
+ y\, and served as a research scientist there until August 2013. From Septe
+ mber 2012 until August 2013\, Dr. Cohen was appointed as AAAS Science and 
+ Technology Policy Fellow at the National Science Foundation.\n\nIn Fall 20
+ 13\, he joined the faculty in the School of ECE at Georgia Tech\, with pro
+ motion and tenure as of Summer 2018. He was selected for the NSF CAREER aw
+ ard in 2017 and received the ONR Young Investigator Award in 2015. He is t
+ he winner of the 2014 Santimay Basu Prize by the International Union of Ra
+ dio Science\, an award given once per three years to an early career scien
+ tist. He also won Georgia Tech's Junior Faculty Teaching Excellence Award 
+ in 2018. He is an author of more than 90 journal publications and 200 conf
+ erence presentations. He serves as President of the Atmospheric and Space 
+ Electricity Section of the American Geophysical Union. He enjoys hiking\, 
+ skiing\, cooking\, traveling\, building pizza ovens\, and writing biosketc
+ hes.\n\nLinks:\n[0]  http://hg.gatech.edu/node/656611#0
+LOCATION:Van Leer\, WC240
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Historic Rama with Nilesh Oak
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220404T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220404T233000Z
 UID:http://hg.gatech.edu/node/656535#0
 DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nJoin GT Hindu YUVA on Monday\, April 4th for a talk 
- on The Historic Rama and Q&A session with renowned author Nilesh Nilkanth 
- Oak!\n\nLassi and dinner will be provided!\n\nLinks:\n[0]  http://hg.gatec
- h.edu/node/656535#0\n[1]  http://instagram.com/gthinduyuva
+ nExtras: Free Food\nStatus: published\n\nJoin GT Hindu YUVA on Monday\, Ap
+ ril 4th for a talk on The Historic Rama and Q&A session with renowned auth
+ or Nilesh Nilkanth Oak!\nLassi and dinner will be provided!\n\nLinks:\n[0]
+   http://hg.gatech.edu/node/656535#0\n[1]  https://gatech.campuslabs.com/e
+ ngage/event/8014644\n[2]  http://instagram.com/gthinduyuva
 LOCATION:Home Park Room\, Exhibition Hall
 END:VEVENT
 BEGIN:VEVENT
@@ -14003,6 +14029,18 @@ DESCRIPTION:Intended audience: Graduate students\nExtras: Free food\, Free
 LOCATION:Tech Walkway South
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Langar on Campus
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220407T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220407T180000Z
+UID:https://gatech.campuslabs.com/engage/event/8014631
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin GT Hindu YUVA and 
+ Sikh Students of Atlanta for Langar on Campus! Come to Tech Green from 12P
+ M - 2PM on April 7th for free Indian food\, to learn about Sikhism\, and t
+ o understand the concept of Seva!\n\nLinks:\n[0]  https://gatech.campuslab
+ s.com/engage/event/8014631
+LOCATION:Tech Green
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Southeastern Energy Conference
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220408T003100Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220408T013100Z
@@ -14025,6 +14063,33 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  .gatech.edu/node/656196#0\n[1]  http://www.energyexpo.gatech.edu/showcase/
  \n[2]  http://www.energyexpo.gatech.edu/\n[3]  https://www.energyexpo.gate
  ch.edu/register/\n[4]  http://www.energyexpo.gatech.edu
+LOCATION:Classroom 210\, The Kendeda Building for Innovative Sustainable D
+ esign
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southeastern Energy Conference
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220408T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220409T035900Z
+UID:http://hg.gatech.edu/node/656196#1
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nStatus: published\n\nThe Energy Club @ GT is ho
+ sting the 2022 Southeastern Energy Conference\, in partnership with the St
+ rategic Energy Institute and IEEE PES at Georgia Tech. This year’s confe
+ rence theme is The Electric Grid of the Future.\n\nThe event is hosted vir
+ tually on April 7 th and in-person on April 8 th at the Kendeda Building r
+ oom 210. It includes:\n\n- A poster session\, with cash prizes ($500\, $25
+ 0\, $150) for top contestants. Click here [1] to sign up for the poster se
+ ssion. Posters can be on any topic broadly related to energy.\n- Free food
+ !\n- An exclusive info session from GT startup GridBlock\n- Keynote addres
+ ses by Matt Cox\, CEO of Greenlink\, and Anuj Chokshi\, FPL Development Pr
+ oject Director for E-Mobility\n- A Grid Technologies workshop\n- Panels fo
+ cused on grid policy\, the use of artificial intelligence for grid data\, 
+ and grid resiliency\n\nPlease visit our website for a full agenda and list
+  of speakers [2].\n\nSign up for the conference here [3] so we can get an 
+ estimate for food!\n\nLinks:\n[0]  http://hg.gatech.edu/node/656196#1\n[1]
+   http://www.energyexpo.gatech.edu/showcase/\n[2]  http://www.energyexpo.g
+ atech.edu/\n[3]  https://www.energyexpo.gatech.edu/register/\n[4]  http://
+ www.energyexpo.gatech.edu
 LOCATION:Classroom 210\, The Kendeda Building for Innovative Sustainable D
  esign
 END:VEVENT
@@ -14736,6 +14801,30 @@ DESCRIPTION:Intended audience: Faculty/Staff\nStatus: published\n\n31 st C
 LOCATION:Klaus Advanced Computing Bldg. Atrium
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2021 Diversity and Inclusion Fellows Program Project Showcase and 
+ Closing Ceremony
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220421T200000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220421T213000Z
+UID:http://hg.gatech.edu/node/656680#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nJoin Institute Diversity\, Equity\, and Inclusion and the ADVANCE progra
+ m in celebrating the work of our 2021 Diversity and Inclusion Fellows\, wh
+ ose commitment to creating a more inclusive experience for students\, facu
+ lty\, and staff has driven their actions and research for the greater good
+ .\n\nThursday\, April 21\, 2022\n4–5:30 p.m.\nExhibition Hall | Midtown 
+ II\n\nThere will be a poster showcase and reception honoring this year's f
+ ellows. Register to attend at [1]\n\nA bout the Diversity and Inclusion Fe
+ llows Program\n\nWith support from Institute Diversity\, Equity\, and Incl
+ usion and the ADVANCE Program\, the Diversity and Inclusion Fellows Progra
+ m brings together faculty\, staff\, and students who individually and coll
+ ectively advance their action\, research\, or teaching objectives while im
+ proving inclusivity on campus. For more information about the program\, vi
+ sit [2].\n\nLinks:\n[0]  http://hg.gatech.edu/node/656680#0\n[1]  https://
+ b.gatech.edu/3JAJxgl\n[2]  https://diversity.gatech.edu/DIFellowsProgram
+LOCATION:Exhibition Hall | Midtown II
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Veggie Jackets Bring-Your-Own-Lunch
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220422T153000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220422T173000Z
@@ -14860,6 +14949,19 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
   conversation! Dinner will start around 7:30 and be followed by a discussi
  on or other activity!\n\nLinks:\n[0]  http://hg.gatech.edu/node/654285#14
 LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:StressBuzzters at the Library
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220427T180000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220427T210000Z
+UID:http://hg.gatech.edu/node/656666#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nAs always\, we'll have snacks\, counseling and 
+ more in the Library during finals. This semester\, it'll take place betwee
+ n 3 and 5 p.m. on the Grove level between Sideways Cafe and INFODesk. Stop
+  by and take a break!\n\nLinks:\n[0]  http://hg.gatech.edu/node/656666#0
+LOCATION:Price Gilbert Library\, Grove Level (Between Sideways Cafe and IN
+ FODesk)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Faculty and Staff Honors Luncheon
