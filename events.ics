@@ -2,43 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:CCF Trivia Lunch
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210329T154500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210329T174500Z
-UID:http://hg.gatech.edu/node/643999#6
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nFree lunch and trivia every Monday! All lunches are 
- pre-packaged in to-go boxes\, and seating is available in a safe\, sociall
- y distant fashion inside and outside. Trivia begins at 11:50 a.m. and 12:5
- 0 p.m.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643999#6\n[1]  https://li
- nktr.ee/gtccf
-LOCATION:Christian Campus Fellowship (CCF)\, 767 Techwood Dr. NW
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trivia Lunch
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210329T154500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210329T174500Z
-UID:https://gatech.campuslabs.com/engage/event/6891746
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFree lunch and trivia e
- very Monday! All lunches are pre-packaged in to-go boxes\, and seating is 
- available in a safe\, socially distant fashion inside and outside. Trivia 
- begins at 11:50am and 12:50pm.\n\nLinks:\n[0]  https://gatech.campuslabs.c
- om/engage/event/6891746
-LOCATION:Christian Campus Fellowship (CCF)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Food4Lives Service with CCF
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210330T173000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210330T193000Z
-UID:http://hg.gatech.edu/node/643371#9
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nServing with a local organization\, Food4Lives\, to 
- prepare\, pack\, and distribute food to our friends on the streets of Atla
- nta.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643371#9\n[1]  http://www.g
- tccf.org/compassion/
-LOCATION:CCF\, 767 Techwood Drive NW
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:GT- SHPE Kit Operations
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210401T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210402T000000Z
@@ -13507,6 +13470,18 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Undergraduate students\nSta
 LOCATION:Brittain Dining Hall
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rec Tech Night
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220330T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220330T230000Z
+UID:https://gatech.campuslabs.com/engage/event/7884054
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin Pride Alliance thi
+ s Wednesday at 6pm in Mason 3132 for a night of exploring queer media\, sh
+ aring book\, movie and song recommendations\, and discussing favorite piec
+ es and tropes!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/
+ 7884054
+LOCATION:Mason 3132
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:LEAD Opportunities Information Session
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220331T210000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220331T220000Z
@@ -13543,6 +13518,23 @@ DESCRIPTION:Intended audience: Graduate students\nStatus: published\n\nThe
  rm/SV_eVUGWJtV4V1CtD0
 LOCATION:Georgia Tech Hotel and Conference Center Club Room\, 800 Spring S
  t NW\, Atlanta\, GA 30308
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blockchain at Georgia Tech Open Night Social at The Clubhouse
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220331T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220401T000000Z
+UID:https://gatech.campuslabs.com/engage/event/8022071
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nInterested in learning 
+ more about crypto and web3?\n\nCome by The Clubhouse on Thursday 6-8 pm fo
+ r Blockchain at Georgia Tech's social. Meet and network with students and 
+ professionals working in Web3. Get to know more people in Atlanta who are 
+ diving into the depths of crypto. Food and drink will be provided.\n\nPlea
+ se register at our Eventbrite page: https://www.eventbrite.com/e/blockchai
+ n-at-georgia-tech-open-night-social-at-the-clubhouse-tickets-294221794307\
+ n\nStay up to date with our Twitter and LinkedIn\n\nTwitter: @Blockchain_G
+ T\n\nLinkedIn: https://www.linkedin.com/company/blockchain-georgia-tech\n\
+ nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/8022071
+LOCATION:TSG ATL Clubhouse (prev. The Garage at Tech Square)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Enabling Miniaturization
@@ -13627,6 +13619,25 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Saturday in
 LOCATION:GT Community Garden
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:1000 Couches
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220402T180000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220403T030000Z
+UID:https://gatech.campuslabs.com/engage/event/8022062
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nYour friends at Georgia
+  Tech Musician's Network bring you the 2nd annual 1000 Couches music festi
+ val! Come to Peter's Parking Deck on Saturday\, April 2nd between 2-11 pm 
+ for a fun day filled with FREE live music from Georgia Tech bands\, Atlant
+ a artists\, and more! You also won't want to miss out on free snacks\, dri
+ nks\, caricatures\, chalking\, and did we mention FREE MUSIC (wooo!!)!!!\n
+ \nYou won't want to miss performances from local indie pop darlings Dinner
+  Time as well as Monsoon\, Lakota\, CD-ROM COM\, 15000 Guns\, Koyal\, Blun
+ derbus\, Great Great Beautiful Lives Yes Yes\, Fly Montag\, the Jonah Cull
+ en Project\, and Joe Cool! We can't wait to see everyone there!\n\n#BringY
+ ourOwnCouch #BYOC #WoooMusicYeahhhhh #BYOC\n\nLinks:\n[0]  https://gatech.
+ campuslabs.com/engage/event/8022062
+LOCATION:Peter's Parking Deck
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Community Dinner
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220403T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220403T230000Z
@@ -13655,6 +13666,37 @@ DESCRIPTION:Intended audience: Graduate students\nExtras: Free food\, Free
  ciation Week events here [1].\n\nLinks:\n[0]  http://hg.gatech.edu/node/65
  6356#0\n[1]  https://grad.gatech.edu/gsaw
 LOCATION:Tech Walkway South
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meatless Monday Lunch at North Avenue April 4\, 2022
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220404T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220404T180000Z
+UID:http://hg.gatech.edu/node/656764#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nTake a walk on the vegan/vegetarian side with M
+ eatless Monday at North Avenue on Monday\, April 4 during lunch from 11 a.
+ m. to 2 p.m. Each station in North Avenue will feature meatless entrees an
+ d specials.\n\nMeal plan holders can use a swipe for entrance. Guests will
+  be charged the door rate of $12.50. Entrance includes access to the ten a
+ ll-you-care-to-eat stations.\n\nNew York Pi\n\nCheese Pizza\nPepperoni Piz
+ za\nSausage and Mushroom\nPesto\, Arugula\, Pine nut\, Roasted Tomatoes\, 
+ Flatbread\nSausage Rolls\nPlant Based Chicken Nugget Bar\nBuffalo\, Ranch\
+ , Honey BBQ\nTomato\, Basil\, Tofu Bruschetta\nLentil\, Pickled Turnip Bru
+ schetta\nGrilled Bread\n\nTechwich\n\nReuben- seitan corned beef\, vegan k
+ raut\, vegan cheese\, vegan 1000 island\nMLTs- mushroom\, lettuce\, tomato
+ \nCurry Cauliflower/Chickpea Wraps\nFresh Potato Chips\n\nHTML Eats\n\nWhi
+ te cheddar mac and cheese\nMashed potatoes\nGravy\nBBQ jackfruit\nChicken 
+ fried tofu\nCollard/turnip/mustard greens\n\nFirewall\n\nBroccoli rabe\, p
+ ortobello and vegan Cheez phillys\nBeyond burgers\nJackfruit Birria Taco\n
+ \nFresh Cuts Salad Bar\nPoke bowl\nTofu\nWatermelon\nAssorted Toppings and
+  Sauces\nGarden Vegetable Soup\nBroccoli Cheese Soup\n\nVega-byte\n\nTempe
+ h steaks with chimichurri sauce\nVesuvio potatoes\nRoasted mushrooms\n\nIn
+ ternational Import\nLentil\, sweet potato jalfrezi\nChickpea\, okra madras
+  curry\nBasmati rice\nNaan bread\n\nWok Station\nSalad bar\n\nMindful Byte
+ s\nPaella Bowl\nSaffron Rice\nAssorted mix-ins\n\nCADfections\nAssorted Ve
+ gan and Vegetarian Desserts\n\nLinks:\n[0]  http://hg.gatech.edu/node/6567
+ 64#0
+LOCATION:Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ECE Student Seminar - So…what exactly do you professors and acad
@@ -13862,12 +13904,15 @@ BEGIN:VEVENT
 SUMMARY:Langar on Campus
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220407T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220407T180000Z
-UID:https://gatech.campuslabs.com/engage/event/8014631
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin GT Hindu YUVA and 
- Sikh Students of Atlanta for Langar on Campus! Come to Tech Green from 12P
- M - 2PM on April 7th for free Indian food\, to learn about Sikhism\, and t
- o understand the concept of Seva!\n\nLinks:\n[0]  https://gatech.campuslab
- s.com/engage/event/8014631
+UID:http://hg.gatech.edu/node/656835#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nExtras: Free food\nStatus: published\n\nHindu Y
+ outh for Unity\, Virtues\, and Action\n\nJoin GT Hindu YUVA and Sikh Stude
+ nts of Atlanta for Langar on Campus! Come to Tech Green from 12PM - 2PM on
+  April 7th for free Indian food\, to learn about Sikhism\, and to understa
+ nd the concept of Seva!\n\nLinks:\n[0]  http://hg.gatech.edu/node/656835#0
+ \n[1]  https://gatech.campuslabs.com/engage/event/8014631\n[2]  http://ins
+ tagram.com/gthinduyuva
 LOCATION:Tech Green
 END:VEVENT
 BEGIN:VEVENT
@@ -14335,6 +14380,32 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
   conversation! Dinner will start around 7:30 and be followed by a discussi
  on or other activity!\n\nLinks:\n[0]  http://hg.gatech.edu/node/654285#12
 LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2022 Nunn School Symposium on Global Technological Competition
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220413T140000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220413T190000Z
+UID:http://hg.gatech.edu/node/656846#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nThe Chinese gover
+ nment is moving its economy and military rapidly up the technological ladd
+ er\, which is increasingly being seen as a threat by others. This symposiu
+ m explores the challenges and responses in a series of panels featuring ex
+ perts associated with the Sam Nunn School of International Affairs.\n\nSch
+ edule\n10 a.m.: Welcome and Introduction\n\n10:30 a.m.: What is China doin
+ g to Develop Technologically?\n\n11:30 a.m. Other Perspectives on and Resp
+ onses to China's Technological Development\n\n12:30 p.m.: Lunch\n\n1:30 p.
+ m.: U.S. Perspectives on and Responses to China's Technological Developmen
+ t\n\n2:15 p.m.: Moderated Discussion: Reflections and Policy Suggestions f
+ or the U.S.\n\n3 p.m.: Closing Remarks\n\nIn-person or virtual attendance 
+ available. Lunch provided for in-person participants.\n\nIn-person attenda
+ nce is limited\, registration is required. Walk-ins cannot be accepted.\nL
+ ocated on the campus of the Georgia Institute of Technology.\nRoom locatio
+ n provided with registration.\n\nIn-person registration [1]\n\nVirtual reg
+ istration [2]\n\nLinks:\n[0]  http://hg.gatech.edu/node/656846#0\n[1]  htt
+ ps://gatech.co1.qualtrics.com/jfe/form/SV_0CFYzUGMSiglWM6\n[2]  https://pr
+ imetime.bluejeans.com/a2m/register/gpejtgeh
+LOCATION:In-person and Online
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mural Painting with SMILE
@@ -14878,5 +14949,40 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
  /node/654454#0\n[1]  https://commencement.gatech.edu/presidents-graduation
  -celebration
 LOCATION:Tech Green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Regenerative Engineering and Medicine Annual Retreat
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220518T133000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220518T190000Z
+UID:http://hg.gatech.edu/node/656808#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nJoin us for the R
+ egenerative Engineering and Medicine Center's annual retreat\, hosted by E
+ mory University\, Georgia Institute of Technology\, and the University of 
+ Georgia.\n\n"Bringing New Medicine and Medical Technology to Georgians"\n\
+ nREGISTER HERE [1]\n\nThe agenda will focus on entrepreneurial activities 
+ that bring promising technologies for drug development and drug delivery i
+ nto clinical studies\, along with opportunities to meet and collaborate wi
+ th PIs who will apply to the 2022 grant RFA on this topic. RFA details (Ju
+ ly 1\, 2022 submission deadline) [2]\n\nAGENDA\n\n9:30 a.m. Continental Br
+ eakfast\n\n10:30 a.m. Welcome and Introduction by Edmund Waller\, M.D.\, P
+ h.D.\, Emory University\n\n10:35 a.m. Keynote Presentation\n\n11:10 a.m. S
+ eed grant awardee presentations\n\n- 11:10 a.m. Presentation 1\n- 11:25 a.
+ .m. Presentation 2\n- 11:40 a.m. Presentation 3\n\n12:00 p.m. Poster sessi
+ on and lunch\n\n1:20 p.m. Presentations:\n\n- 1:20 p.m. Georgia Research A
+ lliance\n- 1:40 p.m. Portal Innovations\n- 2:00 p.m. University of Georgia
+ \n- 2:20 p.m. Georgia Tech\n- 2:40 p.m. Emory University Entrepreneurs\n\n
+ 3:00 p.m. Closing remarks\n\nREM Vision\nThe integration of engineering te
+ chnologies\, biological discoveries\, and clinical expertise and infrastru
+ cture will establish Georgia as leader in developing and delivering clinic
+ al therapies\n\nREM Mission\nTo fundamentally transform the treatment of h
+ uman diseases and injuries through the development and delivery of molecul
+ ar and biological therapeutics that will that enhance the body’s ability
+  to heal itself.\n\nLinks:\n[0]  http://hg.gatech.edu/node/656808#0\n[1]  
+ https://forms.office.com/r/UNh5aU259R\n[2]  https://gatech.infoready4.com/
+ #competitionDetail/1866211\n[3]  http://regenerativeengineeringandmedicine
+ .com/\n[4]  https://www.emoryconferencecenter.com/
+LOCATION:Emory Conference Center Hotel - 1615 Clifton Road\, Atlanta\, GA 
+ 30329
 END:VEVENT
 END:VCALENDAR
