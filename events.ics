@@ -2,19 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:GT- SHPE Kit Operations
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210401T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210402T000000Z
-UID:https://gatech.campuslabs.com/engage/event/7001704
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome join us to create 
- hygiene kits for our annual Kit Operation! Volunteers will help us put hyg
- iene items in drawstring bags to pass out the following Saturday to the ho
- meless community in Atlanta. Food will be provided! If you would like to v
- olunteer\, please register. We will have a limited capacity for the event!
- \n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/7001704
-LOCATION:Skiles 
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCF The Event
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210401T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210402T030000Z
@@ -13523,18 +13510,24 @@ BEGIN:VEVENT
 SUMMARY:Blockchain at Georgia Tech Open Night Social at The Clubhouse
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220331T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220401T000000Z
-UID:https://gatech.campuslabs.com/engage/event/8022071
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nInterested in learning 
- more about crypto and web3?\n\nCome by The Clubhouse on Thursday 6-8 pm fo
- r Blockchain at Georgia Tech's social. Meet and network with students and 
- professionals working in Web3. Get to know more people in Atlanta who are 
- diving into the depths of crypto. Food and drink will be provided.\n\nPlea
- se register at our Eventbrite page: https://www.eventbrite.com/e/blockchai
- n-at-georgia-tech-open-night-social-at-the-clubhouse-tickets-294221794307\
- n\nStay up to date with our Twitter and LinkedIn\n\nTwitter: @Blockchain_G
- T\n\nLinkedIn: https://www.linkedin.com/company/blockchain-georgia-tech\n\
- nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/8022071
-LOCATION:TSG ATL Clubhouse (prev. The Garage at Tech Square)
+UID:http://hg.gatech.edu/node/656869#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nInterested in learning more about
+  crypto and web3?\n\nCome by The Clubhouse on Thursday 6-8 pm for Blockcha
+ in at Georgia Tech's social. Meet and network with students and profession
+ als working in Web3. Get to know more people in Atlanta who are diving int
+ o the depths of crypto. Food and drink will be provided.\n\nPlease registe
+ r at our Eventbrite page: https://www.eventbrite.com/e/blockchain-at-georg
+ ia-tech-open-night-social-at-the-clubhouse-tickets-294221794307\n\nStay up
+  to date with our Twitter and LinkedIn\n\nTwitter: @Blockchain_GT\n\nLinke
+ dIn: https://www.linkedin.com/company/blockchain-georgia-tech\n\nLinks:\n[
+ 0]  http://hg.gatech.edu/node/656869#0\n[1]  https://gatech.campuslabs.com
+ /engage/event/8022071\n[2]  http://twitter.com/Blockchain_GT\n[3]  https:/
+ /www.eventbrite.com/e/blockchain-at-georgia-tech-open-night-social-at-the-
+ clubhouse-tickets-294221794307\n[4]  https://www.linkedin.com/company/bloc
+ kchain-georgia-tech
+LOCATION:TSG ATL Clubhouse (prev. The Garage at Tech Square)\, 848 Spring 
+ St NW\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Enabling Miniaturization
@@ -13601,22 +13594,35 @@ BEGIN:VEVENT
 SUMMARY:Community Garden Workday
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220402T130000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220402T150000Z
-UID:https://gatech.campuslabs.com/engage/event/7737309
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us on Saturday in 
- the garden! We will be taking care of the beds by weeding\, turning compos
- t\, and planting seeds. You must RSVP at the following links: click here [
- 1] for the first hour or here [2] for the second hour. Masks are strongly 
- encouraged for individuals that have not been vaccinated and hand sanitize
- r will be provided. Please review garden health guidelines [3] before atte
- nding.\n\nYou may want to bring a bag so you can take home produce and her
- bs with you!\n\nThe Community Garden is located on the IC lawn adjacent to
-  the Exhibition Hall.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage
- /event/7737309\n[1]  https://docs.google.com/forms/d/e/1FAIpQLScXZ_JduTcU_
- 0lB97ZthQyey_WxGquoRxELHY74CObP0Ka8rg/viewform?usp=sf_link\n[2]  https://d
- ocs.google.com/forms/d/e/1FAIpQLScNyVU9Qa-AA_wpunLb73YRtX5CD3nD4kPAckUzgMT
- OliJZBA/viewform?usp=sf_link\n[3]  https://docs.google.com/document/d/1B19
- bvV1N73QFvuwN3UnBfZ913ij5IXtbz5cb2DzmNkU/edit?usp=sharing
-LOCATION:GT Community Garden
+UID:http://hg.gatech.edu/node/656901#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nExtras: Free Food\nStatus: published\n\nJoin us
+  on Saturday in the garden! Due to the upcoming renovations\, we will not 
+ be having normal workdays for the rest of the semester. Instead\, we will 
+ have gardening adjacent events. This week\, we will be propagating rosemar
+ y\, lavender\, sage\, and other plants!\n\nYou must RSVP at the following 
+ links: click here [2] for the first hour or here [3] for the second hour. 
+ Masks are strongly encouraged for individuals that have not been vaccinate
+ d and hand sanitizer will be provided. Please review garden health guideli
+ nes [4] before attending.\n\nMake sure to bring a pot or container of some
+  kind to hold your props!\n\nThe Community Garden is located on the IC law
+ n adjacent to the Exhibition Hall.\n\nJoin us on Saturday in the garden! W
+ e will be taking care of the beds by weeding\, turning compost\, and plant
+ ing seeds. You must RSVP at the following links: click here [2] for the fi
+ rst hour or here [3] for the second hour. Masks are strongly encouraged fo
+ r individuals that have not been vaccinated and hand sanitizer will be pro
+ vided. Please review garden health guidelines [4] before attending.\n\nYou
+  may want to bring a bag so you can take home produce and herbs with you!\
+ n\nThe Community Garden is located on the IC lawn adjacent to the Exhibiti
+ on Hall.\n\nLinks:\n[0]  http://hg.gatech.edu/node/656901#0\n[1]  https://
+ gatech.campuslabs.com/engage/event/7737309\n[2]  https://docs.google.com/f
+ orms/d/e/1FAIpQLScXZ_JduTcU_0lB97ZthQyey_WxGquoRxELHY74CObP0Ka8rg/viewform
+ ?usp=sf_link\n[3]  https://docs.google.com/forms/d/e/1FAIpQLScNyVU9Qa-AA_w
+ punLb73YRtX5CD3nD4kPAckUzgMTOliJZBA/viewform?usp=sf_link\n[4]  https://doc
+ s.google.com/document/d/1B19bvV1N73QFvuwN3UnBfZ913ij5IXtbz5cb2DzmNkU/edit?
+ usp=sharing\n[5]  https://gatech.campuslabs.com/engage/organization/studen
+ ts-organizing-for-sustainability
+LOCATION:Community Garden\, Instructional Center Lawn\, 759 Ferst Drive NW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1000 Couches
@@ -13636,6 +13642,23 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nYour friends at Georgia
  ourOwnCouch #BYOC #WoooMusicYeahhhhh #BYOC\n\nLinks:\n[0]  https://gatech.
  campuslabs.com/engage/event/8022062
 LOCATION:Peter's Parking Deck
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WreckCon 2022
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220403T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220404T000000Z
+UID:http://hg.gatech.edu/node/656902#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Stuff\, Free food\nStatus: published\n\nConventions have bee
+ n hard to get to this past year\, so why not go to a convention at Georgia
+  Tech. Learn how to play Dungeons & Dragons with complimentary minis and c
+ haracter sheets. Explore Magic: The Gathering with the Jumpstart product o
+ r competitive drafts. Compete in a multitude of geeky competitions. All le
+ vels of nerd are welcome\, from cosplay to board game. So\, why not come d
+ own?\n\nPS: We have free food\n\nLinks:\n[0]  http://hg.gatech.edu/node/65
+ 6902#0\n[1]  https://gatech.campuslabs.com/engage/event/8034302\n[2]  http
+ s://discord.gg/YJzVJvH
+LOCATION:Midtown V\, Exhibition Hall\,
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Community Dinner
@@ -13916,6 +13939,26 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Tech Green
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Musician's Network - 1000 Couches
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220407T180000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220408T030000Z
+UID:http://hg.gatech.edu/node/656899#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nYour friends at Georgia Tech Musician's Network brin
+ g you the 2nd annual 1000 Couches music festival! Come to Peter's Parking 
+ Deck on Saturday\, April 2nd between 2-11 pm for a fun day filled with FRE
+ E live music from Georgia Tech bands\, Atlanta artists\, and more! You als
+ o won't want to miss out on free snacks\, drinks\, caricatures\, chalking\
+ , and did we mention FREE MUSIC (wooo!!)!!!\n\nYou won't want to miss perf
+ ormances from local indie pop darlings Dinner Time as well as Monsoon\, La
+ kota\, CD-ROM COM\, 15000 Guns\, Koyal\, Blunderbus\, Great Great Beautifu
+ l Lives Yes Yes\, Fly Montag\, the Jonah Cullen Project\, and Joe Cool! We
+  can't wait to see everyone there!\n\n#BringYourOwnCouch #BYOC #WoooMusicY
+ eahhhhh #BYOC\n\nLinks:\n[0]  http://hg.gatech.edu/node/656899#0\n[1]  htt
+ ps://www.instagram.com/gtmusiciansnetwork/
+LOCATION:Peters Parking Deck
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Southeastern Energy Conference
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220408T003100Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220408T013100Z
@@ -13984,6 +14027,69 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  www.instagram.com/gtveggiejackets/\n[3]  https://gatech.campuslabs.com/eng
  age/organization/veggie-jackets
 LOCATION:Check GroupMe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scheller Lunchtime Live: The Effectiveness of Innovation Crowdsour
+ cing Featuring Marius Florin Niculescu
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220408T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220408T163000Z
+UID:http://hg.gatech.edu/node/656859#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nScheller Lunchtim
+ e Live is a livestream series hosted by the Georgia Tech Scheller College 
+ of Business featuring faculty\, student\, and alumni speakers discussing r
+ elevant topics for the tech-driven\, digital age.\n\nIn this talk\, Profes
+ sor Marius Florin Niculescu\, who specializes in economics of information 
+ systems and digital platforms\, will discuss approaches to innovation crow
+ dsourcing for delivering better business results and the role digital plat
+ forms play in the crowdsourcing process. During his presentation\, he will
+  also provide examples of successful industry initiatives including the Sa
+ lesforce IdeaExchange.\n\nJust hit "Attend" on this LinkedIn event and ref
+ resh this page on Friday\, April 8 at 12:00 p.m. ET to access the session.
+  Please note\, you must have a LinkedIn profile to register and view the l
+ ivestream\n\nAbout Marius Florin Niculescu\n\nDr. Marius Florin Niculescu 
+ joined the Georgia Tech Scheller College of Business after completing his 
+ Ph.D. in operations information and technology at the Stanford Graduate Sc
+ hool of Business. His research focuses on the economics of information sys
+ tems\, IT security\, software freemium and seeding business models\, netwo
+ rk economics\, management and diffusion of IT products and services\, and 
+ open platform innovation\, among other technology-based subjects. His rese
+ arch has been published in Management Science\, Information Systems Resear
+ ch\, and Management Information Systems Quarterly\, and has been presented
+  at numerous conferences in the field and research seminars at peer univer
+ sities.\n\nDr. Niculescu received the Brady Family Award for Faculty Teach
+ ing Excellence\, Linda and Lloyd L. Byars Award for Faculty Excellence\, a
+ nd the Brady Family Award for Faculty Research Excellence. He also receive
+ d the ISS Sandra A. Slaughter Early Career Award and was one of Poets&Quan
+ ts’ 2019 Best 40 Under 40 Professors.\n\nHe also received the Full-time 
+ MBA Core Professor of the Year Award for three years in a row\, the Evenin
+ g MBA Core Professor of the Year Award\, and the CETL/BP America Junior Fa
+ culty Teaching Award at Georgia Tech.\n\nDr. Niculescu is the academic dir
+ ector for the Executive Education Technology Development Program for the B
+ ank of America and a faculty council member on the Information Security an
+ d Privacy Interdisciplinary Research Institute at Georgia Tech.\n\nLinks:\
+ n[0]  http://hg.gatech.edu/node/656859#0\n[1]  https://www.linkedin.com/vi
+ deo/event/urn:li:ugcPost:6912129585887236097/
+LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coulter BME Seminar Series
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220408T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220408T180000Z
+UID:http://hg.gatech.edu/node/656867#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Undergraduate students\nStatus: published\n\nPlease note this is a hybr
+ id event. Please click here to join virtually via Zoom. [1]\n\nSPEAKER 1\n
+ \n"MR-Tracked Stylets for Gynecologic Brachytherapy"\n\nAnthony Gunderman\
+ nGraduate Student\nChen Lab [2]\n\nSPEAKER 2\n\n"Lens-induced Myopia Alter
+ s Visual ON and OFF Pathway Response Balance in the Mouse Retina"\n\nReece
+  Mazade\, Ph.D.\nPostdoctoral Fellow\nPardue Lab [3]\n\nTo-go refreshments
+  will be served after the seminar!\n\nLinks:\n[0]  http://hg.gatech.edu/no
+ de/656867#0\n[1]  https://zoom.us/j/98207032204?pwd=OEJYZUtRVzBzdnU5K1ArV2
+ dJUExkQT09\n[2]  https://sites.google.com/view/bm2lab\n[3]  http://pardue.
+ gatech.edu/
+LOCATION:Engineered Biosystems Building (EBB)\, CHOA Seminar Room (Georgia
+  Tech)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Westminster Christian Fellowship Fish Fry
@@ -14426,6 +14532,72 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Arts Plaza at the Ferst Center for the Arts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PhD Defense by Melissa Ruszczyk
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220414T130000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220414T150000Z
+UID:http://hg.gatech.edu/node/656891#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nIn partial fulfillment of the requirements for 
+ the degree of\n\nDoctor of Philosophy in Ocean Science & Engineering\n\nIn
+  the\n\nSchool of Biological Sciences\n\nMelissa Ruszczyk\n\nWill defend h
+ er dissertation\n\nCrustacean Behavior and Morphology in Low and Intermedi
+ ate Reynolds Number Environments\n\nThursday\, April 14\, 2022\n\n9:00am\n
+ \nIn person: SEB 122\n\nVirtual: [1]\n\nThesis Advisors:\n\nDr. Jeannette 
+ Yen\, Ph.D.\n\nSchool of Biological Sciences\n\nGeorgia Institute of Techn
+ ology\n\nDr. Donald R. Webster\, Ph.D.\n\nSchool of Civil and Environmenta
+ l Engineering\n\nGeorgia Institute of Technology\n\nCommittee Members:\n\n
+ Dr. Marc Weissburg\, Ph.D.\n\nSchool of Biological Sciences\n\nGeorgia Ins
+ titute of Technology\n\nDr. Emanuele Di Lorenzo\, Ph.D.\n\nSchool of Earth
+  and Atmospheric Sciences\n\nGeorgia Institute of Technology\n\nDr. David 
+ W. Murphy\, Ph.D.\n\nDepartment of Mechanical Engineering\n\nUniversity of
+  South Florida\n\nSummary\n\nAn organism’s physical environment can dram
+ atically affect an organisms’ behavior and morphological design. The Rey
+ nolds number represents the ratio between inertial and viscous forces in a
+  fluid environment. This study is concerned with the challenges crustaceou
+ s plankton face resulting from living in a low- and intermediate-Reynolds 
+ number aquatic environment.\n\nIn the first part of this study\, the fresh
+ water copepod Hesperodiaptomus shoshone is exposed to a Burgers vortex- a 
+ flow feature meant to mimic turbulent eddies found in an organism’s envi
+ ronment. Male and female copepods were exposed to four vortex intensity le
+ vels plus a negative control in either a horizontal or vertical orientatio
+ n of the vortex axis. Trajectory analysis of H. shoshone swimming behavior
+  shows that this copepod changes its swimming behavior in response to vort
+ ex orientation and not vortex level- a notable difference from marine cope
+ pods exposed to the same flow feature. These results may be linked to ecol
+ ogical and geographic differences between freshwater and marine copepods.\
+ n\nIn the second part of this study\, the pleopod synchrony in the mysid s
+ hrimp Americamysis bahia is quantified. Shrimp and krill beat their pleopo
+ ds in an adlocomotory sequence\, creating a metachronal wave. Usually\, pl
+ eopod pairs on the same abdominal segment beat in tandem with each other\,
+  resulting in one 5-paddle stroke. Americamysis bahia ’s pleopods on the
+  same abdominal segment beat independently from each other\, resulting in 
+ two 5-paddle metachronal cycles that run ipsilaterally along the body\, 18
+ 0° out of phase with each other. High-speed recordings of A. bahia stroke
+  kinematics reveal how this mysid changes its stroke amplitude\, beat freq
+ uency\, and inter-appendage phase lag to achieve high speeds. Trends with 
+ Strouhal number and advance ratio suggest that the kinematics of metachron
+ y in A. bahia are tuned to achieve large normalized swimming speeds.\n\nIn
+  the third part of this study\, stroke kinematics in Euphausia pacifica (P
+ acific krill) are quantified for the first time. Comparing stroke kinemati
+ cs between E. pacifica (1-3cm body length) and the larger E. superba (4-6c
+ m body length) shows that these two organisms achieve similar swimming mod
+ es through a different set of stroke kinematics. To better understand the 
+ relationship between stroke kinematics\, resulting swimming mode\, and len
+ gth scale\, these data are used in tandem with previously published stroke
+  kinematics of other 5-paddle metachronal swimmers\, including mysid shrim
+ p and stomatopods\, to identify broad trends across species and length sca
+ le in metachrony. Principle component analysis (PCA) reveals trends in str
+ oke kinematics\, Reynolds number\, and swimming mode as well as variation 
+ among taxonomic order. Additionally\, uniform phase lag\, i.e. when the ti
+ ming between power strokes of all adjacent pleopods is equal\, in 5-paddle
+ s systems is achieved at different Reynolds numbers for each swimming mode
+ \, which highlights the importance of taking into consideration stroke kin
+ ematics\, length scale\, and resulting swimming mode in bio-inspired desig
+ n applications.\n\nLinks:\n[0]  http://hg.gatech.edu/node/656891#0\n[1]  h
+ ttps://bluejeans.com/932846203/5149
+LOCATION:SEB 122
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CREATE-X Legal Buzz
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220414T210000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220414T230000Z
@@ -14505,6 +14677,90 @@ DESCRIPTION:Intended audience: Faculty/Staff\nStatus: draft\n\nDate: Frida
   the on April 8.\n\nLinks:\n[0]  http://hg.gatech.edu/node/656370#0\n[1]  
  https://gatech.co1.qualtrics.com/jfe/form/SV_cYfxsXDoWrNVPwy
 LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PhD Defense by Wensi Chen
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220415T190000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220415T210000Z
+UID:http://hg.gatech.edu/node/656903#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nSchool of Civil and Environmental Engineering\n
+ \nPh.D. Thesis Defense Announcement\n\nSelf-Driven 3D Filtration Enabled b
+ y Porous Superabsorbent Polymer Beads for Environmental Applications\n\nBy
+ :\n\nWensi Chen\n\nAdvisor:\n\nDr. Xing Xie\n\nCommittee Members:\n\nDr. K
+ ostas Konstantinidis (CEE)\, Dr. Yongsheng Chen (CEE)\, Dr. Sotira Yiacoum
+ i (CEE)\, Dr. Ryan Lively (ChBE)\n\nDate & Time: April 15th\, 3-5 pm EDT\n
+ \nLocation: [2]\n\nComplete announcement\, with abstract\, is attached.\n\
+ nWith rising demand for decarbonization and increased focus on sustainabil
+ ity\, energy-efficient precise separations have become critical in industr
+ ial production and municipal needs. In particular\, separating components 
+ from water with high selectivity is conducive to pollutant removal\, water
+  quality monitoring\, and resource recovery. This dissertation focuses on 
+ the design and application of porous superabsorbent polymer (PSAP) beads f
+ or fast\, effective\, and low-cost three-dimensional (3D) water filtration
+ . The PSAP beads with high water absorbency and controllable pore structur
+ e can achieve selective absorption of target species in water samples with
+ out any external driving forces. This innovative material would realize a 
+ simple and flexible separation technology that can be used to concentrate 
+ bioproducts or stabilize sensitive analytical targets. The rationally desi
+ gned PSAP beads have been applied to harvest microalgae\, which can be use
+ d to produce renewable biofuels and high-value bioproducts. The optimal po
+ re structure of the beads can achieve fast water uptake without sacrificin
+ g microalgae harvesting efficiency. This technique potentially provides an
+  efficient and feasible alternative for microalgae harvesting and facilita
+ tes microalgal product manufacture for environmental applications in the f
+ ood-energy-water nexus. In addition\, the PSAP beads have been applied to 
+ extract and preserve virus targets in water samples while excluding undesi
+ red components such as bacterial cells. The polymer scaffold is further mo
+ dified to enhance immobilization and stabilization effects for the capture
+ d virus targets. Thus\, the enhanced PSAP beads can eliminate the temperat
+ ure regulations for virus sample storage\, which could be compatible with 
+ advanced epidemiology tools to implement large-scale viral pathogen survei
+ llance networks. Given the versatile applicability of the PSAP beads for b
+ iofluid treatment\, they can also be used for biomarker encapsulation and 
+ biofluid specimen stabilization\, which enables off-site diagnostic testin
+ g and disease control in medically underserved areas. The results presente
+ d in this dissertation highlight a self-driven 3D filtration platform base
+ d on the PSAP materials and broaden the prospects of its applications in v
+ arious fields.\n\nPh.D. Thesis Defense Announcement\n\nSelf-Driven 3D Filt
+ ration Enabled by Porous Superabsorbent Polymer Beads for Environmental Ap
+ plications\n\nby\n\nWensi Chen\nAdvisor(s): Dr. Xing Xie\nCommittee Member
+ s: Dr. Kostas Konstantinidis (CEE)\, Dr. Yongsheng Chen (CEE)\, Dr. Sotira
+  Yiacoumi (CEE)\, Dr. Ryan Lively (ChBE)\n\nWith rising demand for decarbo
+ nization and increased focus on sustainability\, energy-efficient precise 
+ separations have become critical in industrial production and municipal ne
+ eds. In particular\, separating components from water with high selectivit
+ y is conducive to pollutant removal\, water quality monitoring\, and resou
+ rce recovery. This dissertation focuses on the design and application of p
+ orous superabsorbent polymer (PSAP) beads for fast\, effective\, and low-c
+ ost three-dimensional (3D) water filtration. The PSAP beads with high wate
+ r absorbency and controllable pore structure can achieve selective absorpt
+ ion of target species in water samples without any external driving forces
+ . This innovative material would realize a simple and flexible separation 
+ technology that can be used to concentrate bioproducts or stabilize sensit
+ ive analytical targets. The rationally designed PSAP beads have been appli
+ ed to harvest microalgae\, which can be used to produce renewable biofuels
+  and high-value bioproducts. The optimal pore structure of the beads can a
+ chieve fast water uptake without sacrificing microalgae harvesting efficie
+ ncy. This technique potentially provides an efficient and feasible alterna
+ tive for microalgae harvesting and facilitates microalgal product manufact
+ ure for environmental applications in the food-energy-water nexus. In addi
+ tion\, the PSAP beads have been applied to extract and preserve virus targ
+ ets in water samples while excluding undesired components such as bacteria
+ l cells. The polymer scaffold is further modified to enhance immobilizatio
+ n and stabilization effects for the captured virus targets. Thus\, the enh
+ anced PSAP beads can eliminate the temperature regulations for virus sampl
+ e storage\, which could be compatible with advanced epidemiology tools to 
+ implement large-scale viral pathogen surveillance networks. Given the vers
+ atile applicability of the PSAP beads for biofluid treatment\, they can al
+ so be used for biomarker encapsulation and biofluid specimen stabilization
+ \, which enables off-site diagnostic testing and disease control in medica
+ lly underserved areas. The results presented in this dissertation highligh
+ t a self-driven 3D filtration platform based on the PSAP materials and bro
+ aden the prospects of its applications in various fields.\n\nLinks:\n[0]  
+ http://hg.gatech.edu/node/656903#0\n[1]  http://hg.gatech.edu/node/656881#
+ 0\n[2]  https://bluejeans.com/693843440/6041?src=calendarLink
+LOCATION:Remote
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Westminster Christian Fellowship Fish Fry
