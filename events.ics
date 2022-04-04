@@ -2,68 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:CCF The Event
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210401T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210402T030000Z
-UID:http://hg.gatech.edu/node/643935#7
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free Food\nStatus: published\n\nA time of community\, a faith-bas
- ed talk\, worship\, discussion and fun. We have two large group starting t
- imes\, 7 p.m. and 8:30 p.m. and optional discussion groups after each. Aro
- und 10 p.m.\, we have an after-event that is something like a dance party\
- , going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, regardless o
- f what you believe\, is welcome. We have both in-person and online options
- . Our service is available on Zoom at 8:30 p.m.: [2].\n\nA time of communi
- ty\, a faith-based talk\, worship\, discussion and fun. We have two large 
- group starting times\, 7:00pm and 8:30pm and optional discussion groups af
- ter each. Around 10pm\, we have an after-event that is something like a da
- nce party\, going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, re
- gardless of what you believe\, is welcome. We have both in-person and onli
- ne options. Our service is available on Zoom at 8:30pm: https://us02web.zo
- om.us/j/84188146312\n\nLinks:\n[0]  http://hg.gatech.edu/node/643935#7\n[1
- ]  https://gatech.campuslabs.com/engage/event/6869231\n[2]  https://us02we
- b.zoom.us/j/84188146312\n[3]  https://linktr.ee/gtccf
-LOCATION:Christian Campus Fellowship\, 767 Techwood Dr. NW or Online
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Horizons at GT Assistant Teacher Internship application
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210402T040000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210403T035900Z
-UID:http://hg.gatech.edu/node/645205#0
-DESCRIPTION:Intended audience: Undergraduate students\nStatus: published\n
- \nELIGIBILTY: • Current Georgia Tech Student in good academic standing 
- • Must be available for all six-weeks of the Summer Program\, Staff Orie
- ntation\, Planning & Class Set-up • Must be willing to actively particip
- ate with the scholars during their daily swim lessons • Swimming ability
-  not required but comfort in the pool is • Must pass a criminal backgrou
- nd and sexual predator check • All in person programming will be conduct
- ed in a manner that is compliant with social distancing\n\nApplication dea
- dline: April 2\, 2021\n\nSend application and resume to: Nichole Morales a
- t horizonsgt@gatech.edu\n\nSUMMARY: The Horizons at Georgia Tech Program i
- s looking for talented and energetic individuals to work as Intern Assista
- nt Teachers in a six-week academic enrichment summer program. We are looki
- ng for professional\, responsible\, and caring individuals. Assistant Teac
- hers work alongside certified lead teachers to implement strategies to eng
- age scholars in active learning through non-traditional\, hands-on activit
- ies in our six-week summer program. Horizons Assistant Teachers work with 
- approximately 15 scholars in small group and individual instruction in mat
- hematics\, reading\, and science. A successful Assistant Teacher will enjo
- y working with youth and as a team player to help fulfill the Horizons mis
- sion. A typical day may include academics\, arts\, swimming\, breakfast/lu
- nch and recreational activities. Teaching Assistants will also be responsi
- ble for bus monitoring\, lunch monitoring\, bus loading/drop off\, and pic
- k-up coordination as well as attending all field trips. Other duties may a
- lso be required.\n\nDATES: Virtual Pre-Training Saturday\, April 24 – 9A
- M to 3PM Virtual Parent Orientation & Student Assessment Day Saturday\, Ma
- y 15 & 22 – 9AM to 3PM Staff orientation\, planning\, and classroom set-
- up: Monday\, June 14 – Friday\, June 18 4-week program: June 21- July 16
-  Classroom breakdown and project completion: Monday\, July 16 and Tuesday\
- , July 17\n\nSee the attached application form to apply.\n\nLinks:\n[0]  h
- ttp://hg.gatech.edu/node/645205#0\n[1]  https://studentprograms.ceismc.gat
- ech.edu/horizons/about
-LOCATION:Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:3.65 Miles for 365 Days of Service
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210403T040000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210404T035900Z
