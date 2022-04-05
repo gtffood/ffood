@@ -3,42 +3,6 @@ VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
 SUMMARY:3.65 Miles for 365 Days of Service
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210403T040000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210404T035900Z
-UID:http://hg.gatech.edu/node/645620#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nJoin Food4Lives i
- n a fundraiser to help support and bring awareness to those in our communi
- ty experiencing homelessness and food insecurity.\n\nThere are thousands o
- f men\, women\, and children in Metro Atlanta who face the perilous condit
- ions of winter without a roof over their heads. many of them do not know w
- here their next meals will come from. Last year\, Food4Lives served over 3
- 3\,000 meals to these individuals\, everyday\,\n\nYour registration fee fo
- r the race will cover 4 nutritious meals\, supplies\, clothing and more fo
- r a homeless man\, woman\, or child in Atlanta. Help us spread the love in
-  our community and open the hearts of those who are in need help and those
-  who want to help. Join Us! on April 3 for a day of live events and perfor
- mances\, including our 3.65 mile virtual run against hunger and homelessne
- ss!\n\nWe're celebrating 365 days of consecutive service during the Covid-
- 19 pandemic\; providing a daily food service and resources necessary for s
- urvival\, such as clothing\, sanitary items\, blankets\, and tents\, to th
- ose who need it most in our community. We want to bring the community toge
- ther to raise awareness about people experiencing homelessness through:\n\
- n- 3.65 MILE RUN (Run from anywhere!)\n- LIVE MUSIC\n- ESTATIC KIRTAN\n- Y
- OGA CLASS\n- Q&A WITH FOUNDERS\n- SILENT AUCTION\n\nYou can register for t
- he race now! Once registered we will send you an email on details about wh
- en and where to pick up your T-shirt and Race bib. If you'd like your shir
- t and race bib shipped please select the correct ticket option. This race 
- is virtual and anyone can participate from anywhere during a 24 hour perio
- d from 12 p.m. on April 3 to 12 p.m. on April 4.\n\nUnite Atlanta 1 mile a
- t a time by participating in a 3.65 mile run from anywhere!\n\nThank you f
- or serving with us! We hope to see you there!\n\nLinks:\n[0]  http://hg.ga
- tech.edu/node/645620#0\n[1]  https://www.eventbrite.com/e/365-mile-run-365
- th-day-service-fundraiser-tickets-142405852739
-LOCATION:Online
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3.65 Miles for 365 Days of Service
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210404T040000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210405T035900Z
 UID:http://hg.gatech.edu/node/645620#1
@@ -14971,6 +14935,54 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  www.instagram.com/gtveggiejackets/\n[3]  https://gatech.campuslabs.com/eng
  age/organization/veggie-jackets
 LOCATION:Check GroupMe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OUE Equity Collective Speaker\, Majok Marier—Sudanese Civil War 
+ refugee
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220422T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220422T180000Z
+UID:http://hg.gatech.edu/node/656955#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nThe OUE Equity Collective [1] invites all students\, faculty\, and staff
+  to hear from Sudanese Civil War refugee\, Majok Marier\, on April 22 from
+  1-2 p.m. Majok\, one of the thousands of children known as the "Lost Boys
+  and Girls of Sudan\," will talk about his experiences in 1983 escaping th
+ e second Sudanese Civil War and his non-profit organization\, Wells for Ho
+ pe for South Sudan. Wells for Hope has worked to bring water wells to vill
+ ages near Rumbek\, South Sudan - his home - over the past several years. R
+ egister here. [2]\n\nEvent Details:\n\nApril 22\, 2022\, 1-2p.m.\n\nIn-per
+ son: Bill Moore Student Success Center\, Suites C - D (small reception to 
+ follow event). In-person limited to 75 attendees.\n\nVirtual: [3]\n\nZoom 
+ meeting ID: 997 3137 7382\nZoom meeting passcode: 866110\n\nMore about Maj
+ ok:\n\nIn 1983\, the Second Sudanese Civil war (1983-2005) broke out. Majo
+ k Marier was seven when he fled soldiers attacking his village. Along with
+  thousands of other children\, who would become known as the Lost Boys and
+  Girls of Sudan\, Majok trekked across Sudan to Ethiopia\, arriving at Pin
+ yudo Refugee Camp in 1998.\n\nIn 1991\, the Ethiopian government was overt
+ hrown\, and Sudanese refugees had to flee again. Majok eventually arrived 
+ at the Kakuma Refugee Camp in Kenya in 1992. There for nine years\, Majok 
+ learned English and became a Catholic. In 2001\, he was able to come to th
+ e United States and settled in Clarkston\, GA along with many others who h
+ ad survived years of hardship and were still living in Kakuma. Majok event
+ ually found work as a plumber’s assistant.\n\nSouth Sudan gained indepen
+ dence in 2011\, and when his sister died in childbirth back home\, Majok d
+ ecided to do something to create better access to medical care for South S
+ udanese villages. Realizing that the first step to better medical care was
+  clean water\, Majok\, his fellow Lost Boys\, and many concerned friends c
+ reated a non-profit organization\, Wells for Hope for South Sudan [4]\, to
+  bring water wells to villages near Rumbek\, South Sudan. There\, women an
+ d children walk 8-12 miles roundtrip every day to bring back clean water f
+ or their families. Majok now has a wife and children of his own in Rumbek 
+ and has been working to build health clinics in addition to the six wells 
+ that have been built since 2015. Millions of people across Africa die each
+  year from diseases caused by unsafe water supplies.\n\nLinks:\n[0]  http:
+ //hg.gatech.edu/node/656955#0\n[1]  https://oue.gatech.edu/oue-equity-coll
+ ective\n[2]  https://gatech.co1.qualtrics.com/jfe/form/SV_4MaK6HGP7Wtrhoq\
+ n[3]  https://gatech.zoom.us/j/99731377382?pwd=VEFpVTdHRUF1QXlnU1R4Q3dVVUg
+ yQT09\n[4]  https://www.youtube.com/watch?v=aQ6362_N3Tg\n[5]  https://yout
+ u.be/Bsbco4fJ9lQ
+LOCATION:Bill Moore Student Success Center\, President's Suites C-D
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sundae Night
