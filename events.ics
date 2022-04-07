@@ -2,89 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:3.65 Miles for 365 Days of Service
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210404T040000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210405T035900Z
-UID:http://hg.gatech.edu/node/645620#1
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nJoin Food4Lives i
- n a fundraiser to help support and bring awareness to those in our communi
- ty experiencing homelessness and food insecurity.\n\nThere are thousands o
- f men\, women\, and children in Metro Atlanta who face the perilous condit
- ions of winter without a roof over their heads. many of them do not know w
- here their next meals will come from. Last year\, Food4Lives served over 3
- 3\,000 meals to these individuals\, everyday\,\n\nYour registration fee fo
- r the race will cover 4 nutritious meals\, supplies\, clothing and more fo
- r a homeless man\, woman\, or child in Atlanta. Help us spread the love in
-  our community and open the hearts of those who are in need help and those
-  who want to help. Join Us! on April 3 for a day of live events and perfor
- mances\, including our 3.65 mile virtual run against hunger and homelessne
- ss!\n\nWe're celebrating 365 days of consecutive service during the Covid-
- 19 pandemic\; providing a daily food service and resources necessary for s
- urvival\, such as clothing\, sanitary items\, blankets\, and tents\, to th
- ose who need it most in our community. We want to bring the community toge
- ther to raise awareness about people experiencing homelessness through:\n\
- n- 3.65 MILE RUN (Run from anywhere!)\n- LIVE MUSIC\n- ESTATIC KIRTAN\n- Y
- OGA CLASS\n- Q&A WITH FOUNDERS\n- SILENT AUCTION\n\nYou can register for t
- he race now! Once registered we will send you an email on details about wh
- en and where to pick up your T-shirt and Race bib. If you'd like your shir
- t and race bib shipped please select the correct ticket option. This race 
- is virtual and anyone can participate from anywhere during a 24 hour perio
- d from 12 p.m. on April 3 to 12 p.m. on April 4.\n\nUnite Atlanta 1 mile a
- t a time by participating in a 3.65 mile run from anywhere!\n\nThank you f
- or serving with us! We hope to see you there!\n\nLinks:\n[0]  http://hg.ga
- tech.edu/node/645620#1\n[1]  https://www.eventbrite.com/e/365-mile-run-365
- th-day-service-fundraiser-tickets-142405852739
-LOCATION:Online
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCF Trivia Lunch
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210405T154500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210405T174500Z
-UID:http://hg.gatech.edu/node/643999#7
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nFree lunch and trivia every Monday! All lunches are 
- pre-packaged in to-go boxes\, and seating is available in a safe\, sociall
- y distant fashion inside and outside. Trivia begins at 11:50 a.m. and 12:5
- 0 p.m.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643999#7\n[1]  https://li
- nktr.ee/gtccf
-LOCATION:Christian Campus Fellowship (CCF)\, 767 Techwood Dr. NW
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trivia Lunch
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210405T154500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210405T174500Z
-UID:https://gatech.campuslabs.com/engage/event/6891747
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFree lunch and trivia e
- very Monday! All lunches are pre-packaged in to-go boxes\, and seating is 
- available in a safe\, socially distant fashion inside and outside. Trivia 
- begins at 11:50am and 12:50pm.\n\nLinks:\n[0]  https://gatech.campuslabs.c
- om/engage/event/6891747
-LOCATION:Christian Campus Fellowship (CCF)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pops with Cops
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210406T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210406T180000Z
-UID:http://hg.gatech.edu/node/645915#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Undergraduate students\nExtras: Free food\nStatus: published\n\nLinks:\
- n[0]  http://hg.gatech.edu/node/645915#0
-LOCATION:Tech Green
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Food4Lives Service with CCF
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210406T173000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210406T193000Z
-UID:http://hg.gatech.edu/node/643371#10
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nServing with a local organization\, Food4Lives\, to 
- prepare\, pack\, and distribute food to our friends on the streets of Atla
- nta.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643371#10\n[1]  http://www.
- gtccf.org/compassion/
-LOCATION:CCF\, 767 Techwood Drive NW
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Grad Student Appreciation Week: Treats for Grads
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210408T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210408T190000Z
@@ -14416,6 +14333,56 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:In-person and Online
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Code of Ethics Launch: Employee Celebration
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220413T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220413T170000Z
+UID:http://hg.gatech.edu/node/656983#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Postdoc\nStatus: published\
+ n\nAttendees that download or obtain a hard copy of the Code of Ethics wil
+ l receive a free voucher for either food trucks\, a free t-shirt\, or a fr
+ ee King of Pops popsicle (first come\, first serve as supplies last!). Foo
+ d truck vouchers are limited to the first 100 attendees. Learn more about 
+ the Code of Ethics here!\n\nIf inclement weather occurs\, the program will
+  be canceled.\n\nLinks:\n[0]  http://hg.gatech.edu/node/656983#0\n[1]  htt
+ ps://ethicsfirst.gatech.edu/
+LOCATION:Tech Green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mural Painting with ARTiculate ATL and SMILE
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220413T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220413T170000Z
+UID:https://gatech.campuslabs.com/engage/event/8048786
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAN ARTS PLAZA POP-UP EV
+ ENT\n\nSMILE\, the Georgia Tech student organization dedicated to building
+  a happier campus community\, will lead you in an old-school\, paint-by-nu
+ mbers party!\n\nGeorgia Tech Arts commissioned ARTiculate ATL to bring tog
+ ether local artists with the Georgia Tech student body to create a dynamic
+  mural. ARTiculate ATL is a 501(c)(3) non-profit based in Atlanta that pro
+ vides local\, emerging artists a professional environment to showcase and 
+ sell their artwork. For this project\, ARTiculate ATL is bringing Charity 
+ “Cake” Hamiduallah and George Galbreath together to design a unique mu
+ ral\, Create Your Way\, that showcases how the Georgia Tech community plug
+ s into their creativity. In early April the professional artists will crea
+ te the outline\, and on April 13 and 15 you'll have the opportunity to fil
+ l it in! Drop in to either session\, and be prepared for a potential splat
+ ter zone!\n\nARTiculate ATL explains the work: "In a triptych of panels\, 
+ Create Your Way tells a story of imagination becoming reality through the 
+ powers of creativity. As the young man on the right paints upon the canvas
+  his visions begin to come alive in various artistic disciplines. In this 
+ piece\, an electrifying color palette is incorporated to symbolize the div
+ ersity of the student body and the elements of light that are within us. A
+ s the colors harmoniously unite\, they begin to flow as one in a common jo
+ urney of life as creative beings. Through the use of varied line-weights a
+ nd color choices\, various details will begin to dance from the foreground
+  to background across the panels. Where the story begins and ends is up to
+  the viewers’ eyes and thoughts\, but it is our intention to inspire as 
+ well as ignite the student body."\n\nBreaking news! King of Pops is going 
+ to be on site supporting the artists (you!) on Wednesday\, April 13 from 1
+ 1 a.m. - 1 p.m.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event
+ /8048786
+LOCATION:Arts Plaza at the Ferst Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mural Painting with SMILE
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220413T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220413T170000Z
@@ -14797,6 +14764,18 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Scheller 203
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Screening and Discussion of Seaspiracy
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220418T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220419T010000Z
+UID:https://gatech.campuslabs.com/engage/event/8041801
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nGuests who are experien
+ cing symptoms of Covid-19 should not attend. We strongly encourage that yo
+ u wear a mask when not eating (especially if indoors). We will be providin
+ g hand sanitizer.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/eve
+ nt/8041801
+LOCATION:Kendeda 230
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jon's Office Hours
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220419T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220419T160000Z
@@ -15105,6 +15084,62 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
   by and take a break!\n\nLinks:\n[0]  http://hg.gatech.edu/node/656666#0
 LOCATION:Price Gilbert Library\, Grove Level (Between Sideways Cafe and IN
  FODesk)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring 2022 Short Course on Soft Lithography for Microfluidics
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220428T130000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220428T210000Z
+UID:http://hg.gatech.edu/node/657001#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nThis course module is designed for individuals 
+ interested in hands-on training in the fabrication of microfluidic devices
+  using the soft lithography technique. It is structured to assume no prior
+  knowledge of the technologies by the participants. The course agenda is e
+ venly divided between hands-on laboratory sessions\, including SU-8 master
+  mold creation using photolithography and PDMS device fabrication in the I
+ EN cleanroom\, and supporting lectures. The goal for this course is to imp
+ art a basic understanding of soft lithography for microfluidic application
+ s as practiced in academia and industry.\n\nDue to the nature of the lab p
+ ortion of the course\, registration has a maximum of 15 participants. Your
+  registration is not guaranteed until full payment is received. Credit car
+ ds are the only payment option for people outside Georgia Tech. Once you s
+ ubmit your registration\, we will send you instructions with payment link 
+ to pay your registration fee.\n\nPlease register at the link below before 
+ April 25\, 2022:\nhttps://tinyurl.com/spring2022slsc [1]\n\n- Georgia Tech
+  Rate: $150*\n- Academic & Government Rate: $300*\n- Industry Rate $600*\n
+ \n*Lunch & Break Refreshments Included\n\nLinks:\n[0]  http://hg.gatech.ed
+ u/node/657001#0\n[1]  https://gatech.us3.list-manage.com/track/click?u=550
+ 9a5293bfa99c4fe533c5e9&id=8bdeeb8546&e=530014904f
+LOCATION:Marcus Nanotechnology Building | 345 Ferst Drive | Atlanta GA 300
+ 32
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring 2022 Short Course on Soft Lithography for Microfluidics
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220429T130000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220429T210000Z
+UID:http://hg.gatech.edu/node/657001#1
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nThis course module is designed for individuals 
+ interested in hands-on training in the fabrication of microfluidic devices
+  using the soft lithography technique. It is structured to assume no prior
+  knowledge of the technologies by the participants. The course agenda is e
+ venly divided between hands-on laboratory sessions\, including SU-8 master
+  mold creation using photolithography and PDMS device fabrication in the I
+ EN cleanroom\, and supporting lectures. The goal for this course is to imp
+ art a basic understanding of soft lithography for microfluidic application
+ s as practiced in academia and industry.\n\nDue to the nature of the lab p
+ ortion of the course\, registration has a maximum of 15 participants. Your
+  registration is not guaranteed until full payment is received. Credit car
+ ds are the only payment option for people outside Georgia Tech. Once you s
+ ubmit your registration\, we will send you instructions with payment link 
+ to pay your registration fee.\n\nPlease register at the link below before 
+ April 25\, 2022:\nhttps://tinyurl.com/spring2022slsc [1]\n\n- Georgia Tech
+  Rate: $150*\n- Academic & Government Rate: $300*\n- Industry Rate $600*\n
+ \n*Lunch & Break Refreshments Included\n\nLinks:\n[0]  http://hg.gatech.ed
+ u/node/657001#1\n[1]  https://gatech.us3.list-manage.com/track/click?u=550
+ 9a5293bfa99c4fe533c5e9&id=8bdeeb8546&e=530014904f
+LOCATION:Marcus Nanotechnology Building | 345 Ferst Drive | Atlanta GA 300
+ 32
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Faculty and Staff Honors Luncheon
