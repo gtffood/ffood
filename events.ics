@@ -2,24 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Grad Student Appreciation Week: Treats for Grads
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210408T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210408T190000Z
-UID:http://hg.gatech.edu/node/645375#0
-DESCRIPTION:Intended audience: Graduate students\nStatus: published\n\nGra
- b some treats just for you sponsored by Grad Studies and the LGBTQIA Resou
- rce Center. Snacks and other goods will be available for pick up. After 3:
- 00 p.m.\, any remaining treats will be left in the Graduate Student Commun
- ity Space\, 6th floor of Crosland Tower. Rain Location: Clough Commons Sec
- ond Floor Atrium\n\nApril 5-9 is Grad Student Appreciation Week at Georgia
-  Tech. The purpose of this week is to celebrate and emphasize the contribu
- tions\, impact\, and value of our graduate and professional students. Even
- ts are only open to graduate and professional students. Click here [1] to 
- learn more.\n\nLinks:\n[0]  http://hg.gatech.edu/node/645375#0\n[1]  https
- ://grad.gatech.edu/grad-student-appreciation
-LOCATION:Tech Walkway South
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCF The Event
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210408T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210409T030000Z
@@ -13778,6 +13760,29 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Peters Parking Deck
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GT MSA Fastathon
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220407T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220408T010000Z
+UID:https://gatech.campuslabs.com/engage/event/8049042
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin the GT MSA in fast
+ ing from dawn to sunset in our holy month of Ramadan and breaking our fast
+ s together with dinner!\n\nLinks:\n[0]  https://gatech.campuslabs.com/enga
+ ge/event/8049042
+LOCATION:Bill Moore Student Success Center - Press Rooms A + B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Movie Night: Wolf Children
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220408T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220408T020000Z
+UID:https://gatech.campuslabs.com/engage/event/8049047
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAnime O'Tekku\, the off
+ icial anime club on the Georgia Tech campus\, is hosting one a movie night
+ ! This time we'll be watching Wolf Children. Food will be provided. Don't 
+ forget to RSVP!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event
+ /8049047
+LOCATION:CCB 016
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Southeastern Energy Conference
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220408T003100Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220408T013100Z
@@ -13956,6 +13961,27 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  g [2] - we'd love to help!\n\nLinks:\n[0]  http://hg.gatech.edu/node/65640
  4#0\n[1]  http://catalyst.hexlabs.org/\n[2]  hello@hexlabs.org
 LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PianoForte Annual Recital
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220409T180000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220409T200000Z
+UID:http://hg.gatech.edu/node/657088#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nPianoForte is excited to announce our 3rd Annual Pia
+ no Recital! We are showcasing talented GT pianists and a eclectic range of
+  piano repertoire. This year\, our recital will be on Saturday\, April 9\,
+  from 2-4pm at the Historic Academy of Medicine. This event will be hybrid
+ \, with limited in-person seating as well as a recording of our performanc
+ e on our YouTube channel [1].\n\nIf you want to attend in-person\, please 
+ RSVP to this event here [2] to receive your ticket. Keep in mind that in-p
+ erson seating is limited. We provide food for all guests who attend!\n\nPl
+ ease email gtpianists@gmail.com [3] for questions.\n\nLinks:\n[0]  http://
+ hg.gatech.edu/node/657088#0\n[1]  https://www.youtube.com/channel/UCMSYp9f
+ Z5DJkxMUzgmVVOFw\n[2]  https://www.eventbrite.com/e/the-2022-annual-piano-
+ recital-at-georgia-tech-tickets-311814665057\n[3]  gtpianists@gmail.com
+LOCATION:Historic Academy of Medicine\, 875 W Peachtree St NW\, Atlanta\, 
+ GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Flower Power Party Hour
@@ -14243,6 +14269,30 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  nExtras: Free food\nStatus: published\n\nLinks:\n[0]  http://hg.gatech.edu
  /node/654280#11
 LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCPC presents: Artlanta!
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220412T200000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220412T230000Z
+UID:http://hg.gatech.edu/node/657107#0
+DESCRIPTION:Status: published\n\nWant to be immersed in the artistic side 
+ of Atlanta? Come join SCPC in this year's ARTLANTA where you can explore y
+ our creative skills with activities such as creating a keychain\, making j
+ ewelry\, and slime making. Not only that but you can get a free t-shirt if
+  you tie-dye them! (Supplies are limited\, so act fast)\n\nWhen? April 12t
+ h from 4 PM -7 PM\n\nWhere? Leadership Challenge Course (next to Burger Bo
+ wl)\n\nTwo sessions: (1) 4:00-5:30 and (2) 5:30-7:00\n\nGet your tickets o
+ n April 11th at 9 AM at bit.ly/campustickets and come down to the Leadersh
+ ip Challenge Course on April 12th!\n\nStoked and sure you can make it? Res
+ erve a ticket in advance via the link bit.ly/campustickets [1].\n\nSCPC st
+ rongly encourages students to wear masks at our events to ensure the prote
+ ction of the GT community to use. We recommend that all attendees get thei
+ r asymptomatic COVID-19 testing on campus at least 72 hours prior to atten
+ ding the event. For more details\, go to: [2] For any questions\, please e
+ mail arts@scpc.gatech.edu [3].\n\nHope to see you there!\n\nLinks:\n[0]  h
+ ttp://hg.gatech.edu/node/657107#0\n[1]  http://bit.ly/camputickets\n[2]  h
+ ttp://health.gatech.edu/coronavirus/testing\n[3]  arts@scpc.gatech.edu
+LOCATION:Leadership Challenge Course
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CREATE-X Startup Ideas
@@ -15039,6 +15089,22 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  de/655460#0\n[1]  https://mapthesystem.sbs.ox.ac.uk/home\n[2]  https://www
  .scheller.gatech.edu/centers-initiatives/ile/i2s/index.html
 LOCATION:Scheller 203
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pre-Finals Student Wellness Drop-In
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220426T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220426T180000Z
+UID:http://hg.gatech.edu/node/657089#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\, Freebies\nStatus: published\n\nFinals are right aroun
+ d the corner\, and ECE is here to support our students! ECE's Student/Facu
+ lty Committee and Student Advisory Council are excited to host a build-you
+ r-own finals week care package drop-in!\n\nWe'll have everything you need 
+ to prep your backpack for crunch time — grab-and-go snacks\, study suppl
+ ies\, and even ECE swag! Drop by TI Plaza (outside Van Leer) anytime from 
+ 11 a.m. to 2 p.m on April 26. Undergraduate and graduate students welcome!
+  ECE students ONLY.\n\nLinks:\n[0]  http://hg.gatech.edu/node/657089#0
+LOCATION:TI Plaza (outside Van Leer)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nano@Tech Spring 2022 Series | Session 8
