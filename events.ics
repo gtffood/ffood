@@ -2,115 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:CCF The Event
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210408T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210409T030000Z
-UID:http://hg.gatech.edu/node/643935#8
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free Food\nStatus: published\n\nA time of community\, a faith-bas
- ed talk\, worship\, discussion and fun. We have two large group starting t
- imes\, 7 p.m. and 8:30 p.m. and optional discussion groups after each. Aro
- und 10 p.m.\, we have an after-event that is something like a dance party\
- , going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, regardless o
- f what you believe\, is welcome. We have both in-person and online options
- . Our service is available on Zoom at 8:30 p.m.: [2].\n\nA time of communi
- ty\, a faith-based talk\, worship\, discussion and fun. We have two large 
- group starting times\, 7:00pm and 8:30pm and optional discussion groups af
- ter each. Around 10pm\, we have an after-event that is something like a da
- nce party\, going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, re
- gardless of what you believe\, is welcome. We have both in-person and onli
- ne options. Our service is available on Zoom at 8:30pm: https://us02web.zo
- om.us/j/84188146312\n\nLinks:\n[0]  http://hg.gatech.edu/node/643935#8\n[1
- ]  https://gatech.campuslabs.com/engage/event/6869232\n[2]  https://us02we
- b.zoom.us/j/84188146312\n[3]  https://linktr.ee/gtccf
-LOCATION:Christian Campus Fellowship\, 767 Techwood Dr. NW or Online
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guest Speaker: Vegan Loca | GT Veggie Jackets
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210409T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210409T010000Z
-UID:http://hg.gatech.edu/node/646179#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nInterested in loc
- al vegan food? @veganloca_atl serves plant-based Latin food with a souther
- n slap. Join us for a talk + Q&A!\n\nLinks:\n[0]  http://hg.gatech.edu/nod
- e/646179#0\n[1]  https://us04web.zoom.us/j/77527651871?pwd=SDJpdjlXMWdSWng
- yNktXcnZBRTFvQT09\n[2]  https://www.facebook.com/gtveggiejackets
-LOCATION:Online
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FLI Challenge: GTSF Trivia
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210409T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210409T180000Z
-UID:http://hg.gatech.edu/node/646009#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
- aduate students\nExtras: Free Food\nStatus: published\n\nTo close out Phil
- anthropy Week\, come play a game of trivia to learn more about GTSF with o
- ur First-Year Leadership Initiative (FLI) Committee! Chat with us about ph
- ilanthropy and learn about the ways your donations make an impact on campu
- s. Free popsicles will be available for those who stop by and answer a few
-  GTSF trivia questions.\n\nLinks:\n[0]  http://hg.gatech.edu/node/646009#0
- \n[1]  https://gatech.campuslabs.com/engage/event/7038899\n[2]  https://ww
- w.gtsf.gatech.edu/s/1481/alumni/17/interior-wide.aspx?sid=1481&gid=42&pgid
- =20760
-LOCATION:Tech Walkway
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scheller Lunchtime Live: How Pinterest is Delivering Inspiration i
- n the Time of Covid-19
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210409T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210409T163000Z
-UID:http://hg.gatech.edu/node/645259#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nScheller Lunchtim
- e Live is a livestream series hosted by the Georgia Tech Scheller College 
- of Business featuring faculty\, student\, and alumni speakers discussing r
- elevant topics for the tech-driven\, digital age.\n\nIn this episode\, Ash
- ish Arya will share why social media needs positivity more than ever and h
- ow Pinterest is delivering inspiration in the time of Covid-19. Learn why 
- Pinterest prioritizes positivity\, helps deliver inspiration\, and why the
-  travel industry is ready for a comeback.\n\nJust hit "Attend event" on th
- e LinkedIn event and refresh this page or the Georgia Tech Scheller Colleg
- e of Business page on Friday\, April 9 at 12:00 p.m. ET to access the sess
- ion. Please note\, you must have a LinkedIn profile in order to register a
- nd view the livestream.\n\nAbout Ashish Arya\n\nAshish has experience work
- ing on marketing strategy for some of the most recognizable brands and loy
- alty programs in the world. An entrepreneur at heart\, he enjoys the hunt 
- for actionable insights about consumer behavior that drives measurable bus
- iness value.\n\nAs the global head of Strategy & Marketing for Travel & Te
- ch at Pinterest\, Ashish is responsible for increasing awareness\, demand\
- , and comprehension for Pinterest advertising solutions. He creates world-
- class marketing programs and represents Pinterest as the lead spokesperson
-  for the travel and tech industries. Prior to joining Pinterest in 2017\, 
- Ashish spent his career building some of the world’s biggest brands - in
- cluding The Coca-Cola Company and Starwood Hotels & Resorts Worldwide. He 
- was an early practitioner and thought leader in digital marketing and soci
- al media at Starwood. Subsequently\, he was tasked to grow and lead eComme
- rce marketing at Coca-Cola.\n\nIn addition to his role at Pinterest\, Ashi
- sh serves as executive advisor to the Georgia Tech Marketing Association\,
-  on the Board of Directors for the Children’s Museum of Atlanta\, and as
-  a strategic advisor to hospitality companies. In 2017\, Ashish was awarde
- d 40 under Forty by the Atlanta Business Chronicle. He holds a bachelor’
- s degree in business management and an MBA from the Georgia Tech Scheller 
- College of Business.\n\nLinks:\n[0]  http://hg.gatech.edu/node/645259#0\n[
- 1]  https://www.linkedin.com/events/6775500781580767232/
-LOCATION:Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paint Like Picasso: Explore Painting Night
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210409T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210410T000000Z
-UID:https://gatech.campuslabs.com/engage/event/7038635
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nCome join 
- Student Assistant Nick in West Commons Classroom at 6:30PM on Friday\, Apr
- il 9th\, for a nice relaxing painting night! We'll have completmentary art
-  supplies\, finger foods\, and a Bob Ross video to follow along with if yo
- u'd like\, but you're free to do as you please. We have a capacity of 15 i
- n West Commons\, so RSVP quickly!\n\nLinks:\n[0]  https://gatech.campuslab
- s.com/engage/event/7038635
-LOCATION:West Commons Classroom
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Stream Cleanup
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210411T133000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210411T170000Z
@@ -14814,16 +14705,20 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Scheller 203
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Screening and Discussion of Seaspiracy
+SUMMARY:Screening and Discussion of 'Seaspiracy'
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220418T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220419T010000Z
-UID:https://gatech.campuslabs.com/engage/event/8041801
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nGuests who are experien
- cing symptoms of Covid-19 should not attend. We strongly encourage that yo
- u wear a mask when not eating (especially if indoors). We will be providin
- g hand sanitizer.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/eve
- nt/8041801
-LOCATION:Kendeda 230
+UID:http://hg.gatech.edu/node/657121#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nScreening and Discussion of 'Seas
+ piracy'\n\nFree vegan cinnamon rolls provided by Cinnaholic Edgewood\n\nGu
+ ests who are experiencing symptoms of Covid-19 should not attend. We stron
+ gly encourage that you wear a mask when not eating (especially if indoors)
+ . We will be providing hand sanitizer.\n\nLinks:\n[0]  http://hg.gatech.ed
+ u/node/657121#0\n[1]  https://gatech.campuslabs.com/engage/event/8041801\n
+ [2]  https://linktr.ee/veggiejackets
+LOCATION:Classroom 230\, The Kendeda Building for Innovative Sustainable D
+ esign
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jon's Office Hours
@@ -14855,6 +14750,19 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
   conversation! Dinner will start around 7:30 and be followed by a discussi
  on or other activity!\n\nLinks:\n[0]  http://hg.gatech.edu/node/654285#13
 LOCATION:Westminster Christian Fellowship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:French Club Trivia Excursion
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220419T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220420T020000Z
+UID:http://hg.gatech.edu/node/657131#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nJoin us for food and team trivia at Rocky Mountain p
+ izza for our final event of the semester!\n\nLinks:\n[0]  http://hg.gatech
+ .edu/node/657131#0\n[1]  https://gatech.campuslabs.com/engage/organization
+ /french-club
+LOCATION:Rocky Mountain Pizza Company\, 1005 Hemphill Ave NW\, Atlanta\, G
+ A
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2022 Ivan Allen Jr. Prize for Social Courage
