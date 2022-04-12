@@ -2,27 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Stream Cleanup
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210411T133000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210411T170000Z
-UID:http://hg.gatech.edu/node/646223#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
- aduate students\nStatus: published\n\nSunday\, April 11\, 9:30 a.m. - 1 p.
- m.\n\nCome join GT Trailblazers for cleaning up a portion of Nancy Creek i
- n Norcross from 9:30 a.m. - 1 p.m. Help a local environment and enjoy some
-  time with friends!\n\nWear comfortable clothes and waterproof shoes and b
- ring a mask\, plenty of water\, and some lunch! Consider bringing a change
-  of shoes.\n\nWe will observe all COVID guidelines and observe mask wearin
- g and social distance at all times.\n\nPlease provide your own transportat
- ion if possible\, but if you need a ride\, meet at the CULC turnaround at 
- 9:30 a.m. to be picked up. Hope to see you there!\n\nIf you're not on our 
- GroupMe\, join! It's where we do all our communication and event coordinat
- ion: [1].\n\nLinks:\n[0]  http://hg.gatech.edu/node/646223#0\n[1]  https:/
- /groupme.com/join_group/61302475/FckvQhw9\n[2]  https://gatech.campuslabs.
- com/engage/organization/trailblazers
-LOCATION:Nancy Creek\, 2625 Homeland Dr.\, Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCF Trivia Lunch
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210412T154500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210412T174500Z
@@ -14342,6 +14321,55 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Arts Plaza at the Ferst Center for the Arts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tales From the Other Side: Oakland Cemetery From the 1850s to 1930
+ s
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220413T194500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220413T203000Z
+UID:http://hg.gatech.edu/node/657163#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nJoin the School of History and Sociology's "Intro to Museum Studies" cla
+ ss at our annual exhibit opening!\n\nEach year\, the HTS 3100 class plans 
+ and presents an exhibit on a historical topic. This year's event is titled
+  "Tales From the Other Side: Oakland Cemetery From the 1850s to 1930s."\n\
+ nThe exhibit opening is at Oakland Cemetery in partnership with the Oaklan
+ d Historical Foundation and Serve-Learn-Sustain [1]. Students\, faculty\, 
+ staff\, alumni\, and anyone with an interest in the topic are welcome to a
+ ttend! Refreshments will be served.\n\n- What: "Tales From the Other Side:
+  Oakland Cemetery from the 1850s to the 1930s" exhibit opening\n- When: We
+ dnesday\, April 13\, 2022\, from 3:45 to 4:30 p.m.\n- Where: The Comfort S
+ tation at Oakland Cemetery — 248 Oakland Avenue SE\, Atlanta\, GA\, 3031
+ 2\n\nWe can't wait to see you there!\n\nLinks:\n[0]  http://hg.gatech.edu/
+ node/657163#0\n[1]  https://serve-learn-sustain.gatech.edu/
+LOCATION:The Comfort Station at Oakland Cemetery — 248 Oakland Avenue SE
+ \, Atlanta\, GA\, 30312
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Picnic Party
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220413T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220413T230000Z
+UID:https://gatech.campuslabs.com/engage/event/7884053
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin Pride Alliance for
+  our second to last GBM of the semester! Meet us at Tech Green on April 13
+ th from 6-7 pm for a chill picnic with snacks\, games\, music and good vib
+ es! See you there:))\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/
+ event/7884053
+LOCATION:Tech Green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pride Alliance Picnic
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220413T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220413T230000Z
+UID:http://hg.gatech.edu/node/657134#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nJoin Pride Alliance for our second to last GBM of th
+ e semester! Meet us at Tech Green on April 13th from 6-7 pm for a chill pi
+ cnic with snacks\, games\, music and good vibes! See you there:))\n\nLinks
+ :\n[0]  http://hg.gatech.edu/node/657134#0\n[1]  https://gatech.campuslabs
+ .com/engage/organization/pride-alliance
+LOCATION:Tech Green
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PhD Defense by Melissa Ruszczyk
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220414T130000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220414T150000Z
@@ -14819,6 +14847,30 @@ DESCRIPTION:Intended audience: Graduate students\, Postdoc\, Public\, Unde
  .html\n[2]  https://cig.gatech.edu/
 LOCATION:Engineered Biosystems Building (EBB)\, CHOA Seminar Room\, 950 At
  lantic Drive NW\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dominion Energy Info Session
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220421T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220421T160000Z
+UID:http://hg.gatech.edu/node/657133#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nLunch provided!\n\nMore than 7 mi
+ llion customers in 12 states energize their homes and businesses with el
+ ectricity or natural gas from Dominion Energy (NYSE: D)\, headquartered in
+  Richmond\, Va. The company is committed to sustainable\, reliable\, a
+ ffordable and safe energy and to achieving net zero carbon dioxide and m
+ ethane emissions from its power generation and gas infrastructure operatio
+ ns by 2050.\n\nWe will have two GT Alumni from Dominion Energy discuss the
+ ir work and explore these topics -\n\n- Electric Distribution: circuits\, 
+ reliability\, and coordination\n- Solar and other Distributed Energy resou
+ rces\n- Substation “Tour”\n- Electric Transmission: basic protection a
+ nd controls\n\nTeams Link [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/65
+ 7133#0\n[1]  https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTJmN2
+ U0MDktODgzZC00N2YyLTlhZjYtMzY0NTc2OWYyYTQ4%40thread.v2/0?context=%7b%22Tid
+ %22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2242c5888d
+ -771c-4d5d-8cfe-dc0d44ec37e4%22%7d\n[2]  https://gatech.campuslabs.com/eng
+ age/organization/ieee-pes
+LOCATION:Van Leer - Room 240\, and Online
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:31st College of Computing Awards Ceremony Luncheon
