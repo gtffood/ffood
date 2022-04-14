@@ -2,57 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:CCF Trivia Lunch
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210412T154500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210412T174500Z
-UID:http://hg.gatech.edu/node/643999#8
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nFree lunch and trivia every Monday! All lunches are 
- pre-packaged in to-go boxes\, and seating is available in a safe\, sociall
- y distant fashion inside and outside. Trivia begins at 11:50 a.m. and 12:5
- 0 p.m.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643999#8\n[1]  https://li
- nktr.ee/gtccf
-LOCATION:Christian Campus Fellowship (CCF)\, 767 Techwood Dr. NW
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trivia Lunch
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210412T154500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210412T174500Z
-UID:https://gatech.campuslabs.com/engage/event/6891748
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFree lunch and trivia e
- very Monday! All lunches are pre-packaged in to-go boxes\, and seating is 
- available in a safe\, socially distant fashion inside and outside. Trivia 
- begins at 11:50am and 12:50pm.\n\nLinks:\n[0]  https://gatech.campuslabs.c
- om/engage/event/6891748
-LOCATION:Christian Campus Fellowship (CCF)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Food4Lives Service with CCF
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210413T173000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210413T193000Z
-UID:http://hg.gatech.edu/node/643371#11
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nServing with a local organization\, Food4Lives\, to 
- prepare\, pack\, and distribute food to our friends on the streets of Atla
- nta.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643371#11\n[1]  http://www.
- gtccf.org/compassion/
-LOCATION:CCF\, 767 Techwood Drive NW
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scavenger Hunt
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210413T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210413T233000Z
-UID:http://hg.gatech.edu/node/646211#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free Food\nStatus: published\n
- \nJoin us for our final meeting of the semester. We will be hosting a fun 
- scavenger hunt and providing free food!\n\nLinks:\n[0]  http://hg.gatech.e
- du/node/646211#0\n[1]  https://gatech.campuslabs.com/engage/event/7056862\
- n[2]  http://gatech.campuslabs.com/engage/organization/spanish-speaking-or
- ganization
-LOCATION:Instructional Center Lawn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SAME/ROTC Networking Event
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210414T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210414T173000Z
@@ -14652,6 +14601,39 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Room 144\, Clough Commons
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SOS Movie Social
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220416T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220416T230000Z
+UID:http://hg.gatech.edu/node/657214#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free food\nStatus: published\n\nCome watch Ratatouille in the Ins
+ tructional Center Room 103 on Saturday\, April 16th\, 5-7 pm. Meet other c
+ lub members and some of the executive board. Relieve some stress before he
+ ading into finals. There will be a selection of food.\n\nLinks:\n[0]  http
+ ://hg.gatech.edu/node/657214#0\n[1]  https://gatech.campuslabs.com/engage/
+ organization/students-organizing-for-sustainability
+LOCATION:Room 103\, Instructional Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WREKtacular
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220416T223000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220417T030000Z
+UID:http://hg.gatech.edu/node/657185#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nWREKtacular is WR
+ EK Atlanta's annual music festival\, and this year it is at Eyedrum this S
+ aturday! The art pop themed event will feature Lil Heart Eyes\, Staysie At
+ oms\, Dinner Time\, Hey Cowboy!\, and Georgia Tech's own Clock Offset as t
+ he opener. Come out to enjoy live music\, a food truck\, merch from our de
+ sign collective\, and even a chance to win a WREK raffle! Buy your tickets
+  NOW at the link! Georgia Tech students get $10 tickets with the promo cod
+ e "buzzcard".\n\nPurchase tickets! [1]\n\nLinks:\n[0]  http://hg.gatech.ed
+ u/node/657185#0\n[1]  https://www.eventbrite.com/e/wrektacular-2022-ticket
+ s-291536823487
+LOCATION:Eyedrum\, address: 515 Ralph David Abernathy Blvd SW\, Atlanta GA
+  30312
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WST Lrn C dinner with Dr. Nassim Parvin\, Digital Media/LMC
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220418T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220418T210000Z
@@ -14849,6 +14831,44 @@ LOCATION:Engineered Biosystems Building (EBB)\, CHOA Seminar Room\, 950 At
  lantic Drive NW\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:HSOC Spring 2022 Undergraduate Research Symposium
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220420T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220420T201500Z
+UID:http://hg.gatech.edu/node/657247#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nExtras: Free food\nStatus: published\n
+ \nPlease join us for the HSOC Spring 2022 Undergraduate Research Symposium
+ !\n\nWhen: Wednesday\, April 20\, 2022\, from 12 to 4:15 p.m.\n\nWhere: Br
+ ittain Rec Room 217\, located behind the Brittain Dining Hall ob 649 Techw
+ ood Dr. NW\, Atlanta\, GA 30313 – see map below.\n\nCoffee and snacks wi
+ ll be provided. (Please note: it is too late to sign up for lunch.)\n\nSch
+ edule of Presentations\n12:00 p.m. Lunch\n\n- 12 p.m. “Denis Diderot –
+  Virtue” by Kondalia Montgomery\n- 12:15 p.m. “Madame Marie Thérèse 
+ Rodet Geoffrin and the Salon's Institution in the Enlightenment” by Jens
+ en Fitzgibbon\n- 12:30 p.m. “Francis Hutcheson: A Scottish Enlightener
+ ” by Jodi Camino\n- 12:45 p.m. “Playing at Politics: Theater as Commen
+ tary in the Work of Olympe de Gouges” by Emma Menardi\n- 1 p.m. “Exami
+ ning Voltaire Through Candide” by Kristen Farmer\n- 1:15 p.m. “The Oec
+ onomy of Womanhood: Defining the Roles and Virtues of Women in the Works o
+ f Sarah Scott” by Olivia Villanova\n- 1:30 p.m. “Voltaire: Violence\, 
+ War\, and Toleration in the age of Enlightenment” by Noelle Pickard\n- 1
+ :45 p.m. “Frederick the Great: The Paradox of the Enlightened Despot” 
+ by Carson Pate\n\n2 p.m. Coffee Break\n\n- 2:15 p.m. “Beaumarchais: The 
+ Enlightenment on the Stage” by Jacob Young\n- 2:30 p.m. “Ignatius Sanc
+ ho: Analyzing the Role of Enlightenment in Racial Identity” by Micah Max
+ ie\n- 2:45 p.m. “Rousseau: Thoughts on the Education of Children” by E
+ mma Harper\n- 3 p.m. “Godwin’s Enquiry on Political Justice: Enlighten
+ ment\, Reason\, and Anarchy” by Andrew Thompson\n- 3:15 p.m. “Beccaria
+ : Crime and Punishment” by Teresa Muñoz\n- 3:30 p.m. “A Feminist Appr
+ oach to Denis Diderot” by Kimberly L. Molina-Veronico\n\n3:45 p.m. Break
+ \n\n- 4 p.m. “To Throw Light Upon What is to Come After: The Enlightenme
+ nt Anthropology of Adam Smith” by Jake Harmon\n- 4:15 p.m. “Mary Wolls
+ tonecraft: Vindication” by Ellie Wangerin\n\nLinks:\n[0]  http://hg.gate
+ ch.edu/node/657247#0
+LOCATION:Brittain Rec Room 217– located behind the Brittain Dining Hall 
+ on 649 Techwood Dr NW\, Atlanta\, GA 3031
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dominion Energy Info Session
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220421T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220421T160000Z
@@ -14871,6 +14891,23 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  -771c-4d5d-8cfe-dc0d44ec37e4%22%7d\n[2]  https://gatech.campuslabs.com/eng
  age/organization/ieee-pes
 LOCATION:Van Leer - Room 240\, and Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The War in Ukraine - with Former NATO General Philip M. Breedlove
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220421T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220421T160000Z
+UID:https://gatech.campuslabs.com/engage/event/8062546
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nPhilip Mark Breedlove i
+ s a Distinguished Professor at the Sam Nunn School of International Affair
+ s\, and a former NATO General. Join the Tech Wesley community in hearing h
+ is perspective on the war in Ukraine. Learn about why the war is happening
+ \, the effects that it is having on the people of Ukraine and Russia\, and
+  its implications worldwide.\n\nWesley will provide snacks and drinks for 
+ those attending. After the session\, there will be an interfaith prayer ti
+ me for the people impacted by the conflict for any wishing to attend.\n\nS
+ tudents can make a donation to UMCOR humanitarian efforts in Ukraine with 
+ Venmo.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/8062546
+LOCATION:Tech Wesley
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:31st College of Computing Awards Ceremony Luncheon
@@ -14907,6 +14944,21 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  sit [2].\n\nLinks:\n[0]  http://hg.gatech.edu/node/656680#0\n[1]  https://
  b.gatech.edu/3JAJxgl\n[2]  https://diversity.gatech.edu/DIFellowsProgram
 LOCATION:Exhibition Hall | Midtown II
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FSLO Earth Week Outdoor Movie Night
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220421T234500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220422T023000Z
+UID:https://gatech.campuslabs.com/engage/event/8064374
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome watch The Lorax wi
+ th your friends to celebrate Earth Week and take a break before finals! Jo
+ in us at 7:45 on Thursday\, April 21 st at the West Village Lawn. Movie st
+ arts at 8:00 sharp!\n\nBYOB - Bring Your Own Blanket\n\nEvent features:\n\
+ n- The Lorax & UN Sustainable Development Goals Trivia following the movie
+ . Winners get SUCCULENTS!\n- FREE popcorn!\n\nIn the case of inclement wea
+ ther\, the event will be moved indoors on the same date/time.\n\nLinks:\n[
+ 0]  https://gatech.campuslabs.com/engage/event/8064374
+LOCATION:West Village Lawn 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Veggie Jackets Bring-Your-Own-Lunch
