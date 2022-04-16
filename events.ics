@@ -2,38 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:SAME/ROTC Networking Event
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210414T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210414T173000Z
-UID:http://hg.gatech.edu/node/646327#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free Food\nStatus: published\n
- \nThe Society of American Military Engineers (SAME) Student Chapter and Ar
- my Cadet Association is excited to host a hybrid networking event for all 
- members. From 12 - 12:30 p.m. there will be individual networking with SAM
- E Atlanta Post members and Reserve/Active Duty Officers. Then from 12:30 -
-  1:30 p.m. there will be a discussion with Ray Ramos talking about his own
-  experience in ROTC and answering any questions. There will be FREE Chick-
- fil-A lunches and all COVID-19 guidelines will be followed. If you are una
- ble to meet in person\, there will be a Zoom link to join for the discussi
- on at 12:30 p.m. so you can still listen in and ask questions! Hope to see
-  you there!\n\nReminder that masks are required for this event.\n\nThe Soc
- iety of American Military Engineers (SAME) Student Chapter and Army Cadet 
- Association is excited to host a hybrid networking event for all members. 
- From 12pm-12:30pm there will be individual networking with SAME Atlanta Po
- st members and Reserve/Active Duty Officers. Then from 12:30pm-1:30pm ther
- e will be a discussion with Ray Ramos talking about his own experience in 
- the military and answering any questions. There will be FREE Chick-fil-A l
- unches and all COVID-19 guidelines will be followed. If you are unable to 
- meet in person\, there will be a Zoom link to join for the discussion at 1
- 2:30pm so you can still listen in and ask questions! Hope to see you there
- !\n\nReminder that masks are required for this event.\n\nLinks:\n[0]  http
- ://hg.gatech.edu/node/646327#0\n[1]  https://gatech.campuslabs.com/engage/
- event/7062882\n[2]  https://us02web.zoom.us/j/85108836910?pwd=ZGIwNFUxbU5N
- L3FOMUtUZkxudFluZz09
-LOCATION:Clary Theatre - Student Success Center and Online
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCF The Event
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210415T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210416T030000Z
@@ -14775,6 +14743,17 @@ LOCATION:Rocky Mountain Pizza Company\, 1005 Hemphill Ave NW\, Atlanta\, G
  A
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Women's Night: Fitness Class
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220420T003000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220420T013000Z
+UID:https://gatech.campuslabs.com/engage/event/8068013
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nAll women are invited t
+ o enjoy a dance based fitness class led by our very own FOCUS missionary\,
+  Elizabeth Nash\, in the CC basement! Food and social time to follow\n\nLi
+ nks:\n[0]  https://gatech.campuslabs.com/engage/event/8068013
+LOCATION:Catholic Center Basement
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:2022 Ivan Allen Jr. Prize for Social Courage
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220420T140000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220420T180000Z
@@ -14978,6 +14957,43 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Check GroupMe
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Scheller Lunchtime Live: Translating Text into Into Data: Using Na
+ tural Language Processing in Analytics Featuring Robbie Moon
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220422T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220422T163000Z
+UID:http://hg.gatech.edu/node/657309#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nScheller Lunchtim
+ e Live is a livestream series hosted by the Georgia Tech Scheller College 
+ of Business featuring faculty\, student\, and alumni speakers discussing r
+ elevant topics for the tech-driven\, digital age.\n\nAccording to recent s
+ ources\, 90% of the data in the world was created in the last few years wi
+ th much of it being comprised of text. Over the last decade\, technologica
+ l advances in natural language processing (NLP) have allowed data scientis
+ ts to better understand the contents of this largely unstructured data. In
+  this talk\, Professor Robbie Moon will discuss some of the basic strategi
+ es of NLP including both traditional approaches and more recent advances i
+ n machine learning. He will use both practical and research-based examples
+  to illustrate the power of text as data.\n\nJust hit "Attend" on this Lin
+ kedIn event and refresh this page on Friday\, April 22 at 12:00 p.m. ET to
+  access the session. Please note\, you must have a LinkedIn profile to reg
+ ister and view the livestream\n\nAbout Robbie Moon\n\nRobbie is an associa
+ te professor with research interests in financial accounting and auditing.
+  He works on a variety of research topics relating to firms' voluntary and
+  mandatory disclosures\, nontraditional disclosures such as social media\,
+  and the intersection of audit and financial accounting research. Robbie's
+  research often employs advanced analytical methods\, such as machine lear
+ ning and natural language processing techniques\, and he has been publishe
+ d in all of the premier accounting journals.\n\nPrior to entering academic
+ s\, he worked for four years in the advisory practice at KPMG LLP in the f
+ irm's Atlanta office. Robbie previously held both CPA and CIA certificatio
+ ns.\n\nWhen not working\, he enjoys spending time with his wife\, Lindsay\
+ , and his five children\, James\, Michael\, Ann Marie\, Elizabeth\, and An
+ drew.\n\nLinks:\n[0]  http://hg.gatech.edu/node/657309#0\n[1]  https://www
+ .linkedin.com/video/event/urn:li:ugcPost:6917841819292590080/
+LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:OUE Equity Collective Speaker\, Majok Marier—Sudanese Civil War 
  refugee
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220422T170000Z
@@ -15024,6 +15040,19 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  yQT09\n[4]  https://www.youtube.com/watch?v=aQ6362_N3Tg\n[5]  https://yout
  u.be/Bsbco4fJ9lQ
 LOCATION:Bill Moore Student Success Center\, President's Suites C-D
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Freshmen Retreat
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220423T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220423T193000Z
+UID:https://gatech.campuslabs.com/engage/event/8068012
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nInviting all freshmen t
+ o come enjoy a half-day retreat to wrap up your semester! We will celebrat
+ e a daily mass\, enjoy lunch together\, and have space for reflection and 
+ discussion on the past year. Note\, daily mass begins at 11 AM and is open
+  to the whole community.\n\nLinks:\n[0]  https://gatech.campuslabs.com/eng
+ age/event/8068012
+LOCATION:Catholic Center 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sundae Night
@@ -15251,6 +15280,18 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
  www.instagram.com/gtveggiejackets/\n[3]  https://gatech.campuslabs.com/eng
  age/organization/veggie-jackets
 LOCATION:Check GroupMe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swing Dance
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220429T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220430T013000Z
+UID:https://gatech.campuslabs.com/engage/event/8068011
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nTake a break from study
+ ing and enjoy a night of swing dancing & community in the Catholic Center 
+ basement! Night will begin with dance lessons. Snacks and drinks provided\
+ , dress is cute casual!\n\nLinks:\n[0]  https://gatech.campuslabs.com/enga
+ ge/event/8068011
+LOCATION:Catholic Center Basement
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spring 2022 President's Graduation Celebration
