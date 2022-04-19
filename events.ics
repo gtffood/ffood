@@ -2,100 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:CCF The Event
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210415T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210416T030000Z
-UID:http://hg.gatech.edu/node/643935#9
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free Food\nStatus: published\n\nA time of community\, a faith-bas
- ed talk\, worship\, discussion and fun. We have two large group starting t
- imes\, 7 p.m. and 8:30 p.m. and optional discussion groups after each. Aro
- und 10 p.m.\, we have an after-event that is something like a dance party\
- , going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, regardless o
- f what you believe\, is welcome. We have both in-person and online options
- . Our service is available on Zoom at 8:30 p.m.: [2].\n\nA time of communi
- ty\, a faith-based talk\, worship\, discussion and fun. We have two large 
- group starting times\, 7:00pm and 8:30pm and optional discussion groups af
- ter each. Around 10pm\, we have an after-event that is something like a da
- nce party\, going to Cook-out\, karaoke\, board games\, etc. EVERYONE\, re
- gardless of what you believe\, is welcome. We have both in-person and onli
- ne options. Our service is available on Zoom at 8:30pm: https://us02web.zo
- om.us/j/84188146312\n\nLinks:\n[0]  http://hg.gatech.edu/node/643935#9\n[1
- ]  https://gatech.campuslabs.com/engage/event/6869233\n[2]  https://us02we
- b.zoom.us/j/84188146312\n[3]  https://linktr.ee/gtccf
-LOCATION:Christian Campus Fellowship\, 767 Techwood Dr. NW or Online
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HKN/ECE Spring Picnic
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210416T210000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210416T223000Z
-UID:https://gatech.campuslabs.com/engage/event/7062876
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nThe HKN/EC
- E spring picnic will include music\, food provided by Yumbii food truck\, 
- several raffle giveaways\, and announcements of 2 outstanding professor aw
- ards. ECE and friends and family are invited. Chairs and tables will be se
- tup outdoors and masks encouraged whenever not eating.\n\nLinks:\n[0]  htt
- ps://gatech.campuslabs.com/engage/event/7062876
-LOCATION:Texas Instruments Plaza (Outside Van Leer Building)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Explore: Sundae and Kahoot Night
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210416T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210417T000000Z
-UID:https://gatech.campuslabs.com/engage/event/7022031
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nCome join 
- us for a delicious treat where you will be able to make your own ice cream
-  sundae\, and after that\, stay to participate in Kahoot where you will ha
- ve the opportunity to earn a giveaway! You can compete in the Kahoot indiv
- idually or with one partner.\n\nLinks:\n[0]  https://gatech.campuslabs.com
- /engage/event/7022031
-LOCATION:Caldwell Basement
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Concrete Jungle Farm Work!
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210417T133000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210417T163000Z
-UID:http://hg.gatech.edu/node/646324#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Undergr
- aduate students\nStatus: published\n\nJoin us for some planting\, cultivat
- ing\, and harvesting at a local farm! Meet new people and work hard.\n\nWe
- 'll meet at the culc turnaround 30 minutes before\, and drive to DogHead F
- arms (1103 Birch St.\, Atlanta\, GA 30310).\n\nWear a mask and keep social
-  distance at all times\, bring layers\, water\, snacks\, and sunscreen if 
- needed.\n\nf you're not in the Trailblazers GroupMe\, join us to keep in t
- he loop with all our events: [1].\n\nLinks:\n[0]  http://hg.gatech.edu/nod
- e/646324#0\n[1]  https://groupme.com/join_group/61302475/FckvQhw9\n[2]  ht
- tps://www.concrete-jungle.org/event/farm-day/2021-04-17/
-LOCATION:DogHead Farms\, 1103 Birch St.\, Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AFSP Out of the Darkness Campus Walk
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210417T180000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210417T220000Z
-UID:https://gatech.campuslabs.com/engage/event/6992613
-DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nThe Out of
-  the Darkness Campus Walk is a journey of remembrance\, hope\, support\, a
- nd a walk that unites a campus and community – a time to acknowledge the
-  ways in which suicide and mental illness have affected our lives and our 
- loved ones.\n\nAssociated with the American Foundation for Suicide Prevent
- ion\, we have coordinated an Out of the Darkness Campus Walk\, a national 
- event hosted by universities all over the nation to bring together a commu
- nity in support of suicide awareness through fundraising\, outreach\, and 
- togetherness.\n\nOnline registration closes at noon the Friday before the 
- walk. However\, anyone who would like to participate can register in perso
- n at the walk from the time check-in begins until the walk starts. Walk do
- nations are accepted until June 30th.\n\nWhen you walk in the Out of the D
- arkness Walks\, you join the effort with hundreds of thousands of people t
- o raise awareness and funds that allow AFSP to invest in new research\, cr
- eate educational programs\, advocate for public policy\, and support survi
- vors of suicide loss.\n\nAs the leader in the fight against suicide\, and 
- thanks to walkers like you from cities across the country\, AFSP has been 
- able to set a goal to reduce the annual suicide rate 20% by 2025.\n\nRegis
- ter to walk at: afsp.org/gatech\n\nLinks:\n[0]  https://gatech.campuslabs.
- com/engage/event/6992613
-LOCATION:Harrison Square
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCF Trivia Lunch
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210419T154500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210419T174500Z
@@ -14875,18 +14781,20 @@ BEGIN:VEVENT
 SUMMARY:The War in Ukraine - with Former NATO General Philip M. Breedlove
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220421T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220421T160000Z
-UID:https://gatech.campuslabs.com/engage/event/8062546
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nPhilip Mark Breedlove i
- s a Distinguished Professor at the Sam Nunn School of International Affair
- s\, and a former NATO General. Join the Tech Wesley community in hearing h
- is perspective on the war in Ukraine. Learn about why the war is happening
- \, the effects that it is having on the people of Ukraine and Russia\, and
-  its implications worldwide.\n\nWesley will provide snacks and drinks for 
- those attending. After the session\, there will be an interfaith prayer ti
- me for the people impacted by the conflict for any wishing to attend.\n\nS
- tudents can make a donation to UMCOR humanitarian efforts in Ukraine with 
- Venmo.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/8062546
-LOCATION:Tech Wesley
+UID:http://hg.gatech.edu/node/657407#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nPhilip Mark Breedlove is a Distin
+ guished Professor at the Sam Nunn School of International Affairs\, and a 
+ former NATO General. Join the Tech Wesley community in hearing his perspec
+ tive on the war in Ukraine. Learn about why the war is happening\, the eff
+ ects that it is having on the people of Ukraine and Russia\, and its impli
+ cations worldwide.\n\nWesley will provide snacks and drinks for those atte
+ nding. After the session\, there will be an interfaith prayer time for the
+  people impacted by the conflict for any wishing to attend.\n\nStudents ca
+ n make a donation to UMCOR humanitarian efforts in Ukraine with Venmo.\n\n
+ Links:\n[0]  http://hg.gatech.edu/node/657407#0\n[1]  https://gatech.campu
+ slabs.com/engage/event/8062546
+LOCATION:Tech Wesley\, 189 4th St NW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:31st College of Computing Awards Ceremony Luncheon
@@ -14925,18 +14833,49 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
 LOCATION:Exhibition Hall | Midtown II
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pragmatic AI Safety with Dan Hendrycks
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220421T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220421T220000Z
+UID:http://hg.gatech.edu/node/657416#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nDan Hendrycks is a graduate stude
+ nt in Computer Science at UC Berkeley and has been a driving force in buil
+ ding AI safety as an academic field.\n\nAbstract: AI systems are rapidly i
+ ncreasing in size\, are acquiring new capabilities\, and are increasingly 
+ deployed in high-stakes settings. As with other powerful technologies\, sa
+ fety for AI should be a leading research priority. In response to emerging
+  safety challenges in AI\, such as those introduced by recent large-scale 
+ models\, I provide a pragmatic new roadmap for AI safety. I'll discuss how
+  researchers can shape the process that will lead to strong AI systems and
+  steer that process in a safer direction.\n\nFor an informal introduction 
+ to AI alignment\, please see Intro to AI Safety\, Remastered - YouTube [2]
+ .\n\nLinks:\n[0]  http://hg.gatech.edu/node/657416#0\n[1]  https://gatech.
+ campuslabs.com/engage/event/8069739\n[2]  https://www.youtube.com/watch?v=
+ pYXy-A4siMw\n[3]  https://eagatech.org/
+LOCATION:Molecular Sciences and Engineering\, room 1224
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FSLO Earth Week Outdoor Movie Night
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220421T234500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220422T023000Z
-UID:https://gatech.campuslabs.com/engage/event/8064374
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nCome watch The Lorax wi
- th your friends to celebrate Earth Week and take a break before finals! Jo
- in us at 7:45 on Thursday\, April 21 st at the West Village Lawn. Movie st
- arts at 8:00 sharp!\n\nBYOB - Bring Your Own Blanket\n\nEvent features:\n\
- n- The Lorax & UN Sustainable Development Goals Trivia following the movie
- . Winners get SUCCULENTS!\n- FREE popcorn!\n\nIn the case of inclement wea
- ther\, the event will be moved indoors on the same date/time.\n\nLinks:\n[
- 0]  https://gatech.campuslabs.com/engage/event/8064374
+UID:http://hg.gatech.edu/node/657405#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\nStatus: published\n\nCome watch The Lorax with your fr
+ iends to celebrate Earth Week and take a break before finals! Join us at 7
+ :45 on Thursday\, April 21st at the West Village Lawn. Movie starts at 8:0
+ 0 sharp!\n\nBYOB - Bring Your Own Blanket\n\nEvent features:\n\n- The Lora
+ x & UN Sustainable Development Goals Trivia following the movie. Winners g
+ et SUCCULENTS!\n- FREE popcorn!\n\nIn the case of inclement weather\, the 
+ event will be moved indoors on the same date/time.\n\nCome watch The Lorax
+  with your friends to celebrate Earth Week and take a break before finals!
+  Join us at 7:45 on Thursday\, April 21 st at the West Village Lawn. Movie
+  starts at 8:00 sharp!\n\nBYOB - Bring Your Own Blanket\n\nEvent features:
+ \n\n- The Lorax & UN Sustainable Development Goals Trivia following the mo
+ vie. Winners get SUCCULENTS!\n- FREE popcorn!\n\nIn the case of inclement 
+ weather\, the event will be moved indoors on the same date/time.\n\nLinks:
+ \n[0]  http://hg.gatech.edu/node/657405#0\n[1]  https://gatech.campuslabs.
+ com/engage/event/8064374\n[2]  https://gatech.campuslabs.com/engage/organi
+ zation/freshman-servant-leadership-organization
 LOCATION:West Village Lawn 
 END:VEVENT
 BEGIN:VEVENT
@@ -15040,6 +14979,53 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  yQT09\n[4]  https://www.youtube.com/watch?v=aQ6362_N3Tg\n[5]  https://yout
  u.be/Bsbco4fJ9lQ
 LOCATION:Bill Moore Student Success Center\, President's Suites C-D
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AI Policy Writing Hackathon
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220423T130000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220423T210000Z
+UID:http://hg.gatech.edu/node/657417#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nExtras: Free Food\, Free Stuff\nStatus: published\n\nEffective Altruism @
+  GT [2]\, Columbia EA\, and Roosevelt at Columbia are hosting an AI policy
+  writing hackathon on Saturday\, April 23 from 9am to 7pm EDT\, open to vi
+ rtual and in-person student participants! No prior experience with AI gove
+ rnance or policy writing is required. Up to $3\,000 in prizes available.\n
+ \n⌚ Time: Saturday\, April 23 from 9am to 7pm EDT\n\n🗺 Location: In-p
+ erson ( Eighth Street Atrium Activity Room [3] ) or on Zoom\n\n🍕 Free b
+ reakfast\, lunch\, dinner\, and pizza for participants!\n\n💸 Up to $3\,
+ 000 in prizes\n\nRegister now! (~1 minute) [4]\n\nAs artificial intelligen
+ ce is expected to have a dramatic influence on our world in the coming dec
+ ades\, it's increasingly urgent to develop policies for governments and co
+ rporations to reduce risks from advanced AI [5]. During the hackathon\, yo
+ ur team of 1–4 people will write and present a brief policy memo. There 
+ will also be workshops to help you deepen your understanding of AI governa
+ nce\, effective policy research and writing\, and other crucial skills.\n\
+ nIf you have any questions\, feel free to email us at hello@eagatech.org.\
+ n\nLinks:\n[0]  http://hg.gatech.edu/node/657417#0\n[1]  https://gatech.ca
+ mpuslabs.com/engage/event/8069738\n[2]  https://eagatech.org/\n[3]  https:
+ //www.google.com/maps/place/542+9th+St+NW\,+Atlanta\,+GA+30318/@33.7803662
+ \,-84.4054365\,20z/data=!4m5!3m4!1s0x88f5048d3c1f5021:0x203778f09e2949e9!8
+ m2!3d33.7803617!4d-84.4051221\n[4]  https://docs.google.com/forms/d/e/1FAI
+ pQLSd3CkDTv540C_TVg7skb8YvIu8qD4zK0YXMjv0EoVJyx55uJg/viewform\n[5]  https:
+ //www.vox.com/future-perfect/2018/12/21/18126576/ai-artificial-intelligenc
+ e-machine-learning-safety-alignment\n[6]  hello@eagatech.org
+LOCATION:Eighth Street Atrium Activity Room\, 542 9th St NW\, Atlanta\, GA
+  30318
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Catholic Student Organization: Freshman Retreat
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220423T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220423T193000Z
+UID:http://hg.gatech.edu/node/657409#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nInviting all freshmen to come enjoy a half-day retre
+ at to wrap up your semester! We will celebrate a daily mass\, enjoy lunch 
+ together\, and have space for reflection and discussion on the past year. 
+ Note\, daily mass begins at 11 AM and is open to the whole community.\n\nL
+ inks:\n[0]  http://hg.gatech.edu/node/657409#0\n[1]  https://gatech.campus
+ labs.com/engage/organization/cso
+LOCATION:Catholic Center\, 172 4th St NW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freshmen Retreat
@@ -15180,6 +15166,31 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Westminster Christian Fellowship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Catholic Student Organization Finals Study Break & Care Packages
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220427T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220427T190000Z
+UID:http://hg.gatech.edu/node/657412#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nCome take a break from studying with your Catholic C
+ enter community! We will have finals care packages to make and take home f
+ or yourself and to give to friends. There will also be various board games
+  set up and free coffee and snacks!\n\nLinks:\n[0]  http://hg.gatech.edu/n
+ ode/657412#0\n[1]  https://gatech.campuslabs.com/engage/organization/cso
+LOCATION:Catholic Center Basement\, 172 4th St NW
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Finals Study Break & Care Packages
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220427T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220427T190000Z
+UID:https://gatech.campuslabs.com/engage/event/8069741
+DESCRIPTION:Extras: Free Food\, Free Stuff\nStatus: approved\n\nCome take 
+ a break from studying with your Catholic Center community! We will have fi
+ nals care packages to make and take home for yourself and to give to frien
+ ds. There will also be various board games set up and free coffee and snac
+ ks!\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/8069741
+LOCATION:Catholic Center Lobby
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:StressBuzzters at the Library
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220427T180000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220427T210000Z
@@ -15282,6 +15293,19 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Check GroupMe
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Catholic Student Organization Swing Dance
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220429T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220430T013000Z
+UID:http://hg.gatech.edu/node/657410#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nTake a break from studying and enjoy a night of swin
+ g dancing & community in the Catholic Center basement! Night will begin wi
+ th dance lessons. Snacks and drinks provided\, dress is cute casual!\n\nLi
+ nks:\n[0]  http://hg.gatech.edu/node/657410#0\n[1]  https://gatech.campusl
+ abs.com/engage/organization/cso
+LOCATION:Catholic Center Basement\, 172 4th St NW
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Swing Dance
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220429T233000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220430T013000Z
@@ -15292,6 +15316,16 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nTake a break from study
  , dress is cute casual!\n\nLinks:\n[0]  https://gatech.campuslabs.com/enga
  ge/event/8068011
 LOCATION:Catholic Center Basement
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coffee & Doughnuts 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220501T143000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220501T153000Z
+UID:https://gatech.campuslabs.com/engage/event/8069740
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for free coffee
+  and doughnuts Sunday morning right after the 9:30am Mass! Served in the l
+ obby\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/8069740
+LOCATION:Catholic Center Lobby
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spring 2022 President's Graduation Celebration
