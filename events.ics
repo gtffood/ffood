@@ -2,143 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:CCF Trivia Lunch
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210419T154500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210419T174500Z
-UID:http://hg.gatech.edu/node/643999#9
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nFree lunch and trivia every Monday! All lunches are 
- pre-packaged in to-go boxes\, and seating is available in a safe\, sociall
- y distant fashion inside and outside. Trivia begins at 11:50 a.m. and 12:5
- 0 p.m.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643999#9\n[1]  https://li
- nktr.ee/gtccf
-LOCATION:Christian Campus Fellowship (CCF)\, 767 Techwood Dr. NW
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trivia Lunch
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210419T154500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210419T174500Z
-UID:https://gatech.campuslabs.com/engage/event/6891749
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFree lunch and trivia e
- very Monday! All lunches are pre-packaged in to-go boxes\, and seating is 
- available in a safe\, socially distant fashion inside and outside. Trivia 
- begins at 11:50am and 12:50pm.\n\nLinks:\n[0]  https://gatech.campuslabs.c
- om/engage/event/6891749
-LOCATION:Christian Campus Fellowship (CCF)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2021 GT Off-Road Car Unveiling
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210420T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210420T161500Z
-UID:http://hg.gatech.edu/node/646132#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nExtras: Free Food\nStatus: published\n
- \nGT Off-Road (Baja SAE) is unveiling our new 2021 car!\n\nGT Off-Road is 
- a student competition team at Georgia Tech that participates in the Baja S
- AE design competition. Each year\, our team designs and builds a single-se
- at off-road vehicle that is capable of tackling mud pits\, rock climbs\, r
- iver crossings\, and myriad of other obstacles. Innovations in suspension\
- , chassis\, and drivetrain design lead us to victories and awards at our t
- hree annual national competitions.\n\nEvery year GT Off-Road unveils our n
- ewest vehicle once it's complete in order to showcase new design features 
- and their validations before we head to competition where we will be compe
- ting against more than 100 other schools and their vehicle designs. The un
- veiling is where we show our sponsors\, faculty\, and student body the res
- ults of their support and guidance manifested into our car. Give us a chan
- ce to show you how a professional racing team in a rigorous competition sc
- enario brings innovative ideas to the dirt.\n\nPlease RSVP for the unveili
- ng here: [2]\n\nCheck your email 2-3 days prior for an invite to the meeti
- ng!\n\nGT Off-Road (Baja SAE) is unveiling our new 2021 Car!\n\nGT Off-Roa
- d is a student competition team at Georgia Tech that participates in the B
- aja SAE design competition. Each year\, our team designs and builds a sing
- le seat off road vehicle that is capable of tackling mud pits\, rock climb
- s\, river crossings\, and myriad of other obstacles. Innovations in suspen
- sion\, chassis\, and drivetrain design lead us to victories and awards at 
- our three annual national competitions.\n\nEvery year GT Off-Road unveils 
- our newest vehicle once it's complete in order to showcase new design feat
- ures and their validations before we head to competition where we will be 
- competing against more than 100 other schools and their vehicle designs. T
- he unveiling is where we show our sponsors\, faculty\, and student body th
- e results of their support and guidance manifested into our car. Give us a
-  chance to show you how a professional racing team in a rigorous competiti
- on scenario brings innovative ideas to the dirt.\n\nPlease RSVP for the un
- veiling here: [2]\n\nCheck your e-mail 2-3 days prior for an invite to the
-  meeting!\n\nLinks:\n[0]  http://hg.gatech.edu/node/646132#0\n[1]  https:/
- /gatech.campuslabs.com/engage/event/7049916\n[2]  https://tinyurl.com/3ufw
- avyz\n[3]  https://bluejeans.com/186043034
-LOCATION:Love Atrium (771 Ferst Dr NW) and Online
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IAC's Annual Awards Luncheon
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210420T153000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210420T170000Z
-UID:http://hg.gatech.edu/node/644826#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nBe sure to save t
- he date for the Ivan Allen College of Liberal Arts' Annual Awards Lunchion
- \, to be held Tuesday\, April 20 from 11:30 a.m. to 1:00 p.m. Location TBD
- .\n\nLinks:\n[0]  http://hg.gatech.edu/node/644826#0
-LOCATION:Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Food4Lives Service with CCF
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210420T173000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210420T193000Z
-UID:http://hg.gatech.edu/node/643371#12
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nServing with a local organization\, Food4Lives\, to 
- prepare\, pack\, and distribute food to our friends on the streets of Atla
- nta.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643371#12\n[1]  http://www.
- gtccf.org/compassion/
-LOCATION:CCF\, 767 Techwood Drive NW
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WST Learning Community dinner discussion: Dr. Nashlie Sephus\, Ama
- zon
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210420T213000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210420T223000Z
-UID:http://hg.gatech.edu/node/645231#0
-DESCRIPTION:Intended audience: Graduate students\, Postdoc\, Public\, Unde
- rgraduate students\nExtras: Free food\nStatus: published\n\nOn Tuesday\, A
- pril 20\, 2021\, 5:30-6:30pm\, the WST Learning Community will welcome Dr.
-  Nashlie Sephus\, who will speak about her career after earning her PhD in
-  ECE from Georgia Tech. Dinners will be available in Stein for current res
- idents. The virtual event is open to the Georgia Tech community: https://b
- luejeans.com/504482582 [1]\n\nBiography: Dr. Nashlie H. Sephus is the Appl
- ied Science manager for Amazon’s Artificial Intelligence (AI) initiative
- \, focusing on fairness and identifying biases in the technologies. She fo
- rmerly led the Amazon Visual Search team in Atlanta\, which launched visua
- l search for replacement parts on the Amazon Shopping app in June 2018. Th
- is technology was a result of former startup Partpic (Atlanta) being acqui
- red by Amazon\, for which she was the Chief Technology Officer (CTO). Prio
- r to working at Partpic\, she received her Ph.D. from the School of Electr
- ical and Computer Engineering at the Georgia Institute of Technology in 20
- 14 and worked for a year with Exponent technical consulting firm in New Yo
- rk City. Her core research areas were digital signal processing\, machine 
- learning\, and computer engineering. She received her B.S. in Computer Eng
- ineering from Mississippi State University (2007).\n\nDr. Sephus is a nati
- ve of Jackson\, Mississippi and a 2003 graduate of Murrah High School/Powe
- r Academic and Performing Arts Complex (APAC). She’s had several interns
- hips and research experiences worldwide with companies such as IBM\, Delph
- i\, University of California at Berkeley\, GE Research Center\, GE Energy\
- , Miller Transporters\, and Kwangwoon University in Seoul\, South Korea. R
- ecently\, Dr. Sephus became founder and CEO of The Bean Path [2] non-profi
- t organization based in Jackson\, MS assisting individuals with technical 
- expertise and guidance. During her leisure time\, she enjoys playing tenni
- s\, playing the piano\, listening to music\, bargain hunting\, biking\, an
- d working on do-it-yourself (DIY) projects at home.\n\nIn 2020 Nashlie rec
- eived the National Women's Empowerment Ministry's Innovator of the Year Aw
- ard. See more details about her at http://www.phenomenash.org/about-nashli
- e/\n\nLinks:\n[0]  http://hg.gatech.edu/node/645231#0\n[1]  https://nam12.
- safelinks.protection.outlook.com/?url=https%3A%2F%2Fbluejeans.com%2F504482
- 582&data=04%7C01%7Ccarol.colatrella%40lmc.gatech.edu%7Ca4e8943e32714694e3d
- 908d8d74df19d%7C482198bbae7b4b258b7a6d7f32faa083%7C0%7C0%7C637496077055562
- 053%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik
- 1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=yIuHvJ256nkULxNXKK%2BUPKfZtL2qyEHHzL3beS
- Qyuho%3D&reserved=0\n[2]  https://www.thebeanpath.org/
-LOCATION:Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PhD Defense by Isabella Sanders
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210422T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210422T170000Z
@@ -14754,6 +14617,23 @@ LOCATION:Brittain Rec Room 217– located behind the Brittain Dining Hall
  on 649 Techwood Dr NW\, Atlanta\, GA 3031
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Caribbean Night at Whistle Bistro
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220420T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220421T010000Z
+UID:http://hg.gatech.edu/node/657448#0
+DESCRIPTION:Intended audience: Public\, Undergraduate students\nStatus: pu
+ blished\n\nWhistle Bistro is hosting Caribbean Night Wednesday\, April 20 
+ from 5-9pm featuring a special menu of island favorites including desserts
+  and drinks. Door rate is $15.99 per person.\n\nSpecial Menu\nBrown Stew O
+ xtails\nJerk chicken\nCurry Goat\nJerk Chicken Soup\nJack Fruit Stew\nBeef
+  Patties & Veggie Patties\nYellow rice\nRed Beans & Rice\nSteamed Cabbage\
+ nPlantains\nRasta Pasta with Curried Shrimp\nSeafood Salad\nJamaican Carro
+ ts\n\nCaribbean Deserts\nCoco Bread\nRum Cake\nSweet Potato Pudding\n\nCar
+ ibbean Drinks\nPineapple with Pina Colda\nJamaican Ginger Beer\nInfused Wa
+ ter\n\nLinks:\n[0]  http://hg.gatech.edu/node/657448#0
+LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dominion Energy Info Session
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220421T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220421T160000Z
@@ -15143,6 +15023,17 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  \nAbstract: TBA\n\nBio: TBA\n\nLinks:\n[0]  http://hg.gatech.edu/node/6541
  39#0\n[1]  https://research.gatech.edu/nano/nanotechseminars
 LOCATION:Marcus Nanotechnology Building 1116-1118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leadership Fellows Recognition Event
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220426T213000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220426T230000Z
+UID:https://gatech.campuslabs.com/engage/event/8075979
+DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin LEAD as we recogni
+ ze and celebrate our fellows for all their dedication and hard work!\n\nTu
+ esday\, April 26 | 5:30-7 pm\n\nBrittain Rec Classroom\n\nDinner will be s
+ erved.\n\nLinks:\n[0]  https://gatech.campuslabs.com/engage/event/8075979
+LOCATION:Brittain Rec Classroom
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WCF Free Dinner
