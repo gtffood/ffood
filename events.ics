@@ -2,145 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:PhD Defense by Isabella Sanders
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210422T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210422T170000Z
-UID:http://hg.gatech.edu/node/646311#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nStatus: published\n\nThesis Title: Hyperconnecte
- d Fresh Supply Chains: Logistics & Market Expansion Frameworks\n\nAdvisor:
- \n\nDr. Benoit Montreuil\, School of Industrial and Systems Engineering\, 
- Georgia Tech\n\nCommittee Members:\n\nDr. Alan Erera\, School of Industria
- l and Systems Engineering\, Georgia Tech\n\nDr. Chelsea (Chip) White\, Sch
- ool of Industrial and Systems Engineering\, Georgia Tech\n\nDr. Pascal Van
-  Hentenryck\, School of Industrial and Systems Engineering\, Georgia Tech\
- n\nDr. Walid Klibi\, Kedge Business School\, Bordeaux\, France\n\nDate and
-  Time: April 22 nd\, 2021 11:00 AM\n\nMeeting URL: [1]\n\nMeeting ID: 7027
- 25249\n\nAbstract:\n\nThis thesis contributes novel frameworks that utiliz
- e transdisciplinary approaches to Fresh Supply Chain and Logistics Problem
- s via Operations Research\, GIS and Strategic Management. These fresh supp
- ly chain frameworks help build market deployment roadmaps\, hub location i
- n local supply chains and sustainable logistics strategies. Our study help
- s to provide solution approaches that are directly implementable in Indust
- ry.\n\nChapter 1:\n\nIn Chapter 1\, we address the increasing corporate pr
- essure to be environmentally sustainable. Fresh supply chains face special
-  considerations with decay and loss of quality in perishable products that
-  can occur in transit. We provide a logistics framework that both supplier
- s and purchasers can utilize to improve the sustainability of their supply
-  chain. We employ customer segmentation\, decay & quality modeling\, and l
- ife cycle analysis (LCA) to help companies rethink their logistics strateg
- ies to better align with environmentally sustainable practice. In this cha
- pter\, we apply our framework to case studies concerning fresh cut flowers
-  and quick service restaurants.\n\nChapter 2:\n\nIn Chapter 2\, we propose
-  a market deployment framework which outlines a company’s dynamic expans
- ion plan. We build a complementary solution approach that is made up of Ex
- ecutive Factors\, Market Ranking\, Optimization and Heuristic Models with 
- Dynamic Capabilities. This framework results in a series of alternative so
- lution roadmaps that identify which markets should be deployed in each tim
- e phase over a given time horizon. We apply our framework to a case study 
- of a platform which enables local food supply chains by connecting farmers
-  directly to restaurants.\n\nChapter 3:\n\nIn Chapter 3\, we provide a Hyb
- rid OR & GIS methodological framework to the Dynamic (Mobile) Hub Location
-  Problem in the context of a small-scale local food supply chain network. 
- In our hybrid approach\, we formulate our network as a p-hub median proble
- m alongside the use of Kernel Density Analysis for hub placement in the ne
- twork in the case of p = 1. We evaluate our hub effectiveness through a co
- mparison between historical distribution flows (without a mobile hub)\, ex
- pected stagnant hub routes and expected mobile hub routes (both via TSP He
- uristics utilizing real road distance).\n\nSincerely\,\n\nIsabella Sanders
- \n\nPh.D. Candidate Industrial Engineering - Supply Chain Engineering Trac
- k\n\nLinks:\n[0]  http://hg.gatech.edu/node/646311#0\n[1]  https://bluejea
- ns.com/702725249
-LOCATION:Atlanta\, GA\; REMOTE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PhD Defense by Dorsa Elmi
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210422T180000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210422T200000Z
-UID:http://hg.gatech.edu/node/646166#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nStatus: published\n\nPh.D. Thesis Defense Announ
- cement\n\nNavigating through space in turbulence tubes: Copepod responses 
- to Burgers vortex\n\nby\n\nDorsa Elmi\n\nAdvisor(s):\n\nDr. Donald Webster
-  (CEE)\n\nCommittee Members:\n\nDr. David Fields (Bigelow Laboratory for O
- cean Sciences)\, Dr. Chris Lai (CEE)\, Dr. Philip Roberts (CEE)\, Dr. Jean
- nette Yen (School of Biological Sciences)\n\nDate & Time: April 22nd\, 202
- 1 2:00 pm EDT\n\nLocation: [1]\n\nA physical model of a Burgers vortex was
-  created in the laboratory with characteristics corresponding to dissipati
- ve-scale eddies that copepods are likely to encounter in turbulent flows. 
- Tomographic particle image velocimetry (PIV) experiments quantified the ve
- locity field of vortices to target the small-scale structure of turbulent 
- flows corresponding to dissipation rates of 0.002 to 0.25 cm2/s3. The swim
- ming behavior of three marine copepod species is assessed as a function of
-  vortex strength (and size) in and around the flow structure with the vort
- ex axis aligned vertically and horizontally in the water. The studied spec
- ies are Acartia tonsa\, an estuarine copepod with a hop-sink swimming styl
- e\; Temora longicornis\, a coastal copepod with a cruise swimming style\; 
- and Calanus finmarchicus\, an open ocean copepod with a cruise-sink swimmi
- ng style. The results show that copepods change their swimming behavior wi
- th the intensity of the Burgers vortex and reveal species-specific respons
- es in nearly all kinematic parameters. A. tonsa and C. finmarchicus exhibi
- ted the strongest behavioral response to increasing vortex strength and T.
-  longicornis exhibited the weakest response. A. tonsa and T. longicornis s
- howed no response to changes in vortex orientation\, whereas C. finmarchic
- us revealed some orientation dependence. One common behavior among the spe
- cies is that the swimming trajectory shape becomes increasingly curved and
-  spiral around the vortex core with increasing vortex strength\, which pro
- vides a means of local aggregation and increased encounter rate with food 
- and mates. The results are interpreted in relation to differences in swimm
- ing style and setal morphology among the species. The results provide insi
- ght to the habitats in which the copepods live as well as their vertical d
- istribution in the water column relative to turbulence intensity. This com
- parative study between species highlights that variations in turbulence in
- tensity in the ocean can influence the dynamics of copepods and the ecolog
- y of marine species.\n\nLinks:\n[0]  http://hg.gatech.edu/node/646166#0\n[
- 1]  https://bluejeans.com/275523893
-LOCATION:Atlanta\, GA\; REMOTE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ideas to Serve Awards Ceremony
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210422T210000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210422T220000Z
-UID:http://hg.gatech.edu/node/646571#0
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nExtras: Free food\nStatus: published\n\nJoin the Institute for Leadership
-  and Social Impact in a celebration of our students and community partners
-  who work on pressing social and environmental issues in our communities. 
- (Please note that this year\, due to COVID safety measures\, this event is
-  by invitation only)\n\nThis year many of the I2S teams worked closely wit
- h amazing community partners - nonprofits and civic leaders - to support t
- heir problem discovery and solutions mapping process.\n\nA big thanks to o
- ur partners: Carrie’s Closet [01]\, Grove Park [02] Neighborhood Associa
- tion\, Life School [03]\, LISC [04]\, Ubuntu [05] Community Catalyst\, Wun
- dergrubs [06]\, and Housing Tonight. [07]\n\nCheck out what social and env
- ironmental issues they are working on - read project summaries on the I2S 
- Teams page [08] and watch their short videos.\n\nCongratulations to the Wi
- nners!\n\nSee what is new this year for I2S in our latest blog post. [09]\
- n\nFor a list of our amazing judges visit the I2S Judges Page. [10]\n\nThe
-  Ideas to Serve Competition would not be possible without the support of o
- ur generous sponsors. Thank you to The Cecil B. Day Program for Business E
- thics\, the Center for Serve-Learn-Sustain\, the Steven A. Denning Technol
- ogy & Management Program\, Tedd Munchak Chair in Entrepreneurship\, Center
-  for International Business Education and Research\, Ray C. Anderson Cente
- r for Sustainable Business\, LEAD Program\, Innovation and Design Collabor
- ative\, Mosley Ventures\, and Speechworks.\n\nParticipation in the Ideas t
- o Serve Competition fulfills the Final Deliverable requirement for the SLS
-  Innovating for Social Impact Program – a collaboration between the Inst
- itute for Leadership and Social Impact and the Center for Serve-Learn-Sust
- ain.\n\nLinks:\n[00]  http://hg.gatech.edu/node/646571#0\n[01]  https://ca
- rriesclosetofga.org/\n[02]  https://www.groveparkatlanta.com/\n[03]  http:
- //www.thelifeschool.co/\n[04]  https://www.lisc.org/?gclid=Cj0KCQiA6t6ABhD
- MARIsAONIYyyd8TPUMe9hrXP4Bq_6m9_NckDZgoG-ZVGHlwct9deEQOkO41CmH-UaAlnxEALw_
- wcB\n[05]  https://www.ubuntucommunitycatalyst.org/about_us.php\n[06]  htt
- ps://www.wundergrubs.com/\n[07]  https://www.housingtonightinc.com/\n[08] 
-  https://www.scheller.gatech.edu/centers-initiatives/ile/i2s/i2s-teams.htm
- l\n[09]  https://www.scheller.gatech.edu/centers-initiatives/ile/blog/post
- s/I2S-Season-Opener.html\n[10]  https://www.scheller.gatech.edu/centers-in
- itiatives/ile/i2s/i2s-judges.html\n[11]  https://www.scheller.gatech.edu/c
- enters-initiatives/ile/i2s/index.html
-LOCATION:Scheller College of Business Courtyard
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCF The Event
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210422T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210423T030000Z
@@ -15219,6 +15080,39 @@ DESCRIPTION:Extras: Free Food\nStatus: approved\n\nJoin us for free coffee
 LOCATION:Catholic Center Lobby
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cinco de Mayo Party
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220502T200000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220503T013000Z
+UID:http://hg.gatech.edu/node/657502#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
+ ents\nStatus: published\n\nStart your Cinco De May celebration early with 
+ dinner on Tuesday\, May 5 at North Avenue from 4 – 9:30pm.\n\nEntrance i
+ s a meal swipe or the door rate of $15.75 for an all-you-care-to-eat dinin
+ g experience.\n\nPizza Station\nChilaquiles\nLoaded nachos\n-roasted veget
+ ables\n-carne asada\n-roasted chicken\n\nTechwich\nTortas\nNopales\, porta
+ bellos\, plant-based chicken torta\nBreaded pork torta\n\nHTML Eats\nTaco 
+ Bar\nBarbacoa\nChick’n tinga\nGreen chili pork\nLengua\nSoft shell torti
+ lla\nHard shell tortilla\nSkillet rice and beans with corn and tomatoes\nR
+ oasted chayote squash with peppers and onions\n\nFirewall Grill\nLamb birr
+ ia tacos\nQuesadillas (shrimp or chicken)\nYucca fries\nSeasoned fries\n\n
+ Stuffed Burritos\nal pastor\, steak\, chicken\, beans\, rice\, tofu\, mush
+ rooms\, nopales\n\nPasta Station\n\nElote bar\nLime mayo\nCotija cheese\nH
+ ot Cheetos\nCilantro\n\nInternational Import\nChicken tamales\nPork tamale
+ s\nCod Vera Cruz\nRoasted sweet potato and quinoa\nRefried beans\nChicken 
+ mole\n\nFresh Cuts Salad Bar\n7 layer dip\nShrimp ceviche\nTortilla chips\
+ nTomatillo salsa\nFire roasted tomato salsa\nPico de gallo\nLimes\nCilantr
+ o/onions\nQueso fresco\nGuacamole\nTortilla chips\n\nSoup\nTortilla\nMenud
+ o\n\nMindful Bytes\n\nPozole Bar\nRoasted chicken\nPork shoulder\nRice\nHo
+ miny\nPork broth\nVegan broth\nCilantro\nJicama slaw\nCabbage\nLime wedges
+ \nDiced onion\nRadish\n\nDrinks\nHorchata\nAgua frescas\nMock Margaritas\n
+ Jarritos\n\nVega-Byte\nEscabeche\nPickled onions\nCabbage slaw\nCucumbers\
+ nRadish/carrots\nPickled jicama salad\nRed quinoa with corn and chiles\nTa
+ male pie with roasted tomatoes and beans\nCauliflower\, chickpea mole\n\nC
+ adfections\nVasos de Fruta Bar (Mexican fruit cups)\nAssorted desserts\n\n
+ Links:\n[0]  http://hg.gatech.edu/node/657502#0
+LOCATION:North Avenue Dining Hall
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Spring 2022 President's Graduation Celebration
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220505T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220505T180000Z
@@ -15234,6 +15128,22 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
  /node/654454#0\n[1]  https://commencement.gatech.edu/presidents-graduation
  -celebration
 LOCATION:Tech Green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:9th Annual BioE Day
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220513T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220513T210000Z
+UID:http://hg.gatech.edu/node/657508#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nCelebrating the 3
+ 0th anniversary of IBB's interdisciplinary Bioengineering program.\n\nPres
+ entations from 2022 BioE Award Winners\, featured BioE Alum Seminar\, Rapi
+ d Fire Thesis Competition\, and Outstanding Abstract Presentations. Lunch 
+ to be served.\n\nBioE Day Website [1]\n\nOpen to all Bioengineering Studen
+ ts and Faculty!\n\nLinks:\n[0]  http://hg.gatech.edu/node/657508#0\n[1]  h
+ ttps://bioengineering.gatech.edu/9th-annual-bioe-day-may-13-2022
+LOCATION:Petit Institute Biotech Building (IBB) - 315 Ferst Drive\, Atlant
+ a\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regenerative Engineering and Medicine Annual Retreat
