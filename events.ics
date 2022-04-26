@@ -15068,6 +15068,43 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
 LOCATION:North Avenue Dining Hall
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Georgia Tech Quantum Alliance Workshop
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220504T130000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220504T193000Z
+UID:http://hg.gatech.edu/node/657539#0
+DESCRIPTION:Intended audience: Faculty/Staff\nExtras: Free food\nStatus: p
+ ublished\n\nProgram\n\n9:00 a.m. - 9:15 a.m. - Welcome Martin Mourigal and
+  Alexa Harter\n9:15 a.m. - 9:40 a.m. - Colin Parker (Physics) Invited Talk
+ \n9:40 a.m. - 10:05 a.m. - Ali Adibi (ECE) Invited Talk\n10:05 a.m. - 10:3
+ 0 a.m. - Coffee Break\n10:30 a.m. - 11:30 a.m. - Student Session I\n\n- Vi
+ ctoria Quiros (MSE): “Towards controlling strong light-matter coupling v
+ ia microcavity design”\n- Prasanna Ravindran (ECE): “Quantum phase tra
+ nsitions in ferroelectric-paraelectric heterostructures”\n- Chenzhe Wang
+  (ME): “Realization of the mechanical quantum tunneling junction”\n- F
+ atima Chrit (ME) “Quantum lattice gas algorithms for solving PDEs”\n- 
+ Sami Hakani (Physics): ”Optical Signatures for Fractional Excitations in
+  Quantum Liquid Candidate Ba4Ir3O10”\n\n11:30 a.m. - 11:55 a.m. - Bob Wy
+ llie (GTRI) Invited Talk\n11:55 a.m. - 12:20 p.m. - Poulami Das (CS) and M
+ oin Qureshi (CS) Invited Talk\n12:30 p.m. - 1:15 p.m. - Lunch and coffee f
+ or all participants\n1:15 p.m. - 2:00 p.m. - Faculty Presentations (2 minu
+ tes each) and discussions\n2:00 p.m. - 3:00 p.m. - Student Session II\n\n-
+  Austin Adams (CS): “Enabling a Programming Environment for an Experimen
+ tal Ion Trap Quantum Testbed”\n- Aaron Sthal (Physics): “Wavefunction 
+ completion: reconstructing quantum states from a subset of randomly sample
+ d coefficients”\n- Alisha Vira (Physics): ”Effective g-factor and phas
+ e-coherent transport in InAsSb/InSb double quantumwells”\n- Cooper Voigt
+  (MSE): “Molecular BeamEpitaxy of In2Se3 “Molecular BeamEpitaxy"\n- Ar
+ un Ramanathan (Chemistry) ”Quantummagnetismof lanthanides” (Remote)\n\
+ n3:00 p.m. - 3:30 p.m. - Discussions and Adjourn\n\nRegistration Form [1]\
+ n\nThe Georgia Tech Quantum Alliance is a program supported by the Institu
+ te for Electronics and Nanotechnology and GTRI.\n\nLinks:\n[0]  http://hg.
+ gatech.edu/node/657539#0\n[1]  https://forms.office.com/pages/responsepage
+ .aspx?id=u5ghSHuuJUuLem1_Mvqgg0z_GwJiKYdBqGSnKjl415pUQ1g0WDhKSUVYN1lBQ01HN
+ 1RRU0tZREo1Vi4u\n[2]  https://bme.gatech.edu/bme/marcus-nanotechnology-bui
+ lding
+LOCATION:Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Spring 2022 President's Graduation Celebration
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220505T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220505T180000Z
