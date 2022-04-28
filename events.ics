@@ -2,59 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:CCF Trivia Lunch
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210426T154500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210426T174500Z
-UID:http://hg.gatech.edu/node/643999#10
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nFree lunch and trivia every Monday! All lunches are 
- pre-packaged in to-go boxes\, and seating is available in a safe\, sociall
- y distant fashion inside and outside. Trivia begins at 11:50 a.m. and 12:5
- 0 p.m.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643999#10\n[1]  https://l
- inktr.ee/gtccf
-LOCATION:Christian Campus Fellowship (CCF)\, 767 Techwood Dr. NW
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trivia Lunch
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210426T154500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210426T174500Z
-UID:https://gatech.campuslabs.com/engage/event/6891750
-DESCRIPTION:Extras: Free Food\nStatus: approved\n\nFree lunch and trivia e
- very Monday! All lunches are pre-packaged in to-go boxes\, and seating is 
- available in a safe\, socially distant fashion inside and outside. Trivia 
- begins at 11:50am and 12:50pm.\n\nLinks:\n[0]  https://gatech.campuslabs.c
- om/engage/event/6891750
-LOCATION:Christian Campus Fellowship (CCF)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Taste of Tech Dining Preview
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210427T150000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210427T180000Z
-UID:http://hg.gatech.edu/node/646918#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Public\
- , Undergraduate students\nExtras: Free food\nStatus: published\n\nTech Din
- ing is bringing a completely overhauled and re-engineered culinary experie
- nce to campus this fall. On Tuesday\, try food from more than 30 vendors w
- ho are being considered for partnerships and let us know what you think! S
- ample food and beverages ranging from coffee and donuts to local restauran
- ts and national brands. We want you to tell us which options should be ava
- ilable on campus next year.\n\nLinks:\n[0]  http://hg.gatech.edu/node/6469
- 18#0\n[1]  https://georgiatech.campusdish.com/
-LOCATION:Instructional Center Lawn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Food4Lives Service with CCF
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210427T173000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210427T193000Z
-UID:http://hg.gatech.edu/node/643371#13
-DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
- nStatus: published\n\nServing with a local organization\, Food4Lives\, to 
- prepare\, pack\, and distribute food to our friends on the streets of Atla
- nta.\n\nLinks:\n[0]  http://hg.gatech.edu/node/643371#13\n[1]  http://www.
- gtccf.org/compassion/
-LOCATION:CCF\, 767 Techwood Drive NW
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fuel for Finals
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210428T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210428T200000Z
@@ -15000,6 +14947,28 @@ DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
 LOCATION:Check GroupMe
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GT Global Graduation Party
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220429T173000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220429T190000Z
+UID:http://hg.gatech.edu/node/657673#0
+DESCRIPTION:Intended audience: Graduate students\, Undergraduate students\
+ nStatus: published\n\nOIE congratulates our graduating international stude
+ nts! This event is open to International F and J students graduating in Sp
+ ring 2022. Graduating students should RSVP for the event here: [1]\n\nAtte
+ ndees will enjoy high quality snacks and desserts\, a unique photo op with
+  Buzz\, an opportunity to celebrate your accomplishments\, and leave your 
+ mark on GT. There is no dress code\, but we encourage students to wear the
+ ir caps and gowns for the photo op. As a reception\, you are welcome to co
+ me and go as your schedule allows\, but the event will end at 3:30PM. We w
+ ill go live on Instagram for any family and friends who wish to join the f
+ estivities.\n\nWe are encouraging all graduates to share on Instagram thei
+ r experiences or accomplishments while studying at Georgia Tech. If you po
+ st using the hashtag #GTGlobalGrads\, we will reshare these surrounding th
+ e event.\n\nLinks:\n[0]  http://hg.gatech.edu/node/657673#0\n[1]  https://
+ gatech.campuslabs.com/engage/event/8018139
+LOCATION:Clough Rooftop Garden
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Catholic Student Organization Swing Dance
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220429T233000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220430T013000Z
@@ -15066,6 +15035,31 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
  adfections\nVasos de Fruta Bar (Mexican fruit cups)\nAssorted desserts\n\n
  Links:\n[0]  http://hg.gatech.edu/node/657502#0
 LOCATION:North Avenue Dining Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCPC presents: Midnight Breakfast 2022!
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220503T010000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220503T035900Z
+UID:http://hg.gatech.edu/node/657640#0
+DESCRIPTION:Status: published\n\nMidnight Breakfast is back and it's on Mo
+ nday\, May 2nd at the Exhibition Hall from 9PM - 12 AM!\n\nCome in your pa
+ jamas for a breakfast style late night study break\, where Georgia Tech le
+ adership and administrators will cheer you on and serve food to fuel you a
+ s you finish up finals! Students are invited to take an intentional study 
+ break and eat their meal around the Student Center Pavilion before getting
+  back to studying. We are excited to host this event in partnership with G
+ T Catering and bring back a more traditional Midnight Breakfast menu! This
+  year’s menu will include: Eggs\, Bacon or Beyond Meat Sausage\, Potatoe
+ s\, Grits\, Pastries\, and Fruit! Breakfast style and cold beverages will 
+ also be served.\n\nIf you have any dietary restriction\, we have accommoda
+ tions for you. Please indicate it when you reserve your time ticket and ta
+ lk to a volunteer when you arrive to the event!\n\nPlease keep in mind tha
+ t there are limited tickets and students are required to present their tic
+ ket at the door. Tickets will go live on Thursday\, April 28th at 9:00am.\
+ n\nIf you have any questions or need any accommodations\, please email ram
+ blin@scpc.gatech.edu [1].\n\nGet your tickets bit.ly/campustickets!\n\nLin
+ ks:\n[0]  http://hg.gatech.edu/node/657640#0\n[1]  ramblin@scpc.gatech.edu
+LOCATION:Exhibition Hall
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Georgia Tech Quantum Alliance Workshop
@@ -15171,5 +15165,101 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  .com/\n[4]  https://www.emoryconferencecenter.com/
 LOCATION:Emory Conference Center Hotel - 1615 Clifton Road\, Atlanta\, GA 
  30329
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring 2022 IEN Micro-Fabrication Short Course
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220525T130000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220525T203000Z
+UID:http://hg.gatech.edu/node/657617#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nThe Institute for
+  Electronics and Nanotechnology (IEN) at Georgia Tech will offer a short c
+ ourse on micro-fabrication from May 25th - 27th\, 2022. This in­tensive t
+ hree-day short course combines classroom lectures and laboratory based han
+ ds-on fabrication in the IEN cleanroom. The goal of the course is to impar
+ t a basic understanding of the science and technology of micro-fabrication
+  processes as used in academia and industry.\n\nThis short course will cov
+ er essential micro-fabrication techniques including\, photolithography\, t
+ hin film deposition\, etching\, packaging\, and characterization. Attendee
+ s will gain valuable experience by fabricating simple devices in one of th
+ e most advanced uni­versity cleanrooms in North America.\n\nTarget Audien
+ ce\n\nAttendance is open to the general technical community and is not lim
+ ited to current Georgia Tech students or IEN users. Anyone interested in c
+ leanroom fabrication techniques is strongly encouraged to attend this cour
+ se. The course is suitable for both new and experienced researchers intere
+ sted in micro-fabrication techniques and applications.\n\nA course emphasi
+ s will be placed on IEN cleanroom resources\, however\, the concepts and t
+ echniques discussed are applicable to a broad array of research in this fi
+ eld.\n\nRates: *Rates include lunches on all days*\n\nGeorgia Tech Rate: $
+ 200\nAcademic and Government Rate: $400\nIndustry Rate: $800\n\nREGISTER H
+ ERE [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/657617#0\n[1]  http://ev
+ ents.r20.constantcontact.com/register/event?oeidk=a07ej60z4uo6a12cdec&llr=
+ m48bm8rab\n[2]  https://bme.gatech.edu/bme/marcus-nanotechnology-building
+LOCATION:Marcus Nanotechnology Building\, 345 Ferst Drive\, Atlanta GA 303
+ 32
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring 2022 IEN Micro-Fabrication Short Course
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220526T130000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220526T203000Z
+UID:http://hg.gatech.edu/node/657617#1
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nThe Institute for
+  Electronics and Nanotechnology (IEN) at Georgia Tech will offer a short c
+ ourse on micro-fabrication from May 25th - 27th\, 2022. This in­tensive t
+ hree-day short course combines classroom lectures and laboratory based han
+ ds-on fabrication in the IEN cleanroom. The goal of the course is to impar
+ t a basic understanding of the science and technology of micro-fabrication
+  processes as used in academia and industry.\n\nThis short course will cov
+ er essential micro-fabrication techniques including\, photolithography\, t
+ hin film deposition\, etching\, packaging\, and characterization. Attendee
+ s will gain valuable experience by fabricating simple devices in one of th
+ e most advanced uni­versity cleanrooms in North America.\n\nTarget Audien
+ ce\n\nAttendance is open to the general technical community and is not lim
+ ited to current Georgia Tech students or IEN users. Anyone interested in c
+ leanroom fabrication techniques is strongly encouraged to attend this cour
+ se. The course is suitable for both new and experienced researchers intere
+ sted in micro-fabrication techniques and applications.\n\nA course emphasi
+ s will be placed on IEN cleanroom resources\, however\, the concepts and t
+ echniques discussed are applicable to a broad array of research in this fi
+ eld.\n\nRates: *Rates include lunches on all days*\n\nGeorgia Tech Rate: $
+ 200\nAcademic and Government Rate: $400\nIndustry Rate: $800\n\nREGISTER H
+ ERE [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/657617#1\n[1]  http://ev
+ ents.r20.constantcontact.com/register/event?oeidk=a07ej60z4uo6a12cdec&llr=
+ m48bm8rab\n[2]  https://bme.gatech.edu/bme/marcus-nanotechnology-building
+LOCATION:Marcus Nanotechnology Building\, 345 Ferst Drive\, Atlanta GA 303
+ 32
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring 2022 IEN Micro-Fabrication Short Course
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220527T130000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220527T203000Z
+UID:http://hg.gatech.edu/node/657617#2
+DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
+ \, Public\, Undergraduate students\nStatus: published\n\nThe Institute for
+  Electronics and Nanotechnology (IEN) at Georgia Tech will offer a short c
+ ourse on micro-fabrication from May 25th - 27th\, 2022. This in­tensive t
+ hree-day short course combines classroom lectures and laboratory based han
+ ds-on fabrication in the IEN cleanroom. The goal of the course is to impar
+ t a basic understanding of the science and technology of micro-fabrication
+  processes as used in academia and industry.\n\nThis short course will cov
+ er essential micro-fabrication techniques including\, photolithography\, t
+ hin film deposition\, etching\, packaging\, and characterization. Attendee
+ s will gain valuable experience by fabricating simple devices in one of th
+ e most advanced uni­versity cleanrooms in North America.\n\nTarget Audien
+ ce\n\nAttendance is open to the general technical community and is not lim
+ ited to current Georgia Tech students or IEN users. Anyone interested in c
+ leanroom fabrication techniques is strongly encouraged to attend this cour
+ se. The course is suitable for both new and experienced researchers intere
+ sted in micro-fabrication techniques and applications.\n\nA course emphasi
+ s will be placed on IEN cleanroom resources\, however\, the concepts and t
+ echniques discussed are applicable to a broad array of research in this fi
+ eld.\n\nRates: *Rates include lunches on all days*\n\nGeorgia Tech Rate: $
+ 200\nAcademic and Government Rate: $400\nIndustry Rate: $800\n\nREGISTER H
+ ERE [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/657617#2\n[1]  http://ev
+ ents.r20.constantcontact.com/register/event?oeidk=a07ej60z4uo6a12cdec&llr=
+ m48bm8rab\n[2]  https://bme.gatech.edu/bme/marcus-nanotechnology-building
+LOCATION:Marcus Nanotechnology Building\, 345 Ferst Drive\, Atlanta GA 303
+ 32
 END:VEVENT
 END:VCALENDAR
