@@ -2,57 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:Scheller Lunchtime Live: Drawdown Georgia – Bringing Climate Sol
- utions Home
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210430T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210430T163000Z
-UID:http://hg.gatech.edu/node/643638#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
- \, Public\, Undergraduate students\nStatus: published\n\nScheller Lunchtim
- e Live is a livestream series hosted by the Georgia Tech Scheller College 
- of Business featuring faculty\, student\, and alumni speakers discussing r
- elevant topics for the tech-driven\, digital age.\n\nIn this episode\, Pro
- fessor Beril Toktay talks about Drawdown Georgia\, the first state-centere
- d effort to crowd-solve for climate change. It utilizes the framework of P
- roject Drawdown\, a global non-profit that aims to help the world reach th
- e point when levels of greenhouse gases in the atmosphere stop climbing an
- d start to steadily decline. Join Professor Beril Toktay as she discusses 
- how the state of Georgia is using innovation to build a better future.\n\n
- Just hit "Attend event" on the LinkedIn event and visit the Georgia Tech S
- cheller College of Business page on Friday\, April 30 at 12:00 p.m. ET to 
- access the session.\n\nAbout Beril Toktay\n\nBeril Toktay is Professor of 
- Operations Management\, Brady Family Chairholder. Her primary research are
- as are sustainable operations and supply chain management. Professor Tokta
- y's research has been funded by several National Science Foundation grants
-  and has received distinctions such as the 2010 Brady Family Award for Fac
- ulty Research Excellence and the MSOM Society's 2015 Management Science Be
- st Paper in Operations Management Award. Her research articles have appear
- ed in Management Science\, M&SOM\, Operations Research\, Production and Op
- erations Management and Industrial Ecology. She became a Distinguished Fel
- low of the MSOM Society in 2017.\n\nProfessor Toktay has taught Supply Cha
- in Management courses at the PhD\, MBA\, and Executive Education levels as
-  well as Operations Management and Operations Research courses at the PhD 
- level. She has developed cases and pedagogical material for MBA and Execut
- ive Education audiences and co-curricular educational initiatives at the u
- ndergraduate level. She currently teaches Business Strategies for Sustaina
- bility in MBA and Executive Education programs. She's a recipient of the 2
- 016 Ernest Scheller Jr. Award for Service Excellence and the Georgia Tech 
- 2015 Women of Distinction Award.\n\nProfessor Toktay served as Associate E
- ditor for M&SOM (2007-2018)\, POM (2009-2013)\, and Management Science (20
- 11-2017)\, and Area Editor (Environment\, Energy and Sustainability) for O
- perations Research (2012-2018). She co-edited the M&SOM Special Issue on t
- he Environment. She was the President of the MSOM Society and VP of Financ
- e of the POM Society. At Georgia Tech\, she serves as the Scheller College
-  of Business ADVANCE Professor\, a role that is focused on supporting the 
- advancement of women and underrepresented minorities in academia. She is t
- he founding Faculty Director of the Ray C. Anderson Center for Sustainable
-  Business and the co-architect and Executive Co-Director of Georgia Tech's
-  Serve.Learn.Sustain Quality Enhancement Plan.\n\nLinks:\n[0]  http://hg.g
- atech.edu/node/643638#0\n[1]  https://www.linkedin.com/events/676094875975
- 3965568/
-LOCATION:Atlanta\, GA
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PhD Defense by Seyed Alireza Zamani Dahaj
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210504T190000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210504T210000Z
@@ -15221,5 +15170,32 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  m48bm8rab\n[2]  https://bme.gatech.edu/bme/marcus-nanotechnology-building
 LOCATION:Marcus Nanotechnology Building\, 345 Ferst Drive\, Atlanta GA 303
  32
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fall Student Organizations Fair
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220830T150000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220830T170000Z
+UID:https://gatech.campuslabs.com/engage/event/8091789
+DESCRIPTION:Extras: Credit\, Free Food\nStatus: approved\n\nThis event ful
+ fills a requirement of the GOLD Route. To learn more about the GOLD Route\
+ , click here. [1]\n\nEach semester\, the Center for Student Engagement hos
+ ts the Student Organizations Fair which provides new and returning Yellow 
+ Jackets an opportunity to connect with our 550+ Registered Student Organiz
+ ations.\n\nThis is a great opportunity to meet organization leaders and ki
+ ck-start your involvement at Georgia Tech!\n\nDownload the CORQ App [2] an
+ d present it at the Student Engagement Tent to receive a free treat!\n\nFr
+ equently Asked Questions\n\nHow do I register my organization to table at 
+ the fair? Visit our website for complete information on registration and o
+ ther recruitment activities. [3]\n\nWhat if there is bad weather during th
+ e fair? The rain dates for this event are Tuesday\, September 6 - Wednesda
+ y\, September 7.\n\nWhat is the CORQ app? CORQ\, powered by Engage\, is yo
+ ur one stop shop for student organization events and programs on campus [2
+ ]. By downloading the app\, you also can save your Event Pass to your Appl
+ e Wallet/Google Pay for easy check-in to events on campus!\n\nLinks:\n[0] 
+  https://gatech.campuslabs.com/engage/event/8091789\n[1]  https://student-
+ organizations.gatech.edu/content/gold-route\n[2]  https://student-organiza
+ tions.gatech.edu/content/get-connected-stay-engaged\n[3]  https://student-
+ organizations.gatech.edu/fall-summer-engagement-opportunities
+LOCATION:Tech Green
 END:VEVENT
 END:VCALENDAR
