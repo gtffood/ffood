@@ -2,58 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//GT calendar 1.1//
 BEGIN:VEVENT
-SUMMARY:PhD Defense by Seyed Alireza Zamani Dahaj
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20210504T190000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20210504T210000Z
-UID:http://hg.gatech.edu/node/647168#0
-DESCRIPTION:Intended audience: Faculty/Staff\, Public\, Undergraduate stud
- ents\nStatus: published\n\nIn partial fulfillment of the requirements for 
- the degree of\n\nDoctor of Philosophy in Quantitative Biosciences\n\nin th
- e School of Physics\n\nSeyed Alireza Zamani Dahaj\n\nDefends his thesis:\n
- De novo evolution of macroscopic multicellularity and trait heritability i
- n major transitions.\n\nTuesday\, May 4\, 2021\n3:00pm Eastern Time\nVia B
- lueJeans: [1]\n\nAdvisor:\n\nProf. Peter J. Yunker\n\nSchool of Physics\n\
- nGeorgia Institute of Technology\n\nCo-Advisor:\nProf. William C. Ratcliff
- \n\nSchool of Biological Sciences\n\nGeorgia Institute of Technology\n\nCo
- mmittee Members:\nProf. Daniel B. Weissman\n\nDepartment of Physics\n\nEmo
- ry University\n\nProf. Raphael F. Rosenzweig\n\nSchool of Biological Scien
- ces\n\nGeorgia Institute of Technology\n\nProf. Joshua S. Weitz\n\nSchool 
- of Biological Sciences\n\nGeorgia Institute of Technology\n\nAbstract:\n\n
- Evolutionary Transitions in Individuality (ETIs) describe the history of t
- he increasing complexity of life and the emergence of hierarchical organiz
- ation in an elegant framework. Each transition is characterized by a group
-  of independent individuals coming together and forming a group that event
- ually can undergo Darwinian evolution and turns into a new individual leve
- l. One of the prominent examples of ETIs is the emergence of multicellular
- ity. In this thesis\, I address two key questions about the transition to 
- multicellularity: The emergence of heritability of higher-level traits and
-  its relationship to cell-level traits. First\, I discuss how the heritabi
- lity of newly-formed group traits emerges as groups emerge. We introduce a
-  simple theoretical model for calculating group-level trait heritability\,
-  where the trait is the linear function of a cell-level trait. For cases i
- n which the relationship is more complex than a linear function\, we devel
- oped a statistical simulation to model and explore different kinds of anal
- ytical functions based on biological examples of relationship between cell
- -level traits and collective-level traits. Finally\, using the snowflake y
- east model system we did an experiment that shows an ecologically relevant
- \, emergent trait in a nascent multicellular organism can have a higher he
- ritability across a range of conditions than the unicellular-level trait o
- n which it is based. The evolution of complex multicellularity presents an
-  apparent paradox: nascent multicellular organisms are thought to require 
- (relatively) large size to evolve complex traits\, but at the same time ma
- intaining large size requires complex organization at the cell and group l
- evels. This poses a chicken and egg problem between large size and cellula
- r development. Here\, we show that over the course of a year snowflake yea
- st can increase its size multiple orders of magnitude with minimal change 
- at the cell level by taking advantage of the physical properties of granul
- ar entangled materials. These results suggest that in the same way that ph
- ysically imposed geometric constraints can limit the size of clusters\, an
- -other innovations can lead to the emergence of a new biophysical mechanis
- m that changes the material properties of the clusters.\n\nLinks:\n[0]  ht
- tp://hg.gatech.edu/node/647168#0\n[1]  https://bluejeans.com/917049243
-LOCATION:Atlanta\, GA\; REMOTE
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Spring President's Graduation Celebration
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20210506T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20210506T180000Z
@@ -15076,6 +15024,35 @@ LOCATION:Emory Conference Center Hotel - 1615 Clifton Road\, Atlanta\, GA
  30329
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CIGars - Center for Integrative Genomics Advanced Research Seminar
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220518T160000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220518T170000Z
+UID:http://hg.gatech.edu/node/657883#0
+DESCRIPTION:Intended audience: Faculty/Staff\, Postdoc\nExtras: Free food\
+ nStatus: published\n\nThe Center for Integrative Genomics (CIG) holds a mo
+ nthly advanced research seminar (CIGars) with two presentations given by g
+ raduate students and post-docs. Each presentation is approximately 25 minu
+ tes with five minutes for questions. These talks are directed to graduate 
+ students and post-docs but are open to anyone who is interested in the top
+ ics.\n\n“ Elucidating Spatiotemporal Dynamics of Neuropathology in Cance
+ r Treatment "\n\nNick Housely\, [1] Postdoctoral Researcher\, Georgia Tech
+  – Tim Cope\, Ph.D.\, Advisor Georgia Tech & John McDonald\, Ph.D.\, Adv
+ isor Georgia Tech\n\n“Single-cell RNA Sequencing Reveals Emergence of Ce
+ ll Differentiation in Long-term Experimental Evolution of Multicellularity
+ "\n\nKai Tong [2]\, Ph.D. Graduate Student\, Quantitative Biosciences Ph.D
+ . Program Georgia Tech – William Ratcliff\, Ph.D.\, Advisor Georgia Tech
+ \n\nThis is a great opportunity to:\n\n- Improve your presentation skills 
+ as a speaker\n- Communicate science\, research\, and technology to an audi
+ ence with diverse backgrounds\n- Practice giving your talk for an upcoming
+  conference\, thesis defense\, or qualifying oral exams\n- Enjoy free lunc
+ h and hear about a wide range of work happening in the local bioscience co
+ mmunity\n\nLinks:\n[0]  http://hg.gatech.edu/node/657883#0\n[1]  https://m
+ cdonaldlab.biology.gatech.edu/nick-housley/\n[2]  https://biosciences.gate
+ ch.edu/people/kai-tong
+LOCATION:Engineered Biosystems Building (EBB)\, CHOA Seminar Room\, 950 At
+ lantic Drive NW\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Spring 2022 IEN Micro-Fabrication Short Course
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220525T130000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220525T203000Z
@@ -15170,6 +15147,33 @@ DESCRIPTION:Intended audience: Faculty/Staff\, Graduate students\, Postdoc
  m48bm8rab\n[2]  https://bme.gatech.edu/bme/marcus-nanotechnology-building
 LOCATION:Marcus Nanotechnology Building\, 345 Ferst Drive\, Atlanta GA 303
  32
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Civic Role of Universities in a Changing Educational Landscape
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220602T120000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220602T160000Z
+UID:http://hg.gatech.edu/node/657973#0
+DESCRIPTION:Intended audience: Public\nExtras: Free food\nStatus: publishe
+ d\n\nGeorgia Tech's Center for 21st Century Universities (C21U) invites yo
+ u to attend a half-day event\, " The Civic Role of Universities in a Chang
+ ing Educational Landscape."\n\nThis event will take place on June 2\, 2022
+  from 8:00 a.m. to 12:00 p.m. and will feature Ángel Cabrera (President\,
+  Georgia Institute of Technology)\, M. Brian Blake (President\, Georgia St
+ ate University)\, Gregory Fenves (President\, Emory University)\, and Stev
+ en McLaughlin (Provost\, Georgia Institute of Technology).\n\nThe event ag
+ enda includes a presidential panel discussion of the civic role of univers
+ ities in a changing educational landscape (with a focus on Atlanta)\; a pr
+ esentation on educational research at Georgia Tech and its critical role i
+ n the future of higher ed in Atlanta\, led by Steve Harmon (Interim Execut
+ ive Director\, C21U)\; and a discussion\, led by Ashok Goel (Chief Scienti
+ st\, C21U) of the key role that NSF-funded institutes like the National AI
+  Institute for Adult Learning and Online Education (AI-ALOE) play in the f
+ uture of universities.\n\nEvent Details:\n\nJune 2\, 2022 from 8:00 a.m. t
+ o 12:00 p.m.\n\nGlobal Learning Center (800 Spring St. NW)\n\nBreakfast an
+ d coffee buffet provided for attendees beginning at 8:00 a.m.\n\n*RSVP Req
+ uired.* RSVP\, here: [1]\n\nLinks:\n[0]  http://hg.gatech.edu/node/657973#
+ 0\n[1]  https://b.gatech.edu/3vXgDl4
+LOCATION:Global Learning Center (800 Spring St. NW)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fall Student Organizations Fair
